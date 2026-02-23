@@ -1,0 +1,43 @@
+---
+title: "When The Saints Go Marching In"
+artist: ""
+key: F
+tempo: 
+tags:
+  - "Black-Gospel"
+  - "Choir"
+  - "Choruses"
+  - "Congregational"
+  - "Contemporary"
+  - "Energetic"
+  - "Medium-Fast"
+  - "Praise"
+  - "Solo-Songs"
+  - "Southern-Gospel"
+  - "Traditional"
+  - "Worship"
+  - "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Fast-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+medley: []
+id: "C623B3B9-BB8D-41CB-98A8-1A3CEDA7482C"
+---
+
+When The Saints Go Marching In
+Key: F
+
+VERSE 1:
+[F]I'm a pilgrim and a stranger
+Wandering through this world of [C7]sin
+On my [F]way to that fair c[Bb]ity
+When the s[F]aints go [C7]marching[F] in
+
+CHORUS:
+[F]Oh when the saints go marching in
+[F]Oh when the saints go [G]marching [C7]in
+O how I [F]want to [F7]be in that n[Bb]umber
+When the s[F]aints go m[C7]arching [F]in
+
+VERSE 2:
+My [F]father loved the savior
+What a soldier he had [C7]been
+But his s[F]teps will be more s[Bb]teady
+When the [F]saints go [C7]marching i[F]n

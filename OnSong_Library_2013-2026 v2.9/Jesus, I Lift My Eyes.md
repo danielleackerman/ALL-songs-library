@@ -1,0 +1,91 @@
+---
+title: "Jesus, I Lift My Eyes"
+artist: "Jars Of Clay"
+key: D
+tempo: 
+tags:
+  - "Jesus"
+medley: []
+id: "A2EC06FE-99DA-4666-87DF-33287BFEEEB6"
+---
+
+Jesus, I Lift My Eyes
+Jars Of Clay
+Key: D
+Copyright: 2005 Bridge Building, a division of Zomba Enterprises, Inc. (BMI)/ Pogostich Music (BMI)
+
+Intro:  Em  Bm  D  G
+	Em  Bm  G
+
+Em            Bm       D         G
+When sins and fears prevailing rise
+        Em        Bm          G
+And fainting hope almost expires
+Em       Bm      D         G
+Jesus to Thee I lift my eyes
+        Em         Bm          G
+To Thee I breathe my soul’s desires
+Em         Bm        D        G
+Are You not mine, my living Lord
+        Em        Bm          G
+And can my hope, my comfort die
+Em           A    D   A   G
+Fixed on the everlasting Word
+ Em             A         D     A   G
+That Word which built the earth and sky
+
+
+Chorus:
+
+Em  A      F#m        G
+Jesus,     I lift my eyes
+       Em     A      F#m       G
+To Thee I breathe my soul’s desires
+
+Em  A      F#m      G
+Jesus,     I lift my eyes
+Em         A       D
+To Thee I lift my eyes
+
+
+Em          Bm       D     G
+Here let my faith unshaken dwell
+Em             Bm     G
+Immovable the promise stands
+Em          A         D     A  G
+Not all the powers of earth or hell
+Em           A         D  A   G
+Can e’re dissolve the sacred bands
+Em         A    D    A   G
+Jesus to Thee I lift my eyes
+
+
+Chorus
+
+     Bm
+Here oh my soul
+Bm
+Thy trust repose
+     D
+If Jesus is forever mine
+     Bm
+Not death itself that last of foes
+     G                 A
+Can break a union so divine
+
+	Em  A  F#m  G
+	Em    A   D
+
+Em  A      F#m      G
+Jesus,     I lift my eyes
+   Em     A          F#m     G
+To Thee I breathe my soul’s desires
+Em  A      F#m      G
+Jesus,     I lift my eyes
+   Em     A          F#m    G
+To Thee I breathe my soul’s desires
+
+Em  A       F#m      G
+Jesus,     I lift my eyes
+Em         A      D
+To Thee I lift my eyes

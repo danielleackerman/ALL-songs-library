@@ -1,0 +1,26 @@
+---
+title: "Open The Eyes Of My Heart"
+artist: "Paul Baloche"
+key: E
+tempo: 
+tags:
+medley: []
+id: "BF020935-20C6-49E2-BB62-6188F902FE8C"
+---
+
+Open The Eyes Of My Heart
+Paul Baloche
+Key: E
+CCLI: 2298355
+Copyright: 1997 Integrity's Hosanna! Music 
+
+CHORUS:
+[E]OPEN THE EYES OF MY HEART LORD, [B]OPEN THE EYES OF MY HEART
+I WANT TO [A]SEE YOU,I WANT TO SEE [E]YOU
+
+BRIDGE:
+TO SEE YOU [B]HIGH AND LIFTED [C#m]UP, [A]SHINING IN THE LIGHT OF YOUR [B]GLORY
+[B]POUR OUT YOUR POWER AND [C#m]LOVE, AS WE SING [F#m7]HOLY, HOLY, [B]HOLY
+
+TAG:
+[E]HOLY, HOLY, HOLY, [B]HOLY, HOLY, HOLY, [C#m]HOLY, HOLY, [A]HOLY, I WANT TO [E]SEE YOU  [A] [B] [E]

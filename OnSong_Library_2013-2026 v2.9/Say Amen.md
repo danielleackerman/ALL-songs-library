@@ -1,0 +1,48 @@
+---
+title: "Say Amen"
+artist: "MercyMe"
+key: G
+tempo: 
+tags:
+  - "Praise"
+medley: []
+id: "1CA6DCC1-504E-4314-B226-C8DBC74B2C31"
+---
+
+Say Amen
+MercyMe
+Key: G
+CCLI: 3546477
+Copyright: 1999 Simpleville Music
+
+This is from MercyMe's old-school worship days. The opening is basically fingered- 
+sorry I can't give a very accurate description of the pattern.
+
+order is V-V-C-V-C-T-C-T(as long as you feel led to say amen)
+
+C2         D2        Am7  
+Save us, O Lord our God,
+     G      D           Am7
+And gather us from the nations;
+     C2      D2        Am7 
+that we may give thanks to Your Holy Name,
+    G     D         Am7
+and glory in Your praise.
+                  C
+(2nd time)In your praise....
+
+
+(Chorus)
+G      G/B            C
+Praise be to God the Father,
+   G       G/B       C 
+to Whom we lift our hands.
+G      G/B            C
+Praise be to God the Father,
+    G        G/B         C 
+let all your people say "amen."
+
+
+(Tag)
+G      C      Em     D
+Amen, amen, amen..etc.

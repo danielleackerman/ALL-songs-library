@@ -1,0 +1,97 @@
+---
+title: "If My People Pray"
+artist: "Avalon"
+key: Eb
+tempo: 
+tags:
+  - "Grace"
+medley: []
+id: "1613C226-97C1-48AD-A1EE-9186F3653410"
+---
+
+If My People Pray
+Avalon
+Key: Eb
+CCLI: 2848190
+Copyright: 1999 River Oaks Music Company / Matt Huesmann Music / Kent Hooper Music
+
+
+INTRO:
+Eb – Cm7 – Gm7 – Fm7 - Bbsus
+Cm – Fm7 – Bbsus – Bb – 
+Cm – Fm7 – Bbsus – Bb -
+
+
+Cm           Fm7          Bbsus - Bb
+Now is the season for healing
+                 Cm                    Fm7            Bbsus - Bb
+Deeply we need to see God’s mercy revealing
+ G/B    G            Cm      Bb        Fm7
+Where we have fallen from His way
+           Cm                 Fm7                    Bbsus - Bb
+For we know He gives hope to the humble
+          Cm             Fm7              Bbsus                       Bb
+Gives light in the darkness and grace when we stumble
+Ab       Bb             Cm       Ab                                    Bb
+Let us call on His name together - knowing He will say
+
+
+CHORUS:
+                     Eb                        Cm
+If my people pray (If my people who are called by My name)
+                                    Gm7                Cm
+And reach for Me with hearts that are broken (Humble themselves and pray)
+                   Fm7                        Eb/G                                 Bbsus -  Bb
+I will not forget what I’ve spoken.      -     Come and seek My face (seek Me and…)
+                         Eb                        Cm
+And heaven will rain (If My people who are called by My name)
+              Gm7               Cm
+Rivers of My grace overflowing (Turn from their wicked ways)
+                            Fm7                   Bbsus - Bb                          Eb
+Night and day My ears will be open          -            if My people pray
+
+
+VERSE 2:
+– Cm – Gm7 – Fm7
+
+Cm   -       Fm7     Bbsus- Bb
+Now is the day to awaken
+      Cm             Fm7                 Bbsus            Bb
+To pray with conviction for the souls of the nation
+     Ab       Bb            Cm         
+So let us call on His name 
+             Fm7                            Bb
+Whose faithful promise still remains
+
+
+REPEAT CHORUS (sing parentheses)
+
+
+BRIDGE:
+Bbm7                                         Bbm7/Ab                                          Fm7     Eb   Db2
+LET US NOT GROW WEARY AS WE WAIT FOR THE DAY     WHEN YOUR LIGHT TURNS OUR NIGHT INTO MORNING
+             Bbm7                                            Ab/C                                    Db   Bsus - B
+ON OUR KNEES CALLING YOUR NAME AS WE LIFT OUR HEARTS TO  HEAVEN ,  KNOWING YOU WILL SAY…
+
+
+CHORUS 2:
+                      E                        C#m
+If my people pray (If my people who are called by My name)
+                                   G#m7                 C#m
+And reach for Me with hearts that are broken 
+                  F#m7                           E/G#                              Bsus   -            B
+I will not forget what I’ve spoken.      -     Come and seek My face (seek Me and…)
+                         E                       C#m
+And heaven will rain (If My people who are called by My name)
+                  G#m7          C#m
+Rivers of My grace overflowing
+                           F#m7                     Bsus – B                             C#m – E/B - A
+Night and day My ears will be open          -            if My people pray
+                        F#m7                       Bsus – B           
+Night and day My ears will be open          -            if My people pray
+
+
+INST. TAG:
+E - C#m7 - G#m7 - F#m7 - Bsus
+
+E - C#m7 - G#m7 - F#m7 - Bsus – B – E

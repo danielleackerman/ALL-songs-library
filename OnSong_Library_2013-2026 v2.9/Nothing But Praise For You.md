@@ -1,0 +1,45 @@
+---
+title: "Nothing But Praise For You"
+artist: "Timothy Spell"
+key: C
+tempo: 
+tags:
+  - "Black-Gospel"
+  - "Choir"
+  - "Choruses"
+  - "Congregational"
+  - "Contemporary"
+  - "Medium"
+  - "Praise"
+  - "Solo-Songs"
+  - "Southern-Gospel"
+  - "Traditional"
+  - "Worship"
+  - "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+medley: []
+id: "696634A6-53BD-4EAE-8913-24B8E216AA24"
+---
+
+Nothing But Praise For You
+Timothy Spell 
+Key:[C]
+
+CHORUS:
+I have nothing but praise for you, Lod
+I have nothing but praise for you
+When I see all the beauty in this world you've created
+I have nothing but praise for you
+
+VERSE 1:
+You gave me a home
+Lord, you gave me a family
+You gave me two hands lord to lift up and praise you
+You gave me two feet to walk I your footsteps 
+I have nothing but praise for you
+
+VERSE 2:
+You gave me life
+And life more abundantly
+When you filled me with your spirit
+It's priceless and cannot be purchased with money
+I have nothing but praise for you

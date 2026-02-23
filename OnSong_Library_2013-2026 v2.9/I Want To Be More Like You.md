@@ -1,0 +1,34 @@
+---
+title: "I Want To Be More Like You"
+artist: "Clint Brown"
+key: F
+tempo: 
+tags:
+medley: []
+id: "2D42BF14-017B-4AE3-B07D-DF999D8B925B"
+---
+
+I Want To Be More Like You
+Clint Brown
+Key: F
+CCLI: 187692
+Copyright: 1989 Integrity's Hosanna! Music
+
+F  Am7					Bb     Bb/C
+I   want to be more like You
+F  Am7			        	Bb     Bb/C  C/Bb
+I   want to be more like You
+  Am7              A         D2sus  Dm   Dm/C
+I want to be a vessel You     work through
+Gm7 F/A  Bb              Bb/C  C      F    Bb/C
+I                want to be more  like You
+
+
+G  Bm7					C	C/D
+I   want to be more like You
+G  Bm7			        	C     C/D  D/C
+I   want to be more like You
+  Bm7              B         E2sus  Em   Em/D
+I want to be a vessel You     work through
+Am7 G/B  C                C/D     D    G     C/D
+I                want to be more  like You

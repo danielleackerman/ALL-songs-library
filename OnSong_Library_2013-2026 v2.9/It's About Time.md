@@ -1,0 +1,101 @@
+---
+title: "It's About Time"
+artist: "Third Day"
+key: C
+tempo: 
+tags:
+  - "Love"
+  - "Jesus"
+medley: []
+id: "837B9935-05E7-4D2D-9CE3-EAF20202846D"
+---
+
+It's About Time
+Third Day
+Key: C
+CCLI: 5350276
+Copyright: 2007 Vandura 2500 Songs
+
+C
+Well I need to be more than I have been
+C                                  Am
+Well I need to be more than I have been
+Am         G                 F
+Not for myself, but for all men
+F              Am            G       C
+Well I need to be more than I have been
+
+
+C
+I need to do more than I have done
+C                             Am
+I need to do more than I have done
+Am         G          F
+Not for myself, for everyone
+F         Am           G       C
+I need to do more than I have done
+
+
+G
+It's about time
+G       F              Am
+That I try to live my life
+     G           C
+For more than myself
+C          G
+It's about time
+G       F              Am
+That I try to live my life
+     F         Am  G        C
+For Jesus and walk in his steps
+
+
+C
+I need to love more than I have loved
+C                                Am
+I need to love more than I have loved
+Am           G       F
+Miss you I never, given up
+F          Am         G           C
+I need to love more than I have loved
+
+
+
+
+G
+It's about time
+G       F              Am
+That I try to live my life
+     G           C
+For more than myself
+C          G
+It's about time
+G       F              Am
+That I try to live my life
+     F         Am  G        C
+For Jesus and walk in his steps
+
+
+
+G                     F               C
+For to long I've been, such a selfish man
+G                     F            C
+Leading my whole life, just for myself
+G                     F           Am
+Now I've been givin', a second chance
+G                     F           G
+And I'm not going to let it slip away
+
+
+A
+It's about time
+A       G             Bb
+That I try to live my life
+     A           D
+For more than myself
+D          A
+It's about time
+A       G              Bb
+That I try to live my life
+     G         Bb  A        D
+For Jesus and walk in his steps

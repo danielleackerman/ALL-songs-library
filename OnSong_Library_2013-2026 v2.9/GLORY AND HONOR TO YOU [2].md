@@ -1,0 +1,63 @@
+---
+title: "GLORY AND HONOR TO YOU"
+artist: "Landy Mahon"
+key: Eb
+tempo: 
+tags:
+  - "Black-Gospel"
+  - "Choir"
+  - "Choruses"
+  - "Congregational"
+  - "Contemporary"
+  - "Medium"
+  - "Praise"
+  - "Solo-Songs"
+  - "Southern-Gospel"
+  - "Traditional"
+  - "Worship"
+  - "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  - "Glory"
+  - "Honor"
+medley: []
+id: "6D9920EC-DE10-4DBA-A243-CF30D3AD6670"
+---
+
+GLORY AND HONOR TO YOU
+Landy Mahon
+Cooley Choruses
+Key: Eb
+
+VERSE 1:
+[Eb]FATHER WE'VE [Ab/F]GATHERED [Eb/G]HERE IN YOUR PR[Ab]ESENCE 
+[Eb/G]FILLING YOUR [Ab/F]THRONE ROOM WITH [Bb/D]PRAISE 
+[Eb]WE'VE COME RE[Ab/F]JOICING 
+[Eb/G]THIS IS THE MO[Ab]MENT [Eb/G]WE CHOOSE TO [Ab/F]WORSHIP YOUR [Db]NAME [Ab/Bb]
+
+CHORUS:
+WE [Eb]LIFT OUR HANDS IN THE SANCTUARY 
+[Ab/F]SINGING SONGS OF PRAISE DECLARING 
+[Eb/G]GLORY AND HONOR [Cm]TO [Bb]YOU 
+WE [Eb]STAND IN AWE ALMIGHTY FATHER 
+[Ab/F]YOU ARE GOD AND THERE'S NO OTHER
+[Eb/G]GLORY AND HONOR [Cm]TO [Bb]YOU
+
+BRIDGE:
+[Gb]COME LET US [Db/F]SING 
+[Ab/Eb]COME LET US [Eb]SHOUT 
+[Gb]LET US RE[Db/F]JOICE AND BE [Bbsus]GLAD 
+
+VERSE 1: MOD.
+[E]FATHER WE'VE GA[E/F#]THERED HERE IN YOUR PRE[A]SENCE 
+[E/G#]FILLING YOUR [A/F#]THRONE ROOM WITH [B/D#]PRAISE 
+[E]WE'VE COME RE[A/F#]JOICING [E/G#]THIS IS THE MO[A]MENT
+[E/G#]WE CHOOSE TO [A/F#]WORSHIP YOUR [D]NAME [A/B]
+
+CHORUS:
+WE [E]LIFT OUR HANDS IN THE SANCTUARY 
+[A/F#]SINGING SONGS OF PRAISE DECLARING [E/G#]GLORY AND HONOR [C#m]TO [B]YOU [A/B]
+WE [E]STAND IN AWE ALMIGHTY FATHER 
+[A/F#]YOU ARE GOD AND THERE'S NO OTHER 
+[E/G#]GLORY AND HONOR [C#m]TO [B]YOU 
+
+END:
+[B/D#]TO [E]YOU

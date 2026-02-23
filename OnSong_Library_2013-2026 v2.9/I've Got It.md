@@ -1,0 +1,72 @@
+---
+title: "I've Got It"
+artist: "Andrae Crouch"
+key: F
+tempo: 139
+tags:
+  - "Black-Gospel"
+  - "Choir"
+  - "Choruses"
+  - "Congregational"
+  - "Contemporary"
+  - "High-Energy"
+  - "Medium-Fast-Shouting"
+  - "Praise"
+  - "Solo-Songs"
+  - "Southern-Gospel"
+  - "Traditional"
+  - "Worship"
+  - "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  - "Holy-Ghost"
+  - "OS-GOSPEL-FAST"
+  - "THE-HOLY-GHOST"
+medley:
+  - "[[GREATER IS HE THAT IS IN ME]]"
+id: "16DDAB6E-6F20-4C18-B068-5AB4D82E2590"
+---
+
+{title: I've Got It}
+{artist: Andrae Crouch}
+{key: F}
+{tempo: 139}
+{copyright: 1972 Manna Music, Inc. (Admin. by ClearBox Rights, LLC)}
+{ccli: 654266}
+{keywords: OS GOSPEL FAST, THE HOLY GHOST}
+
+ORIGINAL KEY F
+MEDLEY: GREATER IS HE THAT IS IN ME
+
+CHORUS:
+[Bb/C]I've [F]got it, I've got it.  [F7/A]
+I've [Bb7]got it, I've [F]got it
+[F/Db]There's [C7]something 'bout the Holy Ghost.  [B7]   [Bb7]
+I can't explain it, but I've [F]got it
+[Bb7]Yes, I've [F]got it.    [Bb/C]
+
+VERSE 1:
+When the day of Pentecost had come
+They were in the upper room in one accord
+They gathered together 
+One hundred and twenty
+To receive the power that He promised to send
+The holy ghost fell upon each one 
+As the spirit gave utterance
+They spoke in tongues
+There in the city men from everywhere
+They couldn't understand what was happening up there
+But Peter stood in the midst of the crowd
+He spoke with a voice that was clear and loud
+He said, This is that spoken by the prophet Joel
+That in the last days my spirit I'll pour
+Not only for me but also for you
+Every child of God that wants to go through
+
+BRIDGE:
+I've got the power of the Holy Ghost way down in my soul.
+I've got the spirit of the Holy Ghost way down in my soul.
+I've got the blessing of the Holy Ghost way down in my soul.
+I've got it, I've got it, way down in my soul.
+
+2.  You need it....
+3.  You can have it....
+4.  I feel it.....

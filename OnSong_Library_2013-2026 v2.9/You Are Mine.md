@@ -1,0 +1,84 @@
+---
+title: "You Are Mine"
+artist: "Third Day"
+key: D
+tempo: 
+tags:
+medley: []
+id: "AF560BFE-EBE6-426C-8517-DF994AE929FE"
+---
+
+You Are Mine
+Third Day
+Key: D
+CCLI: 4292115
+Copyright: 2004 Consuming Fire Music 
+
+Capo 2nd Fret 1-5 strings ONLY
+
+	    D
+It doesn’t take much 
+         A	      
+For my heart to break 
+	      C
+And you have done it 
+	    G/B		        D	
+For what’s seems the millionth time 
+
+
+	 D
+Whenever I hear 
+	  A	     
+Of your saving grace 
+	     C
+And how you gave your life 
+G/B		 D
+In exchange for mine 
+
+
+Chorus
+	      A		         G        D
+Sometimes I wonder why you even love me 
+	     A		           G	   D
+And why you ever chose to call me    child 
+	   D
+Then I remember 
+	     A		
+It’s by your sacrifice 
+       C
+I can say that 
+      G/B 	        D    
+I am yours and you are mine 
+
+
+D/F#    G    D/F#   D    C9    G/B   G
+-------------------------------------5--
+-------------------5-5------5-----5--5--
+----2-----2-----2--4-4----2-----2----2--
+--2-----2-----2----2-2---------------2--
+-------------------2-2--5-----4------4--
+4-----5-----4------0-0---------------5--
+
+All Frets are ACTUAL frets...2's are handled by the capo
+
+
+	    D
+It doesn’t take much 
+	   A
+For me to shed a tear 
+	      C		   G/B 
+And you have done so many things 
+	    D
+To make me cry 
+
+	 D
+Whenever I think 
+	     A
+Of all that I’ve done wrong 
+	   C		      G/B
+And everything that you have done 
+	     D
+To make it right 
+
+
+Repeat Chorus

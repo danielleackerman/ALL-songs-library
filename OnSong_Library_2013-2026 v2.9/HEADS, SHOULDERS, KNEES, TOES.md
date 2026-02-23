@@ -1,0 +1,22 @@
+---
+title: "HEADS, SHOULDERS, KNEES, TOES"
+artist: "Artist Name"
+key: C
+tempo: 
+tags:
+medley: []
+id: "8D90E098-A34D-4D90-9018-24467C58EE0A"
+---
+
+HEADS, SHOULDERS, KNEES, TOES
+Artist Name
+Key: [C]
+
+Verse 1:
+[C]Type your lines of the [F]song here
+Just [C]use line breaks to [G]make lines
+[Am]Placing the [G/B]chords [F]where you [Em]want them
+
+Chorus:
+[C2]You can also [Csus4]repeat the chorus with [G]notes
+(Repeat 3x)

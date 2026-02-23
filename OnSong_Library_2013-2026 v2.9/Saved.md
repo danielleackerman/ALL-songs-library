@@ -1,0 +1,72 @@
+---
+title: "Saved"
+artist: "Third Day"
+key: A
+tempo: 
+tags:
+  - "Thank"
+medley: []
+id: "0CA0F998-B0ED-4E22-8CEE-C5EFB4085E6A"
+---
+
+Saved
+Third Day
+Key: A
+Copyright: 1980 Special Rider Music
+
+A
+I was blinded by the devil, Born already ruined,
+Stone-cold dead as I stepped out of the womb.
+By His grace I have been touched,
+By His word I have been healed,
+By His hand I've been delivered,
+By His spirit I've been sealed.
+
+
+Chorus
+A
+Now I'm saved by the blood of the Lamb,
+A                                       A   Bb
+Yes I'm saved by the blood of the Lamb,
+C   C#   D                      D   C#  C  Bb
+And I'm so glad yes, I'm so glad,
+A
+So glad, so glad.
+E                                          D
+I want to thank You, Lord. I just want to thank You, Lord,
+A
+Thank You, Lord. Thank You, Lord.
+
+
+Refrain (piano)
+
+By His truth I can be upright,
+By His strength I do endure,
+By His power I've been lifted,
+In His love I am secure.
+He bought me with a price,
+Freed me from the pit,
+Full of emptiness and wrath
+And the fire that burns in it.
+
+Chorus
+
+Nobody to rescue me,
+Nobody was there,
+I was going down for the last time,
+But by His mercy I've been spared.
+Not by works,
+But by faith in Him is all,
+For so long I've been hindered,
+For so long I've been stalled.
+
+Chorus
+Repeat
+Fade out with
+A
+
+
+
+You will here the progression from A bared up the neck to D
+and back down again by the base. I like to play along and I
+get so into it I break an E sting now and then. Enjoy!

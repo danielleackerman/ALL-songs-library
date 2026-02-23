@@ -1,0 +1,42 @@
+---
+title: "Hallelujah Praise The Lamb chorus version 2"
+artist: ""
+key: G
+tempo: 66
+tags:
+  - "Praise"
+medley: []
+id: "A218BCED-0CD9-4631-8193-B9080B79E2A7"
+---
+
+{title: Hallelujah Praise The Lamb chorus version 2}
+{key: G}
+{tempo: 66}
+{time: 4/4}
+
+INTRO:
+[C/D]  [D7]  [|] [G]  [C]  [|] [G] [D/F#] [Em7] [Cm6/Eb] [|] [G/D]  [C/D]  [|] [D7] [Gsus] [G] [D7]
+
+
+[C/D]Ha[D7]lle[G]lujah [C]praise the [G]Lamb 
+[G]Ha[D/F#]lle[Em]lujah [A9]praise  the [D7sus]lamb. [D7]
+[C/D]My [D7]heart  [G]sings this [C]praise a[G]gain  [D/F#][Em7] [Cm/Eb]Halle[G/D]lu[C/D]jah praise [D7]the [G]Lamb. 
+
+
+[D7]Hallelujah [C]praise the [G]Lamb
+[G]Ha[D/F#]lle[Em]lujah [A9]praise  the [D7sus]lamb. [D7]
+[C/D]My [D7]heart  [G]sings this [C]praise a[G]gain  [D/F#][Em7]
+[Cm/Eb]Halle[G/D]lu[C/D]jah praise [D7]the [G]Lamb. 
+
+
+
+
+
+
+
+
+
+
+
+
+

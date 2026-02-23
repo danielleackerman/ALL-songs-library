@@ -1,0 +1,107 @@
+---
+title: "HE'S AN AWESOME GOD (Yandris arrangement)"
+artist: "Mark Yandris"
+key: C
+tempo: 148
+tags:
+  - "Angels"
+  - "Awesome"
+medley: []
+id: "D68D27A0-8E5B-4E23-849E-883254754078"
+---
+
+HE'S AN AWESOME GOD (Yandris arrangement)
+Mark Yandris
+148 BPM
+[C]
+
+Chorus 1 (Unison) 2x:
+[C2]OUR GOD IS AN AWESOME GOD. 
+[G2/B]OUR GOD IS AN [Am7]AWESOME GOD. 
+[C2/E]OUR GOD IS AN [Fmaj7]AWESOME GOD. 
+[Bb2]HE REIGNS. [F2]HE'S AN [G2/B]AWESOME [C]GOD. [G/C] [F/C]
+
+[MOD HS TO:][Db]
+[KEY CHANGE CHORD:][Ab7]
+Chorus 2 (Unison) 2x:
+[Ab7]  [Db2]HE'S THE ONE TRUE LIVING GOD. 
+[Ab2/C]HE'S THE ONE TRUE [Bbm7]LIVING GOD. 
+[Db2/F]HE'S THE ONE TRUE [Gbmaj7]LIVING GOD. 
+[Cb2][B?]HE REIGNS. [Gb2]HE'S AN AWE[Ab/C]SOME [Db]GOD. [Ab/Db] [Gb/Db]
+
+[MOD HS TO:][D]
+[KEY CHANGE CHORD:][A7]
+CHORUS 3 (Unison) 2x:
+[A7]   [D2]NO GOD LIKE JEHOVAH GOD. 
+[A2/C#]NO GOD LIKE JE[G2/B]HOVAH GOD. 
+[D2/F#]NO GOD LIKE JE[Gmaj7]HOVAH GOD. [C2]HE REIGNS. 
+[G2/B]  HE'S AN [A/C#]AWESOME [D]GOD. [A/D] [G/D]
+
+[MOD HS TO:][Eb]
+[KEY CHANGE CHORD:][Bb7]
+Chorus 1(Parts) 1x:
+[Bb7]  [Eb2]OUR GOD IS AN [G/B]AWE[C/Bb]SOME [Eb2]GOD[Cm7]. 
+[Bb2]OUR GOD IS AN [Cm7]AWESOME GOD. 
+[Eb2/G]OUR GOD IS AN [Abmaj7]AWESOME GOD. 
+[Db2]HE REIGNS. [Ab/Bb]HE'S AN [Ab/C]AWE[Bb/D]SOME [Eb]GOD.
+
+Chorus 2 (Parts) 1x:
+[Eb]HE'S THE ONE TRUE LIVING GOD. 
+[Bb2]HE'S THE ONE TRUE [Cm7]LIVING GOD. 
+[Eb2/G]HE'S THE ONE TRUE [Abmaj7]LIVING GOD. 
+[Db9]HE REIGNS. [Db]HE'S AN [Ab/C]AWESOME [Eb]GOD. [Db]
+
+Chorus 3 (Parts) 1x:
+NO GOD LIKE JEHOVAH GOD. 
+[Bb2]NO GOD LIKE JE[Cm7]HOVAH GOD. 
+[Eb2/G]NO GOD LIKE JE[Abmaj7]HOVAH GOD. 
+[Db9]HE REIGNS. [Ab/Bb]HE'S AN [Ab/C]AWE[Bb/D]SOME [Eb]GOD.
+
+(Choir repeats after Descant a.k.a. Song Leader):
+
+Verse 1:
+[Eb]   [Bb/Eb]  [Ab/Eb]  [Bb/Eb]
+
+(1x): ALPHA! OMEGA! BEGINNING! THE ENDING! 
+
+(1x): THE FIRST! THE LAST! THE LION! THE LAMB!
+
+(2x): BLESSINGS   GLORY  HONOR   POWER
+
+[MOD HS TO:][E]
+[KEY CHANGE CHORD:][B7]
+Verse 2:
+[E]  [B/E]  [A/E]  [B/E]
+(2x): RIGHTEOUS! HOLY! AWESOME! MIGHTY!
+
+[MOD HS TO:][F]
+[KEY CHANGE CHORD:][C7]
+Verse 3:
+[F]  [C/F]  [Bb/F]  [C/F]
+(2x): ONE GOD! ONE NAME! ONE WORTHY OF (ALL) PRAISE! 
+
+Chorus 3 (1x): 
+cut music:
+[F]NO GOD LIKE JEHOVAH GOD. 
+resume music:
+[C]NO GOD LIKE JEHOVAH [Dm]GOD. 
+[F2/A]NO GOD LIKE [Bb2]JEHOVAH GOD. 
+[Ebmaj7]HE REIGNS. [Bb2]HE'S AN AWE[C/E]SOME [F]GOD. 
+
+Vamp 1 (3x)Leader sings 1x alone:
+[F]WHAT A MIGHTY GOD WE SERVE! 
+[C]WHAT A MIGHTY GOD [Gm7]WE SERVE. [Dm]
+[F2/A]WHAT A MIGHTY GOD [Bbmaj7]WE SERVE. 
+[Ebmaj9]HE REIGNS. [Bb2/D]HE [C/E]REIGNS.
+
+Vamp 2 (2x):
+[F]ANGELS BOW BEFORE HIS THRONE. 
+ANGELS [C]BOW BEFORE HIS THRONE. 
+[F2/A]ANGELS BOW BE[Bbmaj7]FORE HIS THRONE. 
+[Ebmaj9]HE REIGNS. [Bb2/D]HE [C/E]REIGNS
+
+Outro:
+[Eb]HE REIGNS. [Bb2] HE REIGNS. 
+[Eb]HE REIGNS.[Bb2]  [C/E]HE'S AN AWESOME GOD. [F]
+
+REPEAT VAMPS TO OUTRO AGAIN OPTIONAL:

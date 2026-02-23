@@ -1,0 +1,11 @@
+# OS junk
+.DS_Store
+
+# Obsidian cache + noisy UI state
+.obsidian/cache/
+.obsidian/workspace*
+.obsidian/graph.json
+.obsidian/backlink.json
+
+# Optional: ignore plugin-specific transient files (tweak per your plugins)
+.obsidian/plugins/*/data.json

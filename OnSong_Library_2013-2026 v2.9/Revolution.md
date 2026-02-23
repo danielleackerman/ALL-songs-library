@@ -1,0 +1,38 @@
+---
+title: "Revolution"
+artist: "Jars Of Clay"
+key: A
+tempo: 
+tags:
+medley: []
+id: "60217DB1-FBD5-41CF-B038-E2299B91112F"
+---
+
+Revolution
+Jars Of Clay
+Key: A
+CCLI: 3604113
+Copyright: 2002 Bridge Building Music, Inc.
+
+Intro - F#5       A5           D5         B5
+   
+F#5     D5          A5        B5
+Peace takes a taxi To the underground 
+I wanna love the world But I don't know how 
+Blame it on the d.j. Playin' all the fast songs 
+Ain't spinnin' anything That I can sing along 
+
+F#5     D5          A5        B5
+So if you know the words Then try to sing along 
+And when you get the beat Grab a hammer, bang a gong 
+Cuz you don't got to fight Or make yourself belong 
+To be a revolution, yeah To be a revolution 
+
+A5   B5   F#5   D5         
+If you wanna learn To play the rock guitar 
+Then thrown down your guns And come be a star 
+You got to begin With who you know you are 
+To be a revolution 
+
+F#5       A5           D5         B5
+Cuz the time is right To cross that line  To let love find a way

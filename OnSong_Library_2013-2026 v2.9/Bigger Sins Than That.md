@@ -1,0 +1,39 @@
+---
+title: "Bigger Sins Than That"
+artist: ""
+key: Eb
+tempo: 
+tags:
+  - "Blood"
+medley: []
+id: "84304484-70DA-414D-9938-E9B17869C1D8"
+---
+
+{title:Bigger Sins Than That}
+{key:Eb}
+
+Chorus:
+[Eb]There's bigger sins than [Gm7]that beneath the [Ab]Blood, [Eb/G]
+
+[Fm7]Darker deeds by [Eb/G]far that He's [Ab]forgiven people [Bb7sus4 Bb9] of,
+
+So don't [Cm7]let Satan [B+]blind ou, where you can't [Cm7/Bb]see God's endless [Am7(b5)]love,
+
+Because there's [Fm7]bigger sins than [Ab/Bb]that [Fm/Bb]beneath the [Eb]blood.
+
+VERSE 1:
+So you [Eb]think you made the [Ab/Eb]ultimate [Eb]mistake, and Satan says, "There's [Ab/Eb]just
+
+no use to [Eb]pray, cause [Cm]you have gone [Gm7]beyond God's grace this [Ab Eb/G]time,"
+
+Did you [Fm7]know that was [Ab]Satan's favorite [Ab/Bb Bb9]line.
+
+VERSE 2:
+Somewhere in the darkness of the night.  A teenage boy decides to take his life.  
+Cause he feels he's not worthy of God's love.  If he could only see beneath the blood.
+
+BRIDGE:
+
+[B]Don't let him [Db/B]deceive you, cause [Bbm7]Jesus will [Eb7sus4]forgive [Eb7]you,  [Gm7]Oh,
+
+[Bb/C  C]  Modulate to Key of F

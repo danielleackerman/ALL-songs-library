@@ -1,0 +1,62 @@
+---
+title: "Turn Your Eyes Upon Jesus"
+artist: "Helen H. Lemmel, 1922"
+key: F
+tempo: 
+tags:
+  - "Altar-Songs"
+  - "Choir"
+  - "Choruses"
+  - "Congregational"
+  - "Contemporary"
+  - "Slow"
+  - "Solo-Songs"
+  - "Traditional"
+  - "Worship"
+  - "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  - "Jesus"
+  - "Light"
+  - "OS-APO-SLOW"
+  - "EXHORTATION"
+medley: []
+id: "C894DAC7-7FCB-44A8-8CF8-3EC37BADE45C"
+---
+
+Turn Your Eyes Upon Jesus
+Key: F
+CCLI: 15960
+Copyright: Public Domain
+Artist: Helen H. Lemmel, 1922
+Keywords: OS APO SLOW, EXHORTATION
+
+HEBREWS12:22
+
+(chorus)
+[F]TURN YOUR [C]EYES UPON [Dm]JES[F]US
+LOOK [Bb]FULL IN HIS [Gm]WONDERFUL [C7]FACE
+AND THE [F]THINGS OF [F7]EARTH WILL GROW [Bb]STRANGELY [Bbm]DIM
+IN THE [F]LIGHT OF HIS [C]GLORY AND [F]GRACE
+
+(Verse 1)
+O [F]soul are you [C]weary and [Dm]trou[F]bled
+No l[Bb]ight in the [Gm]darkness [F]you [C]see
+There's [F]light for a l[F7]ook at the [Bb]Sav[Bbm]ior
+And [F]life more a[C]bundant and f[F]ree
+
+(Verse 2)
+Through [F]death into [C]life ever[Dm]las[F]ting
+He [Bb]passed and we [Gm]follow [F]Him [C]there
+O'er [F]us sin no [F7]more hath dom[Bb]in  [Bbm]ion
+For [F]more than c[C]onqu'rors we [F]are
+
+(Verse 3)
+His [F]word shall not [C]fail you He [Dm]pro[F]mised
+Be[Bb]lieve Him and [Gm]all will [F]be [C]well
+Then [F]go to a [F7]world that [Bb]is [Bbm]dy-ing
+His [F]perfect sal[C]vation to [F]tell
+
+(chorus)
+[F]TURN YOUR [C]EYES UPON [Dm]JE-S[F]US
+LOOK [Bb]FULL IN HIS [Gm]WONDERFUL [C7]FACE
+AND THE [F]THINGS OF [F7]EARTH WILL GROW [Bb]STRANGELY [Bbm]DIM
+IN THE [F]LIGHT OF HIS G[C]LORY AND [F]GRACE

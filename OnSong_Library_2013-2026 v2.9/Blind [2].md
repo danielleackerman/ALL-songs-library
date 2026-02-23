@@ -1,0 +1,72 @@
+---
+title: "Blind"
+artist: "Jars Of Clay"
+key: 
+tempo: 92
+tags:
+medley: []
+id: "DBA6C1B4-A7E0-4963-A498-F6FC40A983FA"
+---
+
+Blind
+Jars Of Clay
+Key: 
+
+"Blind"
+By: Jars of Clay
+CD: Jars of Clay
+Copyright 1995 Pogostick Music
+Tabbed by Josh Smith (stradivarius813@juno.com)
+
+
+TIME:  4/4
+TEMPO: 92
+
+INTRO: Gmaj7  Cmaj9(6)  Gmaj7  
+
+VERSE1:
+D2/F#   Em
+        Cynical, just your way.
+
+        You play the doubting Thomas 
+                           Cmaj7       Am9
+        Feel the scars and wipe the stains
+
+                 Em9
+        So you fight, and retreat
+
+        And talk yourself out of believing
+           Cmaj7    Am9   Cmaj7        Am9
+        In any peace that you can't see
+
+CHORUS:
+        C     B    Bm            Asus
+        Blind      words you call
+        Cmaj7 B    G/D   Gmaj7/B  C2
+        Blind      words will fall
+
+VERSE2:
+              Em9                                
+        Logical and you can't find
+                                       Cmaj7      Am9
+        Any reason to believe in love, you are blind
+              Em9                                                               
+        Crucify, and deny pass the blame and burn the mission
+           Cmaj7     Am9       Cmaj7         Am9
+        till dust remains, and wash your hands
+       
+CHORUS:
+        C     B    Bm            Asus
+        Blind      words you call
+        Cmaj9 B    G/D    Gmaj7/B C2
+        Blind      words will fall
+
+BRIDGE:  Gmaj7  Cmaj9 G/B  Am7  Em/G
+         Cmaj7  Em/B  Gmaj7  Em/G
+         Cmaj9  EM/B  Gmaj7  Em/G
+
+CHORUS:
+        C     B    Bm            Am2
+        Blind      words you call
+        C     B    G/D    Gmaj7/B C2 Em2
+        Blind      words will fall

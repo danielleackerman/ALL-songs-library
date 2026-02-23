@@ -1,0 +1,48 @@
+---
+title: "I Shall Not Be Moved"
+artist: ""
+key: F
+tempo: 
+tags:
+  - "Black-Gospel"
+  - "Choir"
+  - "Choruses"
+  - "Congregational"
+  - "Contemporary"
+  - "Energetic"
+  - "Medium-Fast"
+  - "Praise"
+  - "Solo-Songs"
+  - "Southern-Gospel"
+  - "Traditional"
+  - "Worship"
+  - "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Fast-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+medley: []
+id: "2E55D489-B069-43D5-9C47-C3D6D42ED730"
+---
+
+{title:I Shall Not Be Moved}
+{key:F}
+
+(Verse:1)
+
+[F]Glory Hallelujah,   [C7]I shall not be moved
+Anchored in Jehovah, [F]I shall not be moved
+[F7/A]Just like a [Bb]tree that's planted by the [F]wa---[C/E]a-----[Dm7]ters
+Lord, [F/C]I shall [C7]not [C7/E]be [F]moved.    [Bb/C]
+
+
+(Chor:)
+
+[F]I shall not be [C7]I shall not be moved
+I shall not be [F]I shall not be moved 
+[F7/A]Just like a [Bb]tree that's planted by the [F]wa---[C/E]a----[Dm7]ters
+[F/C]I shall [C7]not [C7/E]be [F]moved.
+
+
+(Verse:2)
+
+Tho' the tempest rages, I shall not be moved
+On the Rock of Ages, I shall not be moved
+Just like a tree that's planted by the wa---a----ters
+I shall not be moved.

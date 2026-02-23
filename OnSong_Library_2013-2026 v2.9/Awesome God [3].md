@@ -1,0 +1,67 @@
+---
+title: "Awesome God"
+artist: "Rich Mullins"
+key: A
+tempo: 
+tags:
+  - "Awesome"
+medley: []
+id: "AECDAD18-379B-4AE2-B082-19BC3A91FC27"
+---
+
+Awesome God
+Rich Mullins
+Key: A
+CCLI: 41099
+Copyright: 1988 BMG Songs, Inc.
+
+Psalm 145
+
+   F#m7                 Bm7 C#m7   F#m7                 Bm7 C#m7
+        F#m
+When He rolls up His sleeves He ain't just putting on the ritz
+    Bm7       C#m7    F#m
+Our God is an awesome God
+
+There's thunder in His footsteps and lightning in His fists
+    Bm7	      C#m7    F#m
+Our God is an awesome God
+        Bm7
+And the Lord He wasn't joking when He kicked 'em out of Eden
+   C#m7
+It wasn't for no reason that He shed His blood
+    D				 Bm7
+His return very close and so You better be believing that
+              C#m7    F#m
+Our God is an awesome God
+
+Chorus:
+    D	       A
+Our God is an awesome God
+    Esus E     F#m
+He reigns from heaven above
+      D       A
+With wisdom, power and love
+    Bm7       C#m7    F#m
+Our God is an awesome God
+
+CHORUS
+        Bm7 C#m7
+
+And when the sky was starless in the void of the night
+Our God is an awesome God
+He spoke into the darkness and created the light
+Our God is an awesome God
+And judgment and wrath He poured out on Sodom
+The mercy and grace He gave us at the cross
+I hope that we have not too quickly forgotten that
+Our God is an awesome God
+
+CHORUS (3x) 3rd time acapella
+
+CHORUS (2x)
+    Bm7       C#m7    F#m
+Our God is an awesome God
+    Bm7       C#m7    F#m
+Our God is an awesome God
+       Bm7 C#m7   F#no3

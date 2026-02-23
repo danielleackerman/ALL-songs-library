@@ -1,0 +1,79 @@
+---
+title: "I Pledge Allegiance To The Lamb"
+artist: "Ray Boltz"
+key: G
+tempo: 
+tags:
+medley: []
+id: "F42FE6F6-0DC1-45EF-AB15-403A32F668EE"
+---
+
+I Pledge Allegiance To The Lamb
+Ray Boltz
+Key: G
+CCLI: 1366797
+Copyright: 1994 Word Music, LLC / Shepherd Boy Music
+
+Chorus:
+
+G                   C      G
+I Pledge Allegiance to the Lamb
+     Em                    Am7   D
+With all my strength, with all I am.
+       G             C   G
+I will seek to honor His commands,
+  G                 Am7 D     G
+I pledge Allegiance to    the Lamb.
+
+
+
+Verse 1:
+
+       G                    C    G
+I have heard how Christians long ago 
+     Em7              Am7      D
+Were brought before a tyrant's throne 
+              G                  C           G
+And they were told that he would spare their lives 
+   Em7                     Am7 D   G
+If they would renounce the name of Christ 
+    Em7    C        D        G
+But one by one they chose to die 
+    Em7    C              D   G
+The Son of God they would not deny 
+                     C     G
+Like a great angelic choir sings 
+      Em7               Am7  D G
+I can almost hear their voices ring 
+
+
+
+Verse 2: 
+
+Now the years have come and the years have gone 
+But the cause of Jesus still goes on 
+And now our time has come to count the cost 
+To reject this world, to embrace the cross 
+And one by one let us live our lives 
+For the One who died to give us life 
+Till the trumpet sounds on the final day 
+Let us proudly stand and boldly say 
+
+
+Repeat Chorus
+
+
+Bridge: 
+
+       Em      C       D       G
+To the Lamb of God who bore my pain 
+    Em      C          D       G
+Who took my place, who wore my shame 
+       G             C   G
+I will seek to honor His commands 
+  G                 Am7 D     G
+I pledge allegiance to    the Lamb 
+
+
+
+Repeat Chorus as many tiems as you want to!!

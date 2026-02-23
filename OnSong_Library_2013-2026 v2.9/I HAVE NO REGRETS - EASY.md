@@ -1,0 +1,20 @@
+---
+title: "I HAVE NO REGRETS - EASY"
+artist: "BPM"
+key: C
+tempo: 
+tags:
+medley: []
+id: "7447477B-0416-420A-9EDD-4012D2E47504"
+---
+
+I HAVE NO REGRETS - EASY
+BPM 
+fast contemporary with swing
+Key:[C]
+
+[F/G]I HAVE [C]NO [/]   RE[C]GRETS, [F/G]I HAVE [C]NO [/]  RE[C]GRETS
+SINCE I MET [F]JESUS [/]CHRIST, I CAN [C]SAY, "I HAVE [/]NO RE[Dm]GRETS."[/]  [G]
+THE ONLY [C]THING THAT I [/]WOULD HAVE DONE [C]DIFFERENT 
+IS MADE MY DE[F]CISION JUST A [/]LITTLE BIT [C]SOONER, 
+FOR [/]SINCE I'VE MET [Am]JESUS [/]CHRIST I CAN [G]SAY, "I HAVE NO [C]REGRETS."[/] [C]

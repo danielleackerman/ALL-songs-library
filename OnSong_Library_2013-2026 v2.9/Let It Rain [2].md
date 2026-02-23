@@ -1,0 +1,50 @@
+---
+title: "Let It Rain"
+artist: "Michael W. Smith"
+key: C
+tempo: 
+tags:
+medley: []
+id: "4845B528-752F-4CA7-8991-8316CD2C17F1"
+---
+
+Let It Rain
+Michael W. Smith
+Key: C
+CCLI: 3591817
+Copyright: 2001 This Is Your Time Music
+
+Am           F
+Let it rain, Let It rain
+C                       G
+Open the flood gates of Heaven
+
+
+
+               Am
+I can feel the rain of Your love
+               F
+I can feel the wind of Your Spirit
+               C
+I can hear the heartbeat of heaven
+        G
+Can you hear it?
+
+
+
+
+
+Psalm 97
+1 The Lord reigns, let the earth be glad;
+let the distant shores rejoice.
+2 Clouds and thick darkness surround him;
+righteouness and justice are the foundation of his throne.
+3 Fire goes before him;
+and consumes his foes on every side.
+4 His lightening lights up the world;
+the earth sees and trembles.
+5 The mountains melt like wax before the Lord,
+before the Lord of all the earth.
+6 The Heavens proclaim his righteouness,
+and all the peoples see his Glory.
+(let it rain)

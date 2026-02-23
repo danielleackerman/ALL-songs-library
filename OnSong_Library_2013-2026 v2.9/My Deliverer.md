@@ -1,0 +1,92 @@
+---
+title: "My Deliverer"
+artist: "Rich Mullins"
+key: Eb
+tempo: 
+tags:
+medley: []
+id: "9B216EFA-02CA-47AE-851D-9BFB1FA30E1B"
+---
+
+My Deliverer
+Rich Mullins
+Key: Eb
+CCLI: 2598945
+Copyright: 1998 Word Music/Liturgy Legacy Music/White Plastic Bag Music
+
+Cm                     Ab2         Eb/G
+ Fm7  Eb/G     Ab2         Fm7   Ebmaj7/G      Ab2  Bb
+
+Cm                                    Bb           Ab            Eb
+   Joseph took his wife and her child    and they went to Africa
+Ab                    Cm                  Gsus  G
+   To escape the rage    of a deadly king
+Cm                                    Bb       Ab                   Eb
+   There along the banks of the Nile,    Jesus listened to the song 
+Ab                      Cm                 Gsus
+   That the captive chil-dren used to sing 
+G
+   They were singin' 
+
+Cm Ab           Cm     Ab        Eb   Bb                Ab  Bb
+My Deliverer is coming - my Deliv - erer is standing by 
+Cm Ab           Cm     Ab        Eb   Bb                Ab
+My Deliverer is coming - my Deliv - erer is standing by
+
+  Ab         Cm   Ab        Cm   Ab        Eb   Bb
+  Ab    Bb   Cm   Ab        Cm   Ab        Eb   Bb         Ab
+
+Cm                                 Ab2                            Eb
+   Through a dry and thirsty land, wa-ter from the Kenyon heights 
+Ab                          Cm                       G  G
+   Pours itself out of Lake    Sangra's broken heart 
+Cm                            Bb      Ab                       Eb
+   There in the Sahara winds, Je-sus heard the whole world cry 
+Ab                             Cm                     G
+   For the healing that would flow from His own scars 
+Gsus
+     The world was singing 
+
+Cm Ab           Cm     Ab        Eb      Bb             Ab  Bb
+My Deliverer is coming - my Deliv - erer is standing by 
+Cm Ab           Cm     Ab        Eb      Bb             Ab
+My Deliverer is coming - my Deliv - erer is standing by 
+Ab                      Eb/G                  Ab     Eb/G    Gm     Ab  Bb
+He will never break His prom-ise - He has writ - ten  it  up-on the sky 
+Cm Ab           Cm     Ab         Eb     Bb             Ab
+My Deliverer is coming - my Deliv - erer is standing by 
+
+Dm Bb           Dm     Bb         F      C              Bb  C
+My Deliverer is coming - my Deliv - erer is standing by 
+Dm Bb           Dm     Bb         F      C              Bb
+My Deliverer is coming - my Deliv - erer is standing by 
+                       F/A                Bb       F/A      Am       Bb  C
+I will never doubt His prom-ise though I doubt my heart, I doubt my eyes 
+Dm Bb           Dm     Bb         F      C              Bb
+My Deliverer is coming - my Deliv - erer is standing by 
+
+Ebm Cb           Ebm     Cb         Gb     Db             Cb  Db
+My  Deliverer is com-ing - my Deliv - erer is standing by 
+Ebm Cb           Ebm     Cb         Gb     Db             Cb
+My  Deliverer is com-ing - my Deliv - erer is standing by 
+                        Gb/Bb                  Cb          Gb/Bb       Bbm      Cb  Db
+He will never break His prom - ise though the stars should break faith with the sky 
+Ebm Cb           Ebm     Cb         Gb     Db             Cb  Db
+My  Deliverer is com-ing - my Deliv - erer is standing by 
+
+Ebm Cb           Ebm     Cb         Gb     Db             Cb  Db
+My  Deliverer is com-ing - my Deliv - erer is standing by 
+My Deliverer is coming - my Deliverer is standing by 
+My Deliverer is coming - my Deliverer is standing by 
+My Deliverer is coming - my Deliverer is standing by 
+My Deliverer is coming - my Deliverer is standing by 
+My Deliverer is coming - my Deliverer is standing by 
+
+ Ebm    Cb       Gb    Db       Cb         Ebm    Cb     
+ Ebm    Cb       Gb    Db      Cb2
+ Gb/Bb            Cb    Gb/Bb      Bbm    Cb Db
+
+Ebm    Cb          Ebm     Cb     
+My  De-liv-erer is com-ing 
+
+ Gb   Db      Cb          Gb  Db      Cb

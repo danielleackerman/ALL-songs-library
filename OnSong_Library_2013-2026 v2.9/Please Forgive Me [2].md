@@ -1,0 +1,53 @@
+---
+title: "Please Forgive Me"
+artist: "The Crabb Family"
+key: A
+tempo: 
+tags:
+  - "Black-Gospel"
+  - "Choir"
+  - "Choruses"
+  - "Congregational"
+  - "Contemporary"
+  - "Energetic"
+  - "Medium-Slow"
+  - "Solo-Songs"
+  - "Southern-Gospel"
+  - "Traditional"
+  - "Worship"
+  - "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+medley: []
+id: "F8DF0760-D0EA-4E41-94E8-6E47BE253520"
+---
+
+Please Forgive Me 
+The Crabb Family
+Key: A
+CCLI: 2683214
+Copyright: 1997 Chestnut Mound Music
+
+INTRO: 
+[D/A] [A] [E7] [Asus4] [A] [A]
+
+VERSE 1:
+[E7]My sleep is gone, my heart is full of [D/A]sorr[A]ow
+I c[E7]an't believe how much I've let you [A]down
+I d[A]read the pain that [A/C#]waits for me to[D]morrow
+When the [A/E]sun reveals my broken dreams [E7]scattered on the [A]ground
+
+CHORUS:
+[A/E]Please for[Bm/A]give me       [A/C#]
+I need your [D]grace to make it [A]through
+[D]All I have is [A]you, 
+I'm [D/A]at y[A]our [A/E]mer[E7]cy
+
+Lord, [E7sus4]I'll [Asus4]serve [A]you   [A/C#]
+Un[D]til my dying [A]day
+Help [D]others find the [A]way
+[D/A]At [A]your me[E7]rcy, please for[Asus4]give   [A]me
+
+VERSE 2:
+I can't believe the god of earth and glory
+Would take the time to care for one like me
+But I read in the Bible that old story
+How he plead for my forgiveness while he was dying on a tree

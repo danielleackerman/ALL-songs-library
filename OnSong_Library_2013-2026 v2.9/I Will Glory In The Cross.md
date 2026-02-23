@@ -1,0 +1,36 @@
+---
+title: "I Will Glory In The Cross"
+artist: "Dottie Rambo"
+key: G
+tempo: 
+tags:
+  - "Cross"
+  - "Glory"
+medley: []
+id: "E78B02A2-0C5C-45F4-981E-27E65D806B19"
+---
+
+{title:I Will Glory In The Cross}
+{subtitle:Dottie Rambo}
+{key:G}
+
+(Verse:1)
+
+I [G]boast not of works,  nor [C]tell of good deeds
+For [G]naught [G/B]have [C]I [G/D]done, [G/B]to [A7]merit His [D7]grace
+All [G]glory and [G7/B]praise,  shall [C]rest upon [Cm]Him
+So [G/D]willing to [D7]die in my [G]place.
+
+(Cho:)
+
+[C/D]I will [G]glo----[C/G]ry in the [G]cross,   in the cross
+[G7/B]Lest His [C]suff'ring all [Bm7]be [Am7]in [G]vain
+I will [G]weep no [G7/B]more, for the [C]cross that He [Cm]bore
+I will [G/D]glory [Bm/C]in [D7]the [G]cross.
+
+(Verse:2)
+
+My [G]trophies and crowns,  my [C]robe stained with sin
+'Twas [G]all [G/B]that [C]I [G/D]had,  [G/B]to [A7]lay at His [D7]feet
+Un----[G]worthy to [G7/B]eat ,  from the [C]table of [Cm]Life
+'Til [G/D]love made pro----[D7]vision for [G]me.

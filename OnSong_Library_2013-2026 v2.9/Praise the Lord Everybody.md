@@ -1,0 +1,57 @@
+---
+title: "Praise the Lord Everybody"
+artist: ""
+key: C
+tempo: 114
+tags:
+  - "Black-Gospel"
+  - "Choir"
+  - "Choruses"
+  - "Congregational"
+  - "Contemporary"
+  - "High-Energy"
+  - "Medium-Fast-Shouting"
+  - "Praise"
+  - "Solo-Songs"
+  - "Southern-Gospel"
+  - "Traditional"
+  - "Worship"
+  - "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  - "OS-GOSPEL-FAST"
+medley:
+  - "[[I DON'T MIND GIVING GOD THE PRAISE]]"
+  - "[[THIS IS THE DAY THE LORD HAS MADE]]"
+  - "[[CAN'T NOBODY DO ME LIKE JESUS]]"
+id: "BDF2A446-C530-490D-A643-F88B996FFA29"
+---
+
+Praise the Lord Everybody
+Key: [C]
+Tempo: 114
+Keywords: OS GOSPEL FAST
+
+MEDLEY: I DON'T MIND GIVING GOD THE PRAISE / THIS IS THE DAY THE LORD HAS MADE / CAN'T NOBODY DO ME LIKE JESUS
+
+PRAISE THE LORD EVERBODY (say, said) (PRAISE THE LORD) 4x
+
+EVERYBODY OUGHT TO PRAISE THE LORD
+
+PRAISE THE LORD (PRAISE THE LORD) repeat
+
+FOR ALL THAT HES DONE(PRAISE THE LORD)
+FOR ALL THAT HE BROUGHT ME THROUGH(PRAISE THE LORD)
+FOR EVERYTHING(PRAISE THE LORD)
+FOR HOW HE BLESSED ME (PRAISE THE LORD)
+HE NEVER LEFT ME(PRAISE THE LORD)
+I GOT A REASON(PRAISE THE LORD)
+I GOT A REASON(PRAISE THE LORD)
+HES BEEN REAL GOOD(PRAISE THE LORD)
+HES BEEN REAL GOOD(PRAISE THE LORD)
+HE HEALED MY BODY(PRAISE THE LORD)
+TOUCHED MY MIND(PRAISE THE LORD)
+DELIVERED MY SOUL(PRAISE THE LORD)
+SAVED ME(PRAISE THE LORD)
+PRAISE THE LORD (PRAISE THE LORD) 3x
+
+PRAISE THE LORD EVERBODY (say, said) (PRAISE THE LORD) 4x
+EVERYBODY OUGHT TO PRAISE THE LORD

@@ -1,0 +1,84 @@
+---
+title: "Joy, Joy To The World"
+artist: "David Phelps"
+key: F
+tempo: 
+tags:
+  - "Jesus"
+  - "Praise"
+medley: []
+id: "01121C8E-4593-4515-9DF5-84D4008E3842"
+---
+
+Joy, Joy To The World
+David Phelps
+Key: F
+CCLI: 3457607
+Copyright: 2001 Bridge Building Music, Inc. / Matt Huesmann Music / Soulwriter Music Company, Inc. / Winkin' Music
+
+Fm                          Eb
+Like a drama unfolding, the curtain was opening
+   Db                     C/F
+An audience of angels was holding its breath
+  Db                    Csus        C/F
+A census, a manger, two travel worn strangers
+    Db                Csus    C
+The stage was finally set
+
+
+       Fm7                       Eb
+Angels folded their wings at the throne, worshipping
+       Db                      Csus    C
+As God whispered, “I love you, my Son.”
+Bbm7                         Gm7(b5)   C
+Jesus took off His crown and laying it down
+       Db      Bbm7    C7sus/G      F#m2
+Said, “Father, Thy will be done.”
+
+
+    F#m                   E
+The time had now come for God's only Son
+      D                    C#
+To be born as a light in a dark, lonely place
+      Bm7                           G#m7(b5)    C#
+So He stepped from Heaven's hall to Bethlehem's stall
+Dmaj7                Bm7        C#7sus/G#    Gm2
+Where a star lit His new   born face.
+
+
+     Gm                         F  
+Then God called to Gabriel with gladness and tears
+          Eb                          Dsus   D
+“Play the trumpet, the horns, and the strings
+         Cm7                             Am7(b5)       D7
+Tell the shepherds, and the wise men and all who will hear
+        Gm                D7sus   D7
+Command all the angels to sing
+         Gm            F          Eb      Eb   F
+Fill the sky with your voices and sing!”
+
+
+Bb              F                   Gm
+Joy, joy to the world Praise to the King
+Eb              Bb              F
+Oh, let it ring Joy, joy to the world
+            Ab2(no3)   Eb        F              D/F#      G
+Worship and sing       Jesus has come to bring… Jesus has come to bring
+C              G                    Am 
+Joy joy to the world praise to the king
+F              C              G                  Bb2
+Oh let it ring Joy joy to the world  worship and sing
+F         G  
+Jesus has come to bring
+
+
+C              G                    Am
+Joy joy to the world praise to the king
+          F    C              G                 Bb2
+Oh let it ring Joy joy to the world worship and sing
+F         G             F    Ebm7
+Jesus has come to bring     
+F         G            
+Jesus has come to bring, 
+Ab        Bb            C
+Jesus has come to bring joy!

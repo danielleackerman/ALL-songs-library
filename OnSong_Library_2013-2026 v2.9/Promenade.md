@@ -1,0 +1,149 @@
+---
+title: "Promenade"
+artist: "Rich Mullins"
+key: 
+tempo: 
+tags:
+  - "Peace"
+medley: []
+id: "C38E22DA-6739-4742-B6D3-A530F52C6238"
+---
+
+Promenade
+Rich Mullins
+Key: 
+
+tabbed by Joshua R. Craig
+<elcraig@cencom.net>
+
+This sounds pretty close to me, but feel free to send any suggestions.
+
+
+                                Promenade
+                                   by
+                               Rich Mullins
+                     from the Album "Brother's Keeper"
+
+
+G                            Cadd9   
+When the dancers took to the promenade
+G                            Cadd9   
+My heart lept high and I was unafraid
+Em                            C       G   
+Of the feelings I stifled for so many years
+C               D               G
+Singing tell me now, How do you feel?
+
+
+G                       
+Well the band took their places
+Cadd9
+And they got all in tune
+G
+Then the caller's voice
+Cadd9
+It rang out beneath the moon
+Em                                         C          G
+Then the boys grabbed their girls and they started to ????
+C               D               G
+Singing tell me now, How do you feel?
+
+
+D                                Cadd9    G
+The townspeople said that they'd call the police
+D                                  Cadd9            G
+If we didn't keep it down all this disturbing their peace
+Cadd9       G              Cadd9          G
+And officer Black, well he answered their pleas
+Em                    D            G
+And he went up on the hill just to see
+
+
+G                       
+Well he hid in the bushes 
+Cadd9
+Just a stone's throw away
+G
+And we all saw this change coming 
+Cadd9
+Over his face
+Em                                     C          G
+Then he jumped to his feet and started dancing on his heels
+C               D               G
+Singing tell me now, How do you feel?
+
+D
+And the townspeople asked
+        Cadd9     G
+If he'd made some arrests
+D
+Did he give them peace and quiet
+              Cadd9      G
+So they could go back to bed?
+                Cadd9          G
+He said If it's peace that you want
+            Cadd9      G
+You'll find it on that hill,
+Em                  D   
+But the silence you keep
+       C            G
+Is the silence that kills
+
+G                           Cadd9
+Then the townspeople got so uptight and mad
+           G
+Well, they fired him on the spot
+         Cadd9
+And they threw away his badge
+Em
+When they asked him to leave
+        Cadd9    G
+He said Surely I will
+              Cadd9   D               G
+And they said tell us now, How do you feel?
+
+G                            Cadd9
+When the dancers took to the promenade
+G                            Cadd9   
+My heart lept high and I was unafraid
+Em                            C       G   
+Of the feelings I stifled for so many years
+C               D               G
+Singing tell me now, How do you feel?
+
+
+--------------------------------------------------------
+updated lyrics by ComputaSaurus <FOSSK@carleton.edu>
+
+When the dancers took to the promenade
+Well my heart leapt high
+And I was unafraid
+Of the feeling I'd stifled for so many years
+Tell me how do you
+How do you feel
+Well the band took their places and got all in tune
+And then the caller's voice
+Well it ran out beneath the moon
+And then the boys took their girls and they started to reel
+And they were singin' how do you, how  do you feel
+And then the people in the town said that they'd call the police
+If we didn't keep down all this disturbin' their peace
+And officer Black, you know he answered their pleas
+And he ran up on the hill just to see
+Well he hid in the bushes just a stone's throw away
+And then we all saw this change comin' over his face
+But he was bouncin' to the beat and started hoppin' on his heels
+Singin', how do you do, how do you feel
+And then the towns people asked him if he'd make some arrests
+Could they find peace and quiet so they could go back to bed
+He said if its peace that you want you're gonna find it on that hill
+But the silence that you keep its the silence that kills
+So the towns people all got so uptight and mad
+You know they fired him on the spot and then they
+Threw away his badge
+Then they asked him to leave and he said gladly I will
+They said tell us now how do you feel
+He said, when the dancers took to the promenade
+Well my heart leapt high and I was unafraid
+of the feeling I'd stifled for so many years
+Tell me how do you, how do you feel

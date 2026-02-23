@@ -1,0 +1,57 @@
+---
+title: "I Still Believe"
+artist: "Jeremy Camp"
+key: D
+tempo: 
+tags:
+  - "Believe"
+medley: []
+id: "753B2A8D-EE8D-4647-9967-12EDA108D8C2"
+---
+
+I Still Believe
+Jeremy Camp
+Key: D
+Copyright: 2002 thirsty moon river
+
+Capo 1st fret
+Intro: D-A-G6*
+
+    D        A         G6              D       A          G6
+V1: Scattered words and empty thoughts/seem to pour from my heart
+    I've never felt so torn before/seems I don't know where to start
+     Bm                  A          G6
+    But it's now that I feel Your grace fall like rain
+    From every fingertip washing away my pain
+    
+    D          A          G6               D     A           G6
+CH: I still believe in Your faithfulness/I still believe in Your truth
+    I still believe in Your Holy Word/even when I don't see,I still believe
+
+    D          A               G6              D    A          G6
+V2: Though the questions still fog up my mind/with promises I still seem to bear
+    even when answers slowly unwind/it's my heart I see You've prepared 
+    Bm                    A              G6
+    But it's now that I feel Your grace fall like rain
+    From every fingertip washing away my pain
+    (back to chorus)
+  
+    Bm             A        G
+BR: The only place I can go is into Your arms/
+     Bm                 A          G
+    where I throw to you my feeble prayers
+    Bm            A               G
+    In brokenness I can see that this is Your will for me/
+    Bm              A
+    help me to know you are near
+(back to chorus)
+
+G6* - E|--|--|--|
+      B|--|--|O-|
+      G|--|--|--|
+      D|--|--|--|
+      A|--|O-|--|
+      E|--|--|O-|
+A great song...
+that is basically it, there is some picking and some random notes
+you'll have to work out.Good luck! And if you see any problems let me know

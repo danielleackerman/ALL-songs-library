@@ -1,0 +1,54 @@
+---
+title: "YAHWEH (His name is Yahweh, the Lord is One)"
+artist: "Carman, Gloria Gaither"
+key: Cm
+tempo: 81
+tags:
+  - "His-Name"
+  - "Redeemer"
+  - "OS-CHRISTIAN-MED"
+medley: []
+id: "9C54FBF5-8885-4CC3-9AA6-77C6EC5710D2"
+---
+
+YAHWEH (His name is Yahweh, the Lord is One)
+Carman, Gloria Gaither
+Key: Cm
+Tempo: 81
+Keywords: OS CHRISTIAN MED
+Copyright: 1984 Wiiliam J. Gaither, Inc, Bravo and Encore Music
+CCLI: 19894
+
+INTRO:
+[Cm][Fm][G]
+
+VERSE 1:
+[Cm]Call thy walls salvation, [Fm]Call by gates praise 
+[G]They'll be no moon to light the night, No [Cm]sun to light the [Cm/G]days 
+For God [C]shall be Thy glory, An [Fm]everlasting light 
+The [F]Lord [D]shall reign forever, In [G]power and [Gm]in might
+
+CHORUS:
+[C]'Cause His name is [Cm]Yahweh, The Lord is [Fm]one 
+His name is [G]Yahweh, The Lord is [Cm]one 
+[C]Alpha and Omega, Be[Fm]ginning and the end 
+The [G]word who reigns forever,Yahweh redeemer [Cm]friend [G]
+
+VERSE 2:
+His [Cm]people shall be righteous, They [Fm]shall possess this land 
+The [G]branches of his plantings, And The [Cm]works of his hands 
+For [C]from a small beginning, The [Fm]mighty nation grows 
+And [F]in the [D]fullness of His time, The [G]whole wide world will know[Gm]
+
+CHORUS:
+[C]'Cause His name is [Cm]Yahweh, The Lord is [Fm]one 
+His name is [G]Yahweh, The Lord is [Cm]one 
+[C]Alpha and Omega, Be[Fm]ginning and the end 
+The [G]word who reigns forever, Yahweh redeemer [Cm]friend [G]
+
+[Dm]That His name is still Yahweh, The Lord is [Gm]one 
+His name is [A]Yahweh, The Lord is [Dm]one 
+[D]Alpha and Omega, Be[Gm]ginning and the end 
+The [A]word who reigns forever, Yahweh redeemer [Dm]friend
+
+OS CHRISTIAN MED

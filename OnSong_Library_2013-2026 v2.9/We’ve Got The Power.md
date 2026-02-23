@@ -1,0 +1,61 @@
+---
+title: "We’ve Got The Power"
+artist: "(In the name of Jesus)"
+key: B
+tempo: 
+tags:
+  - "CCM"
+  - "Choir"
+  - "Choruses"
+  - "Congregational"
+  - "Jesus-Movement"
+  - "Maranatha"
+  - "Medium"
+  - "Praise"
+  - "Solo-Songs"
+  - "Worship"
+  - "CCM-Choir-Choruses-Congregational-Jesus-Movement-Maranatha-Medium-Praise-Solo-Songs-Worship"
+  - "Power"
+  - "OS-APO-MED"
+  - "COUNTRY"
+  - "HYMN"
+medley:
+  - "[[BREAK EVERY CHAIN]]"
+id: "21E429ED-D2AD-4BBA-916C-67F078AA65AE"
+---
+
+{title: We’ve Got The Power}
+(In the name of Jesus)
+LaVerne Tripp
+{keywords: OS APO MED, COUNTRY, HYMN}
+
+MEDLEY: BREAK EVERY CHAIN
+
+CHORUS:
+[B7+]We’ve got the [C]power in the name of [G]Jesus   [Em]
+We’ve got the  [D7]power in the name of the [G]Lord
+[G7]Though Satan [C]rages, we will not be [G]defeated   [Em]
+We’ve got the [D7]power, in the name of the [G]Lord.  
+
+VERSE 1:
+[G]give me your hands let's agree to[C]gether 
+[C]that all of our enemies will crumble at our [G]feet 
+[G]for what'ere we [C]bind on earth shall be bound in [G]heaven 
+[G]and at the name of [D7]Jesus Satan has to [G]flee
+
+VERSE 2:
+[G]for many years now Satan's tried to stop [C]us 
+[C]but the church of Jesus is still a[G]live 
+[G]like a mighty army [C]we keep marching [G]onward 
+[G]winning every [D7]battle with the Lord by our [G]side
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,78 @@
+---
+title: "We Have The Spirit Of David"
+artist: ""
+key: F
+tempo: 107
+tags:
+  - "CCM"
+  - "Choir"
+  - "Choruses"
+  - "Congregational"
+  - "Jesus-Movement"
+  - "Maranatha"
+  - "Medium"
+  - "Praise"
+  - "Solo-Songs"
+  - "Worship"
+  - "CCM-Choir-Choruses-Congregational-Jesus-Movement-Maranatha-Medium-Praise-Solo-Songs-Worship"
+  - "Presence"
+  - "OS-BLACK-GOSPEL"
+medley: []
+id: "078FD7BA-24D5-41A6-86CF-152D64B08460"
+---
+
+We Have The Spirit Of David
+Tempo: 107
+Keywords: OS BLACK GOSPEL
+
+
+CHORUS:
+[F]WE HAVE THE SPIRIT OF [Gm]DAVID
+[Bb]WE HAVE THE SPIRIT OF [F]PRAISE
+LONGING TO BE IN HIS [Gm]PRESENCE
+RE[Dm]JOICING IN THE LORD AL[C]WAYS
+[Am]LIFTING OUR HANDS IN THE [Bb]TEMPLE
+YOUR BANNER OF WORSHIP WE [F]RAISE
+WE HAVE THE SPIRIT OF [Gm]DAVID
+[Bb]WE HAVE THE SPIRIT OF [F]PRAISE
+
+VERSE 1:
+Just like that little boy David
+Let your praise begin today
+Taking the sword of the spirit
+And slaying the giants that stand in our way
+
+CHORUS:
+[F]WE HAVE THE SPIRIT OF [Gm]DAVID
+[Bb]WE HAVE THE SPIRIT OF [F]PRAISE
+LONGING TO BE IN HIS [Gm]PRESENCE
+RE[Dm]JOICING IN THE LORD AL[C]WAYS
+[Am]LIFTING OUR HANDS IN THE [Bb]TEMPLE
+YOUR BANNER OF WORSHIP WE [F]RAISE
+WE HAVE THE SPIRIT OF [Gm]DAVID
+[Bb]WE HAVE THE SPIRIT OF [F]PRAISE
+
+VERSE 2:
+Take up your harp from the willow
+Let your praise begin today
+And if the silence needs to be broken
+Arise and put on your garment of praise
+
+[F#]WE HAVE THE SPIRIT OF [G#m]DAVID
+[B]WE HAVE THE SPIRIT OF [F#]PRAISE
+LONGING TO BE IN HIS [G#m]PRESENCE
+RE[D#m]JOICING IN THE LORD AL[C#]WAYS
+[A#m]LIFTING OUR HANDS IN THE [B]TEMPLE
+YOUR BANNER OF WORSHIP WE [F#]RAISE
+WE HAVE THE SPIRIT OF [G#m]DAVID
+[B]WE HAVE THE SPIRIT OF [F#]PRAISE
+
+[A#m]LIFTING OUR HANDS IN THE [B]TEMPLE
+YOUR BANNER OF WORSHIP WE [F#]RAISE
+WE HAVE THE SPIRIT OF [G#m]DAVID
+[B]WE HAVE THE SPIRIT OF [F#]PRAISE
+
+[A#m]LIFTING OUR HANDS IN THE [B]TEMPLE
+YOUR BANNER OF WORSHIP WE [F#]RAISE
+WE HAVE THE SPIRIT OF [G#m]DAVID
+[B]WE HAVE THE SPIRIT OF [F#]PRAISE

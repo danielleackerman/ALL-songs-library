@@ -1,0 +1,57 @@
+---
+title: "I've Got a Right to Praise the Lord"
+artist: "Nancy Harmon, 1973"
+key: F
+tempo: 86
+tags:
+  - "Black-Gospel"
+  - "Choir"
+  - "Choruses"
+  - "Congregational"
+  - "Contemporary"
+  - "High-Energy"
+  - "Medium-Fast-Shouting"
+  - "Praise"
+  - "Solo-Songs"
+  - "Southern-Gospel"
+  - "Traditional"
+  - "Worship"
+  - "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  - "Children"
+  - "OS-APO-MED"
+  - "OS-GOSPEL-MED"
+medley:
+  - "[[I'VE BEEN REDEEMED]]"
+  - "[[I'VE GOT A RIGHT TO PRAISE THE LORD]]"
+id: "A7C6F4F8-24F0-4FF0-8783-170C425D5AE3"
+---
+
+{title: I've Got a Right to Praise the Lord}
+{artist: Nancy Harmon, 1973}
+{key: F}
+{tempo: 86}
+{keywords: OS APO MED, OS GOSPEL MED}
+{copyright: 1973 Renewed 2001 LeFevre-Sing Publishing (Admin. by ClearBox Rights, LLC)}
+{ccli: 313473}
+
+MEDLEY: I'VE BEEN REDEEMED / I'VE GOT A RIGHT TO PRAISE THE LORD
+
+Chorus:
+[F]I've got a [Bb]right to praise the [F]Lord
+I've got a [G7]right to lift my [C7]voice
+Ain't no[F]body got a [F/A]right like the children of the [Bb]Lord Who've seen the [Bº7]Light
+I've been re[F/C]deemed by the [Dm7]blood of the [G7]Lamb [C7]I've got a [F]right
+
+Verse 1:
+[F]I've got a lot to [F/A]thank the Lord about when I [Bb]think of what He's done for [F]me [Bb/C]
+[F]I've got a right to lift my hands and [Dm7]shout [G7] when I think of how He [C7]set me free
+[F]I've got a right to [F/A]lift my voice,[Bb] got a right to [Bº7]sing and rejoice
+[F/C]I've got a right to [Dm7]tell the world so Let the [G7]children of the [C7]Lord re[F]joice [Bb/C]
+
+Verse 2:
+I've got a lot to thank the lord about when I see him hanging on a tree
+I've got a right to lift my hands and shout when I think of how he died for me
+[F]I've got a right to [F/A]lift my voice,[Bb] got a right to [Bº7]sing and rejoice
+[F/C]I've got a right to [Dm7]tell the world so Let the [G7]children of the [C7]Lord re[F]joice [Bb/C]
+
+OS APO MED, OS GOSPEL MED

@@ -1,0 +1,87 @@
+---
+title: "Caught Up In The Middle"
+artist: "MercyMe"
+key: A
+tempo: 
+tags:
+  - "Alive"
+  - "Believe"
+medley: []
+id: "222DD364-2B6E-43E0-8D72-E69A9AE902BA"
+---
+
+Caught Up In The Middle
+MercyMe
+Key: A
+CCLI: 4312222
+Copyright: 2004 Simpleville Music 
+
+Intro:  Esus4/A  |  Esus4/A  |  B7/A  |  B7/A  |2x
+
+Verse 1:
+F#m            Esus
+  I've found a place
+            F#m                      Esus
+Where I can finally be a part of the story
+Esus/D  A      Esus
+  I've  been embraced
+       Esus/D    A       Esus
+By the wonderful arms of glory
+Esus/D     Esus/C#        Esus/F#    Esus
+There is nowhere else I'd rather     be
+
+Chorus:
+A                         Em7
+I believe Your spirit is alive and on the move
+   G            D                          A  |  A
+Oh I want to be caught up in the middle of You
+  A                         Em7
+I wanna be a part of what I know you're gonna do
+   G          D                          A    A
+Oh I wanna be caught up in the middle of You
+
+Verse 2:
+F#m          Esus
+   I finally see
+         F#m             Esus
+The very reason for my existence
+F#m           Esus
+      I am complete
+          F#m                 Esus
+When I'm standing within Your presence
+    Esus/D   Esus/C#        Esus/F#    Esus
+And now I know where I'm supposed to be
+
+
+Chorus:
+A                         Em7
+I believe Your spirit is alive and on the move
+   G            D                          A  |  A
+Oh I want to be caught up in the middle of You
+  A                         Em7
+I wanna be a part of what I know you're gonna do
+   G          D                         
+Oh I wanna be caught up in the middle of 
+
+Bridge:
+F                          A
+  You have called me all along
+F                         Esus4/A
+  This is right where I belong
+F2
+Caught up in You
+G2                   
+Caught up in You
+
+Chorus:
+A (let ring & sound-effects)   Em7                 (band kicks in)
+I believe Your spirit is      alive and on the move
+   G            D                          A  |  A
+Oh I want to be caught up in the middle of You
+  A                         Em7
+I wanna be a part of what I know you're gonna do
+   G          D                          A    A
+Oh I wanna be caught up in the middle of You
+A (all the way out)
+Caught up in the middle
+Caught up

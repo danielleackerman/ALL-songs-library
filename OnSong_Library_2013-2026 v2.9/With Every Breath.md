@@ -1,0 +1,99 @@
+---
+title: "With Every Breath"
+artist: "Jars Of Clay"
+key: 
+tempo: 
+tags:
+  - "Praise"
+medley: []
+id: "7C770C2A-E388-4088-8C0E-A21B16B87E2E"
+---
+
+With Every Breath
+Jars Of Clay
+Key: 
+Copyright: 2000 Storm Boy Music / BMI (adm. by The Loving Co)
+
+Intro (2x):
+E	A2	C#m7	
+
+E	                   A2
+Hallelujah from the heavens
+C#m7                                      
+Hallelujah in the heights above the earth
+E                        A2
+Hallelujah all His angels
+C#m7                                  
+Hallelujah for the last will be first
+       A2               Bsus            C#m7            
+Let everything that has breath praise the Lord
+       A2               Bsus            C#m7            
+Let everything that has breath praise the Lord
+
+E                        A2   
+Hallelujah in the morning
+C#m7
+Hallelujah for the beauty of His scars
+E                         A2
+Hallelujah in the twilight
+C#m7
+Hallelujah sun and moon and shining stars
+       A2               Bsus           C#m7            
+Let everything that has breath praise the Lord
+       A2               Bsus           C#m7            
+Let everything that has breath praise the Lord
+
+        A2              Bsus  E 	 Bsus
+When the night seems so long (throw your hands to the sky)
+       A2       Bsus     E        Bsus
+You can sing a new song (wipe the tears from your eyes)
+            A2       Bsus     E
+When you're weak, He is strong
+                 A2
+He can heal your wounded soul
+    Bsus
+And calm the storms inside
+
+Solo (2x)
+E   A2   C#m7 
+
+     
+    E                        A2
+For all your times of laughter
+   C#m7
+In every hopeful prayer
+
+         E                             A2	
+When the world weighs on your shoulders
+        C#m7
+Through sorrow and your despair
+        A2                  Bsus          C#m7 
+With everything, with every breath, praise the Lord
+        A2                Bsus         C#m7
+Let everything, let every breath praise the Lord
+
+       A2               Bsus          C#m7    E
+Let everything that has breath praise the Lord
+       A2               Bsus          C#m7    E
+Let everything that has breath praise the Lord
+       A2               Bsus          C#m7    E
+Let everything that has breath praise the Lord
+       A2               Bsus          C#m7        
+Let everything with every breath praise the Lord
+
+        A2              Bsus   E	 Bsus
+When the night seems so long (throw your hands to the sky)
+        A2      Bsus     E        Bsus
+You can sing a new song (wipe the tears from your eyes)
+            A2       Bsus     E
+When you're weak, He is strong
+                 A2
+He can heal your wounded soul
+    Bsus     		  E
+And calm the storms inside
+
+
+A2: 002200
+Bsus:  024400
+C#m7:  046600
+E : 022100

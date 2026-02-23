@@ -1,0 +1,59 @@
+---
+title: "Creed"
+artist: "Rich Mullins"
+key: C
+tempo: 
+tags:
+  - "Believe"
+  - "Heaven"
+medley: []
+id: "3F49ED5E-B66F-42F2-87ED-9F0740AF502D"
+---
+
+Creed
+Rich Mullins
+Key: C
+CCLI: 1263924
+Copyright: 1993 BMG Songs, Inc.
+
+Intro: Em   D5   Em   D5   Am   Csus2   Am   G/B   Csus2  D  G  Gsus  G  G Gsus G
+
+Verse 1:
+                                     G       Gsus           G                          G  Gsus
+I believe in God the Father		Almighty maker of heaven  And maker of earth		
+       G                                                Gsus  G
+and in Jesus Christ His only begotten        Son  our Lord
+                                                    C   Csus   C           G  Gsus   G
+He was conceived by the Holy Spirit            Born of the virgin Marry
+                                           G  Gsus  G
+Suffered under Pontius Pilate	He was crucified and dead and buried
+
+Chorus:
+Em                                                   D      Dsus  D
+ I believe what I believe, its what makes me what I am
+        Csus2 
+Well I did not make it, no it is making me
+                                                               G   Gsus  G
+It is the very truth of God and not the invention of any man
+
+Verse 2:
+                                           G   Gsus  G              G  Gsus  G
+I believe that He who suffered	  was crucified buried and dead
+                                                                                                 `C   Csus   C
+He descended into Hell and on the third day he rose again 
+                                      C   Csus  C                               G   Gsus  G
+He ascended into heaven 		were He sits at Gods mighty right hand
+                                       G   Gsus  G
+I believe that He’s returning          to judge the quick and the dead and the son’s of man
+
+Verse 3
+G                                 Gsus    G                                 G   Gsus  G
+I believe in God the Father	almighty maker of heaven and maker of earth
+                                     Gsus   G      Gsus         G     Gsus       C  Csus  C
+And I Jesus Christ His only begotten  		son our Lord
+C                      F/C             C           F/C                  F/C   
+I believe in the Holy Spirit, one Holy Church	the communion of Saints 
+               C                 F/C   C                    F/C   C   F/C
+The forgiveness of sin      I believe in the resurrection
+              C                  F/C
+I believe in a life that never ends

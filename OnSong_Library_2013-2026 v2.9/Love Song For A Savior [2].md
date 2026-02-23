@@ -1,0 +1,143 @@
+---
+title: "Love Song For A Savior"
+artist: "Jars Of Clay"
+key: G
+tempo: 
+tags:
+  - "Love"
+  - "Savior"
+medley: []
+id: "CF5B0306-7EB6-4CE6-9621-CA111C7D5989"
+---
+
+Love Song For A Savior
+Jars Of Clay
+Key: G
+CCLI: 1848569
+Copyright: 1995 Pogostick Music 
+
+INTRO:
+Em D G (x2)
+
+VERSE 1:
+Em      D              G
+In open fields of wild flowers
+Em              D              G
+She breaths the air and flies away
+                             Em
+She thanks her Jesus for the daisies
+        D        G
+And the roses in no simple language
+Em             D    G
+Someday she'll understand the meaning of it all
+
+BRIDGE:
+Bb                                 G
+He's more than the laughter or the stars in the heavens
+   Bb                        G
+As close as a heartbeat or a song on her lips
+Bb                           G
+Someday she'll trust Him and learn how to see Him
+Bb                         Am
+Someday He'll call her and she will come running
+    Ab                       Em             D
+And fall in His arms and the tears wil fall down and she'll pray
+
+CHORUS:
+G         C                 Am
+I want to fall in love with You
+          Em      D
+I want to fall in love with You (x2)
+Em D G (x2)
+
+VERSE 2:
+Em      D              G
+Sitting silent wearing Sunday best
+Em         D                  G
+The sermon echoes through the wall
+                             Em           D
+A great salvation through it calls to the people
+               G
+Who stare into nowhere
+    Em             D               G
+And can't fell the chains on their souls
+
+BRIDGE
+
+CHORUS
+
+Em D G
+A B E D A B A A D
+
+VERSE 3:
+Em           D                G
+It seems too easy to call you Savior
+Em        D                  G
+Not close enough to call you God
+                         Em          D
+So as I sit and think of words I can mention
+   G
+To show my devotion
+
+CHORUS (REPEAT AND FADE)
+
+--------------------------------------------
+Alternate Tuning transcribed by: Nolan Rossi
+Edited by: Todd Bateman
+--------------------------------------------
+
+Tunning
+E-A-B-E-B-e
+
+capo 3rd
+(All fret numbers are counted from capo)
+
+There are two basic chord formations and one extra:
+
+       1------Stated by fret number to play                             
+E---X---
+A---0---    The X's can stand for any fret.
+B---X---    on most songs, strum all strings
+E---0---
+B---0---
+e---0---
+
+      2
+E---0---       
+A---2---
+B---0---      Always on first second
+E---0--- strum all
+B---0---
+e---0---
+
+      3
+E-----0---
+A-----0---
+B-----2---
+E-----0---
+B-----0---
+e-----0---
+         5a  
+E-----0---
+A-----5---
+B-----0---  always on fifth.
+E-----5---
+B-----0---
+e-----0---
+
+
+        6
+E-----0----
+A-----0----
+B-----5----
+E-----0----
+B-----5----
+e-----0----
+Intro & Verse
+9-7-2
+
+Pre-chorus
+5a-2-5a-2-5a-2-5a-3-6-9-7-2
+
+Chorus
+2-6-3-9-7-2

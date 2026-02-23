@@ -1,0 +1,43 @@
+---
+title: "Spirit Break Out--LYRICS ONLY--2"
+artist: "WILLIAM MCDOWELL"
+key: C
+tempo: 
+tags:
+  - "Heaven"
+medley: []
+id: "85922DC2-93C3-4E23-9FEA-D1D829758398"
+---
+
+Spirit Break Out--LYRICS ONLY--2
+WILLIAM MCDOWELL
+Key: C
+CCLI: 5833975
+Copyright: 2010 Thankyou 
+
+
+Verse 1 (4x):
+Our Father  
+All of heaven shouts Your Name             
+Sing louder 
+Let this place erupt with praise        
+Can you hear it?   
+The sound of heaven touching earth
+The sound of heaven touching earth               
+
+
+Chorus (3x):
+Spirit break out  
+Break our walls down 
+Spirit break out  
+Heaven come down 
+
+
+Verse 2 (2x):
+King Jesus
+You're the name we're lifting high
+Your glory
+Shaking up the earth and skies
+Revival
+We want to see Your kingdom here
+We want to see Your kingdom here

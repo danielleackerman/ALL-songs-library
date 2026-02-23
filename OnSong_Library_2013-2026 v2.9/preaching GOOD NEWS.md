@@ -1,0 +1,209 @@
+---
+title: "preaching GOOD NEWS"
+artist: "BROTHER JELDERKS"
+key: 
+tempo: 
+tags:
+  - "Jesus"
+  - "Believe"
+medley: []
+id: "79E96BB0-A0F6-41A4-A6F7-79694D1D2209"
+---
+
+preaching GOOD NEWS
+BROTHER JELDERKS
+May 2019
+
+Isaiah 52:7 KJVS
+7 How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!
+
+Romans 8:1 KJVS
+1 There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
+
+In him I can hope
+In him I can trust
+When I get some bad news 
+He lets me know everything’s gonna be al, right
+It’s gonna be ok
+
+A rock I can build my life on
+
+The mind of man
+The fallen mind of man
+The corrupt mind of man
+
+Every mind is right in his own eyes
+
+The devil fell for pride in hi heart
+Adam and Eve
+Fell because
+
+So many divid
+So many 
+Science experiment trying hi prove god ain’t real
+Witchcraft and the creepy crawly things of the night
+
+Romans 8:1 KJVS
+1 There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
+
+There’s no hope for you
+You’re a loser
+You’re taking up space and crimping their style
+
+We think we’re always right
+When we do sin we’re afraid
+Just because the answer doesn’t come quickly 
+Doesn’t means it not coming
+
+Pray with importunity
+God will answer it yes
+He will answer it no
+He will answer it wait and see
+
+God will be clear and let you know
+He will answer in a way you never thought of
+Just wait, it’s coming
+Wait in God and trust him
+
+Wait and let him guide you and he will show you its beautiful 
+
+You never know what God’s gonna do
+Even if you mess up and you’re under condemnation\
+Get right with God
+I’m sorry 
+God forgive me
+Now I’m walking in the spirit
+And I meant it
+
+God is faithful 
+
+Romans 8:2 KJVS
+2 For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.
+
+There are so many things that block us
+We’re not worthy
+We’re worthless
+All the things that hold us back
+He takes the foolish things of the world to confound the rise
+God takes the low things 
+And brings them up
+
+Don’t let the devil tell you
+You’re nothing but royalty
+
+Royalty
+Loyalty
+
+Faithful
+Faithful
+Faithful
+
+War never left David’s house
+Because of the sin he made
+Yet his son took the throne
+And Jesus is the root and offspring of him
+
+They didn’t have the joy and peace like we have it
+
+Romans 8:3-7 KJVS
+3 For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh: 4 That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit. 5 For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit. 6 For to be carnally minded is death; but to be spiritually minded is life and peace. 7 Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.
+
+A problem half stated
+Is a problem half solved
+
+I’m going to walk after the sprit 
+
+Life wife
+Loyalty royalty
+
+Gospel
+Eu
+Good message
+New Testament 
+Synoptic gospels
+
+Marathon runners
+
+Your god reignite
+I’m excited about about living for Jesus today
+
+There’s no reason to be down and out at church
+
+The gospel of our lord Jesus Christ
+
+Gets down inside of you
+It helps sustain you
+
+The gospel v. The anti-gospel
+
+He wants to take away your piece
+Take away your joy
+
+There is no room in God’s kingdom for anxiety
+God clothed the field
+
+How am I supposed to keep going
+What about the bills
+What about my health
+What about
+
+He never let me down 
+
+It’s the devils business to create fake news
+That’s how deadly a lie is
+There is a war for our mind
+We believe things we know they’re not true
+
+The devil told eve if you eat of that fruit you shall surely die
+
+I know vs. I believe or I think
+
+Hearst and Pulitzer fomented the Spanish-American war
+
+The power of deception
+
+2 Corinthians 10:3-4 KJVS
+3 For though we walk in the flesh, we do not war after the flesh: 4 (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)
+
+What do you want in God
+Is he a good god or not
+Are we praying for him
+Are we talking to god about them
+
+When you begin to pray
+You’re pulling down strongholds
+
+In the world but not of it
+
+2 Corinthians 10:5 KJVS
+5 Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
+
+You think that is us the way it’s gonna be
+And God says no
+
+You become the change you want to see
+I want you to worship God
+
+Warring in the spirit
+Everybody singing
+
+Sanctify my mind
+Gird up the loins of your mind
+I’m not going to believe that”I’m not going to listen to that
+
+Colossians 3:1-4 KJVS
+1 If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God. 2 Set your affection on things above, not on things on the earth. 3 For ye are dead, and your life is hid with Christ in God. 4 When Christ, who is our life, shall appear, then shall ye also appear with him in glory.
+
+I’m so glad there were 12 apostles
+
+Philippians 1:27 KJVS
+27 Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;
+
+
+We got to let god write something on our heart today
+
+Lay hold on eternal life
+Fight the good fight
+Let god write something on your heart
+
+Write you gospel on my heart and on my mind

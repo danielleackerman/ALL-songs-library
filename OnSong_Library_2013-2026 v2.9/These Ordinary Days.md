@@ -1,0 +1,77 @@
+---
+title: "These Ordinary Days"
+artist: "Jars Of Clay"
+key: G
+tempo: 
+tags:
+medley: []
+id: "F67AAE80-15A5-46CB-8E48-2F98D628D95D"
+---
+
+These Ordinary Days
+Jars Of Clay
+Key: G
+CCLI: 3605909
+Copyright: 2002 Bridge Building Music, Inc. / Pogostick Music
+
+Capo 5
+
+Intro: C  G  C  G
+
+Intro licks (relative to capo)  (NOTE:  tablature will not transpose on this website)
+---------------------------------0---
+---------0------------------0------3-
+------0h2-2p0------------0h2—2p0-----
+-----0--------2-0-------0------------
+----2------------------2-------------
+---3------------------3--------------
+
+      C		 	  G
+Not much for conversation
+  C       	         G	
+I still find need to pray
+                 C		 G
+Sometimes I get tired of walking through
+      D        Em7
+These ordinary days
+
+           C             		G
+If nothing else I get to see you
+     C          		 G
+Even if we never speak
+            C               			    G
+The harm of words is sometimes we don't quite know
+D                Em7
+What they really mean
+
+
+Chorus
+	          C	G	    	 C	G
+I don't know where I don't know how
+  	   C		G
+I don't know why
+		  Em
+But your love can make these things better
+
+
+(Instrumental repeat beginning)
+
+       C                G
+Let me lay down in this field
+     C		    G
+And stare up at the sky
+            C                    G
+I hope the days and clouds turn into something
+D		Em7
+As they pass us by
+
+C                G
+Maybe you could settle 
+       C            G
+For a skyline faded blue
+   C                   G
+I hope that you might settle for 
+      D              Em7
+this love I have for you
+
+(chorus)

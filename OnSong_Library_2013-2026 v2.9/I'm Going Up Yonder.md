@@ -1,0 +1,67 @@
+---
+title: "I'm Going Up Yonder"
+artist: "Tramaine Hawkins"
+key: F
+tempo: 
+tags:
+  - "Black-Gospel"
+  - "Choir"
+  - "Choruses"
+  - "Congregational"
+  - "Contemporary"
+  - "Medium"
+  - "Praise"
+  - "Solo-Songs"
+  - "Southern-Gospel"
+  - "Traditional"
+  - "Worship"
+  - "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+medley: []
+id: "5228F27C-7356-40D8-93CE-EF06AF7FAE7A"
+---
+
+{title:I'm Going Up Yonder}
+Tramaine Hawkins
+{key:F}
+
+VERSE 1:
+[C/F]If you want to know, [F/Bb]where I'm going.  [BbM7]       [Am7]
+[Gm7]Where I'm going  [Bb/C]
+[C/F]Soon.    [Bb/C]
+If [C/F]anybody ask you,   [F/Bb]where I'm going. [BbM7]       [Am7]
+[Gm7]Where I'm going  [Bb/C]       
+[C/F]Soon.    [Asus]
+
+CHORUS 2x:
+I'm [Dm7]going up yonder.    [Dm]         [C]
+I'm [F/Bb]going up yonder.   [BbM7]       [Am7]
+I'm [Gm7]going up yonder,    [Bb/C]     
+To be with my [C/F]Lord.     [Bb/C]
+
+VERSE 2:
+[C/F]I can take the pain, the [F/Bb]heartaches they bring.  [BbM7]    [Am7]
+There's [Gm7]comfort in knowing,    [Bb/C]    
+I'll soon be [C/F]gone.    [Bb/C]
+As [C/F]God gives me grace,  I'll [F/Bb]run this race.  [BbM7]        [Am7]
+Un[Gm7]til I see my Savior,     [Bb/C]
+Face to [C/F]face.     [Asus]
+
+CHORUS:
+I'm [Dm7]going up yonder.    [Dm]         [C]
+I'm [F/Bb]going up yonder.   [BbM7]       [Am7]
+I'm [Gm7]going up yonder,    [Bb/C]     
+To be with my [C/F]Lord.     [Bb/C]
+
+VERSE 1:
+If [C/F]anybody ask you,   [F/Bb]where I'm going. [BbM7]       [Am7]
+[Gm7]Where I'm going  [Bb/C]       
+[C/F]Soon.    [Asus]
+If [C/F]anybody ask you,   [F/Bb]where I'm going. [BbM7]       [Am7]
+[Gm7]Where I'm going  [Bb/C]       
+[C/F]Soon.    [Asus]
+
+CHORUS 2x:
+I'm [Dm7]going up yonder.    [Dm]         [C]
+I'm [F/Bb]going up yonder.   [BbM7]       [Am7]
+I'm [Gm7]going up yonder,    [Bb/C]     
+To be with my [C/F]Lord.     [Bb/C]

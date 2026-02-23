@@ -1,0 +1,23 @@
+---
+title: "We Praise You, Oh Lord"
+artist: "Myles Young"
+key: Bb
+tempo: 
+tags:
+  - "Praise"
+  - "MOD-APO-SLOW"
+medley: []
+id: "8B2CBC48-D034-429B-A3B3-795AC261F5AB"
+---
+
+We Praise You, Oh Lord
+Artist: Myles Young
+Key : [Bb]
+Keywords: MOD APO SLOW
+
+CHORUS:
+[Eb/F]   We [Bb2]praise [Bb/D]You, [F/Eb]Oh Lo[Eb/G]rd, [Cm9] [F7sus]Give [Eb2]honor to [Bbmaj7]Thy [Bbsus]name
+[Eb/F]For [Bb2]Thou [Bb/D]alone [F/Eb]art wor[Eb2]thy, [Bb/F]Oh Lord [Eb6/F]Most [Bb2]High
+
+[Bb]We [Bb]praise You, [Cm6]Oh  [Cm6]Lord [Cm9], [Gm]Give [F]ho[Gm]nor [F]to [Eb]Thy na[Bbmaj7]me
+[Bb]For Thou alone [F7]art wor[Gm]thy, [Gm]Oh [F]Lord [Adim7]Most [Bb]High

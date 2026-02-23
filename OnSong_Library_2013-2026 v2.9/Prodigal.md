@@ -1,0 +1,67 @@
+---
+title: "Prodigal"
+artist: "Casting Crowns"
+key: C
+tempo: 
+tags:
+  - "Prodigal"
+medley: []
+id: "EBE9A08E-26C3-4D4D-8DB4-80B4BAE0C477"
+---
+
+Prodigal
+Casting Crowns
+Key: C
+CCLI: 4578853
+Copyright: 2005 Club Zoo Music / SWECS Music
+
+Capo 3 (For same as Album)
+Am F C G Am F C G 
+
+
+             Am	       F
+Living on my own, thinking for myself
+          C	        G
+Castles in sand, temporary wealth
+		  Am		           F
+Walls are falling down; storms are closing in
+		      C	     G
+Tears have filled my eyes, here I am again
+
+
+	 Am	     F         C    G
+And I've held out as long as I can
+	 Am	       F               C    G
+Now I'm letting go and holding out my hand
+
+
+Chorus:
+Am	         F		 C	      G
+Daddy, here I am again, will you take me back tonight
+Am			     F		    C		     G
+I went and made the world my friend, and it left me high and dry
+F		      Am
+I drag your name back through the mud
+G			F
+That you first found me in
+F		  Am
+Not worthy to be called your son
+G		 F	
+Is this to be my end?
+		Am F
+Daddy, here I am
+		C  G
+Here I am again
+
+
+		   Am				F
+Curse this morning sun, drags me in to one more day
+		     C		              G
+Of reaping what I've sown, of living with my shame
+	      Am			      F
+Welcome to my world, and the life that I have made
+		       C			     G
+Where one day you're a prince, the next day you’re a slave
+
+
+Chorus

@@ -1,0 +1,81 @@
+---
+title: "With The Wonder"
+artist: "Rich Mullins"
+key: 
+tempo: 
+tags:
+  - "Wonder"
+medley: []
+id: "E3EF41C9-012A-483E-BF2E-597501A5A303"
+---
+
+With The Wonder
+Rich Mullins
+Key: 
+
+With the Wonder
+Rich Mullins
+
+Psalm 19:1-4
+
+ G	       C/G D/G  G
+	 G				    C/G  D/G  G
+Down at Johnson's creek the trees grow tall
+       Em
+Like a man who feeds his soul on Your Word
+	   Bm
+And I can look in the water, I can see the stars fall
+	  Am7			        C/D
+Hear the fires crackle and the crickets chirp
+		G				  C/G  D/G  G
+And there are bluffs on the banks of the Cumberland
+	    Em
+Where I can see the sunrise from a world away
+		  Bm
+And I can see the marvelous things that You have done
+	Am7		              C/D    G
+In this beautiful world that You have made
+
+And in the winter it's white in the summer it's green
+And in the fall it's orange and red and gold
+Then it comes alive in the rites of spring
+When the rivers thaw and the flowers unfold
+And there are beads of dew on a spider's web
+And there are motes of dust in these beams of light
+We who are bone and spittle and muscle and sweat
+We live together in a world where it's good to be alive
+
+Chorus:
+	    C			   D/C
+'Cause it flutters and floats, it falls and it climbs
+     C			   D/C
+It spins and sputters and spurts
+     G
+And You filled this world with wonders 'round every turn
+	C		     D/C
+And it buzzes and beeps, it shimmies and shines
+     C			   Am67sus
+It rattles and patters and purrs
+	Bm67
+And You filled this world with wonders and I'm
+C2		 		 G
+Filled with the wonder of Your world
+
+If there's a better world and a brighter day
+Even brighter than the one we're in
+We'd all be fools to think that it could be made
+By the wills and the hands of foolish men
+So Lord to You we give our deepest praise
+And to You we sing our loudest songs
+And while we live in the world that You have made
+We hear it whisper of a world, of the world that is to come
+
+CHORUS
+    G    Em   G    Em   G    Em   C    G
+|:( 4 )( 4 )( 4 )( 4 )( 4 )( 4 )( 4 )( 4 ):|
+repeat and fade
+
+
+
+Words and music by Rich Mullins
+© 1988 Edward Grant, Inc. (ASCAP)

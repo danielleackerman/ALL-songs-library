@@ -1,0 +1,54 @@
+---
+title: "The Only Name (Yours Will Be)"
+artist: "Big Daddy Weave"
+key: C
+tempo: 
+tags:
+  - "Jesus"
+medley: []
+id: "3C230DB0-EDB4-4557-B6D6-EC2979370079"
+---
+
+The Only Name (Yours Will Be)
+Big Daddy Weave
+Key: C
+CCLI: 6223704
+Copyright: 2011 Word Music, LLC
+
+Verse 1:
+  C                                F
+Yours will be…the only Name that matters to me.
+                         Dm
+The only One Whose favor I seek.
+        G                     C
+The only Name that matters to me!
+
+Verse 2:
+  C                                           F  
+Yours will be…the friendship an affection I need.
+                           Dm
+To feel my Father smiling on me,
+        G                     C
+The only Name that matters to me!
+
+Pre-Chorus:
+  F
+Yours is the Name, the Name that has saved me.
+ Am
+Mercy and grace, the power that forgave me,
+  F         G                    C
+And Your love is all I’ve ever needed!
+
+Chorus:
+  C
+When I wake up in the Land of Glory
+      F
+With the saints I will tell my story.
+  Dm               G             C
+There will be one Name that I proclaim!
+
+la la la la....
+
+Bridge:
+ C       F      Dm     G        C
+Jesus, Jesus, Jesus, just that Name!

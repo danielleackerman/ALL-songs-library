@@ -1,0 +1,111 @@
+---
+title: "Ready"
+artist: "Third Day"
+key: G
+tempo: 
+tags:
+  - "Love"
+  - "Mercy"
+medley: []
+id: "47D1815F-835A-4141-8C72-67486A65002F"
+---
+
+Ready
+Third Day
+Key: G
+CCLI: 5208562
+Copyright: 2008 Consuming Fire Music
+
+
+Intro:
+Em - A - C - D2 - Em - A - C
+
+
+Verse 1:
+Em                 A                C                D2
+  I'm ready for the winds to change,  I'm ready for a  brighter day
+Em                 A              C
+  I'm ready for the sun to shine down on me
+Em                 A             C                  D2 
+  I'm waitin' for a song to sing,  I'm lookin' for a  brand new thing
+Em                A                  C
+  I'm ready now to live a life that I believe...
+
+
+Chorus:
+             C               G                  Em            D
+  I want the world to turn because of love, and mercy to find each of us
+  C              G              D
+  Doin' what we can to just believe
+              C                  G                  Em               D
+  I want the world to know that You're the one, who fills me up and gives me hope
+       C                 G               D                (C)
+  And brings about this change that's in me... oh, yah I'm (ready)
+
+
+Break 1:
+(C)     G      D                    C       G     D    B/D#
+ (Ready),.....yah......You know I'm   ready...now...
+
+
+Verse 2:
+Em                 A            C                   D2
+  I'm ready for the truth to be...somethin' that can set us free
+Em             A                    D
+  Does anybody still believe we'll make it through?
+Em                 A            C                   D2
+  I'm ready now to take a stand,  to live life for more than myself
+Em               A                C
+  Tell me now, my friend, are you ready, too?
+
+
+Chorus 2:
+               C             G                  Em           D      
+  I want the world to turn because of love, and mercy to find each of us
+  C             G              D
+  Doin' what we can to just believe
+             C                  G                    Em              D
+  I want the world to know that You're the one, who fills me up and gives me hope
+        C                G               D            (C)
+  And brings about this change that's in me....oh, I'm (ready)
+
+
+Break 2:
+(C)      G   D                  C      G      D     B/D#
+  (Ready)...yah....You know I'm  ready....now...
+
+
+Bridge:
+C                    G         B/D#             Em
+  I can't sit around waiting...for it all to change...
+              C                   G        D
+  It's gonna take every single one of us...doing what we can...
+C                          G                           B/D#            Em
+  There's lots of fightin' in this world,  but there's so much lovin', too
+     C                  G            B
+  So take my hand,  I'm ready now for YOU.....
+
+
+Chorus 3:
+               C             G                   Em            D
+  I want the world to turn because of love,  and mercy to fine each of us
+    C            G             D
+  Doin' what we can to just believe...
+                C               G                   Em              D
+  I want the world to know that You're the one, who fills me up and gives me hope
+       C                 G              D                   (C) 
+  And brings about this change that's in  me,....oh, yah I'm (ready)
+
+
+Break 3:
+(C)     G    D                C       G            D
+ (Ready)...yah...You know I'm  ready....yah, yah, yah...
+                 C         G     D               C        G   D       B/D# 
+  Lord knows I'm   ready,...now.....You know I'm   ready.....
+
+
+Outro:
+Em                 A                C                D2               
+  I'm ready for the winds to change,  I'm ready for a brighter day...
+
+Em(let ring)

@@ -1,0 +1,77 @@
+---
+title: "Let Mercy Lead"
+artist: "Rich Mullins"
+key: 
+tempo: 
+tags:
+  - "Love"
+  - "Mercy"
+medley: []
+id: "268D2737-0A59-43D5-8FC3-E4AE85511209"
+---
+
+Let Mercy Lead
+Rich Mullins
+Key: 
+
+Let Mercy Lead
+Rich Mullins
+
+   E    F#m7      E/G#   A         E    F#m7      E/G#   A
+E            F#m7 E/G#	       	      A  /B  C#m  G#m  A2  /B
+Aidan you're young, but Aidan you're growing fast
+E	   F#m7 E/G#	       A  /B  C#m  G#m  A2
+Me and your mom   and all the love we have
+G#m7	     A2		   G#m7            A
+We can only take you so far, as far as we can
+         A2		      Badd4/A                   A2       Badd4/A
+But you need something more to guide your heart as you grow into a man
+
+Chorus:
+	   B    E		 A2	         E
+Let mercy lead let love be the strength in your legs
+       A2	       C#m	      	       A2	    F#m7
+And in every footprint that you leave there'll be a drop of grace
+	    B  E	   A2	           E     A2	       C#m
+If we can reach beyond the wisdom of this age, into the foolishness of God
+      A2	     		        F#m7
+That foolishness will save those who believe
+	       C#m		                        A2
+Although their foolish hearts may break they will find peace
+	 F#m7				     E    F#m7  E/G# E
+And I'll meet you in that place where mercy leads
+
+Aidan the day, Aidan the day will come
+You'll run the race that takes us way beyond
+All our trials and all our failures and all the good we dream of
+But you can't see yet where it is you're heading
+But one day you'll see the face of love
+
+CHORUS
+	    F#m7			        B   E
+...and I'll meet you in that place where mercy leads
+  A   E      A   C#m    A  F#m7    B  E	      A  E       A   C#m    A   F#m7
+
+CHORUS
+	    F#m7				B   E
+...and I'll meet you in that place where mercy leads
+  A  E       A   C#m    A   F#m7
+	   B   E	   
+Let mercy lead
+  A  E       A   C#m    A   F#m7
+
+vamp:
+Let mercy lead, let love be the strength in your legs
+And in every footprint that you leave there'll be a drop of grace
+If we can reach beyond the wisdom of this age
+Into the foolishness of God, that foolishness will save
+           B   E
+Let mercy lead
+  A  E       A   C#m    A   F#m7
+
+repeat VAMP and fade
+
+
+
+Words and Music by Rich Mullins and Beaker
+© 1995 Edward Grant / Kid Brothers of St. Frank Publishing (ASCAP)

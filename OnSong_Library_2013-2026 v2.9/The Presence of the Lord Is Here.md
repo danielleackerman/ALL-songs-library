@@ -1,0 +1,96 @@
+---
+title: "The Presence of the Lord Is Here"
+artist: "Kurt Carr"
+key: Eb
+tempo: 126
+tags:
+  - "Presence"
+  - "Blessing"
+medley: []
+id: "6496D474-B179-4680-8265-F3E4EDEF6C7C"
+---
+
+{title:The Presence of the Lord Is Here}
+{subtitle:Kurt Carr}
+{key:Eb}
+{tempo:126}
+
+VERSE 1:
+The [Eb/G]presence of [Fm/Ab]the Lord is[Eb/Bb] here, The [Db]presence of the [Ab2]Lord is [Eb]here
+I [Eb/G]feel it in [Fm/Ab]the atmos[Eb/Bb]phere, The [Db]presence of [G7(#5)]the Lord is [Cm2]here, (oh)[F9]
+The [Db]presence of the[Ab7] Lord is [Eb]here
+
+The Spirit of the Lord is here
+The Power of the Lord is here
+
+Intro/interlude:
+[Eb13][Db13][Ab7/C][Db13][Eb13][Db13][Ab7/C][Db13][Eb13]
+(Start over at verse 1; vocals in unison)
+
+Interlude:
+(the Db13 is done instead of the Db on "here")
+[Eb13][Db13][Ab7/C][Db13][Eb13][Db13][Ab7/C][Db13][Eb13]
+[E13][D13][A7/Db][D13][E13][D13][A7/Db][D13][E13]
+
+Verse 2:
+The [E/Ab]Spirit of the [Gbm/A]Lord is [E/B]here, the [D]Spirit of the[A7] Lord is [E]here
+I [E/Ab]feel it in the[Gbm/A] atmos[E/B]phere. The [D]Spirit of the[Ab7(#5)] Lord is [Dbm9]here,[Gb9]
+The [D]Spirit of the [A7]Lord is [E13]here
+
+Interlude:
+[D13][A7/Db][D13][E13][D13][A7/Db][D13][E13][F13][Eb13][Bb7/D][Eb13]
+[F13][Eb13][Bb7/D][Eb13][F13]
+
+Verse 3:
+The [F/A]power of the [Gm/Bb]Lord is [F/A]here, the [Eb]power of the[Bb7] Lord is [F]here
+I [F/A]feel it in the[Gm/Bb] atmos[F/A]phere. The [Eb]power of [A7(#5)]the Lord is [Dm9]here,[G9]
+The [Eb]power of the[Bb7] Lord is [F13]here[Eb][Bb7/D][F][Gm7][Ab¼7]
+
+Chorus:
+[F/A]Ev'ry[Bb]body blow the trumpet and [C/E]sound the a[F]larm[F/A][Bb][F/A][C/E][F]
+Be[F/A]cause the [Bb]Lord is in the temple let [G]ev'ry[G/B]body [C]bow[F/A][Bb][F/A][G][G/B][C]
+[F/A]Let [Bb]all the people [Dm/A]praise [A7/Db]Him [Dm]now. [C7/G]The [F/C]Lord[Bb/C] is [F13]here
+
+Interlude:
+[Eb13][Bb7/D][Eb13][F13][Eb13][Bb7/D][Eb13][F13]
+[G13][F13][C7/E][F13][G13][F13][C7/E][F13][G13]
+
+Verse 4:
+A [G13]blessing from the Lord is here, a blessing [F]from the Lord [C]is here[Em/G][Dm/G]
+I [G13]feel it in the atmosphere. A [F]blessing from the[B7(#5)] Lord is [Em9]here[A9]
+A [F]blessing from the[C7] Lord is [G13]here[F][C7/E][G][Am7][Bb¼7][G/B]
+
+Chorus:
+[G/B]Ev'ry[C]body blow the trumpet and [D/Gb]sound the a[G]larm[G/B][C][G/B][D/Gb][G]
+Be[G/B]cause the [C]Lord is in the temple let [A]ev'ry[A/Db]body [D]bow[G/B][C][G/B][A][A/Db][D]
+[G/B]Let [C]all the people [Em/B]praise[B7/Eb] Him [Em]now.[D7/A] The [G/D]Lord,[C/D] The [G/B]Lord,[C] The [G/D]Lord[D7(#9)] is [G13]here
+
+Interlude:
+[F13][C7/E][F13][G13][F13][C7/E][F13][G13]
+
+Bridge:
+(1st tenors, add altos, add sopranos)
+[G13]I can [F13]feel[C7/E] the presence of the [F13]Lord,[G13] and I'm gonna [F13]get [C7/E]my blessing [F13]right [G13]now
+[Ab13]I can [Gb13]feel[Db7/F] the presence of the [Gb13]Lord,[Ab13] and I'm gonna [Gb13]get [Db7/F]my blessing [Gb13]right [Ab13]now
+[A13]I can [G13]feel[D7/Gb] the presence of the [G13]Lord,[A13] and I'm gonna [G13]get [D7/Gb]my blessing [G13]right [A13]now
+(To modulate back down to bVII scale, use I13-bI13 over "right now")
+
+Solo:
+Can't you see Him working' on the outside?
+I can feel Him movin' on the [Bbm9]in[Abm9]side
+So come and enter in and cast your cares on Him.
+He'll open up a window and pour you out a bles[Bbm9]sing
+Cause [Abm9]when the Lord steps in He brings everything You need
+Healing, power and vic[Bbm9]tory
+[Abm9]So, it's all up to you, whatever you need Him to do
+Just trust Him and believe, and then by faith, you will receive. I can!
+
+Bridge:
+[G13]I can [F13]feel[C7/E] the presence of the [F13]Lord,[G13] and I'm gonna [F13]get [C7/E]my blessing [F13]right [G13]now
+[A13]I can [G13]feel[D7/Gb] the presence of the [G13]Lord,[A13] and I'm gonna [G13]get [D7/Gb]my blessing [G13]right [A13]now
+[B13]I can [A13]feel[E7/Ab] the presence of the [A13]Lord,[B13] and I'm gonna [A13]get [E7/Ab]my blessing [A13]right [B13]now
+[C13]I can [Bb13]feel[F7/A] the presence of the [Bb13]Lord,[C13] and I'm gonna [Bb13]get [F7/A]my blessing [Bb13]right [B13]now
+(To modulate to the next key, sharp the two 13's over the "right now")
+
+Ending:
+The [C13]presence of the Lord is here[C13]

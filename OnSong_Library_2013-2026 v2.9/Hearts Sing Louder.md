@@ -1,0 +1,38 @@
+---
+title: "Hearts Sing Louder"
+artist: "MercyMe"
+key: C
+tempo: 
+tags:
+  - "Jesus"
+medley: []
+id: "D16BB634-7466-474F-9308-5AC59105CE8E"
+---
+
+Hearts Sing Louder
+MercyMe
+Key: C
+Copyright: 1999 - MercyMe Music
+
+C                                        Bb                    C
+May our hearts sing louder than our voices Jesus
+C                                        Bb                    C
+May our hearts sing louder than our voices Jesus
+C                           Bb                                 C
+For the only one worthy is the One who freed us
+C                           Bb                                 C
+For the only one worthy is the One who freed us
+C                                        Bb                    C
+May our hearts sing louder than our voices Jesus
+F                                             C
+And let it be pleasing to You Lord
+         C
+We dance
+               F
+And we praise 
+              C                  Bb/A   Bb
+And we lift our hearts and say
+                    C
+Holy, holy, holy
+           F             C       (Bb/A  Bb)
+Is the Lord our God

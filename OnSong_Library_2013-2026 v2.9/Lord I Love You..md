@@ -1,0 +1,37 @@
+---
+title: "Lord I Love You."
+artist: ""
+key: F
+tempo: 
+tags:
+  - "Love"
+medley: []
+id: "8178D1AC-19AA-4D3F-80D2-C95BA4E71235"
+---
+
+{title:Lord I Love You.}
+{key:F}
+
+(Chor:)
+
+[Am/C]Lord.  [Gm/C]I   [F2]love   You,   [F2/A]
+Yes.  I   [Bb2]love   You   [F/A]   [Gm7]
+Your  the  [FM7]cry  [Bbm/Db]the  [Dm7]hope  for  my  [C7]soul
+[Bb/D]And   [C7/E]I   [F2]want.  to,   [F2/A]
+Always   [B2]love   You.   [F/A].  [Gm7]
+For [Bbm/Db]Your [F/C]love  is  [Gm/C]all I  [C7]need  [Bb/C]to  [F2]know.
+
+(Verse:1)
+
+[Gm/C]it's [Bb/C]so [C7/E]a----[F2]mazing,  [F2/A] the way You [Bb2]saved me [F/A].  [Gm7]
+Came and [FM7]took [A7+/Db]my [Dm7]heartache a---[C]way
+[Bb/D]I'm [C7/E]so [F2]thankful,  [F2/A]   my heart is [Bb2]greatful. [F/A]. [Gm7]
+And that's [F/C]why You'll [Gm/C]always [C7]hear [Bb/C]me [F2]say.
+
+
+(Verse:2)
+
+Now I'm con----fessing,       it's just Your blessings
+That has brought me safe this far
+Should I know some bad days, You'll be my joy my strength
+You brought me thru, and that's why I still sing Your praise.

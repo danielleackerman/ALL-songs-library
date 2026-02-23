@@ -1,0 +1,76 @@
+---
+title: "If We've Ever Needed You"
+artist: "Casting Crowns"
+key: D
+tempo: 
+tags:
+medley: []
+id: "8D40A12E-99E9-46EB-8F3D-D11C2C6F7A5D"
+---
+
+If We've Ever Needed You
+Casting Crowns
+Key: D
+CCLI: 5631995
+Copyright: 2009 Word Music, LLC / BanaHama Tunes / My Refuge Music / Sony/ATV Tree Publishing
+
+
+Intro:    D    F#m    D     F#m    D
+
+
+D            F#m                 D
+Hear our cry,      Lord we pray,
+            F#m                              D
+Our faces down,        our hands are raised,
+               A                   Em                     A          D
+You called us out,      we turned away,    we've turned away.
+
+
+                      F#m                  D
+With ship wrecked faith,        idols rise,
+                   F#m                          D
+We do what is right,           in our own eyes,
+                A                       Em                                 
+Our children now,     will pay the price,
+                  A                              D
+We need Your light,      Lord, shine Your light.
+
+
+                     F#m                    G                          A            D
+If we've ever needed You,        Lord, it's now,           Lord, it's now,
+                         F#m                         G                                  A      Bm
+We are desperate for Your hand,        we're reachin' out,              we're reachin' out.
+
+
+               F#m                         D
+All our hearts,          all our strength,
+                   F#m                          D
+With all our minds,        we're at Your feet,
+                     A                                Em                                 
+May Your Kingdom come,       in our hearts and lives,
+                      A                             D
+Let Your Church arise,      let Your Church arise!
+
+
+                    F#m                     G                         A          D
+If we've ever needed You,        Lord, it's now,           Lord, it's now,
+                         F#m                        G                                 A        D/F#
+We are desperate for Your hand,        we're reachin' out,              we're reachin' out.
+G                                  A          ( Bm    D     A    -    G     Em      D )
+       we're reachin' out.
+
+
+                     F#m                     G                         A          D
+If we've ever needed You,        Lord, it's now,           Lord, it's now,
+                           F#m                         G                                A        D 
+We are desperate for Your hand,        we're reachin' out,              we're reachin' out.
+
+
+                     F#m                     G                         A          D
+If we've ever needed You,        Lord, it's now,           Lord, it's now,
+                         F#m                          G                                  A               
+We are desperate for Your hand,        we're reachin' out,              we're reachin' out.
+
+
+       G                A                    G            A                  G
+We need You now                     Revive us now                     We need You now

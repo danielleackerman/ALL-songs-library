@@ -1,0 +1,102 @@
+---
+title: "The Anchor Holds"
+artist: "Ray Boltz"
+key: G
+tempo: 
+tags:
+  - "Black-Gospel"
+  - "Choir"
+  - "Choruses"
+  - "Congregational"
+  - "Contemporary"
+  - "Energetic"
+  - "Medium-Slow"
+  - "Solo-Songs"
+  - "Southern-Gospel"
+  - "Traditional"
+  - "Worship"
+  - "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+medley: []
+id: "05B6F898-725B-4FF6-AD13-0BE6152C8112"
+---
+
+The Anchor Holds
+Ray Boltz
+Key: G
+CCLI: 1453277
+Copyright: 1994 Word Music, LLC / Shepard Boy Music
+
+C/g  G  C/g
+G        C/g
+I have journeyed 
+G                          C/g
+through the long, dark night
+G  Gmaj7 Em         D   D/f# 
+out on the open sea
+Am          D
+By faith alone
+G    Bm/f#  Em
+    sight unknown
+C               D                  G  G/c  C
+and yet his eyes were watching me
+
+
+{ refrain: }
+G    (C G)
+The anchor holds 
+C       (F C)
+though the ship is (ship?s been) battered
+D    (G D)
+The anchor holds 
+G   (C G)
+though the sails are torn
+C    G7   Gmaj7   D#dim7
+C    Em/b         Am
+as I faced the ranging seas
+D                D/f#
+The anchor holds
+   (backvocs:        The anchor holds)
+                      G     C  (D)
+in spite of the storm
+
+G {simile}
+I've had visions
+I've had dreams 
+I've even held them in my hand
+But I never knew
+they would slip right through
+like they were only grains of sand
+
+{ refrain }
+
+
+{ bridge: }
+C
+I have been young
+G
+but I am older now 
+Em
+And there has been beauty
+D
+these eyes have seen
+C
+But it was in the night
+G               Bm/f#        Em
+through the storms of my live
+C                             Am
+Oh, that?s where God proved 
+D
+his love to me
+
+
+{ refrain }
+
+C    G7   Gmaj7   F#dim7
+I have fallen on my knees
+C    Em/b         Am
+as I faced the ranging seas
+D                D/f#
+The anchor holds
+   (backvocs:        The anchor holds)
+                      G     C D C/e C/g  G
+in spite of the storm

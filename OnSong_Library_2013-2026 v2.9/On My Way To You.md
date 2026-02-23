@@ -1,0 +1,96 @@
+---
+title: "On My Way To You"
+artist: "MercyMe"
+key: G
+tempo: 
+tags:
+  - "Teach"
+medley: []
+id: "4EF28C73-1030-4AA7-B1DD-65A65481D89B"
+---
+
+On My Way To You
+MercyMe
+Key: G
+CCLI: 3479881
+Copyright: 2001 Simpleville Music
+
+CAPO 2
+
+
+Intro:  D   |  D/F#  | C2  |  <>  |  D    |  D/F#  | C2  |  <>  |
+
+
+Verse1
+      Em                                     C2       
+ Almost there, almost where I'm supposed to be  
+D/F#                               C2
+It's not all clear, but you keep showing me  
+                   Em                        C2       
+With every step, the more my heart moves to your beat  
+D/F#                           C2
+Just like where I'm headed, there's joy in the journey 
+
+ 
+Chorus
+D                    D/F#          C2
+Teach me to think like you think  
+D                    D/F#          C2 
+Show me the things, that are true  
+D                    D/F#          C2 
+Finish the work you have started in me  
+       G/B    C2             C/G
+As I'm on my way to you  
+       G/B    C2             C/G
+As I'm on my way to you  
+
+
+Verse 2
+             Em                                     C2       
+Create in me a pure heart and make me new  
+   D/F#        C2
+Less of me, Jesus more of You  
+             Em                          C2       
+Here I stand, still I'm drawn down to my knees  
+   D/F#                          C2
+It's not my strength, but Yours that carries me  
+ 
+
+Chorus
+D                    D/F#          C2
+Teach me to think like you think  
+D                    D/F#          C2 
+Show me the things, that are true  
+D                    D/F#          C2 
+Finish the work you have started in me  
+       G/B    C2             C/G
+As I'm on my way to you  
+       G/B    C2             C/G
+As I'm on my way to you  
+       G/B    C2             C/G
+Yes  I'm on my way to you  
+
+Am7  |  Em7   |   C2  |  D/F#  |  Am7  |  Em7
+
+
+Chorus
+D                    D/F#          C2
+Teach me to think like you think  
+D                    D/F#          C2 
+Show me the things, that are true  
+D                    D/F#          C2 
+Finish the work you have started in me  
+       G/B    C2             C/G
+As I'm on my way to you  
+       G/B    C2             C/G
+As I'm on my way to you  
+       G/B    C2             C/G
+Yes  I'm on my way to you  
+                          Am      Em7             C/G
+          I'm on my way 
+                          Am      Em7             C/G
+          I'm on my way 
+                          Am      Em7             C/G
+          I'm on my way 
+                          Am    Em7        C6
+          I'm on my way              to you

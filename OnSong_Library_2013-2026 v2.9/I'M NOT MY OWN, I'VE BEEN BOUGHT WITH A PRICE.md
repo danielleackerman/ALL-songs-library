@@ -1,0 +1,22 @@
+---
+title: "I'M NOT MY OWN, I'VE BEEN BOUGHT WITH A PRICE"
+artist: "Marty Nystrom, Integrity Records"
+key: Bb
+tempo: 
+tags:
+medley: []
+id: "AC24E4DC-215C-4ED9-A1F5-A861E696B9B5"
+---
+
+I'M NOT MY OWN, I'VE BEEN BOUGHT WITH A PRICE
+Marty Nystrom, Integrity Records
+Key: [Bb]
+
+CHORUS:
+[Bb]I AM NOT MY [Bb/D]OWN 
+I'VE BEEN [Eb]BOUGHT WITH A [Bb]PRICE 
+I'VE BEEN [Cm9]PURCHASED BY THE PRECIOUS BLOOD OF [Eb/F]JESUS CHRIST 
+ALL MY [Bb]DEBTS WERE [Bb/D]PAID 
+BY HIS [Eb]SACRI[Bb]FICE 
+[Cm9]HALLELUJAH TO THE LAMB 
+WHO RE[Eb/F]DEEMS MY [Bb]LIFE

@@ -1,0 +1,112 @@
+---
+title: "Healing Hand Of God"
+artist: "Jeremy Camp"
+key: E
+tempo: 
+tags:
+  - "Healing"
+medley: []
+id: "49D14F2F-153D-48D4-A753-D8EFEC007496"
+---
+
+Healing Hand Of God
+Jeremy Camp
+Key: E
+CCLI: 5323708
+Copyright: 2008 Thirsty Moon River Publishing / Stolen Pride
+
+Intro 
+C#m	B	A x2
+
+
+Verse 1
+C#m
+I have seen the many faces,
+B         A
+of fear and of pain.
+C#m
+I have watched the tears fall plenty,
+B                   A
+From heart ache and strain.
+C#m
+So if life's journey,
+B                A	
+Has you weary and afraid.
+F#m                               A	
+There's rest in the shadow of his wings.
+
+
+C#m
+I have walked through the valleys,
+B                 A
+The mountains and plains.
+C#m
+I have held the hand of freedom,
+B                A
+That washes all my stains.
+                          E
+If you feel the weight of many trials,
+B                   C#m
+And burdens from this world.
+        F#m            E             A
+There's freedom in the shelter of the Lord.
+
+
+Chorus:
+C#m     A	
+I have seen,
+E                     B
+The healing hand of God,
+C#m       A         E             B
+Reaching out and mending broken hearts.
+C#m       A             E           B
+Taste and see the fullness of His peace,
+       F#m       E             A
+And hold on to what's being held out.
+                       C#m  B  A  (x2)
+The healing hand of God.
+
+
+Verse 2
+         C#m
+I have touched the scars upon His hands,
+B                  A
+To see if they were real.
+C#m
+He has walked the road before me,
+B                 A
+He knows just how I feel.
+         A                     E	
+When you feel that there’s not anyone,
+B                  C#m
+Who understands your pain,
+        F#m                E         A
+Just remember all of Jesus' suffering.
+
+
+(Chorus)
+
+
+Bsus             B
+Cast all your cares on Him,
+A
+For He cares for you.
+Bsus              B             A
+He's near to the broken and confused.
+Bsus       B
+By His stripes,
+      C#m
+Our spirit is renewed.
+A                               B
+So enter in the joy prepared for you.
+
+
+(Chorus)
+A                       E   B
+The healing hand of God (x2)
+E    F#m        E	         A
+And hold on to what's being held out (x2)
+      B	    C#m	     A   E   B
+The healing hand of God
+C#m     A               E       B
+Oh      Oh              Oh      Oh

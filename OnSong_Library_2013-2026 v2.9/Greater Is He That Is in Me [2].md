@@ -1,0 +1,58 @@
+---
+title: "Greater Is He That Is in Me"
+artist: "Lanny Wolfe Trio"
+key: Eb
+tempo: 134
+tags:
+  - "Black-Gospel"
+  - "Choir"
+  - "Choruses"
+  - "Congregational"
+  - "Contemporary"
+  - "High-Energy"
+  - "Medium-Fast-Shouting"
+  - "Praise"
+  - "Solo-Songs"
+  - "Southern-Gospel"
+  - "Traditional"
+  - "Worship"
+  - "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  - "O-S-Apo-Med"
+medley: []
+id: "B192E4C9-AA75-477B-BD11-828CF54D618F"
+---
+
+{title: Greater Is He That Is in Me}
+{subtitle: Lanny Wolfe Trio}
+{key: Eb}
+{tempo:134}
+{keywords: O. S. Apo. Med. }
+
+Chorus:
+[Eb]Greater is He that is [Ab]in me
+[Bb]Greater is He that is [Eb]in me [Ab/Bb]
+[Eb]Greater is He that is [Ab]in me
+Than [Bb]He that is in the [Eb]world [Ab/Bb]
+
+Verse 1:
+[Eb]Satan's like a [Ab]roaring lion, [Bb]roaming to and [Eb]fro [Ab/Bb]
+[Eb]Seeking whom he [Ab]may devour; the [Bb]Bible tells me [Eb]so [Ab/Bb]
+[Eb]Many souls have [Ab]been his prey to [Bb]fall in some weak [Eb]hour [Ab/Bb]
+But [Eb]God has promised [Ab]us today His [Bb]overcoming [Eb]pow'r   [Ab/Bb]
+
+Verse 2:
+[Eb]On the day of [Ab]Pentecost a [Bb]rushing mighty [Eb]wind [Ab/Bb]
+[Eb]Blew into the [Ab]upper room and [Bb]baptized all of [Eb]them [Ab/Bb]
+[Eb]With the power [Ab]greater than [Bb]any earthly [Eb]foe [Ab/Bb]
+[Eb]I'm so glad I've [Ab]got it too I'm going to [Bb]let the whole world [Eb]know [Ab/Bb]
+
+Bridge:
+[Db]God [D]is [Eb]greater than the [Ab]wisest man [Db][D]
+[Eb]Greater than the [Ab]pow'r of sin; [Db][D]
+[Db]God [D]is [Eb]greater than the [Ab]gates of hell [Db][D]
+[Eb]Greater than any [Ab]tongue can tell; [Db][D]
+[Db]God [D]is [Eb]greater than the [Ab]richest king [Db][D]
+[Eb]Greater than [Ab]anything
+He's [Eb]greater, (greater) [Bb]greater, (greater) [Eb]greater,
+(Greater) [Ab]greater, (greater)
+[Eb]Greater is He that is in [Ab]me than [Bb]he that is in the [Eb]world

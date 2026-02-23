@@ -1,0 +1,74 @@
+---
+title: "I'll Be Brave This Christmas"
+artist: "Big Daddy Weave"
+key: G
+tempo: 
+tags:
+medley: []
+id: "0793AD27-1230-4ED0-82FC-4F676EA7B209"
+---
+
+I'll Be Brave This Christmas
+Big Daddy Weave
+Key: G
+
+Intro:  
+Gmaj7  |  Gmaj7/D  |  Em9 |  Cmaj9
+
+Verse 1
+     Gmaj7           Gmaj7/D  
+Dear Daddy, I missed you today
+           Em9                        Cmaj9
+When Momma unpacked our old Christmas tree
+               Gmaj7                 Gmaj7/D  
+And that sweet angel never looked so good on top
+       Em9                 Em9/D                Cmaj9
+But my heart felt sad when you weren't there to lift me
+     A7sus                              D/F#
+It's been a while since you went off to fight the war
+    Em7                  Em9/D            C2           
+So this year it won't be presents I'll be wishing for
+ 
+Chorus
+G                  D
+I'll be brave this Christmas
+      Em7               C2
+While you're still far away
+         G               D
+And I'll kneel beside my bed each night
+        Em7   Em9/D     C2
+Praying Jesus keeps you safe
+              D                        Em7
+'Cause I'm so proud of you, I hope you come home soon
+      C2          C         Cm         Gmaj7
+But until you do,   I'll be brave this Christmas
+      
+Gmaj7/B  |  C2  |  Em9  |  G/B  C2
+
+Verse 2
+             G                   Dsus
+I see bright colors light up the Wilson's house
+      Em7                       C2
+While rockets flash across your evening sky
+            G                D
+And we sing carols, ooh, all over town
+             Em7            D       C2               C2       
+While you're living out the cost of peace on earth tonight
+       Am7                                      D/F#
+But if another little boy can grow up just like me
+Em7         D           C2
+Living in a land that's safe and free
+  
+(chorus)
+
+Em - D/F# - G - G/B - G/D - C - Cm
+
+Bridge
+D                             B7/D#
+Freedom isn't free, there's a price to pay when duty calls
+Em       G/D       C2
+It takes sacrifice from us all
+ 
+(chorus)
+          Em9        G/B     C
+Ooh, this Christmas, I'll be brave

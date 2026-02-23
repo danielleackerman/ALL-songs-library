@@ -1,0 +1,96 @@
+---
+title: "God of Wonders"
+artist: "Third Day"
+key: G
+tempo: 
+tags:
+  - "Heaven"
+medley: []
+id: "96D13F5B-7F47-42C0-8BD9-7AA8F77D7D88"
+---
+
+God of Wonders
+Third Day
+Key: G
+CCLI: 3118757
+Copyright: 2000 New Spring Publishing, Inc.
+
+Intro:	Dsus  |  Em7  |  C2   (2X)
+
+
+Verse 1:
+Dsus  Em7          C2
+Lord of all creation,
+Dsus   Em7              C2
+of water earth and sky,
+Dsus            Em7           C2
+    the Heavens are Your tabernacle;
+Dsus     Em7             C2
+    glory to the Lord on high.
+
+
+Chorus:
+G                             Dsus  D      
+God of wonders beyond our galaxy,
+       Am9  Am7 Cmaj9 C
+You are ho - ly, ho - ly
+    G                          Dsus  D
+The universe declares Your majesty,
+       Am9  Am7 Cmaj9 C
+You are ho - ly, ho – ly; 
+
+
+Bridge:
+       D2(add4)             C        D2(add4)            C
+Lord of heaven and earth,     (Lord of heaven and earth)
+       D2(add4)             C        D2(add4)            C 
+Lord of heaven and earth.
+
+
+Break:    Dsus  |  Em7  |  C2   (2X)
+
+
+Verse 2:
+Dsus  Em7          C2
+Early in the morning
+Dsus       Em7              C2
+I will celebrate the light.
+Dsus        Em7               C2
+     When I stumble in the darkness
+Dsus        Em7               C2
+     I will call Your name by night.
+
+
+(Chorus)
+
+
+(Bridge)
+
+
+Tag:
+Am7                   C2     Dsus           
+   Hallelujah to the Lord of heaven and earth,
+Am7                   C2     Dsus           
+   Hallelujah to the Lord of heaven and earth,
+Am7                   C2     Dsus           
+   Hallelujah to the Lord of heaven and earth
+
+
+Break:  Play ½ of Chorus (No vocals)
+
+
+(Chorus)
+
+
+Chorus with changes:
+No Guitar
+Precious Lord, reveal Your heart to me
+Father, hold me, hold me
+
+    G                          Dsus  D
+The universe declares Your majesty
+       Am9  Am7 Cmaj9 C        G
+You are ho - ly, ho – ly
+
+
+(Chorus)

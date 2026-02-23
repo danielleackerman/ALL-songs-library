@@ -1,0 +1,27 @@
+---
+title: "IN AWE OF YOU WE WORSHIP"
+artist: "Cooley Choruses"
+key: Eb
+tempo: 
+tags:
+  - "Worship"
+medley: []
+id: "C99AF046-AF77-4A06-8AA7-69CB2AF2D4CC"
+---
+
+IN AWE OF YOU WE WORSHIP
+Cooley Choruses
+Key: [Eb]
+
+VERSE 1:
+[Eb]IN AWE OF [Db]YOU WE WOR[Ab]SHIP 
+[Eb]AND STAND A[Db]MAZED AT YOUR GREAT [Eb]LOVE 
+[Eb]WE'RE CHANGED FROM [Db]GLORY TO [Ab]GLORY 
+[Eb]AND SET OUR [Db]HEARTS ON YOU OUR [Gb]GOD [Db/Eb]
+
+CHORUS:
+LET YOUR [Ab]PRESENCE FILL THIS [Db]PLACE 
+BE E[Ab]XALTED IN OUR [Ebsus]PRAISE [Eb]
+AS WE WOR[Ab]SHIP I BE[Db]LIEVE YOU ARE [Ab]HERE
+
+all unison

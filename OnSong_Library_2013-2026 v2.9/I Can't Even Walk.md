@@ -1,0 +1,42 @@
+---
+title: "I Can't Even Walk"
+artist: "Colbert and Joyce Croft"
+key: G
+tempo: 
+tags:
+  - "Choir"
+  - "Choruses"
+  - "Congregational"
+  - "Contemporary"
+  - "Slow"
+  - "Solo-Songs"
+  - "Traditional"
+  - "Worship"
+  - "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+medley: []
+id: "26E63694-7A50-4F88-A427-64AB38328453"
+---
+
+{title: I Can't Even Walk}
+{artist: Colbert and Joyce Croft}
+{key: G}
+{copyright: 1975 Word Music, LLC}
+{ccli: 307616}
+
+VERSE 1:
+[C/D]I [G]thought number [C/G]one [G]would surely be me,
+[G7]I [C]thought I could be, what I wanted to [G]be.  
+I thought I could [C/G]build [G]on [B7]life's [B7/D#]sinking [Em7]sand
+[Cm/Eb]But [Am]I [G]can't e[C/G]ven [G]walk with[G/B]out [Am/C]You [G/D]holding [D7]my [G]hand.  
+
+CHORUS:
+[G7]I [C]can't even walk without You [G]holding [C]my [G]hand,
+The [D7]mountain's [Em]too high [G]and [Am]the [G]valley’s [Am]too [G]wide
+[C]Down on my knees [G]is where [B7]I've [C#m]learned [B7/D#]to [Em7]stand [Cm/F]
+Lord I [G/B]can't [G/D]even [Em7]walk [G/B]Without [Am/C]You [G/D]holding [D7]my [G]hand.
+
+VERSE 2:
+[C/D]I [G]thought I [C/G]had [G]done a lot on my own,
+[G7]I [C]thought I could make it all a[G]lone
+I thought of my[C/G]self [G]as a [G]mighty [B7/D#]big [Em7]man
+But [Cm/Eb]I [G]can't e[C/G]ven walk without You [D7]holding my [G]hand.

@@ -1,0 +1,61 @@
+---
+title: "I'm Still Listening"
+artist: "Third Day"
+key: B
+tempo: 
+tags:
+medley: []
+id: "C9CCDF56-EA5B-4022-8215-30E24334FDAA"
+---
+
+I'm Still Listening
+Third Day
+Key: B
+CCLI: 3521911
+Copyright: 2001 New Spring / Vandura 2500 Songs
+
+Intro: B   E    B   E   B   E
+
+
+Verse 1:
+B                              E        B               B             E       B       E
+There was a time when I thought that I had you figured out 
+B                                    E    B
+I told you before and I'll say once more 
+                B                              E      
+Now and then I have my doubts 
+       E                                         B        E      B
+I'll never pretend to know what you are doing 
+       F#                                 E                  B
+It's true that you move in very mysterious ways 
+
+
+Chorus:
+                 E
+I looked for you in 
+               G#m
+The fire and the wind 
+        F#                                E         B     E    B
+But you weren't there as far as I could see 
+                        E
+I thought I'd hear you shout 
+                 G#m  
+But then I figured it out 
+          F#                          E             B       E      B
+That all along you're whispering to me 
+                        B       E      B
+And I'm still listening 
+
+
+Verse 2:
+Just when I thought that I had caught a glimpse of 
+who you are 
+You taught me a lesson I needed to learn 
+Right from the very start 
+I never will be the man that I quite need to be 
+But that's alright 'cause you're enough for me
+
+
+Solo:
+
+Same as Verses

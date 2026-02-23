@@ -1,0 +1,105 @@
+---
+title: "It Came Upon A Midnight Clear"
+artist: "MercyMe"
+key: A
+tempo: 
+tags:
+  - "Heaven"
+  - "Peace"
+medley: []
+id: "F62C4A62-9E10-4F16-854C-20124CCB4C84"
+---
+
+It Came Upon A Midnight Clear
+MercyMe
+Key: A
+CCLI: 4630351
+Copyright: 2005 Simpleville Music / Wet As A Fish Music / Banistuci Music
+
+Robified Tablature Legend:
+     -A = chord is played ahead of the beat
+     A- = chord is played behind the beat
+     | = measure bar
+     / = continued beat
+     |     | = open measure.  Keep playing last chord indicated.
+     ||:    :|| = repat section.  Repeat once unless otherwise indicated
+     Note: If no bar or beat marking exist, follow the song's standard beat pattern
+
+SONG ORDER:
+  STRAIGHT THROUGH
+-----------------------------------------------------------
+
+INTRO:
+||: A5       | E(no5)/A     | F#m7(no 5)/A      | E(no 5)/A         :||
+
+
+VERSE 1:
+  | A5       | E(no5)/A     | F#m7(no 5)/A       | E(no 5)/A             |
+It came      u- pon       the mid    -   -  night clear
+   | Dmaj7       | F#m7      | Esus          | E                |
+That glo  -  rious song     of old
+   | A5      | E(no5)/A     | F#m7(no 5)/A       | E(no 5)/A             |
+From an - gels bend  -  ing near           the earth
+  | Dmaj7     | E     | A5      | E(no5)/A    | F#m7(no 5)/A     | E(no 5)/A     |
+To touch their harps of gold
+
+
+VERSE 2:
+     | A5       | E(no5)/A     | F#m7(no 5)/A       | E(no 5)/A             |
+Still through the clo   -   ven skies           they come
+  | Dmaj7      | F#m7          | Esus          | E             |
+With peace - ful wings      un - furled
+   | A5         | E7(no5)/A    | F#m7(no 5)/A        | E(no 5)/A            |
+And still  their heav   -   enly   mu   -   -   sic floats
+  | Dmaj7      | E        | Asus          | A         |
+O'er all    the weary      world
+
+
+CHORUS 1:
+| E2    |         | F#m      |          |
+Peace on earth, goodwill   to men
+   | G2      |        | D       |         |
+From heaven's gracious King
+
+
+INTERLUDE 1:
+| A5       | E/A         | A        |           |
+
+
+VERSE 3:
+   | A5      | E(no5)/A     | F#m7(no 5)/A       | E(no 5)/A           |
+Yet with    the woes      of   sin             and strife
+  | Dmaj7   | F#m7     | Esus          |                |
+The world has suffered    long
+| A5          | E(no5)/A     | F#m7(no 5)/A       | E(no 5)/A          |
+    Beneath the blessed angel-strain          have rolled
+  | Dmaj7   | E     | A         |         |
+Two thousand years of wrong
+
+
+CHORUS 2:
+| E2    |         | F#m      |          |
+Peace on earth, goodwill   to men
+   | G2      |        | D       |         |
+From heaven's gracious King
+ | A      |          |         |          |
+O hush the noise, you men    of strife
+   | D     | E             |
+And hear the angels         sing
+
+
+INTERLUDE 2:
+||: F#m7        | D2         | A            | E         :||
+
+
+CHORUS 3:
+| F#m7  | D2        | A      | E        |
+Peace on earth, goodwill   to men
+   | G2      |        | D      |      |      |       |
+From heaven's gracious King
+   | A5     | E(no5)/A     | F#m7(no 5)/A      | E(no 5)/A             |
+The world   in sol  -  emn   still   -   - ness  lay
+  | D      | E    | F#m7         |          |
+To hear the angels song.                                       2nd Time: rit…
+  | D      | E   ||: A5      | E(no5)/A  | F#m7(no 5)/A     | E(no 5)/A      :|| A…
+To hear the angels song.

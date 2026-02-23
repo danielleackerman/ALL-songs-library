@@ -1,0 +1,68 @@
+---
+title: "This Is Who I Am"
+artist: "Third Day"
+key: C
+tempo: 
+tags:
+medley: []
+id: "C689916E-32E5-4FAE-8386-8E06D82C4E82"
+---
+
+This Is Who I Am
+Third Day
+Key: C
+CCLI: 5208452
+Copyright: 2008 Consuming Fire Music
+
+Capo 2
+
+E                        A
+I’m a son of a good man, I’m the child of an Angel,
+E                             A
+I’m the brother of a wild one, And I’m looking for direction,
+E                          A
+I’m the lover of a beauty, I’m the father of blessings,
+E                            A
+I’m a singer of a love song, But is that all I’m good for,
+
+
+Chorus:
+C            G     A            E
+This is who I am, This is who I am,
+      C        G                  A
+So take me and make me something so much more,
+C            G     A            E
+This is who I am, This is who I am,
+      C          G               A
+So change me and make me someone better than before
+
+
+E                         A 
+I’m a saint and a sinner, I’m a lover and a fighter,
+E                    A
+I’m a true believer, with great desire,
+E                       A                 A
+I’m a preacher of grace, prophet of love, teacher of truth,
+E                                    A
+I’ve fallen down so many times, but here I stand in front of you,
+
+
+-Chorus-
+
+
+Bridge:
+A                E
+Take me as I am, But please don’t leave me that way,
+A                          D  
+'Cause I know that You can make me better than I am today,
+
+
+-Instrumental Chorus w/Lead Electric Solo
+ C G A E, C G A  (x2) 
+
+
+-Chorus-
+
+
+-Outro-
+E A,  E A,  E

@@ -1,0 +1,78 @@
+---
+title: "The Breaking Of The Dawn"
+artist: "Fernando Ortega"
+key: 
+tempo: 
+tags:
+medley: []
+id: "669D217F-3033-485E-886E-2955BF565802"
+---
+
+The Breaking Of The Dawn
+Fernando Ortega
+Key: 
+Copyright: 1998 MargeeDays Music
+
+INTRO: (B) (eight measures)
+
+
+VERSE 1:
+          (B)                            (F#)
+There's a slow train pulling through the desert
+            (E)       (F#)         (B)
+The colored cars pass quietly from sight
+  (B)                              (F#)
+Between the highway and the long horizon
+         (E)          (F#)         (B)
+Precious dreams wind away with the light
+
+
+VERSE 2:
+   (B)                             (F#)
+My brother's and my sister's faces linger
+    (E)          (F#)                (B)
+The hours of our childhood grave and gold
+Driving through these solitary places
+        (E)              (F#)              (B)
+Mem'ries of their gentle kindship touch my soul
+
+
+BRIDGE 1:
+    (A2)         (E/A)      (B)
+The hawk wheels a-way as we pass here
+    (G#m)         (C#/E#)        (F#)
+The clouds billow   up    and fly on
+Down the road some hard turns are gonna shake us
+    Ride with   us   through the breaking of the dawn
+
+
+VERSE 3:
+    I worry for my loving mother
+            (E)       (F#)           (B)
+The dimming years the trials she has known
+    (B}                  (F#)
+Her heart so kind and so weary
+         (E)           (F#)            (B)
+Keep her safe one more night til I get home
+
+
+BRIDGE 2:
+      (A2)       (E/A)          (B)
+How I long to be right there beside her
+          (G#m)      (C#)    (F#)
+And bring everything back to before
+We'll ar-rive with the first light of the morning
+   Keep her safe let me hold her once more
+
+
+BRIDGE 3:
+    (A2)         (E/A)          (B)
+The sage and the Joshua tree remind me
+       (G#m)           (C#/E#)           (F#)
+Of the miles to go the journey that we're on
+In   the   still, sweet air of the desert
+    We will ride through the breaking of the dawn
+    We will ride through the breaking of the dawn
+
+
+OUTRO: (B) (12 measures total)
