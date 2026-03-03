@@ -16,3 +16,8 @@ _files_ops/
 **/*.backup
 **/*.sqlite3
 _files_ops/**/*.csv
+
+# ignore raw OnSong archive exports (stored outside repo)
+_files_ops/OnSong-raw-source-data-ARCHIVE/
+_files_ops/**/*.sqlite3
+_files_ops/**/*.backup
