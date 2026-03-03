@@ -1,0 +1,15 @@
+
+[book]
+
+title = "ALL SONGS"
+
+src = "book_src"
+
+dest = "book_out"
+
+
+
+[output.html]
+
+theme = "src/templates"
+

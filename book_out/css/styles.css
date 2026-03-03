@@ -1,0 +1,5 @@
+body { font-family: sans-serif; line-height: 1.6; padding: 2rem; max-width: 800px; margin: auto; background: #f4f4f4; color: #333; }
+a { color: #0066cc; text-decoration: none; }
+a:hover { text-decoration: underline; }
+h1 { border-bottom: 2px solid #ccc; }
+.search-results { background: white; border: 1px solid #ddd; padding: 10px; }
