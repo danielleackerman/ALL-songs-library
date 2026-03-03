@@ -1,0 +1,117 @@
+
+UNSPEAKABLE JOY by mark yandris (super easy version).md (1 changes)
+  Stripped bare title
+
+UNSPEAKABLE JOY intermediate.md (1 changes)
+  Stripped bare title
+
+UPON THIS ROCK, I WILL BUILD MY CHURCH.md (4 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Title case: "UPON THIS ROCK, I WILL BUILD MY CHURCH" -> "Upon This Rock, I Will Build My Church"
+  Sentence-cased 4 ALL CAPS lines
+
+Unaware.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Converted 39 chords-above -> inline brackets
+
+Under The Blood (No Harm) [2].md (5 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Key
+  Stripped bare Copyright
+  Stripped bare CCLI
+
+Under The Blood (No Harm).md (6 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Key
+  Stripped bare Copyright
+  Stripped bare CCLI
+  Sentence-cased 2 ALL CAPS lines
+
+Understand.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Copyright
+  Converted 13 chords-above -> inline brackets
+
+Underwater.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Copyright
+  Converted 24 chords-above -> inline brackets
+
+Undone.md (12 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse1" -> "VERSE 1:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Tag" -> "TAG:"
+  Section: "Verse2" -> "VERSE 2:"
+  Section: "Bridge" -> "BRIDGE:"
+  Section: "Ending" -> "ENDING:"
+  Converted 17 chords-above -> inline brackets
+
+Unforgetful You.md (9 changes)
+  Stripped bare title
+  Stripped bare artist
+  Section: "verse 1:" -> "VERSE 1:"
+  Section: "verse 2:" -> "VERSE 2:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "verse 3:" -> "VERSE 3:"
+  Section: "Chorus" -> "CHORUS:"
+  Converted 14 chords-above -> inline brackets
+  Sentence-cased 2 ALL CAPS lines
+
+Unredeemed.md (9 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Tempo
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Stripped bare Keywords
+  Derived energy: "medium-slow"
+  Sentence-cased 1 ALL CAPS lines
+
+Until The Whole World Hears.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Intro:" -> "INTRO:"
+  Converted 22 chords-above -> inline brackets
+  Sentence-cased 4 ALL CAPS lines
+
+Use Me (If You Can Use Anything Lord).md (8 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "MOD-APO-SLOW"
+  Extracted -> profile: "MOD-GOSPEL-SLOW"
+  Extracted year: 1993
+  Normalized artist: "Ron Kenoly, Dewitt Jones, 1993" -> "Ron Kenoly, Dewitt Jones"
+  Sentence-cased 3 ALL CAPS lines
+
+Use Me Lord.md (3 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Stripped bare artist
+
+============================================================
+SUMMARY
+============================================================
+Files: 14  Changed: 14  Total changes: 82
+Output: /Users/daniellegrigsby/Downloads/U_normalized
+============================================================

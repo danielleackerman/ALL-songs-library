@@ -1,0 +1,993 @@
+
+📝 A Brand New Touch.md (10 changes)
+  Stripped duplicate {title: A Brand New Touch} (already in frontmatter)
+  Stripped duplicate {subtitle: Lanny Wolfe} (already in frontmatter)
+  Stripped duplicate {key: Eb} (already in frontmatter)
+  Harvested {keywords: O.S. Apo. Slow} → frontmatter.keywords
+  Harvested {copyright: 1977 Lanny Wolfe Music, Admin. Capitol CMG Publishing} → frontmatter.copyright
+  Harvested {ccli: 6618} → frontmatter.ccli
+  Moved THEMES to tags: comfort, petition
+  Stripped artifact characters: "אי"
+  Extracted compound tag → profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+📝 A New Name In Glory.md (10 changes)
+  Stripped bare title line: "A New Name In Glory"
+  Stripped bare Artist line: "Artist: C. Austin Miles, 1910"
+  Stripped bare Key line: "Key: G"
+  Stripped bare CCLI line: "CCLI: 71904"
+  Stripped bare Copyright line: "Copyright: Public Domain"
+  Stripped bare Keywords line: "Keywords: O.S. Apo. Med. SUTL"
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Fast-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted year from artist: 1910
+  Normalized artist: "C. Austin Miles, 1910" → "C. Austin Miles"
+  Derived energy: "high"
+
+📝 A PERFECT HEART.md (14 changes)
+  Stripped duplicate {title: A PERFECT HEART} (already in frontmatter)
+  Stripped duplicate {subtitle: Reba Rambo and Dony McGuire} (already in frontmatter)
+  Stripped duplicate {key: F} (already in frontmatter)
+  Stripped duplicate {tempo: 74} (already in frontmatter)
+  Harvested {time: 4/4} → frontmatter.time
+  Harvested {keywords: OLD SCHOOL SOUTHERN GOSPEL} → frontmatter.keywords
+  Harvested {copyright: 1981 Bud John Songs, Inc, Makanume Music, Oohs and Ahs Music, Admin. Capitol CMG Publishing} → frontmatter.copyright
+  Harvested {ccli: 12860} → frontmatter.ccli
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Slow-Reverential-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted compound tag → profile: "OLD-SCHOOL-SOUTHERN-GOSPEL"
+  Derived energy: "medium-slow"
+  Title case: "A PERFECT HEART" → "A Perfect Heart"
+  Section label: "CHORUS MOD" → "CHORUS MOD:"
+  Sentence-cased 14 ALL CAPS lyric lines
+
+📝 ALL I WANT IS YOU.md (5 changes)
+  Stripped bare title line: "ALL I WANT IS YOU"
+  Stripped bare artist line: "William McDowell"
+  Stripped bare Key line: "Key: [C]"
+  Title case: "ALL I WANT IS YOU" → "All I Want is You"
+  Sentence-cased 14 ALL CAPS lyric lines
+
+📝 AMAZING GRACE - version 3 [2].md (6 changes)
+  Stripped bare title line: "AMAZING GRACE - version 3"
+  Stripped bare artist line: "John Newton"
+  Stripped bare Key line: "Key: G"
+  Stripped bare Keywords line: "Keywords: OS Apo Slow, OS Apo Med"
+  Extracted compound tag → profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+📝 AMAZING GRACE - version 3.md (7 changes)
+  Stripped bare title line: "AMAZING GRACE - version 3"
+  Stripped bare artist line: "John Newton | Public Domain"
+  Stripped bare Key line: "Key: F"
+  Stripped bare Keywords line: "Keywords: OS Apo Slow, OS Apo Med"
+  Stripped bare CCLI line: "CCLI: 22025"
+  Extracted compound tag → profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+📝 AMAZING GRACE [4].md (4 changes)
+  Stripped bare title line: "AMAZING GRACE"
+  Extracted compound tag → profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+  Title case: "AMAZING GRACE" → "Amazing Grace"
+
+📝 AMAZING GRACE [6].md (6 changes)
+  Stripped bare title line: "AMAZING GRACE"
+  Stripped bare artist line: "Key F"
+  Extracted compound tag → profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+  Title case: "AMAZING GRACE" → "Amazing Grace"
+  Sentence-cased 20 ALL CAPS lyric lines
+
+📝 AMAZING GRACE [7].md (6 changes)
+  Stripped bare title line: "AMAZING GRACE"
+  Stripped bare artist line: "Key F"
+  Extracted compound tag → profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+  Title case: "AMAZING GRACE" → "Amazing Grace"
+  Sentence-cased 20 ALL CAPS lyric lines
+
+📝 AMAZING GRACE.md (6 changes)
+  Stripped bare title line: "AMAZING GRACE"
+  Stripped bare Key line: "Key: F"
+  Extracted compound tag → profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+  Title case: "AMAZING GRACE" → "Amazing Grace"
+  Sentence-cased 16 ALL CAPS lyric lines
+
+📝 ANDRAE CROUCH TRIBUTE MEDLEY.md (5 changes)
+  Stripped bare title line: "ANDRAE CROUCH TRIBUTE MEDLEY"
+  Stripped bare artist line: "Mark Yandris"
+  Stripped bare Key line: "Key: [C]"
+  Title case: "ANDRAE CROUCH TRIBUTE MEDLEY" → "Andrae Crouch Tribute Medley"
+  Sentence-cased 4 ALL CAPS lyric lines
+
+📝 Abide With Me.md (12 changes)
+  Stripped bare Title line: "Title: Abide With Me"
+  Stripped bare Artist line: "Artist: Henry Francis Lyte & W.H. Monk (Sing Unto The Lord Songbook, 16)"
+  Stripped bare Key line: "Key: E"
+  Stripped bare Tempo line: "Tempo: 90"
+  Stripped bare Time line: "Time: 2/2"
+  Stripped bare Keywords line: "Keywords: OS Slow, SUTL"
+  Stripped bare Copyright line: "Copyright: Public Domain"
+  Stripped bare CCLI line: "CCLI: 43190"
+  Extracted compound tag → profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Extracted source from artist: "Sing Unto The Lord Songbook, 16"
+  Normalized artist: "Henry Francis Lyte & W.H. Monk (Sing Unto The Lord Songbook, 16)" → "Henry Francis Lyte & W.H. Monk"
+  Derived energy: "medium"
+
+📝 Above All Else.md (7 changes)
+  Stripped duplicate {title: Above All Else} (already in frontmatter)
+  Stripped duplicate {key: C} (already in frontmatter)
+  Harvested {time: 4/4} → frontmatter.time
+  Stripped duplicate {tempo: 77} (already in frontmatter)
+  Harvested {keywords: O.S. Apo. Med.} → frontmatter.keywords
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Slow-Reverential-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium-slow"
+
+📝 Above All.md (9 changes)
+  Stripped duplicate {title: Above All} (already in frontmatter)
+  Stripped duplicate {subtitle: Michael W. Smith} (already in frontmatter)
+  Stripped duplicate {tempo: 72} (already in frontmatter)
+  Harvested {keywords: Mod. Contemp. Slow} → frontmatter.keywords
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Slow-Reverential-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium-slow"
+  Section label: "Verse 1:" → "VERSE 1:"
+  Section label: "Verse 2:" → "VERSE 2:"
+  Section label: "Chorus:" → "CHORUS:"
+
+📝 Address Change Notification.md (9 changes)
+  Stripped duplicate {title: Address Change Notification} (already in frontmatter)
+  Stripped duplicate {subtitle: Rev. J. Michael Wilson, 1984} (already in frontmatter)
+  Stripped duplicate {key: F} (already in frontmatter)
+  Stripped duplicate {tempo: 77} (already in frontmatter)
+  Harvested {keywords: OS APO MED SLOW} → frontmatter.keywords
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted year from artist: 1984
+  Normalized artist: "Rev. J. Michael Wilson, 1984" → "Rev. J. Michael Wilson"
+  Derived energy: "medium-slow"
+
+📝 Adonai [2].md (7 changes)
+  Stripped bare title line: "Adonai"
+  Stripped bare artist line: "Hillsong Live"
+  Stripped bare Key line: "Key: B"
+  Stripped bare CCLI line: "CCLI: 4591823"
+  Stripped bare Copyright line: "Copyright: 2006 Hillsong Publishing"
+  Extracted compound tag → profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+📝 Adonai-in process.md (7 changes)
+  Stripped bare title line: "Adonai-in process"
+  Stripped bare artist line: "Avalon"
+  Stripped bare Key line: "Key: Ab"
+  Stripped bare Copyright line: "Copyright: 1997 Dayspring Music, Inc."
+  Stripped artifact characters: ""
+  Title case: "Adonai-in process" → "Adonai-in Process"
+  Converted 19 chords-above-line → inline brackets
+
+📝 Adonai.md (9 changes)
+  Stripped bare title line: "Adonai"
+  Stripped bare artist line: "Avalon"
+  Stripped bare Key line: "Key: Ab"
+  Stripped bare Copyright line: "Copyright: 1997 Dayspring Music, Inc."
+  Stripped bare Keywords line: "Keywords: Mod. Contemp. Slow"
+  Extracted compound tag → profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+  Section label: "CHORUS" → "CHORUS:"
+  Section label: "CHORUS mod:" → "CHORUS MOD:"
+
+📝 Adopted.md (5 changes)
+  Stripped bare title line: "Adopted"
+  Stripped bare artist line: "MercyMe"
+  Stripped bare Key line: "Key: E"
+  Stripped bare CCLI line: "CCLI: 2477695"
+  Stripped bare Copyright line: "Copyright: 1996 Lmbsbro Music"
+
+📝 Agnus Dei.md (5 changes)
+  Stripped bare title line: "Agnus Dei"
+  Stripped bare artist line: "Third Day"
+  Stripped bare Key line: "Key: C"
+  Stripped bare CCLI line: "CCLI: 626713"
+  Stripped bare Copyright line: "Copyright: 1990 Milene Music, Inc"
+
+📝 Ain't God Good.md (8 changes)
+  Stripped duplicate {title: Ain't God Good} (already in frontmatter)
+  Stripped duplicate {key: F} (already in frontmatter)
+  Harvested {keywords: OS SOUTHERN GOSPEL MED, OS GOSPEL MED, OS APO MED, PRAISE} → frontmatter.keywords
+  Harvested {copyright: 1977 Jeffrey W. Robinson. Assigned to Rex Nelon Music Company. Admin. ClearBox Rights, LLC.} → frontmatter.copyright
+  Harvested {ccli: 288649} → frontmatter.ccli
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-High-Energy-Medium-Fast-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Sentence-cased 1 ALL CAPS lyric lines
+
+📝 Ain't Got Time For You, Devil [2].md (5 changes)
+  Stripped bare Title line: "Title: Ain't Got Time For You, Devil"
+  Stripped bare Artist line: "Artist: Walt Mills"
+  Stripped bare Tempo line: "Tempo: 120"
+  Stripped bare Keywords line: "Keywords: OS SOUTHERN GOSPEL FAST"
+  Derived energy: "medium-fast"
+
+📝 Ain't Got Time For You, Devil.md (5 changes)
+  Stripped bare Title line: "Title: Ain't Got Time For You, Devil"
+  Stripped bare Artist line: "Artist: Walt Mills"
+  Stripped bare Tempo line: "Tempo: 120"
+  Stripped bare Keywords line: "Keywords: OS SOUTHERN GOSPEL FAST"
+  Derived energy: "medium-fast"
+
+📝 Ain't No Devil in Hell Gonna Walk On The Jesus in Me.md (2 changes)
+  Stripped bare Title line: "Title: Ain't No Devil in Hell Gonna Walk On The Jesus in Me"
+  Stripped bare Artist line: "Artist: Danniebelle Hall and Tom T. Hall"
+
+📝 Ain't No Rock- my edit.md (10 changes)
+  Stripped duplicate {title: Ain't No Rock- my edit} (already in frontmatter)
+  Stripped duplicate {subtitle: Doretha Jones} (already in frontmatter)
+  Stripped duplicate {key: C} (already in frontmatter)
+  Harvested {keywords: OS GOSPEL MED, PRAISE, EXALTATION} → frontmatter.keywords
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Section label: "Chorus:" → "CHORUS:"
+  Section label: "Verse 1:" → "VERSE 1:"
+  Section label: "Verse 2:" → "VERSE 2:"
+  Section label: "Verse 3:" → "VERSE 3:"
+
+📝 Ain't No Rock.md (10 changes)
+  Stripped duplicate {title: Ain't No Rock} (already in frontmatter)
+  Stripped duplicate {subtitle: Doretha Jones} (already in frontmatter)
+  Stripped duplicate {key: C} (already in frontmatter)
+  Harvested {keywords: OS GOSPEL MED} → frontmatter.keywords
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Section label: "Chorus:" → "CHORUS:"
+  Section label: "Verse 1:" → "VERSE 1:"
+  Section label: "Verse 2:" → "VERSE 2:"
+  Section label: "Verse 3:" → "VERSE 3:"
+
+📝 Ain’t no rock.md (9 changes)
+  Stripped bare title line: "Ain’t no rock"
+  Stripped bare artist line: "LaMarquis Jefferson"
+  Stripped bare Key line: "Key: [Em]"
+  Stripped bare Copyright line: "Copyright: 1987 Integrity’s Music, Admin. Capitol CMG Publishing (Integrity Music [F#C Cook])"
+  Stripped bare CCLI line: "CCLI: 614055"
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Section label: "Verse 1:" → "VERSE 1:"
+  Section label: "Chorus:" → "CHORUS:"
+
+📝 Alabaster Box EDIT [2].md (5 changes)
+  Stripped duplicate {title: Alabaster Box EDIT} (already in frontmatter)
+  Stripped duplicate {key: G} (already in frontmatter)
+  Harvested {keywords: CONT. GOSPEL SLOW} → frontmatter.keywords
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+
+📝 Alabaster Box EDIT.md (6 changes)
+  Stripped duplicate {title: Alabaster Box EDIT} (already in frontmatter)
+  Stripped duplicate {key: Eb} (already in frontmatter)
+  Harvested {keywords: CONT. GOSPEL SLOW} → frontmatter.keywords
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Sentence-cased 30 ALL CAPS lyric lines
+
+📝 Alabaster Box LYRICS.md (20 changes)
+  Stripped duplicate {title: Alabaster Box LYRICS} (already in frontmatter)
+  Stripped duplicate {key: F} (already in frontmatter)
+  Harvested {keywords: CONT. GOSPEL SLOW} → frontmatter.keywords
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Sentence-cased 42 ALL CAPS lyric lines
+
+📝 Alabaster Box.md (8 changes)
+  Stripped duplicate {title: Alabaster Box} (already in frontmatter)
+  Stripped duplicate {key: G} (already in frontmatter)
+  Harvested {keywords: CONT. GOSPEL SLOW} → frontmatter.keywords
+  Harvested {copyright: 2004 Little Pooky’s Music, Admin. Pure Psalms Music} → frontmatter.copyright
+  Harvested {ccli: 2825962} → frontmatter.ccli
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Section label: "CHORUS mod:" → "CHORUS MOD:"
+
+📝 Alien.md (5 changes)
+  Stripped bare title line: "Alien"
+  Stripped bare Artist line: "Artist: Third Day"
+  Section label: "Intro" → "INTRO:"
+  Section label: "Chorus:" → "CHORUS:"
+  Section label: "Bridge:" → "BRIDGE:"
+
+📝 Alive In Love.md (6 changes)
+  Stripped bare title line: "Alive In Love"
+  Stripped bare artist line: "The Swift"
+  Stripped bare Key line: "Key: A"
+  Stripped bare CCLI line: "CCLI: 4362148"
+  Stripped bare Copyright line: "Copyright: 2004 Flicker USA Publishing"
+  Sentence-cased 1 ALL CAPS lyric lines
+
+📝 All Because Of Jesus [2].md (11 changes)
+  Stripped bare title line: "All Because Of Jesus"
+  Stripped bare artist line: "Casting Crowns"
+  Stripped bare Key line: "Key: C"
+  Stripped bare CCLI line: "CCLI: 4882903"
+  Stripped bare Copyright line: "Copyright: 2007 worshiptogether.com songs / sixsteps Music"
+  Section label: "Verse:" → "VERSE:"
+  Section label: "Chorus:" → "CHORUS:"
+  Section label: "Chorus:" → "CHORUS:"
+  Section label: "Bridge:" → "BRIDGE:"
+  Section label: "Chorus:" → "CHORUS:"
+  Converted 37 chords-above-line → inline brackets
+
+📝 All Because of Jesus.md (5 changes)
+  Stripped duplicate {title: All Because of Jesus} (already in frontmatter)
+  Stripped duplicate {subtitle: Casting Crowns} (already in frontmatter)
+  Stripped duplicate {key: G} (already in frontmatter)
+  Stripped duplicate {tempo: 130} (already in frontmatter)
+  Derived energy: "medium-fast"
+
+📝 All Because of This.md (5 changes)
+  Stripped bare title line: "All Because of This"
+  Stripped bare artist line: "MercyMe"
+  Stripped bare Key line: "Key: D"
+  Stripped bare CCLI line: "CCLI: 3912915"
+  Stripped bare Copyright line: "Copyright: 2002 Simpleville Music / Songs From The Indigo Room / Wordspring Music, Inc."
+
+📝 All For Me.md (1 changes)
+  Stripped bare title line: "All For Me"
+
+📝 All Hail %2F lyrics.md (1 changes)
+  Stripped bare title line: "All Hail / lyrics"
+
+📝 All Hail %2F sections.md (1 changes)
+  Stripped bare title line: "All Hail / sections"
+
+📝 All Hail ERV.md (1 changes)
+  Stripped bare title line: "All Hail ERV"
+
+📝 All Hail King Jesus.md (7 changes)
+  Stripped bare title line: "All Hail King Jesus"
+  Stripped bare Key line: "Key: G"
+  Stripped bare CCLI line: "CCLI: 12877"
+  Stripped bare Copyright line: "Copyright: 1981 Dayspring Music, Inc."
+  Stripped bare Tempo line: "Tempo: 64"
+  Extracted compound tag → profile: "CCM-Choir-Choruses-Congregational-Jesus-Movement-Maranatha-Medium-Praise-Solo-Songs-Worship"
+  Derived energy: "slow"
+
+📝 All Heaven Declares.md (8 changes)
+  Stripped duplicate {title: All Heaven Declares} (already in frontmatter)
+  Stripped duplicate {key: A} (already in frontmatter)
+  Harvested {copyright: 1987 Thankyou Music, Admin. Capitol CMG Publishing} → frontmatter.copyright
+  Harvested {ccli: 120556} → frontmatter.ccli
+  Stripped bare artist line: "Martin Ball, written by Tom Fettke / Noel Richards / Tricia Richards"
+  Moved THEMES to tags: beauty, heaven, worship
+  Extracted compound tag → profile: "CCM-Choir-Choruses-Congregational-Contemporary-Jesus-Movement-Maranatha-Medium-Praise-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "medium"
+
+📝 All I Need.md (1 changes)
+  Stripped bare title line: "All I Need"
+
+📝 All My Hope.md (5 changes)
+  Stripped bare title line: "All My Hope"
+  Stripped bare artist line: "Crowder"
+  Stripped bare Key line: "Key: Ab"
+  Extracted compound tag → profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+📝 All My Praise.md (13 changes)
+  Stripped bare title line: "All My Praise"
+  Stripped bare artist line: "Selah"
+  Stripped bare Key line: "Key: D"
+  Stripped bare Tempo line: "Tempo: 65"
+  Stripped bare CCLI line: "CCLI: 4437217"
+  Stripped bare Copyright line: "Copyright: 2002 BMG Songs, Inc."
+  Stripped bare Keywords line: "Keywords: CCLI, CONTEMP MED"
+  Derived energy: "medium-slow"
+  Section label: "Verse 1:" → "VERSE 1:"
+  Section label: "Pre-chorus:" → "PRE-CHORUS:"
+  Section label: "Chorus:" → "CHORUS:"
+  Section label: "Verse 2:" → "VERSE 2:"
+  Section label: "Bridge:" → "BRIDGE:"
+
+📝 All My Tears.md (7 changes)
+  Stripped bare title line: "All My Tears"
+  Stripped bare artist line: "Jars Of Clay"
+  Stripped bare Key line: "Key: D"
+  Stripped bare Copyright line: "Copyright: 2006 Provident Label Group LLC"
+  Section label: "CHORUS" → "CHORUS:"
+  Section label: "CHORUS" → "CHORUS:"
+  Sentence-cased 1 ALL CAPS lyric lines
+
+📝 All My Worship (My All) [2].md (8 changes)
+  Stripped bare title line: "All My Worship (My All)"
+  Stripped bare Artist line: "Artist: J.D. Webb"
+  Stripped bare Tempo line: "Tempo: 56"
+  Stripped bare Keywords line: "Keywords: MOD APO SLOW, MOD GOSPEL SLOW"
+  Derived energy: "slow"
+  Section label: "Verse 1:" → "VERSE 1:"
+  Section label: "Chorus:" → "CHORUS:"
+  Section label: "Bridge:" → "BRIDGE:"
+
+📝 All My Worship (My All) [3].md (8 changes)
+  Stripped bare title line: "All My Worship (My All)"
+  Stripped bare Artist line: "Artist: J.D. Webb"
+  Stripped bare Tempo line: "Tempo: 56"
+  Stripped bare Keywords line: "Keywords: MOD APO SLOW, MOD GOSPEL SLOW"
+  Derived energy: "slow"
+  Section label: "Verse 1:" → "VERSE 1:"
+  Section label: "Chorus:" → "CHORUS:"
+  Section label: "Bridge:" → "BRIDGE:"
+
+📝 All My Worship (My All).md (6 changes)
+  Stripped bare title line: "All My Worship (My All)"
+  Stripped bare Artist line: "Artist: J.D. Webb"
+  Stripped bare Tempo line: "Tempo: 56"
+  Stripped bare Keywords line: "Keywords: MOD APO SLOW, MOD GOSPEL SLOW"
+  Derived energy: "slow"
+  Sentence-cased 1 ALL CAPS lyric lines
+
+📝 All My Worship [2].md (5 changes)
+  Stripped bare title line: "All My Worship"
+  Stripped bare artist line: "Key : Db"
+  Section label: "Verse 1" → "VERSE 1:"
+  Section label: "Chorus" → "CHORUS:"
+  Section label: "Bridge" → "BRIDGE:"
+
+📝 All My Worship.md (5 changes)
+  Stripped bare title line: "All My Worship"
+  Stripped bare artist line: "Key : Db"
+  Section label: "Verse 1" → "VERSE 1:"
+  Section label: "Chorus" → "CHORUS:"
+  Section label: "Bridge" → "BRIDGE:"
+
+📝 All Of Creation.md (5 changes)
+  Stripped bare title line: "All Of Creation"
+  Stripped bare artist line: "MercyMe"
+  Stripped bare Key line: "Key: G"
+  Stripped bare CCLI line: "CCLI: 5760756"
+  Stripped bare Copyright line: "Copyright: © 2010 Simpleville Music (Admin. by Music Services, Inc.)Wet As A Fish Music (Admin. by Music Services, Inc.)Banistuci Music (Admin. by The Loving Com"
+
+📝 All That I Am [2].md (6 changes)
+  Stripped bare title line: "All That I Am"
+  Stripped bare Key line: "Key: G"
+  Stripped bare CCLI line: "CCLI: 1657286"
+  Stripped bare Copyright line: "Copyright: 1994 D’Vine Music"
+  Stripped artifact characters: ""
+  Converted 14 chords-above-line → inline brackets
+
+📝 All That I Am.md (4 changes)
+  Stripped bare title line: "All That I Am"
+  Stripped bare artist line: "The Afters"
+  Stripped bare Key line: "Key: D"
+  Stripped bare Copyright line: "Copyright: 2004 Sony Music"
+
+📝 All The Heavens.md (5 changes)
+  Stripped bare title line: "All The Heavens"
+  Stripped bare artist line: "Third Day"
+  Stripped bare Key line: "Key: C"
+  Stripped bare CCLI line: "CCLI: 3118520"
+  Stripped bare Copyright line: "Copyright: 2000 New Spring Publishing, Inc."
+
+📝 All The Way My Savior Leads Me [2].md (7 changes)
+  Stripped bare title line: "All The Way My Savior Leads Me"
+  Stripped bare artist line: "Rich Mullins"
+  Stripped bare Key line: "Key: D"
+  Stripped bare CCLI line: "CCLI: 3504134"
+  Stripped bare Copyright line: "Copyright: 1992 BMG Songs, Inc."
+  Extracted compound tag → profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+📝 All The Way My Savior Leads Me [3].md (7 changes)
+  Stripped bare title line: "All The Way My Savior Leads Me"
+  Stripped bare artist line: "by Fanny Crosby, 1875, Chris Tomlin"
+  Stripped bare Key line: "Key: G"
+  Stripped bare CCLI line: "CCLI: 3504134"
+  Stripped bare Copyright line: "Copyright: 1992 BMG Songs, Inc."
+  Extracted compound tag → profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+📝 All The Way My Savior Leads Me.md (7 changes)
+  Stripped bare title line: "All The Way My Savior Leads Me"
+  Stripped bare artist line: "by Fanny Crosby, 1875, Chris Tomlin"
+  Stripped bare Key line: "Key: Ab"
+  Stripped bare CCLI line: "CCLI: 3504134"
+  Stripped bare Copyright line: "Copyright: 1992 BMG Songs, Inc."
+  Extracted compound tag → profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+📝 All Things Are Possible.md (5 changes)
+  Stripped bare title line: "All Things Are Possible"
+  Stripped bare artist line: "Darlene Zschech"
+  Stripped bare Key line: "Key: C"
+  Stripped bare CCLI line: "CCLI: 2245140"
+  Stripped bare Copyright line: "Copyright: 1997 Darlene Zschech (Hillsong)"
+
+📝 All Things New.md (5 changes)
+  Stripped bare title line: "All Things New"
+  Stripped bare artist line: "Watermark"
+  Stripped bare Key line: "Key: G"
+  Stripped bare CCLI line: "CCLI: 3190830"
+  Stripped bare Copyright line: "Copyright: 1996 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music"
+
+📝 All Things are Working-choir.md (1 changes)
+  Stripped bare title line: "All Things are Working-choir"
+
+📝 All You Died For Me To Be.md (5 changes)
+  Stripped bare title line: "All You Died For Me To Be"
+  Stripped bare artist line: "Ray Boltz"
+  Stripped bare Key line: "Key: G"
+  Stripped bare CCLI line: "CCLI: 4408741"
+  Stripped bare Copyright line: "Copyright: 2002 Shepherd Boy Music"
+
+📝 All in Him.md (7 changes)
+  Stripped duplicate {title: All in Him} (already in frontmatter)
+  Stripped duplicate {subtitle: George R. Farrow} (already in frontmatter)
+  Stripped duplicate {key: G} (already in frontmatter)
+  Harvested {keywords: OS APO FAST, SUTL} → frontmatter.keywords
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Fast-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Sentence-cased 1 ALL CAPS lyric lines
+
+📝 All the Glory.md (12 changes)
+  Stripped duplicate {title: All the Glory} (already in frontmatter)
+  Stripped duplicate {subtitle: Mark Condon} (already in frontmatter)
+  Stripped duplicate {key: C} (already in frontmatter)
+  Stripped duplicate {tempo: 132} (already in frontmatter)
+  Derived energy: "medium-fast"
+  Section label: "Intro:" → "INTRO:"
+  Section label: "Chorus:" → "CHORUS:"
+  Section label: "Verse 1:" → "VERSE 1:"
+  Section label: "Chorus:" → "CHORUS:"
+  Section label: "Verse 2:" → "VERSE 2:"
+  Section label: "Chorus:" → "CHORUS:"
+  Section label: "Verse 2:" → "VERSE 2:"
+
+📝 All the Praise.md (3 changes)
+  Stripped duplicate {title: All the Praise} (already in frontmatter)
+  Stripped duplicate {subtitle: Verse 1} (already in frontmatter)
+  Stripped duplicate {key: C} (already in frontmatter)
+
+📝 All_Hail %2F sheet music.md (1 changes)
+  Stripped bare title line: "All_Hail / sheet music"
+
+📝 Already Been To The Water.md (5 changes)
+  Stripped bare title line: "Already Been To The Water"
+  Stripped bare artist line: "Vicki Winans"
+  Stripped bare Key line: "Key: C"
+  Stripped bare byline: "Well, I've already been to the water"
+  Sentence-cased 1 ALL CAPS lyric lines
+
+📝 Always Enough.md (5 changes)
+  Stripped bare title line: "Always Enough"
+  Stripped bare artist line: "Casting Crowns"
+  Stripped bare Key line: "Key: Gm"
+  Stripped bare CCLI line: "CCLI: 5631139"
+  Stripped bare Copyright line: "Copyright: 2009 Alletrop Music / My Refuge Music"
+
+📝 Always Have Always Will.md (5 changes)
+  Stripped bare title line: "Always Have Always Will"
+  Stripped bare artist line: "Avalon"
+  Stripped artifact characters: ""
+  Section label: "Chorus:" → "CHORUS:"
+  Converted 21 chords-above-line → inline brackets
+
+📝 Always Have, Always Will.md (4 changes)
+  Stripped bare title line: "Always Have, Always Will"
+  Stripped bare artist line: "Avalon"
+  Section label: "Chorus:" → "CHORUS:"
+  Sentence-cased 1 ALL CAPS lyric lines
+
+📝 Amazing Grace (My Chains Are Gone).md (5 changes)
+  Stripped bare title line: "Amazing Grace (My Chains Are Gone)"
+  Stripped bare artist line: "Chris Tomlin"
+  Stripped bare Key line: "Key: D"
+  Stripped bare CCLI line: "CCLI: 4768151"
+  Stripped bare Copyright line: "Copyright: worshiptogether.com songs / sixsteps Music"
+
+📝 Amazing Grace - version 1.md (5 changes)
+  Stripped bare Title line: "Title: Amazing Grace - version 1"
+  Stripped bare Artist line: "Artist: John Newton"
+  Stripped bare Keywords line: "Keywords: OS Gospel Slow, OS APO Slow"
+  Extracted compound tag → profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+📝 Amazing Grace - version 2.md (6 changes)
+  Stripped bare Title line: "Title: Amazing Grace - version 2"
+  Stripped bare Artist line: "Artist: John Newton"
+  Stripped bare Keywords line: "Keywords: OSGospel Slow, OS Apo Slow"
+  Stripped bare Key line: "Key:[C]"
+  Extracted compound tag → profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+📝 Amazing Grace [2].md (7 changes)
+  Stripped bare title line: "Amazing Grace"
+  Stripped bare Key line: "Key: G"
+  Stripped bare CCLI line: "CCLI: 22025"
+  Stripped bare Copyright line: "Copyright: Public Domain"
+  Stripped bare Keywords line: "Keywords: OS APO SLOW"
+  Extracted compound tag → profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+📝 Amazing Grace [3].md (8 changes)
+  Stripped bare title line: "Amazing Grace"
+  Stripped bare artist line: "Jars Of Clay"
+  Stripped bare Key line: "Key: G"
+  Stripped bare Copyright line: "Copyright: 2003 Bridge Building Music, Inc."
+  Extracted compound tag → profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+  Section label: "Chorus x2" → "CHORUS: x2"
+  Converted 25 chords-above-line → inline brackets
+
+📝 Amazing Grace [5].md (4 changes)
+  Stripped bare title line: "Amazing Grace"
+  Stripped bare artist line: "Burbank"
+  Extracted compound tag → profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+📝 Amazing Grace-EASY.md (5 changes)
+  Stripped bare title line: "Amazing Grace-EASY"
+  Stripped bare artist line: "3/4 time"
+  Stripped bare Key line: "Key: [C]"
+  Derived energy: "medium-slow"
+  Sentence-cased 3 ALL CAPS lyric lines
+
+📝 Amazing Love [2].md (12 changes)
+  Stripped bare title line: "Amazing Love"
+  Stripped bare artist line: "Jeff Foote"
+  Stripped bare Key line: "Key: D"
+  Stripped bare Copyright line: "Copyright: 1997 Jeff M. Foote"
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium"
+  Section label: "Verse:" → "VERSE:"
+  Section label: "Chorus:" → "CHORUS:"
+  Section label: "Bridge:" → "BRIDGE:"
+  Converted 13 chords-above-line → inline brackets
+
+📝 Amazing Love.md (5 changes)
+  Harvested {ccli: 2473888} → frontmatter.ccli
+  Stripped bare title line: "Amazing Love"
+  Stripped bare artist line: "Rebecca St. James"
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium"
+
+📝 Amen [Version 2].md (4 changes)
+  Stripped bare title line: "Amen [Version 2]"
+  Stripped bare artist line: "Charity Gayle, Steven Musso, Joshua Sherman, Kaleb Frazier & The Emerging Sound"
+  Stripped bare Key line: "Key: D"
+  Stripped bare Copyright line: "Copyright: © 2016 Charity: Tent Peg Music, BMI (Admin. Music Services) Steven: The Emerging Sound Publishing, BMI (Admin. Music Services) Joshua: Tent Peg Music, BMI (Admin. Music Services) Kaleb: The Emerging Sound Publishing, BMI (Admin. Music Services) ES: The Emerging Sound Publishing, BMI (Admin. Music Services) All Rights Reserved hello@peopleandsongs.com"
+
+📝 Amen [version 1] [2].md (5 changes)
+  Stripped bare title line: "Amen [version 1]"
+  Stripped bare artist line: "Charity Gayle, Steven Musso, Joshua Sherman, Kaleb Frazier & The Emerging Sound"
+  Stripped bare Key line: "Key: D"
+  Stripped bare Copyright line: "Copyright: © 2016 Charity: Tent Peg Music, BMI (Admin. Music Services) Steven: The Emerging Sound Publishing, BMI (Admin. Music Services) Joshua: Tent Peg Music, BMI (Admin. Music Services) Kaleb: The Emerging Sound Publishing, BMI (Admin. Music Services) ES: The Emerging Sound Publishing, BMI (Admin. Music Services) All Rights Reserved hello@peopleandsongs.com"
+  Title case: "Amen [version 1]" → "Amen [Version 1]"
+
+📝 Amen [version 1].md (5 changes)
+  Stripped bare title line: "Amen [version 1]"
+  Stripped bare artist line: "Charity Gayle, Steven Musso, Joshua Sherman, Kaleb Frazier & The Emerging Sound"
+  Stripped bare Key line: "Key: D"
+  Stripped bare Copyright line: "Copyright: © 2016 Charity: Tent Peg Music, BMI (Admin. Music Services) Steven: The Emerging Sound Publishing, BMI (Admin. Music Services) Joshua: Tent Peg Music, BMI (Admin. Music Services) Kaleb: The Emerging Sound Publishing, BMI (Admin. Music Services) ES: The Emerging Sound Publishing, BMI (Admin. Music Services) All Rights Reserved hello@peopleandsongs.com"
+  Title case: "Amen [version 1]" → "Amen [Version 1]"
+
+📝 Amen.md (3 changes)
+  Stripped bare title line: "Amen"
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Slow-Reverential-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium-slow"
+
+📝 American Dream.md (8 changes)
+  Stripped bare title line: "American Dream"
+  Stripped bare artist line: "Casting Crowns"
+  Stripped bare Key line: "Key: D"
+  Stripped bare CCLI line: "CCLI: 4196558"
+  Stripped bare Copyright line: "Copyright: SWECS Music / Club Zoo Music"
+  Section label: "Chorus" → "CHORUS:"
+  Section label: "Chorus" → "CHORUS:"
+  Converted 40 chords-above-line → inline brackets
+
+📝 And Now My Lifesong Sings.md (5 changes)
+  Stripped bare title line: "And Now My Lifesong Sings"
+  Stripped bare artist line: "Casting Crowns"
+  Stripped bare Key line: "Key: Db"
+  Stripped bare CCLI line: "CCLI: 4578884"
+  Stripped bare Copyright line: "Copyright: 2005 My Refuge Music / Sony/ATV Tree Publishing"
+
+📝 Angel [2].md (3 changes)
+  Stripped bare title line: "Angel"
+  Stripped bare artist line: "Mark Condon"
+  Stripped bare Key line: "Key: [C]"
+
+📝 Angel.md (14 changes)
+  Stripped bare title line: "Angel"
+  Stripped bare artist line: "Casting Crowns"
+  Stripped bare Key line: "Key: C"
+  Stripped bare CCLI line: "CCLI: 6136138"
+  Stripped bare Copyright line: "Copyright: 2011 Sony/ATV Tree Publishing"
+  Section label: "Intro:" → "INTRO:"
+  Section label: "Verse 1:" → "VERSE 1:"
+  Section label: "Pre-Chorus:" → "PRE-CHORUS:"
+  Section label: "Chorus:" → "CHORUS:"
+  Section label: "Verse 2:" → "VERSE 2:"
+  Section label: "Chorus 2:" → "CHORUS 2:"
+  Section label: "Bridge:" → "BRIDGE:"
+  Section label: "Chorus 3:" → "CHORUS 3:"
+  Section label: "Outro:" → "OUTRO:"
+
+📝 Angels We Have Heard On High.md (7 changes)
+  Stripped bare title line: "Angels We Have Heard On High"
+  Stripped bare artist line: "Third Day"
+  Stripped bare Key line: "Key: E"
+  Stripped bare CCLI line: "CCLI: 4867980"
+  Stripped bare Copyright line: "Copyright: Consuming Fire Music"
+  Converted 14 chords-above-line → inline brackets
+  Sentence-cased 1 ALL CAPS lyric lines
+
+📝 Anointing Fall On Me [2].md (8 changes)
+  Stripped duplicate {title: Anointing Fall On Me} (already in frontmatter)
+  Stripped duplicate {key: Db} (already in frontmatter)
+  Stripped duplicate {tempo: 68} (already in frontmatter)
+  Harvested {copyright: 1992 New Spring, Admin. Brentwood-Benson Music Publishing, Inc.} → frontmatter.copyright
+  Harvested {ccli: 859126} → frontmatter.ccli
+  Harvested {keywords: MOD GOSPEL SLOW, Contemporary, CLASSIC, WORSHIP, SLOW, INVITATION, ALTAR, SOLO} → frontmatter.keywords
+  Derived energy: "medium-slow"
+  Sentence-cased 11 ALL CAPS lyric lines
+
+📝 Anointing Fall On Me [3].md (8 changes)
+  Stripped duplicate {title: Anointing Fall On Me} (already in frontmatter)
+  Stripped duplicate {key: C} (already in frontmatter)
+  Stripped duplicate {tempo: 68} (already in frontmatter)
+  Harvested {copyright: 1992 New Spring, Admin. Brentwood-Benson Music Publishing, Inc.} → frontmatter.copyright
+  Harvested {ccli: 859126} → frontmatter.ccli
+  Harvested {keywords: MOD GOSPEL SLOW, Contemporary, CLASSIC, WORSHIP, SLOW, INVITATION, ALTAR, SOLO} → frontmatter.keywords
+  Derived energy: "medium-slow"
+  Sentence-cased 11 ALL CAPS lyric lines
+
+📝 Anointing Fall On Me.md (8 changes)
+  Stripped duplicate {title: Anointing Fall On Me} (already in frontmatter)
+  Stripped duplicate {key: C} (already in frontmatter)
+  Stripped duplicate {tempo: 68} (already in frontmatter)
+  Harvested {copyright: 1992 New Spring, Admin. Brentwood-Benson Music Publishing, Inc.} → frontmatter.copyright
+  Harvested {ccli: 859126} → frontmatter.ccli
+  Harvested {keywords: MOD GOSPEL SLOW, Contemporary, CLASSIC, WORSHIP, SLOW, INVITATION, ALTAR, SOLO} → frontmatter.keywords
+  Derived energy: "medium-slow"
+  Sentence-cased 12 ALL CAPS lyric lines
+
+📝 Anthem Of Praise.md (5 changes)
+  Stripped bare title line: "Anthem Of Praise"
+  Stripped bare artist line: "Carl Cartee"
+  Stripped bare Key line: "Key: G"
+  Stripped bare CCLI line: "CCLI: 4576604"
+  Stripped bare Copyright line: "Copyright: 2004 Electra Car Publishing / Bracy Train Publishing"
+
+📝 Anything.md (5 changes)
+  Stripped bare title line: "Anything"
+  Stripped bare artist line: "Third Day"
+  Stripped bare Key line: "Key: C"
+  Stripped bare CCLI line: "CCLI: 4027043"
+  Stripped bare Copyright line: "Copyright: 2003 Consuming Fire Music"
+
+📝 Are You Washed In The Blood.md (2 changes)
+  Stripped duplicate {title: Are You Washed In The Blood} (already in frontmatter)
+  Stripped duplicate {key: F} (already in frontmatter)
+
+📝 Are You Washed in the Blood?.md (7 changes)
+  Stripped duplicate {title: Are You Washed in the Blood?} (already in frontmatter)
+  Stripped duplicate {subtitle: Rev. E. A. Hoffman} (already in frontmatter)
+  Stripped duplicate {key: F} (already in frontmatter)
+  Stripped duplicate {tempo: 144} (already in frontmatter)
+  Harvested {copyright: Public Domain} → frontmatter.copyright
+  Harvested {ccli: 21105} → frontmatter.ccli
+  Derived energy: "high"
+
+📝 Arise And Be Comforted.md (6 changes)
+  Stripped bare title line: "Arise And Be Comforted"
+  Stripped bare artist line: "Watermark"
+  Stripped bare Key line: "Key: B"
+  Stripped bare CCLI line: "CCLI: 2796455"
+  Stripped bare Copyright line: "Copyright: 1996 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music"
+  Sentence-cased 2 ALL CAPS lyric lines
+
+📝 Art In Me.md (7 changes)
+  Stripped bare title line: "Art In Me"
+  Stripped bare artist line: "Jars Of Clay"
+  Stripped artifact characters: ""
+  Derived energy: "medium-fast"
+  Section label: "VERSE1:" → "VERSE 1:"
+  Section label: "VERSE2:" → "VERSE 2:"
+  Converted 20 chords-above-line → inline brackets
+
+📝 Artist Name.md (4 changes)
+  Stripped bare title line: "Artist Name"
+  Stripped bare Key line: "Key: [C]"
+  Section label: "Verse 1:" → "VERSE 1:"
+  Section label: "Chorus:" → "CHORUS:"
+
+📝 As We Worship You.md (3 changes)
+  Stripped duplicate {title: As We Worship You} (already in frontmatter)
+  Stripped duplicate {subtitle: Don Moen} (already in frontmatter)
+  Stripped duplicate {key: C} (already in frontmatter)
+
+📝 At Calvary II.md (5 changes)
+  Stripped duplicate {title: At Calvary II} (already in frontmatter)
+  Stripped duplicate {subtitle: D. B. Towner} (already in frontmatter)
+  Stripped duplicate {key: C} (already in frontmatter)
+  Stripped artifact characters: ""
+  Stripped artifact characters: ""
+
+📝 At Calvary [2].md (7 changes)
+  Stripped duplicate {title: At Calvary} (already in frontmatter)
+  Stripped duplicate {subtitle: William R. Newell & D.B. Towner} (already in frontmatter)
+  Stripped duplicate {key: C} (already in frontmatter)
+  Harvested {copyright: Public Domain} → frontmatter.copyright
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Fast-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Sentence-cased 1 ALL CAPS lyric lines
+
+📝 At Calvary.md (5 changes)
+  Stripped duplicate {title: At Calvary} (already in frontmatter)
+  Stripped duplicate {subtitle: D. B. Towner} (already in frontmatter)
+  Stripped duplicate {key: C} (already in frontmatter)
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Fast-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+📝 At The Cross [2].md (4 changes)
+  Stripped duplicate {title: At The Cross} (already in frontmatter)
+  Stripped duplicate {key: Eb} (already in frontmatter)
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Fast-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+📝 At The Cross.md (5 changes)
+  Stripped duplicate {title: At The Cross} (already in frontmatter)
+  Stripped duplicate {key: Eb} (already in frontmatter)
+  Harvested {keywords: O. S. Apo. Med., SUTL} → frontmatter.keywords
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Fast-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+📝 At The Foot Of The Cross.md (8 changes)
+  Stripped bare title line: "At The Foot Of The Cross"
+  Stripped bare artist line: "Ray Boltz"
+  Stripped bare Key line: "Key: Em"
+  Stripped bare Time line: "Time: 3/4"
+  Stripped bare CCLI line: "CCLI: 2128212"
+  Stripped bare Copyright line: "Copyright: 1996 Shepherd Boy Music"
+  Extracted compound tag → profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+📝 At Your Feet 2.md (11 changes)
+  Stripped bare title line: "At Your Feet"
+  Stripped bare artist line: "Clint Brown"
+  Stripped bare Key line: "Key: Eb"
+  Stripped bare CCLI line: "CCLI: 2024763"
+  Stripped bare Copyright line: "Copyright: 1996 Dayspring Music Inc., Word Music Inc."
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Slow-Reverential-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium-slow"
+  Section label: "Verse 1" → "VERSE 1:"
+  Section label: "Verse 2" → "VERSE 2:"
+  Section label: "Chorus" → "CHORUS:"
+  Converted 4 chords-above-line → inline brackets
+
+📝 At Your Feet.md (7 changes)
+  Stripped bare title line: "At Your Feet"
+  Stripped bare artist line: "Casting Crowns"
+  Stripped bare Key line: "Key: E"
+  Stripped bare CCLI line: "CCLI: 5657539"
+  Stripped bare Copyright line: "Copyright: 2009 My Refuge Music / Sony/ATV Tree Publishing / Sony/ATV Timber Publishing / Windsor Hill Music"
+  Extracted compound tag → profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Slow-Reverential-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium-slow"
+
+📝 At the Cross (184).md (12 changes)
+  Stripped duplicate {title: At the Cross (184)} (already in frontmatter)
+  Stripped duplicate {subtitle: I. Watts & R. E. Hudson} (already in frontmatter)
+  Stripped duplicate {key: C} (already in frontmatter)
+  Harvested {keywords: TRADITIONAL, SUTL, ENERGETIC} → frontmatter.keywords
+  Derived energy: "high"
+  Section label: "Verse 1:" → "VERSE 1:"
+  Section label: "Chorus:" → "CHORUS:"
+  Section label: "Verse 2:" → "VERSE 2:"
+  Section label: "Verse 3:" → "VERSE 3:"
+  Section label: "Verse 4:" → "VERSE 4:"
+  Section label: "Verse 5:" → "VERSE 5:"
+  Sentence-cased 4 ALL CAPS lyric lines
+
+📝 Audience Of One.md (5 changes)
+  Stripped bare title line: "Audience Of One"
+  Stripped bare artist line: "Big Daddy Weave"
+  Stripped bare Key line: "Key: D"
+  Stripped bare CCLI line: "CCLI: 3504512"
+  Stripped bare Copyright line: "Copyright: 2002 Word Music, LLC"
+
+📝 Away In A Manger [2].md (7 changes)
+  Stripped bare title line: "Away In A Manger"
+  Stripped bare artist line: "Third Day"
+  Stripped bare Key line: "Key: G"
+  Stripped bare CCLI line: "CCLI: 4868051"
+  Stripped bare Copyright line: "Copyright: Consuming Fire Music"
+  Section label: "VERSE 3" → "VERSE 3:"
+  Converted 18 chords-above-line → inline brackets
+
+📝 Away In A Manger.md (10 changes)
+  Stripped bare title line: "Away In A Manger"
+  Stripped bare artist line: "Casting Crowns"
+  Stripped bare Key line: "Key: Gb"
+  Stripped bare CCLI line: "CCLI: 38583"
+  Stripped bare Copyright line: "Copyright: Public Domain"
+  Section label: "Verse 1:" → "VERSE 1:"
+  Section label: "Verse 2:" → "VERSE 2:"
+  Section label: "Verse 3:" → "VERSE 3:"
+  Section label: "Ending:" → "ENDING:"
+  Converted 11 chords-above-line → inline brackets
+
+📝 Awesome (My God Is).md (7 changes)
+  Stripped duplicate {title: (My God Is) Awesome} (already in frontmatter)
+  Stripped duplicate {subtitle: Pastor Charles Jenkins} (already in frontmatter)
+  Stripped duplicate {key: E} (already in frontmatter)
+  Stripped duplicate {tempo: 66} (already in frontmatter)
+  Harvested {time: 4/4} → frontmatter.time
+  Harvested {keywords: MOD GOSPEL MED SLOW, CONT BLACK GOSPEL} → frontmatter.keywords
+  Derived energy: "medium-slow"
+
+📝 Awesome (My God Is)2.md (8 changes)
+  Stripped duplicate {title: (My God Is) Awesome} (already in frontmatter)
+  Stripped duplicate {subtitle: Pastor Charles Jenkins} (already in frontmatter)
+  Stripped duplicate {key: Eb} (already in frontmatter)
+  Stripped duplicate {tempo: 66} (already in frontmatter)
+  Harvested {time: 4/4} → frontmatter.time
+  Harvested {keywords: MOD GOSPEL MED SLOW, CONT BLACK GOSPEL} → frontmatter.keywords
+  Derived energy: "medium-slow"
+  Sentence-cased 1 ALL CAPS lyric lines
+
+📝 Awesome God [2].md (7 changes)
+  Stripped bare title line: "Awesome God"
+  Stripped bare artist line: "Clint Brown"
+  Stripped bare Key line: "Key: F"
+  Stripped bare CCLI line: "CCLI: 329003"
+  Stripped bare Copyright line: "Copyright: 1998 Tribe Music"
+  Converted 7 chords-above-line → inline brackets
+  Sentence-cased 7 ALL CAPS lyric lines
+
+📝 Awesome God [3].md (8 changes)
+  Stripped bare title line: "Awesome God"
+  Stripped bare artist line: "Rich Mullins"
+  Stripped bare Key line: "Key: A"
+  Stripped bare CCLI line: "CCLI: 41099"
+  Stripped bare Copyright line: "Copyright: 1988 BMG Songs, Inc."
+  Section label: "Chorus:" → "CHORUS:"
+  Section label: "CHORUS" → "CHORUS:"
+  Converted 15 chords-above-line → inline brackets
+
+📝 Awesome God.md (3 changes)
+  Stripped bare title line: "Awesome God"
+  Stripped bare artist line: "Rich Mullins"
+  Sentence-cased 1 ALL CAPS lyric lines
+
+📝 Awesome.md (6 changes)
+  Stripped bare title line: "Awesome"
+  Stripped bare artist line: "Key of: Eb"
+  Section label: "Verse 1:" → "VERSE 1:"
+  Section label: "Chorus:" → "CHORUS:"
+  Section label: "Verse 2:" → "VERSE 2:"
+  Section label: "Bridge:" → "BRIDGE:"
+
+📝 alright okay uh-huh Amen.md (3 changes)
+  Stripped bare title line: "alright okay uh-huh Amen"
+  Stripped bare artist line: "Rich Mullins"
+  Title case: "alright okay uh-huh Amen" → "Alright Okay Uh-Huh Amen"
+
+════════════════════════════════════════════════════════════
+NORMALIZATION REPORT SUMMARY
+════════════════════════════════════════════════════════════
+Files processed:  118
+Files changed:    118
+Files unchanged:  0
+Total changes:    747
+Output written to: songs/A_normalized
+════════════════════════════════════════════════════════════

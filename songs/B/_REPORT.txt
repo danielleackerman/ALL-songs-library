@@ -1,0 +1,1008 @@
+
+BE CAREFUL LITTLE EYES WHAT YOU HEAR.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Title case: "BE CAREFUL LITTLE EYES WHAT YOU HEAR" -> "Be Careful Little Eyes What You Hear"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+
+BLESS THE LORD (in major key).md (2 changes)
+  Stripped bare title
+  Stripped bare artist
+
+BLESS THE LORD [2].md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Title case: "BLESS THE LORD" -> "Bless the Lord"
+
+BLESS THE LORD [3].md (3 changes)
+  Stripped bare title
+  Stripped bare artist
+  Title case: "BLESS THE LORD" -> "Bless the Lord"
+
+BLUEPRINT.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Title case: "BLUEPRINT" -> "Blueprint"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+
+BREAK EVERY CHAIN [4].md (10 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Keywords
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "MOD-GOSPEL-SLOW"
+  Extracted -> profile: "CONTEMP-CHRISTIAN-SLOW"
+  Derived energy: "high"
+  Title case: "BREAK EVERY CHAIN" -> "Break Every Chain"
+  Sentence-cased 3 ALL CAPS lines
+
+BREAK EVERY CHAIN | LYRICS ONLY.md (18 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Keywords
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Extracted -> profile: "MOD-GOSPEL-SLOW"
+  Title case: "BREAK EVERY CHAIN | LYRICS ONLY" -> "Break Every Chain | Lyrics Only"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Verse 3:" -> "VERSE 3:"
+  Sentence-cased 4 ALL CAPS lines
+
+BREAKTHROUGH 1.md (14 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Title case: "BREAKTHROUGH 1" -> "Breakthrough 1"
+  Section: "VERSE 1" -> "VERSE 1:"
+  Section: "VERSE 2" -> "VERSE 2:"
+  Section: "CHORUS" -> "CHORUS:"
+  Section: "VERSE 1" -> "VERSE 1:"
+  Section: "CHORUS" -> "CHORUS:"
+  Section: "INTERLUDE" -> "INTERLUDE:"
+  Section: "VAMP" -> "VAMP:"
+  Section: "ENDING" -> "ENDING:"
+  Converted 12 chords-above -> inline brackets
+  Sentence-cased 16 ALL CAPS lines
+
+BREAKTHROUGH.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped artifact
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Title case: "BREAKTHROUGH" -> "Breakthrough"
+  Section: "INTRO" -> "INTRO:"
+  Sentence-cased 5 ALL CAPS lines
+
+Be Still My Soul.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Converted 6 chords-above -> inline brackets
+
+Be With You.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+
+Be Your Everything.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+
+Beautiful One [2].md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Sentence-cased 3 ALL CAPS lines
+
+Beautiful One.md (9 changes)
+  Stripped duplicate {key}
+  Harvested {ccli} -> frontmatter.ccli
+  Harvested {copyright} -> frontmatter.copyright
+  Stripped bare title
+  Stripped bare artist
+  Captured name -> source: "Jeremy Camp"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Sentence-cased 3 ALL CAPS lines
+
+Beautiful Savior.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Sentence-cased 1 ALL CAPS lines
+
+Beautiful [2].md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+
+Beautiful.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Copyright
+  Extracted year: 1999
+  Normalized artist: "MercyMe, 1999" -> "MercyMe"
+
+Because He Lives %2F%2F.md (5 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "OS-APO-SLOW"
+  Sentence-cased 1 ALL CAPS lines
+
+Because He Lives -- version 2.md (5 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "OS-Apo-Slow"
+  Sentence-cased 1 ALL CAPS lines
+
+Because He Lives [2].md (7 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Extracted -> profile: "OS-APO-SLOW"
+  Derived energy: "slow"
+  Sentence-cased 1 ALL CAPS lines
+
+Because He Lives-3 [2].md (3 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+
+Because He Lives-3.md (3 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+
+Because He Lives.md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Extracted -> profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+Because I'm Forgiven.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Sentence-cased 1 ALL CAPS lines
+
+Because Of Who You Are [2].md (11 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {tempo}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Stripped bare artist
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Slow-Reverential-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "MOD-GOSPEL-SLOW"
+  Extracted source: "version 2-sheet music"
+  Normalized artist: "Martha Munizzi (version 2-sheet music)" -> "Martha Munizzi"
+  Derived energy: "slow"
+  Sentence-cased 1 ALL CAPS lines
+
+Because Of Who You Are [3].md (9 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {tempo}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Stripped bare artist
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Slow-Reverential-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "MOD-APO-SLOW"
+  Derived energy: "slow"
+  Sentence-cased 1 ALL CAPS lines
+
+Because Of Who You Are | LYRICS.md (21 changes)
+  Stripped duplicate {title}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Stripped bare artist
+  Stripped bare Tempo
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Extracted -> profile: "Mod-Apo-Slow"
+  Derived energy: "slow"
+
+Because Of Who You Are-- long edit.md (8 changes)
+  Stripped duplicate {title}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Stripped bare artist
+  Stripped bare Tempo
+  Extracted -> profile: "Mod-Apo-Slow"
+  Derived energy: "slow"
+  Section: "Bridge:" -> "BRIDGE:"
+
+Because Of Who You Are--long edit II.md (8 changes)
+  Stripped duplicate {title}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Stripped bare artist
+  Stripped bare Tempo
+  Extracted -> profile: "Mod-Apo-Slow"
+  Derived energy: "slow"
+  Section: "Bridge:" -> "BRIDGE:"
+
+Because Of Who You Are--short edit.md (8 changes)
+  Stripped duplicate {title}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Stripped bare artist
+  Stripped bare Tempo
+  Extracted -> profile: "Mod-Apo-Slow"
+  Derived energy: "slow"
+  Section: "Bridge:" -> "BRIDGE:"
+
+Because Of Who You Are-1 [2].md (3 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Section: "Bridge:" -> "BRIDGE:"
+
+Because Of Who You Are-1.md (3 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Section: "Bridge:" -> "BRIDGE:"
+
+Because Of Who You Are.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Slow-Reverential-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium-slow"
+  Sentence-cased 1 ALL CAPS lines
+
+Behold the Lamb of God.md (7 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Copyright
+  Extracted -> profile: "Lamb-of-God"
+  Section: "verse 2:" -> "VERSE 2:"
+  Section: "verse 3:" -> "VERSE 3:"
+
+Believe For It (Live) %2F Lyrics.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Captured name -> source: "Cece Winans"
+  Extracted source: "Solos and Choir"
+  Normalized artist: "(Solos and Choir)" -> ""
+  Sentence-cased 1 ALL CAPS lines
+
+Believe For It (Official).md (9 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Tempo
+  Stripped bare Time
+  Stripped bare Copyright
+  Stripped bare CCLI
+  Derived energy: "medium-slow"
+  Sentence-cased 4 ALL CAPS lines
+
+Benediction.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Converted 6 chords-above -> inline brackets
+
+Bethlehem Town.md (11 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Section: "Chorus:" -> "CHORUS:"
+
+Better Is One Day.md (9 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Bridge:" -> "BRIDGE:"
+
+Beyond Measure.md (17 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 1" -> "VERSE 1:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Verse 2" -> "VERSE 2:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Bridge" -> "BRIDGE:"
+  Section: "Chorus" -> "CHORUS:"
+
+Beyond The Open Door [2].md (14 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {copyright} -> frontmatter.copyright
+  Harvested {ccli} -> frontmatter.ccli
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Extracted -> profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Extracted -> profile: "MOD-APO-MED"
+  Derived energy: "slow"
+  Converted 8 chords-above -> inline brackets
+  Sentence-cased 1 ALL CAPS lines
+
+Beyond The Open Door.md (9 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {copyright} -> frontmatter.copyright
+  Harvested {ccli} -> frontmatter.ccli
+  Extracted -> profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Extracted -> profile: "MOD-APO-MED"
+  Derived energy: "slow"
+  Sentence-cased 1 ALL CAPS lines
+
+Bigger Sins Than That.md (3 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Section: "Chorus:" -> "CHORUS:"
+
+Bind Us Together-EASY.md (3 changes)
+  Stripped bare title
+  Stripped bare artist
+  Derived energy: "medium-slow"
+
+Bind Us Together.md (4 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Extracted -> profile: "CCM-Choir-Choruses-Congregational-Jesus-Movement-Maranatha-Medium-Praise-Solo-Songs-Worship"
+  Derived energy: "medium"
+
+Blackbird.md (13 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Copyright
+  Captured name -> source: "Drop D Tuning"
+  Captured name -> source: "Ok...now the song..."
+  Section: "Verse 1" -> "VERSE 1:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Verse 2" -> "VERSE 2:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Chorus" -> "CHORUS:"
+  Converted 28 chords-above -> inline brackets
+  Sentence-cased 1 ALL CAPS lines
+
+Bless His Holy Name (Bless The Lord Oh My Soul).md (6 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "OS-APO-MED"
+  Sentence-cased 7 ALL CAPS lines
+
+Bless His Holy Name.md (14 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {copyright} -> frontmatter.copyright
+  Harvested {ccli} -> frontmatter.ccli
+  Extracted -> profile: "OS-APO-MED"
+  Extracted -> profile: "OS-GOSPEL-MED"
+  Extracted year: 1973
+  Normalized artist: "Andrae Crouch, 1973" -> "Andrae Crouch"
+  Derived energy: "medium-slow"
+  Sentence-cased 7 ALL CAPS lines
+
+Bless Me Indeed.md (10 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Captured name -> source: "This is a solo guitar version."
+  Section: "VERSE1:" -> "VERSE 1:"
+  Section: "VERSE2:" -> "VERSE 2:"
+  Converted 24 chords-above -> inline brackets
+  Sentence-cased 1 ALL CAPS lines
+
+Bless That Wonderful Name Of Jesus-1.md (2 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+
+Bless That Wonderful Name Of Jesus.md (11 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "OS-APO-FAST"
+  Extracted -> profile: "OS-GOSPEL-FAST"
+  Derived energy: "medium-fast"
+  Sentence-cased 1 ALL CAPS lines
+
+Bless That Wonderful Name.md (8 changes)
+  Stripped bare title
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Stripped bare Keywords
+  Extracted -> profile: "OS-APO-FAST"
+  Extracted -> profile: "OS-GOSPEL-FAST"
+  Converted 3 chords-above -> inline brackets
+
+Bless The Lord - 10,000 Reasons.md (10 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Verse 3:" -> "VERSE 3:"
+  Section: "Bridge:" -> "BRIDGE:"
+
+Bless The Lord, O My Soul [2].md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+
+Bless The Lord, O My Soul.md (2 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+
+Bless The Lord- 10,000 REASONS.md (7 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Verse 3:" -> "VERSE 3:"
+
+Bless The Lord.md (2 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+
+Bless Your Name.md (6 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Section: "Chorus:" -> "CHORUS:"
+
+Bless the Lord, Oh My Soul.md (9 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Tempo
+  Stripped bare Copyright
+  Stripped bare CCLI
+  Stripped bare Keywords
+  Extracted -> profile: "OS-CHRISTIAN-MED"
+  Derived energy: "medium-slow"
+
+Blessed Assurance [2].md (12 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Extracted -> profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+  Section: "Intro:" -> "INTRO:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Sentence-cased 1 ALL CAPS lines
+
+Blessed Assurance.md (9 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Stripped bare Keywords
+  Extracted -> profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Extracted -> profile: "OS-APO-SLOW"
+  Derived energy: "slow"
+
+Blessed Be The Name EASY.md (8 changes)
+  Stripped bare title
+  Stripped bare Key
+  Stripped bare Keywords
+  Stripped bare Time
+  Stripped bare Tempo
+  Extracted -> profile: "OS-APO-MED"
+  Derived energy: "medium-slow"
+  Sentence-cased 1 ALL CAPS lines
+
+Blessed Be Your Name (With Or Without You).md (11 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped artifact
+  Section: "Verse 1" -> "VERSE 1:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Verse 2" -> "VERSE 2:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Chorus" -> "CHORUS:"
+  Converted 34 chords-above -> inline brackets
+  Sentence-cased 2 ALL CAPS lines
+
+Blessed Be Your Name [2].md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Tempo
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Derived energy: "medium-fast"
+  Sentence-cased 1 ALL CAPS lines
+
+Blessed Be Your Name [3].md (5 changes)
+  Stripped bare title
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Converted 9 chords-above -> inline brackets
+
+Blessed Be Your Name [4].md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Derived energy: "medium-fast"
+  Section: "PRE-CHORUS" -> "PRE-CHORUS:"
+  Sentence-cased 5 ALL CAPS lines
+
+Blessed Be Your Name [5].md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Converted 4 chords-above -> inline brackets
+
+Blessed Be Your Name.md (1 changes)
+  Stripped bare title
+
+Blessed Be the Name of the Lord.md (4 changes)
+  Stripped bare title
+  Stripped bare Key
+  Stripped bare Copyright
+  Stripped artifact
+
+Blessed Jesus, Hold My Hand.md (7 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "OS-APO-FAST"
+  Extracted source: "1905-1977"
+  Normalized artist: "Albert E. Brumley (1905-1977)" -> "Albert E. Brumley"
+  Sentence-cased 2 ALL CAPS lines
+
+Blessed Redeemer.md (10 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus 1:" -> "CHORUS 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus 2:" -> "CHORUS 2:"
+  Section: "Verse 3:" -> "VERSE 3:"
+
+Blessed be the name - version 1.md (5 changes)
+  Stripped bare title
+  Stripped bare Key
+  Stripped bare Keywords
+  Extracted -> profile: "O-S-Apo-Med"
+  Title case: "Blessed be the name - version 1" -> "Blessed Be the Name - Version 1"
+
+Blessed.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Bridge:" -> "BRIDGE:"
+
+Blind [2].md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped artifact
+  Derived energy: "medium"
+  Section: "VERSE1:" -> "VERSE 1:"
+  Section: "VERSE2:" -> "VERSE 2:"
+  Converted 16 chords-above -> inline brackets
+  Sentence-cased 2 ALL CAPS lines
+
+Blind.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Converted 15 chords-above -> inline brackets
+
+Blues Song.md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Converted 12 chords-above -> inline brackets
+  Sentence-cased 2 ALL CAPS lines
+
+Born Again [2].md (14 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Section: "Intro:" -> "INTRO:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus 1:" -> "CHORUS 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus 2:" -> "CHORUS 2:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Section: "Chorus 3:" -> "CHORUS 3:"
+
+Born Again.md (6 changes)
+  Stripped bare title
+  Stripped bare Key
+  Stripped bare Copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Converted 2 chords-above -> inline brackets
+
+Born In Bethlehem.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+
+Borrow Mine.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+
+Bound To Come Some Trouble.md (3 changes)
+  Stripped bare title
+  Stripped bare artist
+  Converted 14 chords-above -> inline brackets
+
+Boy Like Me Man Like You.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "CHORUS" -> "CHORUS:"
+  Section: "CHORUS" -> "CHORUS:"
+  Converted 10 chords-above -> inline brackets
+
+Boy On A String.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Section: "CHORUS" -> "CHORUS:"
+  Converted 20 chords-above -> inline brackets
+  Sentence-cased 1 ALL CAPS lines
+
+Break Every Chain [2].md (8 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "MOD-APO-SLOW"
+  Extracted -> profile: "MOD-GOSPEL-SLOW"
+  Derived energy: "high"
+  Sentence-cased 1 ALL CAPS lines
+
+Break Every Chain [3].md (8 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "MOD-GOSPEL-SLOW"
+  Extracted -> profile: "MOD-APO-SLOW"
+  Derived energy: "high"
+  Sentence-cased 1 ALL CAPS lines
+
+Break Every Chain [5].md (4 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Break Every Chain [6].md (4 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Break Every Chain.md (3 changes)
+  Stripped bare title
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Breakout ERV.md (1 changes)
+  Stripped bare title
+
+Breakout-Mark Crowder-Faith Over Fear.md (1 changes)
+  Stripped bare title
+
+Breath Of Heaven (Mary's Song).md (7 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Slow-Reverential-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium-slow"
+
+Breath of Heaven.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Copyright
+  Converted 16 chords-above -> inline brackets
+
+Breathe (This Is The Air).md (11 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Slow-Reverential-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium-slow"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus:" -> "CHORUS:"
+  Sentence-cased 1 ALL CAPS lines
+
+Breathe On Me [2].md (11 changes)
+  Stripped bare Title
+  Stripped bare Artist
+  Stripped bare Key
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Medium-Slow-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Section: "Intro:" -> "INTRO:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Bridge:" -> "BRIDGE:"
+
+Breathe On Me [3].md (10 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Stripped bare Keywords
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Medium-Slow-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "MOD-APO-MED"
+  Derived energy: "high"
+  Sentence-cased 4 ALL CAPS lines
+
+Breathe On Me | version 1.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Stripped bare Keywords
+  Extracted -> profile: "MOD-APO-MED"
+  Sentence-cased 4 ALL CAPS lines
+
+Breathe On Me | version 3.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Stripped bare Keywords
+  Extracted -> profile: "MOD-APO-MED"
+  Sentence-cased 1 ALL CAPS lines
+
+Breathe On Me | ☑️ version 2.md (9 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "MOD-APO-MED"
+  Derived energy: "medium-slow"
+  Sentence-cased 2 ALL CAPS lines
+
+Breathe On Me-1.md (3 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Stripped artifact
+
+Breathe On Me-ROMAN NUMERALS.md (3 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Stripped artifact
+
+Breathe On Me.md (3 changes)
+  Stripped bare title
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Medium-Slow-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Breathe | LYRICS.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Stripped artifact
+  Stripped artifact
+  Sentence-cased 1 ALL CAPS lines
+
+Breathe.md (7 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Stripped artifact
+  Converted 18 chords-above -> inline brackets
+
+Bridge:.md (1 changes)
+  Section: "Bridge:" -> "BRIDGE:"
+
+Bring The Rain.md (10 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 3:" -> "VERSE 3:"
+  Section: "Bridge:" -> "BRIDGE:"
+
+Broken Together.md (12 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Intro:" -> "INTRO:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 3:" -> "VERSE 3:"
+  Section: "Chorus:" -> "CHORUS:"
+  Converted 30 chords-above -> inline brackets
+
+Broken Vessel.md (11 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {copyright} -> frontmatter.copyright
+  Harvested {ccli} -> frontmatter.ccli
+  Captured name -> source: "Original Key Eb, F"
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Slow-Reverential-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "OS-APO-SLOW"
+  Extracted -> profile: "OS-GOSPEL-SLOW"
+  Derived energy: "medium-slow"
+
+Brother's Keeper.md (6 changes)
+  Stripped bare title
+  Stripped bare Key
+  Stripped bare Artist
+  Section: "Chorus:" -> "CHORUS:"
+  Converted 10 chords-above -> inline brackets
+  Sentence-cased 2 ALL CAPS lines
+
+By and By (When Morning Comes).md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Keywords
+  Extracted -> profile: "OS-APO-MED"
+  Extracted source: "169"
+  Normalized artist: "Charles Albert Tindley (1905) Sing Unto The Lord Songbook (169)" -> "Charles Albert Tindley (1905) Sing Unto The Lord Songbook"
+  Sentence-cased 1 ALL CAPS lines
+
+By and By (When The Morning Comes)-1.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Keywords
+  Extracted -> profile: "OS-APO-MED"
+  Extracted source: "1905"
+  Normalized artist: "Charles Albert Tindley (1905)" -> "Charles Albert Tindley"
+  Section: "Chorus:" -> "CHORUS:"
+
+beautifully broken.md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Title case: "beautifully broken" -> "Beautifully Broken"
+
+============================================================
+SUMMARY
+============================================================
+Files: 111  Changed: 111  Total changes: 779
+Output: /Users/daniellegrigsby/Downloads/B_normalized
+============================================================

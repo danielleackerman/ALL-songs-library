@@ -1,0 +1,28 @@
+---
+title: "I Love the Lord and I Wont Take it Back"
+artist: "Artist Name"
+key: C
+tempo: 
+time: 
+ccli: 
+copyright: 
+tags:
+  - "love"
+genre: []
+energy: 
+profile: []
+keywords: 
+source: 
+year: 
+medley: []
+id: "C11DA221-EFE0-4E7A-A4E6-822852A991FE"
+---
+
+VERSE 1:
+[C]Type your lines of the [F]song here
+Just [C]use line breaks to [G]make lines
+[Am]Placing the [G/B]chords [F]where you [Em]want them
+
+CHORUS:
+[C2]You can also [Csus4]repeat the chorus with [G]notes
+(Repeat 3x)

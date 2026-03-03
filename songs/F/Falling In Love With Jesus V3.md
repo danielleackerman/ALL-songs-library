@@ -1,0 +1,52 @@
+---
+title: "Falling In Love With Jesus V3"
+artist: "Jonathon Butler/ Kirk Whalum"
+key: A
+tempo: 75
+time: "4/4"
+ccli: "4476773"
+copyright: "2002 Doulos Publishing | Warner TamerLane Publishing Company ( Maranatha! Music [D#dmin. by Music Services])|"
+tags:
+  - "love"
+  - "jesus"
+  - "med-slow"
+  - "jazz"
+genre: []
+energy: medium-slow
+profile:
+  - "mod-apo-med"
+  - "mod-gospel-med"
+keywords: "mod apo med, mod gospel med, med slow, jazz"
+source: 
+year: 
+medley:
+  - "[[SET A FIRE]]"
+  - "[[NO PLACE I’D RATHER BE]]"
+id: "F56DA198-36BF-4E21-8120-042FF267A56F"
+---
+
+Medley: set a fire / no place I’d rather be
+
+INTRO:
+[A add9] [Gmaj7] [Dmaj7] [A/C#] [Bm7] [Bm7/E] [C#7b9/E#]
+[F#m7] [Em7] [A13] [A+] [D] [A/C#] [A] [Fmaj7]
+
+VERSE 1:
+[Amaj7]Falling in love with [Em7/A]Jes[A13]us
+[Dmaj7]Falling in [A/C#]love with [Em7/B]Jesus [Bm7][C#7b9/E#]
+[F#m7]Falling in [A/E]love with [Em7]Je[A13]sus  [A+]
+Is the [D]best [A/C#]thing [Bm7]I've ever [D/E]Ever [A]done  [F#maj7 #11]
+
+VERSE 2:
+[A]In your arms I [Em7]feel pro[A7]tected
+[Dmaj9]In your   [A/C#]arms never [Bm7]disconnected [C#7b9/E#]
+[F#m7]In your arms I [Bm7/E]feel pro[A13]tected [A]
+Theres [D]no [A/C#]place that I'd [Bm7]rather [D/E]Rather [A]be
+
+VERSE 3:
+[A]Giving Him my [Em7]life compl[A7]etely
+[Dmaj9]Knowing [A/C#]that He'll [Bm7]never [D/E]leave me[Fdim]
+[F#m7]Trusting that He'll [Em7]always [A7]keep me
+He's the [Dmaj9]best [A/C#]thing I've [Bm7]Ever [D/E]ever [A]Known [D/E]
+
+Mod apo med, mod gospel med, med slow, jazz

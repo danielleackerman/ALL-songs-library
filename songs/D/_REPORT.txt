@@ -1,0 +1,380 @@
+
+DO YOU KNOW HIM?.md (15 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Title case: "DO YOU KNOW HIM?" -> "Do You Know Him?"
+  Section: "Verse:" -> "VERSE:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Vamp 1:" -> "VAMP 1:"
+  Section: "Vamp 2:" -> "VAMP 2:"
+  Section: "Chorus:" -> "CHORUS:"
+
+DON'T LET HIS NAME GO DOWN.md (1 changes)
+  SKIPPED
+
+DON'T LET THE DEVIL RIDE (Julie Miller).md (10 changes)
+  Stripped bare title
+  Stripped bare Keywords
+  Stripped bare Key
+  Extracted -> profile: "OS-GOSPEL-SLOW"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 3:" -> "VERSE 3:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Verse 4:" -> "VERSE 4:"
+  Section: "Verse 5:" -> "VERSE 5:"
+  Section: "Verse 6:" -> "VERSE 6:"
+
+DON'T LET THE DEVIL RIDE (Neal Robertson).md (10 changes)
+  Stripped bare title
+  Stripped bare Keywords
+  Stripped bare Key
+  Extracted -> profile: "OS-GOSPEL-SLOW"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 3:" -> "VERSE 3:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Verse 4:" -> "VERSE 4:"
+  Section: "Verse 5:" -> "VERSE 5:"
+  Section: "Verse 6:" -> "VERSE 6:"
+
+DON'T LET THE DEVIL RIDE.md (13 changes)
+  Stripped bare title
+  Stripped bare Keywords
+  Stripped bare Key
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "OS-GOSPEL-SLOW"
+  Derived energy: "high"
+  Title case: "DON'T LET THE DEVIL RIDE" -> "Don't Let the Devil Ride"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 3:" -> "VERSE 3:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Verse 4:" -> "VERSE 4:"
+  Section: "Verse 5:" -> "VERSE 5:"
+  Section: "Verse 6:" -> "VERSE 6:"
+
+DRIFT AWAY, LORD.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Title case: "DRIFT AWAY, LORD" -> "Drift Away, Lord"
+  Sentence-cased 13 ALL CAPS lines
+
+Damascus Road.md (3 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+
+Dancin' On the Graves [2].md (11 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Tempo
+  Extracted -> profile: "OS-APO-FAST"
+  Extracted -> profile: "SOUTHERN-GOSPEL-FAST"
+  Derived energy: "high"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Verse 3:" -> "VERSE 3:"
+  Section: "Verse 4:" -> "VERSE 4:"
+  Sentence-cased 1 ALL CAPS lines
+
+Dancin' On the Graves.md (7 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Tempo
+  Extracted -> profile: "OS-APO-FAST"
+  Extracted -> profile: "SOUTHERN-GOSPEL-FAST"
+  Derived energy: "high"
+  Sentence-cased 1 ALL CAPS lines
+
+Dancing on the Grave.md (1 changes)
+  Stripped bare title
+
+David Did Dance.md (11 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Fast-Middle-Eastern-Praise-Solo-Songs-Traditional"
+  Derived energy: "medium-fast"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Section: "Chorus:" -> "CHORUS:"
+
+Daystar.md (6 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {copyright} -> frontmatter.copyright
+  Harvested {ccli} -> frontmatter.ccli
+  Extracted -> profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+Daystar[version 2].md (5 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {copyright} -> frontmatter.copyright
+  Harvested {ccli} -> frontmatter.ccli
+  Title case: "Daystar[version 2]" -> "Daystar[Version 2]"
+
+Dead Man (Carry Me).md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+
+Dedicate This Temple.md (4 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Extracted -> profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+Deep (Way Down) [2].md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Converted 7 chords-above -> inline brackets
+
+Deep (Way Down).md (10 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Stripped bare Keywords
+  Extracted -> profile: "MOD-APO-FAST"
+  Extracted -> profile: "CONTEMP-CHRISTIAN-FAST"
+  Extracted year: 2001
+  Normalized artist: "Selah, 2001" -> "Selah"
+
+Did You Come To Give The Lord The Praise ? [2].md (2 changes)
+  Stripped bare title
+  Stripped bare artist
+
+Did You Come To Give The Lord The Praise ? [3].md (2 changes)
+  Stripped bare title
+  Stripped bare artist
+
+Did You Come To Give The Lord The Praise ?.md (2 changes)
+  Stripped bare title
+  Stripped bare artist
+
+Did You Come To Give the Lord the Praise?.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Verse 3:" -> "VERSE 3:"
+
+Did You Mean It.md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Section: "Chorus" -> "CHORUS:"
+
+Didn't I Walk On The Water [2].md (4 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Didn't I Walk On The Water [3].md (5 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Didn't I Walk On The Water.md (5 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Disappear [2].md (9 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus:" -> "CHORUS:"
+
+Disappear.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Sentence-cased 2 ALL CAPS lines
+
+Dive.md (7 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse:" -> "VERSE:"
+  Section: "Chorus:" -> "CHORUS:"
+
+Do It Again.md (13 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Intro:" -> "INTRO:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Instrumental:" -> "INSTRUMENTAL:"
+  Section: "Tag:" -> "TAG:"
+  Section: "Ending:" -> "ENDING:"
+  Converted 39 chords-above -> inline brackets
+
+Do You Hear What I Hear?.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+
+Does Anybody Hear Her.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+
+Does He Still Feel The Nails.md (2 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+
+Don't Let Me Go.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "verse 1:" -> "VERSE 1:"
+  Section: "chorus:" -> "CHORUS:"
+  Section: "verse 2:" -> "VERSE 2:"
+
+Don't Let Me Stand Without A Star In My Crown.md (5 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "OS-APO-SLOW"
+
+Don't Let That Name Go Down.md (6 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "OS-APO-MED"
+  Extracted -> profile: "OS-GOSPEL-MED"
+  Section: "Chorus:" -> "CHORUS:"
+
+Don't Save It All For Christmas Day.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Copyright
+  Converted 16 chords-above -> inline brackets
+  Sentence-cased 3 ALL CAPS lines
+
+Don't You Know.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "verse 1:" -> "VERSE 1:"
+  Section: "chorus:" -> "CHORUS:"
+  Section: "verse 2:" -> "VERSE 2:"
+
+Dont Say Goodbye.md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Section: "Chorus" -> "CHORUS:"
+  Converted 15 chords-above -> inline brackets
+
+Draw Me Close To You - my edit.md (13 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Tempo
+  Stripped bare Time
+  Stripped bare Keywords
+  Stripped bare Copyright
+  Stripped bare CCLI
+  Extracted -> profile: "Black-Gospel-Opera"
+  Extracted -> profile: "Black-Gospel-Black-Gospel-Opera-Choir-Choruses-Congregational-Contemporary-Medium-Slow-Reverential-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "MOD-APO-Slow"
+  Extracted -> profile: "MOD-Gospel-Slow"
+  Derived energy: "slow"
+  Sentence-cased 1 ALL CAPS lines
+
+Draw Me Nearer Nearer Blessed Lord.md (7 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Keywords
+  Extracted -> profile: "OS-APO-SLOW"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+
+Draw Me Nearer [2].md (7 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Draw Me Nearer.md (7 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Drops in the Ocean.md (14 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Intro:" -> "INTRO:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus 1:" -> "CHORUS 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus 2:" -> "CHORUS 2:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Section: "Chorus 3:" -> "CHORUS 3:"
+  Converted 27 chords-above -> inline brackets
+  Sentence-cased 1 ALL CAPS lines
+
+============================================================
+SUMMARY
+============================================================
+Files: 43  Changed: 43  Total changes: 287
+Output: /Users/daniellegrigsby/Downloads/D_normalized
+============================================================

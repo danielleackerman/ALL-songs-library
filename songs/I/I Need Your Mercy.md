@@ -1,0 +1,42 @@
+---
+title: "I Need Your Mercy"
+artist: "Clint Brown"
+key: C
+tempo: 
+time: 
+ccli: 
+copyright: 
+tags:
+  - "black-gospel"
+  - "choir"
+  - "choruses"
+  - "congregational"
+  - "contemporary"
+  - "medium-slow"
+  - "reverential"
+  - "solo-songs"
+  - "southern-gospel"
+  - "traditional"
+  - "worship"
+  - "mercy"
+genre: []
+energy: medium-slow
+profile:
+  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
+  - "mod-apo-slow"
+keywords: "mod apo slow"
+source: 
+year: 
+medley: []
+id: "977C02DA-6AF7-43E8-93DF-983F1F1A5FB9"
+---
+
+[Lead in notes:]  [Eb][F][G][Eb][Bb][Ab][G][C7]
+
+[F/G]I need Your [C2]mercy, I need Your [Am7]grace
+I need Your [F2]hand leading the [G2]way
+I can't make it with[C2]out You not for one [A7]day
+I need Your [Dm7]mercy, [F/G] I need Your [C]grace.
+
+Surely goodness and mercy will follow me all my life
+I know I can make it with you by my side

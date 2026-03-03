@@ -1,0 +1,42 @@
+---
+title: "Nothing Hard For The Lord"
+artist: ""
+key: Eb
+tempo: 
+time: 
+ccli: 
+copyright: 
+tags: []
+genre: []
+energy: 
+profile: []
+keywords: 
+source: 
+year: 
+medley: []
+id: "C0A3FB2C-C79F-4C1A-9987-A2A94E09DC92"
+---
+
+(Chor:)
+
+[Ab/Bb]There's [Eb]nothing [Eb/G]hard for the [Ab]Lord
+
+[Eb]Nothing [Cm]hard [F]for the [Bb]Lord
+
+[Eb]He can [Eb/G]do,  just what you [Db/Ab]need Him to. [Fm].  [Eb/G].  [Fm/Ab]
+
+There's [Eb/Bb]nothing hard [Bb7]for the [Eb]Lord.
+
+(Bridge:)
+
+[Eb]If [Bb/D]you [Eb/C]will [Bb]trust [Eb]Him,   [Bb]trust Him and o---[Eb]bey
+
+[Bb/D]Cast [Ee/C]your [Bb]care[Bdim]       on [Cm]Him,
+
+I [F9]know He'll make a [Bb]way
+
+There [Eb/G]is no need He [Ab2]can't supply
+
+So [Eb/G]do not doubt,  He'll [Ab2]be on [Adim]time
+
+There's [Eb/G]nothing [Bb7]hard for the [Eb]Lord.

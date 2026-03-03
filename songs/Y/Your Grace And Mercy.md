@@ -1,0 +1,69 @@
+---
+title: "Your Grace And Mercy"
+artist: "Frank D. Williams"
+key: Eb
+tempo: 
+time: 
+ccli: 
+copyright: "1993, Malaco, Inc."
+tags:
+  - "choir"
+  - "choruses"
+  - "congregational"
+  - "contemporary"
+  - "slow"
+  - "solo-songs"
+  - "traditional"
+  - "worship"
+  - "mercy"
+  - "grace"
+genre: []
+energy: slow
+profile:
+  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
+  - "mod-apo-slow"
+  - "mod-gospel-slow"
+keywords: "mod. apo. slow, mod. gospel slow"
+source: 
+year: 
+medley:
+  - "[[AMAZING GRACE]]"
+id: "589E8256-B348-4FC3-8A83-D30D043DDDBF"
+---
+
+Medley: amazing grace
+
+CHORUS:
+[Eb/Bb]Your [Eb/C]grace [Fm/D]and  [Eb]mer[Eb7]cy, [Db/F] [Eb/G][Ab]Brought me [Eb/G]through [Fm][Eb]
+[Ab/Bb]I’m [Eb/Bb]liv[Eb/C]ing  [Fm/D]this [Eb]mo[Cm9]ment, [F9]Because of [Bb]You [Cm/Bb]. [Bb]
+[Eb/Bb]I [Eb/C]want [Fm/D]to [Eb]thank [Eb7]You, [Db/F] [Eb/G][Ab]And praise You [Eb/G]too [Fm] [Eb] [Eb/G]
+[Ab]Your [Fm7]grace and [Eb/Bb]mer[Cm9]cy, [Bb]Brou[Ab/C]ght [Bb/D]me [Eb]through. [Ab/Bb]
+
+VERSE 1:
+Thank you for saving a sinner like me, To tell the world salvation is free
+There were times when I just didn't do right, But you watched over me all day and night
+
+CHORUS:
+[Eb/Bb]Your [Eb/C]grace [Fm/D]and  [Eb]mer[Eb7]cy, [Db/F] [Eb/G][Ab]Brought me [Eb/G]through [Fm][Eb]
+[Ab/Bb]I’m [Eb/Bb]liv[Eb/C]ing  [Fm/D]this [Eb]mo[Cm9]ment, [F9]Because of [Bb]You [Cm/Bb]. [Bb]
+[Eb/Bb]I [Eb/C]want [Fm/D]to [Eb]thank [Eb7]You, [Db/F] [Eb/G][Ab]And praise You [Eb/G]too [Fm] [Eb] [Eb/G]
+[Ab]Your [Fm7]grace and [Eb/Bb]mer[Cm9]cy, [Bb]Brou[Ab/C]ght [Bb/D]me [Eb]through. [Ab/Bb]
+
+VERSE 2:
+Justice demanded that I should die, But Grace and mercy said,
+Oh no, oh no, oh no , We've already paid the price."
+You see, I once was blind, But thank God I can see
+It was because grace and mercy came along, came along  and rescued, rescued me
+
+CHORUS:
+[Eb/Bb]Your [Eb/C]grace [Fm/D]and  [Eb]mer[Eb7]cy, [Db/F] [Eb/G][Ab]Brought me [Eb/G]through [Fm][Eb]
+[Ab/Bb]I’m [Eb/Bb]liv[Eb/C]ing  [Fm/D]this [Eb]mo[Cm9]ment, [F9]Because of [Bb]You [Cm/Bb]. [Bb]
+[Eb/Bb]I [Eb/C]want [Fm/D]to [Eb]thank [Eb7]You, [Db/F] [Eb/G][Ab]And praise You [Eb/G]too [Fm] [Eb] [Eb/G]
+[Ab]Your [Fm7]grace and [Eb/Bb]mer[Cm9]cy, [Bb]Brou[Ab/C]ght [Bb/D]me [Eb]through. [Ab/Bb]
+
+
+Your Grace and Mercy lyrics © Malaco Music Co., Peermusic Iii Ltd, Peermusic III Ltd. Obo Malaco Music
+
+
+
+

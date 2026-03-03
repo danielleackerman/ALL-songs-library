@@ -1,0 +1,57 @@
+---
+title: "My Thanks to Him"
+artist: "Rev. A. L. Clanton"
+key: Db
+tempo: 
+time: 
+ccli: 
+copyright: 
+tags:
+  - "black-gospel"
+  - "choir"
+  - "choruses"
+  - "congregational"
+  - "contemporary"
+  - "medium-slow"
+  - "reverential"
+  - "slow"
+  - "solo-songs"
+  - "southern-gospel"
+  - "traditional"
+  - "worship"
+  - "love"
+  - "thanks"
+genre: []
+energy: medium-slow
+profile:
+  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-slow-solo-songs-southern-gospel-traditional-worship"
+keywords: 
+source: 
+year: 
+medley: []
+id: "591E8AFE-9250-4774-8F95-25709CE6EAAE"
+---
+
+(Verse 1:)
+I love to [Db]tell [Db7]how [Gb]Jesus [Gb/Ab]saved my [Db]soul    [Bbm]
+When [Db]I was [Ebm][or][Ab]lost and [Ebm/Ab]facing [Ab7]dark des[Db]pair.
+[Gb/Ab]But motrtal [Db]tongue [Db7]could [Gb]never tell the [Db]whole.   [Bbm]
+Nor thank Him [Ebm]for such [Ebm/Ab]wonderdrous [Ab]love [Ab7]and [Db]care.
+
+(Chorus)
+[Db7]O He is [Gb]more than [Ebm]all the [Ab]world to [Db]me.    [Bbm]
+The dearest [Ab]friend that [Ebm/Ab]I have ever [DbM7]]known.  [Db7]
+And it will [Gb]take the [Ebm]whole e[Ab]terni[Db]ty
+To thank Him [Ebm]for the [Ebm/Ab]love that [Ab]He [Ab7]has [Db]shown.
+
+(Verse 2)
+When I am sad He brings me hope and cheer
+He gives me grace when e'er the way gets rough
+How could I thank Him for such blessings here?
+My life on earth will not be long enough.
+
+(Verse 3)
+Tho' I should live a thousand years below,
+and praise the Lord from dawn till set of sun;
+Still that would not be time enough to show
+My thanks to Him for all that He has done.

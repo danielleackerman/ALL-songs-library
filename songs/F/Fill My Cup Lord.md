@@ -1,0 +1,43 @@
+---
+title: "Fill My Cup Lord"
+artist: ""
+key: F
+tempo: 
+time: 
+ccli: 
+copyright: 
+tags:
+  - "altar-songs"
+genre: []
+energy: 
+profile: []
+keywords: 
+source: 
+year: 
+medley: []
+id: "2B642639-D468-4E09-B5A5-D29B7E295D94"
+---
+
+VERSE 1:
+[F]Like the woman at the well I was [C]seeking
+For [C7]things that could not satis-[F]fy;
+And then I [F7]heard my Savior [Bb]speaking
+"Draw from my [C7]well that never shall run [F]dry."
+
+CHORUS:
+[F]Fill my cup, Lord-I lift it [C7]up, Lord!
+Come and quench this thirsting of my [F]soul;
+Bread of heaven, [F7]feed me till I [Gm7]want no more-
+Fill my [C7]cup, fill it up and make me [F]whole!
+
+VERSE 2:
+There are millions in this world who are craving
+The pleasures earthly things afford;
+But none can match the wondrous treasure
+That I find in Jesus Christ, my Lord.
+
+VERSE 3:
+So, my brother, if the things this world gave you
+Leave hungers that won't pass away,
+My blessed Lord will come and save you,
+If you kneel to Him and humbly pray:

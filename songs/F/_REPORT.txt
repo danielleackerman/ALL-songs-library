@@ -1,0 +1,622 @@
+
+FEAR NOT FOR I AM WITH YOU.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Fast-Middle-Eastern-Praise-Solo-Songs-Traditional"
+  Derived energy: "medium-fast"
+  Title case: "FEAR NOT FOR I AM WITH YOU" -> "Fear Not for I Am With You"
+  Sentence-cased 13 ALL CAPS lines
+
+FORMATTING.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Title case: "FORMATTING" -> "Formatting"
+  Section: "Bridge:" -> "BRIDGE:"
+
+FROM GLORY TO GLORY-EASY.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Derived energy: "medium-fast"
+  Title case: "FROM GLORY TO GLORY-EASY" -> "From Glory to Glory-Easy"
+  Sentence-cased 9 ALL CAPS lines
+
+Fade To Grey.md (2 changes)
+  Stripped bare title
+  Stripped bare artist
+
+Faith Enough.md (11 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Copyright
+  Section: "Verse:" -> "VERSE:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse:" -> "VERSE:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Converted 1 chords-above -> inline brackets
+
+Fall Like Rain.md (9 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium"
+  Section: "CHORUS" -> "CHORUS:"
+  Section: "VERSE 1" -> "VERSE 1:"
+  Section: "VERSE 2" -> "VERSE 2:"
+
+Falling In Love With Jesus LYRICS.md (16 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {ccli} -> frontmatter.ccli
+  Harvested {copyright} -> frontmatter.copyright
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Extracted -> profile: "MOD-APO-MED"
+  Extracted -> profile: "MOD-GOSPEL-MED"
+  Derived energy: "medium-slow"
+  Sentence-cased 1 ALL CAPS lines
+
+Falling In Love With Jesus V1.md (13 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {ccli} -> frontmatter.ccli
+  Harvested {copyright} -> frontmatter.copyright
+  Extracted -> profile: "MOD-APO-MED"
+  Extracted -> profile: "MOD-GOSPEL-MED"
+  Derived energy: "medium-slow"
+  Sentence-cased 2 ALL CAPS lines
+
+Falling In Love With Jesus V2.md (12 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {ccli} -> frontmatter.ccli
+  Harvested {copyright} -> frontmatter.copyright
+  Extracted -> profile: "MOD-APO-MED"
+  Extracted -> profile: "MOD-GOSPEL-MED"
+  Derived energy: "medium-slow"
+  Sentence-cased 2 ALL CAPS lines
+
+Falling In Love With Jesus V3.md (14 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {ccli} -> frontmatter.ccli
+  Harvested {copyright} -> frontmatter.copyright
+  Extracted -> profile: "MOD-APO-MED"
+  Extracted -> profile: "MOD-GOSPEL-MED"
+  Derived energy: "medium-slow"
+  Sentence-cased 2 ALL CAPS lines
+
+Falling In Love With Jesus V4.md (13 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {ccli} -> frontmatter.ccli
+  Harvested {copyright} -> frontmatter.copyright
+  Extracted -> profile: "MOD-APO-MED"
+  Extracted -> profile: "MOD-GOSPEL-MED"
+  Derived energy: "medium-slow"
+  Sentence-cased 1 ALL CAPS lines
+
+Falling In Love With Jesus [2].md (16 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {ccli} -> frontmatter.ccli
+  Harvested {copyright} -> frontmatter.copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "MOD-APO-MED"
+  Extracted -> profile: "MOD-GOSPEL-MED"
+  Derived energy: "medium-slow"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Verse 3:" -> "VERSE 3:"
+  Sentence-cased 1 ALL CAPS lines
+
+Falling In Love With Jesus [3].md (8 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Verse 3:" -> "VERSE 3:"
+
+Falling In Love With Jesus [4].md (13 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {ccli} -> frontmatter.ccli
+  Harvested {copyright} -> frontmatter.copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "MOD-APO-MED"
+  Extracted -> profile: "MOD-GOSPEL-MED"
+  Derived energy: "medium-slow"
+  Sentence-cased 2 ALL CAPS lines
+
+Falling In Love With Jesus [5].md (8 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Verse 3:" -> "VERSE 3:"
+
+Falling In Love With Jesus.md (3 changes)
+  Stripped bare title
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Famous for (I believe).md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped artifact
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium"
+  Section: "Intro" -> "INTRO:"
+  Sentence-cased 1 ALL CAPS lines
+
+Farther Along.md (10 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Copyright
+  Stripped bare Keywords
+  Extracted -> profile: "OS-APO-SLOW"
+  Section: "Intro:" -> "INTRO:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+
+Father, Spirit, Jesus.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Sentence-cased 10 ALL CAPS lines
+
+Feel The Joy (I Feel The Joy).md (7 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {copyright} -> frontmatter.copyright
+  Harvested {ccli} -> frontmatter.ccli
+  Extracted -> profile: "MOD-APO-MED"
+  Sentence-cased 3 ALL CAPS lines
+
+Feel the Nails.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+
+Feels Like.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Converted 2 chords-above -> inline brackets
+
+Fields Of Grace.md (9 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Chorus:" -> "CHORUS:"
+
+Fill Me Up [2].md (16 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Reverential-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Section: "Intro:" -> "INTRO:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Ending:" -> "ENDING:"
+  Converted 35 chords-above -> inline brackets
+
+Fill Me Up [3].md (14 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Reverential-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Section: "Verse 1" -> "VERSE 1:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Verse 2" -> "VERSE 2:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Section: "Chorus" -> "CHORUS:"
+  Converted 17 chords-above -> inline brackets
+
+Fill Me Up.md (14 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Stripped bare Keywords
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Reverential-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "CONTEMP-CHRISTIAN-SLOW"
+  Derived energy: "high"
+  Section: "Verse:" -> "VERSE:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Converted 7 chords-above -> inline brackets
+  Sentence-cased 1 ALL CAPS lines
+
+Fill My Cup Lord.md (3 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Section: "Verse 1:" -> "VERSE 1:"
+
+Finally Home.md (12 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Intro:" -> "INTRO:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Section: "Chorus:" -> "CHORUS:"
+
+First Family.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "CHORUS" -> "CHORUS:"
+  Section: "CHORUS" -> "CHORUS:"
+  Converted 15 chords-above -> inline brackets
+
+First.md (10 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Converted 19 chords-above -> inline brackets
+
+Five Candles (You Were There).md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Section: "Chorus" -> "CHORUS:"
+
+Flood (Advanced).md (3 changes)
+  Stripped bare title
+  Stripped bare artist
+  Converted 17 chords-above -> inline brackets
+
+Flood [2].md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+
+Flood [3].md (10 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Stripped artifact
+  Section: "Pre-Chorus" -> "PRE-CHORUS:"
+  Section: "Chorus:" -> "CHORUS:"
+  Converted 4 chords-above -> inline brackets
+  Sentence-cased 1 ALL CAPS lines
+
+Flood.md (7 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Converted 24 chords-above -> inline brackets
+  Sentence-cased 1 ALL CAPS lines
+
+Fly.md (10 changes)
+  Stripped bare title
+  Stripped bare artist
+  Section: "Intro" -> "INTRO:"
+  Section: "Verse 1" -> "VERSE 1:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Verse 2" -> "VERSE 2:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Bridge" -> "BRIDGE:"
+  Section: "Outro" -> "OUTRO:"
+  Converted 8 chords-above -> inline brackets
+
+For What Earthly Reason.md (6 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Harvested {time} -> frontmatter.time
+  Extracted -> profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+For What Earthly Reason[version 2].md (4 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Harvested {time} -> frontmatter.time
+
+For Your Glory [2].md (4 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Key
+  Sentence-cased 3 ALL CAPS lines
+
+For Your Glory [3].md (4 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Key
+  Sentence-cased 3 ALL CAPS lines
+
+For Your Glory [4].md (3 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Sentence-cased 3 ALL CAPS lines
+
+For Your Glory [5].md (3 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Sentence-cased 3 ALL CAPS lines
+
+For Your Glory.md (3 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Sentence-cased 3 ALL CAPS lines
+
+Forever [2].md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Copyright
+
+Forever [3].md (4 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Key
+  Section: "Chorus:" -> "CHORUS:"
+
+Forever [4].md (12 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Intro:" -> "INTRO:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Bridge :" -> "BRIDGE:"
+  Sentence-cased 1 ALL CAPS lines
+
+Forever [5].md (4 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Key
+  Section: "Chorus:" -> "CHORUS:"
+
+Forever [6].md (4 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Key
+  Section: "Chorus:" -> "CHORUS:"
+
+Forever.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Chorus" -> "CHORUS:"
+
+Forgive And Forget.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+
+Forty Days (40 Days).md (3 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+
+Forty Days 40 Days.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Keywords
+  Extracted -> profile: "Mod-Contemp-Fast"
+
+Four Seven [2].md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped artifact
+  Stripped artifact
+  Converted 4 chords-above -> inline brackets
+
+Four Seven.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped artifact
+  Stripped artifact
+  Converted 4 chords-above -> inline brackets
+
+Frail.md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "chorus" -> "CHORUS:"
+
+Free To Dance.md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Copyright
+
+Free To Worship [2].md (3 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Key
+
+Free To Worship [3].md (3 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Key
+
+Free To Worship [4].md (3 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Key
+
+Free To Worship [5].md (3 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Key
+
+Free To Worship.md (3 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Key
+
+Freedom.md (9 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Key
+  Stripped bare Copyright
+  Stripped bare CCLI
+  Stripped bare Keywords
+  Extracted -> profile: "MOD-APO-FAST"
+  Extracted -> profile: "MOD-GOSPEL-FAST"
+  Section: "Chorus" -> "CHORUS:"
+
+Friend For Life.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Chorus" -> "CHORUS:"
+  Converted 3 chords-above -> inline brackets
+
+Friend Like You.md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Copyright
+
+From Heaven's Point Of View.md (4 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Extracted -> profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+From Heaven's Point Of View[version 2].md (3 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Stripped artifact
+
+From Heaven's Point Of View[version 3].md (3 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Stripped artifact
+
+From The Sanctuary.md (7 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium"
+
+faith faith faith.md (4 changes)
+  Stripped bare title
+  Stripped bare Key
+  Stripped bare title
+  Title case: "faith faith faith" -> "Faith Faith Faith"
+
+father abraham.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Title case: "father abraham" -> "Father Abraham"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+
+============================================================
+SUMMARY
+============================================================
+Files: 70  Changed: 70  Total changes: 475
+Output: /Users/daniellegrigsby/Downloads/F_normalized
+============================================================

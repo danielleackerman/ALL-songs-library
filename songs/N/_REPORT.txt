@@ -1,0 +1,338 @@
+
+Near The Cross [2].md (11 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {copyright} -> frontmatter.copyright
+  Harvested {ccli} -> frontmatter.ccli
+  Extracted -> profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Extracted -> profile: "OS-APO-SLOW"
+  Derived energy: "medium"
+  Converted 8 chords-above -> inline brackets
+
+Near The Cross.md (9 changes)
+  Stripped bare title
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Stripped bare Keywords
+  Extracted -> profile: "Altar-Songs-Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Extracted -> profile: "OS-APO-SLOW"
+  Derived energy: "slow"
+  Section: "Chorus" -> "CHORUS:"
+
+Nearing Home.md (11 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Time
+  Stripped bare Keywords
+  Stripped bare Copyright
+  Stripped bare CCLI
+  Extracted -> profile: "OS-APO-SLOW"
+  Extracted source: "9"
+  Normalized artist: "Joan Ewing, Sing Unto The Lord Songbook (9)" -> "Joan Ewing, Sing Unto The Lord Songbook"
+  Sentence-cased 1 ALL CAPS lines
+
+Need You Now (How Many Times).md (11 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Intro:" -> "INTRO:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Converted 27 chords-above -> inline brackets
+
+Needful Hands.md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Section: "Chorus:" -> "CHORUS:"
+  Converted 7 chords-above -> inline brackets
+
+Never Bow Down.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "CHORUS" -> "CHORUS:"
+  Converted 7 chords-above -> inline brackets
+  Sentence-cased 1 ALL CAPS lines
+
+Never Goin' Back.md (13 changes)
+  Stripped bare title
+  Stripped bare artist
+  Section: "INTRO" -> "INTRO:"
+  Section: "VERSE 1" -> "VERSE 1:"
+  Section: "CHORUS" -> "CHORUS:"
+  Section: "VERSE 2" -> "VERSE 2:"
+  Section: "CHORUS" -> "CHORUS:"
+  Section: "BRIDGE" -> "BRIDGE:"
+  Section: "INSTRUMENTAL" -> "INSTRUMENTAL:"
+  Section: "CHORUS" -> "CHORUS:"
+  Section: "CHORUS" -> "CHORUS:"
+  Converted 13 chords-above -> inline brackets
+  Sentence-cased 3 ALL CAPS lines
+
+Never Lost.md (10 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Key
+  Stripped bare Tempo
+  Stripped bare Time
+  Stripped bare Copyright
+  Stripped bare CCLI
+  Stripped bare Keywords
+  Derived energy: "medium-fast"
+  Sentence-cased 3 ALL CAPS lines
+
+Never Saw You Coming.md (14 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Copyright
+  Section: "Intro" -> "INTRO:"
+  Section: "Verse 1" -> "VERSE 1:"
+  Section: "Verse 2" -> "VERSE 2:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Verse 3" -> "VERSE 3:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Bridge" -> "BRIDGE:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Tag" -> "TAG:"
+  Converted 8 chords-above -> inline brackets
+
+Never, No Never.md (2 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+
+New Name Written Down In Glory.md (9 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Key
+  Captured name -> source: "MEDLEY // Jesus Is Mine"
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted source: "as published by People & Songs"
+  Normalized artist: "Charity Gayle | David Gentiles | Denita Gibbs | The Emerging Sound (as published by People & Songs)" -> "Charity Gayle | David Gentiles | Denita Gibbs | The Emerging Sound"
+  Derived energy: "medium"
+  Sentence-cased 3 ALL CAPS lines
+
+No Greater Love.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Copyright
+  Converted 20 chords-above -> inline brackets
+  Sentence-cased 1 ALL CAPS lines
+
+No Harm [2].md (4 changes)
+  Stripped bare title
+  Stripped bare Key
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-High-Energy-Medium-Fast-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+No Harm.md (6 changes)
+  Stripped bare title
+  Stripped bare Key
+  Stripped bare Keywords
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-High-Energy-Medium-Fast-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "OS-APO-MED"
+  Derived energy: "high"
+
+No One Can Touch You Like Jesus Can.md (9 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Harvested {copyright} -> frontmatter.copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted year: 1991
+  Normalized artist: "Randy Phillips 1991" -> "Randy Phillips"
+  Derived energy: "medium"
+  Sentence-cased 1 ALL CAPS lines
+
+No One Higher [2].md (7 changes)
+  Stripped bare title
+  Stripped bare artist
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Medium-Slow-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Section: "CHORUS" -> "CHORUS:"
+  Section: "CHORUS" -> "CHORUS:"
+  Sentence-cased 1 ALL CAPS lines
+
+No One Higher.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Medium-Slow-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Sentence-cased 1 ALL CAPS lines
+
+No One Loves Me Like You.md (3 changes)
+  Stripped bare title
+  Stripped bare artist
+  Converted 12 chords-above -> inline brackets
+
+No Tears In Heaven.md (9 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Tempo
+  Stripped bare Keywords
+  Stripped bare Copyright
+  Stripped bare CCLI
+  Extracted -> profile: "OS-APO-SLOW"
+  Derived energy: "slow"
+
+No Word But Holy.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Extracted -> profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+  Sentence-cased 2 ALL CAPS lines
+
+Not Ashamed.md (10 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse 1" -> "VERSE 1:"
+  Section: "Pre-Chorus" -> "PRE-CHORUS:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Verse 2" -> "VERSE 2:"
+  Converted 15 chords-above -> inline brackets
+
+Nothing At All.md (9 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Section: "Intro" -> "INTRO:"
+  Section: "Chorus" -> "CHORUS:"
+  Converted 6 chords-above -> inline brackets
+  Sentence-cased 1 ALL CAPS lines
+
+Nothing But Praise For You, Lord [2].md (2 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+
+Nothing But Praise For You, Lord.md (7 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "OS-APO-MED"
+  Extracted source: "written by Joy Anderson"
+  Normalized artist: "Timothy Spell (written by Joy Anderson)" -> "Timothy Spell"
+
+Nothing But Praise For You.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium"
+
+Nothing But The Blood Of Jesus.md (10 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Stripped artifact
+  Stripped artifact
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium"
+  Converted 20 chords-above -> inline brackets
+
+Nothing But The Blood [2].md (9 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Converted 1 chords-above -> inline brackets
+
+Nothing But The Blood [3].md (2 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+
+Nothing But The Blood.md (3 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Stripped bare artist
+
+Nothing Compares.md (11 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Section: "Chorus" -> "CHORUS:"
+  Converted 11 chords-above -> inline brackets
+
+Nothing Else I Need.md (9 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Section: "Chorus" -> "CHORUS:"
+  Converted 18 chords-above -> inline brackets
+
+Nothing Else.md (12 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Intro :" -> "INTRO:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Section: "Ending:" -> "ENDING:"
+
+Nothing Hard For The Lord.md (2 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+
+Nothing Is Beyond You.md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Section: "CHORUS" -> "CHORUS:"
+  Converted 13 chords-above -> inline brackets
+
+Nothing Without You.md (7 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Stripped artifact
+  Converted 23 chords-above -> inline brackets
+
+============================================================
+SUMMARY
+============================================================
+Files: 35  Changed: 35  Total changes: 261
+Output: /Users/daniellegrigsby/Downloads/N_normalized
+============================================================

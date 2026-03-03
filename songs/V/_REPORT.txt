@@ -1,0 +1,158 @@
+
+VERSE 2:.md (1 changes)
+  Title case: "VERSE 2:" -> "Verse 2:"
+
+Verse 1.md (13 changes)
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Stripped artifact
+  Section: "Verse 1" -> "VERSE 1:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Verse 2" -> "VERSE 2:"
+  Section: "Bridge" -> "BRIDGE:"
+  Section: "Chorus 2" -> "CHORUS 2:"
+  Sentence-cased 1 ALL CAPS lines
+
+Victory All Over This House [2].md (2 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+
+Victory All Over This House.md (8 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {time} -> frontmatter.time
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "MOD-APO-MED"
+  Derived energy: "medium-slow"
+  Sentence-cased 1 ALL CAPS lines
+
+Victory Comes.md (3 changes)
+  Stripped bare title
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Victory In Jesus [2].md (4 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Fast-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Victory In Jesus.md (7 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Fast-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "OS-APO-MED"
+  Derived energy: "high"
+  Sentence-cased 2 ALL CAPS lines
+
+Victory In The House [2].md (5 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Victory In The House [3].md (4 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Victory In The House.md (8 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Chorus 1:" -> "CHORUS 1:"
+  Section: "Chorus 2:" -> "CHORUS 2:"
+  Section: "Chorus 3:" -> "CHORUS 3:"
+
+Victory Is Mine.md (8 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "OS-APO-MED"
+  Extracted -> profile: "OS-GOSPEL-MED"
+  Derived energy: "high"
+  Sentence-cased 10 ALL CAPS lines
+
+Victory Medley.md (7 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Captured name -> source: "The weapon may be formed, but it won't prosper"
+  Captured name -> source: "When the darkness falls, it won't prevail"
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Victory in Jesus [3].md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Fast-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Verse 3:" -> "VERSE 3:"
+
+Victory in the House [4].md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Chorus 1:" -> "CHORUS 1:"
+  Section: "Chorus 2:" -> "CHORUS 2:"
+  Section: "Chorus 3:" -> "CHORUS 3:"
+
+Victory in the House [5].md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Chorus 1:" -> "CHORUS 1:"
+  Section: "Chorus 2:" -> "CHORUS 2:"
+  Section: "Chorus 3:" -> "CHORUS 3:"
+
+Victory, Victory Shall Be Mine.md (9 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {copyright} -> frontmatter.copyright
+  Harvested {ccli} -> frontmatter.ccli
+  Extracted -> profile: "OS-APO-FAST"
+  Extracted -> profile: "OS-GOSPEL-FAST"
+  Derived energy: "medium-fast"
+
+Voice Of Truth.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Converted 41 chords-above -> inline brackets
+
+victory.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Title case: "victory" -> "Victory"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+
+============================================================
+SUMMARY
+============================================================
+Files: 18  Changed: 18  Total changes: 115
+Output: /Users/daniellegrigsby/Downloads/V_normalized
+============================================================

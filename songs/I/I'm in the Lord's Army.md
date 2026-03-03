@@ -1,0 +1,30 @@
+---
+title: "I'm in the Lord's Army"
+artist: "Artist Name"
+key: C
+tempo: 
+time: 
+ccli: 
+copyright: 
+tags:
+  - "army"
+genre: []
+energy: 
+profile: []
+keywords: 
+source: 
+year: 
+medley: []
+id: "6F5607A2-4C80-4400-A2EE-418E59C05F36"
+---
+
+Book: CHILDREN'S
+
+VERSE 1:
+[C]Type your lines of the [F]song here
+Just [C]use line breaks to [G]make lines
+[Am]Placing the [G/B]chords [F]where you [Em]want them
+
+CHORUS:
+[C2]You can also [Csus4]repeat the chorus with [G]notes
+(Repeat 3x)

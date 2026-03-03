@@ -1,0 +1,26 @@
+---
+title: "God's Been Better To Me"
+artist: ""
+key: F
+tempo: 
+time: 
+ccli: 
+copyright: 
+tags: []
+genre: []
+energy: 
+profile: []
+keywords: 
+source: 
+year: 
+medley: []
+id: "CF549689-6EDA-4038-AED8-76425823051B"
+---
+
+[F]God's been better to [F7]me than [Bb7]anyone else I [F]know,
+
+[F]God's been better to [Dm]me and [G9]I'm gonna tell Him [C9]so
+
+He [F]took away [F7]all my sins and [Bb7]washed me white as [Bdim]snow
+
+[F/C]God's been [Dm]better to me Than [G9]anyone [C9]else I [F]know.

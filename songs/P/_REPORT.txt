@@ -1,0 +1,383 @@
+
+PRAISE %2F%2F Elevation Worship.md (1 changes)
+  Stripped bare title
+
+PSALM 23 ( I AM NOT ALONE) Lyrics.md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Sentence-cased 5 ALL CAPS lines
+
+PSALM 23.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Title case: "PSALM 23" -> "Psalm 23"
+  Sentence-cased 1 ALL CAPS lines
+
+Pass Me Not, O Gentle Saviour.md (3 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Stripped bare artist
+
+Peace Speaker.md (6 changes)
+  Stripped duplicate {key}
+  Stripped bare title
+  Stripped bare artist
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Sentence-cased 1 ALL CAPS lines
+
+Peace [2].md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Section: "vamp:" -> "VAMP:"
+  Section: "VAMP" -> "VAMP:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "CHORUS" -> "CHORUS:"
+  Section: "CHORUS" -> "CHORUS:"
+  Converted 22 chords-above -> inline brackets
+
+Peace in the Midst of the Storm].md (2 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+
+Peace.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Section: "Intro" -> "INTRO:"
+  Section: "Chorus" -> "CHORUS:"
+  Converted 5 chords-above -> inline brackets
+  Sentence-cased 2 ALL CAPS lines
+
+Pentecostal Style Playing 1.md (3 changes)
+  Stripped bare title
+  Stripped bare artist
+  Captured name -> source: "To the vim Chord"
+
+Pentecostal Style Playing 2.md (2 changes)
+  Stripped bare title
+  Stripped bare artist
+
+Pentecostal Style Playing 3.md (2 changes)
+  Stripped bare title
+  Stripped bare artist
+
+Pentecostal Style Playing 4.md (3 changes)
+  Stripped bare title
+  Stripped bare artist
+  Captured name -> source: "Turnaround & Outro"
+
+Pentecostal Style Playing.md (2 changes)
+  Stripped bare title
+  Stripped bare artist
+
+Perhaps She'll Wait.md (10 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse 1" -> "VERSE 1:"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Verse 2" -> "VERSE 2:"
+  Section: "Chorus" -> "CHORUS:"
+  Converted 8 chords-above -> inline brackets
+
+Please Forgive Me [2].md (7 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Please Forgive Me.md (4 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+
+Portrait Of An Apology.md (3 changes)
+  Stripped bare title
+  Stripped bare artist
+  Converted 31 chords-above -> inline brackets
+
+Power to Redeem.md (9 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Converted 22 chords-above -> inline brackets
+
+Praise %2F%2F Elevation Worship [2].md (1 changes)
+  Stripped bare title
+
+Praise Him Today, Church.md (7 changes)
+  Stripped bare title
+  Stripped bare Artist
+  Stripped bare Key
+  Stripped bare Tempo
+  Stripped bare Keywords
+  Extracted -> profile: "OS-SOUTHERN-GOSPEL-MED-SLOW"
+  Derived energy: "medium-slow"
+
+Praise Him, Praise Him [2].md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Derived energy: "medium"
+  Sentence-cased 5 ALL CAPS lines
+
+Praise Him, Praise Him.md (6 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "OS-GOSPEL-FAST"
+  Derived energy: "medium-fast"
+
+Praise His Holy Name [2].md (7 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Harvested {keywords} -> frontmatter.keywords
+  Extracted -> profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Extracted -> profile: "OS-APO-SLOW"
+  Derived energy: "slow"
+
+Praise His Holy Name.md (5 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Extracted -> profile: "Choir-Choruses-Congregational-Contemporary-Slow-Solo-Songs-Traditional-Worship"
+  Derived energy: "slow"
+
+Praise Is What I Do [2].md (10 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {copyright} -> frontmatter.copyright
+  Harvested {ccli} -> frontmatter.ccli
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "CONTEMPORARY-GOSPEL-SLOW"
+  Derived energy: "slow"
+  Sentence-cased 1 ALL CAPS lines
+
+Praise Is What I Do.md (10 changes)
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {copyright} -> frontmatter.copyright
+  Harvested {ccli} -> frontmatter.ccli
+  Stripped bare title
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "CONTEMPORARY-GOSPEL-SLOW"
+  Derived energy: "slow"
+  Sentence-cased 1 ALL CAPS lines
+
+Praise Song.md (9 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Intro:" -> "INTRO:"
+  Section: "Chorus:" -> "CHORUS:"
+  Converted 3 chords-above -> inline brackets
+  Sentence-cased 2 ALL CAPS lines
+
+Praise The Lord  (Let All God’s Children).md (11 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {subtitle}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {copyright} -> frontmatter.copyright
+  Harvested {ccli} -> frontmatter.ccli
+  Extracted -> profile: "OS-APO-FAST"
+  Extracted -> profile: "OS-CHRISTIAN-FAST"
+  Derived energy: "high"
+  Sentence-cased 2 ALL CAPS lines
+
+Praise The Lord.md (10 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Stripped duplicate {tempo}
+  Harvested {keywords} -> frontmatter.keywords
+  Harvested {copyright} -> frontmatter.copyright
+  Harvested {ccli} -> frontmatter.ccli
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Energetic-Medium-Slow-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "OS-SOUTHERN-GOSPEL-SLOW"
+  Derived energy: "medium-slow"
+  Sentence-cased 1 ALL CAPS lines
+
+Praise You In The Dance.md (10 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Stripped artifact
+  Section: "Intro:" -> "INTRO:"
+  Section: "Verse:" -> "VERSE:"
+  Section: "Chorus:" -> "CHORUS:"
+  Converted 13 chords-above -> inline brackets
+
+Praise You In This storm.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+
+Praise You With The Dance.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Converted 12 chords-above -> inline brackets
+
+Praise You.md (2 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+
+Praise the Lord Everybody.md (8 changes)
+  Stripped bare title
+  Stripped bare Key
+  Stripped bare Tempo
+  Stripped bare Keywords
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Extracted -> profile: "OS-GOSPEL-FAST"
+  Derived energy: "medium-fast"
+  Sentence-cased 20 ALL CAPS lines
+
+Praisin for the Victory %2F Can’t Stop Praisin’ His Name.md (2 changes)
+  Stripped bare title
+  Stripped bare Key
+
+Praisin for the Victory [2].md (5 changes)
+  Stripped bare title
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Verse 3:" -> "VERSE 3:"
+
+Praisin for the Victory.md (2 changes)
+  Stripped bare title
+  Stripped bare Key
+
+Praisin’ for the Victory.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-High-Energy-Medium-Fast-Shouting-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "high"
+  Section: "Bridge:" -> "BRIDGE:"
+
+Prayer For A Friend.md (7 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Chorus:" -> "CHORUS:"
+  Converted 7 chords-above -> inline brackets
+
+Preacher, Preach To Me.md (5 changes)
+  Stripped duplicate {title}
+  Stripped duplicate {key}
+  Harvested {time} -> frontmatter.time
+  Stripped bare artist
+  Sentence-cased 1 ALL CAPS lines
+
+Precious Blood [2].md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Tag:" -> "TAG:"
+
+Precious Blood.md (5 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Tag:" -> "TAG:"
+
+Press On.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse:" -> "VERSE:"
+  Section: "Chorus 1:" -> "CHORUS 1:"
+  Section: "Chorus 2:" -> "CHORUS 2:"
+
+Prodigal.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Chorus" -> "CHORUS:"
+  Converted 19 chords-above -> inline brackets
+
+Promenade.md (3 changes)
+  Stripped bare title
+  Stripped bare artist
+  Converted 31 chords-above -> inline brackets
+
+Psalm 139 (You Are There).md (4 changes)
+  Stripped bare title
+  Stripped bare artist
+  Converted 20 chords-above -> inline brackets
+  Sentence-cased 1 ALL CAPS lines
+
+Psalm 23 (I Am Not Alone).md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Section: "Verse 1" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Verse 2" -> "VERSE 2:"
+  Section: "Bridge:" -> "BRIDGE:"
+  Section: "Tag:" -> "TAG:"
+
+Pull Me Out.md (10 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Copyright
+  Section: "VERSE 1" -> "VERSE 1:"
+  Section: "CHORUS" -> "CHORUS:"
+  Section: "VERSE 2" -> "VERSE 2:"
+  Section: "BRIDGE" -> "BRIDGE:"
+  Converted 10 chords-above -> inline brackets
+  Sentence-cased 1 ALL CAPS lines
+
+preaching GOOD NEWS.md (2 changes)
+  Stripped bare title
+  Stripped bare artist
+
+precious lord, take my hand.md (5 changes)
+  Stripped bare title
+  Stripped bare Key
+  Title case: "precious lord, take my hand" -> "Precious Lord, Take My Hand"
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Chorus:" -> "CHORUS:"
+
+============================================================
+SUMMARY
+============================================================
+Files: 50  Changed: 50  Total changes: 276
+Output: /Users/daniellegrigsby/Downloads/P_normalized
+============================================================

@@ -1,0 +1,52 @@
+---
+title: "Touching Jesus"
+artist: "John Stallings"
+key: Ab
+tempo: 
+time: 
+ccli: 
+copyright: 
+tags:
+  - "choir"
+  - "choruses"
+  - "congregational"
+  - "contemporary"
+  - "slow"
+  - "solo-songs"
+  - "traditional"
+  - "worship"
+  - "jesus"
+  - "touching"
+genre: []
+energy: slow
+profile:
+  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
+  - "os-apo-med"
+keywords: "os apo med"
+source: "1973"
+year: 
+medley: []
+id: "9B04F8D0-F521-4EE2-A3C6-B3B76D487A31"
+---
+
+{artist: John Stallings (1973)}
+
+CHORUS:
+[C7+] Touching [Db2]Jesus, is [Bbm7]all, that really [Ab2]matters.[Db/Eb]
+Then your [Ab]life, will [C7+]never [Fm7]be, the [Bbm7]same [Eb7][Db/Eb]
+[Eb7b9]There is [Ab2]only, [Db2]one way, to [Ab2]touch Him, [Fm][Dbm/E]
+Just be[Ab/Eb]lieve, [Fm7]when you [Bbm7]call, up[Eb9]on His [Absus]na[Ab]ame. [Db/Eb]
+
+VERSE 1:
+A [Db2]woman, tried [Bbm7]many [Ab2]physicians
+yet grew [Fm7]worse, so to [Bbm7]Jesus, she [Eb7]came [Db/Eb]
+and [Eb7b9]when the [Ab2]crowd, [Db2]tried to, re[Ab2]strain her [Fm][Dbm/E]
+she [Ab/Eb]whispered, [Fm7]these [Bbm7]words, [Eb9]through her [Ab]pain [Db/Eb]
+
+VERSE 2:
+I was bound, when I knelt at, that old altar
+but they said Jesus, could meet, my every need
+and when this prisoner, finally touched, Jesus
+he set me free, praise the Lord, free indeed
+
+os apo med

@@ -1,0 +1,16 @@
+/Users/daniellegrigsby/Music-Database/
+│
+├── 🛠️ Scripts/
+│   ├── build-library.py
+│   └── link-setlists.py
+│
+├── 📊 Raw-Source-Data/
+│   ├── Song.csv
+│   └── ALL SONGS SONGBOOK 2.0.csv
+│
+└── 🏛️ Obsidian-Vault/   <-- (This is the only part Obsidian "sees")
+    ├── 01-Master-Songs/
+    │   ├── 0001-Amazing-Grace.md
+    │   └── 0002-Adonai.md
+    └── 02-Setlists/
+        └── 2024-03-15-Sunday-Service.md

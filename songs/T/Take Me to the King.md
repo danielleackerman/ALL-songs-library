@@ -1,0 +1,126 @@
+---
+title: "Take Me to the King"
+artist: "Kirk Franklin, performed by Tamela Mann"
+key: C
+tempo: 58
+time: 
+ccli: "6363389"
+copyright: "2012 Aunt Gertrude Music Publishing LLC, Admin. Brentwood-Benson Music Publishing, Inc."
+tags:
+  - "glory"
+  - "king"
+  - "altar"
+genre: []
+energy: slow
+profile:
+  - "contemporary-gospel-slow"
+keywords: "contemporary gospel slow, altar"
+source: "ORIGINAL KEY Db"
+year: 
+medley: []
+id: "77D4E08E-E97A-44B6-BFD8-3F127B220632"
+---
+
+(Intro: 1,2,3,4 | [C2]     | [C9]     | [D2/C]    |  [Ddim/C]    | )
+(**arpeggios on each chord on intro & pre-chorus**)
+
+(Pre-Chorus:)
+
+Take me to the [C2]King
+I don’t have much to [C9]bring
+My heart’s torn in [D2/C]pieces
+It’s my [Ddim/C]offering
+Take me to the [C2]King
+
+(Verse 1:)
+
+Truth is I’m [Am7]tired, options are [C2]few
+I’m trying to [Am7]pray but where are [C2]you
+My faith is [Am7]low, hurt and [C2]abused
+I [G/B]can’t [C]fake, [G/B]what’s [C]left [C/E]to [F]do
+
+Truth is I’m [Am7]weak, no strength to [C2]fight
+No tears to [Am7]cry even if I [C2]try
+But still my [Am7]soul refuses to [C2]die
+[G/B]One [C]touch [G/B]will [C]change [C/E]my [F]life
+
+(Chorus:)
+
+Take me to the [C2]King
+I don’t have much to [C9]bring
+My heart’s torn in [Fmaj7]pieces
+It’s my offe[A#9]ring
+Lay me at the [C2]throne
+Leave me there [C9]alone
+To gaze upon your [Fmaj7]glory
+And sing to you this [A#9]song
+Take me to the [C2]King
+
+(Verse 2:)
+
+Truth is it’s [Am7]time to stop playing these [C2]games
+We need a [Am7]word for the people’s [C2]pain
+So Lord, speak right [Am7]now, let it fall like [C2]rain
+We’re [G/B]despe[C]rate, we’re [G/B]chas[C]ing [C/E]after [F]you
+It’s [A#6]more than just [Am7]reli[G#9#11]gion, [Gm11]I’ve made my [F]decision
+To [G#maj7]run to you, the healer that I [F/G]need
+
+(|[A#6] = [C][D][G][A]/[A#][F]|)
+(|[Am7] = [G][A][C][E]/[A][E]|)
+(|[G#9#11] = [A#][C][D][F]/[G#][D#]|)
+(|[Gm11] = [G][A#][C]/[G][D]|)
+
+(Chorus:)
+
+Take me to the [C2]King
+I don’t have much to [C9]bring
+My heart’s torn in [Fmaj7]pieces
+It’s my offe[A#9]ring
+Lay me at the [C2]throne
+Leave me there [C9]alone
+To gaze upon your [Fmaj7]glory
+And sing to you this [A#9]song
+Take me to the...
+
+(Bridge:)
+[A/C#]Lord we’re in the way
+We [Dm]keep making mistakes
+The [D7/F#]glory’s not for us
+It’s all for [Gsus]you   [G7sus]
+
+(Chorus - quiet at first:)
+
+Take me to the [C2]King
+I don’t have much to [C9]bring
+My heart’s torn in [Fmaj7]pieces
+It’s my offe[N.C.]ring
+
+(|[F]-[G]-[G#]-   [A#]-[C]-  [D]-[D#]-[F]-[G]-   [F]|)
+(| 1   e   &       e    &     e   &    a   4      a |)
+
+Lay me at the [C2]throne
+Leave me there [C9]alone
+To gaze upon your [Fmaj7]glory
+And sing to you this [A#9]song
+
+(Tag:)
+
+Take me to the [C2]King - oh, oh, oh
+Take me to the [C9]King - oh, oh, oh
+Take me to the [Fmaj7]King - oh, oh, oh
+[A#9]Oh
+
+(Optional Ending 1:)
+
+Truth is I’m [Am7]tired
+It’s time to make a [C2]change   [D2/C]   [Ddim/C]   [C2]
+
+(Optional Ending 2:)
+
+Take me to the [C2]King   [D2/C]   [Ddim/C]   [C2]
+
+(Optional Chorus: I Surrender All)
+
+[C2]I surrender [Dm]all, [G]I surren[F/G]der [C2]all   [F/G]  [Fdim/G]
+[C]All to [F/C]thee [C]my [C7]blessed [G/F]Sav - [F]ior
+[C]I sur - [F/G]ren - [Fdim/G]der [C2]all

@@ -1,0 +1,110 @@
+
+Keep Believing [2].md (2 changes)
+  Stripped bare title
+  Stripped bare artist
+
+Keep Believing.md (6 changes)
+  Stripped bare title
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Chorus:" -> "CHORUS:"
+  Converted 5 chords-above -> inline brackets
+
+Keep On Shinin'.md (6 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Converted 6 chords-above -> inline brackets
+
+Keep Singing.md (7 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Chorus:" -> "CHORUS:"
+  Converted 17 chords-above -> inline brackets
+
+King Of Glory [5].md (9 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare Time
+  Stripped bare Tempo
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "slow"
+
+King Of Glory.md (11 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium"
+  Section: "Chorus" -> "CHORUS:"
+  Section: "Chorus X2" -> "CHORUS: x2"
+  Converted 23 chords-above -> inline brackets
+  Sentence-cased 2 ALL CAPS lines
+
+King of Glory [2].md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped artifact
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+
+King of Glory [3].md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped artifact
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+
+King of Glory [4].md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped artifact
+  Extracted -> profile: "Black-Gospel-Choir-Choruses-Congregational-Contemporary-Medium-Praise-Solo-Songs-Southern-Gospel-Traditional-Worship"
+  Derived energy: "medium"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Section: "Chorus:" -> "CHORUS:"
+  Section: "Bridge:" -> "BRIDGE:"
+
+King of My Heart.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Section: "Verse 1:" -> "VERSE 1:"
+  Section: "Verse 2:" -> "VERSE 2:"
+  Converted 17 chords-above -> inline brackets
+
+Knees to the earth.md (8 changes)
+  Stripped bare title
+  Stripped bare artist
+  Stripped bare Key
+  Stripped bare CCLI
+  Stripped bare Copyright
+  Title case: "Knees to the earth" -> "Knees to the Earth"
+  Converted 8 chords-above -> inline brackets
+  Sentence-cased 1 ALL CAPS lines
+
+============================================================
+SUMMARY
+============================================================
+Files: 11  Changed: 11  Total changes: 81
+Output: /Users/daniellegrigsby/Downloads/K_normalized
+============================================================

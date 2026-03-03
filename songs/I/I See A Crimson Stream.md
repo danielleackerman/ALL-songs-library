@@ -1,0 +1,45 @@
+---
+title: "I See A Crimson Stream"
+artist: ""
+key: F
+tempo: 
+time: 
+ccli: 
+copyright: 
+tags: []
+genre: []
+energy: 
+profile:
+  - "os-apo-slow"
+keywords: "os apo slow"
+source: 
+year: 
+medley: []
+id: "04ED10DC-9D9F-413D-BE42-6B5C1050399F"
+---
+
+(Verse:1)
+
+[Bb/C]On [F2]Calvary's hill of [C]sorrow, where [Gm7]sin's de[C7]mands  [C7/E]were  [F]paid
+[Bb/C]And [F2]rays of hope for to[C]morrow, a[Gm7]cross our  [C7]path  [C7/E]were  [F2]laid.
+
+(Chor:)
+
+[Bb/C]I [F2]see [F7/A]a [Bb2]crimson [Bb]stream of [F2]blood, and it [C]flows from [C7]Cal[C7/E]var[F2]y
+[Bb/C]It's [F2]waves [F7/A]which [Bb2]reach the [Bb]throne of [F]God
+Are  [C]sweeping  [C7]o[C7/E]ver   [F]me.
+
+(Verse:2)
+
+Today, no condemnation, abides to turn away
+My soul from His salvation, He's in my heart to stay.
+
+(Verse:3)
+
+When gloom and sadness whispers, you've sinned, no use to pray
+I look away to Jesus, and He tells me to say.
+
+(Verse:4)
+
+And when we reach tht portal, where life forever reigns
+The ransomed hosts grand final, will be this glad refrain.

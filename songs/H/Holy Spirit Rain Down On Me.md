@@ -1,0 +1,25 @@
+---
+title: "Holy Spirit Rain Down On Me"
+artist: ""
+key: G
+tempo: 
+time: 
+ccli: 
+copyright: 
+tags:
+  - "holy-spirit"
+genre: []
+energy: 
+profile: []
+keywords: 
+source: 
+year: 
+medley: []
+id: "95E00555-BD47-4CCC-89E7-826DC1A9E6A8"
+---
+
+[G]Holy [C]spi[G]rit rain [D]down on [G]me
+[C]With a [G]love that ev'ry[D]one can see
+[Am]Lift me [Em]high upon the [C]mountain [G]top
+Oh sweet [D]Spirit of [G]God
+Oh sweet [D]Spirit of [G]God[D][G]

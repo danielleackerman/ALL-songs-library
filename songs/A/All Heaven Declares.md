@@ -1,0 +1,65 @@
+---
+title: "All Heaven Declares"
+artist: "Martin Ball, written by Tom Fettke / Noel Richards / Tricia Richards"
+key: A
+tempo: 
+time: 
+ccli: "120556"
+copyright: "1987 Thankyou Music, Admin. Capitol CMG Publishing"
+tags:
+  - "ccm"
+  - "choir"
+  - "choruses"
+  - "congregational"
+  - "contemporary"
+  - "jesus-movement"
+  - "maranatha"
+  - "medium"
+  - "praise"
+  - "slow"
+  - "solo-songs"
+  - "traditional"
+  - "worship"
+  - "heaven"
+  - "beauty"
+genre: []
+energy: medium
+profile:
+  - "ccm-choir-choruses-congregational-contemporary-jesus-movement-maranatha-medium-praise-slow-solo-songs-traditional-worship"
+keywords: 
+source: 
+year: 
+medley: []
+id: "7DAEB08E-0F5B-4B30-A08B-918FD0BA768E"
+---
+
+INTRO:
+[A]
+
+VERSE 1:
+[A]  All Heaven de[D]clares
+[E]  The glory of the [A]risen Lord
+[C#m]  Who can com[D]pare
+[E]    With the beauty [A]of the Lord
+
+[C#m]  Forever You will [D]be
+[E]   The Lamb upon the [A]throne  [E/G#] [F#m]
+[F#m]  And I'll [Am]gladly bow my [D]knee
+[E]    And worship You a[A]lone.
+
+VERSE 2:
+I [C#m]will pro[D]claim
+[Esus]  The [E]glory of the [A]risen Lord
+[C#m]   Who once was [D]slain
+[E]   To reconcile [A]man to God
+
+[C#m]  [Am]Forever You will [D]be
+[E]   The Lamb upon the [A]throne  [E/G#] [F#m]
+[F#m]  And I'll [Am]gladly bow my [D]knee
+[Esus] [E]   And worship You a[A]lone.
+
+
+
+
+
+

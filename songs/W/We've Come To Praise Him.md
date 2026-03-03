@@ -1,0 +1,47 @@
+---
+title: "We've Come To Praise Him"
+artist: "Lindell Cooley"
+key: Bb
+tempo: 100
+time: 
+ccli: 
+copyright: 
+tags:
+  - "black-gospel"
+  - "choir"
+  - "choruses"
+  - "congregational"
+  - "contemporary"
+  - "energetic"
+  - "medium-fast"
+  - "praise"
+  - "solo-songs"
+  - "southern-gospel"
+  - "traditional"
+  - "worship"
+genre: []
+energy: medium
+profile:
+  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
+  - "os-apo-med"
+keywords: "os apo med"
+source: 
+year: 1997
+medley: []
+id: "B174CAB2-F366-46E6-8CDD-A31A17D21BE0"
+---
+
+{artist: Lindell Cooley, 1997}
+
+(D F G Bb -Bass run)
+
+[Eb/F]We've come to [Bb]praise Him,
+[Eb/F]We've come to [Bb]praise Him
+[Eb/F]We've come to [Bb]praise [G7]Him,
+And [C7]lift His [F7]holy [Bb]name
+
+(Bb Db Bb Eb -Bass run)
+Make a [Eb9]joyful noise, unto the Lord
+Make a joyful noise, unto the Lord.  [Eb7]  [D7]  [Db7]
+[C7]We ought to praise the Lord
+[F7]While we have a chance
