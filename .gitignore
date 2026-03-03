@@ -9,3 +9,10 @@
 
 # Optional: ignore plugin-specific transient files (tweak per your plugins)
 .obsidian/plugins/*/data.json
+# big/raw ops archive stuff (don’t track)
+_files_ops/
+
+# common large exports/backups
+**/*.backup
+**/*.sqlite3
+_files_ops/**/*.csv
