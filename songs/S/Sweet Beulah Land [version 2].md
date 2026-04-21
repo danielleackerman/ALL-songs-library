@@ -1,22 +1,25 @@
 ---
-title: "Sweet Beulah Land [version 2]"
-artist: "Squire Parsons / Carroll Roberson"
+title: 'Sweet Beulah Land [version 2]'
+artist: Squire Parsons / Carroll Roberson
 key: Gb
-tempo: 
-time: 
-ccli: "65752"
-copyright: "1979 Kingsmen Publishing Company"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '65752'
+copyright: 1979 Kingsmen Publishing Company
+source: ''
+year: ''
 medley: []
-id: "F408D6BA-513C-4789-A82D-D8A4C3AA34B2"
+id: F408D6BA-513C-4789-A82D-D8A4C3AA34B2
 ---
-
 INTRO:
 [Bbm][/][/][/]|[Abm7][/][Db][/]|[Gb][/][/][/]|[/][/]
 

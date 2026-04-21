@@ -1,23 +1,26 @@
 ---
-title: "Hard"
-artist: "Rich Mullins"
+title: Hard
+artist: Rich Mullins
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "6C9F45D1-5D2F-4504-B911-CDA6F18FD331"
+id: 6C9F45D1-5D2F-4504-B911-CDA6F18FD331
 ---
-
 [C]Well I am a [G]good mid[D]western [G]boy, I give an [C]honest day's [G]work when
 I can[D] get it.  I don't[C] cheat on my[G] taxes, I don't[D] cheat on my
 [Em]girl.  I've got [C]values that would [G]make the [D]White House jealous.

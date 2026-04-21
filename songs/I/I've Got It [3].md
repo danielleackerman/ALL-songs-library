@@ -1,39 +1,44 @@
 ---
-title: "I've Got It"
-artist: "Burbank"
-key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: I’Ve Got It
+artist: ''
+key: C
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: Artist Name
+year: ''
 medley: []
-id: "D0E8373A-0120-43BD-AF4F-37E20ABB7B1E"
+id: B692B2E6-E4DB-438D-B9DF-80DC11635400
 ---
+VERSE 1:
+[C]Type your lines of the [F]song here
+Just [C]use line breaks to [G]make lines
+[Am]Placing the [G/B]chords [F]where you [Em]want them
 
-Key of: G
-
-[G]I've got it, Ive got [G7/B]it
-[C7]I've got it, Ive [G]got it [(G-G-F#-E)]
-[D7]Somethin bout the power of the Holy Ghost,
-[(Db7  C7)]I cant explain it but
-I've [G]got it, I've [C]got it, I've [G]got it.
+CHORUS:
+[C2]You can also [Csus4]repeat the chorus with [G]notes
+(Repeat 3x)

@@ -1,25 +1,30 @@
 ---
-title: "Freedom"
-artist: "Eddie James"
+title: Freedom
+artist: Eddie James
 key: F
-tempo: 
-time: 
-ccli: "2969543"
-copyright: "2000 City Bible Music, Universal Music (Admin. Brentwood Benson Music Publishing, Inc.)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "freedom"
+  - freedom
 genre: []
-energy: 
 profile:
-  - "mod-apo-fast"
-  - "mod-gospel-fast"
-keywords: "mod apo fast, mod gospel fast"
-source: 
-year: 
+  - mod-apo-fast
+  - mod-gospel-fast
+keywords: 'mod apo fast, mod gospel fast'
+ccli: '2969543'
+copyright: >-
+  2000 City Bible Music, Universal Music (Admin. Brentwood Benson Music
+  Publishing, Inc.)
+source: ''
+year: ''
 medley: []
-id: "DCD2246A-03A0-4DFD-9E97-72B50D359EE3"
+id: DCD2246A-03A0-4DFD-9E97-72B50D359EE3
 ---
-
 V. 1
 [F]I wanna clap a little louder than before[F] [C]  [Dm]  [Bb]
 [F]I wanna sing a little louder than before[F] [C]  [Dm] [Bb]

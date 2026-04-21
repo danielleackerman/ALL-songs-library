@@ -1,24 +1,27 @@
 ---
-title: "Spirit Break Out--2"
-artist: "WILLIAM MCDOWELL"
+title: Spirit Break Out--2
+artist: WILLIAM MCDOWELL
 key: C
-tempo: 
-time: 
-ccli: "5833975"
-copyright: "2010 Thankyou Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "heaven"
-  - "touching"
+  - heaven
+  - touching
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5833975'
+copyright: 2010 Thankyou Music
+source: ''
+year: ''
 medley: []
-id: "12A39D6B-61EF-4EBC-8C29-74E9BA8F3286"
+id: 12A39D6B-61EF-4EBC-8C29-74E9BA8F3286
 ---
-
 INTRO:
 [C]  [-]  [D]  [-]  [Em]   [-]  [G/B]
 

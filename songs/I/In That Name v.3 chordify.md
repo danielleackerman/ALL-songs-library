@@ -1,24 +1,27 @@
 ---
-title: "In That Name v.3 chordify"
-artist: "Mark Condon"
+title: In That Name v.3 chordify
+artist: Mark Condon
 key: D
-tempo: 75
-time: 
-ccli: 
-copyright: 
+bpm: '75'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: medium-slow
 profile:
-  - "mod-apo-med-slow"
-keywords: "mod apo med slow"
-source: 
+  - mod-apo-med-slow
+keywords: mod apo med slow
+ccli: ''
+copyright: ''
+source: ''
 year: 2006
 medley: []
-id: "92B1BDE9-150D-4C9A-B7AD-D1BF1EC3B200"
+id: 92B1BDE9-150D-4C9A-B7AD-D1BF1EC3B200
 ---
-
 {artist: Mark Condon, 2006}
 
 INTRO:

@@ -1,24 +1,27 @@
 ---
-title: "Live In Our Worship"
-artist: "Kim Ballestero"
+title: Live In Our Worship
+artist: Kim Ballestero
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "praise"
+  - love
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8379365A-B8FE-4EE6-B59D-040C0FF7B3BF"
+id: 8379365A-B8FE-4EE6-B59D-040C0FF7B3BF
 ---
-
 CHORUS:
 
 [C/D]Live in our [Gm]worship, inhabit our praise

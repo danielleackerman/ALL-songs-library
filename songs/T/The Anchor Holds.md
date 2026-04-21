@@ -1,34 +1,38 @@
 ---
-title: "The Anchor Holds"
-artist: "Ray Boltz"
+title: The Anchor Holds
+artist: Ray Boltz
 key: G
-tempo: 
-time: 
-ccli: "1453277"
-copyright: "1994 Word Music, LLC / Shepard Boy Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '1453277'
+copyright: '1994 Word Music, LLC / Shepard Boy Music'
+source: ''
+year: ''
 medley: []
-id: "05B6F898-725B-4FF6-AD13-0BE6152C8112"
+id: 05B6F898-725B-4FF6-AD13-0BE6152C8112
 ---
-
 [C/g]  [G]  [C/g]
 [G]I have jo[C/g]urneyed
 [G]through the long, dark nigh[C/g]t

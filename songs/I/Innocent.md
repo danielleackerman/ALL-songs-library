@@ -1,22 +1,25 @@
 ---
-title: "Innocent"
-artist: "Third Day"
+title: Innocent
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: "4292160"
-copyright: "2004 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4292160'
+copyright: 2004 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "F83F271D-F5BC-4B1F-96C2-CCDC1CE33362"
+id: F83F271D-F5BC-4B1F-96C2-CCDC1CE33362
 ---
-
 Intro:	d	g	d	g
 
 VERSE 1:

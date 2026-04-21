@@ -1,22 +1,25 @@
 ---
-title: "Sometimes By Step--MID EDIT"
-artist: "Rich Mullins"
+title: Sometimes By Step--MID EDIT
+artist: Rich Mullins
 key: G
-tempo: 
-time: 
-ccli: "915125"
-copyright: "1992 BMG Songs, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '915125'
+copyright: '1992 BMG Songs, Inc.'
+source: ''
+year: ''
 medley: []
-id: "8C231781-8F5D-496E-95E6-ECEE3FA5AF8A"
+id: 8C231781-8F5D-496E-95E6-ECEE3FA5AF8A
 ---
-
 Psalm 63 / Genesis 15:5-6 / Hebrews 12:
 [G]Sometimes the night [D/G]    was beautiful
 [G]Sometimes the sky [D/G]  was so far away  [C2/E]

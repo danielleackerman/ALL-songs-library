@@ -1,34 +1,38 @@
 ---
-title: "Child Of The King"
-artist: ""
+title: Child Of The King
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-fast"
-  - "middle-eastern"
-  - "praise"
-  - "solo-songs"
-  - "traditional"
-  - "king"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-fast
+  - middle-eastern
+  - praise
+  - solo-songs
+  - traditional
+  - king
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "35315C3E-E4D2-4B0E-84F7-236422F24858"
+id: 35315C3E-E4D2-4B0E-84F7-236422F24858
 ---
-
 [Bb/C]Oh [F]Yes,[Bb/C]Oh [F]Yes,[Bb/C]I’m  a [F]child [Bb/C]of  the  [F]King,
 
 [Gm7]His  royal [Gm/C]blood  now [F]flows through  my [Gm/C]Veins.

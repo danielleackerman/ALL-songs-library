@@ -1,22 +1,27 @@
 ---
-title: "Honestly"
-artist: "Carl Cartee"
+title: Honestly
+artist: Carl Cartee
 key: C
-tempo: 
-time: 
-ccli: "4710635"
-copyright: "2005 All For The King Music / Lakeside Media / Autotunes / Postage Stamp Publishing / Willow Branch Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4710635'
+copyright: >-
+  2005 All For The King Music / Lakeside Media / Autotunes / Postage Stamp
+  Publishing / Willow Branch Publishing
+source: ''
+year: ''
 medley: []
-id: "671AC17C-1B4F-4E4D-9FB3-0224B8626D13"
+id: 671AC17C-1B4F-4E4D-9FB3-0224B8626D13
 ---
-
 Intro: am f2 c g
 
 VERSE 1:

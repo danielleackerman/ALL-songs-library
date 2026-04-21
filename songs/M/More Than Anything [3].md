@@ -1,42 +1,43 @@
 ---
-title: "More Than Anything"
-artist: ""
+title: More Than Anything
+artist: Don Moen
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0B4797AA-67A3-47D4-91F0-40C58F28E227"
+id: D5A5E181-473F-4309-8C35-BE8163DBC657
 ---
+{artist: Don Moen}
 
-[Fm7] [Gm7]  [AbM7]More  [Bb7b9]than  [EbM7]anything  [Fm7]
+[Fm7] [Gm7]
 
-[Bb13]More   [Bb7b9]than   [EbM7]anything     [Bb/Eb]   [Cm7]
-
-I love You  [Fm7]Jesus   [Ab/Bb]more  than  an  [Bb7b9]y   [EbM7]thing
-
-[Fm7]  [Gm7]  [AbM7]More   [Bb7b9]than   [EbM7]worldly  wealth  [Fm7]
-
-[Bb13]More   [Bb7b9]than   [EbM7]life  it’s  self     [Bb/Eb]   [Cm7]
-
-I love You   [Fm7]Jesus,   [Ab/Bb]more  than  an  [Bb7b9]y   [Eb]thing
+[AbM7]More [Bb7b9]than [EbM7]anything  [Fm7][Bb13]More [Bb7b9]than [EbM7]any[Bb/Eb]thing
+[Cm7]I love You [Fm7]Jesus            [Ab/Bb]more [Bb7b9]than [EbM7]anything [Fm7][Gm7]
+[AbM7]More [Bb7b9]than [EbM7]worldly wealth [Fm7]  [Bb13]More [Bb7b9]than [EbM7]life [Bb/Eb]it[Cm7]self
+[Cm7]I love You [Fm7]Jesus,           [Ab/Bb]more [Bb7b9]than [Eb]anything
 
 
 

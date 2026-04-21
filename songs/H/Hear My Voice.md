@@ -1,22 +1,25 @@
 ---
-title: "Hear My Voice"
-artist: "Jeremy Camp"
+title: Hear My Voice
+artist: Jeremy Camp
 key: D
-tempo: 
-time: 
-ccli: "4248853"
-copyright: "2004 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4248853'
+copyright: 2004 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "3BDBB76A-0234-4BFD-8AC4-3AA736B5DBA8"
+id: 3BDBB76A-0234-4BFD-8AC4-3AA736B5DBA8
 ---
-
 Capo 3
 
 [D]You are the only one that brings me p[G]eace

@@ -1,24 +1,27 @@
 ---
-title: "Just Keep Praisin Him"
-artist: "Key of: Ebm"
+title: Just Keep Praisin Him
+artist: 'Key of: Ebm'
 key: Ebm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "men"
+  - praise
+  - men
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "37B11ECB-3571-43E7-A457-B74DCD60D3FD"
+id: D5107842-7DB0-4AEB-BAF2-0FAB39FD9B1D
 ---
-
 VERSE 1:
 Paul [Ebm]and Silas in the jail, [Ebm/B]Daniel in the lion's den
 [Abm]Shadrach, Meshak, Abednego, [Bbsus]men of faith who would not [Bb]bend
@@ -33,7 +36,7 @@ Just keep [Abm]Praisin Him, for [Bbsus]Praise will [Bb]bring the [Ebm]victory [E
 
 VERSE 2:
 [Ebm]Joshua, go and take the city of [Ebm/B]Jericho, God said
-And [Abm]seize it not with sword or shield, but [Bsus]with a shout [Bb]instead
+And [Abm]seize it not with sword or shield, but [Bbsus]with a shout [Bb]instead
 So [Ebm]Joshua's men went forth with praise, marched [Ebm/B]seven times around
 And [Abm]as they gave a mighty shout the [Bbsus]walls came tumbling [Bb]down
 

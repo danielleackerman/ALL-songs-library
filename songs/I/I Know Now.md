@@ -1,22 +1,25 @@
 ---
-title: "I Know Now"
-artist: "Bebo Norman"
+title: I Know Now
+artist: Bebo Norman
 key: D
-tempo: 
-time: 
-ccli: "4733904"
-copyright: "2006 New Spring / Appstreet Music / Upper Cates Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4733904'
+copyright: 2006 New Spring / Appstreet Music / Upper Cates Music
+source: ''
+year: ''
 medley: []
-id: "E1D0F050-51BA-40E3-954E-19E412395752"
+id: E1D0F050-51BA-40E3-954E-19E412395752
 ---
-
 Intro: (Keys)  |  D|  Dsus |  D  |  Dsus | D    | Dsus | D     | Dsus |
                                   (-acoustic-)     | D/F# | D/G   | D/F# | D/G   |
 

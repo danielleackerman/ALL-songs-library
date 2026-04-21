@@ -1,35 +1,39 @@
 ---
-title: "I Don't Know What You Came To Do"
-artist: ""
+title: I Don't Know What You Came To Do
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "17ABAB10-E422-43C9-9CD5-ECFEE4E24D53"
+id: 17ABAB10-E422-43C9-9CD5-ECFEE4E24D53
 ---
-
 CHORUS:
 [G]I [C]don't [G]know [C]what [G]you came [C]to [G]do,
 but I came to praise the [G7]Lord

@@ -1,38 +1,44 @@
 ---
-title: "Heaven On My Mind"
-artist: "Luther Lee Barnes"
+title: Heaven On My Mind
+artist: Luther Lee Barnes
 key: C
-tempo: 
-time: 
-ccli: "2653660"
-copyright: "1997 International Atlanta Music (Admin. by Peermusic III, Ltd.) Lubar Music (Admin. by Peermusic III, Ltd.)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "heaven"
-  - "life"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - heaven
+  - life
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "cont-gospel-slow"
-  - "os-gospel-slow"
-keywords: "cont gospel slow, os gospel slow,"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - cont-gospel-slow
+  - os-gospel-slow
+keywords: 'cont gospel slow, os gospel slow,'
+ccli: '2653660'
+copyright: >-
+  1997 International Atlanta Music (Admin. by Peermusic III, Ltd.) Lubar Music
+  (Admin. by Peermusic III, Ltd.)
+source: ''
+year: ''
 medley: []
-id: "A462826F-486C-4DC9-A462-52FA3A37207E"
+id: A462826F-486C-4DC9-A462-52FA3A37207E
 ---
-
 {artist: Luther Lee Barnes}
 
 (Verse:1)

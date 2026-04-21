@@ -1,22 +1,25 @@
 ---
-title: "I Know You're There"
-artist: "Casting Crowns"
+title: I Know You're There
+artist: Casting Crowns
 key: E
-tempo: 
-time: 
-ccli: "5074325"
-copyright: "2006 SPIN Three-Sixty Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5074325'
+copyright: 2006 SPIN Three-Sixty Music
+source: ''
+year: ''
 medley: []
-id: "469877C1-0333-4172-8DF8-AD3C87DB814D"
+id: 469877C1-0333-4172-8DF8-AD3C87DB814D
 ---
-
 INTRO:
 [E] | [B] | [C#m] | [A] |
 

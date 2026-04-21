@@ -1,23 +1,26 @@
 ---
-title: "Jesus You're Worthy"
-artist: ""
+title: Jesus You're Worthy
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "ADF4FB9E-17CD-49A0-B30E-8ECB7FDCD381"
+id: ADF4FB9E-17CD-49A0-B30E-8ECB7FDCD381
 ---
-
 [G]Jesus, You're worthy,
 worthy to be praised,
 [C9]Jesus, You're worthy,

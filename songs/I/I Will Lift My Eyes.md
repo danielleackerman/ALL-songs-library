@@ -1,22 +1,27 @@
 ---
-title: "I Will Lift My Eyes"
-artist: "Bebo Norman"
+title: I Will Lift My Eyes
+artist: Bebo Norman
 key: A
-tempo: 
-time: 
-ccli: "4793171"
-copyright: "2006 New Spring / Appstreet Music / Peertunes, Ltd. / GrangeHill Music / J Ingram Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4793171'
+copyright: >-
+  2006 New Spring / Appstreet Music / Peertunes, Ltd. / GrangeHill Music / J
+  Ingram Music
+source: ''
+year: ''
 medley: []
-id: "EA49734F-4537-4F4C-905E-E0BBF1E42666"
+id: EA49734F-4537-4F4C-905E-E0BBF1E42666
 ---
-
 Intro:  ||: f#m  |  d  |  a  |  e  e/g#  :|| (2x)
 
         ||  f#m  |  d2 |  a  |  e  |  d2  |  d2  |

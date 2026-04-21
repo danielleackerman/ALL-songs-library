@@ -1,23 +1,26 @@
 ---
-title: "My One Thing"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: My One Thing
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B2C7F7B9-B7AF-473A-B827-56980A31E891"
+id: B2C7F7B9-B7AF-473A-B827-56980A31E891
 ---
-
 Key:
 
 My One Thing

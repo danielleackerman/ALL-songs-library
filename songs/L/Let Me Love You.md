@@ -1,23 +1,26 @@
 ---
-title: "Let Me Love You"
-artist: "Third Day"
+title: Let Me Love You
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "5208517"
-copyright: "2008 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5208517'
+copyright: 2008 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "1CC3F933-476B-464D-8EF4-237FD2F42E5F"
+id: 1CC3F933-476B-464D-8EF4-237FD2F42E5F
 ---
-
 Capo 2
 
 Intro: C   G   C   G

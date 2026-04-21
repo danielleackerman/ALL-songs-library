@@ -1,22 +1,25 @@
 ---
-title: "I Deserve"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: I Deserve
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B6F0E587-B0EA-4A2C-85CB-6530324EF37E"
+id: B6F0E587-B0EA-4A2C-85CB-6530324EF37E
 ---
-
 Key:
 
   Intro:  Em / G / D (2x)

@@ -1,22 +1,25 @@
 ---
-title: "Waiting For The World To Fall"
-artist: "Jars Of Clay"
+title: Waiting For The World To Fall
+artist: Jars Of Clay
 key: C
-tempo: 
-time: 
-ccli: "4609612"
-copyright: "2005 Bridge Building Music, Inc. / Pogostick Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4609612'
+copyright: '2005 Bridge Building Music, Inc. / Pogostick Music'
+source: ''
+year: ''
 medley: []
-id: "E9B18C29-60C3-4BFB-8812-CAF083927E5C"
+id: E9B18C29-60C3-4BFB-8812-CAF083927E5C
 ---
-
 Intro:   Am7        G/B       Fmaj7        C   (-acoustic-)
 
 VERSE 1:

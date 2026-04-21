@@ -1,28 +1,31 @@
 ---
-title: "Breathe On Me | version 3"
-artist: "Clint Brown"
+title: Breathe On Me | version 3
+artist: Clint Brown
 key: Bb
-tempo: 
-time: 
-ccli: "1149622"
-copyright: "1996 Dayspring Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "holy-ghost"
-  - "power"
+  - holy-ghost
+  - power
 genre: []
-energy: 
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - mod-apo-med
+keywords: mod apo med
+ccli: '1149622'
+copyright: '1996 Dayspring Music, LLC'
+source: ''
+year: ''
 medley:
-  - "[[WORSHIP THE KING]]"
-  - "[[BREATHE ON ME]]"
-  - "[[YOU ARE]]"
-id: "C98296DF-D49E-482B-AE69-EF66F353410D"
+  - '[[WORSHIP THE KING]]'
+  - '[[BREATHE ON ME]]'
+  - '[[YOU ARE]]'
+id: C98296DF-D49E-482B-AE69-EF66F353410D
 ---
-
 Medley: worship the King / breathe on me / You are
 
 VERSE 1:

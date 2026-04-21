@@ -1,24 +1,27 @@
 ---
-title: "You Were There"
-artist: "Crimson Lullaby"
+title: You Were There
+artist: Crimson Lullaby
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "help"
-  - "truth"
+  - help
+  - truth
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3E29C2A8-1C1B-443C-88FD-C2EE849B37C3"
+id: 3E29C2A8-1C1B-443C-88FD-C2EE849B37C3
 ---
-
 Key:
 
 You Were There by Crimson Lullaby

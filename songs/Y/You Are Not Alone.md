@@ -1,22 +1,25 @@
 ---
-title: "You Are Not Alone"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: You Are Not Alone
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E7F62391-1048-4B94-99BD-04836AB7520B"
+id: E7F62391-1048-4B94-99BD-04836AB7520B
 ---
-
 Key:
 
 You Are Not Alone

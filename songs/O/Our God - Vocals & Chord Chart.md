@@ -1,20 +1,23 @@
 ---
-title: "Our God - Vocals & Chord Chart"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Our God - Vocals & Chord Chart
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B3486C57-59C6-433F-8779-6BA0FDAA388A"
+id: B3486C57-59C6-433F-8779-6BA0FDAA388A
 ---
-
 

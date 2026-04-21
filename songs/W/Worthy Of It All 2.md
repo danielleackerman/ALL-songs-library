@@ -1,24 +1,29 @@
 ---
-title: "Worthy Of It All 2"
-artist: "Cece Winans | written by David Brymer, Ryan Hall"
+title: Worthy Of It All 2
+artist: 'Cece Winans | written by David Brymer, Ryan Hall'
 key: F
-tempo: 71
-time: "4/4"
-ccli: "6280644"
-copyright: "2012 Innerland, Wayfinder Music, Common Hymnal Publishing, Underground Treasure, Admin. Capitol CMG Publishing, Integrity Music"
+bpm: '71'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "god-incarnate"
-  - "worthiness"
+  - god-incarnate
+  - worthiness
 genre: []
-energy: medium-slow
 profile: []
-keywords: "god incarnate, worthiness"
-source: 
-year: 
+keywords: 'god incarnate, worthiness'
+ccli: '6280644'
+copyright: >-
+  2012 Innerland, Wayfinder Music, Common Hymnal Publishing, Underground
+  Treasure, Admin. Capitol CMG Publishing, Integrity Music
+source: ''
+year: ''
 medley: []
-id: "1F27BF87-CA4A-4AD2-A8C4-3174A7F9AAB2"
+id: 1F27BF87-CA4A-4AD2-A8C4-3174A7F9AAB2
 ---
-
 {artist: Cece Winans | written by David Brymer, Ryan Hall}
 
 Intro (4x):

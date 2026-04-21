@@ -1,22 +1,25 @@
 ---
-title: "O Come All Ye Faithful"
-artist: "Third Day"
+title: O Come All Ye Faithful
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "4867959"
-copyright: "Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4867959'
+copyright: Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "F1CADB81-19C1-43C8-AE69-D6C8F60C8002"
+id: F1CADB81-19C1-43C8-AE69-D6C8F60C8002
 ---
-
 Intro:  chorus
   G
 O come let us adore Him

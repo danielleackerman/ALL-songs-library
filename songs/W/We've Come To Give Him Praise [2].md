@@ -1,58 +1,76 @@
 ---
-title: "We've Come To Give Him Praise"
-artist: "Clint Brown"
+title: We've Come To Give Him Praise
+artist: Clint Brown
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '4579515'
+copyright: 2005 Clint Brown
+source: ''
+year: ''
 medley: []
-id: "92A1D167-7523-436B-B736-00AA0CB52926"
+id: 6D70DD49-BF79-4523-8ADC-BF5FA6BDDAFE
 ---
-
 INTRO:
-[C7]   [C7]   [Bb]   [F/A]    [Fm7]    [Gm7]
+[C7] [Bb] [F/A] [Fm7] [Gm7]
+[C7] [Bb] [F/A] [C7]
 
-[C7]   [C7]   [Bb]   [F/A]    [C7]
+Verse 1 2x:
+[C7]With lifted hands
+Enter with thanks
+[Bb]We've [F/A]come to give Him [Fm7]praise [Gm7]
 
-V1:
+[C7]With a shout of joy
+We lift our voice
+[Bb]We've [F/A]come to give Him [C7]praise
 
-[C7]With lifted hands [C7]enter with thanks    [Bb]We've [F/A]come to give Him [Fm7]prai[Gm7]se
-[C7]with a shout of joy [C7]we lift our voice  [Bb]we've [F/A]come to give Him [C7]praise (2x)
+Chorus 2x:
+We've come to [Cm9]give Him
+The [F13]praise
 
-V2:
-We've come to [Cm9]give Him  the [F13]praise
-                      D7b5b9.       G7b5b9      C13
-We've come to give Him     All of our praise                          (2x)
+We've come to give Him
+[D7b5b9]All of our praise [G7b5b9] [C13]
 
-Interlude: cm9
-[C]  [B]  [Bb]   [F]  [E]  [Eb]   [G]  [Bb]   [C]  [Eb]   [C]  [Bb]   [Bb]   [Cm/Eb]      [G]  [F13]                              [(2x)]
+[Cm9] [C] [B] [Bb]
+[F] [E] [Eb][G] [Bb] [C] [Eb]
+[C] [Bb] [Cm/Eb] [G] [F13]
 
-V3:
+Verse 3 4x:
+[Cm9]Praise Him in[C] t[B]he[Bb] morning;
+In the middle [F]of [E]the[Eb] night
+[Cm9]Everything wi[C]th [B]bre[Bb]ath
+[Cm/Eb]It's [G]al[F13]right
 
-[Cm9]Praise Him in[C] t[B]he[Bb] morning   in the middle o[F]f t[E]he [Eb]night
-[Cm9]Everything wi[C]th [B]bre[Bb]ath.     [Cm/Eb]It's  [G]al[F13]right.                            (4x)
+BRIDGE:
+(Give Him) [Cm9]Prais[C]e [B] [Bb] [F] [E] [Eb]
+(We’ve come to give Him) [Cm9]Praise[C] [B] [Bb] [Cm/Eb] [Cm/Eb] [G] [F13]
 
-V4:
-[Cm9]Prai[C]se[B]  [Bb]     [F]   [E]   [Eb]       [Cm9]Prai[C]se[B]. [Bb]      [Cm/Eb]      [G]  [F13]                       (2x)
+Chorus 2x:
+We've come to [Cm9]give Him
+The [F13]praise
+
+We've come to give Him
+[D7b5b9]All of our praise [G7b5b9] [C13]

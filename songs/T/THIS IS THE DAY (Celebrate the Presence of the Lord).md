@@ -1,26 +1,29 @@
 ---
-title: "THIS IS THE DAY (Celebrate the Presence of the Lord)"
-artist: "Rick Shelton"
+title: THIS IS THE DAY (Celebrate the Presence of the Lord)
+artist: Rick Shelton
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "presence"
-  - "rejoice"
+  - presence
+  - rejoice
 genre: []
-energy: 
 profile:
-  - "mod-apo-fast"
-  - "contemp-christian-fast"
-keywords: "mod apo fast, contemp christian fast"
-source: 
+  - mod-apo-fast
+  - contemp-christian-fast
+keywords: 'mod apo fast, contemp christian fast'
+ccli: ''
+copyright: ''
+source: ''
 year: 1990
 medley: []
-id: "4465806A-0226-454B-A4E8-EC07538DA567"
+id: 4465806A-0226-454B-A4E8-EC07538DA567
 ---
-
 Number: 272569
 
 VERSE 1:

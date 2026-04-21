@@ -1,34 +1,38 @@
 ---
-title: "I Love To Worship You"
-artist: "Clint Brown"
+title: I Love To Worship You
+artist: Clint Brown
 key: Am
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "love"
-  - "awesome"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - love
+  - awesome
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: "Key of C"
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: ''
+copyright: ''
+source: Key of C
+year: ''
 medley: []
-id: "F5781B02-A2C6-493B-A43B-9E852A05BF1D"
+id: F5781B02-A2C6-493B-A43B-9E852A05BF1D
 ---
-
 [Am7]I love to [Dm11]worship You [Csus/G]    I [G]love to [G/C]worship [C]You [Gsus/E] [Am11]
 [Am7]I love to [Dm]worship You    [Csus/G]I love to worship [C2]You   [G/A]  [Am7]
 I love to [Dm11]worship You [Csus/G]    [G]I love to [G/C]worship [C]You  [Gsus/E]  [Am11]

@@ -1,24 +1,27 @@
 ---
-title: "Nothing But Praise For You, Lord"
-artist: "Timothy Spell"
+title: 'Nothing But Praise For You, Lord'
+artist: Timothy Spell
 key: G
-tempo: 
-time: "3/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-keywords: "os apo med"
-source: "written by Joy Anderson"
-year: 
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: written by Joy Anderson
+year: ''
 medley: []
-id: "D40C1BB8-82B6-4B5F-9224-708A65E45B4C"
+id: D40C1BB8-82B6-4B5F-9224-708A65E45B4C
 ---
-
 {artist: Timothy Spell (written by Joy Anderson)}
 
 CHORUS:

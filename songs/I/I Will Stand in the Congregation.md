@@ -1,25 +1,28 @@
 ---
-title: "I Will Stand in the Congregation"
-artist: "Maranatha Singers"
+title: I Will Stand in the Congregation
+artist: Maranatha Singers
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "worship"
+  - praise
+  - worship
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "63730A0E-45E6-44E1-9316-4F85F4B13B54"
+id: 63730A0E-45E6-44E1-9316-4F85F4B13B54
 ---
-
 [Bb/C]I       will     [F]stand in the congregation and exalt Your name,
 [C9]I    will   [Gm9]stand in the congre[C9]gation and [F]exalt Your [Bb/C]name,
 [Bb/C]I     will      [F]stand in the congregation and [F]exalt [F7/A]Your    [Bb]name

@@ -1,36 +1,40 @@
 ---
-title: "Wonderful Peace"
-artist: "Cornell and Cooper"
+title: Wonderful Peace
+artist: Cornell and Cooper
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "peace"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - peace
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "898F4819-D108-4EB7-BCE1-47621CF344D2"
+id: 898F4819-D108-4EB7-BCE1-47621CF344D2
 ---
-
 CHORUS:
 [F2]Peace, [Eb/C] peace, [BbM7]wonder[Bdim]ful  [F]peace
 [A7+/Db]Coming [Dm7]down from the [G9]Father [Gm7]above  [C7]

@@ -1,22 +1,25 @@
 ---
-title: "Exercise"
-artist: "Chord Omnibus"
+title: Exercise
+artist: Chord Omnibus
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8947E513-EFBF-4ED1-9E20-96C29887ED51"
+id: 8947E513-EFBF-4ED1-9E20-96C29887ED51
 ---
-
 When you see a chord symbol with parantheses--C7(13) means just add the 13.
 When you see a chord symbol without parantheses-- C13 means to add all the tones leading up to the 13th.
 

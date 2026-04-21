@@ -1,20 +1,23 @@
 ---
-title: "Breakout ERV"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Breakout ERV
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CBD5E05A-E67A-48C4-95A0-9E5F6296FAB5"
+id: CBD5E05A-E67A-48C4-95A0-9E5F6296FAB5
 ---
-
 

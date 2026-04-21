@@ -1,37 +1,41 @@
 ---
-title: "I Love to Sing Your Praise"
-artist: "Geron Davis"
+title: I Love to Sing Your Praise
+artist: Geron Davis
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "love"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - love
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "11CE8052-95FD-4E99-8851-1313FF683FA6"
+id: 771D411C-F7AD-40AD-ACDB-A379D3594825
 ---
-
 CHORUS:
 [G]I love sing your [C9]praise Lord
 I love the sound of your [G7]name

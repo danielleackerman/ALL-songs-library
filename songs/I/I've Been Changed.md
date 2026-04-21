@@ -1,40 +1,46 @@
 ---
-title: "I've Been Changed"
-artist: "Mosie Lister"
+title: I've Been Changed
+artist: Mosie Lister
 key: F
-tempo: 110
-time: 
-ccli: "59036"
-copyright: "1959 Mosie Lister Songs (Admin. by Music Services, Inc.) Southern Faith Songs (Admin. by Music Services, Inc.)"
+bpm: '110'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "conversion"
-  - "baptism"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - conversion
+  - baptism
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-  - "os-southern-gospel-med"
-keywords: "os apo med, os southern gospel med, conversion, baptism"
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+  - os-southern-gospel-med
+keywords: 'os apo med, os southern gospel med, conversion, baptism'
+ccli: '59036'
+copyright: >-
+  1959 Mosie Lister Songs (Admin. by Music Services, Inc.) Southern Faith Songs
+  (Admin. by Music Services, Inc.)
+source: ''
 year: 1959
 medley:
-  - "[[I'VE ALREADY BEEN TO THE WATER]]"
-id: "AD1F48E9-6EB3-4AD3-8063-4006FBEDF243"
+  - '[[I''VE ALREADY BEEN TO THE WATER]]'
+id: AD1F48E9-6EB3-4AD3-8063-4006FBEDF243
 ---
-
 {artist: Mosie Lister, 1959}
 
 Original key c

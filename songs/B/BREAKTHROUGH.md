@@ -1,36 +1,40 @@
 ---
-title: "Breakthrough"
-artist: "Eddie James"
+title: Breakthrough
+artist: Eddie James
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "breakthrough"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - breakthrough
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "32C68C90-C815-406D-A084-90D58134A6FB"
+id: 32C68C90-C815-406D-A084-90D58134A6FB
 ---
-
 Arr:
 V1, V2, Cho,
 V1, V2, Cho, Cho,

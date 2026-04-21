@@ -1,22 +1,25 @@
 ---
-title: "Art In Me"
-artist: "Jars Of Clay"
-key: 
-tempo: 130
-time: 
-ccli: 
-copyright: 
+title: Art In Me
+artist: Jars Of Clay
+key: ''
+bpm: '130'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium-fast
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5CA96E29-F576-42D5-97CE-5B2A49F4BC86"
+id: 5CA96E29-F576-42D5-97CE-5B2A49F4BC86
 ---
-
 Key:
 
 Jars of Clay

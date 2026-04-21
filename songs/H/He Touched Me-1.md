@@ -1,28 +1,31 @@
 ---
-title: "He Touched Me-1"
-artist: "Bill and Gloria Gaither"
+title: He Touched Me-1
+artist: Bill and Gloria Gaither
 key: D
-tempo: 
-time: "3/4"
-ccli: "13072"
-copyright: "1964 William J. Gaither, Inc. ARR UBP of Gaither Copyright Management"
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "cleansing"
-  - "healing"
-  - "testimony"
+  - cleansing
+  - healing
+  - testimony
 genre: []
-energy: 
 profile:
-  - "os-apo-slow"
-  - "os-southern-gospel-slow"
-keywords: "os apo slow, cleansing, healing, testimony, os southern gospel slow"
-source: 
-year: 
+  - os-apo-slow
+  - os-southern-gospel-slow
+keywords: 'os apo slow, cleansing, healing, testimony, os southern gospel slow'
+ccli: '13072'
+copyright: '1964 William J. Gaither, Inc. ARR UBP of Gaither Copyright Management'
+source: ''
+year: ''
 medley:
-  - "[[There's Something About That Name]]"
-id: "F948887D-26D7-4F02-AA4D-D9017503364D"
+  - '[[There''s Something About That Name]]'
+id: F948887D-26D7-4F02-AA4D-D9017503364D
 ---
-
 MEDLEY: There's Something About That Name
 
 CHORUS:

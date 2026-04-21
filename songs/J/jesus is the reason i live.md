@@ -1,23 +1,26 @@
 ---
-title: "Jesus is the Reason I Live"
-artist: "Artist Name"
+title: Jesus is the Reason I Live
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B06FFCBD-350B-4EEC-AE85-864AD139B577"
+id: B06FFCBD-350B-4EEC-AE85-864AD139B577
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

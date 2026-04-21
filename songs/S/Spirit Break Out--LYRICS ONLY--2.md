@@ -1,23 +1,26 @@
 ---
-title: "Spirit Break Out--LYRICS ONLY--2"
-artist: "WILLIAM MCDOWELL"
+title: Spirit Break Out--LYRICS ONLY--2
+artist: WILLIAM MCDOWELL
 key: C
-tempo: 
-time: 
-ccli: "5833975"
-copyright: "2010 Thankyou"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "heaven"
+  - heaven
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5833975'
+copyright: 2010 Thankyou
+source: ''
+year: ''
 medley: []
-id: "85922DC2-93C3-4E23-9FEA-D1D829758398"
+id: 85922DC2-93C3-4E23-9FEA-D1D829758398
 ---
-
 Verse 1 (4x):
 Our Father
 All of heaven shouts Your Name

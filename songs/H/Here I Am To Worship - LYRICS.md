@@ -1,24 +1,27 @@
 ---
-title: "Here I Am To Worship - LYRICS"
-artist: "Tim Hughes"
+title: Here I Am To Worship - LYRICS
+artist: Tim Hughes
 key: E
-tempo: 
-time: 
-ccli: "3266032"
-copyright: "2000 Thankyou Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - mod-apo-med
+keywords: mod apo med
+ccli: '3266032'
+copyright: 2000 Thankyou Music
+source: ''
+year: ''
 medley: []
-id: "D8E9DB22-AB82-4227-B556-0A7C1DDD8CE4"
+id: D8E9DB22-AB82-4227-B556-0A7C1DDD8CE4
 ---
-
 VERSE 1:
 
 Light of the world

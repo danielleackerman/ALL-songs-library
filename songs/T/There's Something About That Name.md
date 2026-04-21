@@ -1,38 +1,42 @@
 ---
-title: "There's Something About That Name"
-artist: "Gloria Gaither, William J. Gaither"
+title: There's Something About That Name
+artist: 'Gloria Gaither, William J. Gaither'
 key: Eb
-tempo: 
-time: "3/4"
-ccli: "14064"
-copyright: "1970 William J Gaither, Inc, Admin. Gaither Copyright Management"
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "adoration"
-  - "his-name"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - jesus
+  - adoration
+  - his-name
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-med"
-  - "os-southern-gospel-med"
-keywords: "os apo med, os southern gospel med, adoration, his name, worship"
-source: "ORIGINAL KEY-Eb"
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-med
+  - os-southern-gospel-med
+keywords: 'os apo med, os southern gospel med, adoration, his name, worship'
+ccli: '14064'
+copyright: '1970 William J Gaither, Inc, Admin. Gaither Copyright Management'
+source: ORIGINAL KEY-Eb
+year: ''
 medley:
-  - "[[Falling in Love With Jesus]]"
-  - "[[WHAT A BEAUTIFUL NAME IT IS]]"
-id: "CA5345AD-1EA4-4A3E-999B-3894D6497239"
+  - '[[Falling in Love With Jesus]]'
+  - '[[WHAT A BEAUTIFUL NAME IT IS]]'
+id: CA5345AD-1EA4-4A3E-999B-3894D6497239
 ---
-
 medley: Falling in Love With Jesus / WHAT A BEAUTIFUL NAME IT IS
 
 [Eb]Jesus,  [EbM7]Jesus,  [Eb7]Je[Bbm/Eb]sus

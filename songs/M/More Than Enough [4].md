@@ -1,35 +1,39 @@
 ---
-title: "More Than Enough"
-artist: "Key of: Fm"
+title: More Than Enough
+artist: 'Key of: Fm'
 key: Fm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "060F2865-2A89-41EB-8C5C-4A5F7DFFD016"
+id: 92547D23-4260-4309-9A16-2EB0EB2A9DC5
 ---
-
 VERSE 1:
 My God is [Fm]more than [Eb]eno[Fm]ugh
 He will [Fm]supply all my needs

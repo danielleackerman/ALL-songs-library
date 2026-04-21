@@ -1,31 +1,35 @@
 ---
-title: "More Than Anything"
-artist: ""
+title: More Than Anything
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0297916A-4E6E-41E7-9F1A-D07D9DE2F539"
+id: 0297916A-4E6E-41E7-9F1A-D07D9DE2F539
 ---
-
 [Fm7] [Gm7] [AbM7]More [Bb7b9]than [EbM7]anything  [Fm7]
 
 [Bb13]More [Bb7b9]than [EbM7]anything  [Bb/Eb]   [Cm7]

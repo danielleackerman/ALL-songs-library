@@ -1,23 +1,26 @@
 ---
-title: "Even When"
-artist: "Jeremy Camp"
+title: Even When
+artist: Jeremy Camp
 key: G
-tempo: 
-time: 
-ccli: "4504308"
-copyright: "2004 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4504308'
+copyright: 2004 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "8538967D-4887-4729-A00D-A06337A5186B"
+id: 8538967D-4887-4729-A00D-A06337A5186B
 ---
-
 Intro:  G    Dsus   C
 [G]You know and You see T[Dsus]he times of my defeat
 [C]When I fail to realize [Eb]Your kind[Cm]ness reaches T[G]hrough all my fragile fears

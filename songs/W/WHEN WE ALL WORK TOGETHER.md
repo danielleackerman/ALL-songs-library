@@ -1,22 +1,25 @@
 ---
-title: "When We All Work Together"
-artist: ""
+title: When We All Work Together
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C13A7D8A-2E6E-457F-A5D5-B010C1098D79"
+id: C13A7D8A-2E6E-457F-A5D5-B010C1098D79
 ---
-
 Book: CHILDREN'S
 
 VERSE 1:

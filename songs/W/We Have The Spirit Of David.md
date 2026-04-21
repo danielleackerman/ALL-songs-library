@@ -1,35 +1,39 @@
 ---
-title: "We Have The Spirit Of David"
-artist: ""
+title: We Have The Spirit Of David
+artist: ''
 key: F
-tempo: 107
-time: 
-ccli: 
-copyright: 
+bpm: '107'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "presence"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - presence
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-  - "os-black-gospel"
-keywords: "os black gospel"
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+  - os-black-gospel
+keywords: os black gospel
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "078FD7BA-24D5-41A6-86CF-152D64B08460"
+id: 078FD7BA-24D5-41A6-86CF-152D64B08460
 ---
-
 CHORUS:
 [F]We have the Spirit of [Gm]David
 [Bb]We have the Spirit of [F]praise

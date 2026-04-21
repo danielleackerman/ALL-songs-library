@@ -1,24 +1,27 @@
 ---
-title: "Life Of Praise"
-artist: "Casting Crowns"
+title: Life Of Praise
+artist: Casting Crowns
 key: D
-tempo: 
-time: 
-ccli: "4196596"
-copyright: "2003 SWECS Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "life"
+  - praise
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4196596'
+copyright: 2003 SWECS Music
+source: ''
+year: ''
 medley: []
-id: "2BC45947-CA85-452B-A6B8-AFBEAFB6EE5B"
+id: 2BC45947-CA85-452B-A6B8-AFBEAFB6EE5B
 ---
-
 Intro:  4/4 moderately fast
 | D5 /// | //// | Gsus / G  /| Gsus / G / |
 

@@ -1,39 +1,43 @@
 ---
-title: "O I Want to See Him"
-artist: "R.H. Cornelius 1916"
+title: O I Want to See Him
+artist: R.H. Cornelius 1916
 key: G
-tempo: 50
-time: "12/8"
-ccli: "51687"
-copyright: "Public Domain"
+bpm: '50'
+time_sig: 12/8
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "sutl"
-  - "anticipation"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - sutl
+  - anticipation
 genre: []
-energy: slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "sutl, os apo med, anticipation"
-source: "SING UNTO THE LORD, 2"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: 'sutl, os apo med, anticipation'
+ccli: '51687'
+copyright: Public Domain
+source: 'SING UNTO THE LORD, 2'
+year: ''
 medley:
-  - "[[AT THE CROSS]]"
-id: "EED57805-B8A6-4864-9A70-E20B47490AC0"
+  - '[[AT THE CROSS]]'
+id: EED57805-B8A6-4864-9A70-E20B47490AC0
 ---
-
 original key Ab, Bb, G
 
 Medley: at the cross

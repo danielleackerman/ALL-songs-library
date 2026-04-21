@@ -1,36 +1,40 @@
 ---
-title: "Praise Is What I Do"
-artist: "William Murphy III"
+title: Praise Is What I Do
+artist: William Murphy III
 key: Eb
-tempo: 54
-time: 
-ccli: "3397815"
-copyright: "2001 Lilly Mack Music, M3M Music (Admin. Capitol CMG Publishing)"
+bpm: '54'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "praise"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - praise
 genre: []
-energy: slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "contemporary-gospel-slow"
-keywords: "contemporary gospel slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - contemporary-gospel-slow
+keywords: contemporary gospel slow
+ccli: '3397815'
+copyright: '2001 Lilly Mack Music, M3M Music (Admin. Capitol CMG Publishing)'
+source: ''
+year: ''
 medley: []
-id: "2B2E1B13-2D41-4B74-8FCF-A49EA0138729"
+id: 2B2E1B13-2D41-4B74-8FCF-A49EA0138729
 ---
-
 Version 2
 {artist: William Murphy III}
 

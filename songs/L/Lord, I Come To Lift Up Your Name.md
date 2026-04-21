@@ -1,22 +1,25 @@
 ---
-title: "Lord, I Come To Lift Up Your Name"
-artist: "Mark Condon"
+title: 'Lord, I Come To Lift Up Your Name'
+artist: Mark Condon
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3D28C0F1-3890-45D5-8356-5AE6B0205319"
+id: 3D28C0F1-3890-45D5-8356-5AE6B0205319
 ---
-
 CHORUS:
 [Ab/Bb]Lord, I [EbM7]come to [AbM7]lift up Your [Gm7]name   [Bbm7]  [Eb7]
 Lord, I [Ab]come to [Bb/Ab]give You [Gm7]praise   [Cm7]

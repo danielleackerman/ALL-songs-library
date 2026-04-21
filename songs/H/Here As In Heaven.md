@@ -1,24 +1,29 @@
 ---
-title: "Here As In Heaven"
-artist: "Elevation Worship"
+title: Here As In Heaven
+artist: Elevation Worship
 key: D
-tempo: 
-time: 
-ccli: "7051506"
-copyright: "2015 Music by Elevation Worship Publishing (Admin. by Essential Music Publishing LLC)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "heaven"
+  - love
+  - heaven
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7051506'
+copyright: >-
+  2015 Music by Elevation Worship Publishing (Admin. by Essential Music
+  Publishing LLC)
+source: ''
+year: ''
 medley: []
-id: "C7E8E83F-68BA-4AE6-A83A-A82C1F303D22"
+id: C7E8E83F-68BA-4AE6-A83A-A82C1F303D22
 ---
-
 INTRO:
 [D] - [G/B] - [D] - [G/B] - [A]
 [G] - [D] - [G] - [D]

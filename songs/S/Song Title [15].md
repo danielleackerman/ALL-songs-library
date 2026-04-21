@@ -1,30 +1,25 @@
 ---
-title: "Song Title"
-artist: ""
-key: F#
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Song Title
+artist: Artist Name
+key: Db
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "ED1A8D19-21B1-44B0-8874-C0F44F0D7283"
+id: A7162D01-E856-4587-BCDD-03AAC22CC66D
 ---
-
-[F#] [/] [/] [/] [F#11] [/] [/] [/] [Bmaj9] [/] [/] [F#] [/] [A#7#9] [/]
-
-[D#m9] [/] [/] [/]  [G#9] [/] [/] [/] [C#9] [/] [/] [/] [C#11] [/] [/] [/] [F#2]
-
-[B] [/] [/] [/] [B11] [/] [/] [/] [Emaj9] [/] [/] [B] [/] [D#7#9] [/]
-
-[G#m9] [/] [/] [/]  [C#9] [/] [/] [/] [F#9] [/] [/] [/] [F#11] [/] [/] [/] [B2]
-
-[E] [/] [/] [/] [E11] [/] [/] [/] [Amaj9] [/] [/] [E] [/] [G#7#9] [/]
-
-[C#m9] [/] [/] [/]  [F#9] [/] [/] [/] [B9] [/] [/] [/] [B11] [/] [/] [/] [E2]
+Hook:
+treble:  [Db] - [Gb] [F] [Gb] [Db] - [Gb] [Ab] [Bb] [Bb] [B] [Gb]
+bassline: [Db]         [Db/B]    [Gb/Bb]      [Gbm/A] [2x]

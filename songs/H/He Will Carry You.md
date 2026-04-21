@@ -1,34 +1,38 @@
 ---
-title: "He Will Carry You"
-artist: ""
+title: He Will Carry You
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "81E0887C-E32C-45FD-80CC-92A4001AA526"
+id: 81E0887C-E32C-45FD-80CC-92A4001AA526
 ---
-
 (Cho:)
 [Ab/Bb]If [Bb7b9]He [Eb2]carried the [Eb]weight of the [EbM7]world
 [Eb]u[Fm]pon [Eb]His [Fm7]shoulders, [Fm]I know my brother that [Bb7]He will [Bb7b9]carry [Eb]you.

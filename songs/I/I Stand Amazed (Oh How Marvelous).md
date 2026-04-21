@@ -1,49 +1,58 @@
 ---
-title: "I Stand Amazed (Oh How Marvelous)"
-artist: "Charles H. Gabriel"
+title: I Stand Amazed (Oh How Marvelous)
+artist: Charles H. Gabriel
 key: Eb
-tempo: 77
-time: "4/4"
-ccli: "17000449"
-copyright: "Words: Public Domain, Music: 1993 Lorenz Publishing Company, Admin. Lorenz Corp., Public Domain"
+bpm: '77'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "swing-ballad"
-  - "adoration"
-  - "aspiration"
-  - "atomement"
-  - "awesome"
-  - "beauty"
-  - "blood"
-  - "cross"
-  - "crucifixion"
-  - "declaration"
-  - "easter"
-  - "eternal-life"
-  - "jesus"
-  - "praise"
-  - "presence"
-  - "redemption"
-  - "sacrifice"
-  - "salvation"
-  - "savior"
-  - "saviour"
-  - "sin"
-  - "sorrow"
-  - "will"
-  - "worship"
+  - love
+  - swing-ballad
+  - adoration
+  - aspiration
+  - atomement
+  - awesome
+  - beauty
+  - blood
+  - cross
+  - crucifixion
+  - declaration
+  - easter
+  - eternal-life
+  - jesus
+  - praise
+  - presence
+  - redemption
+  - sacrifice
+  - salvation
+  - savior
+  - saviour
+  - sin
+  - sorrow
+  - will
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "os-apo-med-slow"
-keywords: "os apo med slow, swing ballad, adoration, aspiration, atomement, awesome, beauty, blood, cross, crucifixion, declaration, easter, eternal life, jesus, love, praise, presence, redemption, sacrifice, salvation, savior, saviour, sin, sorrow, will, worship"
-source: "1905"
-year: 
+  - os-apo-med-slow
+keywords: >-
+  os apo med slow, swing ballad, adoration, aspiration, atomement, awesome,
+  beauty, blood, cross, crucifixion, declaration, easter, eternal life, jesus,
+  love, praise, presence, redemption, sacrifice, salvation, savior, saviour,
+  sin, sorrow, will, worship
+ccli: '17000449'
+copyright: >-
+  Words: Public Domain, Music: 1993 Lorenz Publishing Company, Admin. Lorenz
+  Corp., Public Domain
+source: '1905'
+year: ''
 medley:
-  - "[[LIVING HE LOVED ME]]"
-id: "D6157509-21A7-4751-B12E-7C2B5AA36C0C"
+  - '[[LIVING HE LOVED ME]]'
+id: D6157509-21A7-4751-B12E-7C2B5AA36C0C
 ---
-
 Medley: living He loved me
 
 CHORUS:

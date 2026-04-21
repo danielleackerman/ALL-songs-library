@@ -1,23 +1,26 @@
 ---
-title: "Who Am I"
-artist: "Casting Crowns"
+title: Who Am I
+artist: Casting Crowns
 key: B
-tempo: 67
-time: 
-ccli: "4196651"
-copyright: "2003 Beach Street Records"
+bpm: '67'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "calling"
+  - calling
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4196651'
+copyright: 2003 Beach Street Records
+source: ''
+year: ''
 medley: []
-id: "6529C9FD-10B0-421D-946E-11DEF5129B76"
+id: 6529C9FD-10B0-421D-946E-11DEF5129B76
 ---
-
 (v1, b, c, v2, b, c, b, c, e)
 
 Intro: B  E  G#m  F# (x’s 2)

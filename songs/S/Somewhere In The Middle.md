@@ -1,24 +1,27 @@
 ---
-title: "Somewhere In The Middle"
-artist: "Casting Crowns"
+title: Somewhere In The Middle
+artist: Casting Crowns
 key: G
-tempo: 
-time: 
-ccli: "5077353"
-copyright: "2007 My Refuge Music / Club Zoo Music / SWECS Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "faith"
-  - "dreams"
+  - faith
+  - dreams
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5077353'
+copyright: 2007 My Refuge Music / Club Zoo Music / SWECS Music
+source: ''
+year: ''
 medley: []
-id: "D6B2324C-B58A-4137-AE09-84A3414D1498"
+id: D6B2324C-B58A-4137-AE09-84A3414D1498
 ---
-
 Capo 4th fret
 
      G

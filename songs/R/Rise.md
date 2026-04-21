@@ -1,22 +1,25 @@
 ---
-title: "Rise"
-artist: "Shawn McDonald"
+title: Rise
+artist: Shawn McDonald
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "2011 Sparrow Records"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2011 Sparrow Records
+source: ''
+year: ''
 medley: []
-id: "3C6FA364-DDD7-4E3B-B975-5DC628523530"
+id: 3C6FA364-DDD7-4E3B-B975-5DC628523530
 ---
-
 Capo 3
 
 <pre>Asus4   G6     A7sus4     Asus4/E

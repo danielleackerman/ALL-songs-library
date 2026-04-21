@@ -1,22 +1,25 @@
 ---
-title: "American Dream"
-artist: "Casting Crowns"
+title: American Dream
+artist: Casting Crowns
 key: D
-tempo: 
-time: 
-ccli: "4196558"
-copyright: "SWECS Music / Club Zoo Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4196558'
+copyright: SWECS Music / Club Zoo Music
+source: ''
+year: ''
 medley: []
-id: "7AB0CCD1-6E64-4441-9A94-9D34C9CF5F71"
+id: 7AB0CCD1-6E64-4441-9A94-9D34C9CF5F71
 ---
-
 [D5]All w[Bm]ork no play may have made Jack a dull boy
 [D5]But all [Bm]work no God has left Jack with a lost soul
 [D5]But he's moving on full steam

@@ -1,36 +1,40 @@
 ---
-title: "Can't Stop Praising His Name"
-artist: "Rick Porterfield"
+title: Can't Stop Praising His Name
+artist: Rick Porterfield
 key: Am
-tempo: 
-time: 
-ccli: "1947858"
-copyright: "1995 LionSong Praise! (Admin. LionSong Praise!)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-fast"
-  - "middle-eastern"
-  - "praise"
-  - "solo-songs"
-  - "traditional"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-fast
+  - middle-eastern
+  - praise
+  - solo-songs
+  - traditional
+  - jesus
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional"
-  - "mod-apo-fast"
-  - "mod-gospel-fast"
-keywords: "mod apo fast, mod gospel fast"
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional
+  - mod-apo-fast
+  - mod-gospel-fast
+keywords: 'mod apo fast, mod gospel fast'
+ccli: '1947858'
+copyright: 1995 LionSong Praise! (Admin. LionSong Praise!)
+source: ''
 year: 1995
 medley: []
-id: "3AFE3AB4-4B24-4BB5-9410-778E051C99F0"
+id: 3AFE3AB4-4B24-4BB5-9410-778E051C99F0
 ---
-
 VERSE 1:
 [Am]Holy,Holy. God Almighty.
 I will lift you up and Magn[F]ify your Na[G]me.  [F] [G] [Am]

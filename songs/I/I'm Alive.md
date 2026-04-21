@@ -1,23 +1,26 @@
 ---
-title: "I'm Alive"
-artist: "Jeremy Camp"
+title: I'm Alive
+artist: Jeremy Camp
 key: Db
-tempo: 
-time: 
-ccli: 
-copyright: "2008 Thirsty Moon River Publishing / Stolen Pride Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "alive"
+  - alive
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2008 Thirsty Moon River Publishing / Stolen Pride Music
+source: ''
+year: ''
 medley: []
-id: "4F742BE1-D9F4-483D-B967-07FE936A924A"
+id: 4F742BE1-D9F4-483D-B967-07FE936A924A
 ---
-
 [Bbm]I felt so overwhelmed with gui[F]lt
 I don't know how many times that I'd [Gb]fight it
 

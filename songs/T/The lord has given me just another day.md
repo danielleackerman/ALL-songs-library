@@ -1,22 +1,25 @@
 ---
-title: "The Lord Has Given Me Just Another Day"
-artist: ""
+title: The Lord Has Given Me Just Another Day
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CD15D5E9-B4DA-467A-A5EF-D52325CE57B4"
+id: CD15D5E9-B4DA-467A-A5EF-D52325CE57B4
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

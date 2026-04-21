@@ -1,33 +1,37 @@
 ---
-title: "Abide With Me"
-artist: "Henry Francis Lyte & W.H. Monk"
+title: Abide With Me
+artist: Henry Francis Lyte & W.H. Monk
 key: E
-tempo: 90
-time: "2/2"
-ccli: "43190"
-copyright: "Public Domain"
+bpm: '90'
+time_sig: 2/2
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "os-slow"
-  - "sutl"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - os-slow
+  - sutl
 genre: []
-energy: medium
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: "os slow, sutl"
-source: "Sing Unto The Lord Songbook, 16"
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: 'os slow, sutl'
+ccli: '43190'
+copyright: Public Domain
+source: 'Sing Unto The Lord Songbook, 16'
+year: ''
 medley: []
-id: "DF36B863-DCA0-42CB-8077-159DC08AE317"
+id: DF36B863-DCA0-42CB-8077-159DC08AE317
 ---
-
 VERSE 1:
 [E]A [G#m/B]bide [B7]with [C#m]me: [E/G#m]fast [A]falls [B]the [C#m]e[B/D#]ven[E]tide,
 [E]The [A/C#]dark[E/G#m]ness [A]deep[E]ens; [F#m7]Lord, [B/D#]with [E]me a[B]bide!

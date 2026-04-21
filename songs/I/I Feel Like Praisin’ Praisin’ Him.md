@@ -1,23 +1,26 @@
 ---
-title: "I Feel Like Praisin’ Praisin’ Him"
-artist: ""
+title: I Feel Like Praisin’ Praisin’ Him
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "AD576B7D-DF37-4649-978E-886D9D98415D"
+id: AD576B7D-DF37-4649-978E-886D9D98415D
 ---
-
 [Ab/Bb]I [Eb]feel like [Ebm]praisin’, [Ab/Eb]praisin’ [Eb]Him,
 
 [Bb/D]I [Cm]feel like praisin’, praisin’ Him.    [Bb/D].   [Eb]

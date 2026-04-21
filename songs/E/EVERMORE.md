@@ -1,35 +1,39 @@
 ---
-title: "Evermore"
-artist: "Geron Davis"
+title: Evermore
+artist: Geron Davis
 key: C
-tempo: 61
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '61'
+time_sig: 4/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-keywords: "mod. apo. slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+keywords: mod. apo. slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "88309F26-F8B2-4A7F-8B1C-8D24FA42CFE3"
+id: 88309F26-F8B2-4A7F-8B1C-8D24FA42CFE3
 ---
-
 V1:
 Ever[A#2]more I will love you. Ever[A#sus/C]more I will serve You.
 Ever[Fsus/D]more I will glorify the [D#]name of [Gm]the [F7sus]Lord.

@@ -1,22 +1,25 @@
 ---
-title: "Your Kingdom Come"
-artist: "MercyMe"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Your Kingdom Come
+artist: MercyMe
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "BE078A48-34D9-4271-AECA-5D03A3EBFB43"
+id: BE078A48-34D9-4271-AECA-5D03A3EBFB43
 ---
-
 Key:
 
 Your Kingdom Come

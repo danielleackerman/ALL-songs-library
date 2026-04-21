@@ -1,35 +1,39 @@
 ---
-title: "I Need A Touch"
-artist: "Geron Davis"
+title: I Need A Touch
+artist: Geron Davis
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "683CEBE3-90B7-48A5-B622-4A030C11E7D1"
+id: 683CEBE3-90B7-48A5-B622-4A030C11E7D1
 ---
-
 {artist: Geron Davis}
 {number: 2545077}
 

@@ -1,23 +1,26 @@
 ---
-title: "Are You Washed In The Blood"
-artist: ""
+title: Are You Washed In The Blood
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "blood"
+  - blood
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8F7B7353-A070-49BD-BE9A-98EB7F9E51D1"
+id: 8F7B7353-A070-49BD-BE9A-98EB7F9E51D1
 ---
-
 (Verse:1)
 
 [Bb/C]Have you [F]been to Jesus for the [Bb/F]cleansing [F]pow'r

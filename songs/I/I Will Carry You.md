@@ -1,24 +1,27 @@
 ---
-title: "I Will Carry You"
-artist: "Selah"
+title: I Will Carry You
+artist: Selah
 key: Ab
-tempo: 78
-time: 
-ccli: 
-copyright: "2008"
+bpm: '78'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "lullaby"
+  - lullaby
 genre: []
-energy: medium-slow
 profile:
-  - "contemp-christian-med-slow"
-keywords: "contemp christian med slow, lullaby"
-source: 
-year: 
+  - contemp-christian-med-slow
+keywords: 'contemp christian med slow, lullaby'
+ccli: ''
+copyright: '2008'
+source: ''
+year: ''
 medley: []
-id: "7825489A-148E-4119-9FE1-61BEBBD7A852"
+id: 7825489A-148E-4119-9FE1-61BEBBD7A852
 ---
-
 original key Ab
 
 INTRO:

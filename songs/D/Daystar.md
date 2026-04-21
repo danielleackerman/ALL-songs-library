@@ -1,32 +1,36 @@
 ---
-title: "Daystar"
-artist: "Steve Richardson"
+title: Daystar
+artist: Steve Richardson
 key: F
-tempo: 
-time: 
-ccli: "112588"
-copyright: "1988 Ariose Music, Administrators Capitol CMG Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "love"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - love
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '112588'
+copyright: '1988 Ariose Music, Administrators Capitol CMG Publishing'
+source: ''
+year: ''
 medley: []
-id: "A934FF1F-1AD2-4FDB-B52A-6897E7CA2F89"
+id: A934FF1F-1AD2-4FDB-B52A-6897E7CA2F89
 ---
-
 {artist: Steve Richardson}
 
 (Verse:1)

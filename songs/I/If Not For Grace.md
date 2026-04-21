@@ -1,36 +1,40 @@
 ---
-title: "If Not For Grace"
-artist: "Clint Brown"
+title: If Not For Grace
+artist: Clint Brown
 key: F
-tempo: 
-time: 
-ccli: "3205828"
-copyright: "2000 Tribe Music Group"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "grace"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - grace
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: '3205828'
+copyright: 2000 Tribe Music Group
+source: ''
+year: ''
 medley: []
-id: "F5373DD7-1096-42B2-859E-3A58F7421E7A"
+id: F5373DD7-1096-42B2-859E-3A58F7421E7A
 ---
-
 [F][F/A]  Where would I [Bb]be  [Bb/C]
 [C]      You only [F]know
 [F/A]  I'm Glad You [Bb]see  [Bb/C]

@@ -1,28 +1,31 @@
 ---
-title: "I Surrender All (Sing Unto The Lord 290)"
-artist: "Judson Wheeler Van DeVenter, Winfield Scott"
+title: I Surrender All (Sing Unto The Lord 290)
+artist: 'Judson Wheeler Van DeVenter, Winfield Scott'
 key: C
-tempo: 
-time: 
-ccli: "23189"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile:
-  - "os-ap0-slow"
-keywords: "os ap0 slow,"
-source: 
-year: 
+  - os-ap0-slow
+keywords: 'os ap0 slow,'
+ccli: '23189'
+copyright: Public Domain
+source: ''
+year: ''
 medley:
-  - "[[I WILL GIVE YOU ALL]]"
-  - "[[I SURRENDER ALL]]"
-  - "[[JESUS AT THE CENTER]]"
-  - "[[JESUS BE THE LORD OF ALL]]"
-id: "620B11AC-BCCB-4C80-9ADF-9D99F2210BFB"
+  - '[[I WILL GIVE YOU ALL]]'
+  - '[[I SURRENDER ALL]]'
+  - '[[JESUS AT THE CENTER]]'
+  - '[[JESUS BE THE LORD OF ALL]]'
+id: 620B11AC-BCCB-4C80-9ADF-9D99F2210BFB
 ---
-
 {artist: Judson Wheeler Van DeVenter, Winfield Scott}
 
 Medley: I will give You all / I surrender all / Jesus at the center / Jesus be the Lord of all

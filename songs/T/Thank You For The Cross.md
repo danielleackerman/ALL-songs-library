@@ -1,24 +1,27 @@
 ---
-title: "Thank You For The Cross"
-artist: "Mark Altrogge"
+title: Thank You For The Cross
+artist: Mark Altrogge
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "1990 Integrity's Praise! Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "cross"
+  - praise
+  - cross
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 1990 Integrity's Praise! Music
+source: ''
+year: ''
 medley: []
-id: "CACF5320-4D94-46A3-8EFB-67DCE14ADE0B"
+id: CACF5320-4D94-46A3-8EFB-67DCE14ADE0B
 ---
-
 CHORUS:
 [G]Thank you for the cross, the mighty cross[C]
 That [Am]God himself should die for such as [D]us

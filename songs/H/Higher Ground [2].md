@@ -1,35 +1,39 @@
 ---
-title: "Higher Ground"
-artist: ""
+title: Higher Ground
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E96FA387-4A3A-4B02-8F9E-F94CC7346779"
+id: 9EF188C2-E698-44D5-AC58-2DFB1277A165
 ---
-
 (Verse:1)
 [Bb/C]I'm press[C7]ing [F2]on [Eb/C] the upward [BbM7]way. [F/A] [Gm7]
 New heights I'm [F2]gain[Dm7]ing ev'ry [C7]day

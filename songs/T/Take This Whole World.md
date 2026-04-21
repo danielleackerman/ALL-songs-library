@@ -1,35 +1,39 @@
 ---
-title: "Take This Whole World"
-artist: "+ I Have Decided To Follow Jesus"
+title: Take This Whole World
+artist: + I Have Decided To Follow Jesus
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "696A4E24-E254-4C23-B67E-27BB7EE72878"
+id: 696A4E24-E254-4C23-B67E-27BB7EE72878
 ---
-
 originally performed by The Cathedrals
 
 CHORUS:

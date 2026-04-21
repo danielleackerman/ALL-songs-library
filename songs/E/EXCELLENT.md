@@ -1,33 +1,37 @@
 ---
-title: "Excellent"
-artist: "Martha D Munizzi / Michael Gungor"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Excellent
+artist: Martha D Munizzi / Michael Gungor
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-fast"
-  - "middle-eastern"
-  - "praise"
-  - "solo-songs"
-  - "traditional"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-fast
+  - middle-eastern
+  - praise
+  - solo-songs
+  - traditional
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C4574C84-A1B5-43D9-9CA2-96514E25FB93"
+id: C4574C84-A1B5-43D9-9CA2-96514E25FB93
 ---
-
 VERSE:
 All the nations of the earth now rejoice
 All the people of God sing His praise

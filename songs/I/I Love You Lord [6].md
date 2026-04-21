@@ -1,39 +1,44 @@
 ---
-title: "I Love You Lord"
-artist: "Laurie Klein"
-key: A
-tempo: 
-time: 
-ccli: "25266"
-copyright: "1978, 1980  and this arr. 1986 House of Mercy Music. Admin by Maranatha Music"
+title: I Love You Lord
+artist: Laurie Klein
+key: D
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "love"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - love
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '25266'
+copyright: '1978, 1980 House Of Mercy Music'
+source: ''
+year: ''
 medley: []
-id: "39A26488-E188-41CD-85CA-3D6F996463C3"
+id: 6619641B-2A67-4594-8CBC-2FB33CADAA5B
 ---
+INTRO:
+[G] [D] [Em7]
+[G] [D] [Em7]
 
-VERSE:
-[A]I Love You Lord, And I [E]lift my [A/C#]voice, To [D]wor[F#m]ship [Bm]You, O my [E]soul, rejoice!
-Take [A]joy, My King,  In [E]what You [A]hear, May it be a [D]sweet, [A]sweet [Bm]sound [E]in Your [A] ear.
+VERSE 1:
+I [D]love You Lord, and [G]I lift my [D]voice, [Em] [D]To [G]wor[D]ship [Em]You, [D]Oh my [A]soul re[A7]joice.
+Take [D]joy, my King, in [G]what You [D]hear, May it be a [G]sweet, [D]sweet [A]sound in Your [G]ea[D]r [A]
 
-VERSE:
-[A]I Love You Lord, And I [E]lift my [A/C#]voice, To [D]wor[A]ship [Bm7]You, O my [E]soul, rejoice!
-Take [A]joy, [Bm7]My [D]King,  [A]In [E]what [A]You [C#m7]hear,
-[A]May it be a [D]sweet, [C#m7]sweet [Bm]sound [E]in Your [A]ear.
-[A]May it be a [D]sweet, [C#m7]sweet [Bm]sound
-[C#m7]May it [A]be a [D]sweet, [A]sweet [Bm]sound [E]in Your [A]ear.
+VERSE 2:
+I [D]love You Lord and I [G]lift my [D]life, [Em] [D]To [G]give [D]to [Em]You as a [D]sacri[A]fice,
+Take [D]joy my King in [G]what you [D]see, Let Your [G]spirit of [A]love reign in [D]me.

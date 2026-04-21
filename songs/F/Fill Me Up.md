@@ -1,38 +1,42 @@
 ---
-title: "Fill Me Up"
-artist: "Will Reagan , performed by Jesus Culture"
+title: Fill Me Up
+artist: 'Will Reagan , performed by Jesus Culture'
 key: C
-tempo: 
-time: 
-ccli: "5910898"
-copyright: "2008 United Pursuit Music / Will Reagan Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "contemp-christian-slow"
-keywords: "contemp christian slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - contemp-christian-slow
+keywords: contemp christian slow
+ccli: '5910898'
+copyright: 2008 United Pursuit Music / Will Reagan Music
+source: ''
+year: ''
 medley:
-  - "[[SET A FIRE]]"
-  - "[[BREAK EVERY CHAIN]]"
-id: "67666178-04AA-4524-8ACB-6DCFEB3A529C"
+  - '[[SET A FIRE]]'
+  - '[[BREAK EVERY CHAIN]]'
+id: 67666178-04AA-4524-8ACB-6DCFEB3A529C
 ---
-
 Medley: set a fire / break every chain
 
 VERSE:

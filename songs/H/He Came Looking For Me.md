@@ -1,22 +1,25 @@
 ---
-title: "He Came Looking For Me"
-artist: "Gerald Crabb"
+title: He Came Looking For Me
+artist: Gerald Crabb
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "AFAA4036-7FFE-4F2B-8FFA-AC0A5AEFA9C8"
+id: AFAA4036-7FFE-4F2B-8FFA-AC0A5AEFA9C8
 ---
-
 Verse:1
 
 [G7sus]One night while [C]on life's raging sea

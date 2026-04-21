@@ -1,24 +1,27 @@
 ---
-title: "He's My Rock, My Sword, My Shield"
-artist: ""
+title: 'He''s My Rock, My Sword, My Shield'
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "rock"
+  - jesus
+  - rock
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "63F93555-8E88-422D-8163-B3ACF8A8E7C4"
+id: 63F93555-8E88-422D-8163-B3ACF8A8E7C4
 ---
-
 CHORUS:
 He's my [F]rock my sword my [F7]shield
 He's my [Bb]wheel in the middle of the [F]wheel

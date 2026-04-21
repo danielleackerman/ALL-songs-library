@@ -1,23 +1,26 @@
 ---
-title: "Courageous"
-artist: "Casting Crowns"
+title: Courageous
+artist: Casting Crowns
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5270ADBF-5428-40E0-90E5-1BF037EC75E0"
+id: 5270ADBF-5428-40E0-90E5-1BF037EC75E0
 ---
-
 INTRO:
 We were made to be [Em7]courageous
 We were made to lead the [C]way

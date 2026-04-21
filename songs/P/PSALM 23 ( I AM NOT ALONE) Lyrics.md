@@ -1,24 +1,27 @@
 ---
-title: "PSALM 23 ( I AM NOT ALONE) Lyrics"
-artist: "People and Songs"
+title: PSALM 23 ( I AM NOT ALONE) Lyrics
+artist: People and Songs
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "comfort"
-  - "victory"
+  - comfort
+  - victory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A4FB5159-6F14-4B95-A525-16368C41D961"
+id: A4FB5159-6F14-4B95-A525-16368C41D961
 ---
-
 VERSE 1:
 
 The Lord is my Shepherd, He goes before me

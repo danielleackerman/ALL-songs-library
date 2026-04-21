@@ -1,22 +1,25 @@
 ---
-title: "Come Into This House"
-artist: "Christy Ballastero"
+title: Come Into This House
+artist: Christy Ballastero
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "63106589-98E8-4CD9-94BB-0E32237FE3EF"
+id: 63106589-98E8-4CD9-94BB-0E32237FE3EF
 ---
-
 [F2]Come into this house with your [Eb] praise [Bb/D] on
 [F2]come into this house and bless His [C2] name[Bb/D][C/E]
 With your[F2] hands lifted high don't let this [Eb2] chance pass [Bb2/D]you by

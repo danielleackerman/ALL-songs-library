@@ -1,39 +1,43 @@
 ---
-title: "Thank You Lord"
-artist: "Don Moen"
+title: Thank You Lord
+artist: Don Moen
 key: F
-tempo: 91
-time: 
-ccli: "4220833"
-copyright: "2004 Integrity's Hosanna! Music"
+bpm: '91'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "praise"
-  - "thank"
-  - "contemporary-christian-med"
-  - "ccm"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - praise
+  - thank
+  - contemporary-christian-med
+  - ccm
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: "contemporary christian med, ccm"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: 'contemporary christian med, ccm'
+ccli: '4220833'
+copyright: 2004 Integrity's Hosanna! Music
+source: ''
+year: ''
 medley: []
-id: "5EDE49D1-D7EF-4ED9-9DAA-61640EF133AB"
+id: 5EDE49D1-D7EF-4ED9-9DAA-61640EF133AB
 ---
-
 INTRO:
 [F]  [C] [Bb2]  [C]  [F] [C] [Bb2] [C]
 

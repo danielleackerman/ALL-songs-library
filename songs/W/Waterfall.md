@@ -1,23 +1,26 @@
 ---
-title: "Waterfall"
-artist: "Chris Tomlin"
+title: Waterfall
+artist: Chris Tomlin
 key: G
-tempo: 
-time: 
-ccli: "7021940"
-copyright: "2014 Sixsteps Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7021940'
+copyright: 2014 Sixsteps Songs
+source: ''
+year: ''
 medley: []
-id: "C6D36884-1B7D-437A-92A8-FBBCB44DBEEF"
+id: C6D36884-1B7D-437A-92A8-FBBCB44DBEEF
 ---
-
 INTRO:
 G
 

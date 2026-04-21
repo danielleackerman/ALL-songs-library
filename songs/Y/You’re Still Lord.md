@@ -1,34 +1,38 @@
 ---
-title: "You’re Still Lord"
-artist: "Phil Johnson and Lanny Wolfe"
+title: You’re Still Lord
+artist: Phil Johnson and Lanny Wolfe
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
 year: 1985
 medley: []
-id: "9C207E06-CF6E-4E4C-90CA-82D9FBB80CAE"
+id: 9C207E06-CF6E-4E4C-90CA-82D9FBB80CAE
 ---
-
 VERSE 1:
 When I was just child, I heard a beautiful story
 How you loved me so, How died on Calvary

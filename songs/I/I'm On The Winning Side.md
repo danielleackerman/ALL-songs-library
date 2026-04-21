@@ -1,37 +1,41 @@
 ---
-title: "I'm On The Winning Side"
-artist: ""
+title: I'm On The Winning Side
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "my-edit"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - my-edit
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med,  my edit"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: 'os apo med,  my edit'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F5DC8E56-52A2-4F62-9802-218C114B75F4"
+id: F5DC8E56-52A2-4F62-9802-218C114B75F4
 ---
-
 [Eb]
 [Ab/Bb]I’m [Eb]on the winning side, [I-vi-I7 vamp 2x]I’m on the winning  side
 [Eb]Jesus [Bb/D]won the [Cm7]victory and [F7]in Him  I’ll [Bb7]abide

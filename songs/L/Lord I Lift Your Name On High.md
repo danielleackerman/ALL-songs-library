@@ -1,22 +1,25 @@
 ---
-title: "Lord I Lift Your Name On High"
-artist: "Lincoln Brewster"
+title: Lord I Lift Your Name On High
+artist: Lincoln Brewster
 key: G
-tempo: 
-time: 
-ccli: "117947"
-copyright: "1989 Marantha Praise, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Capo on First Fret; All chords relative to capo"
-year: 
+keywords: ''
+ccli: '117947'
+copyright: '1989 Marantha Praise, Inc.'
+source: Capo on First Fret; All chords relative to capo
+year: ''
 medley: []
-id: "C9ECA33D-9BD8-497A-935A-D2D8F14E0848"
+id: C9ECA33D-9BD8-497A-935A-D2D8F14E0848
 ---
-
 Intro riff:
 [D]-6-6-6-5-6--6-6-6-5-6--8-8-8-6-8--8-8-8-6-8-
 

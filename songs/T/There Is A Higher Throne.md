@@ -1,22 +1,25 @@
 ---
-title: "There Is A Higher Throne"
-artist: "Rachel Lampa"
+title: There Is A Higher Throne
+artist: Rachel Lampa
 key: E
-tempo: 
-time: 
-ccli: "3994672"
-copyright: "2002 Thankyou Music (Admin. by EMI Christian Music Publishing)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3994672'
+copyright: 2002 Thankyou Music (Admin. by EMI Christian Music Publishing)
+source: ''
+year: ''
 medley: []
-id: "5FCF7A00-CED4-4F03-A6BA-863EA8211EE3"
+id: 5FCF7A00-CED4-4F03-A6BA-863EA8211EE3
 ---
-
 E  A2  E  A2
 INTRO:
 

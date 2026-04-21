@@ -1,37 +1,41 @@
 ---
-title: "How Great Is Our God"
-artist: "Chris Tomlin"
+title: How Great Is Our God
+artist: Chris Tomlin
 key: C
-tempo: 76
-time: "4/4"
-ccli: "4348399"
-copyright: "2004 worshiptogether.com songs / sixsteps Music / Alletrop Music"
+bpm: '76'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "contemporary-christian-med"
-  - "ccli"
-  - "ccm"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - contemporary-christian-med
+  - ccli
+  - ccm
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: "contemporary christian med, ccli, ccm"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: 'contemporary christian med, ccli, ccm'
+ccli: '4348399'
+copyright: 2004 worshiptogether.com songs / sixsteps Music / Alletrop Music
+source: ''
+year: ''
 medley: []
-id: "3FF87EC4-0BDD-4FF2-AFA0-77E6F0937768"
+id: 3FF87EC4-0BDD-4FF2-AFA0-77E6F0937768
 ---
-
 CHORUS:
 How [C]great is [C2]our God, [G6]sing with me,
 How [Am7]great is our God, [G6]all will see

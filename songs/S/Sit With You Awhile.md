@@ -1,22 +1,25 @@
 ---
-title: "Sit With You Awhile"
-artist: "MercyMe"
+title: Sit With You Awhile
+artist: MercyMe
 key: G
-tempo: 
-time: 
-ccli: "818026"
-copyright: "1992 Shepherd's Heart Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "As performed by MercyMe"
-year: 
+keywords: ''
+ccli: '818026'
+copyright: '1992 Shepherd''s Heart Music, Inc.'
+source: As performed by MercyMe
+year: ''
 medley: []
-id: "AB0867E6-D5E3-467E-BE0B-04FE42DB1540"
+id: AB0867E6-D5E3-467E-BE0B-04FE42DB1540
 ---
-
 Wh[G]en I cannot feel,[Gmaj7]
 When my w[C]ounds don't heal[Gmaj7/C]
 Lord I [Am7]humbly kneel[C],

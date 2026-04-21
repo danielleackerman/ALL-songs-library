@@ -1,25 +1,28 @@
 ---
-title: "Give Him The Glory | Chordify version"
-artist: ""
+title: Give Him The Glory | Chordify version
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[SATAN THE BLOOD]]"
-  - "[[I'VE GOT A RIGHT TO PRAISE THE LORD]]"
-id: "F8952A73-9854-4814-B7DA-38019F852FDD"
+  - '[[SATAN THE BLOOD]]'
+  - '[[I''VE GOT A RIGHT TO PRAISE THE LORD]]'
+id: F8952A73-9854-4814-B7DA-38019F852FDD
 ---
-
 Medley: Satan the blood / I've got a right to praise the Lord
 
 INTRO:

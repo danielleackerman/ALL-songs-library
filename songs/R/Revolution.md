@@ -1,22 +1,25 @@
 ---
-title: "Revolution"
-artist: "Jars Of Clay"
+title: Revolution
+artist: Jars Of Clay
 key: A
-tempo: 
-time: 
-ccli: "3604113"
-copyright: "2002 Bridge Building Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3604113'
+copyright: '2002 Bridge Building Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "60217DB1-FBD5-41CF-B038-E2299B91112F"
+id: 60217DB1-FBD5-41CF-B038-E2299B91112F
 ---
-
 Intro - F#5       A5           D5         B5
 [F#5]Peace ta[D5]kes a taxi T[A5]o the unde[B5]rground
 I wanna love the world But I don't know how

@@ -1,31 +1,35 @@
 ---
-title: "You Are My All In All"
-artist: "Dennis Jernigan"
+title: You Are My All In All
+artist: Dennis Jernigan
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9B44697E-3EF9-4772-A5C1-75259237A9D2"
+id: 9B44697E-3EF9-4772-A5C1-75259237A9D2
 ---
-
 VERSE 1:
 [F]You are my [C/E]strength when [Am7]I am [Dm7]weak,
 You are the [Am7]treasure that I [Bb2]seek

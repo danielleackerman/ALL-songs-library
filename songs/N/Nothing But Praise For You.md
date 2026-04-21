@@ -1,34 +1,38 @@
 ---
-title: "Nothing But Praise For You"
-artist: "Timothy Spell"
+title: Nothing But Praise For You
+artist: Timothy Spell
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "696634A6-53BD-4EAE-8913-24B8E216AA24"
+id: 696634A6-53BD-4EAE-8913-24B8E216AA24
 ---
-
 CHORUS:
 I have nothing but praise for you, Lod
 I have nothing but praise for you

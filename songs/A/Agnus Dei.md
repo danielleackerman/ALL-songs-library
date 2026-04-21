@@ -1,24 +1,27 @@
 ---
-title: "Agnus Dei"
-artist: "Third Day"
+title: Agnus Dei
+artist: Third Day
 key: C
-tempo: 
-time: 
-ccli: "626713"
-copyright: "1990 Milene Music, Inc"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "alleluia"
-  - "almighty"
+  - alleluia
+  - almighty
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '626713'
+copyright: '1990 Milene Music, Inc'
+source: ''
+year: ''
 medley: []
-id: "E4D08DCD-93A4-4866-BB0E-79CFF2594593"
+id: E4D08DCD-93A4-4866-BB0E-79CFF2594593
 ---
-
 INTRO:
 [C][C/G][C/G][F]
 

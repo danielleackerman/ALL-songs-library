@@ -1,22 +1,25 @@
 ---
-title: "Does Anybody Hear Her"
-artist: "Casting Crowns"
+title: Does Anybody Hear Her
+artist: Casting Crowns
 key: F
-tempo: 
-time: 
-ccli: "4578860"
-copyright: "2005 Club Zoo Music / SWECS Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4578860'
+copyright: 2005 Club Zoo Music / SWECS Music
+source: ''
+year: ''
 medley: []
-id: "046CAB50-4B56-44C6-B6A4-D47451D5B434"
+id: 046CAB50-4B56-44C6-B6A4-D47451D5B434
 ---
-
 [F] She is running
 [C] A hundred miles an [Dm]hour
 [C]In the wrong dir[Bb]ection

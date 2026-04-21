@@ -1,35 +1,39 @@
 ---
-title: "I've Got a Right to Praise the Lord"
-artist: ""
+title: I've Got a Right to Praise the Lord
+artist: ''
 key: F
-tempo: 120
-time: 
-ccli: 
-copyright: 
+bpm: '120'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FCB3DE2E-FA4B-4134-930C-2DA745C65D2F"
+id: F6A690BC-FD63-45AD-9280-7A1D8D3CE84A
 ---
-
 CHORUS:
 [F]I've got a [Bb]right to praise the [F]Lord
 I've got a [G7]right to lift my [C7]voice

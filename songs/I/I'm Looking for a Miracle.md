@@ -1,34 +1,38 @@
 ---
-title: "I'm Looking for a Miracle"
-artist: ""
+title: I'm Looking for a Miracle
+artist: ''
 key: G
-tempo: 136
-time: 
-ccli: 
-copyright: 
+bpm: '136'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "592C7A9D-FED5-42F0-B59B-1A460C33E274"
+id: 592C7A9D-FED5-42F0-B59B-1A460C33E274
 ---
-
 CHORUS:
 I'm looking for a [G]miracle
 I expect the im[D]possible

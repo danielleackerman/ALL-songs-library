@@ -1,23 +1,26 @@
 ---
-title: "Broken Together"
-artist: "Casting Crowns"
+title: Broken Together
+artist: Casting Crowns
 key: D
-tempo: 
-time: 
-ccli: "7009514"
-copyright: "My Refuge Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "dreams"
+  - dreams
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7009514'
+copyright: My Refuge Music
+source: ''
+year: ''
 medley: []
-id: "519456D2-BF87-4D9C-8247-A398BFCDFFBF"
+id: 519456D2-BF87-4D9C-8247-A398BFCDFFBF
 ---
-
 INTRO:
 [D] - [Am] - [G]
 [D] - [Am] - [G] - [D]

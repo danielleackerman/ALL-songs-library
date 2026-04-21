@@ -1,23 +1,26 @@
 ---
-title: "I Know Your Calling"
-artist: "Jeremy Camp"
+title: I Know Your Calling
+artist: Jeremy Camp
 key: G
-tempo: 
-time: 
-ccli: "3902963"
-copyright: "2002 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "calling"
+  - calling
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3902963'
+copyright: 2002 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "C4316D62-BEBF-4FE0-B002-A65E502A0DFB"
+id: C4316D62-BEBF-4FE0-B002-A65E502A0DFB
 ---
-
 Capo 4
 
 [G]A broken [D]image is [G]sometimes what I [C]see

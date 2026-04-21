@@ -1,27 +1,30 @@
 ---
-title: "Give Him The Highest Praise"
-artist: "Martha Munizzi"
+title: Give Him The Highest Praise
+artist: Martha Munizzi
 key: Eb
-tempo: 
-time: 
-ccli: "2442321"
-copyright: "1998 Martha Munizzi Music (Admin. by Say the Name Publishing)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "jazzy"
+  - praise
+  - jazzy
 genre: []
-energy: 
 profile:
-  - "mod-apo-med"
-  - "comtemp-christian-med"
-keywords: "mod apo med, comtemp christian med, jazzy"
-source: 
-year: 
+  - mod-apo-med
+  - comtemp-christian-med
+keywords: 'mod apo med, comtemp christian med, jazzy'
+ccli: '2442321'
+copyright: 1998 Martha Munizzi Music (Admin. by Say the Name Publishing)
+source: ''
+year: ''
 medley:
-  - "[[I LOVE TO SING YOUR PRAISE LORD]]"
-id: "6E521370-8D34-48A9-8BFA-161ED79BC6B5"
+  - '[[I LOVE TO SING YOUR PRAISE LORD]]'
+id: 6E521370-8D34-48A9-8BFA-161ED79BC6B5
 ---
-
 {artist: Martha Munizzi}
 
 Medley: I love to sing Your praise Lord

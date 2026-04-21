@@ -1,70 +1,52 @@
 ---
-title: "It's Because of You"
-artist: "144 BPM"
-key: C
-tempo: 144
-time: 
-ccli: 
-copyright: 
+title: It's Because of You
+artist: Eddie James
+key: Eb
+bpm: '150'
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "joy"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - mod-gospel-fast
+keywords: mod gospel fast
+ccli: ''
+copyright: ''
+source: ORIGINAL KEY Ab
+year: 2008
 medley: []
-id: "6DF489D8-83F9-48A6-97F3-2DF0513C2F48"
+id: 9AAA350B-22F9-479E-938D-70EFFDBB9B54
 ---
+verse 1: unison
+
+[Eb]Every time I [Bb]lift my hands it's [Cm]because of You[Ab]
+[Eb]Every time I [Bb]lift my voice it's [Cm]because of You[Ab]
+[Eb]Every time I [Bb]give You praise it's [Cm]because of You[Ab]
+[Eb]Every time I [Bb]bless Your name it's  [Cm]because of You[Ab]
 
 CHORUS:
-Every time I lift my hands it's because of You
-Every time I lift my voice it's because of You
-Every time I give You praise it's because of You
-Every time I bless Your name it's because of You
 
-BRIDGE:
-It's because of You that I sing my praise
-It's because of You I sing
-It's because of You that I worship and bow down to the name every day
-It's because of You that I dance
-It's because of You that I shout
-It's because of You that I leap for joy with a heart that has no doubt
-
-Every time I lift my hands it's because of You
-Every time I lift my voice it's because of You
-Every time I give You praise it's because of You
-Every time I bless Your name it's because of You
-
-It's because of You that I sing
-It's because of You that I dance
-It's because of You that I worship and bow down to Your name every day
-It's because of You that I dance
-It's because of You that I shout
-It's because of You that I leap for joy with a heart that has no doubt
-
-Every time I lift my hands it's because of You
-Every time I lift my voice it's because of You
-Every time I give You praise it's because of You
-Every time I bless Your name it's because of You
-
-It's because of You that I sing
-It's because of You that I praise
-It's because of You that I worship and bow down to Your name every day
-It's because of You that I dance
-It's because of You that I shout
-It's because of You that I leap for joy with a heart that has no doubt
+It's [Eb]because of You that I [Bb]sing
+It's [Cm]because of You that I [Ab]praise
+It's [Eb]because of You that I [Bb]worship and bow [Cm]down to Your name every [Ab]day
+It's [Eb]because of You that I [Bb]dance
+It's [Cm]because of You that I [Ab]shout
+It's [Eb]because of You that I [Bb]leap for joy with a [Cm]heart that has no [Ab]doubt

@@ -1,22 +1,25 @@
 ---
-title: "Completely Free"
-artist: "Big Daddy Weave"
+title: Completely Free
+artist: Big Daddy Weave
 key: D
-tempo: 
-time: 
-ccli: "3504536"
-copyright: "2000 Open worship, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3504536'
+copyright: '2000 Open worship, Inc.'
+source: ''
+year: ''
 medley: []
-id: "BFF079BC-7F96-416F-93B4-93DA08A0A8A4"
+id: BFF079BC-7F96-416F-93B4-93DA08A0A8A4
 ---
-
 B[D]roken and po[Em]ured out for the lov[G]e of His creation  [D]
 [D/F#]God paid a debt t[G]hat He didn't owe      [Asus4]             [D]
 [D7]Bearing my pai[G]n for not one was His[D/F#] equal       [A]

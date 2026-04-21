@@ -1,24 +1,27 @@
 ---
-title: "O Come Let Us Adore Him"
-artist: ""
+title: O Come Let Us Adore Him
+artist: ''
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "christ"
+  - jesus
+  - christ
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E7828336-2CF5-431B-AEE6-7001C0CB683F"
+id: E7828336-2CF5-431B-AEE6-7001C0CB683F
 ---
-
 VERSE 1:
 [D]O come [A]let [D]us [A]ado[D]re Him,
 [D]O come [A]let [D]us [A]ado[D]re [A]Him,

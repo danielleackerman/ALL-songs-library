@@ -1,32 +1,36 @@
 ---
-title: "I Will Praise Him"
-artist: ""
+title: I Will Praise Him
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "praise"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - praise
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "83E8E7AE-C964-4DD7-AE30-C8E3546EBFA5"
+id: 83E8E7AE-C964-4DD7-AE30-C8E3546EBFA5
 ---
-
 VERSE 1:
 When I saw the cleansing fountain,
 Open wide for all my sin,

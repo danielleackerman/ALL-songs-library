@@ -1,23 +1,28 @@
 ---
-title: "Worship You"
-artist: "MercyMe"
+title: Worship You
+artist: MercyMe
 key: D
-tempo: 
-time: 
-ccli: "3607608"
-copyright: "2001 Designer Music Group, Inc. / Minnie Partners Music / Songs From The Indigo Room"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "I worship you"
-year: 
+keywords: ''
+ccli: '3607608'
+copyright: >-
+  2001 Designer Music Group, Inc. / Minnie Partners Music / Songs From The
+  Indigo Room
+source: I worship you
+year: ''
 medley: []
-id: "168007F5-C4F0-4231-9208-297760C551B8"
+id: 168007F5-C4F0-4231-9208-297760C551B8
 ---
-
 Capo1
 D=XX0232 A=X02220 G=320003 Bm=XX0432 Dadd4=XX0032 Asus=x02230
 

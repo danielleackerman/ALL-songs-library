@@ -1,24 +1,29 @@
 ---
-title: "Blessed Redeemer"
-artist: "Casting Crowns"
+title: Blessed Redeemer
+artist: Casting Crowns
 key: G
-tempo: 
-time: 
-ccli: "5632671"
-copyright: "2009 BanaHama Tunes / Word Music, LLC / My Refuge Music / Sony/ATV Tree Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "calvary"
-  - "redeemer"
+  - calvary
+  - redeemer
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5632671'
+copyright: >-
+  2009 BanaHama Tunes / Word Music, LLC / My Refuge Music / Sony/ATV Tree
+  Publishing
+source: ''
+year: ''
 medley: []
-id: "DDF03D36-3992-45BB-A76E-CFA3829DDBBB"
+id: DDF03D36-3992-45BB-A76E-CFA3829DDBBB
 ---
-
 VERSE 1:
 [Em]Up Calvary’s [G]mountain one dreadful [D]morn
 Walked Christ my [Am7]Savior, weary and [Em7]worn

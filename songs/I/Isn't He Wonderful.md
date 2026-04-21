@@ -1,33 +1,37 @@
 ---
-title: "Isn't He Wonderful"
-artist: "Carman"
+title: Isn't He Wonderful
+artist: Carman
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "727CD716-2788-4520-92A2-1CD9CD3B0004"
+id: 727CD716-2788-4520-92A2-1CD9CD3B0004
 ---
-
 CHORUS:
 [Bb/C]Isn't[F]He wonderful,  [F7]wonder[Bb]ful,  wonder[Gm7]ful
 Isn't  [C7]Jesus  my  lord  wonder[F]ful         [Bb/C]

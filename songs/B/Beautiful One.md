@@ -1,23 +1,26 @@
 ---
-title: "Beautiful One"
-artist: "Voice Leading Version"
+title: Beautiful One
+artist: Voice Leading Version
 key: D
-tempo: 
-time: 
-ccli: "3915912"
-copyright: "2002 Thankyou Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Jeremy Camp"
-year: 
+keywords: ''
+ccli: '3915912'
+copyright: 2002 Thankyou Music
+source: Jeremy Camp
+year: ''
 medley: []
-id: "1D35D4B6-6AF4-41EF-B401-95EA715D6BB3"
+id: 1D35D4B6-6AF4-41EF-B401-95EA715D6BB3
 ---
-
 INTRO:
 [G] [A] [G/B] [A/C#] [G] [A] [D] [D]
 

@@ -1,23 +1,26 @@
 ---
-title: "Love Heals Your Heart"
-artist: "Third Day"
+title: Love Heals Your Heart
+artist: Third Day
 key: E
-tempo: 
-time: 
-ccli: "4586034"
-copyright: "2005 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4586034'
+copyright: 2005 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "1DF6FAE6-25EA-464A-A589-D90F1E91610B"
+id: 1DF6FAE6-25EA-464A-A589-D90F1E91610B
 ---
-
 INTRO:
 [E]     [C#m]    [A2]   (2x)
 

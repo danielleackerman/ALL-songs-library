@@ -1,24 +1,27 @@
 ---
-title: "Do You Hear What I Hear?"
-artist: "Third Day"
+title: Do You Hear What I Hear?
+artist: Third Day
 key: C
-tempo: 
-time: 
-ccli: "556656"
-copyright: "1990 Birdwing Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "goodness"
-  - "light"
+  - goodness
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '556656'
+copyright: 1990 Birdwing Music
+source: ''
+year: ''
 medley: []
-id: "976DF323-967C-4A01-AB87-6ECCD422B043"
+id: 976DF323-967C-4A01-AB87-6ECCD422B043
 ---
-
 [Am]Said the night wind to the little lamb
 [C]Do you see what I see?
 [Am]Way up in the sky little lamb

@@ -1,22 +1,25 @@
 ---
-title: "Word Of God Speak"
-artist: "MercyMe"
+title: Word Of God Speak
+artist: MercyMe
 key: G
-tempo: 
-time: 
-ccli: "3912788"
-copyright: "2002 Simpleville Music / Songs From The Indigo Room / Wordspring Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3912788'
+copyright: '2002 Simpleville Music / Songs From The Indigo Room / Wordspring Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "4ECFEC25-C638-4F82-BB6D-AA077B297E33"
+id: 4ECFEC25-C638-4F82-BB6D-AA077B297E33
 ---
-
 INTRO:
 [G] [C2] [G] [C2] [G] [C2] [G] [C2]
 

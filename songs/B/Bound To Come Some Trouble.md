@@ -1,24 +1,27 @@
 ---
-title: "Bound To Come Some Trouble"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Bound To Come Some Trouble
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "life"
+  - jesus
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F29A27BC-63AE-41F2-B9D7-0294F66AD499"
+id: F29A27BC-63AE-41F2-B9D7-0294F66AD499
 ---
-
 Key:
 
 Bound To Come Some Trouble

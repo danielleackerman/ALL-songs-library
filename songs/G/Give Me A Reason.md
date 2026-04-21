@@ -1,22 +1,25 @@
 ---
-title: "Give Me A Reason"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Give Me A Reason
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F06A633C-B05E-48FD-9A10-8CDCC88C77AC"
+id: F06A633C-B05E-48FD-9A10-8CDCC88C77AC
 ---
-
 Key:
 
 [A]  [G]  [D]  [C7]  (2x)

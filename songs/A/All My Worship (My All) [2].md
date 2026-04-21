@@ -1,26 +1,29 @@
 ---
-title: "All My Worship (My All)"
-artist: "J.D. Webb"
+title: All My Worship (My All)
+artist: J.D. Webb
 key: Db
-tempo: 56
-time: 
-ccli: 
-copyright: 
+bpm: '56'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "worship"
+  - praise
+  - worship
 genre: []
-energy: slow
 profile:
-  - "mod-apo-slow"
-  - "mod-gospel-slow"
-keywords: "mod apo slow, mod gospel slow"
-source: 
-year: 
+  - mod-apo-slow
+  - mod-gospel-slow
+keywords: 'mod apo slow, mod gospel slow'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F45648DC-D895-4078-B9D5-F66E51C5BD1F"
+id: FCCB1844-3522-419A-987B-0990F89F1833
 ---
-
 [Intro:][Db][Bbm][Gb][Ab11]
 
 VERSE 1:

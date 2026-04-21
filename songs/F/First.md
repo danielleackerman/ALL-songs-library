@@ -1,22 +1,25 @@
 ---
-title: "First"
-artist: "Lauren Daigle"
+title: First
+artist: Lauren Daigle
 key: C
-tempo: 
-time: 
-ccli: "7039076"
-copyright: "2015 Open Hands Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7039076'
+copyright: 2015 Open Hands Music
+source: ''
+year: ''
 medley: []
-id: "B7121AC8-AB2E-460D-B563-FDFAEC8E1A28"
+id: B7121AC8-AB2E-460D-B563-FDFAEC8E1A28
 ---
-
 VERSE 1:
 [Am]Before I bring my need, I will br[G]ing my h[F]eart
 [Am]Before I lift my cares, I will l[G]ift my a[F]rms

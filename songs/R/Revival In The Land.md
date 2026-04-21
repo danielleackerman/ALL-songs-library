@@ -1,34 +1,38 @@
 ---
-title: "Revival In The Land"
-artist: "Brooklyn Tabernacle Choir"
+title: Revival In The Land
+artist: Brooklyn Tabernacle Choir
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "revival"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - revival
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-keywords: 
-source: "Renee Morris"
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: Renee Morris
+year: ''
 medley: []
-id: "C7E62FA5-24C4-4B37-84D9-557E6D50A4EF"
+id: C7E62FA5-24C4-4B37-84D9-557E6D50A4EF
 ---
-
 VERSE 1:
 In the last days proclaimed by the prophet Joel
 God's gonna pour His Spirit on every soul

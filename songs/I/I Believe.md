@@ -1,21 +1,24 @@
 ---
-title: "I Believe"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: I Believe
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "believe"
+  - believe
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "77929B0F-B69E-4BDC-85A0-F730F9189C6B"
+id: 77929B0F-B69E-4BDC-85A0-F730F9189C6B
 ---
-
 

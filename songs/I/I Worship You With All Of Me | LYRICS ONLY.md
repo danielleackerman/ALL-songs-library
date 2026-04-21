@@ -1,23 +1,26 @@
 ---
-title: "I Worship You With All Of Me | LYRICS ONLY"
-artist: ""
+title: I Worship You With All Of Me | LYRICS ONLY
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E2DB3BBC-A782-4CD3-BBD7-12E5E7B25FFE"
+id: E2DB3BBC-A782-4CD3-BBD7-12E5E7B25FFE
 ---
-
 CHORUS:
 
 I worship You with all of me

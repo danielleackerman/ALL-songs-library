@@ -1,37 +1,41 @@
 ---
-title: "Worth"
-artist: "Anthony Brown"
+title: Worth
+artist: Anthony Brown
 key: D
-tempo: 59
-time: 
-ccli: 
-copyright: 
+bpm: '59'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium"
-  - "medium-slow"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "life"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium
+  - medium-slow
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - life
 genre: []
-energy: slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-medium-slow-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-medium-slow-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7C29C555-7D2D-473A-991F-CC408519FD34"
+id: A0CEE862-B979-4529-96C6-824ECCE705A0
 ---
-
 [Intro.] [(][B] [B] [F#] [E] [D] [Bb][)]
 
 You thought I was worth [D]saving

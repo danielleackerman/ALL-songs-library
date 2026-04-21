@@ -1,22 +1,25 @@
 ---
-title: "Boy On A String"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Boy On A String
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "2C6EAE37-9085-4821-8FBD-C164BDCF53D3"
+id: 2C6EAE37-9085-4821-8FBD-C164BDCF53D3
 ---
-
 Key:
 
 ----------------------------------------------------

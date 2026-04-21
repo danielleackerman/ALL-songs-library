@@ -1,37 +1,41 @@
 ---
-title: "I Will Sing Unto the Lord"
-artist: "Gateway College"
+title: I Will Sing Unto the Lord
+artist: Gateway College
 key: Dm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "middle-eastern"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "his-name"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - middle-eastern
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - his-name
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-middle-eastern-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-middle-eastern-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "04C10DBE-4B51-476E-A94E-5B083C896600"
+id: 04C10DBE-4B51-476E-A94E-5B083C896600
 ---
-
 Key of: Em
 
 INTRO:

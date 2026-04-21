@@ -1,25 +1,28 @@
 ---
-title: "Oh, How I Love Jesus"
-artist: "F. Whitfield"
+title: 'Oh, How I Love Jesus'
+artist: F. Whitfield
 key: F
-tempo: 
-time: "6/8"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 6/8
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile:
-  - "o-s-apo-med"
-keywords: "o. s. apo. med."
-source: 
-year: 
+  - o-s-apo-med
+keywords: o. s. apo. med.
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "12B67493-DB07-428D-B42F-FD59644D686F"
+id: 12B67493-DB07-428D-B42F-FD59644D686F
 ---
-
 {artist: F. Whitfield}
 
 [Fmaj7]Oh [C7]how I [C9] love [F]J[F2]e[Gm/F]e[F]sus  [F][C][B][Am7] [Abm7]

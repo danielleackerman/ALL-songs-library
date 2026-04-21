@@ -1,22 +1,25 @@
 ---
-title: "Crazy Times"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Crazy Times
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CEF9CA94-89AD-47EF-A6EA-078A43299510"
+id: CEF9CA94-89AD-47EF-A6EA-078A43299510
 ---
-
 Key:
 
 Jars Of Clay

@@ -1,24 +1,27 @@
 ---
-title: "Way Maker v0"
-artist: "SINACH arrangment"
+title: Way Maker v0
+artist: SINACH arrangment
 key: B
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
-  - "light"
+  - life
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FCF1EECE-6E0D-4FA8-BF7F-BC5715D21AED"
+id: FCF1EECE-6E0D-4FA8-BF7F-BC5715D21AED
 ---
-
 INTRO:
 
 VERSE 1 (solo):

@@ -1,22 +1,25 @@
 ---
-title: "He Sees It All"
-artist: "Becky McCoy"
+title: He Sees It All
+artist: Becky McCoy
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "51D7C595-0590-4146-80E1-E88EFC76F965"
+id: 51D7C595-0590-4146-80E1-E88EFC76F965
 ---
-
 (Verse:1)
 [Ab/Bb]He [EbM7]see's the [Bbm/Eb]blind as [AbM7]though they [Eb/G]can [Fm7]see
 Those in [Bb2]bondage as though [Ab]they [Bb7]are [EbM7]free

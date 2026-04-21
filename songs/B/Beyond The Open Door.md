@@ -1,34 +1,38 @@
 ---
-title: "Beyond The Open Door"
-artist: "Shawn Craig"
+title: Beyond The Open Door
+artist: Shawn Craig
 key: Ab
-tempo: 
-time: 
-ccli: "382129"
-copyright: "1990 Ariose Music, Admin. Capitola; CMG Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - mod-apo-med
+keywords: mod apo med
+ccli: '382129'
+copyright: '1990 Ariose Music, Admin. Capitola; CMG Publishing'
+source: ''
+year: ''
 medley:
-  - "[[WHERE HE LEADS ME I WILL FOLLOW]]"
-  - "[[BREAK EVERY CHAIN]]"
-id: "1FF7061A-9083-49CE-825B-ED7A269A546F"
+  - '[[WHERE HE LEADS ME I WILL FOLLOW]]'
+  - '[[BREAK EVERY CHAIN]]'
+id: 1FF7061A-9083-49CE-825B-ED7A269A546F
 ---
-
 {artist: Shawn Craig}
 
 Medley: where He leads me I will follow /  break every chain

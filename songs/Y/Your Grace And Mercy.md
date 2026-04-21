@@ -1,36 +1,40 @@
 ---
-title: "Your Grace And Mercy"
-artist: "Frank D. Williams"
+title: Your Grace And Mercy
+artist: Frank D. Williams
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: "1993, Malaco, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "mercy"
-  - "grace"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - mercy
+  - grace
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "mod-apo-slow"
-  - "mod-gospel-slow"
-keywords: "mod. apo. slow, mod. gospel slow"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - mod-apo-slow
+  - mod-gospel-slow
+keywords: 'mod. apo. slow, mod. gospel slow'
+ccli: ''
+copyright: '1993, Malaco, Inc.'
+source: ''
+year: ''
 medley:
-  - "[[AMAZING GRACE]]"
-id: "589E8256-B348-4FC3-8A83-D30D043DDDBF"
+  - '[[AMAZING GRACE]]'
+id: 589E8256-B348-4FC3-8A83-D30D043DDDBF
 ---
-
 Medley: amazing grace
 
 CHORUS:

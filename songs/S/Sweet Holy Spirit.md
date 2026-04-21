@@ -1,21 +1,24 @@
 ---
-title: "Sweet Holy Spirit"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Sweet Holy Spirit
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "holy-spirit"
+  - holy-spirit
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4DD64A99-A547-43D6-B363-875851C24F17"
+id: 4DD64A99-A547-43D6-B363-875851C24F17
 ---
-
 

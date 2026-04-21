@@ -1,27 +1,34 @@
 ---
-title: "Never Lost"
-artist: "Cece Winans | written by Christopher Joel Brown / Steven Furtick / Tiffany Hammer"
+title: Never Lost
+artist: >-
+  Cece Winans | written by Christopher Joel Brown / Steven Furtick / Tiffany
+  Hammer
 key: D
-tempo: 123
-time: "6/8"
-ccli: "71347788"
-copyright: "2019 Music by Elevation Worship Publishing, Admin. Essential Music Publishing LLC"
+bpm: '123'
+time_sig: 6/8
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "faithfulness"
-  - "miracles"
-  - "trust"
-  - "power"
-  - "victory"
+  - faithfulness
+  - miracles
+  - trust
+  - power
+  - victory
 genre: []
-energy: medium-fast
 profile: []
-keywords: "faithfulness, miracles, trust, power, victory"
-source: 
-year: 
+keywords: 'faithfulness, miracles, trust, power, victory'
+ccli: '71347788'
+copyright: >-
+  2019 Music by Elevation Worship Publishing, Admin. Essential Music Publishing
+  LLC
+source: ''
+year: ''
 medley: []
-id: "92D2558E-2230-4D49-953C-26F926CCD709"
+id: 92D2558E-2230-4D49-953C-26F926CCD709
 ---
-
 INTRO:
 [D] [/] [|] [A/C#] [/] [|] [Bm7] [/] [|]
 [Gmaj7] [Em/G] [D/F#] [Em7]

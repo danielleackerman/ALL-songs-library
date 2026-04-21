@@ -1,23 +1,26 @@
 ---
-title: "Trust In You"
-artist: "Jeremy Camp"
+title: Trust In You
+artist: Jeremy Camp
 key: E
-tempo: 
-time: 
-ccli: "106659"
-copyright: "1987 Mercy / Vineyard Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "trust"
+  - trust
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '106659'
+copyright: 1987 Mercy / Vineyard Publishing
+source: ''
+year: ''
 medley: []
-id: "CEB98569-73B0-446C-ABA8-3357DB4FA2C1"
+id: CEB98569-73B0-446C-ABA8-3357DB4FA2C1
 ---
-
 When you play the E(see below)for the riff at the 7th fret, you are releasing
 your pinky finger(4) to create that step down sound. It's also used in the verse.
 

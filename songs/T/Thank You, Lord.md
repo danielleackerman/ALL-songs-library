@@ -1,25 +1,28 @@
 ---
-title: "Thank You, Lord"
-artist: "Public Domain African-American Spiritual"
+title: 'Thank You, Lord'
+artist: Public Domain African-American Spiritual
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "thank"
-  - "offering"
+  - thank
+  - offering
 genre: []
-energy: 
 profile:
-  - "os-gospel-med"
-keywords: "os gospel med, offering"
-source: 
-year: 
+  - os-gospel-med
+keywords: 'os gospel med, offering'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "45AA0C74-463A-4ED5-A492-971112C3D0DF"
+id: 45AA0C74-463A-4ED5-A492-971112C3D0DF
 ---
-
 {artist: Public Domain African-American Spiritual}
 
 [F]Thank [C/E]You [Dm]Lord,  [D]  [C/E]  [D7/Gb]

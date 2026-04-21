@@ -1,23 +1,26 @@
 ---
-title: "With The Wonder"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: With The Wonder
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "wonder"
+  - wonder
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E3EF41C9-012A-483E-BF2E-597501A5A303"
+id: E3EF41C9-012A-483E-BF2E-597501A5A303
 ---
-
 Key:
 
 With the Wonder

@@ -1,21 +1,24 @@
 ---
-title: "UNSPEAKABLE JOY by mark yandris (super easy version)"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: UNSPEAKABLE JOY by mark yandris (super easy version)
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "joy"
+  - joy
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FAD935A5-2E3B-4316-A0C4-EF36CCE16E64"
+id: FAD935A5-2E3B-4316-A0C4-EF36CCE16E64
 ---
-
 

@@ -1,22 +1,25 @@
 ---
-title: "Chord Progression"
-artist: ""
+title: Chord Progression
+artist: ''
 key: Cm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "01F3C01B-2AE5-4B30-8065-A39ACF42249A"
+id: 01F3C01B-2AE5-4B30-8065-A39ACF42249A
 ---
-
 [Cm]
 [Cm] [Bb] [Ab] [G]
 

@@ -1,50 +1,58 @@
 ---
-title: "In Christ Alone"
-artist: "Brian Littrell"
-key: Eb
-tempo: 
-time: 
-ccli: "841440"
-copyright: "1990 Paragon Music Corporation"
+title: In Christ Alone
+artist: Keith and Kristin Getty
+key: D
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "christ"
-  - "cross"
+  - love
+  - christ
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3350395'
+copyright: 2001 Thankyou Music
+source: ''
+year: ''
 medley: []
-id: "7A98ED44-18F6-467E-BB78-A9A79B987A47"
+id: B06B9493-9625-4C92-A3A3-F172386F6CA5
 ---
-
 INTRO:
-[Eb]2 bars [Cm] [Ab] [Eb]1 bar [Cm] [Ab] [Eb]1 bar [Cm] [Ab]
+[D] [G] [Bm] [A]
 
 VERSE 1:
-In Christ a[Eb]lone will I glory, Though [Cm]I could pride my[Ab]self in battles [Cm]won
-For [Bb]I’ve been [Eb]blessed beyond measure, And [Fm]by His strength a[Cm]lone I’ll ov[Bb]ercome
-[Ab]Oh, I could stop and [Bb]count success[Eb]es like [Cm]diamonds [Bb]in my [Ab]hands
-But those [Fm7]trophies could not [Cm]equal to the [Fm7]grace by whi[Ab]ch I [Bbsus]stand
+In Christ a[D]lone, My hope is [A]found, He is my [Em]light, my [G]strength, my [D]song
+This Cornerstone, This solid ground, Firm through the [G]fiercest drought and [D]storm
 
-CHORUS:
-[Bb]In [Eb]Christ a[Ab]lone, I place my [Eb]trust, And find my [Fm7]glory in the [Bb]power of the [Eb]cross
-[Cm7]In every [Abmaj7]vic[Bb]tory, Let it be [Eb]said of [Cm7]me,
-My [Fm7]source of strength, my [Bb]source of hope, Is Christ a[Cm7]lone [Bbsus] [Ab]
+What heights of [G]love, What depths of [A]peace, When fears are [Bm]stilled, When [A]strivings [D]cease     My Comfor[D]ter, My all in all, Here in the [G]love of Christ I [D]stand  [Am7] [G] [Em] [G]
 
 VERSE 2:
-In Christ a[Eb]lone will I glory, For [Cm]only by His [Ab]grace I am re[Cm]deemed
-For [Bb]only [Eb]His tender mercy, Could [Fm7]reach beyond my [Cm]weakness to my [Bb]need
-And [Ab]now I seek no [Bb]greater [Eb]honor, Than [Cm]just to know Him [Ab]more
-And to [Fm7]count my gains but [Cm]losses to the [Fm7]glory [Ab]of my [Bb]Lord
+In Christ a[D]lone, Who took on [G]flesh, Fullness of [G]God in [Em]helpless [D]babe
+This gift of love and righteous[A]ness, Scorned by the [G]ones He [Em]came to [D]save
+‘Til on that [G]cross as Jesus [A]died, The [D]wrath of [Em]God was [D]satis[A]fied
+For [G]every [D]sin on Him was laid, Here in the [G]death of [Em]Christ I [D]live
 
-CHORUS:
-[Bb]In [Eb]Christ a[Ab]lone, I place my [Eb]trust, And find my [Fm7]glory in the [Bb]power of the [Eb]cross
-[Cm7]In every [Abmaj7]vic[Bb]tory, Let it be [Eb]said of [Cm7]me,
-My [Fm7]source of strength, my [Db]source of hope,
+[Am7] [G] [Em] [D] [Em] [G] [A] [Bm] [G] [A]
 
-CHORUS MOD:
-[Dm]In [Fm]Christ a[Bb]lone, I place my [F]trust, And find my [Gm7]glory in the [C]power of the [F]cross
-[Dm7]In every [Bbmaj7]vic[C]tory, Let it be [F]said of [Dm7]me,
-My [Gm7]source of strength, [Gm] my [C]source of hope, Is Christ a[F]lone [Dm] [Bb] [F] [Dm] [Bb] [F]
+VERSE 3:
+[Am7]There in the [Bm7]ground His [D]body [A]lay, [F#m7]Light of the [G]world by [A]darkness [D]slain
+Then [A]bursting [G]forth in glorious [A]day, Up from the [G]grave He [Em]rose a[A]gain
+
+And as He [G]stands in [Bm]victo[A]ry, Sin’s [D]curse has [Em]lost its [D]grip on [A]me
+For [G]I am [D]His, and He is [A]mine, Bought with the [G]precious [Em]blood of [D]Christ
+
+[A] [Em] [G] [D]
+
+VERSE 4:
+No guilt in [D]life, no fear in [A]death, This is the [G]power of Christ in [D]me
+From life’s first [D]cry to final [A]breath, Jesus commands [G]my [Em]desti[D]ny
+No power of [G]hell, no scheme of [A]man, Can [D]ever pluck me [B]from His [A]hand
+‘Til [G]He re[D]turns or [G]calls me [A]home, [D]Here in the [G]power of [Em]Christ I’ll [D]stand
+
+No power of [Em]hell, no scheme of [A]man, Can ever [G]pluck me from His [A]hand
+‘Til [G]He re[D]turns or [G]calls me [A]home, [F#m]Here in the [G]power [E]of [Em]Christ [Am]I’ll [D]stand

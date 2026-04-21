@@ -1,22 +1,25 @@
 ---
-title: "Christmas Like A Child"
-artist: "Third Day"
+title: Christmas Like A Child
+artist: Third Day
 key: A
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "2FF2559D-76C6-4CC4-ADC2-EB1FCC531765"
+id: 2FF2559D-76C6-4CC4-ADC2-EB1FCC531765
 ---
-
 [A]I want to fee[F#m]l Christma[D]s, how it used to b[E]e
 [A]With all of[F#m] its wond[D]er falling on m[E]e
 Th[D]is season has felt [E]so empty, oh for quit[F#m]e a while

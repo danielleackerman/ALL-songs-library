@@ -1,22 +1,25 @@
 ---
-title: "Here With Me"
-artist: "MercyMe"
+title: Here With Me
+artist: MercyMe
 key: D
-tempo: 
-time: 
-ccli: "4312143"
-copyright: "2004 Wordspring Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4312143'
+copyright: '2004 Wordspring Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "067C817F-7DE2-45BB-B82C-B56ECA03CBD1"
+id: 067C817F-7DE2-45BB-B82C-B56ECA03CBD1
 ---
-
 Capo on 2nd fret
 
 VERSE 1:

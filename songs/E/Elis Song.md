@@ -1,22 +1,25 @@
 ---
-title: "Elis Song"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Elis Song
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F88C83A6-900E-4299-9A8E-BD36A4AB69E0"
+id: F88C83A6-900E-4299-9A8E-BD36A4AB69E0
 ---
-
 Key:
 
 Eli's Song

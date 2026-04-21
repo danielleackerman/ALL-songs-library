@@ -1,34 +1,38 @@
 ---
-title: "I'm Going Up Yonder"
-artist: "Tramaine Hawkins"
+title: I'm Going Up Yonder
+artist: Tramaine Hawkins
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5228F27C-7356-40D8-93CE-EF06AF7FAE7A"
+id: 5228F27C-7356-40D8-93CE-EF06AF7FAE7A
 ---
-
 VERSE 1:
 [C/F]If you want to know, [F/Bb]where I'm going.  [BbM7]       [Am7]
 [Gm7]Where I'm going  [Bb/C]

@@ -1,25 +1,28 @@
 ---
-title: "Surround Me, Oh Lord"
-artist: "Clint Brown"
+title: 'Surround Me, Oh Lord'
+artist: Clint Brown
 key: Ab
-tempo: 
-time: "2/4"
-ccli: "931965"
-copyright: "1996 Dayspring Music, LLC, Admin. Word Entertainment, LLC"
+bpm: ''
+time_sig: 2/4
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "prayer"
-  - "presence"
+  - prayer
+  - presence
 genre: []
-energy: 
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med, prayer, presence"
-source: 
-year: 
+  - mod-apo-med
+keywords: 'mod apo med, prayer, presence'
+ccli: '931965'
+copyright: '1996 Dayspring Music, LLC, Admin. Word Entertainment, LLC'
+source: ''
+year: ''
 medley: []
-id: "D70F636B-82C2-4FD8-975C-16AFF7EA762F"
+id: D70F636B-82C2-4FD8-975C-16AFF7EA762F
 ---
-
 {artist: Clint Brown}
 
 CHORUS:

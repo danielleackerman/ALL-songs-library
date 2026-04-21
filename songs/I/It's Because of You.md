@@ -1,36 +1,40 @@
 ---
-title: "It's Because of You"
-artist: "Eddie James"
+title: It's Because of You
+artist: Eddie James
 key: Eb
-tempo: 150
-time: 
-ccli: 
-copyright: 
+bpm: '150'
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "mod-gospel-fast"
-keywords: "mod gospel fast"
-source: "ORIGINAL KEY Ab"
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - mod-gospel-fast
+keywords: mod gospel fast
+ccli: ''
+copyright: ''
+source: ORIGINAL KEY Ab
 year: 2008
 medley: []
-id: "8842458D-5FE4-4257-9B86-4E281EF6A597"
+id: 8842458D-5FE4-4257-9B86-4E281EF6A597
 ---
-
 verse 1: unison
 
 [Eb]Every time I [Bb]lift my hands it's [Cm]because of You[Ab]

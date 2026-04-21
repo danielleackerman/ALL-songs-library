@@ -1,24 +1,27 @@
 ---
-title: "City On A Hill"
-artist: "Third Day"
+title: City On A Hill
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "father"
-  - "light"
+  - father
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FB70CA16-B6F0-440E-9F72-2ECA53AE44F1"
+id: FB70CA16-B6F0-440E-9F72-2ECA53AE44F1
 ---
-
 CHORUS:
 You are the light of the world    [G]
 A city on a hill cannot be hidden    [C]

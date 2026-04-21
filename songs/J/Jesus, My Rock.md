@@ -1,26 +1,29 @@
 ---
-title: "Jesus, My Rock"
-artist: ""
+title: 'Jesus, My Rock'
+artist: ''
 key: F
-tempo: 86
-time: 
-ccli: 
-copyright: 
+bpm: '86'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "rock"
+  - jesus
+  - rock
 genre: []
-energy: medium
 profile:
-  - "os-apo-med"
-  - "os-gospel-med"
-keywords: "os apo med, os gospel med"
-source: 
-year: 
+  - os-apo-med
+  - os-gospel-med
+keywords: 'os apo med, os gospel med'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FC522E7B-6978-4C3D-B079-293A228BA8E6"
+id: FC522E7B-6978-4C3D-B079-293A228BA8E6
 ---
-
 [Bb/C]I call Him [F]Jesus my rock
 [Bb/C]I call Him [F]Jesus my rock
 [Bb/C]I call Him [F]Jesus [Dm7]rock

@@ -1,25 +1,28 @@
 ---
-title: "No Tears In Heaven"
-artist: "Robert S. Arnold SING UNTO THE LORD SONGBOOK #7"
+title: No Tears In Heaven
+artist: 'Robert S. Arnold SING UNTO THE LORD SONGBOOK #7'
 key: F
-tempo: 52
-time: 
-ccli: "41752"
-copyright: "1935. Renewed 1972 Texas Legendary Music, Admin. Zukoski Publishing Group, LLC"
+bpm: '52'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "heaven"
-  - "sutl"
+  - heaven
+  - sutl
 genre: []
-energy: slow
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow, sutl"
-source: 
-year: 
+  - os-apo-slow
+keywords: 'os apo slow, sutl'
+ccli: '41752'
+copyright: '1935. Renewed 1972 Texas Legendary Music, Admin. Zukoski Publishing Group, LLC'
+source: ''
+year: ''
 medley: []
-id: "82DB8D29-99AB-428C-ABED-B26A381A3DB6"
+id: 82DB8D29-99AB-428C-ABED-B26A381A3DB6
 ---
-
 VERSE 1:
 [F]No tears in Heaven, no sorrows [Gm7/F]gi[F]ven,
 All will be glory [C/E]in [Bo]that [C]land  [Bo] [C]

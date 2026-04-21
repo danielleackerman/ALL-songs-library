@@ -1,24 +1,27 @@
 ---
-title: "MY THANKS TO HIM--my edit"
-artist: "Rev. A. L. Clanton"
+title: MY THANKS TO HIM--my edit
+artist: Rev. A. L. Clanton
 key: Db
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "thanks"
+  - love
+  - thanks
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E0357CA8-8EF0-467C-A54B-FE402597D11D"
+id: E0357CA8-8EF0-467C-A54B-FE402597D11D
 ---
-
 VERSE 1:
 [Db]I [Ebm/Db]love [Em/Db]to [Db]tell [Db7]how [Gb]Jesus [Gb/Ab]saved my [Db]soul    [Bbm]
 When [Db]I was [Ab]lost [Db/Ab]and [Ebm/Ab]facing [Ab7]dark des[Db]pair.

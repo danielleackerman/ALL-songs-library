@@ -1,23 +1,26 @@
 ---
-title: "Hearts Sing Louder"
-artist: "MercyMe"
+title: Hearts Sing Louder
+artist: MercyMe
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: "1999 - MercyMe Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 1999 - MercyMe Music
+source: ''
+year: ''
 medley: []
-id: "D16BB634-7466-474F-9308-5AC59105CE8E"
+id: D16BB634-7466-474F-9308-5AC59105CE8E
 ---
-
 [C]May our hearts sing louder than our voice[Bb]s Jesus[C]
 [C]May our hearts sing louder than our voice[Bb]s Jesus[C]
 [C]For the only one worthy is t[Bb]he One who freed us[C]

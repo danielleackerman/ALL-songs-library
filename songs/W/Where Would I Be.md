@@ -1,22 +1,25 @@
 ---
-title: "Where Would I Be"
-artist: "Carl Cartee"
+title: Where Would I Be
+artist: Carl Cartee
 key: G
-tempo: 
-time: 
-ccli: "4617848"
-copyright: "2005 Multisongs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4617848'
+copyright: 2005 Multisongs
+source: ''
+year: ''
 medley: []
-id: "E7886A9D-0E7C-4BB0-B1C9-C93D1C2FE578"
+id: E7886A9D-0E7C-4BB0-B1C9-C93D1C2FE578
 ---
-
 CHORUS:
 Where would I [Am7]be, if[D] not for your g[G]race
 Where would I t[Am7]urn if n[D]ot for your w[C]arm embrace[G]

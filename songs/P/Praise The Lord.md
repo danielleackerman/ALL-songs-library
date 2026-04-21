@@ -1,37 +1,41 @@
 ---
-title: "Praise The Lord"
-artist: "Brown Bannister, Mike Hudson"
+title: Praise The Lord
+artist: 'Brown Bannister, Mike Hudson'
 key: C
-tempo: 73
-time: 
-ccli: "19832"
-copyright: "1978 Word Music, LLC (Admin. Word Music Group, Inc.)"
+bpm: '73'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "praise"
-  - "anointed"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - praise
+  - anointed
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "os-southern-gospel-slow"
-keywords: "os southern gospel slow, anointed, praise"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - os-southern-gospel-slow
+keywords: 'os southern gospel slow, anointed, praise'
+ccli: '19832'
+copyright: '1978 Word Music, LLC (Admin. Word Music Group, Inc.)'
+source: ''
+year: ''
 medley: []
-id: "87EC6E33-C58C-4788-8290-A8408E7A5193"
+id: 87EC6E33-C58C-4788-8290-A8408E7A5193
 ---
-
 {artist: Brown Bannister, Mike Hudson}
 
 VERSE 1:

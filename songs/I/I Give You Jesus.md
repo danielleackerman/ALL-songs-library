@@ -1,35 +1,39 @@
 ---
-title: "I Give You Jesus"
-artist: "Becky Fender"
+title: I Give You Jesus
+artist: Becky Fender
 key: C
-tempo: 69
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '69'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "life"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - jesus
+  - life
 genre: []
-energy: medium-slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-med"
-  - "mod-apo-med"
-keywords: "os apo med, mod apo med"
-source: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-med
+  - mod-apo-med
+keywords: 'os apo med, mod apo med'
+ccli: ''
+copyright: ''
+source: ''
 year: 1978
 medley: []
-id: "44799C2C-A2CA-4815-B113-7B7359579053"
+id: 44799C2C-A2CA-4815-B113-7B7359579053
 ---
-
 VERSE 1:
 [F/G]If the [C]ship of your life is tossing [Go7/C#]on the sea of strife. You [C/D]need [Dm]someone. [Em][Dm]
 If your [Dm]house is not  [A+]a home and you [Dm]feel [F/G]so a[G]lone. You [Fm/C]need [C2]someone.  [F/G][G][F/G][G]

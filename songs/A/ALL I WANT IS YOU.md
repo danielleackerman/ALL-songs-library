@@ -1,22 +1,25 @@
 ---
-title: "All I Want is You"
-artist: "William McDowell"
+title: All I Want is You
+artist: William McDowell
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "38744A64-C51A-4E4E-BD9C-CF31393B4CE2"
+id: 38744A64-C51A-4E4E-BD9C-CF31393B4CE2
 ---
-
 [C]All I want is You [Em]
 
 [G]All I want is [C]You  [Em]

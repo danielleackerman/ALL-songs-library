@@ -1,36 +1,40 @@
 ---
-title: "Breathe (This Is The Air)"
-artist: "Rebecca St. James"
+title: Breathe (This Is The Air)
+artist: Rebecca St. James
 key: F
-tempo: 
-time: 
-ccli: "1874117"
-copyright: "1995 Mercy/Vineyard Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '1874117'
+copyright: 1995 Mercy/Vineyard Publishing
+source: ''
+year: ''
 medley:
-  - "[[SEND THE RAIN]]"
-  - "[[HOLY SPIRIT RAIN DOWN]]"
-id: "7CC3C2B4-33BB-4558-93BD-0ECEEA54D0E4"
+  - '[[SEND THE RAIN]]'
+  - '[[HOLY SPIRIT RAIN DOWN]]'
+id: 7CC3C2B4-33BB-4558-93BD-0ECEEA54D0E4
 ---
-
 Medley: send the rain / Holy Spirit rain down
 
 VERSE 1:

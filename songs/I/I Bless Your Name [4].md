@@ -1,68 +1,46 @@
 ---
-title: "I Bless Your Name"
-artist: ""
+title: I Bless Your Name
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: "4436919"
-copyright: "1998 Wayne Goodine Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "praise"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: "Selah"
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3538A0AF-6241-4D3F-B3CB-149FC0A30179"
+id: A5A52AA4-8449-4C6A-BD7B-5C753443547B
 ---
-
-capo 5th fret (C)
-
-I[G]n prisoners chains[C] with bleeding str[G]ipes
-Paul and S[Em]ilas pra[C]yed that[D] night
-and in their pa[G]in b[C]egan to s[G]ee[Em]
-their chains were lo[G]ssed a[D]nd they were f[G]ree
-
 CHORUS:
-[G]I bless your name[C]
-G
-I bless your name
-I give you h[Em]onor  [C]give you prais[D]e
-             G
-You are the life the truth the way
-[D]I bless your nam[G]e
-G
-I bless your name
+[G6/A]I bless Your name  [D2]  [Bm/G]  I bless Your name [D2]
+I give You ho[Bm2]         [Bm2/A]  nor      [E/G#]give        You [A2]praise   [A2/G]
+You are the life[D/F#]         [Bm/G]       the truth the way [D/A]
+I [G6/B]bless Your [D/A]name   I [G6/A]bless    Your name[D]
 
-VERSE 2:
-[G]Some midnight hour[C] if you should find[G]
-Your in[Em] a pri[C]son  of your mi[D]nd
-Reach out a[G]nd praise de[C]fy those cha[G]ins[Em]
-And they w[G]ill fall i[D]n Jesus na[G]me
+To Verse 1 [G6/A]
 
-CHORUS:
-[G]We bless your n[C]ame
-G
-We bless your name
-I give you ho[Em]nor [C] I give you pr[D]aise
-You are the li[G]fe  th[C]e truth  the w[G]ay[Em]
-                G
-We bless your name
-We bl[D]ess your na[G]me
+V1:
+[D]Je  [Bm/G]sus    [D] Jesus    [Bm2]Jesus  [E/G#]  [A2]Jesus  [A/G]
+[D/F#]Je     [Bm/G]sus     [D2/A]Jesus      I [G6/B]bless Your [D/A]name
+I [G6/A]bless Your name[D]
 
-ENDING:
-You are the li[G]fe  t[C]he truth  the w[G]ay[Em]
-                G
-We bless your name
-We bl[D]ess your n[G]ame
+Ending:  You [A/G]are the    [D/F#]life        [Bm/G] the truth the            [D/A]way

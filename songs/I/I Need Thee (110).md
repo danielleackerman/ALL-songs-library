@@ -1,25 +1,28 @@
 ---
-title: "I Need Thee (110)"
-artist: "Annie S. Hawks; Robert Lowry"
+title: I Need Thee (110)
+artist: Annie S. Hawks; Robert Lowry
 key: G
-tempo: 
-time: "3/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "sutl"
-  - "songbook"
+  - sutl
+  - songbook
 genre: []
-energy: 
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow, sutl, songbook"
-source: 
+  - os-apo-slow
+keywords: 'os apo slow, sutl, songbook'
+ccli: ''
+copyright: ''
+source: ''
 year: 1872
 medley: []
-id: "B1B2A346-3D60-48D6-B8E7-3044B7AEC6EB"
+id: B1B2A346-3D60-48D6-B8E7-3044B7AEC6EB
 ---
-
 {artist: Annie S. Hawks; Robert Lowry 1872}
 
 CHORUS:

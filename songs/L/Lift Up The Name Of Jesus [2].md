@@ -1,40 +1,44 @@
 ---
-title: "Lift Up The Name Of Jesus"
-artist: "Keith Duncan"
+title: Lift Up The Name Of Jesus
+artist: Keith Duncan
 key: Db
-tempo: 80
-time: 
-ccli: 
-copyright: 
+bpm: '80'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "men"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - men
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "contemp-christian-med"
-keywords: "contemp christian med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - contemp-christian-med
+keywords: contemp christian med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8F776651-4DB8-4DFB-A2CE-51CEBFBE4F86"
+id: B0788EA5-04E4-4BC7-B79A-8315883ECBF8
 ---
-
-[run][2x] [Bb] [Db] [Eb] [E] [F] [Ab] [Bb]
-       [Bb] [Db] [Eb] [E] [F] [F7aug]
+[run][2x][Bb][Db][Eb][E][F][Ab][Bb]
+      [Bb][Db][Eb][E][F][F7aug]
 
 VERSE:
 [Bbm]Lift up the name of Jesus, [Bbm]Shout it everywhere you go

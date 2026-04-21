@@ -1,22 +1,25 @@
 ---
-title: "Coffee"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Coffee
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CCF78AD6-EA7A-49C6-A4B8-8D227AF3B5F7"
+id: CCF78AD6-EA7A-49C6-A4B8-8D227AF3B5F7
 ---
-
 Key:
 
 From: David Norwood <davidnorwood@earthlink.net>

@@ -1,39 +1,43 @@
 ---
-title: "Jesus Will Outshine Them All"
-artist: "Gordon Jensen"
+title: Jesus Will Outshine Them All
+artist: Gordon Jensen
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "sutl"
-  - "songbook"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - sutl
+  - songbook
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-slow-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow, sutl, songbook"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-slow-solo-songs-southern-gospel-traditional-worship
+  - os-apo-slow
+keywords: 'os apo slow, sutl, songbook'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B20B96A0-2504-4F7F-97BC-48983D20B9D5"
+id: B20B96A0-2504-4F7F-97BC-48983D20B9D5
 ---
-
 CHORUS:
 Mansions will glisten on the Hills of Glory,
 Happy reunions on streets of pure gold,

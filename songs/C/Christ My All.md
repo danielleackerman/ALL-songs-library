@@ -1,24 +1,29 @@
 ---
-title: "Christ My All"
-artist: "Carl Cartee"
+title: Christ My All
+artist: Carl Cartee
 key: A
-tempo: 
-time: 
-ccli: "4611497"
-copyright: "2005 Yada Yada Yada Music / Rick Cua Music / Willow Branch Publishing / Skin Horse, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "christ"
+  - jesus
+  - christ
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4611497'
+copyright: >-
+  2005 Yada Yada Yada Music / Rick Cua Music / Willow Branch Publishing / Skin
+  Horse, Inc.
+source: ''
+year: ''
 medley: []
-id: "26A0702F-1C9C-4787-9645-5AAF822192FC"
+id: 26A0702F-1C9C-4787-9645-5AAF822192FC
 ---
-
 VERSE 1:
 [A]Oh,[Amaj7/C#]  the    [D]comfort [A]of the [Esus]Savior[E]
 [A]How[A/C#] His [B7/D#]presence [B]steadies [E]me

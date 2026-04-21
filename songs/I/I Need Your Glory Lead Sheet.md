@@ -1,21 +1,24 @@
 ---
-title: "I Need Your Glory Lead Sheet"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: I Need Your Glory Lead Sheet
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "743DDD6A-CB89-4F66-9AB3-BF61B96C0EDA"
+id: 743DDD6A-CB89-4F66-9AB3-BF61B96C0EDA
 ---
-
 

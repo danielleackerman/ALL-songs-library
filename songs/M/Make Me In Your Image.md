@@ -1,37 +1,41 @@
 ---
-title: "Make Me In Your Image"
-artist: "Tim Pedigo"
+title: Make Me In Your Image
+artist: Tim Pedigo
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "image"
-  - "life"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - image
+  - life
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "32721CF9-78B4-4A93-8597-54A7B39532A8"
+id: 32721CF9-78B4-4A93-8597-54A7B39532A8
 ---
-
 VERSE 1:
 Looking in the mirror of your word it's plain to see
 that I don't always measure up to what I should be

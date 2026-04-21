@@ -1,22 +1,25 @@
 ---
-title: "Won’t We Have A Time"
-artist: "Page 38"
+title: Won’t We Have A Time
+artist: Page 38
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "18E64F6E-425D-4DDA-879C-E1EDDB222118"
+id: 18E64F6E-425D-4DDA-879C-E1EDDB222118
 ---
-
 [G]Won’t  we  have  a  time,  when  we  get  over  yond - [G7]er
 
 [C7]Won’t  we  have  a  time,  when  we  get  over [G]yonder

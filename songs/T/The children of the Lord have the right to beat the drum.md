@@ -1,23 +1,26 @@
 ---
-title: "The Children of the Lord Have the Right to Beat the Drum"
-artist: "Artist Name"
+title: The Children of the Lord Have the Right to Beat the Drum
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "children"
+  - children
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "80147C17-1540-484B-BD35-30BE192F43E5"
+id: 80147C17-1540-484B-BD35-30BE192F43E5
 ---
-
 Book: CHILDREN'S
 
 VERSE 1:

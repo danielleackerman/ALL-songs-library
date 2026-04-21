@@ -1,24 +1,27 @@
 ---
-title: "I Am Redeemed (by His Love)"
-artist: ""
+title: I Am Redeemed (by His Love)
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "christ"
+  - love
+  - christ
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "27FB804C-978C-444E-9A19-753F4A703F7D"
+id: 27FB804C-978C-444E-9A19-753F4A703F7D
 ---
-
 VERSE 1:
 Sweet is the song
 I am singing today

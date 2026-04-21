@@ -1,4 +1,34 @@
 
+## Status
+This note contains older migration thinking.
+The approved current frontmatter schema is:
+
+```yaml
+---
+title: ""
+artist: ""
+key:
+bpm:
+time_sig:
+meter:
+tempo:
+theme: []
+function: []
+tags: []
+genre: []
+profile: []
+keywords:
+ccli:
+copyright:
+source:
+year:
+medley: []
+id: ""
+---
+```
+
+
+ older migration thinking
 ---
 title: "A Brand New Touch"
 artist: "Lanny Wolfe"

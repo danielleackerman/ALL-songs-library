@@ -1,24 +1,27 @@
 ---
-title: "Believe For It (Official)"
-artist: "Cece Winans"
+title: Believe For It (Official)
+artist: Cece Winans
 key: G
-tempo: 79
-time: "4/4"
-ccli: "7169164"
-copyright: "2021 Fair Trade Tunes"
+bpm: '79'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "believe"
-  - "power"
+  - believe
+  - power
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7169164'
+copyright: 2021 Fair Trade Tunes
+source: ''
+year: ''
 medley: []
-id: "CC5B3C76-AE79-41B9-B1CF-3A2CCE33841E"
+id: CC5B3C76-AE79-41B9-B1CF-3A2CCE33841E
 ---
-
 Intro 2x:
 [C][/][/][/][|][/][/][Em][/][|][D][/][/][/][|][/][/][G/B][/][|]
 [C][/][/][/][|][/][/][Em][/][|][D][/][/][/][|][/][/][G/B][/][|]

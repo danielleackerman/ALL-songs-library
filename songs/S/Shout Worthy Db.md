@@ -1,20 +1,23 @@
 ---
-title: "Shout Worthy Db"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Shout Worthy Db
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D5C73E1C-147B-4C01-A2AA-086AB93DD5CC"
+id: D5C73E1C-147B-4C01-A2AA-086AB93DD5CC
 ---
-
 

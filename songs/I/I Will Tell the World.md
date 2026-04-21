@@ -1,22 +1,25 @@
 ---
-title: "I Will Tell the World"
-artist: "Ray Boltz"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: I Will Tell the World
+artist: Ray Boltz
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "08EBB569-418F-452D-80FC-1756B3C6928C"
+id: 08EBB569-418F-452D-80FC-1756B3C6928C
 ---
-
 Key:
 
 CHORUS:

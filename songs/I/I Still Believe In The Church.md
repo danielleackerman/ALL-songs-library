@@ -1,36 +1,40 @@
 ---
-title: "I Still Believe In The Church"
-artist: ""
+title: I Still Believe In The Church
+artist: ''
 key: A
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "believe"
-  - "rock"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - believe
+  - rock
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9344B8AA-FC43-4891-8030-54B38F099243"
+id: 9344B8AA-FC43-4891-8030-54B38F099243
 ---
-
 Key : [A - Bb]
 
 Cho:

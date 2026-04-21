@@ -1,39 +1,43 @@
 ---
-title: "The Hallelujah Side"
-artist: "Rev. Johnson Oatman, Jr. and J. Howard Entwhisle"
+title: The Hallelujah Side
+artist: 'Rev. Johnson Oatman, Jr. and J. Howard Entwhisle'
 key: Ab
-tempo: 110
-time: 
-ccli: 
-copyright: 
+bpm: '110'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "glory"
-  - "sutl"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - glory
+  - sutl
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-  - "os-southern-gospel-med"
-keywords: "os apo med, sutl, os southern gospel med"
-source: "ORIGINAL KEY Ab"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+  - os-southern-gospel-med
+keywords: 'os apo med, sutl, os southern gospel med'
+ccli: ''
+copyright: ''
+source: ORIGINAL KEY Ab
+year: ''
 medley: []
-id: "E2B54253-9331-49FD-AB0C-8042AB7D99F2"
+id: E2B54253-9331-49FD-AB0C-8042AB7D99F2
 ---
-
 VERSE 1:
 [Ab]Once a sinner far from Jesus, I was [Db]perishing with [Ab]cold,
 But [Ab2]the blessed Saviour heard me when I [Eb]cried;

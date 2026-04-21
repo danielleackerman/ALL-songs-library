@@ -1,22 +1,25 @@
 ---
-title: "Here I Am, Lord-EASY"
-artist: "contemporary"
+title: 'Here I Am, Lord-EASY'
+artist: contemporary
 key: F
-tempo: 88
-time: 
-ccli: 
-copyright: 
+bpm: '88'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C070FCCD-9F8C-4911-B433-C88C280FE191"
+id: C070FCCD-9F8C-4911-B433-C88C280FE191
 ---
-
 88 bpm
 [F]
 

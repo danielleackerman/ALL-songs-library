@@ -1,22 +1,25 @@
 ---
-title: "Sometimes By Step"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Sometimes By Step
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "AA753AFF-D44C-4AD0-A71A-875AF695715E"
+id: AA753AFF-D44C-4AD0-A71A-875AF695715E
 ---
-
 Key:
 by: Rich Mullins
 

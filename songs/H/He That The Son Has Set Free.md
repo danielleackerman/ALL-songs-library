@@ -1,34 +1,38 @@
 ---
-title: "He That The Son Has Set Free"
-artist: "Nancy Harmon"
+title: He That The Son Has Set Free
+artist: Nancy Harmon
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8055EB4D-D7C0-405A-8FD3-FF0B911ABE4D"
+id: 8055EB4D-D7C0-405A-8FD3-FF0B911ABE4D
 ---
-
 CHORUS:
 [Eb7]He that the son has set [Ab7]free, is free in[Eb]deed
 No more [Bb7]chains of slave[Eb]ry  [Eb7]

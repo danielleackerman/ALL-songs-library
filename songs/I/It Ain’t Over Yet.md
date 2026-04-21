@@ -1,22 +1,25 @@
 ---
-title: "It Ain’t Over Yet"
-artist: "Paula Stefanovich & Steve Marshall"
+title: It Ain’t Over Yet
+artist: Paula Stefanovich & Steve Marshall
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "813B6638-71C6-49BC-94C6-0076B9DD9419"
+id: 813B6638-71C6-49BC-94C6-0076B9DD9419
 ---
-
 INTRO:
 [|][/][/][F][/][|][G][/][/][/][|][C][/][Cm][/][|][G][/][/][/][|][C][/]
 

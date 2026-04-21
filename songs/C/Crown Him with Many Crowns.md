@@ -1,34 +1,38 @@
 ---
-title: "Crown Him with Many Crowns"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Crown Him with Many Crowns
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "813A4DDE-7ABF-469A-BB40-C9B218C2CF5C"
+id: 813A4DDE-7ABF-469A-BB40-C9B218C2CF5C
 ---
-
 VERSE 1:
 Crown Him with many crowns, The Lamb upon the throne
 Hark How the heav'nly anthems drowns, All music but its own!

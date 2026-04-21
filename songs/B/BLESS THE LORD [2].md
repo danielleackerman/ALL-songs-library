@@ -1,49 +1,56 @@
 ---
-title: "Bless the Lord"
-artist: "Mark Condon"
-key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Bless the Lord
+artist: Mark Condon
+key: Bbm
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "AA090BBC-3E7B-44B5-8266-7D539DACC71D"
+id: 99E00CF7-D86A-43E2-AD43-9CB5630A9FA7
 ---
-
 INTRO:
-[Bbm7]  [Bb]
+[Bbm7 vamp]
 
 CHORUS:
 [Bbm7]  [Bb]
 Bless the Lord he endureth forever
-Bless the Lord he endureth forever, He’s doing
+Bless the Lord he endureth forever
+
 [Fm7/Eb]Great [Eb]things [Fm7/Eb]
 [Eb] [Gm7/E]Great [F]things.  [F13] [G13] [Ab13] [A13]
 
 VERSE 1:
-[Bbm7 vamp]He's healing the sick, He's raising the dead
-He's telling the lame, Get out of your bed!
+[Bbm7 vamp]He's healing the sick
+He's raising the dead
+He's telling the lame get out of your bed
 
 CHORUS:
 [Bbm7]  [Bb]
 Bless the Lord he endureth forever
-Bless the Lord he endureth forever, He’s doing
-[Fm7/Eb]Great [Eb]things
-[Fm7/Eb] [Eb] [Gm7/E]Great [F]things.  [F13] [G13] [Ab13] [A13]
+Bless the Lord he endureth forever
+
+[Fm7/Eb]Great [Eb]things [Fm7/Eb]
+[Eb] [Gm7/E]Great [F]things.  [F13] [G13] [Ab13] [A13]
 
 VERSE 2:
-[Bbm7]He's forgiving sin, Setting captives free
-He's breaking the chains, Giving liberty.
+[Bbm7 vamp]He's forgiving sin
+Setting captives free
+He's breaking the chains giving liberty
 
-VAMP:
-[Bbm7]Great things. Great things. Great things. Great things.
+VAMP (repeat):
+[Bbm7 vamp]Great things. Great things. Great things. Great things.
 
 OUTRO:
 [Bbm7]Great things (cut)

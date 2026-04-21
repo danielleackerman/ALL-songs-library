@@ -1,23 +1,28 @@
 ---
-title: "Reckless Love"
-artist: "Cory Asbury"
+title: Reckless Love
+artist: Cory Asbury
 key: G
-tempo: 
-time: 
-ccli: "7089641"
-copyright: "Heritage Worship Music Publishing Richmond Park Publishing Watershed Publishing Group Bethel Music Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7089641'
+copyright: >-
+  Heritage Worship Music Publishing Richmond Park Publishing Watershed
+  Publishing Group Bethel Music Publishing
+source: ''
+year: ''
 medley: []
-id: "88242F30-076B-4186-98BF-37484C513D73"
+id: 88242F30-076B-4186-98BF-37484C513D73
 ---
-
 VERSE 1:
 [Em]   Before I spoke a [D]word, You were singing o[C]ver me
 [Em]   You have been [D]so, so good to [C]me

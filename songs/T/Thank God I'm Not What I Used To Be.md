@@ -1,35 +1,39 @@
 ---
-title: "Thank God I'm Not What I Used To Be"
-artist: "Nancy Grandquist"
+title: Thank God I'm Not What I Used To Be
+artist: Nancy Grandquist
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "thank"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - thank
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "6E0383C8-677C-48E0-9B70-6E6A1959E33A"
+id: 6E0383C8-677C-48E0-9B70-6E6A1959E33A
 ---
-
 CHORUS:
 [C/D]Thank God [D]I'm [G]not,
 [D/B]Not What,

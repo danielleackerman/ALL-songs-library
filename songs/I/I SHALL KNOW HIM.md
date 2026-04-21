@@ -1,31 +1,35 @@
 ---
-title: "I Shall Know Him"
-artist: "Artist Name"
+title: I Shall Know Him
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1B991DBB-F1A6-4AF5-A9CE-3ED4628841AC"
+id: 1B991DBB-F1A6-4AF5-A9CE-3ED4628841AC
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

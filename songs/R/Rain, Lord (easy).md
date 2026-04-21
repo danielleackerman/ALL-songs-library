@@ -1,22 +1,25 @@
 ---
-title: "Rain, Lord (easy)"
-artist: "Mark Condon"
+title: 'Rain, Lord (easy)'
+artist: Mark Condon
 key: Dm
-tempo: 71
-time: 
-ccli: 
-copyright: 
+bpm: '71'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5163F8E3-D427-4AE0-9957-E118DEF50B06"
+id: 5163F8E3-D427-4AE0-9957-E118DEF50B06
 ---
-
 INTRO:
 
 VERSE 1:

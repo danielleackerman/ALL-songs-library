@@ -1,40 +1,44 @@
 ---
-title: "I Have Decided To Follow Jesus"
-artist: ""
+title: I Have Decided To Follow Jesus
+artist: ''
 key: Am
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "medium-fast"
-  - "middle-eastern"
-  - "praise"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "cross"
+  - black-gospel
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - jesus-movement
+  - maranatha
+  - medium
+  - medium-fast
+  - middle-eastern
+  - praise
+  - solo-songs
+  - traditional
+  - worship
+  - jesus
+  - cross
 genre: []
-energy: medium
 profile:
-  - "black-gospel-ccm-choir-choruses-congregational-contemporary-jesus-movement-maranatha-medium-medium-fast-middle-eastern-praise-solo-songs-traditional-worship"
-keywords: 
-source: "C,*C 4/4 Fast by Paul B. Smith"
-year: 
+  - >-
+    black-gospel-ccm-choir-choruses-congregational-contemporary-jesus-movement-maranatha-medium-medium-fast-middle-eastern-praise-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: 'C,*C 4/4 Fast by Paul B. Smith'
+year: ''
 medley: []
-id: "8FF39342-DD38-4C03-8897-AA9E6402D79E"
+id: 8FF39342-DD38-4C03-8897-AA9E6402D79E
 ---
-
 CHORUS 1:
        C
 I have decided to follow Jesus,

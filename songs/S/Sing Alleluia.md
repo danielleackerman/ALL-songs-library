@@ -1,24 +1,27 @@
 ---
-title: "Sing Alleluia"
-artist: "Third Day"
+title: Sing Alleluia
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "3493025"
-copyright: "2002 New Spring / Never Say Never Songs / Meaux Mercy / Blue Raft Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "alleluia"
+  - praise
+  - alleluia
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3493025'
+copyright: 2002 New Spring / Never Say Never Songs / Meaux Mercy / Blue Raft Music
+source: ''
+year: ''
 medley: []
-id: "2D2D3146-93B3-4738-9738-F21F89A71A83"
+id: 2D2D3146-93B3-4738-9738-F21F89A71A83
 ---
-
 (capo 4th fret)
 
 [Cadd9]All cr[G]eatures of our Go[Dsus]d and Ki[Em7]ng

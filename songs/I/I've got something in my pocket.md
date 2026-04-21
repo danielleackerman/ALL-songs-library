@@ -1,22 +1,25 @@
 ---
-title: "I've Got Something in My Pocket"
-artist: ""
+title: I've Got Something in My Pocket
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "6A16869B-B393-409F-BD11-B61AE971F0B1"
+id: 6A16869B-B393-409F-BD11-B61AE971F0B1
 ---
-
 Book: CHILDREN'S
 
 Artist Name

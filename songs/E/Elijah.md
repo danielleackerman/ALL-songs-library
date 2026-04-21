@@ -1,22 +1,25 @@
 ---
-title: "Elijah"
-artist: "Rich Mullins"
+title: Elijah
+artist: Rich Mullins
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "1982 Meadowgreen Music Company"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 1982 Meadowgreen Music Company
+source: ''
+year: ''
 medley: []
-id: "3EBB8634-E6E1-43DF-998D-8066CAF886F9"
+id: 3EBB8634-E6E1-43DF-998D-8066CAF886F9
 ---
-
 INTRO:
 [G]   [C2]   [Dsus]
 

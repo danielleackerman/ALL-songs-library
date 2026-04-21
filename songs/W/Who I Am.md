@@ -1,22 +1,25 @@
 ---
-title: "Who I Am"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Who I Am
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "BF31CA65-85F3-47B5-8963-115DAE53CDE4"
+id: BF31CA65-85F3-47B5-8963-115DAE53CDE4
 ---
-
 Key:
 
 Who I Am

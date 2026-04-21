@@ -1,23 +1,26 @@
 ---
-title: "Born In Bethlehem"
-artist: "Third Day"
+title: Born In Bethlehem
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: "4831480"
-copyright: "2006 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4831480'
+copyright: 2006 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "788C2F2A-09B8-4320-94AF-5F926C347AB3"
+id: 788C2F2A-09B8-4320-94AF-5F926C347AB3
 ---
-
 [D]Baby Jesus, born in a stable
 A [G]humble [A]Savior’s [D]birth
 You [D]left Your throne in [D]Heaven above

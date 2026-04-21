@@ -1,22 +1,25 @@
 ---
-title: "Let Us Bow Down"
-artist: "Landy Mahon"
+title: Let Us Bow Down
+artist: Landy Mahon
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Cooley Choruses"
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: Cooley Choruses
+year: ''
 medley: []
-id: "46AA00CC-677F-4229-B8B9-2F1438E776FB"
+id: 46AA00CC-677F-4229-B8B9-2F1438E776FB
 ---
-
 [F]
 
 [Bb/C]Let us [F]bow down [F/A]and worship [Dm/Bb]Jesus [D7b9]

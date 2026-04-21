@@ -1,23 +1,26 @@
 ---
-title: "Lord, You’re Welcome"
-artist: "Mark Condon"
+title: 'Lord, You’re Welcome'
+artist: Mark Condon
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "13EA91EE-3D34-4DA0-951D-85B2ED215EEC"
+id: 13EA91EE-3D34-4DA0-951D-85B2ED215EEC
 ---
-
 CHORUS:
 [Am/C]Lord [Gm/C] You’re [F] welcome in[Gm]to this holy [F/A]place
 Lord You’re [Bb2]welcome  in [F2]to this house of [Gm7]praise   [Gm/C]

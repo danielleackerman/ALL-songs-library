@@ -1,37 +1,41 @@
 ---
-title: "Get Your Mind on Jesus"
-artist: "Key of: F"
+title: Get Your Mind on Jesus
+artist: 'Key of: F'
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "help"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - help
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5822CFBE-BFDA-4D24-93FB-7E46AC7F9005"
+id: 5822CFBE-BFDA-4D24-93FB-7E46AC7F9005
 ---
-
 CHORUS:
 Get your [F]mind on Jesus, Let' s have church
 Get your [Bb7]mind on Jesus, Let's have [F]church

@@ -1,35 +1,39 @@
 ---
-title: "That Other Shore"
-artist: "Luther Barnes"
+title: That Other Shore
+artist: Luther Barnes
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "joy"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - joy
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8F7C3009-0F6A-4CD2-AAC6-4F8356E2E871"
+id: 8F7C3009-0F6A-4CD2-AAC6-4F8356E2E871
 ---
-
 Verse 1 2x:
 [Ab/Bb]Though the [Eb]clouds,  [Ab]May hang over  [Gm7] [Cm7]
 There will [Eb/Bb]be,  [Bb]A brighter [Eb]day  [Ab/Bb]

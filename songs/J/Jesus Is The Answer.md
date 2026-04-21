@@ -1,36 +1,40 @@
 ---
-title: "Jesus Is The Answer"
-artist: "Andrae Crouch"
+title: Jesus Is The Answer
+artist: Andrae Crouch
 key: Ab
-tempo: 65
-time: 
-ccli: "14260"
-copyright: "1973 Bud John Songs, Inc."
+bpm: '65'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-gospel-med-slow"
-keywords: "os gospel med slow"
-source: "ORIGINAL KEY Ab"
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+  - os-gospel-med-slow
+keywords: os gospel med slow
+ccli: '14260'
+copyright: '1973 Bud John Songs, Inc.'
+source: ORIGINAL KEY Ab
 year: 1983
 medley: []
-id: "8B6CB23B-FC73-40EE-9714-582619E7ABC5"
+id: 8B6CB23B-FC73-40EE-9714-582619E7ABC5
 ---
-
 CHORUS:
 [Ab]Jesus is the [Eb/G]answer [Fm]for the world to[Ab/Eb]day. [Ab]
 A[Db]bove him there's no [Ab/C]other.

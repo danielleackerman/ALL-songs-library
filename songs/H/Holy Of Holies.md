@@ -1,22 +1,25 @@
 ---
-title: "Holy Of Holies"
-artist: ""
+title: Holy Of Holies
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "21455128-77AC-46FB-96A5-25A6E9428290"
+id: 21455128-77AC-46FB-96A5-25A6E9428290
 ---
-
 VERSE 1:
 [Cm]In the [Cm2]ho[Cm]ly of [Fm]holies, Be[Cm]hind the [Cm2]heavy [Fm2]veil
 [Fm]Sat the [Cm]ark of the [Fm]covenant, Where the [Bb]Most High [Eb2]dwelt

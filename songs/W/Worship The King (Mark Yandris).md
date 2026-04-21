@@ -1,22 +1,25 @@
 ---
-title: "Worship The King (Mark Yandris)"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Worship The King (Mark Yandris)
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "king"
-  - "worship"
+  - king
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "EFFFC766-6C1D-4E6C-87F9-F9F0C452A43C"
+id: EFFFC766-6C1D-4E6C-87F9-F9F0C452A43C
 ---
-
 

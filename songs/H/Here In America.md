@@ -1,24 +1,27 @@
 ---
-title: "Here In America"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Here In America
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "israel"
-  - "king"
+  - israel
+  - king
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7277952C-F1E7-4874-AB23-065F30B9E2B6"
+id: 7277952C-F1E7-4874-AB23-065F30B9E2B6
 ---
-
 Key:
 
 Genesis 13:17

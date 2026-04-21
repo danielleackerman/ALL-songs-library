@@ -1,24 +1,27 @@
 ---
-title: "Your Love is Like a River"
-artist: "Third Day"
+title: Your Love is Like a River
+artist: Third Day
 key: A
-tempo: 
-time: 
-ccli: "6452324"
-copyright: "Songs from the Quarry"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "light"
+  - love
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6452324'
+copyright: Songs from the Quarry
+source: ''
+year: ''
 medley: []
-id: "C5AF3203-2F5B-4B96-AF75-2E8315EBA3B3"
+id: C5AF3203-2F5B-4B96-AF75-2E8315EBA3B3
 ---
-
 INTRO:
 Oh, oh, [F#m]oh, oh______oh, [A]oh______oh, [D]oh, oh______[A]oh
                               (Your love is like a river flowin’ from my heart)

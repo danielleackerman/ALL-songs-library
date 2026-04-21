@@ -1,22 +1,25 @@
 ---
-title: "Sons and Daughters"
-artist: "Bebo Norman"
+title: Sons and Daughters
+artist: Bebo Norman
 key: B
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "604FBCBF-2224-4608-B2D5-C3B28882D57C"
+id: 604FBCBF-2224-4608-B2D5-C3B28882D57C
 ---
-
 Key:
 Copyright: 2001 Appstreet Music/New Spring Publishing Inc.
 

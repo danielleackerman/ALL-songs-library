@@ -1,25 +1,30 @@
 ---
-title: "I Never Lost My Praise"
-artist: "Kurt Carr; Tramaine Hawkins"
+title: I Never Lost My Praise
+artist: Kurt Carr; Tramaine Hawkins
 key: F
-tempo: 63
-time: 
-ccli: "4706656"
-copyright: "2007 KCartunes Music (Admin. by Capitol CMG Publishing) Lilly Mack Music  (Admin. by Capitol CMG Publishing)"
+bpm: '63'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: slow
 profile:
-  - "mod-apo-slow"
-  - "mod-gospel-slow"
-keywords: "mod apo slow, mod gospel slow"
-source: 
-year: 
+  - mod-apo-slow
+  - mod-gospel-slow
+keywords: 'mod apo slow, mod gospel slow'
+ccli: '4706656'
+copyright: >-
+  2007 KCartunes Music (Admin. by Capitol CMG Publishing) Lilly Mack Music 
+  (Admin. by Capitol CMG Publishing)
+source: ''
+year: ''
 medley: []
-id: "D4AB9690-7A89-4C34-A96E-5DA134163D2C"
+id: D4AB9690-7A89-4C34-A96E-5DA134163D2C
 ---
-
 {artist: Kurt Carr; Tramaine Hawkins}
 
 VERSE 1:

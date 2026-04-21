@@ -1,24 +1,27 @@
 ---
-title: "Let All The Earth Praise Him"
-artist: ""
+title: Let All The Earth Praise Him
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8A499222-309E-4042-A126-D107CD06470B"
+id: 8A499222-309E-4042-A126-D107CD06470B
 ---
-
 VERSE 1:
 [C7]Come [Bb/D]on [C7/E]and
 [F]Praise Him,  [C/E] [Dm]Praise  [D7] [D7/Gb]Him

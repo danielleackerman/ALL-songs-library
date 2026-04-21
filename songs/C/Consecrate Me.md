@@ -1,31 +1,35 @@
 ---
-title: "Consecrate Me"
-artist: ""
+title: Consecrate Me
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9F601F67-BF46-4FFC-B8F9-ED0EFA35947A"
+id: 9F601F67-BF46-4FFC-B8F9-ED0EFA35947A
 ---
-
 [Bb13]Conse[Ab/Eb]crate [Eb]me   [Eb/G]
 Dedi[Bb/Ab]cate [Ab2]me [Eb/G]   [Fm7]
 In  every [Ab/Bb]way [Bb]Lord,  [Ab/Bb]in [Bb]all I[EbM7] do

@@ -1,38 +1,42 @@
 ---
-title: "Bless That Wonderful Name Of Jesus"
-artist: "Traditional"
+title: Bless That Wonderful Name Of Jesus
+artist: Traditional
 key: F
-tempo: 132
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '132'
+time_sig: 4/4
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-fast"
-  - "os-gospel-fast"
-keywords: "os apo fast, os gospel fast"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-fast
+  - os-gospel-fast
+keywords: 'os apo fast, os gospel fast'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3F475BA0-B075-4DE0-96D6-F4BB86418ADF"
+id: 3F475BA0-B075-4DE0-96D6-F4BB86418ADF
 ---
-
 VERSE:
 [F vamp]Bless that wonderful name [F7/A]of [Bb]Je[F]sus  [(bassline)][Eb][E][F]
 [Bb7]Bless that wonderful name [Bb]of [Bb]Je[F]sus

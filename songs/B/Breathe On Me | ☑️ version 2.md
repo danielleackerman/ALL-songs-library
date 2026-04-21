@@ -1,25 +1,28 @@
 ---
-title: "Breathe On Me | ☑️ version 2"
-artist: "Clint Brown"
+title: Breathe On Me | ☑️ version 2
+artist: Clint Brown
 key: F
-tempo: 68
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '68'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium-slow
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[WORSHIP THE KING]]"
-  - "[[BREATHE ON ME]]"
-id: "3E937836-38B8-4BFE-86AC-316D7D8BB8AF"
+  - '[[WORSHIP THE KING]]'
+  - '[[BREATHE ON ME]]'
+id: 3E937836-38B8-4BFE-86AC-316D7D8BB8AF
 ---
-
 Medley: worship the King/breathe on me
 
   [G][Fsus]       [F]

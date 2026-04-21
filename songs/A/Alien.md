@@ -1,22 +1,25 @@
 ---
-title: "Alien"
-artist: "Third Day"
+title: Alien
+artist: Third Day
 key: A
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DB8E0E5C-6559-4692-BFED-8BFD570F28BB"
+id: DB8E0E5C-6559-4692-BFED-8BFD570F28BB
 ---
-
 Album: Conspiracy No. 5
 Copyright 1997 New Spring publishing ( A div. of Brentwood-Benson music
 publishing)

@@ -1,39 +1,43 @@
 ---
-title: "Praise the Lord Everybody"
-artist: ""
+title: Praise the Lord Everybody
+artist: ''
 key: C
-tempo: 114
-time: 
-ccli: 
-copyright: 
+bpm: '114'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-gospel-fast"
-keywords: "os gospel fast"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-gospel-fast
+keywords: os gospel fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[I DON'T MIND GIVING GOD THE PRAISE]]"
-  - "[[THIS IS THE DAY THE LORD HAS MADE]]"
-  - "[[CAN'T NOBODY DO ME LIKE JESUS]]"
-id: "BDF2A446-C530-490D-A643-F88B996FFA29"
+  - '[[I DON''T MIND GIVING GOD THE PRAISE]]'
+  - '[[THIS IS THE DAY THE LORD HAS MADE]]'
+  - '[[CAN''T NOBODY DO ME LIKE JESUS]]'
+id: BDF2A446-C530-490D-A643-F88B996FFA29
 ---
-
 Medley: I don't mind giving God the praise / this is the day the Lord has made / can't nobody do me like Jesus
 
 Praise the Lord everbody (say, said) (praise the Lord) 4x

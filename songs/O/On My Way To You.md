@@ -1,23 +1,26 @@
 ---
-title: "On My Way To You"
-artist: "MercyMe"
+title: On My Way To You
+artist: MercyMe
 key: G
-tempo: 
-time: 
-ccli: "3479881"
-copyright: "2001 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "teach"
+  - teach
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3479881'
+copyright: 2001 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "4EF28C73-1030-4AA7-B1DD-65A65481D89B"
+id: 4EF28C73-1030-4AA7-B1DD-65A65481D89B
 ---
-
 Capo 2
 
 Intro:  D   |  D/F#  | C2  |  <>  |  D    |  D/F#  | C2  |  <>  |

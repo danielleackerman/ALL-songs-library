@@ -1,22 +1,25 @@
 ---
-title: "You are I AM"
-artist: "MercyMe"
+title: You are I AM
+artist: MercyMe
 key: B
-tempo: 
-time: 
-ccli: "6293930"
-copyright: "2012 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6293930'
+copyright: 2012 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "7B8F02A4-C751-4C32-841D-13F676F66FD1"
+id: 7B8F02A4-C751-4C32-841D-13F676F66FD1
 ---
-
 INTRO:
 [B] - [F#] - [G#m] - [E]
 

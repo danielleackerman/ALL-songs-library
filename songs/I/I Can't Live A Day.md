@@ -1,23 +1,26 @@
 ---
-title: "I Can't Live A Day"
-artist: "Avalon"
+title: I Can't Live A Day
+artist: Avalon
 key: A
-tempo: 
-time: 
-ccli: "1952180"
-copyright: "1995 Ariose Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1952180'
+copyright: 1995 Ariose Music
+source: ''
+year: ''
 medley: []
-id: "5A747693-E6A9-4F9D-9FD4-D7A3004600E5"
+id: 5A747693-E6A9-4F9D-9FD4-D7A3004600E5
 ---
-
 VERSE 1:
 [A]I [E/G#]could live[F#m] life alone
 And n[E]ever fil[Dm]l the [A/C#]longings of my heart

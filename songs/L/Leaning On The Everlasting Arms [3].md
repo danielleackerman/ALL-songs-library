@@ -1,59 +1,53 @@
 ---
-title: "Leaning On The Everlasting Arms"
-artist: "Elisha Hoffman"
+title: Leaning On The Everlasting Arms
+artist: ''
 key: A
-tempo: 
-time: 
-ccli: "31779"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med"
-source: "1839-1929"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '31779'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "62719A88-5D89-406E-8613-083A67763335"
+id: 86D92E9D-5999-439F-9F9B-1BB7A0EA6478
 ---
-
 VERSE 1:
-[D/E]       [A]What a [A/F#]fellowship, [D]what a [Bm]joy [D]divine,
-[A]leaning [F#m]on the Ever[Bm]lasting [E]Arms
-[A]What a blessed[A/F#]ness, [D]what a [Bm]peace is [D]mine,
-[A]leaning[F#m] on the Everl[A/E]ast [E]ing [A]Arms
+[A]What a fellowship, [D]what a joy divine  [A]leaning on the Everlasting [E]Arms
+[A]What a blessedness, [D]what a peace is mine, [A]leaning on the Everl[E]asting A[A]rms
 
 CHORUS:
-[A]Lean-ing,   [A/F#]         [D]lean-ing[Bm],
-s[A]afe and se[F#m]cure from [Bm]all al[E]arms;
+[A]Lean-ing,            l[D]ean-ing,           s[A]afe and secure from all al[E]arms;
 (lean-ing on Je-sus) (lean-ing on Je-sus)
-
-[A]Lean-ing,    [A/F#]        [D]lean-ing[Bm],
-l[A]eaning [F#m]on the Ever[Bm]last [E7]ing [A]Arms.
+[A]Lean-ing,            l[D]ean-ing,           l[A]eaning on the Ever[E7]lasting A[A]rms.
 (lean-ing on Je-sus) (lean-ing on Je-sus)
 
 VERSE 2:
-[D/E]    [A]Oh, how[A/F#] sweet to walk [D]in this [Bm]pilgrim [D]way,
-[A]leaning [F#m]on the Ever[Bm]lasting [E]Arms
-[A]Oh, how bright [A/F#]the path [D]grows f[Bm]rom day to [D]day,
-[A]leaning [F#m]on the Ever[A/E]last [E]ing [A]Arms
+[A]Oh, how sweet to walk [D]in this pilgrim way  [A]leaning on the Everlasting [E]Arms
+[A]Oh, how bright the path [D]grows from day to day,[A] leaning on the Ever[E7]lasting [A]Arms
 
 VERSE 3:
-[A]What have [A/F#]I to dread, [D]what have [Bm]I to [D]fear,
-[A]leaning [F#m]on the Ever[Bm]lasting [E]Arms?
-[A]I have blessed [A/F#]peace [D]with my [Bm]Lord so [D]near,
-[A]leaning [F#m]on the Ever[A/E]last [E]ing [A]Arms.
+W[A]hat have I to dread, w[D]hat have I to fear  l[A]eaning on the Everlasting [E]Arms?
+[A]I have blessed peace [D]with my Lord so near  [A]leaning on the Ev[E7]erlastin[A]g Arms.

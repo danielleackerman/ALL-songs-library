@@ -1,24 +1,27 @@
 ---
-title: "Captivate Us"
-artist: "Watermark"
+title: Captivate Us
+artist: Watermark
 key: G
-tempo: 
-time: 
-ccli: "4348021"
-copyright: "2004 Word Music, Inc. / worshiptogether.com songs / sixsteps Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "presence"
+  - jesus
+  - presence
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4348021'
+copyright: '2004 Word Music, Inc. / worshiptogether.com songs / sixsteps Music'
+source: ''
+year: ''
 medley: []
-id: "CDA693E2-CB41-4154-9F96-510ADBEC3749"
+id: CDA693E2-CB41-4154-9F96-510ADBEC3749
 ---
-
 [G]Your face is [D/F#]beautiful And Your [Em7]eyes are like the stars
 [C]Your gentle hands have [G/B]healing [C]there inside the [Dsus4add9]scars      [C2(no3)]         [G]
 [G]Your loving arms they [D/F#]draw me near and Your [Em7]smile it brings me peace

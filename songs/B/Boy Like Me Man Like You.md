@@ -1,22 +1,25 @@
 ---
-title: "Boy Like Me Man Like You"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Boy Like Me Man Like You
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "607F7619-4E90-4F63-B5C6-EEC1DCA4BEEA"
+id: 607F7619-4E90-4F63-B5C6-EEC1DCA4BEEA
 ---
-
 Key:
 
 Boy Like Me/ Man Like You

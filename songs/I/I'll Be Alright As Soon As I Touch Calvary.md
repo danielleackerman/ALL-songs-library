@@ -1,35 +1,39 @@
 ---
-title: "I'll Be Alright As Soon As I Touch Calvary"
-artist: ""
+title: I'll Be Alright As Soon As I Touch Calvary
+artist: ''
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "calvary"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - calvary
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "79BD606C-17D1-43D0-A5DF-793B06B298AC"
+id: 79BD606C-17D1-43D0-A5DF-793B06B298AC
 ---
-
 (Verse:1)
 
 [G/A]Friend [D2]don't worry bout this heavy [D7/F#]load I [G2]carry.  [Em7]

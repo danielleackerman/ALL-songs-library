@@ -1,37 +1,41 @@
 ---
-title: "You Are Awesome In This Place"
-artist: "Dave Billington"
+title: You Are Awesome In This Place
+artist: Dave Billington
 key: C
-tempo: 
-time: 
-ccli: "847554"
-copyright: "1992 Integrity's Hosanna! Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "awesome"
-  - "ccli"
-  - "hillsong"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - awesome
+  - ccli
+  - hillsong
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-  - "mod-apo-slow"
-keywords: "mod apo slow, ccli, hillsong"
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+  - mod-apo-slow
+keywords: 'mod apo slow, ccli, hillsong'
+ccli: '847554'
+copyright: 1992 Integrity's Hosanna! Music
+source: ''
+year: ''
 medley: []
-id: "AADD045A-4BD1-4938-B53B-CA8E895F6725"
+id: AADD045A-4BD1-4938-B53B-CA8E895F6725
 ---
-
 VERSE 1:
 As I [Csus]come into Your [C]presence
 [Fsus]Past the gates of [F]praise

@@ -1,24 +1,27 @@
 ---
-title: "Let Me Walk With You, Jesus"
-artist: "Wanda Tillman"
+title: 'Let Me Walk With You, Jesus'
+artist: Wanda Tillman
 key: F
-tempo: 
-time: "6/8"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 6/8
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
 year: 1966
 medley: []
-id: "C30B426B-A6FD-4210-A41A-87A6BDE935B7"
+id: C30B426B-A6FD-4210-A41A-87A6BDE935B7
 ---
-
 CHORUS:
 [F2]Let me [Eb/C]walk with [A7+]You [BbM7]Jesus  [Am7]  [Gm7]
 Don’t [C7]ever [Gm7]leave me [C7b9]a[FM7]lone  [Bb/C]

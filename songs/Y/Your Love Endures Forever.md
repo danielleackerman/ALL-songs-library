@@ -1,24 +1,27 @@
 ---
-title: "Your Love Endures Forever"
-artist: "Third Day"
+title: Your Love Endures Forever
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "life"
+  - love
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C9AC3473-13C3-42C9-9252-B0B7E4385380"
+id: C9AC3473-13C3-42C9-9252-B0B7E4385380
 ---
-
 Group: Third Day
 CD: Conspiracy no.5
 Mailed In By:  Biffster3@aol.com

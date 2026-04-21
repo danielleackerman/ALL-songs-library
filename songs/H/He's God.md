@@ -1,40 +1,44 @@
 ---
-title: "He's God"
-artist: "Brooklyn Tabernacle Choir"
+title: He's God
+artist: Brooklyn Tabernacle Choir
 key: Eb
-tempo: 56
-time: 
-ccli: 
-copyright: 
+bpm: '56'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "presence"
-  - "praise"
-  - "reverence"
-  - "thanksgiving"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - presence
+  - praise
+  - reverence
+  - thanksgiving
 genre: []
-energy: slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-  - "cont-gospel-slow"
-keywords: "mod apo slow, cont gospel slow, praise, worship, reverence, thanksgiving"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+  - cont-gospel-slow
+keywords: 'mod apo slow, cont gospel slow, praise, worship, reverence, thanksgiving'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D9B69637-816F-4412-8FD5-D5E3EAD50A55"
+id: D9B69637-816F-4412-8FD5-D5E3EAD50A55
 ---
-
 {artist: Brooklyn Tabernacle Choir}
 
 (Verse:1)

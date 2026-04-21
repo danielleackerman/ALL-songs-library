@@ -1,22 +1,25 @@
 ---
-title: "Nothing Compares"
-artist: "Third Day"
+title: Nothing Compares
+artist: Third Day
 key: A
-tempo: 
-time: 
-ccli: "3522776"
-copyright: "2001 New Spring / Vandura 2500 Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3522776'
+copyright: 2001 New Spring / Vandura 2500 Songs
+source: ''
+year: ''
 medley: []
-id: "8F90FFFE-873A-43D7-A1FC-52EAB6BAD069"
+id: 8F90FFFE-873A-43D7-A1FC-52EAB6BAD069
 ---
-
 VERSE 1:
 W[A]ell I've heard [E]all the s[F#m]tories
 [A]And I've seen [E]all the si[F#m]gns

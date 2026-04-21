@@ -1,26 +1,29 @@
 ---
-title: "At the Cross (184)"
-artist: "I. Watts & R. E. Hudson"
+title: At the Cross (184)
+artist: I. Watts & R. E. Hudson
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "cross"
-  - "traditional"
-  - "sutl"
-  - "energetic"
+  - cross
+  - traditional
+  - sutl
+  - energetic
 genre: []
-energy: high
 profile: []
-keywords: "traditional, sutl, energetic"
-source: 
-year: 
+keywords: 'traditional, sutl, energetic'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A04217B6-74CF-42B6-ABE6-D9B6B50DD11E"
+id: A04217B6-74CF-42B6-ABE6-D9B6B50DD11E
 ---
-
 Medley:
 At Calvary
 Down at the cross (glory to His name)

@@ -1,24 +1,30 @@
 ---
-title: "Song Title"
-artist: "Artist Name"
-key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Song Title
+artist: Artist Name
+key: C
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "22E56EBB-B2C7-472E-87C0-96D32D79D9E5"
+id: DA4F37F1-0ADC-42CF-807F-C14999352D5C
 ---
+VERSE 1:
+[C]Type your lines of the [F]song here
+Just [C]use line breaks to [G]make lines
+[Am]Placing the [G/B]chords [F]where you [Em]want them
 
-[F]God is about to do marvelous things,
-[F]God is about to do marvelous [Eb/C]thi[F7]ngs.
-Every[BbM9]thing that He said is [C/Bb]true,
-What He [A7b9]said in His word He will [D7#5#9]do for you,
-[Gm9]God is about to [F/C]do [Bb/C]marvelous [F]things.
+CHORUS:
+[C2]You can also [Csus4]repeat the chorus with [G]notes
+(Repeat 3x)

@@ -1,37 +1,41 @@
 ---
-title: "The Blood Will Never Lose Its Power"
-artist: "Andre Crouch"
+title: The Blood Will Never Lose Its Power
+artist: Andre Crouch
 key: A
-tempo: 76
-time: "3/4"
-ccli: "11885"
-copyright: "1966 Manna Music, Inc. (Admin. by ClearBox Rights, LLC)"
+bpm: '76'
+time_sig: 3/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "blood"
-  - "power"
-  - "med-slow"
-  - "andante"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - blood
+  - power
+  - med-slow
+  - andante
 genre: []
-energy: medium-slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-med"
-  - "os-gospel-med"
-keywords: "os apo med, os gospel med, med slow, andante"
-source: "Original Key Ab"
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-med
+  - os-gospel-med
+keywords: 'os apo med, os gospel med, med slow, andante'
+ccli: '11885'
+copyright: '1966 Manna Music, Inc. (Admin. by ClearBox Rights, LLC)'
+source: Original Key Ab
+year: ''
 medley: []
-id: "CD666C99-230F-4A90-B8A3-B71D812F2547"
+id: CD666C99-230F-4A90-B8A3-B71D812F2547
 ---
-
 VERSE 1:
 The [A]blood that Jesus [D]shed [D#dim]for [A]me [C#7]
 [F#m]way back on Calvary [Adim]

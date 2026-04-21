@@ -1,24 +1,27 @@
 ---
-title: "Sweet Jesus"
-artist: "Selah"
+title: Sweet Jesus
+artist: Selah
 key: G
-tempo: 
-time: 
-ccli: "4045410"
-copyright: "2004 Curb Songs/Who'sJo/Todd Smith Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "friend"
+  - jesus
+  - friend
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4045410'
+copyright: 2004 Curb Songs/Who'sJo/Todd Smith Publishing
+source: ''
+year: ''
 medley: []
-id: "BE1213BA-3C69-4EC2-B300-5FE91DA5E8F5"
+id: BE1213BA-3C69-4EC2-B300-5FE91DA5E8F5
 ---
-
 INTRO:
 [G] - [Am7] - [C] - [Dsus] - [D]
 

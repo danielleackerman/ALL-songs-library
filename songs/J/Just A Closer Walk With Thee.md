@@ -1,35 +1,39 @@
 ---
-title: "Just A Closer Walk With Thee"
-artist: "Anon."
+title: Just A Closer Walk With Thee
+artist: Anon.
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - altar-songs
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "altar-songs-black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    altar-songs-black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "468BF48A-4047-4A8A-9D8A-208FE98AC71B"
+id: 468BF48A-4047-4A8A-9D8A-208FE98AC71B
 ---
-
 VERSE 1:
 [G2]I am weak but [G7b9/G#]Thou art [Am7]strong     [D7]
 [Am7]Jesus [D7]keep me from all [GM7]wrong    [C/D]

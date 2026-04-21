@@ -1,25 +1,28 @@
 ---
-title: "Where Could I Go?"
-artist: "James B Coats"
+title: Where Could I Go?
+artist: James B Coats
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: "1987 Warner Brothers Records / Stamps-Baxter Music (BMI)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "blue-roots"
+  - altar-songs
+  - blue-roots
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-keywords: "os apo med, blue roots"
-source: 
-year: 
+  - os-apo-med
+keywords: 'os apo med, blue roots'
+ccli: ''
+copyright: 1987 Warner Brothers Records / Stamps-Baxter Music (BMI)
+source: ''
+year: ''
 medley: []
-id: "FC2B0E2C-B0D1-40B3-BB32-D7214891971D"
+id: FC2B0E2C-B0D1-40B3-BB32-D7214891971D
 ---
-
 VERSE 1:
 [E]Living below in thi[A]s old sinful wo[E]rld
 Hardly a comfort can affor[B7]d

@@ -1,23 +1,29 @@
 ---
-title: "The Name of the Lord"
-artist: "Clinton Utterbach"
+title: The Name of the Lord
+artist: Clinton Utterbach
 key: F
-tempo: 
-time: 
-ccli: "265239"
-copyright: "1989 Universal-Polygram International Publishing, Inc. (Admin. by Universal Music  Corp.) Utterbach Music Publishing Company (Admin. by Universal Music Corp.)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "os-christian"
+  - os-christian
 genre: []
-energy: 
 profile: []
-keywords: "os christian"
-source: 
-year: 
+keywords: os christian
+ccli: '265239'
+copyright: >-
+  1989 Universal-Polygram International Publishing, Inc. (Admin. by Universal
+  Music  Corp.) Utterbach Music Publishing Company (Admin. by Universal Music
+  Corp.)
+source: ''
+year: ''
 medley: []
-id: "B1EDE4F4-5C23-433A-9793-E27D5D6B6639"
+id: B1EDE4F4-5C23-433A-9793-E27D5D6B6639
 ---
-
 Original key g
 
 The [C11]name of the [F]Lord is [Bb] a strong [F]tower

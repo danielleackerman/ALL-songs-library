@@ -1,40 +1,44 @@
 ---
-title: "Let Me Walk In The Light"
-artist: "O.S. Davis"
+title: Let Me Walk In The Light
+artist: O.S. Davis
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "gospel"
-  - "light"
-  - "sutl"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - gospel
+  - light
+  - sutl
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "sutl, os apo med"
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: 'sutl, os apo med'
+ccli: ''
+copyright: ''
+source: ''
 year: 1947
 medley: []
-id: "C085ECF0-C964-494E-B805-090096D05908"
+id: C085ECF0-C964-494E-B805-090096D05908
 ---
-
 {artist: O.S. Davis, 1947 }
 
 VERSE 1:

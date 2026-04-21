@@ -1,35 +1,39 @@
 ---
-title: "Sing For Joy"
-artist: "Lamont Hiebert, as performed by Don Moen"
+title: Sing For Joy
+artist: 'Lamont Hiebert, as performed by Don Moen'
 key: G
-tempo: 
-time: 
-ccli: "1861357"
-copyright: "1996 Integrity's Hosanna! Music (c/o Integrity Music, Inc.)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "love"
-  - "joy"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - love
+  - joy
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+keywords: ''
+ccli: '1861357'
+copyright: '1996 Integrity''s Hosanna! Music (c/o Integrity Music, Inc.)'
+source: ''
+year: ''
 medley: []
-id: "EEFFE0CE-18E1-4177-B85A-5D586EF0C67C"
+id: EEFFE0CE-18E1-4177-B85A-5D586EF0C67C
 ---
-
 [E]If we call to Him,[A] He will answer us
 [E]If we run to Him,[B] He will run to us
 [E]If we lift our hands,[A] He will lift us up

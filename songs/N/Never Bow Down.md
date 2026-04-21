@@ -1,22 +1,25 @@
 ---
-title: "Never Bow Down"
-artist: "Third Day"
+title: Never Bow Down
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: "3013333"
-copyright: "1999 New Spring / Gray Dot Songs / Vandura 2500 Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3013333'
+copyright: 1999 New Spring / Gray Dot Songs / Vandura 2500 Songs
+source: ''
+year: ''
 medley: []
-id: "96FBF9F7-9B07-4E14-AD0B-FBE1A478C027"
+id: 96FBF9F7-9B07-4E14-AD0B-FBE1A478C027
 ---
-
 This song is a really cool song in the beginning.  I'm only tabbing it
 for acoustic  guitar because that is the only kind of guitar i got.
 Email me if you have any questions or changes.

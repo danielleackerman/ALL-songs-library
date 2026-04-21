@@ -1,56 +1,51 @@
 ---
-title: "Victory In The House"
-artist: ""
+title: Victory in the House
+artist: 'Key of: F'
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "victory"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - victory
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "AF3F3EE1-6DEF-4787-9CF8-30E596B19634"
+id: F73E920A-12D7-4F2C-8E59-E61E37DEFCFA
 ---
-
 CHORUS:
-[F]Victory in the house, victory [G7]in the [C7]house [Db7]  [C9]
-[Bb/C]I’m [F]going [F7/A]in to [Bb2]possess the [Bdim]land
-[Ab/A]Victor[Gm/Bb]y [Bdim]in  [C7#9]the [F]house.
+[F]Victory in the House
+I feel, Victory [G]in the [C]House
+And I'm [F]goin [F7/A]in to [Bb]posses the [Bbo]land
+[Ab]Vict[Gm]ory in [Bb/C]the [F]House
 
-Peace
+CHORUS 1:
+Joy in the House
 
-Joy
+CHORUS 2:
+Jesus is in the House
 
-Deliverance
-
-Healing
-
-Forgiveness
-
-Jesus
-
-
-
-
-
-
-
+CHORUS 3:
+Holy Ghost is in the House

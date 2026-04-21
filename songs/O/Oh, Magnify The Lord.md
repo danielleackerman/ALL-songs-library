@@ -1,24 +1,29 @@
 ---
-title: "Oh, Magnify The Lord"
-artist: "Jonathon Butler, 2006"
+title: 'Oh, Magnify The Lord'
+artist: 'Jonathon Butler, 2006'
 key: Eb
-tempo: 
-time: 
-ccli: "11263"
-copyright: "1981 MCA Music Publishing., A.D.O. Universal Studio, Sound III, Inc., Admin. by Universal Music Corp."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "ccli"
+  - ccli
 genre: []
-energy: 
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med, ccli"
-source: "Original Key D; Michael O’Shields"
-year: 
+  - mod-apo-med
+keywords: 'mod apo med, ccli'
+ccli: '11263'
+copyright: >-
+  1981 MCA Music Publishing., A.D.O. Universal Studio, Sound III, Inc., Admin.
+  by Universal Music Corp.
+source: Original Key D; Michael O’Shields
+year: ''
 medley: []
-id: "6294132E-07CD-47E2-AEAD-CBE542536AC6"
+id: 6294132E-07CD-47E2-AEAD-CBE542536AC6
 ---
-
 [Eb]Oh [Ab]magnify the [Eb]Lord
 [Ab/Bb]For [Eb]He is [Bb7]worthy to be [Eb]praised    [Ab/Bb]
 [Eb]Oh [Ab]magnify the [Eb]Lord.

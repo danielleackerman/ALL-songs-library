@@ -1,24 +1,27 @@
 ---
-title: "There is Power, So Much Power in the Precious Name of Jesus"
-artist: "Cooley Choruses"
+title: 'There is Power, So Much Power in the Precious Name of Jesus'
+artist: Cooley Choruses
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "power"
+  - jesus
+  - power
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "2C03451E-866B-4559-BD31-AC6397473BF2"
+id: 2C03451E-866B-4559-BD31-AC6397473BF2
 ---
-
 CHORUS:
 [Bb/C]There is po[F]wer so much power
 [B+11]In the pre[Bb9]cious name of [Bb9]je[F]sus

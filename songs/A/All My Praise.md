@@ -1,25 +1,28 @@
 ---
-title: "All My Praise"
-artist: "Selah"
+title: All My Praise
+artist: Selah
 key: D
-tempo: 65
-time: 
-ccli: "4437217"
-copyright: "2002 BMG Songs, Inc."
+bpm: '65'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "ccli"
-  - "contemp-med"
+  - praise
+  - ccli
+  - contemp-med
 genre: []
-energy: medium-slow
 profile: []
-keywords: "ccli, contemp med"
-source: 
-year: 
+keywords: 'ccli, contemp med'
+ccli: '4437217'
+copyright: '2002 BMG Songs, Inc.'
+source: ''
+year: ''
 medley: []
-id: "3ADBFDD4-3552-4DE4-B6BD-31AD64CADE16"
+id: 3ADBFDD4-3552-4DE4-B6BD-31AD64CADE16
 ---
-
 VERSE 1:
 [Bm]I will [F#m]follow You through [Gmaj7]Green pastures
 and [Bm]sing Hallel[F#m]ujah to Your [Gmaj7]name

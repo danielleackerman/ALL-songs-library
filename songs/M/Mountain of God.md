@@ -1,22 +1,25 @@
 ---
-title: "Mountain of God"
-artist: "Third Day"
+title: Mountain of God
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: "3930980"
-copyright: "2002 New Spring Publishing / Banistuci Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3930980'
+copyright: 2002 New Spring Publishing / Banistuci Music
+source: ''
+year: ''
 medley: []
-id: "AE1CD2EA-65A6-400C-A7A0-C9E88EAAA93F"
+id: AE1CD2EA-65A6-400C-A7A0-C9E88EAAA93F
 ---
-
 VERSE 1:
 I [D]Thought that I was all alone,
 [A]broken and af[Asus4]raid

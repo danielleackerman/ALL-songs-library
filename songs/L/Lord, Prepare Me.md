@@ -1,23 +1,26 @@
 ---
-title: "Lord, Prepare Me"
-artist: "Randy Scruggs"
+title: 'Lord, Prepare Me'
+artist: Randy Scruggs
 key: Eb
-tempo: 
-time: 
-ccli: "968165"
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - os-apo-med
+keywords: os apo med
+ccli: '968165'
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "45FD0B0C-9B6B-4B2C-9F1D-BEBCB93A6865"
+id: 45FD0B0C-9B6B-4B2C-9F1D-BEBCB93A6865
 ---
-
 {artist: Randy Scruggs}
 
 CHORUS:

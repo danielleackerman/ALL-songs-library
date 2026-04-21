@@ -1,22 +1,27 @@
 ---
-title: "I Am Not Alone"
-artist: "Kari Jobe"
+title: I Am Not Alone
+artist: Kari Jobe
 key: E
-tempo: 
-time: 
-ccli: "7007821"
-copyright: "© KAJE Songs (Admin. by EMI Christian Music Publishing)SHOUT! Music Publishing (Admin. by EMI Christian Music Publishing)Worship Together Music (Admin"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7007821'
+copyright: >-
+  © KAJE Songs (Admin. by EMI Christian Music Publishing)SHOUT! Music Publishing
+  (Admin. by EMI Christian Music Publishing)Worship Together Music (Admin
+source: ''
+year: ''
 medley: []
-id: "5E0EC4C2-C76E-4B54-9C86-CC9CEB56FC9D"
+id: 5E0EC4C2-C76E-4B54-9C86-CC9CEB56FC9D
 ---
-
 INTRO:
 [C#m] - [A] - [F#m] - [C#m] - [B] (x2)
 

@@ -1,23 +1,26 @@
 ---
-title: "Everything Impossible"
-artist: "MercyMe"
+title: Everything Impossible
+artist: MercyMe
 key: C
-tempo: 
-time: 
-ccli: "4312129"
-copyright: "2004 by Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4312129'
+copyright: 2004 by Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "886D8DE5-579C-415A-A08A-07130033753F"
+id: 886D8DE5-579C-415A-A08A-07130033753F
 ---
-
 M=97
 
 FORM – 1st V / Pre-C / C / 2nd V / Pre-C / C / Br / C / C

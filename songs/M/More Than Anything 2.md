@@ -1,26 +1,29 @@
 ---
-title: "More Than Anything 2"
-artist: "Don Moen"
+title: More Than Anything 2
+artist: Don Moen
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[MORE THAN ANYTHING]]"
-  - "[[I WORSHIP YOU ALMIGHTY GOD]]"
-  - "[[THERE IS NONE LIKE YOU]]"
-id: "350845DD-5776-4B15-B711-62E2B982246B"
+  - '[[MORE THAN ANYTHING]]'
+  - '[[I WORSHIP YOU ALMIGHTY GOD]]'
+  - '[[THERE IS NONE LIKE YOU]]'
+id: 350845DD-5776-4B15-B711-62E2B982246B
 ---
-
 Medley: more than anything / I worship You almighty God / there is none like You
 
 [Eb7]More than any[Ab]thing

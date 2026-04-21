@@ -1,28 +1,33 @@
 ---
-title: "I Will Stand in the Congregation-2"
-artist: "Bill Batstone, Maranatha Singers"
+title: I Will Stand in the Congregation-2
+artist: 'Bill Batstone, Maranatha Singers'
 key: Eb
-tempo: 78
-time: 
-ccli: "11930"
-copyright: "1988 Universal Music-Brentwood Benson Publishing, Admin. Brentwood Benson Publishing"
+bpm: '78'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "worship"
-  - "exaltation"
-  - "declaration-worship"
+  - praise
+  - worship
+  - exaltation
+  - declaration-worship
 genre: []
-energy: medium-slow
 profile:
-  - "os-apo-med-slow"
-  - "os-christian-med"
-keywords: "os apo med slow, os christian med, praise, exaltation, declaration worship"
-source: 
-year: 
+  - os-apo-med-slow
+  - os-christian-med
+keywords: 'os apo med slow, os christian med, praise, exaltation, declaration worship'
+ccli: '11930'
+copyright: >-
+  1988 Universal Music-Brentwood Benson Publishing, Admin. Brentwood Benson
+  Publishing
+source: ''
+year: ''
 medley: []
-id: "944CBD63-9676-42F9-A19F-EF7A90A0A993"
+id: 944CBD63-9676-42F9-A19F-EF7A90A0A993
 ---
-
 original key : Eb
 
 [Eb]I [Fm/Eb]will [Eb]stand in the con[Fm/Eb]grega[Eb]tion and I [Fm/Eb]will ex[Eb]alt[Fm/Eb] [Eb]You,

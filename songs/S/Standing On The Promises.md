@@ -1,33 +1,36 @@
 ---
-title: "Standing On The Promises"
-artist: ""
+title: Standing On The Promises
+artist: ''
 key: Bb
-tempo: 
-time: 
-ccli: "31803"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "christ"
-  - "sutl"
-  - "anthemic"
-  - "march"
-  - "upbeat"
+  - christ
+  - sutl
+  - anthemic
+  - march
+  - upbeat
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-keywords: "sutl, os apo med, anthemic, march, upbeat"
-source: 
-year: 
+  - os-apo-med
+keywords: 'sutl, os apo med, anthemic, march, upbeat'
+ccli: '31803'
+copyright: Public Domain
+source: ''
+year: ''
 medley:
-  - "[[DRAW ME NEARER]]"
-  - "[[BLESSED LORD]]"
-  - "[[GREATER IS HE THAT IS IN ME]]"
-  - "[[BATTLE HYMN OF THE REPUBLIC (MINE EYES HAVE SEEN THE COMING OF THE LORD]]"
-  - "[[ALL IN ALL]]"
-id: "108354A5-769E-4F06-B3D9-67AE1FDE50C0"
+  - '[[DRAW ME NEARER]]'
+  - '[[BLESSED LORD]]'
+  - '[[GREATER IS HE THAT IS IN ME]]'
+  - '[[BATTLE HYMN OF THE REPUBLIC (MINE EYES HAVE SEEN THE COMING OF THE LORD]]'
+  - '[[ALL IN ALL]]'
+id: 108354A5-769E-4F06-B3D9-67AE1FDE50C0
 ---
-
 Medley: draw me nearer, blessed Lord / greater is He that is in me / battle hymn of the republic (mine eyes have seen the coming of the Lord) / all in all
 
 VERSE 1:

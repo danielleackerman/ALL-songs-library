@@ -1,24 +1,27 @@
 ---
-title: "Bethlehem Town"
-artist: "Jars Of Clay"
+title: Bethlehem Town
+artist: Jars Of Clay
 key: G
-tempo: 
-time: 
-ccli: "3902028"
-copyright: "2002 Bridge Building Music / Pogostick Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "king"
-  - "men"
+  - king
+  - men
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3902028'
+copyright: 2002 Bridge Building Music / Pogostick Music
+source: ''
+year: ''
 medley: []
-id: "D2025547-B57F-4C3C-AA63-8D046127989D"
+id: D2025547-B57F-4C3C-AA63-8D046127989D
 ---
-
 VERSE 1:
 Oh Mary Joseph rest your eyes, and[Am] try not think of the ending               [E7]
 World full of empty He will die, but tonight[Am] he is still just a Child    [D/F#]              [E7]

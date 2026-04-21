@@ -1,37 +1,41 @@
 ---
-title: "Ain't No Rock"
-artist: "Doretha Jones"
+title: Ain't No Rock
+artist: Doretha Jones
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "rock"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - rock
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-gospel-med"
-keywords: "os gospel med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-gospel-med
+keywords: os gospel med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4CA08D66-AC21-4A49-A8B6-B0C52CD1C4E4"
+id: 4CA08D66-AC21-4A49-A8B6-B0C52CD1C4E4
 ---
-
 CHORUS:
 [C]Ain't no rock gonna take my place, [Bb]I'm gonna [F]praise the [C]Lord
 [C]Ain't no rock gonna take my place, [Bb]I'm gonna [F]praise the [C]Lord

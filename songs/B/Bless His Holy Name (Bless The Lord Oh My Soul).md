@@ -1,26 +1,29 @@
 ---
-title: "Bless His Holy Name (Bless The Lord Oh My Soul)"
-artist: "Andrae Crouch"
+title: Bless His Holy Name (Bless The Lord Oh My Soul)
+artist: Andrae Crouch
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "faithfulness"
-  - "praise"
-  - "adoration"
+  - faithfulness
+  - praise
+  - adoration
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-keywords: "os apo med, faithfulness, praise, adoration"
-source: 
-year: 
+  - os-apo-med
+keywords: 'os apo med, faithfulness, praise, adoration'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A9824230-56A8-4159-A0E6-1FA12D3E7890"
+id: A9824230-56A8-4159-A0E6-1FA12D3E7890
 ---
-
 CHORUS:
 [Eb2]Bless the [Bbdim7/E]Lord,[Ebsus/F]O my soul;[Gm/Bb]
 [Fm/Bb]And [Eb2]all [Eb]that [Fm]is [Eb/G] with[Eb/Ab]in [Fm/Ab]me

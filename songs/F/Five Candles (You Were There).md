@@ -1,22 +1,25 @@
 ---
-title: "Five Candles (You Were There)"
-artist: "Jars Of Clay"
+title: Five Candles (You Were There)
+artist: Jars Of Clay
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CB7226A1-4B05-4DF1-AFAF-F9BD6323FA81"
+id: CB7226A1-4B05-4DF1-AFAF-F9BD6323FA81
 ---
-
 [D]Promise or a dare[Dadd9]
 [Bm]I would jump if I k[A]new you'd catch me
 [D]Staring over the edge[Dadd9]

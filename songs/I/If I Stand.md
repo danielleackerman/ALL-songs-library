@@ -1,22 +1,25 @@
 ---
-title: "If I Stand"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: If I Stand
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4F447360-9E6B-4B21-B832-61317557BF4A"
+id: 4F447360-9E6B-4B21-B832-61317557BF4A
 ---
-
 Key:
 
 INTRO: Gsus G Gsus G

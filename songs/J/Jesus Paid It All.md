@@ -1,35 +1,39 @@
 ---
-title: "Jesus Paid It All"
-artist: ""
+title: Jesus Paid It All
+artist: ''
 key: D
-tempo: 
-time: 
-ccli: "22331"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '22331'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "E8B10849-955C-493C-BC45-7631D82A6AD7"
+id: E8B10849-955C-493C-BC45-7631D82A6AD7
 ---
-
 VERSE 1:
     D
 I hear the Savior say

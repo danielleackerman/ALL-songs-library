@@ -1,22 +1,25 @@
 ---
-title: "These Ordinary Days"
-artist: "Jars Of Clay"
+title: These Ordinary Days
+artist: Jars Of Clay
 key: G
-tempo: 
-time: 
-ccli: "3605909"
-copyright: "2002 Bridge Building Music, Inc. / Pogostick Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3605909'
+copyright: '2002 Bridge Building Music, Inc. / Pogostick Music'
+source: ''
+year: ''
 medley: []
-id: "F67AAE80-15A5-46CB-8E48-2F98D628D95D"
+id: F67AAE80-15A5-46CB-8E48-2F98D628D95D
 ---
-
 Capo 5
 
 Intro: C  G  C  G

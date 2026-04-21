@@ -1,22 +1,25 @@
 ---
-title: "Be With You"
-artist: "Rich Mullins"
+title: Be With You
+artist: Rich Mullins
 key: G
-tempo: 
-time: 
-ccli: "702118"
-copyright: "1987 BMG Songs, Inc. / River Oaks Music Company"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '702118'
+copyright: '1987 BMG Songs, Inc. / River Oaks Music Company'
+source: ''
+year: ''
 medley: []
-id: "EBCE3C34-9847-4B5D-A9C4-C1D4ECD47ABD"
+id: EBCE3C34-9847-4B5D-A9C4-C1D4ECD47ABD
 ---
-
 INTRO:
 [G] [Em] [C2] [Am7] [D7sus] [D7]
 

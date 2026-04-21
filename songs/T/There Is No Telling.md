@@ -1,22 +1,25 @@
 ---
-title: "There Is No Telling"
-artist: ""
+title: There Is No Telling
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "25B319D4-8826-4DFC-8590-E87E187FC055"
+id: 25B319D4-8826-4DFC-8590-E87E187FC055
 ---
-
 CHORUS:
 [Bb/C]There is no [F]tell[F/Eb]ing   [D7]
 What God can [G9]do if [Bb/C]you be[F]lieve   [Bb9]

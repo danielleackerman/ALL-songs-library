@@ -1,24 +1,27 @@
 ---
-title: "Holy Ghost and Fire"
-artist: "Key of: F"
+title: Holy Ghost and Fire
+artist: 'Key of: F'
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "alive"
-  - "holy-ghost"
+  - alive
+  - holy-ghost
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FA9B269A-178D-48BB-9A6C-15BAE656DE65"
+id: 257EE5D1-2380-44B0-B7CB-D84074F68511
 ---
-
 CHORUS:
 [Bb/C]It's that [F]Holy Ghost [Bb]and [F]Fire
 [Bb]and it's [F]keeping me alive

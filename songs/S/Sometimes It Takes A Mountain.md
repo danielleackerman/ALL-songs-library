@@ -1,36 +1,40 @@
 ---
-title: "Sometimes It Takes A Mountain"
-artist: "Gloria Gaither & Mark Mathes"
+title: Sometimes It Takes A Mountain
+artist: Gloria Gaither & Mark Mathes
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "love"
-  - "trust"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - love
+  - trust
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "320896E2-93A0-4ED1-A5D5-7DC4930FFF26"
+id: 320896E2-93A0-4ED1-A5D5-7DC4930FFF26
 ---
-
 VERSE 1:
 I faced a mountain
 That I never faced before

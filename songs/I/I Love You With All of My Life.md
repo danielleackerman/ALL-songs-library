@@ -1,24 +1,27 @@
 ---
-title: "I Love You With All of My Life"
-artist: "Mark Condon"
+title: I Love You With All of My Life
+artist: Mark Condon
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "mercy"
+  - love
+  - mercy
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C97128CB-355C-49F4-8291-5DEE72F8AEC2"
+id: C97128CB-355C-49F4-8291-5DEE72F8AEC2
 ---
-
 VERSE 1:
 [C/D]There were [G]times in my life when [G/F]I let you down,
 [G/E]Times in my life, I thought you [G/D]couldn't be [Cm6/D#]found.

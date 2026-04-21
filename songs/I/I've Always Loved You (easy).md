@@ -1,22 +1,25 @@
 ---
-title: "I've Always Loved You (easy)"
-artist: "Third Day"
+title: I've Always Loved You (easy)
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "1999 New Spring Publishing, Inc"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: '1999 New Spring Publishing, Inc'
+source: ''
+year: ''
 medley: []
-id: "E5F1173E-2B3F-40D6-B113-0C3B5EE2975A"
+id: E5F1173E-2B3F-40D6-B113-0C3B5EE2975A
 ---
-
 Okay here's an easy way to play this song!
 
 Capo on 4th fret!

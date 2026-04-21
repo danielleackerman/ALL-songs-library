@@ -1,26 +1,29 @@
 ---
-title: "My God Can Do Anything"
-artist: "Luther Barnes & The Red Budd Gospel Choir"
+title: My God Can Do Anything
+artist: Luther Barnes & The Red Budd Gospel Choir
 key: F
-tempo: 
-time: "4/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 4/4
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "fast-funky"
-  - "power"
+  - black-gospel
+  - fast-funky
+  - power
 genre: []
-energy: 
 profile:
-  - "black-gospel-fast-funky"
-keywords: 
-source: 
-year: 
+  - black-gospel-fast-funky
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FD5C2898-7201-402A-8CE5-8D0802DCCA97"
+id: FD5C2898-7201-402A-8CE5-8D0802DCCA97
 ---
-
 INTRO:
 [F] [F] [D] [Eb]  [F] [D] [Eb] [Eb]
 [F] [F] [D] [Eb]  [F] [D] [Eb] [Eb]

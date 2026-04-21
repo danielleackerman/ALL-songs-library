@@ -1,38 +1,42 @@
 ---
-title: "Make Me A Blessing"
-artist: "George Schuler"
+title: Make Me A Blessing
+artist: George Schuler
 key: Eb
-tempo: 
-time: "6/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 6/4
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium"
-  - "medium-slow"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "blessing"
-  - "life"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium
+  - medium-slow
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - blessing
+  - life
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-medium-slow-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-medium-slow-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
 year: 1924
 medley: []
-id: "F82EA4E9-F730-429E-9993-0E6973D852DB"
+id: F82EA4E9-F730-429E-9993-0E6973D852DB
 ---
-
 INTRO:
 [Eb] [Bb7] [Eb7] [Ab] [D] [Eb] [Fm] [Bb7]
 

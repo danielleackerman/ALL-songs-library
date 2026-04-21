@@ -1,23 +1,26 @@
 ---
-title: "Christ Is Come"
-artist: "Big Daddy Weave"
+title: Christ Is Come
+artist: Big Daddy Weave
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "2004 Fervent Records / Open Worship Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "christ"
+  - christ
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2004 Fervent Records / Open Worship Music
+source: ''
+year: ''
 medley: []
-id: "A520A79F-3D9E-4DF6-B4AE-DFA746A5CE28"
+id: A520A79F-3D9E-4DF6-B4AE-DFA746A5CE28
 ---
-
 INTRO – Drum fill –
 [D,]   [D/F#]     [|]  [G]  [|]  [Bm]   [|]  [A]   [(repeat)]
 

@@ -1,36 +1,43 @@
 ---
-title: "Send It On Down"
-artist: "Geron Davis"
+title: Send It On Down
+artist: Geron Davis
 key: F
-tempo: 
-time: 
-ccli: "1144012"
-copyright: "1994 DaviSongShop (Admin. by Capitol CMG Publishing former Gaither Admin.), Gaither Music Company, Admin. Gaither Copyright Management, Capitol CMG Publishing,Music Services, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-  - "os-southern-gospel-med"
-keywords: "os apo med, os southern gospel med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+  - os-southern-gospel-med
+keywords: 'os apo med, os southern gospel med'
+ccli: '1144012'
+copyright: >-
+  1994 DaviSongShop (Admin. by Capitol CMG Publishing former Gaither Admin.),
+  Gaither Music Company, Admin. Gaither Copyright Management, Capitol CMG
+  Publishing,Music Services, Inc.
+source: ''
+year: ''
 medley: []
-id: "0C72EE2D-0198-46BC-A412-F25782F849C0"
+id: 0C72EE2D-0198-46BC-A412-F25782F849C0
 ---
-
 {artist: Geron Davis}
 
 Original key g

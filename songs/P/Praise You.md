@@ -1,23 +1,26 @@
 ---
-title: "Praise You"
-artist: ""
+title: Praise You
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "62E663AF-6878-4AA2-B626-97B02019873A"
+id: 62E663AF-6878-4AA2-B626-97B02019873A
 ---
-
 [Eb2]Praise [Bb/D]You, [G7+] [Cm9]Praise [Db/Bb]You.    [Eb7]
 [AbM7]Even when I'm [Eb/G]feeling low,
 I'll [Fm7]praise You  every[Ab/Bb]where I  [Bb7]go

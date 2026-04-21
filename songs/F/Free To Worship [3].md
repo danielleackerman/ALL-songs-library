@@ -1,27 +1,30 @@
 ---
-title: "Free To Worship"
-artist: "Eddy James"
-key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Free To Worship
+artist: Eddy James
+key: Db
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "516BD9C0-D643-4627-A8D0-A841249B0E17"
+id: B154F0B7-54E7-4702-8F4C-0BBBF317CF85
 ---
+[Db]Free  to worship  [Gb]Free to praise
+[Bbm]Free to lift up holy hands and [Ab]magnify His name
 
-[Eb]Free  to worship  [Ab]Free to praise
-[Cm]Free to lift up holy hands and [Bb]magnify His name
-
-[Bb]   [Eb]He whom the Son sets free is [Ab]free indeed
-[Cm]He whom the Son sets free is [Bb]free indeed
-[Eb]He whom the Son sets free is [Ab]free indeed
-[Bb]   [Cm]He whom the Son sets free [Bb] is free indeed
+[Ab]   [Db]He whom the Son sets free is [Gb]free indeed
+[Bbm]He whom the Son sets free is [Ab]free indeed
+[Db]He whom the Son sets free is [Gb]free indeed
+[Ab]   [Bbm]He whom the Son sets free [Ab] is free indeed

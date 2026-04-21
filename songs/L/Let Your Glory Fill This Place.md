@@ -1,42 +1,48 @@
 ---
-title: "Let Your Glory Fill This Place"
-artist: "Gary Oliver"
+title: Let Your Glory Fill This Place
+artist: Gary Oliver
 key: C
-tempo: 50
-time: 
-ccli: "902482"
-copyright: "1991 CMI-HP Publishing (Word Music Group, Inc.)"
+bpm: '50'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "glory"
-  - "holy-spirit"
-  - "power"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - glory
+  - holy-spirit
+  - power
 genre: []
-energy: slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-  - "cont-southern-gospel-slow"
-  - "mod-southern-gospel-slow"
-keywords: "mod apo slow, cont southern gospel slow, mod southern gospel slow, glory, holy spirit, power"
-source: "1991"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+  - cont-southern-gospel-slow
+  - mod-southern-gospel-slow
+keywords: >-
+  mod apo slow, cont southern gospel slow, mod southern gospel slow, glory, holy
+  spirit, power
+ccli: '902482'
+copyright: '1991 CMI-HP Publishing (Word Music Group, Inc.)'
+source: '1991'
+year: ''
 medley:
-  - "[[WELCOME INTO THIS PLACE]]"
-id: "5D364C5E-5CC2-4C71-89AC-DDE07891806F"
+  - '[[WELCOME INTO THIS PLACE]]'
+id: 5D364C5E-5CC2-4C71-89AC-DDE07891806F
 ---
-
 VERSE 1:
 The essence of your presence, Manifested love
 Shekinah in my temple, Things below like things above

@@ -1,36 +1,38 @@
 ---
-title: "I Won't Turn Back"
-artist: "Geron Davis & Tim Pedigo"
+title: I Won't Turn Back
+artist: Geron Davis & Tim Pedigo
 key: Dm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "faith"
+  - choir
+  - choruses
+  - congregational
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - faith
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1FCB24E0-F7D0-4115-BB9D-FDC046948EFE"
+id: 1FCB24E0-F7D0-4115-BB9D-FDC046948EFE
 ---
-
 VERSE 1:
 It's a [Dm]struggle for survival,  [C]Daily we meet the foe
 [Bb]Out there on the battlefield,  Some[A7]times we stand alone

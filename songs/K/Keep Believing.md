@@ -1,22 +1,25 @@
 ---
-title: "Keep Believing"
-artist: ""
+title: Keep Believing
+artist: ''
 key: Bb
-tempo: 
-time: 
-ccli: "507234"
-copyright: "1985 Meadowgreen Music Company / Songchannel Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '507234'
+copyright: 1985 Meadowgreen Music Company / Songchannel Music
+source: ''
+year: ''
 medley: []
-id: "53CDAF1A-A091-4D80-9C2E-BD1E4FE757F1"
+id: 53CDAF1A-A091-4D80-9C2E-BD1E4FE757F1
 ---
-
 CHORUS:
 [Bb]Keep beli[F]eving in wha[A]t you know is true
 Keep bel[Dm]ieving, you know the L[F7]ord will see you through

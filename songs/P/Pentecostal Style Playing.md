@@ -1,22 +1,25 @@
 ---
-title: "Pentecostal Style Playing"
-artist: "Chromatic 9ths"
+title: Pentecostal Style Playing
+artist: Chromatic 9ths
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0F42E263-B534-4A9F-97DC-FB6F85E97E26"
+id: 0F42E263-B534-4A9F-97DC-FB6F85E97E26
 ---
-
 [C]
 [Bb][D][E][G][/][C]       [B][Eb][F][Ab][/][Db]
 

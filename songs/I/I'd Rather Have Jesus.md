@@ -1,35 +1,39 @@
 ---
-title: "I'd Rather Have Jesus"
-artist: "Rhea Miller / George Beverly Shea"
+title: I'd Rather Have Jesus
+artist: Rhea Miller / George Beverly Shea
 key: C
-tempo: 
-time: 
-ccli: "16653"
-copyright: "1922, 1939. Renewed 1950, 1966 Word Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '16653'
+copyright: '1922, 1939. Renewed 1950, 1966 Word Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "37CD8F8C-8855-457F-931B-F769C7773CD8"
+id: 37CD8F8C-8855-457F-931B-F769C7773CD8
 ---
-
 VERSE 1:
 [C]I'd rathe[C7]r have Jesus[F] than silv[C]er or gold,
 I'd rat[C/E]her be His than have ri[G7/D]ches u[C]nto[G]ld,

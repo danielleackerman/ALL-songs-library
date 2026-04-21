@@ -1,21 +1,24 @@
 ---
-title: "Risen Redemption"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Risen Redemption
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "redemption"
+  - redemption
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "175655A4-7CD4-4176-8E6D-770BF5089EEF"
+id: 175655A4-7CD4-4176-8E6D-770BF5089EEF
 ---
-
 

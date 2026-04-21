@@ -1,25 +1,28 @@
 ---
-title: "The Valley Song"
-artist: "Jars Of Clay"
+title: The Valley Song
+artist: Jars Of Clay
 key: C
-tempo: 78
-time: "6/8"
-ccli: "4012106"
-copyright: "2003 Bridge Building Music, Inc. / Pogostick Music / Innocent Smith"
+bpm: '78'
+time_sig: 6/8
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "mercy"
-  - "sorrow"
+  - mercy
+  - sorrow
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4012106'
+copyright: '2003 Bridge Building Music, Inc. / Pogostick Music / Innocent Smith'
+source: ''
+year: ''
 medley:
-  - "[[THE BLOOD WILL NEVER LOSE ITS POWER]]"
-id: "574D78E2-349B-4668-B72E-9294C1A8EF40"
+  - '[[THE BLOOD WILL NEVER LOSE ITS POWER]]'
+id: 574D78E2-349B-4668-B72E-9294C1A8EF40
 ---
-
 Medley: the blood will never lose its power
 
 [C][G][Am][F]

@@ -1,24 +1,27 @@
 ---
-title: "Creed"
-artist: "Third Day"
+title: Creed
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "1263924"
-copyright: "1993 BMG Songs, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "believe"
-  - "heaven"
+  - believe
+  - heaven
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1263924'
+copyright: '1993 BMG Songs, Inc.'
+source: ''
+year: ''
 medley: []
-id: "0B256508-7EE5-4E99-B537-6F75F9FC1983"
+id: 0B256508-7EE5-4E99-B537-6F75F9FC1983
 ---
-
 Intro:	(2 measures-each) Em  D   Em  D
 	(1 measure-each)  Am  Bm  C   D
 

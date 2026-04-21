@@ -1,35 +1,39 @@
 ---
-title: "I Wanna Be More Like You"
-artist: "Artist : Clint Brown"
+title: I Wanna Be More Like You
+artist: 'Artist : Clint Brown'
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[CHANGE ME LORD]]"
-id: "2369FFED-B172-46FB-8D0F-56A4A866532A"
+  - '[[CHANGE ME LORD]]'
+id: 2369FFED-B172-46FB-8D0F-56A4A866532A
 ---
-
 Key : [G]
 
 Medley: change me Lord

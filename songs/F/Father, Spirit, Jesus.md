@@ -1,24 +1,29 @@
 ---
-title: "Father, Spirit, Jesus"
-artist: "Casting Crowns"
+title: 'Father, Spirit, Jesus'
+artist: Casting Crowns
 key: D
-tempo: 
-time: 
-ccli: "4578901"
-copyright: "2005 Club Zoo Music / SWECS Music / New Spring Publishing, Inc. / Modine Gunch Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "praise"
+  - jesus
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4578901'
+copyright: >-
+  2005 Club Zoo Music / SWECS Music / New Spring Publishing, Inc. / Modine Gunch
+  Music
+source: ''
+year: ''
 medley: []
-id: "004166E0-7FB3-43F8-BD31-A51AE3B63E6D"
+id: 004166E0-7FB3-43F8-BD31-A51AE3B63E6D
 ---
-
 Capo 2
 Intro	a em d a
 

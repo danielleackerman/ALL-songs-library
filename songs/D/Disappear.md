@@ -1,22 +1,25 @@
 ---
-title: "Disappear"
-artist: "Bebo Norman"
+title: Disappear
+artist: Bebo Norman
 key: D
-tempo: 
-time: 
-ccli: "4440046"
-copyright: "2004 New Spring / Right Bank Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4440046'
+copyright: 2004 New Spring / Right Bank Music
+source: ''
+year: ''
 medley: []
-id: "83B1C384-CECB-4B76-97C2-06859BF386AC"
+id: 83B1C384-CECB-4B76-97C2-06859BF386AC
 ---
-
 Intro: D     G
 
 [D]On a day like [Dmaj7]this want to crawl beneath a rock   [G]

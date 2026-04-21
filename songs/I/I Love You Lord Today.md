@@ -1,24 +1,27 @@
 ---
-title: "I Love You Lord Today"
-artist: "Edwin Hawkins"
+title: I Love You Lord Today
+artist: Edwin Hawkins
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "praise"
+  - love
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0CD1A092-AD23-4227-9AF8-2D72A5030667"
+id: 0CD1A092-AD23-4227-9AF8-2D72A5030667
 ---
-
 VERSE 1:
 [F]I love You , I [Gm]love You, I [C]love You [C/Bb]Lord to[F]day,
 [A7/Db]Be[Dm]cause You cared for [Dm7/G]me, In [Gm7]such a special [C7]way,

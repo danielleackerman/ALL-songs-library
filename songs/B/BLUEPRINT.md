@@ -1,22 +1,25 @@
 ---
-title: "Blueprint"
-artist: "Maggie Parker"
+title: Blueprint
+artist: Maggie Parker
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "86F997C4-4B37-40CC-A42D-62CA2DA81BE6"
+id: 86F997C4-4B37-40CC-A42D-62CA2DA81BE6
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

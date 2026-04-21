@@ -1,22 +1,25 @@
 ---
-title: "I Just Can't Tell You"
-artist: "Christy Ballerstero"
+title: I Just Can't Tell You
+artist: Christy Ballerstero
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "82CD132A-950F-4095-83CA-DDB2799832E1"
+id: 82CD132A-950F-4095-83CA-DDB2799832E1
 ---
-
 [Eb]I just can't [Eb/G]tell you how [Bbm/Ab]good He's [Fm7]been,
 
 [Eb/Bb]I can't ex----[Eb/C]plain the [F9]kind of [Ab/Bb]friend,

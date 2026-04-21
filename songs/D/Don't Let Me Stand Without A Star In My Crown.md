@@ -1,24 +1,27 @@
 ---
-title: "Don't Let Me Stand Without A Star In My Crown"
-artist: "Murrell & Joan Ewing"
+title: Don't Let Me Stand Without A Star In My Crown
+artist: Murrell & Joan Ewing
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
+  - altar-songs
 genre: []
-energy: 
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8B695189-41BD-4035-A741-FBF83B665035"
+id: 8B695189-41BD-4035-A741-FBF83B665035
 ---
-
 VERSE 1:
 [Ab/Bb]There are [EbM7]men with ambi[Eb7/G]tions, they [Ab2]seek wealth and [Fm7]fame
 But I've [Eb/Bb]one and on[Eb+/B]ly [Eb/C]one goal to at[Fm7]tain. [Bb7]

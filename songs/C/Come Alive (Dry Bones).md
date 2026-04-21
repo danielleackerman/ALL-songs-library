@@ -1,24 +1,27 @@
 ---
-title: "Come Alive (Dry Bones)"
-artist: "Lauren Daigle"
+title: Come Alive (Dry Bones)
+artist: Lauren Daigle
 key: C
-tempo: 
-time: 
-ccli: "6573588"
-copyright: "2013 Centric Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "alive"
-  - "army"
+  - alive
+  - army
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6573588'
+copyright: 2013 Centric Songs
+source: ''
+year: ''
 medley: []
-id: "484B3405-9A36-424D-AE05-5EFD8162AFF6"
+id: 484B3405-9A36-424D-AE05-5EFD8162AFF6
 ---
-
 INTRO:
 [Am] - [F]
 

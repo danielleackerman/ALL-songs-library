@@ -1,32 +1,36 @@
 ---
-title: "We Are Here To Worship You"
-artist: "Mark Condon"
+title: We Are Here To Worship You
+artist: Mark Condon
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "mod-apo-slow"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - mod-apo-slow
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "193B12F0-10ED-4E99-A96B-897EC872F982"
+id: 193B12F0-10ED-4E99-A96B-897EC872F982
 ---
-
 Artist : Mark Condon
 Key : [C]
 Artist: Mark Condon

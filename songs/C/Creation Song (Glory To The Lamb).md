@@ -1,24 +1,27 @@
 ---
-title: "Creation Song (Glory To The Lamb)"
-artist: "Fernando Ortega"
+title: Creation Song (Glory To The Lamb)
+artist: Fernando Ortega
 key: G
-tempo: 
-time: 
-ccli: "2694870"
-copyright: "1998 John Andrew Schreiner Music / Long Lake Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
-  - "honor"
+  - glory
+  - honor
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2694870'
+copyright: 1998 John Andrew Schreiner Music / Long Lake Music
+source: ''
+year: ''
 medley: []
-id: "5B01825F-DA0E-4174-95F2-F53DF0067A99"
+id: 5B01825F-DA0E-4174-95F2-F53DF0067A99
 ---
-
 [G]He wraps Himself in light
 
 As with a garment,

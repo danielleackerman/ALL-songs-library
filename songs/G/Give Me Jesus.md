@@ -1,23 +1,26 @@
 ---
-title: "Give Me Jesus"
-artist: "Fernando Ortega"
+title: Give Me Jesus
+artist: Fernando Ortega
 key: C
-tempo: 
-time: 
-ccli: "2907237"
-copyright: "1996 Izzy Sol Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2907237'
+copyright: 1996 Izzy Sol Songs
+source: ''
+year: ''
 medley: []
-id: "EFECE160-1C49-4E52-9E0C-6D0106B6F364"
+id: EFECE160-1C49-4E52-9E0C-6D0106B6F364
 ---
-
 [Intro] [C] [C3] [C] [C3]
 
 Capo 1

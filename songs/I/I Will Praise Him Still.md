@@ -1,23 +1,26 @@
 ---
-title: "I Will Praise Him Still"
-artist: "Fernando Ortega"
+title: I Will Praise Him Still
+artist: Fernando Ortega
 key: G
-tempo: 
-time: 
-ccli: "2287995"
-copyright: "1997 Dayspring Music, LLC / MareeDays Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2287995'
+copyright: '1997 Dayspring Music, LLC / MareeDays Music'
+source: ''
+year: ''
 medley: []
-id: "EFE7AD5C-A8D9-497A-A7FF-EB793A22A7A6"
+id: EFE7AD5C-A8D9-497A-A7FF-EB793A22A7A6
 ---
-
 [G]When the [C]morning [G/B]falls on the [D]farthest [Em]hill,
 I will [Am7]sing His [G/B]Name,
 I will [D]praise Him [G]still.

@@ -1,24 +1,27 @@
 ---
-title: "Miracle Worker"
-artist: "J.J. Hairston & YouthfulPraise"
+title: Miracle Worker
+artist: J.J. Hairston & YouthfulPraise
 key: Ebm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "believe"
-  - "miracles"
+  - believe
+  - miracles
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B942E94F-8350-4ED1-8C3C-572C6CC8F2FC"
+id: B942E94F-8350-4ED1-8C3C-572C6CC8F2FC
 ---
-
 INTRO:
 [Eb] [Gb] [F] [Ab] [B] [/] [Ebm] [Db] [Db/F] [/] [Gb] [Db] [/]
 [Eb] [Gb] [F] [Eb][Gb] [Gb][Bb] [Ab] [B] [/]

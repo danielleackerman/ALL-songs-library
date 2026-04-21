@@ -1,21 +1,24 @@
 ---
-title: "You Are Good-Israel and New Breed-New Season"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: You Are Good-Israel and New Breed-New Season
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "israel"
+  - israel
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "67255BDD-12BD-48FE-8D36-701A683B1E06"
+id: 67255BDD-12BD-48FE-8D36-701A683B1E06
 ---
-
 

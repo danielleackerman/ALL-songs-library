@@ -1,37 +1,41 @@
 ---
-title: "I Am Determined to Hold Out"
-artist: "C. S. & T. P. Hamilton"
+title: I Am Determined to Hold Out
+artist: C. S. & T. P. Hamilton
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med-fast"
-keywords: "os apo med fast"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med-fast
+keywords: os apo med fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4265FCFE-1837-4DE3-9A26-DA1D93116927"
+id: 4265FCFE-1837-4DE3-9A26-DA1D93116927
 ---
-
 VERSE 1:
 [D]When I first found Jesus, [G]something o'er me [D]stole
 Like [G]lightning it went [D]through [Bm7]me, and [E7]glory filled my [A7]soul

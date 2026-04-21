@@ -1,22 +1,25 @@
 ---
-title: "I'm Yours, Lord"
-artist: "Willis Noel Elias"
+title: 'I''m Yours, Lord'
+artist: Willis Noel Elias
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3A0F384A-EEFF-4B88-81CB-A10E49896A83"
+id: 3A0F384A-EEFF-4B88-81CB-A10E49896A83
 ---
-
 CHORUS:
 [Bb/C]I'm [F]Yours [F7/A]Lord,
 [Bb2]Everything I've [F/A]got

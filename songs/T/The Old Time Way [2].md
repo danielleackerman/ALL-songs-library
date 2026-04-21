@@ -1,47 +1,64 @@
 ---
-title: "The Old Time Way"
-artist: "Page 98"
-key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: The Old Time Way
+artist: Rebecca J. Peck
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: Old Time Preachers Quartet
+year: ''
 medley: []
-id: "D1D04D40-5E83-4323-94CB-0DCC24AE5A21"
+id: A9DB236F-3834-45FC-9568-E19C0072C666
 ---
+VERSE 1:
+I don’t care for watered down preaching
+It’s all right if it steps on my toes
+I don’t care for weak gospel singing
+Let the Holy hallelujahs roll
+I’ll join in with the saints as they’re praying
+For a world that needs hope today
+Doesn’t matter what others are saying
+I’ll stay in the old time way
 
-[F]I  like  that  old [F7/A]time [Bb7]preaching,  singing,  shouting, dancing
+CHORUS:
+The way that believes in Jesus
+For He makes lost sinners brand new
+The way that believes the Bible
+And proclaims ev’ry word is true
+I’ll keep looking for His returning
+Heaven’s promise is mine to claim
+What a joy to know I’m forgiven
+Praise God for the old time way
 
-[F]I   like   that  [Dm]old   time  [C7]way,  [Db7]  [C9]
-
-[F]I  like  that  old [F7/A]time [Bb7]preaching,  singing,  [Bdim]shouting,  dancing
-
-[F/C]I.   [D9#5]like    that   [G9]old   [C9#5]time    [FsusF]way.   [Bb/C]
-
-
-
-
-d9#5=.  F#- bb- c/d
-
-C9#5=.  D- E- Ab- Bb/C
-
-
+VERSE 2:
+When I live and love more like Jesus
+Those around will see who He is
+Then I can tell them all of the reasons
+Why I know my redeemer lives
+Only through His blood there’s salvation
+Not of works but by grace through faith
+Standing firm on the solid foundation,
+I’ll stay in the old time way

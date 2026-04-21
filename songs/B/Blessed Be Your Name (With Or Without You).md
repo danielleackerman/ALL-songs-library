@@ -1,24 +1,27 @@
 ---
-title: "Blessed Be Your Name (With Or Without You)"
-artist: "David Thornhill"
+title: Blessed Be Your Name (With Or Without You)
+artist: David Thornhill
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "blessing"
+  - praise
+  - blessing
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "2F6C600E-1379-43B5-BD0A-82F4B7F2EED0"
+id: 2F6C600E-1379-43B5-BD0A-82F4B7F2EED0
 ---
-
 Blessed Be Your Name – With or Without You by U2
 
 These songs worked perfectly together. I changed a few words to make it mesh nicely.

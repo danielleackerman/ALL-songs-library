@@ -1,22 +1,25 @@
 ---
-title: "Holy Is Your Name"
-artist: "Bebo Norman"
+title: Holy Is Your Name
+artist: Bebo Norman
 key: E
-tempo: 
-time: 
-ccli: "3486764"
-copyright: "2001 New Spring / Never Say Never Songs / Storm Boy Music / Meaux Mercy"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Bebo Norman with Cliff & Danielle Young"
-year: 
+keywords: ''
+ccli: '3486764'
+copyright: 2001 New Spring / Never Say Never Songs / Storm Boy Music / Meaux Mercy
+source: Bebo Norman with Cliff & Danielle Young
+year: ''
 medley: []
-id: "FE2466DB-44A1-4DCE-9378-66C6C7072451"
+id: FE2466DB-44A1-4DCE-9378-66C6C7072451
 ---
-
 Intro: E    B	C#m
 
 Riff #1(Intro)

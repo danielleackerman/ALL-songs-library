@@ -1,22 +1,25 @@
 ---
-title: "When I Think About The Lord-1"
-artist: ""
+title: When I Think About The Lord-1
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1825A14B-3F51-457D-AF57-89259D86453C"
+id: 1825A14B-3F51-457D-AF57-89259D86453C
 ---
-
 [Ab/C]When   [Bb7/D]I   [Eb]think   about   the   [Bb/D]Lord
 
 [G7]   How   he   [Cm9]saved   me   how  He   [Db/Bb]raised  me

@@ -1,22 +1,25 @@
 ---
-title: "Lord, You're Welcome"
-artist: "Burbank"
+title: 'Lord, You''re Welcome'
+artist: Burbank
 key: Cm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5A98BB2D-1C98-4BF2-BA9F-E27ECFD028EF"
+id: 5A98BB2D-1C98-4BF2-BA9F-E27ECFD028EF
 ---
-
 Key of: Ab
 
 [Cm/Eb]Lord, [Bbm/Eb]You're [Ab]welcome

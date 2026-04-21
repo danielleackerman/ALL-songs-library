@@ -1,24 +1,27 @@
 ---
-title: "Stairway to Heaven"
-artist: "THE STANLEY BROTHERS"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Stairway to Heaven
+artist: THE STANLEY BROTHERS
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "heaven"
-  - "home"
+  - heaven
+  - home
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "68E0E727-EAB5-47E6-A468-B9E3788C349A"
+id: 68E0E727-EAB5-47E6-A468-B9E3788C349A
 ---
-
 Have You dreamed of a stairway to heaven
 A home just beyond the blues.
 A stairway of gold to God's heavenly fold.

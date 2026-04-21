@@ -1,21 +1,24 @@
 ---
-title: "Breakout-Mark Crowder-Faith Over Fear"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Breakout-Mark Crowder-Faith Over Fear
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "faith"
+  - faith
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "6960833D-25CB-407A-ADAD-EF4E5B671879"
+id: 6960833D-25CB-407A-ADAD-EF4E5B671879
 ---
-
 

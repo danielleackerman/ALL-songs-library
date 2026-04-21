@@ -1,22 +1,25 @@
 ---
-title: "Exercise Song #3"
-artist: "AP 201 Lesson 2"
+title: 'Exercise Song #3'
+artist: AP 201 Lesson 2
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A885A8A1-8C67-43C1-BFBF-845281452389"
+id: A885A8A1-8C67-43C1-BFBF-845281452389
 ---
-
 Minor 11th Chords on the ii chord (b3, b7, 9, 11)
 
 [C2] [/] [/] [/] [A7b9] [/] [/] [/] [Dm11] [/] [/] [G7b9] [/] [/] [/]

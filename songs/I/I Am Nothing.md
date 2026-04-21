@@ -1,24 +1,27 @@
 ---
-title: "I Am Nothing"
-artist: "Jeremy Camp"
+title: I Am Nothing
+artist: Jeremy Camp
 key: G
-tempo: 
-time: 
-ccli: "4873895"
-copyright: "2006 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "thank"
+  - love
+  - thank
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4873895'
+copyright: 2006 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "FAF25D2B-C417-4DCD-A1F5-D9B632EA6515"
+id: FAF25D2B-C417-4DCD-A1F5-D9B632EA6515
 ---
-
 Capo 1
 
 Intro: Gsus2  D#dim  C5  F#dim

@@ -1,22 +1,25 @@
 ---
-title: "Without You"
-artist: "Big Daddy Weave"
+title: Without You
+artist: Big Daddy Weave
 key: C
-tempo: 
-time: 
-ccli: "4708465"
-copyright: "2005 Dayspring Music, LLC / Word Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4708465'
+copyright: '2005 Dayspring Music, LLC / Word Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "32636C2A-28D3-444F-AB27-4B3FBFC43207"
+id: 32636C2A-28D3-444F-AB27-4B3FBFC43207
 ---
-
 [C]     [C2]    [Dm]    [Dm2]   [F]     [F2]
 [E]--0-----0-----1-----0-----1-----1
 [B]--1-----3-----3-----3-----1-----1

@@ -1,24 +1,27 @@
 ---
-title: "Nothing But The Blood"
-artist: "Robert Lowry"
+title: Nothing But The Blood
+artist: Robert Lowry
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "blood"
+  - jesus
+  - blood
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7E9462EA-353A-4B74-9B01-56488F1B4BB8"
+id: 7E9462EA-353A-4B74-9B01-56488F1B4BB8
 ---
-
 VERSE 1:
 [F]What [Bb/F]can [F]wash away my [Dm7]sin,
 [F/C]Nothing [Bbm/Db]but the [Dm7]blood of [F/C]Je[C7]e[F]sus

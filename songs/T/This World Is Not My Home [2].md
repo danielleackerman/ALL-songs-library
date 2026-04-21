@@ -1,37 +1,41 @@
 ---
-title: "This World Is Not My Home"
-artist: ""
+title: This World Is Not My Home
+artist: Alfred E. Brumley
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "heaven"
-  - "home"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - heaven
+  - home
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B80927DF-143B-4B17-B33E-D7068970C93E"
+id: C8716E40-A2D8-41E6-9F95-23BABE5CE7CD
 ---
-
 VERSE 1:
 [Bb/C]This   [F]world is not my [F7/A]home, I'm [Bb7]just a passing [F]thru
 My treasures are laid [Dm7]up, some[G9]where beyond the [C9]blue

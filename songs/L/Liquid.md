@@ -1,23 +1,26 @@
 ---
-title: "Liquid"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Liquid
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "blood"
+  - blood
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B558442F-88FB-491B-B43E-3F32645040A2"
+id: B558442F-88FB-491B-B43E-3F32645040A2
 ---
-
 Key:
 
 From: Nolan Rossi <10305.1632@compuserve.com>

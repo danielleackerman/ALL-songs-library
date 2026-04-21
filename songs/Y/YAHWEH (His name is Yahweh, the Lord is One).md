@@ -1,25 +1,28 @@
 ---
-title: "YAHWEH (His name is Yahweh, the Lord is One)"
-artist: "Carman, Gloria Gaither"
+title: 'YAHWEH (His name is Yahweh, the Lord is One)'
+artist: 'Carman, Gloria Gaither'
 key: Cm
-tempo: 81
-time: 
-ccli: "19894"
-copyright: "1984 Wiiliam J. Gaither, Inc, Bravo and Encore Music"
+bpm: '81'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "his-name"
-  - "redeemer"
+  - his-name
+  - redeemer
 genre: []
-energy: medium-slow
 profile:
-  - "os-christian-med"
-keywords: "os christian med"
-source: 
-year: 
+  - os-christian-med
+keywords: os christian med
+ccli: '19894'
+copyright: '1984 Wiiliam J. Gaither, Inc, Bravo and Encore Music'
+source: ''
+year: ''
 medley: []
-id: "9C54FBF5-8885-4CC3-9AA6-77C6EC5710D2"
+id: 9C54FBF5-8885-4CC3-9AA6-77C6EC5710D2
 ---
-
 INTRO:
 [Cm][Fm][G]
 

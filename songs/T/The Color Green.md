@@ -1,22 +1,25 @@
 ---
-title: "The Color Green"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: The Color Green
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4B5295E7-3BF4-4035-BD9A-7B4C7AB4072D"
+id: 4B5295E7-3BF4-4035-BD9A-7B4C7AB4072D
 ---
-
 Key:
 
 The Color Green (Gloria in Excelsis)

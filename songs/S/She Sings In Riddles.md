@@ -1,22 +1,25 @@
 ---
-title: "She Sings In Riddles"
-artist: "Third Day"
+title: She Sings In Riddles
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "4926869"
-copyright: "2007 Vandura 2500 Songs / New Spring"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4926869'
+copyright: 2007 Vandura 2500 Songs / New Spring
+source: ''
+year: ''
 medley: []
-id: "68F9C258-DD62-45D8-B407-3671D8EF4CA9"
+id: 68F9C258-DD62-45D8-B407-3671D8EF4CA9
 ---
-
 [G]The voice of an a[D]ngel, I cannot tell
 Light or da[Cadd9]rkness, he[D]aven or he[G]ll
 The smile of a be[G]liever, wedged and b[D]ound

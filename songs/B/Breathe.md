@@ -1,22 +1,25 @@
 ---
-title: "Breathe"
-artist: "Michael W. Smith"
+title: Breathe
+artist: Michael W. Smith
 key: Bb
-tempo: 
-time: 
-ccli: "1874117"
-copyright: "1995 Mercy/Vineyard Publishing (ASCAP)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1874117'
+copyright: 1995 Mercy/Vineyard Publishing (ASCAP)
+source: ''
+year: ''
 medley: []
-id: "45C38E15-FEFF-46B8-B10D-2CB04914F9D4"
+id: 45C38E15-FEFF-46B8-B10D-2CB04914F9D4
 ---
-
 INTRO: „n F(no3)„n: Bb2„n Eb/Bb :„n Bb F/A „n Gm Bb/F „n Eb2 Eb Gm „n F2„n
 
 [Bb] This is the[Eb/Bb] air I breathe; (2x)

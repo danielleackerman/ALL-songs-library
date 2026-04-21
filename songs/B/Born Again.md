@@ -1,35 +1,39 @@
 ---
-title: "Born Again"
-artist: ""
+title: Born Again
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "C2F47505-001B-4890-9895-57239C882E7F"
+id: C2F47505-001B-4890-9895-57239C882E7F
 ---
-
 VERSE 1:
 [G]Let me tell you,[C] about the c[G]omforter
 [A]That the Bible, sai[D]d would lead you on

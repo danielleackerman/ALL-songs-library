@@ -1,22 +1,27 @@
 ---
-title: "Song Title"
-artist: "Artist Name"
-key: Db
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Song Title
+artist: Artist Name
+key: D
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A7162D01-E856-4587-BCDD-03AAC22CC66D"
+id: CD5F9FED-69D7-4575-B001-1C76B27012C9
 ---
-
-Hook:
-treble:  [Db] - [Gb] [F] [Gb] [Db] - [Gb] [Ab] [Bb] [Bb] [B] [Gb]
-bassline: [Db]         [Db/B]    [Gb/Bb]      [Gbm/A] [2x]
+CHORUS:
+God is [D]greater than the [D/F#]need, [G]bigger than the [G/E]problem
+No mat[A]ter how [F#]bad it [Bm]seems, I [Em]know that He can [A]solve them
+So [D]trust Him and be[D/F#]lieve, He can do any[G]thing
+[D]God is [A]greater, [D] [Em]greater [A]than the [D]need

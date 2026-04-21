@@ -1,23 +1,26 @@
 ---
-title: "Jesus Come Quickly"
-artist: "MercyMe"
+title: Jesus Come Quickly
+artist: MercyMe
 key: C
-tempo: 
-time: 
-ccli: "3546635"
-copyright: "1999 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3546635'
+copyright: 1999 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "FFBF2DF4-E3F0-4425-B511-2254FE491776"
+id: FFBF2DF4-E3F0-4425-B511-2254FE491776
 ---
-
 (Verse)
 C
 Jesus come quickly

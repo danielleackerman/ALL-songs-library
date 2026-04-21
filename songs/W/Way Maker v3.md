@@ -1,24 +1,27 @@
 ---
-title: "Way Maker v3"
-artist: "SINACH arrangment"
+title: Way Maker v3
+artist: SINACH arrangment
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "light"
-  - "promise"
+  - light
+  - promise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "025DAC25-B9DF-40F5-A766-6D4C094F2288"
+id: 025DAC25-B9DF-40F5-A766-6D4C094F2288
 ---
-
 INTRO:
 16 bars
 

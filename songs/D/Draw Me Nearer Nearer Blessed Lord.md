@@ -1,23 +1,26 @@
 ---
-title: "Draw Me Nearer Nearer Blessed Lord"
-artist: "Artist Name"
+title: Draw Me Nearer Nearer Blessed Lord
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "00231350-9611-447E-B13E-CD369AF0E762"
+id: 00231350-9611-447E-B13E-CD369AF0E762
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

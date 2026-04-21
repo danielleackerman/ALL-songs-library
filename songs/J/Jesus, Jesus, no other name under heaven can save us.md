@@ -1,24 +1,27 @@
 ---
-title: "Jesus, Jesus, No Other Name Under Heaven Can Save Us"
-artist: "Artist Name"
+title: 'Jesus, Jesus, No Other Name Under Heaven Can Save Us'
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "heaven"
+  - jesus
+  - heaven
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E1519324-CA4D-4F89-8D79-2697BC5209B0"
+id: E1519324-CA4D-4F89-8D79-2697BC5209B0
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

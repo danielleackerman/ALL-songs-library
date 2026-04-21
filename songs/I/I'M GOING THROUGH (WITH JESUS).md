@@ -1,23 +1,26 @@
 ---
-title: "I'm Going Through (With Jesus)"
-artist: "McKamey's"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: I'm Going Through (With Jesus)
+artist: McKamey's
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B2990D57-FE25-4EDA-A84E-C7ADA2E98C27"
+id: B2990D57-FE25-4EDA-A84E-C7ADA2E98C27
 ---
-
 VERSE 1:
 I started out to walk in the light,
 Shining upon me from heaven so bright.

@@ -1,22 +1,25 @@
 ---
-title: "Hows Your Head"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Hows Your Head
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5E673B8E-D4D7-4A08-B6AD-30A71E251908"
+id: 5E673B8E-D4D7-4A08-B6AD-30A71E251908
 ---
-
 Key:
 
 How's Your Head

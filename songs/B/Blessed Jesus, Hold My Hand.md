@@ -1,26 +1,29 @@
 ---
-title: "Blessed Jesus, Hold My Hand"
-artist: "Albert E. Brumley"
+title: 'Blessed Jesus, Hold My Hand'
+artist: Albert E. Brumley
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile:
-  - "os-apo-fast"
-keywords: "os apo fast"
-source: "1905-1977"
-year: 
+  - os-apo-fast
+keywords: os apo fast
+ccli: ''
+copyright: ''
+source: 1905-1977
+year: ''
 medley:
-  - "[[VICTORY IN JESUS]]"
-  - "[[WHAT A DAY THAT WILL BE]]"
-id: "2C6943D6-0F1E-4958-B5EB-C91F71943C78"
+  - '[[VICTORY IN JESUS]]'
+  - '[[WHAT A DAY THAT WILL BE]]'
+id: 2C6943D6-0F1E-4958-B5EB-C91F71943C78
 ---
-
 {artist: Albert E. Brumley (1905-1977)}
 
 Medley: victory in Jesus / what a day that will be

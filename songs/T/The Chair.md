@@ -1,24 +1,27 @@
 ---
-title: "The Chair"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: The Chair
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "dance"
-  - "dreams"
+  - dance
+  - dreams
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "175943BB-FD3E-4D81-8B82-BF4124EFB16B"
+id: 175943BB-FD3E-4D81-8B82-BF4124EFB16B
 ---
-
 Key:
 
 Song: The Chair

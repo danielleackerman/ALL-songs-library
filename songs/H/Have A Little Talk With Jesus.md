@@ -1,23 +1,26 @@
 ---
-title: "Have A Little Talk With Jesus"
-artist: ""
+title: Have A Little Talk With Jesus
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "25AEEE9E-A48D-4DEB-8343-B17C2C9FEDB8"
+id: 25AEEE9E-A48D-4DEB-8343-B17C2C9FEDB8
 ---
-
 [Bb/C]Let us  [F]have a little talk about Jesus
 [F]Tell Him  all about our troubles
 He will [C]hear our faintest cry

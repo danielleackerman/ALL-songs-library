@@ -1,26 +1,29 @@
 ---
-title: "I Love Him Too Much (To Fail Him Now)-my edit"
-artist: "Lanny Wolfe"
+title: I Love Him Too Much (To Fail Him Now)-my edit
+artist: Lanny Wolfe
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "sutl"
-  - "songbook"
+  - love
+  - sutl
+  - songbook
 genre: []
-energy: 
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow, sutl, songbook"
-source: 
-year: 
+  - os-apo-slow
+keywords: 'os apo slow, sutl, songbook'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "487BF1D6-1F30-4F1A-893F-B70F08854526"
+id: 487BF1D6-1F30-4F1A-893F-B70F08854526
 ---
-
 VERSE 1:
 [Ab]When [Eb7]I [Ab]first heard of [Db]Je[Ab7]sus, his [Db]love and [Bbm]his [Ab]grace,
 [Fm/Ab]My [Eb7]heart [Bbm6]was [Gdim]over[Eb7]whelmed [Eb9]to think a [Db]King would [Cm]take [Bbm/Eb]my [Ab]place!

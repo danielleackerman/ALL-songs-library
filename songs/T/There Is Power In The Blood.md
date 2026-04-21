@@ -1,39 +1,43 @@
 ---
-title: "There Is Power In The Blood"
-artist: "Lewis Ellis Jones"
+title: There Is Power In The Blood
+artist: Lewis Ellis Jones
 key: Bb
-tempo: 
-time: 
-ccli: "21370"
-copyright: "Words: Public Domain, Music: Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "blood"
-  - "power"
-  - "sutl"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - blood
+  - power
+  - sutl
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-fast"
-keywords: "sutl, os apo fast, traditional"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-fast
+keywords: 'sutl, os apo fast, traditional'
+ccli: '21370'
+copyright: 'Words: Public Domain, Music: Public Domain'
+source: ''
+year: ''
 medley: []
-id: "D607E168-52F4-4969-98EE-D3FC71F815EB"
+id: D607E168-52F4-4969-98EE-D3FC71F815EB
 ---
-
 {artist: Lewis Ellis Jones}
 (Sing Unto The Lord 312)
 

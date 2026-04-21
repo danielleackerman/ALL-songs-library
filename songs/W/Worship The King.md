@@ -1,40 +1,44 @@
 ---
-title: "Worship The King"
-artist: "Clint Brown"
+title: Worship The King
+artist: Clint Brown
 key: Eb
-tempo: 66
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '66'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "king"
-  - "my-edit"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - king
+  - my-edit
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-med"
-keywords: "mod apo med, my edit"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-med
+keywords: 'mod apo med, my edit'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[WORSHIP THE KING]]"
-  - "[[BREATHE ON ME]]"
-  - "[[YOU ARE]]"
-id: "7DFB992E-C0DC-4469-8CDB-49F6903C4826"
+  - '[[WORSHIP THE KING]]'
+  - '[[BREATHE ON ME]]'
+  - '[[YOU ARE]]'
+id: 7DFB992E-C0DC-4469-8CDB-49F6903C4826
 ---
-
 {artist: Clint Brown}
 
 Medley: worship the King / breathe on me / You are

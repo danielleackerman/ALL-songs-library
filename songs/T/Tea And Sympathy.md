@@ -1,22 +1,25 @@
 ---
-title: "Tea And Sympathy"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Tea And Sympathy
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3066DD37-AC19-46E1-8338-7D0B02E24A49"
+id: 3066DD37-AC19-46E1-8338-7D0B02E24A49
 ---
-
 Key:
 
 Tea and Sympathy

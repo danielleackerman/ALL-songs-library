@@ -1,32 +1,36 @@
 ---
-title: "At The Foot Of The Cross"
-artist: "Ray Boltz"
+title: At The Foot Of The Cross
+artist: Ray Boltz
 key: Em
-tempo: 
-time: "3/4"
-ccli: "2128212"
-copyright: "1996 Shepherd Boy Music"
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "cross"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - cross
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '2128212'
+copyright: 1996 Shepherd Boy Music
+source: ''
+year: ''
 medley: []
-id: "178DFD8A-BBDB-43C2-BF6E-9011C0711A7F"
+id: 178DFD8A-BBDB-43C2-BF6E-9011C0711A7F
 ---
-
 [Em] [Em7] [Am7] [D]
 [Em7] [Am7]      [D]
 

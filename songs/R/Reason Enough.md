@@ -1,22 +1,25 @@
 ---
-title: "Reason Enough"
-artist: "Avalon"
+title: Reason Enough
+artist: Avalon
 key: B
-tempo: 
-time: 
-ccli: "2566197"
-copyright: "1997 Ariose Music / Dayspring Music, LLC / Hits In Progress, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2566197'
+copyright: '1997 Ariose Music / Dayspring Music, LLC / Hits In Progress, Inc.'
+source: ''
+year: ''
 medley: []
-id: "F2D98F09-9FBE-4706-81FB-DD08F3F17E32"
+id: F2D98F09-9FBE-4706-81FB-DD08F3F17E32
 ---
-
 Intro: / B C#m / B/D# E2 / E /  /
 
 [B]I don't know what You saw in me [B] But I'm glad You believed

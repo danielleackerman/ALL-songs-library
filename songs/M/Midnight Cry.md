@@ -1,34 +1,38 @@
 ---
-title: "Midnight Cry"
-artist: "Chuck Day and Greg Day"
+title: Midnight Cry
+artist: Chuck Day and Greg Day
 key: Ab
-tempo: 
-time: 
-ccli: "228025"
-copyright: "1986 Bridge Building Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '228025'
+copyright: '1986 Bridge Building Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "2B57E810-1339-4D8E-9F6B-A7A36C7021CC"
+id: 2B57E810-1339-4D8E-9F6B-A7A36C7021CC
 ---
-
 VERSE 1:
 [Ab]I hear the sound[Db/Ab]
 Of a mighty [Ab]rushing wind [Db/Ab]

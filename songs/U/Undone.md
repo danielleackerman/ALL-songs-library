@@ -1,22 +1,27 @@
 ---
-title: "Undone"
-artist: "MercyMe"
+title: Undone
+artist: MercyMe
 key: C
-tempo: 
-time: 
-ccli: "4312253"
-copyright: "2004 Simpleville Music / Wet As A Fish Music / Songs From The Indigo Room / Wordspring Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4312253'
+copyright: >-
+  2004 Simpleville Music / Wet As A Fish Music / Songs From The Indigo Room /
+  Wordspring Music, LLC
+source: ''
+year: ''
 medley: []
-id: "BC6F6B7E-9410-41F7-BC60-34C1F0575564"
+id: BC6F6B7E-9410-41F7-BC60-34C1F0575564
 ---
-
 Intro:  C2     Fmaj7/C    C2     Fmaj7/C
 
 VERSE 1:

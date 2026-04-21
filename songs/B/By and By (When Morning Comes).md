@@ -1,23 +1,26 @@
 ---
-title: "By and By (When Morning Comes)"
-artist: "Charles Albert Tindley (1905) Sing Unto The Lord Songbook"
+title: By and By (When Morning Comes)
+artist: Charles Albert Tindley (1905) Sing Unto The Lord Songbook
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-keywords: "os apo med"
-source: "169"
-year: 
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: '169'
+year: ''
 medley: []
-id: "DBB0BA64-954E-4944-8FFB-7E08BD4BCAC3"
+id: DBB0BA64-954E-4944-8FFB-7E08BD4BCAC3
 ---
-
 VERSE 1:
 [Eb]Trials dark on every hand, and [Eb7]we [Ab]cannot under[Eb]stand
 All the ways that God would lead us to that [Bb]blessed [F7]promised [Bb]land;

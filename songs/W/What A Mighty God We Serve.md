@@ -1,37 +1,44 @@
 ---
-title: "What A Mighty God We Serve"
-artist: "Marcus Dawson, Steven Ford"
+title: What A Mighty God We Serve
+artist: 'Marcus Dawson, Steven Ford'
 key: Eb
-tempo: 
-time: 
-ccli: "2245023"
-copyright: "1996 Integrity's Hosanna! Music (Admin. by Capitol CMG Publishing (Integrity Music [DC Cook])) Integrity's Praise! Music (Admin. by Capitol CMG Publishing (Integrity Music [DC Cook]))"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
+  - altar-songs
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
 genre: []
-energy: medium
 profile:
-  - "altar-songs-ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-  - "mod-apo-med"
-  - "mod-gospel-med"
-keywords: "mod apo med, mod gospel med"
-source: 
-year: 
+  - >-
+    altar-songs-ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+  - mod-apo-med
+  - mod-gospel-med
+keywords: 'mod apo med, mod gospel med'
+ccli: '2245023'
+copyright: >-
+  1996 Integrity's Hosanna! Music (Admin. by Capitol CMG Publishing (Integrity
+  Music [DC Cook])) Integrity's Praise! Music (Admin. by Capitol CMG Publishing
+  (Integrity Music [DC Cook]))
+source: ''
+year: ''
 medley:
-  - "[[SATAN THE BLOOD OF JESUS]]"
-id: "0A3E01AA-E071-4CE2-BE1C-04A416109C50"
+  - '[[SATAN THE BLOOD OF JESUS]]'
+id: 0A3E01AA-E071-4CE2-BE1C-04A416109C50
 ---
-
 {artist: Marcus Dawson, Steven Ford}
 
 Original Key Db

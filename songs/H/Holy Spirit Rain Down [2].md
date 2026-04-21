@@ -1,51 +1,56 @@
 ---
-title: "Holy Spirit Rain Down"
-artist: ""
-key: Eb
-tempo: 70
-time: 
-ccli: "2405227"
-copyright: "1997 Hillsong Publishing"
+title: Holy Spirit Rain Down
+artist: Russell Fragar
+key: F
+bpm: '64'
+time_sig: 4/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "holy-spirit"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - holy-spirit
+  - contemp-christian
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+keywords: 'mod apo slow, contemp. christian'
+ccli: '2405227'
+copyright: 1997 Hillsong Publishing
+source: ''
+year: ''
 medley: []
-id: "1D0CD554-8949-499A-8B73-4068627AB37C"
+id: 41484790-5ECB-47BE-96A2-E238599076ED
 ---
-
 CHORUS:
-[Ab/Bb]Ho-ly Spirit [Eb]rain [Db/Eb]down, [Db/Ab]rain   [Ab]down!
-O [Fm7]Comforter and [Eb/G]Friend
-How we [Ab]need Your touch a[Bb]gain!
-
-[Ab/Bb]Holy Spirit [Eb]rain [Db/Eb]down,  [Db/Ab]rain   [Ab]down!
-Let Your [Eb/Bb]power fall,
-let Your [G/B]voice be heard,
-Come and [Cm7]change our hearts,
-As we stand on Your [Abm/B add2]Word,
-Holy [Eb/Bb]Spi[Bb]rit      [Ab/Eb]rain [Eb]down.
+[Bb/C]Holy  [C7]Spirit [F]rain [Eb/F]down, [Eb/Bb]rain   [Bb]down!
+O [Gm7]Comforter and [F/A]Friend
+How we [BbmMAJ7]need Your [Bb]touch [Csus4]again[C]!
+[Bb/C]Holy [C7]Spirit [F]rain [Eb/F]down,  [Eb/Bb]rain   [Bb]down!
+[Bb]Let [C/Bb]Your [F/C]power fall, let Your [A/Db]voice be heard,
+Come and [Dm7]change our hearts,
+As we [Bbm/Db]stand on Your [Bb6/C#]Word,
+Holy [F/C]Spir [C]it,  rain [Bb/F]dow [F]n.
 
 BRIDGE:
-[Ab]No eye has seen, no [G7]ear has heard,
-[Cm7]No mind can know what [Bbm]God has in store.
-[Eb]So [Ab]open up heaven, [G7]open it wide,
-[Cm7]Over Your church, and [Bbm]over our lives.
-[Ab/Bb]Holy  [Eb/Bb]Spi[Bb]rit  [Ab/Eb]rain  [Eb]down.
+[Bbmaj7]No eye has seen, [A7]no ear has heard,
+[Dm7]No mind can know what [Cm7]God [Bdim]has in store.
+[Bbmaj7]So open up heaven, [A7]open it wide,
+[Dm7]Over Your church, [Bb/C]and [Cm7]over our [Bdim]lives.
+
+Isaiah 45:8
+Acts 2

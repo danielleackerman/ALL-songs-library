@@ -1,22 +1,25 @@
 ---
-title: "Our Great God"
-artist: "Fernando Ortega"
+title: Our Great God
+artist: Fernando Ortega
 key: D
-tempo: 
-time: 
-ccli: "3493094"
-copyright: "2002 New Spring Publishing, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3493094'
+copyright: '2002 New Spring Publishing, Inc.'
+source: ''
+year: ''
 medley: []
-id: "3F182EEC-E1AD-4177-B3E3-6408E60CC13A"
+id: 3F182EEC-E1AD-4177-B3E3-6408E60CC13A
 ---
-
 [A]Eternal God, u[Em]nchanging, my[D]sterious and u[A]nknown.
 Your [A]boundless love un[Em]failing, in [D]grace and mercy [A]shown.
 Bright [F#m]seraphim in [D]endless flight a[F#m]round your glorious [D]throne.

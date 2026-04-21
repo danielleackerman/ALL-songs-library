@@ -1,35 +1,39 @@
 ---
-title: "Here I Am To Worship"
-artist: "Tim Hughes"
+title: Here I Am To Worship
+artist: Tim Hughes
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
 year: 1999
 medley: []
-id: "94B0C2D9-BA3E-4CC9-84A5-9E73E0F7A0AB"
+id: 94B0C2D9-BA3E-4CC9-84A5-9E73E0F7A0AB
 ---
-
 {artist: Tim Hughes 1999}
 
 VERSE 1:

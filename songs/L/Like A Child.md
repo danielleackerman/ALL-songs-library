@@ -1,23 +1,26 @@
 ---
-title: "Like A Child"
-artist: "Jars Of Clay"
+title: Like A Child
+artist: Jars Of Clay
 key: G
-tempo: 
-time: 
-ccli: "1848590"
-copyright: "1995 Pogostick Music / Bridge Building Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "faith"
+  - faith
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1848590'
+copyright: '1995 Pogostick Music / Bridge Building Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "C6C70047-7D82-4C37-B1A5-B55411D9ADB3"
+id: C6C70047-7D82-4C37-B1A5-B55411D9ADB3
 ---
-
 ***O.K. all you Jars fans out there, I tried to figure this out, and I've
 somewhat succeded. I know at least the chords are mostly right  -just
 mess around with the progressions here, and see if it works. I don't know

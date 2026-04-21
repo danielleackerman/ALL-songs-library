@@ -1,36 +1,40 @@
 ---
-title: "Spirit Break Out"
-artist: "WILLIAM MCDOWELL"
+title: Spirit Break Out
+artist: WILLIAM MCDOWELL
 key: C
-tempo: 
-time: 
-ccli: "5833975"
-copyright: "2010 Thankyou Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "heaven"
-  - "touching"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - heaven
+  - touching
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '5833975'
+copyright: 2010 Thankyou Music
+source: ''
+year: ''
 medley: []
-id: "03C4B531-ED23-4719-B9FB-BC3FC353A338"
+id: 03C4B531-ED23-4719-B9FB-BC3FC353A338
 ---
-
 INTRO:
 [C]  [-]  [D]  [-]  [Em]   [-]  [G/B]
 

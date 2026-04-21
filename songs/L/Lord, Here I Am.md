@@ -1,23 +1,26 @@
 ---
-title: "Lord, Here I Am"
-artist: "Artist Name"
+title: 'Lord, Here I Am'
+artist: Artist Name
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "55F97505-6D15-4E51-A904-C65CE4C7D5CC"
+id: 55F97505-6D15-4E51-A904-C65CE4C7D5CC
 ---
-
 [Eb]Lord here I [Bb/G]am [Eb7]   I'm a---[AbM9]vaila-[Bb/Ab]ble to [Eb/G]You
 
 [Eb7]      Let my [AbM7]mouth be [Bb/Ab]filled with [Bb/G]praise [Eb/C]

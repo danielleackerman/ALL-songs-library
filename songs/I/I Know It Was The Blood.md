@@ -1,40 +1,44 @@
 ---
-title: "I Know It Was The Blood"
-artist: "The Pilgrim Jubilee Singers"
+title: I Know It Was The Blood
+artist: The Pilgrim Jubilee Singers
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "blood"
-  - "crucifixion"
+  - altar-songs
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - blood
+  - crucifixion
 genre: []
-energy: high
 profile:
-  - "altar-songs-black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med-slow"
-  - "os-gospel-med-slow"
-keywords: "os apo med slow, os gospel med slow, blood, crucifixion"
-source: 
-year: 
+  - >-
+    altar-songs-black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med-slow
+  - os-gospel-med-slow
+keywords: 'os apo med slow, os gospel med slow, blood, crucifixion'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "06C7E215-AA1D-4C0F-A760-5D4869BD7870"
+id: 06C7E215-AA1D-4C0F-A760-5D4869BD7870
 ---
-
 {artist: The Pilgrim Jubilee Singers}
 
 [Bb/C]I [F]know it was the blood

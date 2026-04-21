@@ -1,39 +1,43 @@
 ---
-title: "No Harm"
-artist: ""
+title: No Harm
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "high-energy"
-  - "medium-fast"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "dance"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - high-energy
+  - medium-fast
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - dance
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-high-energy-medium-fast-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-high-energy-medium-fast-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "044B7B6F-21EE-4854-A48C-C436C6E2BC46"
+id: 044B7B6F-21EE-4854-A48C-C436C6E2BC46
 ---
-
 [C/D]No  [G]harm    No [D]harm
 
 No harm    No [G]harm   [C/D]

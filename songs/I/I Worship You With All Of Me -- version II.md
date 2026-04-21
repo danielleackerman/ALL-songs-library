@@ -1,25 +1,30 @@
 ---
-title: "I Worship You With All Of Me -- version II"
-artist: "Mary Alessi, Martha Munizzi"
+title: I Worship You With All Of Me -- version II
+artist: 'Mary Alessi, Martha Munizzi'
 key: G
-tempo: 64
-time: 
-ccli: "4534710"
-copyright: "2004 Martha Munizzi Music, Miami Life Sounds Publishing, Inc. ( Admin. Say the Name Publishing, Miami Life Sounds Publishing)"
+bpm: '64'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
-  - "worship"
+  - life
+  - worship
 genre: []
-energy: slow
 profile:
-  - "contemp-christian-slow"
-keywords: "contemp christian slow, worship"
-source: 
+  - contemp-christian-slow
+keywords: 'contemp christian slow, worship'
+ccli: '4534710'
+copyright: >-
+  2004 Martha Munizzi Music, Miami Life Sounds Publishing, Inc. ( Admin. Say the
+  Name Publishing, Miami Life Sounds Publishing)
+source: ''
 year: 2004
 medley: []
-id: "820E5FB4-4D9F-4534-B4EB-03B94B80F5CC"
+id: 820E5FB4-4D9F-4534-B4EB-03B94B80F5CC
 ---
-
 CHORUS:
 I [Gmaj7/E]worship [Am7]You with [G2/A]all of me
 [Gdim6/A#]My [Bm9]heart, my [A/C#]life

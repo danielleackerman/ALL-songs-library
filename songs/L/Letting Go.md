@@ -1,22 +1,25 @@
 ---
-title: "Letting Go"
-artist: "Jeremy Camp"
+title: Letting Go
+artist: Jeremy Camp
 key: C
-tempo: 
-time: 
-ccli: "4505039"
-copyright: "2004 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4505039'
+copyright: 2004 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "BC2B83E6-EA1A-4856-93F7-166836AD008C"
+id: BC2B83E6-EA1A-4856-93F7-166836AD008C
 ---
-
 Capo: 4th fret
 
 I dunno what to call this chord but the C#m is like a dimished chord?

@@ -1,24 +1,27 @@
 ---
-title: "Let Praise Be Given to the King of Kings"
-artist: ""
+title: Let Praise Be Given to the King of Kings
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "king"
+  - praise
+  - king
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "87ACB65F-715F-446B-94F9-596D1A150F84"
+id: 87ACB65F-715F-446B-94F9-596D1A150F84
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

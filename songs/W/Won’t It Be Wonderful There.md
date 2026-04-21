@@ -1,36 +1,42 @@
 ---
-title: "Won’t It Be Wonderful There"
-artist: "James Rowe, Homer F. Morris"
+title: Won’t It Be Wonderful There
+artist: 'James Rowe, Homer F. Morris'
 key: Bb
-tempo: 45
-time: "6/4"
-ccli: "102983"
-copyright: "Words: Bridge Building Music Inc, Music: Bridge Building Music, Inc., Admin: Brentwood-Benson Music Publishing, Inc."
+bpm: '45'
+time_sig: 6/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "sutl"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - sutl
 genre: []
-energy: slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med, sutl"
-source: "Sing Unto The Lord - 19"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: 'os apo med, sutl'
+ccli: '102983'
+copyright: >-
+  Words: Bridge Building Music Inc, Music: Bridge Building Music, Inc., Admin:
+  Brentwood-Benson Music Publishing, Inc.
+source: Sing Unto The Lord - 19
+year: ''
 medley: []
-id: "D7FE2F2C-D69F-4B09-8E1F-6CE90E726617"
+id: D7FE2F2C-D69F-4B09-8E1F-6CE90E726617
 ---
-
 VERSE 1:
 [Bb]When with the Saviour we [Eb]enter the [Eb/Bb]glo[Bb]ryland
 [Bb]Won’t it [Gm/D]be [C]wonder[C9]ful [F]there?

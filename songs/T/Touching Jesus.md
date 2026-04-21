@@ -1,34 +1,38 @@
 ---
-title: "Touching Jesus"
-artist: "John Stallings"
+title: Touching Jesus
+artist: John Stallings
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "touching"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - jesus
+  - touching
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med"
-source: "1973"
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: '1973'
+year: ''
 medley: []
-id: "9B04F8D0-F521-4EE2-A3C6-B3B76D487A31"
+id: 9B04F8D0-F521-4EE2-A3C6-B3B76D487A31
 ---
-
 {artist: John Stallings (1973)}
 
 CHORUS:

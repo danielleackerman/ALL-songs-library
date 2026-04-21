@@ -1,23 +1,26 @@
 ---
-title: "Home"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Home
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "home"
+  - home
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7DDAFFFB-D221-435D-BA6D-6DB8675D8575"
+id: 7DDAFFFB-D221-435D-BA6D-6DB8675D8575
 ---
-
 Key:
 
 Home

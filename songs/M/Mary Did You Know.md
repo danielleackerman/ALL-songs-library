@@ -1,23 +1,26 @@
 ---
-title: "Mary Did You Know"
-artist: "Buddy Greene"
+title: Mary Did You Know
+artist: Buddy Greene
 key: Cm
-tempo: 
-time: 
-ccli: "839225"
-copyright: "1991, 1993 Word Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "baby"
+  - baby
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '839225'
+copyright: '1991, 1993 Word Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "FA5BCFF4-1CB2-4568-B98C-537A55E5D8F3"
+id: FA5BCFF4-1CB2-4568-B98C-537A55E5D8F3
 ---
-
 INTRO:
 [Cm] [Bb] [Ab] [G7]
 [Cm] [Bb] [Ab] [G7]

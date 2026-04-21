@@ -1,22 +1,25 @@
 ---
-title: "I Wait For The Lord"
-artist: "Jeremy Camp"
+title: I Wait For The Lord
+artist: Jeremy Camp
 key: G
-tempo: 
-time: 
-ccli: "3327672"
-copyright: "1996 Calvary Chapel Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3327672'
+copyright: 1996 Calvary Chapel Music
+source: ''
+year: ''
 medley: []
-id: "F04DA9A0-D1A7-44C0-8C16-D92560BC342B"
+id: F04DA9A0-D1A7-44C0-8C16-D92560BC342B
 ---
-
 [Em] - [D] - [C2] - [D] - [Dsus]
 [Em] - [D] - [C2] - [G] - [G/F#]
 

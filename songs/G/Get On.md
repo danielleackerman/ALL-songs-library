@@ -1,22 +1,25 @@
 ---
-title: "Get On"
-artist: "Third Day"
+title: Get On
+artist: Third Day
 key: B
-tempo: 
-time: 
-ccli: 
-copyright: "2001 New Spring Publishing, Inc"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: '2001 New Spring Publishing, Inc'
+source: ''
+year: ''
 medley: []
-id: "43497537-8A25-4718-937B-8985CC27930D"
+id: 43497537-8A25-4718-937B-8985CC27930D
 ---
-
 VERSE 1:
 [B]So you think you had me, [D]Had me in your sights?
 [E5]I got news for [D]you, I'm workin' [E5]overtime.

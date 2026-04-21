@@ -1,22 +1,25 @@
 ---
-title: "Eagles"
-artist: "Third Day"
+title: Eagles
+artist: Third Day
 key: E
-tempo: 
-time: 
-ccli: "4586058"
-copyright: "2005 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4586058'
+copyright: 2005 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "A1C6F4AC-CE0C-486D-8B93-51007A41A21C"
+id: A1C6F4AC-CE0C-486D-8B93-51007A41A21C
 ---
-
 [C#m]My pain and problems keep me chain[F#m]ed
 And my troubled heart makes me we[C#m]ak
 I'll wait for You to comfort m[F#m]e

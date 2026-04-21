@@ -1,36 +1,40 @@
 ---
-title: "Revelation Song"
-artist: "Jennie Lee Riddle"
+title: Revelation Song
+artist: Jennie Lee Riddle
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "praise"
-  - "king"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - praise
+  - king
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "98BE10CD-CF2C-4704-A644-396CFF7DC30B"
+id: 98BE10CD-CF2C-4704-A644-396CFF7DC30B
 ---
-
 Verse 1 2x:
 [D]  Worthy is the, [Am]  Lamb that was slain, [C]  Holy, Holy is H[G]e
 [D]  Sing a new song, [Am]  To Him who sits on, [C]  Heaven’s mercy se[G]at

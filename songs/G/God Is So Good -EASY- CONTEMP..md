@@ -1,23 +1,26 @@
 ---
-title: "God Is So Good -EASY- CONTEMP."
-artist: "Velna A. Ledin"
+title: God Is So Good -EASY- CONTEMP.
+artist: Velna A. Ledin
 key: F
-tempo: 74
-time: 
-ccli: 
-copyright: 
+bpm: '74'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "peace"
+  - peace
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F3D32A90-CDA4-4839-90B4-3D957A192E8C"
+id: F3D32A90-CDA4-4839-90B4-3D957A192E8C
 ---
-
 74 bpm
 [F]
 

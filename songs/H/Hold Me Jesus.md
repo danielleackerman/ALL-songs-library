@@ -1,24 +1,27 @@
 ---
-title: "Hold Me Jesus"
-artist: "Big Daddy Weave"
+title: Hold Me Jesus
+artist: Big Daddy Weave
 key: G
-tempo: 
-time: 
-ccli: "1263917"
-copyright: "1993 BMG Songs, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "glory"
+  - jesus
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1263917'
+copyright: '1993 BMG Songs, Inc.'
+source: ''
+year: ''
 medley: []
-id: "2E66A77E-303D-4590-9CD9-456FD4A4892A"
+id: 2E66A77E-303D-4590-9CD9-456FD4A4892A
 ---
-
 Introduction:  G   C
 
 Some[G]times my life just don’t [C]make sense at [G]all. When the [Bm]mountains look so [C]big

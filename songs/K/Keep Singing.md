@@ -1,22 +1,25 @@
 ---
-title: "Keep Singing"
-artist: "MercyMe"
+title: Keep Singing
+artist: MercyMe
 key: C
-tempo: 
-time: 
-ccli: "4312284"
-copyright: "2004 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4312284'
+copyright: 2004 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "65E84284-F4F7-47A1-BBD6-42120F7BE1CD"
+id: 65E84284-F4F7-47A1-BBD6-42120F7BE1CD
 ---
-
 Intro: C  Am  Em  G  (x2)
 
 [F]Another rainy [C9]day

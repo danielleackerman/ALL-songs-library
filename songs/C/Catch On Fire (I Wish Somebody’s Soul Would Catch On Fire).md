@@ -1,24 +1,29 @@
 ---
-title: "Catch On Fire (I Wish Somebody’s Soul Would Catch On Fire)"
-artist: "Carlton Pierson"
+title: Catch On Fire (I Wish Somebody’s Soul Would Catch On Fire)
+artist: Carlton Pierson
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "holy-ghost"
-  - "power"
+  - holy-ghost
+  - power
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "I wish Somebodys soul would; Catch on Fire, Catch on Fire, Catch on Fire; I wish Somebodys soul would; Catch on Fire"
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: >-
+  I wish Somebodys soul would; Catch on Fire, Catch on Fire, Catch on Fire; I
+  wish Somebodys soul would; Catch on Fire
+year: ''
 medley: []
-id: "B502438B-1019-4511-B4B8-836DB11B0863"
+id: B502438B-1019-4511-B4B8-836DB11B0863
 ---
-
 Burning with the Holy Ghost (3x)
 
 And when the day of Pentecost was fully come

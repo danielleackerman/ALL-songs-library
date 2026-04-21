@@ -1,23 +1,26 @@
 ---
-title: "Promenade"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Promenade
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "peace"
+  - peace
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C38E22DA-6739-4742-B6D3-A530F52C6238"
+id: C38E22DA-6739-4742-B6D3-A530F52C6238
 ---
-
 Key:
 
 tabbed by Joshua R. Craig

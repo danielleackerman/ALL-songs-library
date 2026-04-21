@@ -1,32 +1,36 @@
 ---
-title: "If That Isn't Love"
-artist: "Dottie Rambo"
+title: If That Isn't Love
+artist: Dottie Rambo
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "love"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - love
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E47A2386-21EC-4AEE-BD67-8F5FABF269D9"
+id: E47A2386-21EC-4AEE-BD67-8F5FABF269D9
 ---
-
 VERSE 1:
 [Bb]He left the [F]splendor of [Cm/Bb]Hea[Bb]ven,
 [Eb]knowing His [F]desti[Bb]ny

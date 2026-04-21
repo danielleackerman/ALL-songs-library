@@ -1,24 +1,27 @@
 ---
-title: "Friend For Life"
-artist: "Watermark"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Friend For Life
+artist: Watermark
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "friend"
-  - "life"
+  - friend
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "BD116A7F-469F-4DEF-AFAC-F8874502E917"
+id: BD116A7F-469F-4DEF-AFAC-F8874502E917
 ---
-
 Key:
 Copyright: Rocketown Records 2002
 

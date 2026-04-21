@@ -1,23 +1,26 @@
 ---
-title: "Livin For Jesus"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Livin For Jesus
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B9008525-C85A-47CB-8566-728FF9712713"
+id: B9008525-C85A-47CB-8566-728FF9712713
 ---
-
 Key:
 
 "Livin For Jesus"

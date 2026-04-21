@@ -1,25 +1,28 @@
 ---
-title: "I've Got Confidence"
-artist: "Andrae Crouch"
+title: I've Got Confidence
+artist: Andrae Crouch
 key: Bb
-tempo: 83
-time: 
-ccli: "58707"
-copyright: "1969 Bud John Songs, Inc. (Admin. by Capitol CMG Publishing)"
+bpm: '83'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "confidence"
+  - confidence
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-opera"
-  - "os-gospel-med"
-keywords: "os gospel med"
-source: "ORIGINAL KEY Bb"
-year: 
+  - black-gospel-opera
+  - os-gospel-med
+keywords: os gospel med
+ccli: '58707'
+copyright: '1969 Bud John Songs, Inc. (Admin. by Capitol CMG Publishing)'
+source: ORIGINAL KEY Bb
+year: ''
 medley: []
-id: "D5BF763C-B5D1-43AB-9E1E-0BCE21F2C4F2"
+id: D5BF763C-B5D1-43AB-9E1E-0BCE21F2C4F2
 ---
-
 VERSE 1:
 [Bb]When trouble is in my way,[BbM7].
 I can't tell the night from day[Bb7]

@@ -1,24 +1,27 @@
 ---
-title: "Joy To The World"
-artist: "Third Day"
+title: Joy To The World
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: "24016"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "joy"
+  - love
+  - joy
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '24016'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "6CACDB1C-50ED-4836-9894-2826C08A6BA6"
+id: 6CACDB1C-50ED-4836-9894-2826C08A6BA6
 ---
-
 INTRO:
 [D] | [D/E] | [D/G] | [D/F#]
 

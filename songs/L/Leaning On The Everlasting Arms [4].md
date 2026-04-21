@@ -1,35 +1,39 @@
 ---
-title: "Leaning On The Everlasting Arms"
-artist: ""
+title: Leaning On The Everlasting Arms
+artist: ''
 key: A
-tempo: 
-time: 
-ccli: "31779"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '31779'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "86D92E9D-5999-439F-9F9B-1BB7A0EA6478"
+id: 5D721E4C-902E-402C-8D7E-EBB5BDEAAB13
 ---
-
 VERSE 1:
 [A]What a fellowship, [D]what a joy divine  [A]leaning on the Everlasting [E]Arms
 [A]What a blessedness, [D]what a peace is mine, [A]leaning on the Everl[E]asting A[A]rms

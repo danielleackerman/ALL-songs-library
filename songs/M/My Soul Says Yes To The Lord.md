@@ -1,38 +1,42 @@
 ---
-title: "My Soul Says Yes To The Lord"
-artist: "Author Unknown"
+title: My Soul Says Yes To The Lord
+artist: Author Unknown
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "king"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - king
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-fast"
-keywords: "os apo fast"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-fast
+keywords: os apo fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[CAN'T NOBODY DO ME LIKE JESUS]]"
-id: "0C67DB4B-1C2A-49CD-B688-C40FE0374C39"
+  - '[[CAN''T NOBODY DO ME LIKE JESUS]]'
+id: 0C67DB4B-1C2A-49CD-B688-C40FE0374C39
 ---
-
 Medley: can't nobody do me like Jesus
 
 CHORUS:

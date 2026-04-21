@@ -1,23 +1,26 @@
 ---
-title: "Catch On Fire"
-artist: "Key of: Ebm"
+title: Catch On Fire
+artist: 'Key of: Ebm'
 key: Fm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "holy-ghost"
+  - holy-ghost
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0D7BB003-A01F-4B7E-98DD-512FA66E8B6B"
+id: 0D7BB003-A01F-4B7E-98DD-512FA66E8B6B
 ---
-
 CHORUS:
 [Fm]I wish somebody's [Eb]soul would,
 [Fm]Catch on fire, [C7]catch on fire, [Fm]catch on fire

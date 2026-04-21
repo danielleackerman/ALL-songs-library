@@ -1,25 +1,28 @@
 ---
-title: "Use Me (If You Can Use Anything Lord)"
-artist: "Ron Kenoly, Dewitt Jones"
+title: Use Me (If You Can Use Anything Lord)
+artist: 'Ron Kenoly, Dewitt Jones'
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "mod-apo-slow"
-  - "mod-gospel-slow"
-keywords: "mod apo slow, mod gospel slow"
-source: 
+  - mod-apo-slow
+  - mod-gospel-slow
+keywords: 'mod apo slow, mod gospel slow'
+ccli: ''
+copyright: ''
+source: ''
 year: 1993
 medley:
-  - "[[I'M AVAILABLE TO YOU]]"
-id: "CEF9C9F3-0BF8-448A-B530-56C5E0E12345"
+  - '[[I''M AVAILABLE TO YOU]]'
+id: CEF9C9F3-0BF8-448A-B530-56C5E0E12345
 ---
-
 {artist: Ron Kenoly, Dewitt Jones, 1993}
 
 Medley: I'm available to You

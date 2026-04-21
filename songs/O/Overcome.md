@@ -1,24 +1,27 @@
 ---
-title: "Overcome"
-artist: "Jeremy Camp"
+title: Overcome
+artist: Jeremy Camp
 key: G
-tempo: 
-time: 
-ccli: "5064359"
-copyright: "2007 Vertical Worship Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "awesome"
-  - "power"
+  - awesome
+  - power
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5064359'
+copyright: 2007 Vertical Worship Songs
+source: ''
+year: ''
 medley: []
-id: "6186D261-B521-4F74-9DDE-2FFCAAA8B092"
+id: 6186D261-B521-4F74-9DDE-2FFCAAA8B092
 ---
-
 VERSE 1:
 [G]Seated abo[C2]ve, enthroned in the Father's love
 [Em7]Destined to die, [D]po[G]ured out for all mankind

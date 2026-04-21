@@ -1,31 +1,37 @@
 ---
-title: "How Great Thou Art-version 2"
-artist: "Stuart K. Kine - chris tomlin"
+title: How Great Thou Art-version 2
+artist: Stuart K. Kine - chris tomlin
 key: G
-tempo: 
-time: 
-ccli: "14181"
-copyright: "1941, 1953, 1955 Stuart K. Hine, Renewed 1981 Manna Music, Inc. ARR UBP of Manna Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '14181'
+copyright: >-
+  1941, 1953, 1955 Stuart K. Hine, Renewed 1981 Manna Music, Inc. ARR UBP of
+  Manna Music, Inc.
+source: ''
+year: ''
 medley: []
-id: "6E07B274-5C22-4099-A2B6-BBA8A87A7510"
+id: 6E07B274-5C22-4099-A2B6-BBA8A87A7510
 ---
-
 VERSE 1:
 [Gsus]O Lord my [G]God, when I in [C/G]awesome wonder,
 Consider [G]all the [Dsus]worlds Thy [C]hand hath [G]made

@@ -1,22 +1,25 @@
 ---
-title: "Right Here"
-artist: "Jeremy Camp"
+title: Right Here
+artist: Jeremy Camp
 key: C
-tempo: 
-time: 
-ccli: "3903010"
-copyright: "2002 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3903010'
+copyright: 2002 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "A7BB1EC7-45F4-4767-9F99-AE5D5DB7E6B6"
+id: A7BB1EC7-45F4-4767-9F99-AE5D5DB7E6B6
 ---
-
 INTRO:
 C             g am  (4x)
 

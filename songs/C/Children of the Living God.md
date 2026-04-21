@@ -1,23 +1,26 @@
 ---
-title: "Children of the Living God"
-artist: "Fernando Ortega"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Children of the Living God
+artist: Fernando Ortega
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "children"
+  - children
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "96089A43-A431-4DB2-A417-61A40B813D4D"
+id: 96089A43-A431-4DB2-A417-61A40B813D4D
 ---
-
 Key:
 Copyright: 1996 Izzy Sol Songs (Admin. by Metro One, Inc.)
 

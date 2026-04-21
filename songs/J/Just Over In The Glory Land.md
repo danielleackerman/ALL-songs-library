@@ -1,25 +1,28 @@
 ---
-title: "Just Over In The Glory Land"
-artist: ""
+title: Just Over In The Glory Land
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
-  - "sutl"
+  - glory
+  - sutl
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-keywords: "os apo med, sutl"
-source: 
-year: 
+  - os-apo-med
+keywords: 'os apo med, sutl'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DF98214E-4FCF-4B0D-82D5-B400AFCF8B35"
+id: DF98214E-4FCF-4B0D-82D5-B400AFCF8B35
 ---
-
 VERSE 1:
 [Bb/C]I've a [F]home pre[F7/A]pared where the [Bb9]saints a[F]bide
 [Bb/C]Just [F]over [Dm7]in the [G9]glory [C7]land.   [Db7].    [C9]

@@ -1,23 +1,26 @@
 ---
-title: "Comin' Down Down Down, the Glory of the Lord is Comin Down"
-artist: "Artist Name"
+title: 'Comin'' Down Down Down, the Glory of the Lord is Comin Down'
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "89E2B921-E2F3-4991-BAFF-A3CAE3C1E80D"
+id: 89E2B921-E2F3-4991-BAFF-A3CAE3C1E80D
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

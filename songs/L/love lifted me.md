@@ -1,35 +1,39 @@
 ---
-title: "Love Lifted Me"
-artist: "Artist Name"
+title: Love Lifted Me
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "love"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - love
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[GOD WALKS THE DARK HILLS]]"
-id: "820443D5-9DA9-4F36-84A3-F18ACB3F1B91"
+  - '[[GOD WALKS THE DARK HILLS]]'
+id: 820443D5-9DA9-4F36-84A3-F18ACB3F1B91
 ---
-
 Medley: God walks the dark hills
 
 VERSE 1:

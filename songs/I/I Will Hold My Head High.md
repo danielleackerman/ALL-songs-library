@@ -1,22 +1,25 @@
 ---
-title: "I Will Hold My Head High"
-artist: "Third Day"
+title: I Will Hold My Head High
+artist: Third Day
 key: C
-tempo: 
-time: 
-ccli: "4292153"
-copyright: "2004 Consuming Fire Music (Admin. by EMI Christian Music Publishing)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4292153'
+copyright: 2004 Consuming Fire Music (Admin. by EMI Christian Music Publishing)
+source: ''
+year: ''
 medley: []
-id: "5DA336C3-B0C5-49C2-A91A-F5D998DD612F"
+id: 5DA336C3-B0C5-49C2-A91A-F5D998DD612F
 ---
-
 Intro: C (8x)
 
  Some[C]times the[G/B] night star[Am]ts closing in

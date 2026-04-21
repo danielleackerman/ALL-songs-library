@@ -1,64 +1,56 @@
 ---
-title: "I Love You Lord"
-artist: "River Of Life Worship"
-key: G
-tempo: 
-time: 
-ccli: 
-copyright: "2008 River of Life Ministries"
+title: I Love You Lord
+artist: Generation Unleashed
+key: E
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "love"
-  - "life"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - love
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '25266'
+copyright: '1978, 1980 House Of Mercy Music'
+source: ''
+year: ''
 medley: []
-id: "9412759C-26B9-42C4-A6F9-32EFF3684327"
+id: 7C705CA3-46AF-422C-9A9F-AC9A647A0620
 ---
-
-INTRO:
- [G/B] - [C]   [Em] - [D]
-
-VERSE:
-Your the [G/B]reason I [C]worship
-The [Em]reason I p[D]raise
-Your the [G/B]reason I [C]live... to [D]bless Your Name
-Your [G/B]alpha, o[C]mega
-Be[Em]ginning and [D]end
-Your[G/B] my souls [C]desire
- D
-My best friend
+[C#m] [B] [E]
+[C#m] [B] [E]
 
 CHORUS:
-           G
-I love You Lord
-            C
-With all my heart
-I love You [Em]Lord
-             D
-With all my strength
-            G
-I love You Lord
-            C
-With all my soul
-   Em - D - C    (Intro...
-And everything... I am
+[C#m]i love you lord
+[B]an[E]d i lift my voice
+[F#m]to w[E]or[B]ship you
+[C#m]oh m[B]y soul rejoice
+[C#m]take joy my king
+[B]in[E] what you hear
+[F#m]let [C#m]it b[A]e a sweet sweet sound
+[B]in[C#m] your ear
 
 BRIDGE:
-[Em]    You took my sorrows and [C]made me sing
-[Am]    You gave Your life as an [D]offering
- You've [Em]turned my mourning [D]into dancing
-[C]Now my heart,[G/B] is rejoicing
-[Am]     I can't help... but [D]let it ring
+[C#m] [B] [E]
+[C#m] [B] [E]
+[C#m] [B] [E]
+[C#m] [B] [A]
+
+[A]ho[B]w i love you
+[F#m]how i love you
+[A]ho[B]w i love you
+[C#m]Jesu[(B)]s

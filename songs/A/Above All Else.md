@@ -1,35 +1,39 @@
 ---
-title: "Above All Else"
-artist: ""
+title: Above All Else
+artist: ''
 key: C
-tempo: 77
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '77'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "o.s. apo. med."
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: o.s. apo. med.
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1415757E-173C-46CA-ACA1-EB4825CD6A7D"
+id: 1415757E-173C-46CA-ACA1-EB4825CD6A7D
 ---
-
 {Doug Davis}
 
 CHORUS:

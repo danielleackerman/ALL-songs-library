@@ -1,22 +1,25 @@
 ---
-title: "Growing Young"
-artist: "Rich Mullins"
+title: Growing Young
+artist: Rich Mullins
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8F7FD3C5-F1FB-4595-A820-03ECDC5DC08C"
+id: 8F7FD3C5-F1FB-4595-A820-03ECDC5DC08C
 ---
-
 Matthew 19:13-14/Luke 15:11-24
 
  [Ab2no3]    [Db2/Ab]      [Ab2no3]	  [Db2/Ab]

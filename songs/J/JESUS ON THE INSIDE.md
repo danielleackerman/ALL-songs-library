@@ -1,35 +1,39 @@
 ---
-title: "Jesus on the Inside"
-artist: ""
+title: Jesus on the Inside
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "jesus"
-  - "life"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - jesus
+  - life
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "10EF0C92-5CDD-47A4-8BBE-B15303CBB7B6"
+id: 10EF0C92-5CDD-47A4-8BBE-B15303CBB7B6
 ---
-
 [C]Jesus on the inside working on the outside
 
 [C]Oh what a [Db]change in my [Dm][G7]life,

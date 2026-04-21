@@ -1,23 +1,26 @@
 ---
-title: "Rock Star"
-artist: "Third Day"
+title: Rock Star
+artist: Third Day
 key: E
-tempo: 
-time: 
-ccli: "4292287"
-copyright: "2004 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "rock"
+  - rock
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Chords Used"
-year: 
+keywords: ''
+ccli: '4292287'
+copyright: 2004 Consuming Fire Music
+source: Chords Used
+year: ''
 medley: []
-id: "16F6C40C-F581-4A00-928E-9781DD1FA923"
+id: 16F6C40C-F581-4A00-928E-9781DD1FA923
 ---
-
          C#m      Am        E        B       F#m      Abm
 6-e-------0--------5--------0--------0--------2--------4
 5-a-------4--------7--------2--------2--------4--------6

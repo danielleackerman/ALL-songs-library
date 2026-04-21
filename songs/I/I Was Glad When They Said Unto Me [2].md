@@ -1,37 +1,41 @@
 ---
-title: "I Was Glad When They Said Unto Me"
-artist: ""
+title: I Was Glad When They Said Unto Me
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-ccm-choir-choruses-congregational-contemporary-jesus-movement-maranatha-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-ccm-choir-choruses-congregational-contemporary-jesus-movement-maranatha-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "767AC0AA-F3BB-4EA7-9B56-9063C2426DC2"
+id: F7C070A6-A6F1-4D2A-AB27-B664BAEBD958
 ---
-
 [Bb/C]I   was  [[F]glad  when  they  said  unto  me
 
 [Bb/C]I   was  [F]glad  when  they  [G7]said  unto  me[C7]

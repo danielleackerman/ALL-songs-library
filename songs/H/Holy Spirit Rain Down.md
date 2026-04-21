@@ -1,36 +1,40 @@
 ---
-title: "Holy Spirit Rain Down"
-artist: ""
+title: Holy Spirit Rain Down
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: "2405227"
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "holy-spirit"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - holy-spirit
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: '2405227'
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "26A8383D-D057-486A-BDC1-E17E01F79748"
+id: 26A8383D-D057-486A-BDC1-E17E01F79748
 ---
-
 CHORUS:
 [C/D]Holy Spirit r[G]ain [F/G]down  [F/C]rain  [C]down
 O [Am7]Comforter and [G/B]Friend

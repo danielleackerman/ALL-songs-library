@@ -1,34 +1,38 @@
 ---
-title: "The Wind Is Blowing Again"
-artist: "Lanny Wolfe"
+title: The Wind Is Blowing Again
+artist: Lanny Wolfe
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "pentecost"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - pentecost
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0B55985C-E573-4F19-9FEE-12D4D09FA352"
+id: 0B55985C-E573-4F19-9FEE-12D4D09FA352
 ---
-
 CHORUS:
 The [G]wind is [G7/B]blowing a[C]gain,  [Am]
 The [D7]wind is blowing a[G]gain.  [C/D]

@@ -1,0 +1,111 @@
+---
+title: 2017-07-17 n-PRACTICE LIST
+date: '2017-07-17'
+service: n-PRACTICE LIST
+function: []
+feel: []
+songs:
+  - '[[Hallelujah Praise The Lamb]]'
+  - '[[Hallelujah Praise The Lamb]]'
+  - '[[Worship The King]]'
+  - '[[What A Mighty God We Serve]]'
+  - '[[We’ve Got The Power]]'
+  - '[[We Worship You With Lips of Adoration]]'
+  - '[[We Serve A Great Big God]]'
+  - '[[We Bring The Sacrifice Of Praise]]'
+  - '[[We Bring The Sacrifice Of Praise]]'
+  - '[[SONG: we are here to worship you]]'
+  - '[[We Are Here To Worship You]]'
+  - '[[There''s Something About That Name]]'
+  - '[[There''s Something About That Name-MY EDIT]]'
+  - '[[In The Name Of Jesus]]'
+  - '[[In The Name of Jesus]]'
+  - '[[Victory Is Mine]]'
+  - '[[In His Presence-- MY EDIT]]'
+  - '[[I''ll Be Singing There]]'
+  - '[[I Will Stand in the Congregation]]'
+  - '[[I Will Stand in the Congregation-2]]'
+  - '[[I Will Bless Thee, O Lord]]'
+  - '[[I WILL BLESS THEE, O LORD - EASY]]'
+  - '[[I WILL BLESS THEE, O LORD - EASY| LYRICS]]'
+  - '[[I LOVE TO SING YOUR PRAISE]]'
+  - '[[I Am Thine, O Lord / Draw Me Nearer 3]]'
+  - '[[Here I Am To Worship]]'
+  - '[[Here I Am To Worship - LYRICS]]'
+  - '[[Heavenly Father We Appreciate You]]'
+  - '[[Heavenly Father-my edit]]'
+  - '[[He Is Lord]]'
+  - '[[He Gives Strength To Me-2]]'
+  - '[[Great Praise for a Great God]]'
+  - '[[Fill My Cup Lord]]'
+  - '[[Falling In Love With Jesus V2]]'
+  - '[[Falling In Love With Jesus]]'
+  - '[[Because Of Who You Are]]'
+  - '[[Because Of Who You Are-- long edit]]'
+  - '[[Because Of Who You Are--long edit II]]'
+  - '[[Because Of Who You Are--short edit]]'
+  - '[[Above All Else]]'
+  - '[[I''m Going All The Way]]'
+  - '[[I''m Going All The Way With The Lord]]'
+  - '[[I Have Made My Decision]]'
+  - '[[I Bless Your Name]]'
+  - '[[I Bless Your Name-edit]]'
+---
+## Songs
+- [[Hallelujah Praise The Lamb]]
+- [[Hallelujah Praise The Lamb]]
+- [[Worship The King]]
+- [[What A Mighty God We Serve]]
+- [[We’ve Got The Power]]
+- [[We Worship You With Lips of Adoration]]
+- [[We Serve A Great Big God]]
+- [[We Bring The Sacrifice Of Praise]]
+- [[We Bring The Sacrifice Of Praise]]
+- [[SONG: we are here to worship you]]
+- [[We Are Here To Worship You]]
+- [[There's Something About That Name]]
+- [[There's Something About That Name-MY EDIT]]
+- [[In The Name Of Jesus]]
+- [[In The Name of Jesus]]
+- [[Victory Is Mine]]
+- [[In His Presence-- MY EDIT]]
+- [[I'll Be Singing There]]
+- [[I Will Stand in the Congregation]]
+- [[I Will Stand in the Congregation-2]]
+- [[I Will Bless Thee, O Lord]]
+- [[I WILL BLESS THEE, O LORD - EASY]]
+- [[I WILL BLESS THEE, O LORD - EASY| LYRICS]]
+- [[I LOVE TO SING YOUR PRAISE]]
+- [[I Am Thine, O Lord / Draw Me Nearer 3]]
+- [[Here I Am To Worship]]
+- [[Here I Am To Worship - LYRICS]]
+- [[Heavenly Father We Appreciate You]]
+- [[Heavenly Father-my edit]]
+- [[He Is Lord]]
+- [[He Gives Strength To Me-2]]
+- [[Great Praise for a Great God]]
+- [[Fill My Cup Lord]]
+- [[Falling In Love With Jesus V2]]
+- [[Falling In Love With Jesus]]
+- [[Because Of Who You Are]]
+- [[Because Of Who You Are-- long edit]]
+- [[Because Of Who You Are--long edit II]]
+- [[Because Of Who You Are--short edit]]
+- [[Above All Else]]
+- [[I'm Going All The Way]]
+- [[I'm Going All The Way With The Lord]]
+- [[I Have Made My Decision]]
+- [[I Bless Your Name]]
+- [[I Bless Your Name-edit]]
+
+## Missing Song Notes
+- SONG: we are here to worship you
+- In The Name of Jesus
+- I WILL BLESS THEE, O LORD - EASY
+- I WILL BLESS THEE, O LORD - EASY| LYRICS
+- I LOVE TO SING YOUR PRAISE
+- I Am Thine, O Lord / Draw Me Nearer 3
+
+## Duplicate Titles In This Set
+- Hallelujah Praise The Lamb (2)
+- We Bring The Sacrifice Of Praise (2)

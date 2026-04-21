@@ -1,35 +1,39 @@
 ---
-title: "We Are Not Ashamed"
-artist: "GERON DAVIS"
+title: We Are Not Ashamed
+artist: GERON DAVIS
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "truth"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - truth
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CC448453-03BA-4DD0-9BEF-BCA03B77CA81"
+id: CC448453-03BA-4DD0-9BEF-BCA03B77CA81
 ---
-
 CHORUS:
 [F]We are not ash[C/E]amed
 [A+9]No [Dm9]we are not ash[Cm9]amed [A+/B]of the [Bb]gos[F/A]pel,

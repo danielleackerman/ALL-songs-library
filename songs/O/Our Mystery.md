@@ -1,23 +1,26 @@
 ---
-title: "Our Mystery"
-artist: "Bebo Norman"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Our Mystery
+artist: Bebo Norman
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FF974FD1-E21A-40FF-9CD9-8C8F0BC8D21A"
+id: FF974FD1-E21A-40FF-9CD9-8C8F0BC8D21A
 ---
-
 Key:
 Copyright: 2002 New Spring Publishing, Inc.
 

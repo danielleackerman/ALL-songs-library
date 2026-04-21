@@ -1,22 +1,25 @@
 ---
-title: "Bless Your Name"
-artist: ""
+title: Bless Your Name
+artist: ''
 key: Db
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "455DD242-A2CE-4A61-A247-3D1083649A41"
+id: 455DD242-A2CE-4A61-A247-3D1083649A41
 ---
-
 VERSE 1:
 [Db/F]You [Gb]are my [F/A]rock oh [Bbm]Lord,
 [Db/F]You [Gb]are [F/A]my [Bbm]fortress,

@@ -1,23 +1,26 @@
 ---
-title: "I Still Believe"
-artist: "Jeremy Camp"
+title: I Still Believe
+artist: Jeremy Camp
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "2002 thirsty moon river"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "believe"
+  - believe
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2002 thirsty moon river
+source: ''
+year: ''
 medley: []
-id: "753B2A8D-EE8D-4647-9967-12EDA108D8C2"
+id: 753B2A8D-EE8D-4647-9967-12EDA108D8C2
 ---
-
 Capo 1st fret
 Intro: D-A-G6*
 

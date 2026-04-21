@@ -1,22 +1,25 @@
 ---
-title: "My Heart"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: My Heart
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "670AFA69-5E07-48B0-BB4C-F3B31468A271"
+id: 670AFA69-5E07-48B0-BB4C-F3B31468A271
 ---
-
 Key:
 Copyright: Copyright 2001 New Spring publishing ( A div. of B
 

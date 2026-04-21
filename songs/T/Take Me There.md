@@ -1,22 +1,25 @@
 ---
-title: "Take Me There"
-artist: "Watermark"
+title: Take Me There
+artist: Watermark
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "1997 Rocketown Music/Sweater Weather Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 1997 Rocketown Music/Sweater Weather Music
+source: ''
+year: ''
 medley: []
-id: "75923A8F-77ED-4D76-9C15-616B602F0945"
+id: 75923A8F-77ED-4D76-9C15-616B602F0945
 ---
-
 Intro riff:
 E||-----------------------|-------------------------||----------------------|
 B||-------7---------------|------7------------------||------7---------------|

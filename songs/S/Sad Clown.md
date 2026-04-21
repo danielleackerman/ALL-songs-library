@@ -1,22 +1,25 @@
 ---
-title: "Sad Clown"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Sad Clown
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B157E8C4-59B0-4C96-95C3-04CD55A1F90E"
+id: B157E8C4-59B0-4C96-95C3-04CD55A1F90E
 ---
-
 Key:
 
 Song:			Sad Clown

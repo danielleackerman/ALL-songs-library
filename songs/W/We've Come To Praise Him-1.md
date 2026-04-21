@@ -1,24 +1,27 @@
 ---
-title: "We've Come To Praise Him-1"
-artist: "Lindell Cooley"
+title: We've Come To Praise Him-1
+artist: Lindell Cooley
 key: Bb
-tempo: 100
-time: 
-ccli: 
-copyright: 
+bpm: '100'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: medium
 profile:
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
 year: 1997
 medley: []
-id: "0C82FC37-BBC2-40DB-96A9-E34C4862B772"
+id: 0C82FC37-BBC2-40DB-96A9-E34C4862B772
 ---
-
 {artist: Lindell Cooley, 1997}
 
 [Eb/F]We've come to [Bb]praise Him,

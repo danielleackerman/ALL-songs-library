@@ -1,23 +1,26 @@
 ---
-title: "Irresistible"
-artist: "Darlene Zschech"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Irresistible
+artist: Darlene Zschech
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "15D63426-82CA-48FC-90E8-D5179805C17B"
+id: 15D63426-82CA-48FC-90E8-D5179805C17B
 ---
-
 Key:
 Copyright: 2001 Darlene Zschech/ Hillsong Publishing
 

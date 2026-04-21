@@ -1,25 +1,28 @@
 ---
-title: "Shake The Foundation"
-artist: "Clint Brown"
+title: Shake The Foundation
+artist: Clint Brown
 key: G
-tempo: 
-time: 
-ccli: "3715112"
-copyright: "2002 Integrity's Praise! Music / Pace's Vision Music / Zomba Songs, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "foundation"
+  - praise
+  - foundation
 genre: []
-energy: 
 profile:
-  - "mod-apo-fast"
-keywords: "mod apo fast"
-source: 
-year: 
+  - mod-apo-fast
+keywords: mod apo fast
+ccli: '3715112'
+copyright: '2002 Integrity''s Praise! Music / Pace''s Vision Music / Zomba Songs, Inc.'
+source: ''
+year: ''
 medley: []
-id: "8F466C08-7FDE-4E4B-9193-E63E77283823"
+id: 7DDFDCBE-40DC-4EB2-B357-003DBBC22C54
 ---
-
 VERSE:
 Gl[Gm]ory            Hallelu
 T[Gm]his is what we've come to do

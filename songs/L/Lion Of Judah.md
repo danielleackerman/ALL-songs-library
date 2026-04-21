@@ -1,22 +1,25 @@
 ---
-title: "Lion Of Judah"
-artist: "Jason Upton"
+title: Lion Of Judah
+artist: Jason Upton
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "2002 Jason Upton & Key of David Ministries"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2002 Jason Upton & Key of David Ministries
+source: ''
+year: ''
 medley: []
-id: "A643430B-C69D-41ED-81B3-F5B43E698549"
+id: A643430B-C69D-41ED-81B3-F5B43E698549
 ---
-
 [Em]No one knows the hour
 N[Em/C]o one knows the day
 [Am]Jesus is c[D]oming [Em]soon

@@ -1,22 +1,25 @@
 ---
-title: "Lord, Lay Some Soul Upon My Heart-EASY"
-artist: "Leon Tucker/David Johnson"
+title: 'Lord, Lay Some Soul Upon My Heart-EASY'
+artist: Leon Tucker/David Johnson
 key: C
-tempo: 82
-time: 
-ccli: 
-copyright: 
+bpm: '82'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0E1D4FB6-E2B9-444C-A2C4-D214F24F8633"
+id: 0E1D4FB6-E2B9-444C-A2C4-D214F24F8633
 ---
-
 82 bpm
 SLOW 3 variation
 [C]

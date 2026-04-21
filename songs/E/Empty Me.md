@@ -1,22 +1,25 @@
 ---
-title: "Empty Me"
-artist: "Jeremy Camp"
+title: Empty Me
+artist: Jeremy Camp
 key: D
-tempo: 
-time: 
-ccli: "4067467"
-copyright: "2003 Thirsty Moon River Publishing / 50 Miles / Gene Way Designee"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4067467'
+copyright: 2003 Thirsty Moon River Publishing / 50 Miles / Gene Way Designee
+source: ''
+year: ''
 medley: []
-id: "5E87C061-E4A8-4739-9080-B03D72DE12AB"
+id: 5E87C061-E4A8-4739-9080-B03D72DE12AB
 ---
-
 [D/F#]Holy f[A]ire b[Bm]urn aw[G2]ay
 [D/F#]my des[A]ire of[Bm] anythi[G2]ng
 That is [D/F#]not of[A] You an[Bm]d is of [G2]me

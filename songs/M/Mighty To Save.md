@@ -1,25 +1,28 @@
 ---
-title: "Mighty To Save"
-artist: "Hillsong Live"
+title: Mighty To Save
+artist: Hillsong Live
 key: A
-tempo: 
-time: 
-ccli: "4591782"
-copyright: "2006 Hillsong Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "light"
+  - jesus
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4591782'
+copyright: 2006 Hillsong Publishing
+source: ''
+year: ''
 medley:
-  - "[[My God Is Awesome]]"
-id: "C5D6F7DA-0C79-4290-8F93-748FA71D4DEC"
+  - '[[My God Is Awesome]]'
+id: C5D6F7DA-0C79-4290-8F93-748FA71D4DEC
 ---
-
 MEDLEY: My God Is Awesome
 
 [A] [D] [A] [F#m7] [E]

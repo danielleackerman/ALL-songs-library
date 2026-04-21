@@ -1,35 +1,39 @@
 ---
-title: "No One Can Touch You Like Jesus Can"
-artist: "Randy Phillips"
+title: No One Can Touch You Like Jesus Can
+artist: Randy Phillips
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: "World of Pentecost publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: World of Pentecost publishing
+source: ''
 year: 1991
 medley: []
-id: "373E5CE9-0364-4CA8-89F2-11317B172CC4"
+id: 373E5CE9-0364-4CA8-89F2-11317B172CC4
 ---
-
 CHORUS:
 [Eb]No one can  [Gm7]touch you like [Eb/Ab]Jesus [Fm7]can
 [Bb/D]No one can [Bb]give you peace you [Ab]Cannot [Bb]under[EbM7]stand  [Ab] [Bb] [Eb]

@@ -1,35 +1,39 @@
 ---
-title: "I Lift My Spirit to Your Spirit"
-artist: "Jessy Dixon and the Chicago Community Choir HE'S ABLE"
+title: I Lift My Spirit to Your Spirit
+artist: Jessy Dixon and the Chicago Community Choir HE'S ABLE
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "joy"
-  - "power"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - joy
+  - power
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[GIVE GOD THE GLORY]]"
-id: "14F4ECCD-1717-439F-A40E-2CCD833AEFE5"
+  - '[[songs/G/Give God The Glory]]'
+id: 14F4ECCD-1717-439F-A40E-2CCD833AEFE5
 ---
-
 {artist: Jessy Dixon and the Chicago Community Choir HE'S ABLE}
 
 CHORUS:

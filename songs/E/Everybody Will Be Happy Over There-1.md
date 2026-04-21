@@ -1,25 +1,28 @@
 ---
-title: "Everybody Will Be Happy Over There-1"
-artist: "E.M. Bartlett"
+title: Everybody Will Be Happy Over There-1
+artist: E.M. Bartlett
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
-  - "sutl"
+  - glory
+  - sutl
 genre: []
-energy: 
 profile:
-  - "os-apo-fast"
-keywords: "os apo fast, sutl"
-source: 
-year: 
+  - os-apo-fast
+keywords: 'os apo fast, sutl'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "BDE51010-AE81-41AC-B109-BF41F7F7A250"
+id: BDE51010-AE81-41AC-B109-BF41F7F7A250
 ---
-
 {artist: E.M. Bartlett}
 
 VERSE 1:

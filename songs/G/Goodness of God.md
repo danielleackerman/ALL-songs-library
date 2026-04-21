@@ -1,33 +1,37 @@
 ---
-title: "Goodness of God"
-artist: "Cece Winans"
+title: Goodness of God
+artist: Cece Winans
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "goodness"
-  - "life"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - goodness
+  - life
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "EE26C597-7546-434D-BC85-A8AB316C01F9"
+id: EE26C597-7546-434D-BC85-A8AB316C01F9
 ---
-
 INTRO:
 [Ab] [Absus] [Ab] [Absus]
 

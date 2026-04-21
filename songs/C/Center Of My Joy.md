@@ -1,31 +1,36 @@
 ---
-title: "Center Of My Joy"
-artist: "Bill and Gloria Gaithers & Richard Smallwood"
+title: Center Of My Joy
+artist: Bill and Gloria Gaithers & Richard Smallwood
 key: Ab
-tempo: 52
-time: 
-ccli: "165937"
-copyright: "1987 Century Oak Publishing Group, Richwood Music, William J. Gaither, Inc. Admin. Conexion Group, Inc., Gaither Copyright Management"
+bpm: '52'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "joy"
-  - "adoration"
-  - "commitment"
-  - "rejoice"
+  - joy
+  - adoration
+  - commitment
+  - rejoice
 genre: []
-energy: slow
 profile:
-  - "black-gospel-opera"
-  - "os-apo-slow"
-  - "os-gospel-slow"
-keywords: "os apo slow, os gospel slow, adoration, commitment, joy, rejoice"
-source: 
+  - black-gospel-opera
+  - os-apo-slow
+  - os-gospel-slow
+keywords: 'os apo slow, os gospel slow, adoration, commitment, joy, rejoice'
+ccli: '165937'
+copyright: >-
+  1987 Century Oak Publishing Group, Richwood Music, William J. Gaither, Inc.
+  Admin. Conexion Group, Inc., Gaither Copyright Management
+source: ''
 year: 1987
 medley:
-  - "[[I’M AVAILABLE TO YOU]]"
-  - "[[JESUS AT THE CENTER]]"
-id: "837F54EF-2322-4889-883C-350F318C3E56"
+  - '[[I’M AVAILABLE TO YOU]]'
+  - '[[JESUS AT THE CENTER]]'
+id: 837F54EF-2322-4889-883C-350F318C3E56
 ---
-
 {artist: Bill and Gloria Gaithers & Richard Smallwood, 1987}
 
 Medley: I’m available to You / Jesus at the center

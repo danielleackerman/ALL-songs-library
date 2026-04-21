@@ -1,23 +1,26 @@
 ---
-title: "Catch on Fire (I wish Somebody’s Soul Would)ORIGINAL"
-artist: "Carlton Pierson"
+title: Catch on Fire (I wish Somebody’s Soul Would)ORIGINAL
+artist: Carlton Pierson
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "holy-ghost"
+  - holy-ghost
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A06FCFAD-6AA7-48A8-846F-2A3DD6BCEABA"
+id: A06FCFAD-6AA7-48A8-846F-2A3DD6BCEABA
 ---
-
 CHORUS:
 [Ebm7]I wis[(off]h som[quickly)*]ebody’s soul[Bb9*] would
 catch o[Ebm7*]n fire, catch on fire, catch on fire

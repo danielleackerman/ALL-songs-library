@@ -1,22 +1,25 @@
 ---
-title: "On Jordan's Stormy Banks I Stand"
-artist: "Jars Of Clay"
+title: On Jordan's Stormy Banks I Stand
+artist: Jars Of Clay
 key: G
-tempo: 
-time: 
-ccli: "3251573"
-copyright: "1997 Christopher Miner"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3251573'
+copyright: 1997 Christopher Miner
+source: ''
+year: ''
 medley: []
-id: "F01CE7B4-08F0-4F8A-8062-DF896FEA14B4"
+id: F01CE7B4-08F0-4F8A-8062-DF896FEA14B4
 ---
-
 VERSE:
 Oh, who will come and go with me?
 [G/B]On Jordan's stormy [C2]banks I [G/B]stand

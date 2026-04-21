@@ -1,35 +1,39 @@
 ---
-title: "Here I Am Lord"
-artist: ""
+title: Here I Am Lord
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: "217809"
-copyright: "1989 GMH Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '217809'
+copyright: 1989 GMH Publishing
+source: ''
+year: ''
 medley: []
-id: "A4FBEA39-8BD1-4521-92E7-84ECD4ADFDE1"
+id: A4FBEA39-8BD1-4521-92E7-84ECD4ADFDE1
 ---
-
 [G]I the Lord of[C] Sea and[D] Sky   I have h[G]eard my people cry   [C]
 [G]All who dwell in dark[C] and sin, my h[Am]ands will save            [D]
 [G]I who made the st[C]ars of nig[D]ht I will mak[G]e their darkness bri[C]ght        [D]

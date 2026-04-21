@@ -1,36 +1,40 @@
 ---
-title: "Make Me An Instrument"
-artist: "Lynn Michel Coffey, sung by The Archers"
+title: Make Me An Instrument
+artist: 'Lynn Michel Coffey, sung by The Archers'
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "love"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - love
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D7C201B3-7EE4-4485-B3D3-897763F981C4"
+id: D7C201B3-7EE4-4485-B3D3-897763F981C4
 ---
-
 {artist: Lynn Michel Coffey, sung by The Archers}
 
 VERSE 1:

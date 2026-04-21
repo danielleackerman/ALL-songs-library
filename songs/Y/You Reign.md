@@ -1,24 +1,27 @@
 ---
-title: "You Reign"
-artist: "MercyMe"
+title: You Reign
+artist: MercyMe
 key: C
-tempo: 
-time: 
-ccli: "5138292"
-copyright: "2007 Sparrow Song / Peach Hill Songs / Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "glory"
+  - jesus
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5138292'
+copyright: 2007 Sparrow Song / Peach Hill Songs / Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "74E1073A-6E7B-4097-9616-05F313835971"
+id: 74E1073A-6E7B-4097-9616-05F313835971
 ---
-
 [G]Ev[Am7]en be[F]fore there was a drop in the ocean
 [G]ev[Am7]en before th[F]ere was a [Am7]star in the sky
 [G]ev[Am7]en before[F] the world was put in motion

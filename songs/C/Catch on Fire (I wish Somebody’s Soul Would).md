@@ -1,25 +1,28 @@
 ---
-title: "Catch on Fire (I wish Somebody’s Soul Would)"
-artist: "Carlton Pierson"
+title: Catch on Fire (I wish Somebody’s Soul Would)
+artist: Carlton Pierson
 key: Ebm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "holy-ghost"
+  - holy-ghost
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[THAT SAME SPIRIT]]"
-  - "[[JESUS SAID IT]]"
-id: "F28784FC-FFB6-42E6-9073-F33A1BBC0DBD"
+  - '[[THAT SAME SPIRIT]]'
+  - '[[JESUS SAID IT]]'
+id: F28784FC-FFB6-42E6-9073-F33A1BBC0DBD
 ---
-
 Medley: that same Spirit / Jesus said it
 
 CHORUS:

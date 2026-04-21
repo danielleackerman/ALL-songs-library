@@ -1,24 +1,27 @@
 ---
-title: "You're Not Alone"
-artist: "Meredith Andrews"
+title: You're Not Alone
+artist: Meredith Andrews
 key: G
-tempo: 
-time: 
-ccli: "5088971"
-copyright: "2007 Word Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "life"
+  - love
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5088971'
+copyright: '2007 Word Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "F02A6231-DCB6-429C-92F9-D3C100E9FC9E"
+id: F02A6231-DCB6-429C-92F9-D3C100E9FC9E
 ---
-
 VERSE 1:
 [G]I searched for [Em]love, when the [C]night came, and it [D]closed in,
 [G]I was a[Em]lone, but you [C]found me, where I was [D]hiding,

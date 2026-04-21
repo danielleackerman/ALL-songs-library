@@ -1,27 +1,30 @@
 ---
-title: "Through it All"
-artist: "Andrae Crouch"
+title: Through it All
+artist: Andrae Crouch
 key: G
-tempo: 63
-time: 
-ccli: 
-copyright: 
+bpm: '63'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "thank"
+  - thank
 genre: []
-energy: slow
 profile:
-  - "black-gospel-opera"
-  - "os-gospel-slow"
-keywords: "os gospel slow"
-source: 
-year: 
+  - black-gospel-opera
+  - os-gospel-slow
+keywords: os gospel slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[THROUGH THE FIRE]]"
-  - "[[I LOVE YOU LORD]]"
-id: "E5510379-EDC5-4315-806E-178E7DF905ED"
+  - '[[THROUGH THE FIRE]]'
+  - '[[I LOVE YOU LORD]]'
+id: E5510379-EDC5-4315-806E-178E7DF905ED
 ---
-
 Medley: through the fire / I love You Lord
 
 VERSE 1:

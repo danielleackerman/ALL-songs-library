@@ -1,25 +1,28 @@
 ---
-title: "I'm So Glad Jesus Lifted Me-EASY"
-artist: "80 BPM"
+title: I'm So Glad Jesus Lifted Me-EASY
+artist: 80 BPM
 key: C
-tempo: 80
-time: 
-ccli: 
-copyright: 
+bpm: '80'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "sin"
+  - jesus
+  - sin
 genre: []
-energy: medium-slow
 profile:
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3CA992A0-1088-4E26-BCD0-6A73333CE682"
+id: 3CA992A0-1088-4E26-BCD0-6A73333CE682
 ---
-
 [C]I'm [/]so [C]glad[/]   [G]Jesus [/]lifted [G]me[/]
 Satan had me bound, but Jesus lited me
 When I was in trouble, Jesus lited me.

@@ -1,28 +1,31 @@
 ---
-title: "I Got Up And Went"
-artist: "Jeff Steele"
+title: I Got Up And Went
+artist: Jeff Steele
 key: Eb
-tempo: 
-time: "3/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "bluegrass"
-  - "cheeky"
-  - "novel"
-  - "southern-gospel"
+  - bluegrass
+  - cheeky
+  - novel
+  - southern-gospel
 genre: []
-energy: 
 profile:
-  - "bluegrass-cheeky-novel-southern-gospel"
-  - "os-southern-gospel-med"
-keywords: "os southern gospel med"
-source: 
-year: 
+  - bluegrass-cheeky-novel-southern-gospel
+  - os-southern-gospel-med
+keywords: os southern gospel med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "AC4BF856-49B6-47E1-8D94-E9C805C6D4DB"
+id: AC4BF856-49B6-47E1-8D94-E9C805C6D4DB
 ---
-
 INTRO:
 [Bb][Fm][Bb][Eb][Db][Eb]
 

@@ -1,23 +1,26 @@
 ---
-title: "IN THE PRESENCE OF JEHOVAH chorus"
-artist: "Traditional African-American Spiritual"
+title: IN THE PRESENCE OF JEHOVAH chorus
+artist: Traditional African-American Spiritual
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "presence"
+  - presence
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CB2765F6-469D-4959-B1C7-7E1098C035DF"
+id: CB2765F6-469D-4959-B1C7-7E1098C035DF
 ---
-
 CHORUS:
        [vamp][C2][G][C][G]
 [F/G]In the [C]presence                 [Am7]of Je[Em7]hovah [A7/C#]

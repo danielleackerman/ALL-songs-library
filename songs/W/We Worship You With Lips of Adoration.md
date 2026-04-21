@@ -1,36 +1,40 @@
 ---
-title: "We Worship You With Lips of Adoration"
-artist: "Clint Brown"
+title: We Worship You With Lips of Adoration
+artist: Clint Brown
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "adoration"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - adoration
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-med"
-keywords: "mod apo med, worship"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-med
+keywords: 'mod apo med, worship'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D62A486E-3E39-4D4F-BE12-1D5D1260AB90"
+id: D62A486E-3E39-4D4F-BE12-1D5D1260AB90
 ---
-
 by Richard Kopatich
 
 CHORUS:

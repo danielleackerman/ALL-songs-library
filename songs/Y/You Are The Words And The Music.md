@@ -1,22 +1,25 @@
 ---
-title: "You Are The Words And The Music"
-artist: ""
+title: You Are The Words And The Music
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "295E74AC-B85D-4370-BD62-9A0913DBEEBC"
+id: 295E74AC-B85D-4370-BD62-9A0913DBEEBC
 ---
-
 VERSE:
 [F]You are the words and the music
 You are the [Dm7]song that I [C]sing

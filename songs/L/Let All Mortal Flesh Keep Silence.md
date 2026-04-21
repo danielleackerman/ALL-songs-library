@@ -1,22 +1,25 @@
 ---
-title: "Let All Mortal Flesh Keep Silence"
-artist: "Fernando Ortega"
+title: Let All Mortal Flesh Keep Silence
+artist: Fernando Ortega
 key: F
-tempo: 
-time: 
-ccli: "3476145"
-copyright: "2002 Word Music, LLC / Dejamesolo Music / John Andrew Schreiner Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3476145'
+copyright: '2002 Word Music, LLC / Dejamesolo Music / John Andrew Schreiner Music'
+source: ''
+year: ''
 medley: []
-id: "009AFFE7-1C0A-43F3-94C6-1CFFB40652E4"
+id: 009AFFE7-1C0A-43F3-94C6-1CFFB40652E4
 ---
-
 Intro: Dm  Dm  Dm  Dm
 
 VERSE 1:

@@ -1,37 +1,41 @@
 ---
-title: "I Believe I Can Fly"
-artist: "R. Kelly"
+title: I Believe I Can Fly
+artist: R. Kelly
 key: C
-tempo: 72
-time: 
-ccli: 
-copyright: 
+bpm: '72'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "believe"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - believe
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "cont-gospel-slow"
-  - "mod-gospel-slow"
-keywords: "cont gospel slow, mod gospel slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - cont-gospel-slow
+  - mod-gospel-slow
+keywords: 'cont gospel slow, mod gospel slow'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "719909B5-A340-4A6F-8F9F-D31794D1D78C"
+id: 719909B5-A340-4A6F-8F9F-D31794D1D78C
 ---
-
 [C]I used to think that I could not go [Dm7(b5)/C]on
 [C]And life was nothing but an awful [Dm7(b5)/C]song
 [C]But now I know the meaning of true [Dm7(b5)/C]love

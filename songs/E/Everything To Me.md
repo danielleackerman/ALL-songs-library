@@ -1,23 +1,26 @@
 ---
-title: "Everything To Me"
-artist: "Hillsong United"
+title: Everything To Me
+artist: Hillsong United
 key: C
-tempo: 
-time: 
-ccli: "3367577"
-copyright: "2001 Hillsong Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3367577'
+copyright: 2001 Hillsong Publishing
+source: ''
+year: ''
 medley: []
-id: "D29129A6-959C-40CE-8FF4-A499AACD67BD"
+id: D29129A6-959C-40CE-8FF4-A499AACD67BD
 ---
-
 INTRO:
 Lead(single notes)
 E, c / b, g / c, a / f

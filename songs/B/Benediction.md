@@ -1,23 +1,28 @@
 ---
-title: "Benediction"
-artist: "Jars Of Clay"
+title: Benediction
+artist: Jars Of Clay
 key: G
-tempo: 
-time: 
-ccli: "5840676"
-copyright: "2010 Bridge Building, a division of Brentwood-Benson Music Publishing / Pogostick Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "benediction"
+  - benediction
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5840676'
+copyright: >-
+  2010 Bridge Building, a division of Brentwood-Benson Music Publishing /
+  Pogostick Music
+source: ''
+year: ''
 medley: []
-id: "B2A90A43-D277-48F4-8096-47D26305F98B"
+id: B2A90A43-D277-48F4-8096-47D26305F98B
 ---
-
 C2(#4)
 
    C2(#4)                              G(no3)

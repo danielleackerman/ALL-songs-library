@@ -1,22 +1,25 @@
 ---
-title: "Wire"
-artist: "Third Day"
+title: Wire
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "4292359"
-copyright: "2004 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4292359'
+copyright: 2004 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "F7685893-0184-48F3-B149-51DF7C0BFCE0"
+id: F7685893-0184-48F3-B149-51DF7C0BFCE0
 ---
-
 [Am]  [C]  [G]
 
 VERSE 1:

@@ -1,51 +1,62 @@
 ---
-title: "Worship The King, The God of Israel"
-artist: "Mark Yandriss"
-key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: 'Worship The King, The God of Israel'
+artist: Mark Yandris
+key: G
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "israel"
+  - praise
+  - israel
+  - lively
 genre: []
-energy: 
-profile: []
-keywords: 
-source: 
-year: 
+profile:
+  - modern-apostolic-medium
+keywords: 'modern apostolic medium, lively'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D07CE387-83C3-45B7-B9EB-241B58776B91"
+id: BC3F310D-52F1-460B-BCD5-4335A893A187
 ---
+Intro 2x:
+[G] [D] [Am] [C] [Am] [Em] [Em] [F] [C] [Dm]
 
-CHORUS:
-[F]Worship the [Dm]king the [Gm]God of Israel [C]
-[F/A]Worship the [Dm]king the [Gm]God of Israel [C]
+Chorus 2x:
+[G]Worship the [Em]king, the [Am]God of Isra[D]el
+[G/B]Worship the [Em]king, the [Am]God of Isra[D]el
 
-VERSE 1:
-[F]We kneel down be[Dm]fore you [Gm]place no one above [C]you
-We [F/A]kneel down [Dm]before you, the [Gm]God of [C]Israel
+Verse 1 2x:
+We [G]kneel down be[Em]fore you, place [Am]no one above [D]you
+We [G/B]kneel down before [Em]you, the [Am]God of Isra[D]el
 
-VERSE 2:
-[F]Deuteronomy [Dm]6 and 4, [Gm]Hear Oh Israel, our God is [C]one Lord
-[F/A]Deuteronomy [Dm]6 and 4, The [Gm]God of Israel [C]
+Verse 2 2x:
+[G]  Deuterono[Bm]my [Em]six and four, [Am]Hear Oh Israel, [Am7]our [D]God is one Lord
+[G/B]  Deuterono[Bm]my [Em]six and four, The [Am]God of Isra[D]el
 
-VERSE 2:
-Repeat
+Verse 3 2x:
+[G]All other gods are the [Em]works of men
+[Am]All other gods are the [D7]works of men
+[G]Not Buddha, [Em]not Allah, [C]not Confucius, [D]Nor Baal
+[G7b9] We only worship, [E7]we only bow to the [A7]God of Isra[D7]el
 
-VERSE 3:
-Solo
-[F]All other [Dm]gods [Gm]are the works of [C]men
-[F/A]All other [Dm]gods [Gm]are the works of [C]men
-(Descant)
-[F]Not Buddha, [Dm]not Allah, not [Gm]Confucius, Nor [C]Baal
-[F/A]We only worship, [Dm]we only bow to the [Gm]God of [C]Israel
+Bridge 2x:
+[G] We worship, [Em] we worship, [C] we praise the [D]God of Isra[G]el
+[G] We worship, [Em] we worship, [C] we praise the [D]God of Isra[G]el
+[G] We bow to [Em] no other, [C] we praise the [D]God of Isra[G]el
+[G] We bow to [Em] no other, [C] we praise the [D]God of Isra[G]el
 
-VAMP:
-We worship, we worship, we praise the God of Israel
-We worship, we worship, and praise the God of Israel
+Bridge 1x:
+[G] We worship, [Em] we worship, [C] we praise the [D]God of Isra[G]el
+[G] We worship, [Em] we worship, [C] we praise the [D]God of Isra[G]el
 
-Alternate Vamp:
-We worship no other, we praise the God of Israel
-We worship no other, we praise the God of Israel
+Chorus 1x:
+[G]Worship the [Em]king, the [Am]God of Isra[D]el
+[G/B]Worship the [Em]king, the [Am]God of Isra[D]el
+
+Medium modern apostolic, energetic praise

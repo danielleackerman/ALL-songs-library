@@ -1,24 +1,27 @@
 ---
-title: "preaching GOOD NEWS"
-artist: "BROTHER JELDERKS"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: preaching GOOD NEWS
+artist: BROTHER JELDERKS
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "believe"
+  - jesus
+  - believe
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "79E96BB0-A0F6-41A4-A6F7-79694D1D2209"
+id: 79E96BB0-A0F6-41A4-A6F7-79694D1D2209
 ---
-
 May 2019
 
 Isaiah 52:7 KJVS

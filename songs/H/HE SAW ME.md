@@ -1,31 +1,35 @@
 ---
-title: "He Saw Me"
-artist: "Joan Ewing"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: He Saw Me
+artist: Joan Ewing
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "359E21BE-CF4F-43F6-A1CE-5A5372FFE55E"
+id: 359E21BE-CF4F-43F6-A1CE-5A5372FFE55E
 ---
-
 On the balcony of space stepped a pure and holy God, and in awesome solitude He stood alone
 Not one faint star to give Him light, just endless rolling, blackest night
 But somehow thru the all the darkness He could see.

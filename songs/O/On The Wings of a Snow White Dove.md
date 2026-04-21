@@ -1,24 +1,27 @@
 ---
-title: "On The Wings of a Snow White Dove"
-artist: "Marty Robbins"
+title: On The Wings of a Snow White Dove
+artist: Marty Robbins
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[HE’LL MAKE A WAY]]"
-id: "8BE6173F-D990-4AF2-87B1-088F6C8234E9"
+  - '[[HE’LL MAKE A WAY]]'
+id: 8BE6173F-D990-4AF2-87B1-088F6C8234E9
 ---
-
 Medley: He’ll make a way
 
 CHORUS:

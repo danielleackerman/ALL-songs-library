@@ -1,22 +1,25 @@
 ---
-title: "The Well"
-artist: "Casting Crowns"
+title: The Well
+artist: Casting Crowns
 key: C
-tempo: 
-time: 
-ccli: "6093707"
-copyright: "2011 My Refuge Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6093707'
+copyright: 2011 My Refuge Music
+source: ''
+year: ''
 medley: []
-id: "B4949969-4496-44C2-B708-7707E4451549"
+id: B4949969-4496-44C2-B708-7707E4451549
 ---
-
 John 4:13-15
 
 Capo 1

@@ -1,23 +1,26 @@
 ---
-title: "I See A Crimson Stream"
-artist: ""
+title: I See A Crimson Stream
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "04ED10DC-9D9F-413D-BE42-6B5C1050399F"
+id: 04ED10DC-9D9F-413D-BE42-6B5C1050399F
 ---
-
 (Verse:1)
 
 [Bb/C]On [F2]Calvary's hill of [C]sorrow, where [Gm7]sin's de[C7]mands  [C7/E]were  [F]paid

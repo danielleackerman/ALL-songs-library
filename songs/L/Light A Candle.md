@@ -1,23 +1,26 @@
 ---
-title: "Light A Candle"
-artist: "Avalon"
+title: Light A Candle
+artist: Avalon
 key: Eb
-tempo: 
-time: 
-ccli: "3067918"
-copyright: "2000 Christian Taylor Music / Paragon Music Corporation / Vacation Boy Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "light"
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3067918'
+copyright: 2000 Christian Taylor Music / Paragon Music Corporation / Vacation Boy Music
+source: ''
+year: ''
 medley: []
-id: "75801774-8FC5-40D0-8202-55B1D580F357"
+id: 75801774-8FC5-40D0-8202-55B1D580F357
 ---
-
 Eb(add 2)(4beats)    Cm11(4)
 
 [Eb(add]light a candl[Cm11(4)]e

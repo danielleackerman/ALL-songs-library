@@ -1,35 +1,39 @@
 ---
-title: "What A Lovely Name"
-artist: "The Happy Goodmans / Charles B. Wycuff"
+title: What A Lovely Name
+artist: The Happy Goodmans / Charles B. Wycuff
 key: C
-tempo: 67
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '67'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "EB2E0E01-C0E4-4CA9-B0C2-ED6E8F741DC3"
+id: EB2E0E01-C0E4-4CA9-B0C2-ED6E8F741DC3
 ---
-
 VERSE 1:
 [C]There's a [F]name above all [C]others ,
 Wonderful to [G7]hear, bringing hoping [C]cheer.

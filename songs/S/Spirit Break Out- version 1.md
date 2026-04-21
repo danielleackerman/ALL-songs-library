@@ -1,35 +1,39 @@
 ---
-title: "Spirit Break Out- version 1"
-artist: "Kim Walker"
+title: Spirit Break Out- version 1
+artist: Kim Walker
 key: B
-tempo: 
-time: 
-ccli: "5833975"
-copyright: "2010 Thankyou Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "heaven"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - heaven
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '5833975'
+copyright: 2010 Thankyou Music
+source: ''
+year: ''
 medley: []
-id: "F4F230E2-DB67-40B4-ACFD-DF15185C4EAE"
+id: F4F230E2-DB67-40B4-ACFD-DF15185C4EAE
 ---
-
 INTRO:
  [E] - [F#] - [G#m] - [B/D#]
 

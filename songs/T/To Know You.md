@@ -1,23 +1,28 @@
 ---
-title: "To Know You"
-artist: "Casting Crowns"
+title: To Know You
+artist: Casting Crowns
 key: E
-tempo: 
-time: 
-ccli: "5638194"
-copyright: "2009 BanaHama Tunes / Word Music, LLC / My Refuge Music / Sony/ATV Tree Publishing / GrangeHill Music / Peertunes Ltd. / Windsor Way Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5638194'
+copyright: >-
+  2009 BanaHama Tunes / Word Music, LLC / My Refuge Music / Sony/ATV Tree
+  Publishing / GrangeHill Music / Peertunes Ltd. / Windsor Way Music
+source: ''
+year: ''
 medley: []
-id: "5C57481D-A5A2-4156-B9D7-95BC8872CB51"
+id: 5C57481D-A5A2-4156-B9D7-95BC8872CB51
 ---
-
 VERSE 1:
 [F#m]To know [C#m/E]you        is nev[E]er worry fo[Bsus]r my life, and
 [F#m]To know [C#m/E]you is to never t[E]o give in o[Bsus]r compromise

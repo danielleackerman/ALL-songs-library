@@ -1,22 +1,25 @@
 ---
-title: "I Will Be The One"
-artist: ""
+title: I Will Be The One
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7A36F92E-ED39-4DCE-ABC9-D08A4C2BC45E"
+id: 7A36F92E-ED39-4DCE-ABC9-D08A4C2BC45E
 ---
-
 CHORUS:
 [C]I will be the [G/B]one to [Am7]worship your [Bb/G]na[C7]me
 [F]My hands will be [C/E]raised high to [D]you in [F/D]Pra[G7]ise

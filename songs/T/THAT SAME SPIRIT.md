@@ -1,38 +1,42 @@
 ---
-title: "That Same Spirit"
-artist: "Eddie James"
+title: That Same Spirit
+artist: Eddie James
 key: F
-tempo: 115
-time: 
-ccli: 
-copyright: 
+bpm: '115'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "authority"
-  - "holy-ghost"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - authority
+  - holy-ghost
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "contemporary-gospel-med-fast"
-keywords: "contemporary gospel med fast"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - contemporary-gospel-med-fast
+keywords: contemporary gospel med fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4ABFD2A5-57EE-4DE3-81F4-856FACDF65FE"
+id: 4ABFD2A5-57EE-4DE3-81F4-856FACDF65FE
 ---
-
 CHORUS:
 That same Spirit
 That raised Jesus

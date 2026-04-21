@@ -1,60 +1,72 @@
 ---
-title: "I Bless Your Name"
-artist: ""
-key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: I Bless Your Name
+artist: ''
+key: G
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "truth"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - praise
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '4436919'
+copyright: 1998 Wayne Goodine Music
+source: Selah
+year: ''
 medley: []
-id: "197EF692-E955-407D-A2BA-5693DEB004DA"
+id: 3538A0AF-6241-4D3F-B3CB-149FC0A30179
 ---
+capo 5th fret (C)
+
+I[G]n prisoners chains[C] with bleeding str[G]ipes
+Paul and S[Em]ilas pra[C]yed that[D] night
+and in their pa[G]in b[C]egan to s[G]ee[Em]
+their chains were lo[G]ssed a[D]nd they were f[G]ree
 
 CHORUS:
-[F6/G]I bless your name [C2] [Am/F] I bless your name [C2]
-I give you [Am2] hon [Am2/G] nor I give [D/F#] You praise[G2] [G2/F]
-You are the life[C/E] [Am/F] the truth the way  [C/G]
-[F6/A]I bless your name[C/G]  I bless[F6/G] your name [C]
+[G]I bless your name[C]
+G
+I bless your name
+I give you h[Em]onor  [C]give you prais[D]e
+             G
+You are the life the truth the way
+[D]I bless your nam[G]e
+G
+I bless your name
 
-Mod. [Gb6/G#]
+VERSE 2:
+[G]Some midnight hour[C] if you should find[G]
+Your in[Em] a pri[C]son  of your mi[D]nd
+Reach out a[G]nd praise de[C]fy those cha[G]ins[Em]
+And they w[G]ill fall i[D]n Jesus na[G]me
 
 CHORUS:
-[Gb6/Ab]I bless your name [Db2] [Bbm/Db] I bless your name [Db2]
-I give you[Bbm2] hon. [Bbm2/Ab] nor I give [Eb/G] You praise[Ab2][Ab2/G]
-You are the life[Db/F]    [Bbm/Gb] the truth the way [Db/Ab]
-[Gb6/Bb]I bless your name[Db/Ab]  I bless[Gb6/Ab] your name [Db] [Gb6/Ab]
-
-VERSE 1:
-[Db]Je [Bbm/Gb]sus [Db]Jesus [Bbm2]Jesus [Eb/G][Ab2]Jesus [Ab/Gb]
-[Db/F]Je [Bbm/Gb]sus [Db2/Ab] Jesus  I [Gb6/Bb]bless Your  name [Db/Ab]
-I [Gb6/Ab] bless Your name [Db]
-
-Mod.  [G6/A]
-
-[G6/A]I bless your Name [D2] [Bm/G] I bless your Name[D2]
-I give you [Bm2] hon [Bm2/A] nor I give [E/G#] You praise [A] [A/G]
-you are the life [D/F#] [Bm/G] the truth the way [D/A]
-I [G6/B] bless Your name [D/A] I [G6/A] Your Name [D]
-
-Repeat:
-You [A/G]are the life[D/F#] [Bm/G] the truth the way [D/A]
+[G]We bless your n[C]ame
+G
+We bless your name
+I give you ho[Em]nor [C] I give you pr[D]aise
+You are the li[G]fe  th[C]e truth  the w[G]ay[Em]
+                G
+We bless your name
+We bl[D]ess your na[G]me
 
 ENDING:
-I [G6/B]bless Your name [D/A] I [G6/A] bless Your Name [D]
+You are the li[G]fe  t[C]he truth  the w[G]ay[Em]
+                G
+We bless your name
+We bl[D]ess your n[G]ame

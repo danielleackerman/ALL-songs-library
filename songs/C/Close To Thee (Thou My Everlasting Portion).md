@@ -1,25 +1,28 @@
 ---
-title: "Close To Thee (Thou My Everlasting Portion)"
-artist: "Fanny Jane Crosby, Silas Jones Vail (Sing Into The Lord Songbook (3))"
+title: Close To Thee (Thou My Everlasting Portion)
+artist: 'Fanny Jane Crosby, Silas Jones Vail (Sing Into The Lord Songbook (3))'
 key: G
-tempo: 68
-time: "3/4"
-ccli: "12545"
-copyright: "Public Domain"
+bpm: '68'
+time_sig: 3/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
-  - "sutl"
+  - life
+  - sutl
 genre: []
-energy: medium-slow
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow, sutl"
-source: 
-year: 
+  - os-apo-slow
+keywords: 'os apo slow, sutl'
+ccli: '12545'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "3274C8EE-A1D3-47F0-A890-28E2F6EA503D"
+id: 3274C8EE-A1D3-47F0-A890-28E2F6EA503D
 ---
-
 original key, Eb, F
 
 VERSE 1:

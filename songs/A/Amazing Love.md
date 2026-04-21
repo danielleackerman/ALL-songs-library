@@ -1,36 +1,40 @@
 ---
-title: "Amazing Love"
-artist: "Rebecca St. James"
+title: Amazing Love
+artist: Rebecca St. James
 key: D
-tempo: 
-time: 
-ccli: "2473888"
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "love"
-  - "honor"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - love
+  - honor
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '2473888'
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5DF581BD-46B1-4A2C-8A97-CDA4DF63861E"
+id: 5DF581BD-46B1-4A2C-8A97-CDA4DF63861E
 ---
-
 by Jeff Foote
 {Copyright: 1997 Jeff M. Foote}
 

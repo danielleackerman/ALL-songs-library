@@ -1,23 +1,28 @@
 ---
-title: "Wrapped Up, Tied Up, Tangled Up"
-artist: "Earnest Pugh"
+title: 'Wrapped Up, Tied Up, Tangled Up'
+artist: Earnest Pugh
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Lord, I've searched far and wide,; Trying to find a love like Yours.; But in my searching, I've discovered,; That You were the only true love."
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: >-
+  Lord, I've searched far and wide,; Trying to find a love like Yours.; But in
+  my searching, I've discovered,; That You were the only true love.
+year: ''
 medley: []
-id: "CE687AF8-20F7-4B88-94C1-5D0C03261665"
+id: CE687AF8-20F7-4B88-94C1-5D0C03261665
 ---
-
 (Said I'm wrapped up, hmm),
 (Tied up, hmm),
 (Tangled up in Jesus),

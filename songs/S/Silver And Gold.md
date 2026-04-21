@@ -1,24 +1,27 @@
 ---
-title: "Silver And Gold"
-artist: "Kirk Franklin"
+title: Silver And Gold
+artist: Kirk Franklin
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile:
-  - "black-gospel-opera"
-keywords: 
-source: 
-year: 
+  - black-gospel-opera
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9042DEE1-95E1-4DD3-9B1F-A8B00E3497DF"
+id: 9042DEE1-95E1-4DD3-9B1F-A8B00E3497DF
 ---
-
 CHORUS:
 [F2]Silver and [A7b9]gold, [Dm9]silver and [Cm9]gold
 [F2]I'd [Bb2]rather have [F/A]Jesus [Dm9]than [G9]silver and [C2]gold.  [C/Bb]

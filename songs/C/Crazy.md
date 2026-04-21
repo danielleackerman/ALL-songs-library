@@ -1,22 +1,25 @@
 ---
-title: "Crazy"
-artist: "MercyMe"
+title: Crazy
+artist: MercyMe
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: "2002 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2002 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "3072AFFE-DE94-4B7A-8997-0B1003E95F69"
+id: 3072AFFE-DE94-4B7A-8997-0B1003E95F69
 ---
-
 INTRO:
          [F]  [G]  [Dm]  [Am]
 

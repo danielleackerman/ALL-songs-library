@@ -1,24 +1,27 @@
 ---
-title: "Holy Fire"
-artist: ""
+title: Holy Fire
+artist: ''
 key: E
-tempo: 
-time: 
-ccli: "2489580"
-copyright: "1998 Vineyard Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "heaven"
-  - "holy-fire"
+  - heaven
+  - holy-fire
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2489580'
+copyright: 1998 Vineyard Songs
+source: ''
+year: ''
 medley: []
-id: "0E30A3FD-CFFB-4D81-94CA-C3EA63038EDC"
+id: 0E30A3FD-CFFB-4D81-94CA-C3EA63038EDC
 ---
-
 VERSE 1:
 [E]Holy fire from heaven, descend[B] to us we pray
 Let us b[(C#m)]urn again       [A]

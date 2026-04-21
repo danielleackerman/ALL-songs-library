@@ -1,24 +1,27 @@
 ---
-title: "Way Maker v2"
-artist: "BOTT arrangment"
+title: Way Maker v2
+artist: BOTT arrangment
 key: A
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "light"
-  - "promise"
+  - light
+  - promise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F224D0B4-E3B7-40B5-BAF9-BEFF85728F54"
+id: F224D0B4-E3B7-40B5-BAF9-BEFF85728F54
 ---
-
 INTRO:
 16 bar intro
 

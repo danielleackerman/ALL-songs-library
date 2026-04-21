@@ -1,38 +1,44 @@
 ---
-title: "Every Praise is to Our God-my edit"
-artist: "Hezekiah Walker, John David Bratton // Db, D, Eb}"
+title: Every Praise is to Our God-my edit
+artist: 'Hezekiah Walker, John David Bratton // Db, D, Eb}'
 key: Db
-tempo: 96
-time: "4/4"
-ccli: "6623483"
-copyright: "2013 L'il Eva Music, Luv Ki Publishing, Dave Pavo Music / Admin. Capitol CMG Publishing, Ole Media Management LP"
+bpm: '96'
+time_sig: 4/4
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "praise"
-  - "glory"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - praise
+  - glory
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-med"
-  - "mod-gospel-med"
-keywords: "mod apo med, mod gospel med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-med
+  - mod-gospel-med
+keywords: 'mod apo med, mod gospel med'
+ccli: '6623483'
+copyright: >-
+  2013 L'il Eva Music, Luv Ki Publishing, Dave Pavo Music / Admin. Capitol CMG
+  Publishing, Ole Media Management LP
+source: ''
+year: ''
 medley: []
-id: "8D00A26D-2BF9-4745-8441-A3A89366B372"
+id: 8D00A26D-2BF9-4745-8441-A3A89366B372
 ---
-
 VERSE 1:
 Notes (F-Ab-Bb-Db)
 [Db]Every praise is to our God, [Db/Bb]every word of worship in one accord

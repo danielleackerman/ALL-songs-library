@@ -1,44 +1,57 @@
 ---
-title: "God’s Not Dead"
-artist: ""
-key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: God’s Not Dead
+artist: ''
+key: F
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-fast"
-  - "middle-eastern"
-  - "praise"
-  - "solo-songs"
-  - "traditional"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-fast
+  - middle-eastern
+  - praise
+  - solo-songs
+  - traditional
+  - life
+  - service
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional"
-keywords: 
-source: 
-year: 
-medley: []
-id: "B014A731-215A-4F8B-8731-539B3506E3A1"
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional
+  - os-apo-fast
+  - os-gospel-fast
+keywords: 'os apo fast, os gospel fast, life, service'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
+medley:
+  - '[[LIVING HE LOVED ME]]'
+id: EF06E826-6E13-458D-985C-9EE36E1D382B
 ---
+Original key f
 
-[G]God’s   not   dead,   He’s  [G7]alive,
+Medley: living He loved me
 
-[C9]God’s   not   dead, [C#dim]He’s   a -[G]live   [C/D]
+[F]God’s   not   dead,   He’s  [F7]alive,
 
-[G]God’s    not    dead.  [B7]He’s   [B7/D#]a   --[Em7]live
+[Bb9]God’s   not   dead, [Bdim]He’s   a[F]live   [Bb/C]
 
-I   [G]feel   Him  in   my   [Em]hands,  I   [G]feel  Him  in  my  [Em]feet
+[F]God’s    not    dead   [A7]He’s   [A7/Db]a[Dm7]live
 
-I.  [G]feel  Him  in  my.  [Em]heart,  I   [G]feel  Him  all  over   [Em]me
+I   [F]feel   Him  in   my   [Dm]hands,  I   [F]feel  Him  in  my  [Dm]feet
 
-[A#/B]God’s    [Am/C]not.   [C#dim]dead,    [D9#5]He’s     a    -[G]live.
+I  [F]feel  Him  in  my  [Dm]heart,  I   [F]feel  Him  all  over   [Dm]me
+
+[Ab/A]God’s    [Gm/Bb]not   [Bdim]dead,    [C9#5]He’s     a [F]live.
 
 
 

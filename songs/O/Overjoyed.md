@@ -1,22 +1,25 @@
 ---
-title: "Overjoyed"
-artist: "Jars Of Clay"
+title: Overjoyed
+artist: Jars Of Clay
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: "Brentwood Benson Music Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: Brentwood Benson Music Publishing
+source: ''
+year: ''
 medley: []
-id: "6A67EA64-CB04-4013-8F53-F452E84A9C82"
+id: 6A67EA64-CB04-4013-8F53-F452E84A9C82
 ---
-
 VERSE 1:
 Y[Dm9]ou name me[Am] who[Dm9] am I[Am] that [Dm9]I should[Am] compan[F6]y with some[G6]thing so divine[Dm9]
 M[Am]ercy [Dm9]waits ov[Am]er jo[Dm9]yed prospec[Am]ts of fin[F6]ding f[G6]reeing me

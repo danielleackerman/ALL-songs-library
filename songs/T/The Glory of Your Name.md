@@ -1,23 +1,26 @@
 ---
-title: "The Glory of Your Name"
-artist: "Watermark"
+title: The Glory of Your Name
+artist: Watermark
 key: F
-tempo: 
-time: 
-ccli: "4347981"
-copyright: "2004 Word Music, Inc. / Sweater Weather Music / Rocketown Music, LLC."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4347981'
+copyright: '2004 Word Music, Inc. / Sweater Weather Music / Rocketown Music, LLC.'
+source: ''
+year: ''
 medley: []
-id: "96586B5D-0498-4C0D-9EF2-784F720CAA63"
+id: 96586B5D-0498-4C0D-9EF2-784F720CAA63
 ---
-
 [Intro]             [F/A]           [Bb2]           [Dm7]           [Csus]     [(X2)]
 
 VERSE 1:

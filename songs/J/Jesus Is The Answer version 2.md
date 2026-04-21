@@ -1,36 +1,40 @@
 ---
-title: "Jesus Is The Answer version 2"
-artist: "Andrae Crouch"
+title: Jesus Is The Answer version 2
+artist: Andrae Crouch
 key: Ab
-tempo: 75
-time: 
-ccli: "14260"
-copyright: "1973 Bud John Songs, Inc."
+bpm: '75'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-gospel-med-slow"
-keywords: "os gospel med slow"
-source: "ORIGINAL KEY Ab"
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+  - os-gospel-med-slow
+keywords: os gospel med slow
+ccli: '14260'
+copyright: '1973 Bud John Songs, Inc.'
+source: ORIGINAL KEY Ab
 year: 1983
 medley: []
-id: "306A98E8-224E-4805-A410-364FFAA9A5A0"
+id: 306A98E8-224E-4805-A410-364FFAA9A5A0
 ---
-
 INTRO:
 [Db/Eb] [Eb7] [Dbmaj7/Eb] [Db/Eb]
 

@@ -1,22 +1,25 @@
 ---
-title: "I'm Alright"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: I'm Alright
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8D7629C1-7546-430B-8688-1F73785441AC"
+id: 8D7629C1-7546-430B-8688-1F73785441AC
 ---
-
 Key:
 
 (Verses)

@@ -1,30 +1,35 @@
 ---
-title: "Falling In Love With Jesus V1"
-artist: "Jonathon Butler/ Kirk Whalum"
+title: Falling In Love With Jesus V1
+artist: Jonathon Butler/ Kirk Whalum
 key: A
-tempo: 75
-time: "4/4"
-ccli: "4476773"
-copyright: "2002 Doulos Publishing | Warner TamerLane Publishing Company ( Maranatha! Music [D#dmin. by Music Services])|"
+bpm: '75'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
-  - "med-slow"
-  - "jazz"
+  - love
+  - jesus
+  - med-slow
+  - jazz
 genre: []
-energy: medium-slow
 profile:
-  - "mod-apo-med"
-  - "mod-gospel-med"
-keywords: "mod apo med, mod gospel med, med slow, jazz"
-source: 
-year: 
+  - mod-apo-med
+  - mod-gospel-med
+keywords: 'mod apo med, mod gospel med, med slow, jazz'
+ccli: '4476773'
+copyright: >-
+  2002 Doulos Publishing | Warner TamerLane Publishing Company ( Maranatha!
+  Music [D#dmin. by Music Services])|
+source: ''
+year: ''
 medley:
-  - "[[SET A FIRE]]"
-  - "[[NO PLACE I’D RATHER BE]]"
-id: "6A9076FE-0E34-4314-9896-AF83CE68A933"
+  - '[[SET A FIRE]]'
+  - '[[NO PLACE I’D RATHER BE]]'
+id: 6A9076FE-0E34-4314-9896-AF83CE68A933
 ---
-
 Medley: set a fire / no place I’d rather be
 
 VERSE 1:

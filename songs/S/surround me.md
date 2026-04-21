@@ -1,22 +1,25 @@
 ---
-title: "Surround Me"
-artist: ""
+title: Surround Me
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "EA47DF15-A544-4FC0-AA69-08ADE15C9B47"
+id: EA47DF15-A544-4FC0-AA69-08ADE15C9B47
 ---
-
 CHORUS:
 [Eb/F]Sur[Bb]round [Dm7]me, oh [Eb]Lo[Eb/F]rd
 [F/A]Sur[Bb2]round [Dm7]me, oh [Eb]Lo[Eb/F]rd

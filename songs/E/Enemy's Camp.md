@@ -1,44 +1,48 @@
 ---
-title: "Enemy's Camp"
-artist: "Richard Black"
+title: Enemy's Camp
+artist: Richard Black
 key: C
-tempo: 
-time: 
-ccli: "467628"
-copyright: "1991 Sound III, Inc. ASCAP Admin. by All Nations Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "high-energy"
-  - "medium-fast"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "believe"
-  - "mod-apo"
-  - "contemp-christian"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - high-energy
+  - medium-fast
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - believe
+  - mod-apo
+  - contemp-christian
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-high-energy-medium-fast-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: "mod apo  , contemp christian, southern gospel"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-high-energy-medium-fast-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: 'mod apo  , contemp christian, southern gospel'
+ccli: '467628'
+copyright: '1991 Sound III, Inc. ASCAP Admin. by All Nations Music'
+source: ''
+year: ''
 medley:
-  - "[[LOOK WHAT THE LORD HAS DONE]]"
-  - "[[PRAISE HIM]]"
-  - "[[DANCING ON THE GRAVES]]"
-  - "[[CAN YOU BELIEVE WHAT THE LORD HAS DONE IN ME]]"
-id: "D875EB43-E4BA-4244-9F53-94F74673C712"
+  - '[[LOOK WHAT THE LORD HAS DONE]]'
+  - '[[PRAISE HIM]]'
+  - '[[DANCING ON THE GRAVES]]'
+  - '[[CAN YOU BELIEVE WHAT THE LORD HAS DONE IN ME]]'
+id: D875EB43-E4BA-4244-9F53-94F74673C712
 ---
-
 Medley: look what the Lord has done / praise Him / dancing on the graves / can You believe what the Lord has done in me
 
 VERSE 1:

@@ -1,24 +1,27 @@
 ---
-title: "You Found Me"
-artist: "Big Daddy Weave"
+title: You Found Me
+artist: Big Daddy Weave
 key: D
-tempo: 
-time: 
-ccli: "5257764"
-copyright: "2007 Word Music, LLC / Weave Country / Doxentheau Music Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "grace"
-  - "light"
+  - grace
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5257764'
+copyright: '2007 Word Music, LLC / Weave Country / Doxentheau Music Publishing'
+source: ''
+year: ''
 medley: []
-id: "FA65F380-6E38-48CE-A4F3-45B1AD378410"
+id: FA65F380-6E38-48CE-A4F3-45B1AD378410
 ---
-
 Intro - D D G Em D D G Em
 
 D

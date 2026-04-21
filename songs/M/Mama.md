@@ -1,22 +1,25 @@
 ---
-title: "Mama"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Mama
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C32F39C0-743B-46BC-A5B4-0DD15AA7348B"
+id: C32F39C0-743B-46BC-A5B4-0DD15AA7348B
 ---
-
 Key:
 
 Mama

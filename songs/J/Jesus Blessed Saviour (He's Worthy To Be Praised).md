@@ -1,26 +1,29 @@
 ---
-title: "Jesus Blessed Saviour (He's Worthy To Be Praised)"
-artist: "Donnie Harper"
+title: Jesus Blessed Saviour (He's Worthy To Be Praised)
+artist: Donnie Harper
 key: F
-tempo: 47
-time: 
-ccli: "684779"
-copyright: "1987 Bud John Tunes, Inc."
+bpm: '47'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "praise"
-  - "black-gospel"
+  - jesus
+  - praise
+  - black-gospel
 genre: []
-energy: slow
 profile:
-  - "os-gospel-slow"
-keywords: "os gospel slow, black gospel"
-source: 
-year: 
+  - os-gospel-slow
+keywords: 'os gospel slow, black gospel'
+ccli: '684779'
+copyright: '1987 Bud John Tunes, Inc.'
+source: ''
+year: ''
 medley: []
-id: "38A58BA7-DEC4-40D4-B5C9-2BA3162B75C4"
+id: 38A58BA7-DEC4-40D4-B5C9-2BA3162B75C4
 ---
-
 CHORUS:
 [F]Praise Him,[C/E] [Dm]Praise Him, [Gm]Praise [F/A]Him, [C#m]Praise [Dm]Him
 [Gm]Je[F/A]sus Blessed [F#dim7]Sav[Dm]iour

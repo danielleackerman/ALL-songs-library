@@ -1,22 +1,25 @@
 ---
-title: "He's An Answering God"
-artist: ""
+title: He's An Answering God
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: "245503"
-copyright: "1989 Sound III, Inc. / Universal - MCA Music Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '245503'
+copyright: '1989 Sound III, Inc. / Universal - MCA Music Publishing'
+source: ''
+year: ''
 medley: []
-id: "1952D513-BD6B-414F-BE14-8BFA97F670AF"
+id: 1952D513-BD6B-414F-BE14-8BFA97F670AF
 ---
-
 [G]Hallelujah, He’s a [Em]prayer answering [Am]God   [D]
 
 Hallelu[Am]jah, He’s a pr[D]ayer answering [G]God  [G/B]

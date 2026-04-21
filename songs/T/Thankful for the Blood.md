@@ -1,24 +1,27 @@
 ---
-title: "Thankful for the Blood"
-artist: "Mark Yandris"
+title: Thankful for the Blood
+artist: Mark Yandris
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "mercy"
+  - love
+  - mercy
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5CD752F9-4B6B-4E77-8258-C21013DA3A48"
+id: 5CD752F9-4B6B-4E77-8258-C21013DA3A48
 ---
-
 VERSE 1:
 Lord I'm [F]thankful for the blood, It came streaming [Dm]down for me
 [Bbmaj]Lord I'm thankful for the blood When I think [Bb/D]of Calvary [C/E]

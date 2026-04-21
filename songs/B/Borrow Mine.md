@@ -1,24 +1,27 @@
 ---
-title: "Borrow Mine"
-artist: "Bebo Norman"
+title: Borrow Mine
+artist: Bebo Norman
 key: Db
-tempo: 
-time: 
-ccli: "4440118"
-copyright: "2004 New Spring Publishing, Inc. / Appstreet Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "faith"
+  - love
+  - faith
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4440118'
+copyright: '2004 New Spring Publishing, Inc. / Appstreet Music'
+source: ''
+year: ''
 medley: []
-id: "977252D3-D57A-4D02-B07A-902304944B2F"
+id: 977252D3-D57A-4D02-B07A-902304944B2F
 ---
-
 INTRO:
 [Bbm] [Db] [Ab] [Gb]
 [Bbm]

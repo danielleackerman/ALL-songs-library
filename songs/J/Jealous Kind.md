@@ -1,23 +1,26 @@
 ---
-title: "Jealous Kind"
-artist: "Jars Of Clay"
+title: Jealous Kind
+artist: Jars Of Clay
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: "Bridge Building Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 'Bridge Building Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "5685B1C4-1A84-4D29-A0C3-C484A3A46612"
+id: 5685B1C4-1A84-4D29-A0C3-C484A3A46612
 ---
-
 [Cm7] x35343
 [Dm7]Eb  x688xx
 [C]Bb  688xxx

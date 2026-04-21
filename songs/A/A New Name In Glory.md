@@ -1,37 +1,41 @@
 ---
-title: "A New Name In Glory"
-artist: "C. Austin Miles"
+title: A New Name In Glory
+artist: C. Austin Miles
 key: G
-tempo: 
-time: 
-ccli: "71904"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "glory"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - glory
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med-sutl"
-keywords: "o.s. apo. med. sutl"
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med-sutl
+keywords: o.s. apo. med. sutl
+ccli: '71904'
+copyright: Public Domain
+source: ''
 year: 1910
 medley: []
-id: "26340856-5368-40C6-8AD0-58FAD2062051"
+id: 26340856-5368-40C6-8AD0-58FAD2062051
 ---
-
 VERSE 1:
 [G]I was once a sinner, but I came, [D7]Pardon to receive from my [G]Lord
 This was freely given, and I found, [A7]That He always kept His [D7]word.

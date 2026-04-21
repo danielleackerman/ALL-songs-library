@@ -1,22 +1,25 @@
 ---
-title: "Thief"
-artist: "Third Day"
+title: Thief
+artist: Third Day
 key: Bb
-tempo: 
-time: 
-ccli: "2581471"
-copyright: "1995 New Spring / Big Man Little Man Music / Gray Dot Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2581471'
+copyright: 1995 New Spring / Big Man Little Man Music / Gray Dot Songs
+source: ''
+year: ''
 medley: []
-id: "1129E3F6-5AE3-4296-A0B0-4AA7993B7CCD"
+id: 1129E3F6-5AE3-4296-A0B0-4AA7993B7CCD
 ---
-
 Define chords:
 
 Chord   e a d g b e

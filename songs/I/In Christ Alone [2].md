@@ -1,58 +1,53 @@
 ---
-title: "In Christ Alone"
-artist: "Kristian Stanfill"
-key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: In Christ Alone
+artist: Brian Littrell
+key: Eb
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "christ"
-  - "life"
+  - christ
+  - cross
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '841440'
+copyright: 1990 Paragon Music Corporation
+source: ''
+year: ''
 medley: []
-id: "75B96C38-D3B3-405A-AF88-E1C89D4A40FC"
+id: 7A98ED44-18F6-467E-BB78-A9A79B987A47
 ---
-
 INTRO:
-[C]  [F]  [Am]  [F]
+[Eb]2 bars [Cm] [Ab] [Eb]1 bar [Cm] [Ab] [Eb]1 bar [Cm] [Ab]
 
 VERSE 1:
-In Christ alone[C] my hope is found[G]
-He is my light, [F]my strength, my s[G]ong[C]
-This Cornerstone, t[C]his Solid Ground[G]
-Firm through the fiercest drou[F]ght and storm[G][C]
-What heights of love, what d[F]epths of peace[G]
-When fears are stilled, when[F] strivings cease[G]
-My Comforter, m[C]y all in all[G]
-Here in the love of[F] Christ I st[G]and[C]
+In Christ a[Eb]lone will I glory, Though [Cm]I could pride my[Ab]self in battles [Cm]won
+For [Bb]I’ve been [Eb]blessed beyond measure, And [Fm]by His strength a[Cm]lone I’ll ov[Bb]ercome
+[Ab]Oh, I could stop and [Bb]count success[Eb]es like [Cm]diamonds [Bb]in my [Ab]hands
+But those [Fm7]trophies could not [Cm]equal to the [Fm7]grace by whi[Ab]ch I [Bbsus]stand
+
+CHORUS:
+[Bb]In [Eb]Christ a[Ab]lone, I place my [Eb]trust, And find my [Fm7]glory in the [Bb]power of the [Eb]cross
+[Cm7]In every [Abmaj7]vic[Bb]tory, Let it be [Eb]said of [Cm7]me,
+My [Fm7]source of strength, my [Bb]source of hope, Is Christ a[Cm7]lone [Bbsus] [Ab]
 
 VERSE 2:
-There in the ground His body lay, Light of the world in darkness slain
-Then bursting forth in glorious day, Up from the grave He rose again
-And as He stands in victory, Sin's curse has lost its grip on me
-For I am His and He is mine, Bought with the precious blood of Christ
+In Christ a[Eb]lone will I glory, For [Cm]only by His [Ab]grace I am re[Cm]deemed
+For [Bb]only [Eb]His tender mercy, Could [Fm7]reach beyond my [Cm]weakness to my [Bb]need
+And [Ab]now I seek no [Bb]greater [Eb]honor, Than [Cm]just to know Him [Ab]more
+And to [Fm7]count my gains but [Cm]losses to the [Fm7]glory [Ab]of my [Bb]Lord
 
-VERSE 3:
-No guilt in life, no fear in death, This is the power of Christ in me
-From life's first cry, to final breath, Jesus commands my destiny
-No power of hell, no scheme of man, Can ever pluck me from His hand
-Til He returns or call me home, Here in the power of Christ I'll stand
+CHORUS:
+[Bb]In [Eb]Christ a[Ab]lone, I place my [Eb]trust, And find my [Fm7]glory in the [Bb]power of the [Eb]cross
+[Cm7]In every [Abmaj7]vic[Bb]tory, Let it be [Eb]said of [Cm7]me,
+My [Fm7]source of strength, my [Db]source of hope,
 
-OUTRO:
-[C]I find my strength, I find my [F]hope,
-[Am]I find my help, in Ch[F]rist alone.
-
-When fear assails, when darkness falls,
-I find my peace, in Christ alone.
-
-I give my life, I give my all
-I sing this song, to Christ alone
-
-The King of kings, the Lord of all
-All heaven sings, to Christ alone
+CHORUS MOD:
+[Dm]In [Fm]Christ a[Bb]lone, I place my [F]trust, And find my [Gm7]glory in the [C]power of the [F]cross
+[Dm7]In every [Bbmaj7]vic[C]tory, Let it be [F]said of [Dm7]me,
+My [Gm7]source of strength, [Gm] my [C]source of hope, Is Christ a[F]lone [Dm] [Bb] [F] [Dm] [Bb] [F]

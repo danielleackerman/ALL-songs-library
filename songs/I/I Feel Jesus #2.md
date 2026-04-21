@@ -1,24 +1,27 @@
 ---
-title: "I Feel Jesus #2"
-artist: "Carman"
+title: 'I Feel Jesus #2'
+artist: Carman
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "6D68C780-5574-4ECA-9CE9-0D3B6DF1B5A9"
+id: 6D68C780-5574-4ECA-9CE9-0D3B6DF1B5A9
 ---
-
 {artist: Carman}
 
 [Am7/D]I feel [G]Jesus[G][Gsus], [Am7/D]I  [D7]feel [G]Jesus[G][Gsus],

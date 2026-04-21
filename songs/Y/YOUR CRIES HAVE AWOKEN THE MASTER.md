@@ -1,22 +1,25 @@
 ---
-title: "Your Cries Have Awoken the Master"
-artist: "THE ISAACS"
+title: Your Cries Have Awoken the Master
+artist: THE ISAACS
 key: Ab
-tempo: 
-time: "3/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C341F2CC-B524-4DEB-BEF0-FDED305EA9EE"
+id: C341F2CC-B524-4DEB-BEF0-FDED305EA9EE
 ---
-
 VERSE 1:
 [Ab]Crossing the calm sea with Jesus
 The dis[Fm]ciples were getting concerned

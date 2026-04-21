@@ -1,37 +1,41 @@
 ---
-title: "Caught Up"
-artist: "Thoro Harris"
+title: Caught Up
+artist: Thoro Harris
 key: F
-tempo: 
-time: "4/4"
-ccli: 
-copyright: "1945 by Thoro Harris, renewal O.M. Knutson, owner."
+bpm: ''
+time_sig: 4/4
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "os-apo"
-  - "sutl"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - os-apo
+  - sutl
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: "os apo , sutl"
-source: "SING UNTO THE LORD, 13"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: 'os apo , sutl'
+ccli: ''
+copyright: '1945 by Thoro Harris, renewal O.M. Knutson, owner.'
+source: 'SING UNTO THE LORD, 13'
+year: ''
 medley: []
-id: "67D4AB73-5AC4-409F-A17B-864A20657EE8"
+id: 67D4AB73-5AC4-409F-A17B-864A20657EE8
 ---
-
 VERSE 1:
 [F]Tho’ [Gm/F]we [F]may not know the moment [F2]when our [C7]bless[A]ed [Dm]Lord [Bb]shall [F]come
 [F]To [Gm/F]re[F]ceive us to [Bb/F]mansions o[F/A]ver [C9]there,

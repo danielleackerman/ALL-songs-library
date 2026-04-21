@@ -1,23 +1,26 @@
 ---
-title: "He Looked Beyond My Fault"
-artist: "The Rambos"
+title: He Looked Beyond My Fault
+artist: The Rambos
 key: C
-tempo: 
-time: 
-ccli: "17999"
-copyright: "1968 New Spring (Admin. by Brentwood-Benson Music Publishing, Inc.)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "grace"
+  - grace
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '17999'
+copyright: '1968 New Spring (Admin. by Brentwood-Benson Music Publishing, Inc.)'
+source: ''
+year: ''
 medley: []
-id: "0ADB3C08-6CE6-4019-BAEA-08E9002A7F54"
+id: 0ADB3C08-6CE6-4019-BAEA-08E9002A7F54
 ---
-
 Amazing [C]Grace shall al[C7]ways [F]be my song of praise.
 For [Fm]it [C]was [G7/D]grace, [C/E]that [D7]brought me [G7sus4]liberty,[G7]
 I do [C]not know, just why [C7]He [F]came to love me so.

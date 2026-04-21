@@ -1,36 +1,42 @@
 ---
-title: "Victory Medley"
-artist: "Indiana Bible College"
+title: Victory Medley
+artist: Indiana Bible College
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "victory"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - victory
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: "The weapon may be formed, but it won't prosper; When the darkness falls, it won't prevail"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: >-
+  The weapon may be formed, but it won't prosper; When the darkness falls, it
+  won't prevail
+year: ''
 medley: []
-id: "87776A9A-1959-4352-B939-A95C7512E0E9"
+id: 87776A9A-1959-4352-B939-A95C7512E0E9
 ---
-
 'Cause the God I serve knows only how to triumph
 My God will never fail
 Oh, my God will never fail

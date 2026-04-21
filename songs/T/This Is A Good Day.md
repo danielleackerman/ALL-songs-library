@@ -1,20 +1,23 @@
 ---
-title: "This Is A Good Day"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: This Is A Good Day
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "46E1DDA1-B7D7-4BBB-8814-4FCA3DE8ED7E"
+id: 46E1DDA1-B7D7-4BBB-8814-4FCA3DE8ED7E
 ---
-
 

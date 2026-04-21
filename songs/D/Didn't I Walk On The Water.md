@@ -1,34 +1,38 @@
 ---
-title: "Didn't I Walk On The Water"
-artist: "Jeremiah Yoakam"
+title: Didn't I Walk On The Water
+artist: Jeremiah Yoakam
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "25E680C4-7F7D-41AB-8358-EFCC88AF00C1"
+id: 25E680C4-7F7D-41AB-8358-EFCC88AF00C1
 ---
-
 (Verse 1:)
 [C/D]As I [G]kneel in the darkness in the [Am]middle of the night,
 I'm [D]praying for assurance every[C]thing's gonna be al[G]right.

@@ -1,23 +1,26 @@
 ---
-title: "Surely The Pres"
-artist: "Lanny Wolfe"
+title: Surely The Pres
+artist: Lanny Wolfe
 key: Db
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "AEEE808A-203F-460C-B248-15EDEFF38576"
+id: AEEE808A-203F-460C-B248-15EDEFF38576
 ---
-
 VERSE 2:
 There's a [Db2]holy hush a[Fm7]round us as God's [Gb2]glory Fills this [Ebm7]place
 [Gb/Ab]I've touched the [Db2]hem of His [Fm7]garment, I can [Gb2]almost See His [Ab7]face

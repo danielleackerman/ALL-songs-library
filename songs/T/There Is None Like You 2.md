@@ -1,26 +1,29 @@
 ---
-title: "There Is None Like You 2"
-artist: "Lenny LeBlanc"
+title: There Is None Like You 2
+artist: Lenny LeBlanc
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[MORE THAN ANYTHING]]"
-  - "[[I WORSHIP YOU ALMIGHTY GOD]]"
-  - "[[THERE IS NONE LIKE YOU]]"
-id: "083E8B4D-DF97-4B34-B1A3-604FB216A239"
+  - '[[MORE THAN ANYTHING]]'
+  - '[[I WORSHIP YOU ALMIGHTY GOD]]'
+  - '[[THERE IS NONE LIKE YOU]]'
+id: 083E8B4D-DF97-4B34-B1A3-604FB216A239
 ---
-
 {artist: Lenny LeBlanc}
 
 Medley: more than anything / I worship You almighty God / there is none like You

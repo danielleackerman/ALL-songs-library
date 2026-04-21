@@ -1,24 +1,27 @@
 ---
-title: "The Presence of the Lord Is Here"
-artist: "Kurt Carr"
+title: The Presence of the Lord Is Here
+artist: Kurt Carr
 key: Eb
-tempo: 126
-time: 
-ccli: 
-copyright: 
+bpm: '126'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "presence"
-  - "blessing"
+  - presence
+  - blessing
 genre: []
-energy: medium-fast
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "6496D474-B179-4680-8265-F3E4EDEF6C7C"
+id: 6496D474-B179-4680-8265-F3E4EDEF6C7C
 ---
-
 VERSE 1:
 The [Eb/G]presence of [Fm/Ab]the Lord is[Eb/Bb] here, The [Db]presence of the [Ab2]Lord is [Eb]here
 I [Eb/G]feel it in [Fm/Ab]the atmos[Eb/Bb]phere, The [Db]presence of [G7(#5)]the Lord is [Cm2]here, (oh)[F9]

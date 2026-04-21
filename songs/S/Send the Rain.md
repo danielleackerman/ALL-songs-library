@@ -1,24 +1,27 @@
 ---
-title: "Send the Rain"
-artist: "WILLLIAM MCDOWELL"
+title: Send the Rain
+artist: WILLLIAM MCDOWELL
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "heaven"
+  - heaven
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[THIS IS THE AIR (I BREATHE]]"
-id: "94E76687-2040-4AEF-A91C-A984C01F370A"
+  - '[[THIS IS THE AIR (I BREATHE]]'
+id: 94E76687-2040-4AEF-A91C-A984C01F370A
 ---
-
 Medley: this is the air (I breathe)
 
 Verse 1 (3x):

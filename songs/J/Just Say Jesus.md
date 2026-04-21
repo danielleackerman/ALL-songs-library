@@ -1,23 +1,26 @@
 ---
-title: "Just Say Jesus"
-artist: "7eventh Time Down"
+title: Just Say Jesus
+artist: 7eventh Time Down
 key: G
-tempo: 
-time: 
-ccli: "7000701"
-copyright: "2013 Wordspring Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7000701'
+copyright: '2013 Wordspring Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "3587040A-261B-4A57-8A72-1EFE51F75212"
+id: 3587040A-261B-4A57-8A72-1EFE51F75212
 ---
-
 INTRO:
  [G] - [C]
 

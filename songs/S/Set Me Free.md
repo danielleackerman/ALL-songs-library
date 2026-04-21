@@ -1,22 +1,25 @@
 ---
-title: "Set Me Free"
-artist: "Casting Crowns"
+title: Set Me Free
+artist: Casting Crowns
 key: A
-tempo: 
-time: 
-ccli: "4594325"
-copyright: "2005 Banahama Tunes / Word Music, LLC / Club Zoo Music / SWECS Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4594325'
+copyright: '2005 Banahama Tunes / Word Music, LLC / Club Zoo Music / SWECS Music'
+source: ''
+year: ''
 medley: []
-id: "E09F0BE9-4553-4032-AFEA-4BE2C0BB9754"
+id: E09F0BE9-4553-4032-AFEA-4BE2C0BB9754
 ---
-
 Intro: C#5  A5  F#5  C#5
 
 VERSE 1:

@@ -1,22 +1,25 @@
 ---
-title: "The Eleventh Hour"
-artist: "Jars Of Clay"
+title: The Eleventh Hour
+artist: Jars Of Clay
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: "2002 Bridge Building Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: '2002 Bridge Building Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "42376400-ADD4-442A-B35D-16E63B61D86B"
+id: 42376400-ADD4-442A-B35D-16E63B61D86B
 ---
-
 Intro:  E - A - E - C#m - E - A - B
 
 VERSE 1:

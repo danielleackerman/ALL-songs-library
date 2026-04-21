@@ -1,23 +1,26 @@
 ---
-title: "I'm So Glad That I've Been Buried | version 1"
-artist: ""
+title: I'm So Glad That I've Been Buried | version 1
+artist: ''
 key: F
-tempo: 120
-time: 
-ccli: 
-copyright: 
+bpm: '120'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium-fast
 profile:
-  - "os-apo-fast"
-keywords: "os apo fast"
-source: 
-year: 
+  - os-apo-fast
+keywords: os apo fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "95A24CCF-A616-456A-9823-2503DA84CB88"
+id: 95A24CCF-A616-456A-9823-2503DA84CB88
 ---
-
 {book: FAST OS APO}
 
 CHORUS:

@@ -1,24 +1,27 @@
 ---
-title: "Thank You, Lord-1"
-artist: "Public Domain African-American Spiritual"
+title: 'Thank You, Lord-1'
+artist: Public Domain African-American Spiritual
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "thank"
+  - thank
 genre: []
-energy: 
 profile:
-  - "os-gospel-slow"
-keywords: "os gospel slow"
-source: 
-year: 
+  - os-gospel-slow
+keywords: os gospel slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "955308D0-AA28-41BA-8D3B-FA9378FC235B"
+id: 955308D0-AA28-41BA-8D3B-FA9378FC235B
 ---
-
 {artist: Public Domain African-American Spiritual}
 
 [F]Thank  [C/E]You  [Dm]Lord,  [D]    [C/E]   [D7/F#]

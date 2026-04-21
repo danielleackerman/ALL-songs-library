@@ -1,23 +1,26 @@
 ---
-title: "Holy Ghost is Genuine"
-artist: ""
+title: Holy Ghost is Genuine
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "holy-ghost"
+  - holy-ghost
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7EFA10D7-9762-4490-869E-874D8D838691"
+id: 7EFA10D7-9762-4490-869E-874D8D838691
 ---
-
 VERSE 1:
 On the day of Pentecost, there assembled quite a few,
 but the most important thing was soon to come.

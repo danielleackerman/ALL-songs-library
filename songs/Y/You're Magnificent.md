@@ -1,32 +1,36 @@
 ---
-title: "You're Magnificent"
-artist: "Pastor Owen?"
+title: You're Magnificent
+artist: Pastor Owen?
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8F802FA8-C725-48E9-9ED4-F59E092771D1"
+id: 8F802FA8-C725-48E9-9ED4-F59E092771D1
 ---
-
 CHORUS:
 [Bb/C]You're [C7]mag [Gm/F]ni [F]ficent [F] [Am] [F]
 [F/A]You [C/A]are [Bb#4]Jesus  [Bb/G]

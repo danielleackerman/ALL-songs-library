@@ -1,23 +1,26 @@
 ---
-title: "Willow"
-artist: "Taylor Swift"
+title: Willow
+artist: Taylor Swift
 key: Em
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "WILLOW // Taylor Swift"
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: WILLOW // Taylor Swift
+year: ''
 medley: []
-id: "7A6DFF8A-0BA9-463A-BA9E-E75FBA6A546B"
+id: 7A6DFF8A-0BA9-463A-BA9E-E75FBA6A546B
 ---
-
 INTRO:
 
 [Em][/][D][/][|][Em][/][D][/][|] [Em][/][D][/][|][C][/][/][/][,][|]

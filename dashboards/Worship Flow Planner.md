@@ -2,11 +2,11 @@
 
 Use this to build a set by energy arc. Typical flow: medium-fast opener, high energy praise, medium transition, slow worship, slow-reverential altar call.
 
-## High Energy (Openers / Praise)
+## Fast (Openers / Praise)
 ```dataview
-TABLE artist, key, tempo
+TABLE artist, key, tempo, bpm
 FROM "songs"
-WHERE energy = "high"
+WHERE tempo = "fast"
 SORT title ASC
 LIMIT 15
 ```
@@ -15,7 +15,7 @@ LIMIT 15
 ```dataview
 TABLE artist, key, tempo
 FROM "songs"
-WHERE energy = "medium-fast"
+WHERE tempo = "medium-fast"
 SORT title ASC
 LIMIT 15
 ```
@@ -24,7 +24,7 @@ LIMIT 15
 ```dataview
 TABLE artist, key, tempo
 FROM "songs"
-WHERE energy = "medium"
+WHERE tempo = "medium"
 SORT title ASC
 LIMIT 15
 ```
@@ -33,7 +33,7 @@ LIMIT 15
 ```dataview
 TABLE artist, key, tempo
 FROM "songs"
-WHERE energy = "medium-slow"
+WHERE tempo = "medium-slow"
 SORT title ASC
 LIMIT 15
 ```
@@ -42,7 +42,7 @@ LIMIT 15
 ```dataview
 TABLE artist, key, tempo
 FROM "songs"
-WHERE energy = "slow"
+WHERE tempo = "slow"
 SORT title ASC
 LIMIT 15
 ```
@@ -50,9 +50,9 @@ LIMIT 15
 ## Songs with Matching Keys (for smooth transitions)
 Change the key below to plan transitions:
 ```dataview
-TABLE artist, energy, tempo
+TABLE artist, key, tempo
 FROM "songs"
-WHERE key = "F" AND (energy = "slow" OR energy = "medium-slow")
+WHERE key = "F" AND (tempo = "slow" OR tempo = "medium-slow")
 SORT energy ASC
 LIMIT 15
 ```

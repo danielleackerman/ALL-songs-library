@@ -1,37 +1,41 @@
 ---
-title: "It Feels So Good - my edit"
-artist: ""
+title: It Feels So Good - my edit
+artist: ''
 key: G
-tempo: 145
-time: 
-ccli: 
-copyright: 
+bpm: '145'
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[HE TOOK THE SHACKLES OFF MY FEET SO I CAN DANCE]]"
-id: "D97E3ECF-4F80-4AE4-B84F-746DFC102553"
+  - '[[HE TOOK THE SHACKLES OFF MY FEET SO I CAN DANCE]]'
+id: D97E3ECF-4F80-4AE4-B84F-746DFC102553
 ---
-
 Key : [G]
 Keywords: OS APO MED
 

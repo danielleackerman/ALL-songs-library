@@ -1,22 +1,25 @@
 ---
-title: "Be Careful Little Eyes What You Hear"
-artist: "Artist Name"
+title: Be Careful Little Eyes What You Hear
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "ACC5D6EA-BF8A-4E00-94CB-4B95DED85F7C"
+id: ACC5D6EA-BF8A-4E00-94CB-4B95DED85F7C
 ---
-
 Book: CHILDREN'S
 
 VERSE 1:

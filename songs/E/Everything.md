@@ -1,22 +1,25 @@
 ---
-title: "Everything"
-artist: "Watermark"
+title: Everything
+artist: Watermark
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: "1998 Rocketown Records"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 1998 Rocketown Records
+source: ''
+year: ''
 medley: []
-id: "1FF571B1-96D7-4521-A8CD-3595570CE516"
+id: 1FF571B1-96D7-4521-A8CD-3595570CE516
 ---
-
 Intro:  C - F - G  (4x)
 
 1.

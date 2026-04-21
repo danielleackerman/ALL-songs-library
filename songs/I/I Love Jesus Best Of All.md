@@ -1,40 +1,44 @@
 ---
-title: "I Love Jesus Best Of All"
-artist: "Gladstone T Harewood"
+title: I Love Jesus Best Of All
+artist: Gladstone T Harewood
 key: C
-tempo: 
-time: "4/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 4/4
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "love"
-  - "jesus"
-  - "sutl"
-  - "songbook"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - love
+  - jesus
+  - sutl
+  - songbook
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "o-s-apo-fast"
-keywords: "o. s. apo. fast, sutl, songbook"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - o-s-apo-fast
+keywords: 'o. s. apo. fast, sutl, songbook'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "78555D37-EC7D-4082-8A0B-192D8A981472"
+id: 78555D37-EC7D-4082-8A0B-192D8A981472
 ---
-
 VERSE 1:
 I love to sing and pray, rejoicing ev'ry day,
 I love the blessings when the showers on us fall,

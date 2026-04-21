@@ -1,27 +1,30 @@
 ---
-title: "Because Of Who You Are--long edit II"
-artist: "Martha Munizzi"
+title: Because Of Who You Are--long edit II
+artist: Martha Munizzi
 key: F
-tempo: 55
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '55'
+time_sig: 4/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "peace"
-  - "victory"
-  - "gospel-ccli"
-  - "ccli"
+  - peace
+  - victory
+  - gospel-ccli
+  - ccli
 genre: []
-energy: slow
 profile:
-  - "mod-apo-slow"
-keywords: "mod. apo. slow, gospel/ccli, ccli"
-source: 
-year: 
+  - mod-apo-slow
+keywords: 'mod. apo. slow, gospel/ccli, ccli'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "42B99C5C-7952-4886-BDB9-2DAE82B22B4E"
+id: 42B99C5C-7952-4886-BDB9-2DAE82B22B4E
 ---
-
 [run][F][E][D][C]
 [F][Gm/F][F][Dm/F]
                    Be[F2]cause of who You are [Am7]

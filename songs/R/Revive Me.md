@@ -1,22 +1,25 @@
 ---
-title: "Revive Me"
-artist: "Jeremy Camp"
+title: Revive Me
+artist: Jeremy Camp
 key: G
-tempo: 
-time: 
-ccli: "4158493"
-copyright: "2003 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4158493'
+copyright: 2003 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "434708D5-4789-4A0A-AA72-2FF87975C62B"
+id: 434708D5-4789-4A0A-AA72-2FF87975C62B
 ---
-
 G: 3x0033
 Gsus2: 3x0233 (not used below, listen for hammer-ons of most of the G's, listen for it)
 D/f#: 200232

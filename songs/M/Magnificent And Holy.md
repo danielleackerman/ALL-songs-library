@@ -1,22 +1,25 @@
 ---
-title: "Magnificent And Holy"
-artist: "Israel Houghton"
+title: Magnificent And Holy
+artist: Israel Houghton
 key: G
-tempo: 
-time: 
-ccli: "4194828"
-copyright: "2002 Integrity's Praise! Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4194828'
+copyright: 2002 Integrity's Praise! Music
+source: ''
+year: ''
 medley: []
-id: "49768587-18BE-4627-B1BE-8C2E88EC0B31"
+id: 49768587-18BE-4627-B1BE-8C2E88EC0B31
 ---
-
 Capo 1
 
 VERSE:

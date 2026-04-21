@@ -1,23 +1,26 @@
 ---
-title: "Little Drummer Boy"
-artist: "MercyMe"
+title: Little Drummer Boy
+artist: MercyMe
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "Mills Music Inc. / International Korwin Dorp."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "king"
+  - king
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: Mills Music Inc. / International Korwin Dorp.
+source: ''
+year: ''
 medley: []
-id: "D5698097-1D91-4EFC-B568-D58E61012E39"
+id: D5698097-1D91-4EFC-B568-D58E61012E39
 ---
-
 [D]Come, they told me (pa[G/D]-rum-pa-pum[D]-pum)
 [D]A newborn King to see (pa[G/D]-rum-pa-pum[D]-pum)
 A

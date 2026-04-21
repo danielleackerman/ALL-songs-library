@@ -1,24 +1,27 @@
 ---
-title: "Mary's Prayer"
-artist: "Bebo Norman"
+title: Mary's Prayer
+artist: Bebo Norman
 key: D
-tempo: 
-time: 
-ccli: "3482366"
-copyright: "2005 New Sring / Appstreet Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "baby"
+  - jesus
+  - baby
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3482366'
+copyright: 2005 New Sring / Appstreet Music
+source: ''
+year: ''
 medley: []
-id: "F4BA23E9-6817-456B-87DD-0537ACCA9982"
+id: F4BA23E9-6817-456B-87DD-0537ACCA9982
 ---
-
 Capo 1
 
 Intro: D2(no3) D2(no3)/C# C2 G2/B Gm D Em7 A Asus A

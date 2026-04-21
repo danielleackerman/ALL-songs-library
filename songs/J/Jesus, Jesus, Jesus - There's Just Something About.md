@@ -1,23 +1,26 @@
 ---
-title: "Jesus, Jesus, Jesus - There's Just Something About"
-artist: "Key of: F"
+title: 'Jesus, Jesus, Jesus - There''s Just Something About'
+artist: 'Key of: F'
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FCB3B86B-8A1B-423A-B6FF-D02032BF2863"
+id: FCB3B86B-8A1B-423A-B6FF-D02032BF2863
 ---
-
 [F]Jesus, [Am/F]Jesus, [Cm/F]Jesus [F7/A]
 There's [Bb]something [Eb7]about that [F]Name [Bb/C]
 [F]Master, [Am/F]Saviour, [Cm/F]Jesus [D7]

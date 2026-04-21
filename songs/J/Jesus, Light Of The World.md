@@ -1,24 +1,27 @@
 ---
-title: "Jesus, Light Of The World"
-artist: "Third Day"
+title: 'Jesus, Light Of The World'
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "light"
+  - jesus
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7862F62D-5799-41EC-9302-152BA9E5DF57"
+id: 7862F62D-5799-41EC-9302-152BA9E5DF57
 ---
-
 Intro:  D A/C# Bm A G A (x2)
 
 The m[D]ost beauti[A/C#]ful nigh[Bm]t of [A]the year

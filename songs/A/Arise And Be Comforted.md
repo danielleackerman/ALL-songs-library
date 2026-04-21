@@ -1,22 +1,25 @@
 ---
-title: "Arise And Be Comforted"
-artist: "Watermark"
+title: Arise And Be Comforted
+artist: Watermark
 key: B
-tempo: 
-time: 
-ccli: "2796455"
-copyright: "1996 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2796455'
+copyright: '1996 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music'
+source: ''
+year: ''
 medley: []
-id: "0B52BA60-D40C-44CC-BA50-0C5D5A80A7FD"
+id: 0B52BA60-D40C-44CC-BA50-0C5D5A80A7FD
 ---
-
 INTRO:
 [B] [F#/A#] [A] [E/G#] [Em] [B] [F#sus] [F#]
 

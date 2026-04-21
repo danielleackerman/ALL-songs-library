@@ -1,22 +1,27 @@
 ---
-title: "Lay Down My Pride"
-artist: "Jeremy Camp"
+title: Lay Down My Pride
+artist: Jeremy Camp
 key: B
-tempo: 
-time: 
-ccli: "4504339"
-copyright: "2004 Thirsty Moon River Publishing / Stolen Pride / Spinning Audio Vortex, Inc. / L'Etoile Du Matin Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4504339'
+copyright: >-
+  2004 Thirsty Moon River Publishing / Stolen Pride / Spinning Audio Vortex,
+  Inc. / L'Etoile Du Matin Music
+source: ''
+year: ''
 medley: []
-id: "BEA1DB5A-988C-4673-87CE-36852EF07C69"
+id: BEA1DB5A-988C-4673-87CE-36852EF07C69
 ---
-
 [B5]Every [E5]single word I s[B5]ay
 You k[E5]now it before I s[B5]peak
 You know [E5]every thought

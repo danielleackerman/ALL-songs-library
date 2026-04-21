@@ -1,24 +1,27 @@
 ---
-title: "Get Your Mind On Jesus-1"
-artist: "Traditional black gospel"
+title: Get Your Mind On Jesus-1
+artist: Traditional black gospel
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile:
-  - "o-s-apo-fast"
-keywords: "o. s. apo. fast"
-source: 
-year: 
+  - o-s-apo-fast
+keywords: o. s. apo. fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8D7BD716-1CCD-4E77-BCA6-BB1CF5D84709"
+id: 050422A0-2E61-4217-8DEE-DF3F458F7B5D
 ---
-
 {artist: Traditional black gospel}
 
 [Bb/C] Get  your  [F]mind  on  [Eb]Je  [Bb/D]sus [F]let’s  have [F7]church

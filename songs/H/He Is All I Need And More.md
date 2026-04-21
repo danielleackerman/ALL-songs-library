@@ -1,31 +1,35 @@
 ---
-title: "He Is All I Need And More"
-artist: ""
+title: He Is All I Need And More
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E43684C8-6F45-45ED-B59F-EBEAC2B928B3"
+id: E43684C8-6F45-45ED-B59F-EBEAC2B928B3
 ---
-
 [Ab/Bb] He   is   [Eb]all    I   [Ab7]need    and   [Eb]more
 
 [Ab/Bb]He   is  [Eb]all   I   [Cm7]need   and   [Fm7]more     [B7]     [Bb9]

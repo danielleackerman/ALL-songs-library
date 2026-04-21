@@ -1,22 +1,25 @@
 ---
-title: "I CAME HERE TO STAY (You Can Run If You Want To)"
-artist: "Artist Name"
+title: I CAME HERE TO STAY (You Can Run If You Want To)
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D1D38F1B-B87E-4C28-82A5-8F4C8C79FFDC"
+id: D1D38F1B-B87E-4C28-82A5-8F4C8C79FFDC
 ---
-
 VERSE 1:
 Now the champion marched for forty days,
 Saying "Give me a man to fight."

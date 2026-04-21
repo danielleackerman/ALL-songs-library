@@ -1,24 +1,27 @@
 ---
-title: "Let Us Love And Sing And Wonder"
-artist: "Jars Of Clay"
+title: Let Us Love And Sing And Wonder
+artist: Jars Of Clay
 key: D
-tempo: 
-time: 
-ccli: "458211"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "grace"
+  - love
+  - grace
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '458211'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "945493C8-A292-4959-8711-9C6E16009EFB"
+id: 945493C8-A292-4959-8711-9C6E16009EFB
 ---
-
 Intro: D – A – Bm – G (x2)
 
 [D]Let us love and s[A]ing and wonder

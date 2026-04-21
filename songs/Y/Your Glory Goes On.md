@@ -1,23 +1,26 @@
 ---
-title: "Your Glory Goes On"
-artist: "MercyMe"
+title: Your Glory Goes On
+artist: MercyMe
 key: D
-tempo: 
-time: 
-ccli: "3912805"
-copyright: "2002 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3912805'
+copyright: 2002 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "823398CF-735B-4C84-ABCC-21A03F04C593"
+id: 823398CF-735B-4C84-ABCC-21A03F04C593
 ---
-
 (Capo 2)
 
 VERSE 1:

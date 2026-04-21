@@ -1,22 +1,25 @@
 ---
-title: "With Every Breath I Take"
-artist: "Geron Davis"
+title: With Every Breath I Take
+artist: Geron Davis
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Cooley Choruses"
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: Cooley Choruses
+year: ''
 medley: []
-id: "CE371286-3F20-43FE-8DC8-7AD8315D43BF"
+id: CE371286-3F20-43FE-8DC8-7AD8315D43BF
 ---
-
 [F]
 
 [Bb/C]With every [F]breath I take [Bb/F]

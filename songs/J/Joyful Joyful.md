@@ -1,23 +1,28 @@
 ---
-title: "Joyful Joyful"
-artist: "Casting Crowns"
+title: Joyful Joyful
+artist: Casting Crowns
 key: E
-tempo: 
-time: 
-ccli: "5574629"
-copyright: "2009 BanaHama Tunes / Word Music, LLC / My Refuge Music / Sony/ATV Tree Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5574629'
+copyright: >-
+  2009 BanaHama Tunes / Word Music, LLC / My Refuge Music / Sony/ATV Tree
+  Publishing
+source: ''
+year: ''
 medley: []
-id: "FD961D75-9260-4BCB-9D5B-DCAB1AA78F07"
+id: FD961D75-9260-4BCB-9D5B-DCAB1AA78F07
 ---
-
 Intro:    E     B     C#m       A
 
 VERSE 1:

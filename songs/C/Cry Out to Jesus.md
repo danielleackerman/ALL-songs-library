@@ -1,24 +1,27 @@
 ---
-title: "Cry Out to Jesus"
-artist: "Third Day"
+title: Cry Out to Jesus
+artist: Third Day
 key: C
-tempo: 
-time: 
-ccli: "4586106"
-copyright: "2005 Consuming Fire Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4586106'
+copyright: 2005 Consuming Fire Publishing
+source: ''
+year: ''
 medley: []
-id: "658264A3-0F08-4019-B76F-0FC00B22FBF3"
+id: 658264A3-0F08-4019-B76F-0FC00B22FBF3
 ---
-
 [C]  [C/F]    [Am7]    [G]
 
 VERSE 1:

@@ -1,35 +1,39 @@
 ---
-title: "The Battle Is Not Yours"
-artist: "Clint Brown"
+title: The Battle Is Not Yours
+artist: Clint Brown
 key: F
-tempo: 
-time: 
-ccli: "3482885"
-copyright: "2001 Tribe Music Group"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '3482885'
+copyright: 2001 Tribe Music Group
+source: ''
+year: ''
 medley: []
-id: "18E1AB5B-C7BA-46E5-91A3-8AA6C112FB1A"
+id: 18E1AB5B-C7BA-46E5-91A3-8AA6C112FB1A
 ---
-
 INTRO:
 [F] [Bb] [F] [Eb] [F] [Bb] [F]
 

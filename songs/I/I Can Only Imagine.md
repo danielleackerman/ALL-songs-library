@@ -1,22 +1,25 @@
 ---
-title: "I Can Only Imagine"
-artist: "MercyMe"
+title: I Can Only Imagine
+artist: MercyMe
 key: E
-tempo: 
-time: 
-ccli: "2978857"
-copyright: "2001, 2002 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2978857'
+copyright: '2001, 2002 Simpleville Music'
+source: ''
+year: ''
 medley: []
-id: "1F21EAA8-560B-430D-819B-DE9C04ECEBEC"
+id: 1F21EAA8-560B-430D-819B-DE9C04ECEBEC
 ---
-
 Vs1
               E
 I can only imagine

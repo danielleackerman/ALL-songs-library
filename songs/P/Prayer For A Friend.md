@@ -1,23 +1,26 @@
 ---
-title: "Prayer For A Friend"
-artist: "Casting Crowns"
+title: Prayer For A Friend
+artist: Casting Crowns
 key: G
-tempo: 
-time: 
-ccli: "5077339"
-copyright: "2007 My Refuge Music / Club Zoo Music / SWECS Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "friend"
+  - friend
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5077339'
+copyright: 2007 My Refuge Music / Club Zoo Music / SWECS Music
+source: ''
+year: ''
 medley: []
-id: "ACC34522-8DD6-4367-A45C-D68E50BA68E3"
+id: ACC34522-8DD6-4367-A45C-D68E50BA68E3
 ---
-
 Verse One:
   G
 Lord I lift my friend to You.

@@ -1,23 +1,26 @@
 ---
-title: "I Feel A Stirring A"
-artist: "Geron Davis"
+title: I Feel A Stirring A
+artist: Geron Davis
 key: Fm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "6679E0E3-7B9B-456B-921D-DF6167C2DC61"
+id: 6679E0E3-7B9B-456B-921D-DF6167C2DC61
 ---
-
 VERSE 1:
 [Fm]We have come with all our [Cm/Bb]different [Bb]needs
 [F]We have [Dm]come expecting [G9]victo[C9]ry

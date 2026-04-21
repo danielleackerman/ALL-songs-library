@@ -1,24 +1,27 @@
 ---
-title: "I Have A Friend"
-artist: "Clint Brown"
+title: I Have A Friend
+artist: Clint Brown
 key: C
-tempo: 
-time: 
-ccli: "2013341"
-copyright: "1995 Dayspring Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "friend"
+  - jesus
+  - friend
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2013341'
+copyright: '1995 Dayspring Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "38861DFD-E978-4174-A3FF-6401F4E30E61"
+id: 38861DFD-E978-4174-A3FF-6401F4E30E61
 ---
-
 [C]I, I have a [Gm7]Friend, [C/E]His name is [F]Jesus, [Gm/Bb]Je-----[Bb]sus
 [C]I, I have a [Gm7]Friend, [C/E]His name is [F]Jesus, [Gm/Bb]Je-----[Bb]sus
 [F]  He’s a Rock  [G/F]   that I lean on

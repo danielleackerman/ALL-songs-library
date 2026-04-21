@@ -1,26 +1,29 @@
 ---
-title: "In His Presence-- MY EDIT"
-artist: "Geron Davis"
+title: In His Presence-- MY EDIT
+artist: Geron Davis
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "presence"
+  - presence
 genre: []
-energy: 
 profile:
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[IN THE PRESENCE OF JEHOVAH]]"
-  - "[[HOLY GROUND]]"
-id: "D415E238-D9BF-4F25-AE4C-88F76698530B"
+  - '[[IN THE PRESENCE OF JEHOVAH]]'
+  - '[[HOLY GROUND]]'
+id: D415E238-D9BF-4F25-AE4C-88F76698530B
 ---
-
 Medley: in the presence of Jehovah / Holy ground
 
 [C/E]In [F/A]His [C/G]presence

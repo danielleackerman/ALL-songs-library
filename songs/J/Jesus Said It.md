@@ -1,41 +1,45 @@
 ---
-title: "Jesus Said It"
-artist: "Eddie James"
+title: Jesus Said It
+artist: Eddie James
 key: Eb
-tempo: 160
-time: 
-ccli: "5539066"
-copyright: "2005 Maize Music / Productive Rhythm Publishing"
+bpm: '160'
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "believe"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - believe
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "mod-gospel-fast"
-  - "cont-gospel-fast"
-keywords: "mod gospel fast, cont gospel fast"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - mod-gospel-fast
+  - cont-gospel-fast
+keywords: 'mod gospel fast, cont gospel fast'
+ccli: '5539066'
+copyright: 2005 Maize Music / Productive Rhythm Publishing
+source: ''
+year: ''
 medley:
-  - "[[I'VE ALREADY BEEN TO THE WATER]]"
-  - "[[I WISH SOMEBODY’S SOUL WOULD CATCH ON FIRE]]"
-id: "DAF197A4-F069-4B96-A5C0-692180639842"
+  - '[[I''VE ALREADY BEEN TO THE WATER]]'
+  - '[[I WISH SOMEBODY’S SOUL WOULD CATCH ON FIRE]]'
+id: DAF197A4-F069-4B96-A5C0-692180639842
 ---
-
 Medley: I've already been to the water / I wish somebody’s soul would catch on fire
 
 INTRO:

@@ -1,62 +1,61 @@
 ---
-title: "The Old Rugged Cross"
-artist: ""
-key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: The Old Rugged Cross
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "cross"
+  - altar-songs
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - cross
 genre: []
-energy: slow
 profile:
-  - "altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "EC8EEE6F-F235-4FDA-8A3A-A832D4B80A4E"
+id: FE36C7B3-FFB2-447D-98CC-293FAD8B88D1
 ---
+VERSE 1:
+On  a  hill  far  away,  stood  an  old  rugged  cross
+The  emblem  of  suff'ring  and  shame.
+And  I  love  that  old  cross,  where  the  dearest  and  best
+For  a  world  of  lost  sinners  was  slain.
 
-(Verse:1)
+CHORUS:
+So  I'll  cherish  the  old  rugged  cross.
+Till  my  trophies  at  last  I  lay  down.
+I  will  cling  to  the  old  rugged  cross.
+And  exchange   it   someday   for   a  crown.
 
-[Bb/C]On  a  [F2]hill  far  a---[F7/A]way,  stood  an  [Bb2]old  rugged  [Gm7]cross
-The  [C]emblem  of  [Gm/C]suff'ring  [C7]and  [FM7]shame.     [Bb/C]
-And  I  [F2]love  that  old  [F7/A]cross,  where  the  [Bb2]dearest  and  [Gm7]best
-For  a  [C]world  of  lost  [Gm/C]sinners  [C/E]was  [F2]slain.
-
-(Chorus:)
-
-So  I'll  [C7]cherish  the  [Gm/C]old  rugg---[C/E]ed  [F2]cross.  [F7]
-Till  my  [Bb2]trophies  at  [Gm7]last  I  lay  [FM7]down.    [Bb/C]
-I  [Gm/C]will  [FM7]cling  to  the  old  [Eb/F]rugg---[A7+]ed  [BbM7]cross.  [Gm7]
-And  [Bbm/Eb]exc-----[F/C]hange   it   some----[Gm/C]day   [Bb/D]for   [C7/E]a  [F2]crown.
-
-(Verse2:)
-
+VERSE 2:
 On a old rugged cross, so despised by the world
 Has a wondrous attraction for me.
 For the dear Lamb of God, left His glory above
 To bear it to dark Calvary.
 
-(Verse:3)
-
+VERSE 3:
 On a old rugged cross, stained with blood so devine
 A wondrous beauty I see. For 'twas on that od cross,
 Jesus suffered and died, to pardon and sanctify me.
 
-(Verse:4)
-
+VERSE 41:
 On a old rugged cross, I will ever be true
 It's shame and reproach gladly bear.
 Then He'll call me some day, to my home far away

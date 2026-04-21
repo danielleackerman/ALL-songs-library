@@ -1,37 +1,41 @@
 ---
-title: "My Tribute"
-artist: "Andrae Crouch"
+title: My Tribute
+artist: Andrae Crouch
 key: F
-tempo: 85
-time: 
-ccli: "11218"
-copyright: "1971 Bud John Songs, Inc. (Admin. by Capitol CMG Publishing)"
+bpm: '85'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-slow"
-  - "os-gospel-slow"
-keywords: "os apo slow, os gospel slow, black gospel"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - os-apo-slow
+  - os-gospel-slow
+keywords: 'os apo slow, os gospel slow, black gospel'
+ccli: '11218'
+copyright: '1971 Bud John Songs, Inc. (Admin. by Capitol CMG Publishing)'
+source: ''
+year: ''
 medley:
-  - "[[I KNOW MY REDEEMER LIVES]]"
-id: "27EA4DF1-56F0-46C4-8CAA-5B6CBAF7E930"
+  - '[[I KNOW MY REDEEMER LIVES]]'
+id: 27EA4DF1-56F0-46C4-8CAA-5B6CBAF7E930
 ---
-
 {artist: Andrae Crouch}
 
 Original key bb

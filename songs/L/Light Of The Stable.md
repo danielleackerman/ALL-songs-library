@@ -1,23 +1,26 @@
 ---
-title: "Light Of The Stable"
-artist: "Selah"
+title: Light Of The Stable
+artist: Selah
 key: D
-tempo: 
-time: 
-ccli: "1914616"
-copyright: "1975. Renewed 2003 Tessa Music Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "light"
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1914616'
+copyright: 1975. Renewed 2003 Tessa Music Publishing
+source: ''
+year: ''
 medley: []
-id: "9C1E15DD-7DFA-4C25-A3EA-000B9E35FC01"
+id: 9C1E15DD-7DFA-4C25-A3EA-000B9E35FC01
 ---
-
 Intro: (: D / / / | Dsus / D/ | Dsus / D/ | A / / /  :)
 
 Verse 1 (solo – electric guitar- bass keys)

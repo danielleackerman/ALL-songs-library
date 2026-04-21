@@ -1,28 +1,31 @@
 ---
-title: "Bless His Holy Name"
-artist: "Andrae Crouch"
+title: Bless His Holy Name
+artist: Andrae Crouch
 key: Eb
-tempo: 66
-time: "4/4"
-ccli: "17566"
-copyright: "1973 Bud John Songs, Inc., Admin. Capitol CMG Publishing"
+bpm: '66'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "greatness"
-  - "adoration"
-  - "faithfulness"
-  - "praise"
+  - greatness
+  - adoration
+  - faithfulness
+  - praise
 genre: []
-energy: medium-slow
 profile:
-  - "os-apo-med"
-  - "os-gospel-med"
-keywords: "os apo med, os gospel med, greatness, adoration, faithfulness, praise"
-source: 
+  - os-apo-med
+  - os-gospel-med
+keywords: 'os apo med, os gospel med, greatness, adoration, faithfulness, praise'
+ccli: '17566'
+copyright: '1973 Bud John Songs, Inc., Admin. Capitol CMG Publishing'
+source: ''
 year: 1973
 medley: []
-id: "42015FA4-7BCB-4D97-AE44-5637689B9DDB"
+id: 42015FA4-7BCB-4D97-AE44-5637689B9DDB
 ---
-
 {(Bless The Lord O My Soul)}
 
 original key Eb

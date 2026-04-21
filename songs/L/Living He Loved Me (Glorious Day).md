@@ -1,27 +1,30 @@
 ---
-title: "Living He Loved Me (Glorious Day)"
-artist: "John Wilbur Chapman (1910) Casting Crowns"
+title: Living He Loved Me (Glorious Day)
+artist: John Wilbur Chapman (1910) Casting Crowns
 key: F
-tempo: 112
-time: 
-ccli: 
-copyright: 
+bpm: '112'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium-fast
 profile:
-  - "os-apo-fast"
-  - "os-gospel-fast"
-keywords: "os apo fast, os gospel fast"
-source: "2009"
-year: 
+  - os-apo-fast
+  - os-gospel-fast
+keywords: 'os apo fast, os gospel fast'
+ccli: ''
+copyright: ''
+source: '2009'
+year: ''
 medley:
-  - "[[VICTORY IN JESUS]]"
-  - "[[SEND IT ON DOWN]]"
-  - "[[GOD'S NOT DEAD]]"
-id: "20FC2240-9F95-489D-9EEF-B44D6C5998C1"
+  - '[[VICTORY IN JESUS]]'
+  - '[[SEND IT ON DOWN]]'
+  - '[[GOD''S NOT DEAD]]'
+id: 20FC2240-9F95-489D-9EEF-B44D6C5998C1
 ---
-
 {9/4}
 
 Medley: victory in Jesus / send it on down / God's not dead

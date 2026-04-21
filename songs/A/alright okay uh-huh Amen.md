@@ -1,22 +1,25 @@
 ---
-title: "Alright Okay Uh-Huh Amen"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Alright Okay Uh-Huh Amen
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "42000C30-0B22-42B7-9C4C-C89E9889625A"
+id: 42000C30-0B22-42B7-9C4C-C89E9889625A
 ---
-
 Key:
 
 Alright okay uh-huh amen

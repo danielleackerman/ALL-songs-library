@@ -1,24 +1,27 @@
 ---
-title: "Are You Washed in the Blood?"
-artist: "Rev. E. A. Hoffman"
+title: Are You Washed in the Blood?
+artist: Rev. E. A. Hoffman
 key: F
-tempo: 144
-time: 
-ccli: "21105"
-copyright: "Public Domain"
+bpm: '144'
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "blood"
+  - altar-songs
+  - blood
 genre: []
-energy: high
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '21105'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "1F1CE4E1-49B2-4A79-9AF7-8FF47E0AE0AF"
+id: 1F1CE4E1-49B2-4A79-9AF7-8FF47E0AE0AF
 ---
-
 (Verse 1:)
 [Bb/C]Have you [F]been to [F7]Jesus for the [Bb]cleansing [F]pow'r?
 Are you [Dm]washed in the [G7]blood of the [C]Lamb?

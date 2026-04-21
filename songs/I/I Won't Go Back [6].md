@@ -1,0 +1,41 @@
+---
+title: I Won't Go Back
+artist: >-
+  bpm =
+  62                                                                                                                      
+  Key - Bb
+key: ''
+bpm: '62'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
+tags:
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+genre: []
+profile:
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-med
+  - mod-gospel-med
+keywords: 'mod apo med, mod gospel med'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
+medley: []
+id: B7E2C30A-9F69-436B-9E87-42E316A8E32E
+---
+

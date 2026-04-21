@@ -1,27 +1,30 @@
 ---
-title: "Heavenly Father We Appreciate You-LYRICS"
-artist: "MARANATHA SINGERS"
+title: Heavenly Father We Appreciate You-LYRICS
+artist: MARANATHA SINGERS
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "comfort"
+  - love
+  - comfort
 genre: []
-energy: 
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[oh how i love jesus]]"
-  - "[[i love you lord]]"
-id: "3376690B-623D-40C7-A585-7817F262669A"
+  - '[[oh how i love jesus]]'
+  - '[[i love you lord]]'
+id: 3376690B-623D-40C7-A585-7817F262669A
 ---
-
 MEDLEY : oh how i love jesus / i love you lord
 
 Heavenly Father, we appreciate You,

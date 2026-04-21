@@ -1,37 +1,41 @@
 ---
-title: "He Brought Me Out - version 2"
-artist: "Words by H.J. Zelley, music and chorus by H.L. Gilmour-SUTL 248"
+title: He Brought Me Out - version 2
+artist: 'Words by H.J. Zelley, music and chorus by H.L. Gilmour-SUTL 248'
 key: Eb
-tempo: 
-time: "4/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 4/4
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "sutl"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - sutl
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "sutl, os apo med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: 'sutl, os apo med'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CBB3BD73-8DDE-4022-90E7-591B260795A3"
+id: CBB3BD73-8DDE-4022-90E7-591B260795A3
 ---
-
 {artist: Words by H.J. Zelley, music and chorus by H.L. Gilmour-SUTL 248}
 
 VERSE 1:

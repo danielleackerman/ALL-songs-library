@@ -1,55 +1,58 @@
 ---
-title: "Give Him The Glory"
-artist: ""
-key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Give Him The Glory
+artist: Page 78
+key: G
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "glory"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - glory
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
-medley:
-  - "[[SATAN THE BLOOD]]"
-  - "[[I'VE GOT A RIGHT TO PRAISE THE LORD]]"
-id: "95B94578-0ACB-4907-95CA-8C34E7371777"
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
+medley: []
+id: 8F441162-9C56-44CA-ABF7-AEAECC04AA59
 ---
+[C/D]Give  Him  the [G]glory,  [C]give  Him [G]praise
 
-Medley: Satan the blood / I've got a right to praise the Lord
+Give  Him  the [G]glo[Em]ry, [Am7]   Give  Him [D7]praise
+[F/D] [B/C#]He [C]woke  me  up  this  [D/C]morning
 
-VERSE:
-[Bb/C]Give Him the [F]glory, [Bb]give Him [F]praise
-Give  Him  the [F]glo[Dm]ry, Give Him [Gm7]pra[C7]ise
-[Eb/C]H[A/B]e [Bb]woke me up this [C/Bb]morning, [Am7]Started me on my [Dm7]way
-[Gm]Give [F/A]Him [Bb]the [F/C]glo[Dm7]ry,[Gm7] [Bb/C]Give Him [F]praise.
+[Bm7]Started  me  on  my  [Em7]way
 
-BRIDGE:
-[Fm]You’ve got a right to praise Him
-[Bbm]You ought to praise the [C7]Lord
+[Am]Give [G/B]Him [C]the [G/D]glo[Em7]ry [Am7] [C/D]Give Him [G]praise.
 
-CHORUS:
-Oh, He [Bb]woke me up this [C/Bb]morning
-[Am7]Started me on my [Dm7]way
-[Gm]Give [F/A]Him [Bb]the glo[Dm]ry
-[Gm7]Give [C7]Him [F]praise.
+[Gm]You’ve  got  a  right  to  praise  Him
+
+You  ought  to  praise  the  Lord
+
+Oh,  he   [C]woke  me  up  this  [D/C]morning
+
+[Bm7]Started  me  on  my  [Em7]way
+
+[Am]Give [G/B]Him [C]the [G/D]glory [Em7] [Am7]  [C/D]Give  Him  [G]praise.
 
 
 

@@ -1,37 +1,41 @@
 ---
-title: "My Thanks to Him"
-artist: "Rev. A. L. Clanton"
+title: My Thanks to Him
+artist: Rev. A. L. Clanton
 key: Db
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "love"
-  - "thanks"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - love
+  - thanks
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DCF75241-02F2-4C3C-86AE-BA744246BB58"
+id: 591E8AFE-9250-4774-8F95-25709CE6EAAE
 ---
-
 (Verse 1:)
 I love to [Db]tell [Db7]how [Gb]Jesus [Gb/Ab]saved my [Db]soul    [Bbm]
 When [Db]I was [Ebm][or][Ab]lost and [Ebm/Ab]facing [Ab7]dark des[Db]pair.

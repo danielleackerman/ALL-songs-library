@@ -1,35 +1,39 @@
 ---
-title: "I Worship You With All Of Me"
-artist: "Martha Munizzi"
+title: I Worship You With All Of Me
+artist: Martha Munizzi
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "BC9CEBB6-EC1A-4852-884A-F5BB8395CF10"
+id: BC9CEBB6-EC1A-4852-884A-F5BB8395CF10
 ---
-
 [Dm9]I worship You with [F/G]all of me
 My [Am7]heart  my [G/B]life I [Gm9]give You everything[C7]
 [FM7]I'll pay the price such a [Fm]small sacrifice[Am7]

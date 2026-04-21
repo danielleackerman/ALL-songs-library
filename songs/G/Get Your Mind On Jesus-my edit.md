@@ -1,41 +1,45 @@
 ---
-title: "Get Your Mind On Jesus-my edit"
-artist: "Traditional black gospel"
+title: Get Your Mind On Jesus-my edit
+artist: Traditional black gospel
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-  - "os-gospel-med"
-keywords: "os apo med, os gospel med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+  - os-gospel-med
+keywords: 'os apo med, os gospel med'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[WOKE UP THIS MORNING WITH MY MIND STAYED ON JESUS]]"
-  - "[[DON'T LET THE DEVIL RIDE]]"
-  - "[[DON'T LET HIS NAME GO DOWN]]"
-id: "524D26FC-69E3-4E4D-863B-E8DE4F603654"
+  - '[[WOKE UP THIS MORNING WITH MY MIND STAYED ON JESUS]]'
+  - '[[DON''T LET THE DEVIL RIDE]]'
+  - '[[DON''T LET HIS NAME GO DOWN]]'
+id: 524D26FC-69E3-4E4D-863B-E8DE4F603654
 ---
-
 {artist: Traditional black gospel}
 
 Medley: woke up this morning with my mind stayed on Jesus / don't let the Devil ride / don't let His name go down

@@ -1,24 +1,27 @@
 ---
-title: "Trust And Obey"
-artist: "Big Daddy Weave"
+title: Trust And Obey
+artist: Big Daddy Weave
 key: G
-tempo: 
-time: 
-ccli: "4807902"
-copyright: "2006 Word Music, LLC / Weave Country"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "help"
+  - love
+  - help
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4807902'
+copyright: '2006 Word Music, LLC / Weave Country'
+source: ''
+year: ''
 medley: []
-id: "81C2BE35-3900-4707-96E1-B40587449D5B"
+id: 81C2BE35-3900-4707-96E1-B40587449D5B
 ---
-
 VERSE 1:
       G
 When we walk with the Lord

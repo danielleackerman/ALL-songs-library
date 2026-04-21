@@ -1,21 +1,24 @@
 ---
-title: "Get Ready For Revival chord sheet"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Get Ready For Revival chord sheet
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "revival"
+  - revival
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5BCC65DA-97C8-4FEB-BB5A-3B7F9E6CCC40"
+id: 5BCC65DA-97C8-4FEB-BB5A-3B7F9E6CCC40
 ---
-
 

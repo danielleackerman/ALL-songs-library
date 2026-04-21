@@ -1,26 +1,29 @@
 ---
-title: "I'm Gonna Praise the Lord Any Way That I Can"
-artist: "Lanny Wolfe Trio"
+title: I'm Gonna Praise the Lord Any Way That I Can
+artist: Lanny Wolfe Trio
 key: F
-tempo: 144
-time: 
-ccli: 
-copyright: "1985 Lanny Wolfe Music (Admin. Capitol CMG Publishing)"
+bpm: '144'
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "rejoice"
-  - "os-apo"
+  - praise
+  - rejoice
+  - os-apo
 genre: []
-energy: high
 profile:
-  - "os-southern-gospel"
-keywords: "os apo , os southern gospel, praise"
-source: 
-year: 
+  - os-southern-gospel
+keywords: 'os apo , os southern gospel, praise'
+ccli: ''
+copyright: 1985 Lanny Wolfe Music (Admin. Capitol CMG Publishing)
+source: ''
+year: ''
 medley: []
-id: "404068DE-DCF6-46D4-BDFE-5A89C25DD594"
+id: 404068DE-DCF6-46D4-BDFE-5A89C25DD594
 ---
-
 CHORUS:
 [F]I'm Gonna Praise the Lord any way that I can, Hallelujah!
 [Dm]I'm Gonna Praise the Lord any way that I can

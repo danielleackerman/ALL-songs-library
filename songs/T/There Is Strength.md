@@ -1,35 +1,42 @@
 ---
-title: "There Is Strength"
-artist: "Gloria Gaither / Phillip J. McHugh / Sandi Patty"
+title: There Is Strength
+artist: Gloria Gaither / Phillip J. McHugh / Sandi Patty
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "© Copyright 1986 River Oaks Music company (admin. by EMI CMG Publishing)/Gaither Music Co./Sandi's Songs Music (admin. by Gaither Copyright Management)."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "strength"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - strength
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: >-
+  © Copyright 1986 River Oaks Music company (admin. by EMI CMG
+  Publishing)/Gaither Music Co./Sandi's Songs Music (admin. by Gaither Copyright
+  Management).
+source: ''
 year: 1986
 medley: []
-id: "ACFB97D7-8833-4FF7-8477-3BAAEF641E7D"
+id: ACFB97D7-8833-4FF7-8477-3BAAEF641E7D
 ---
-
 VERSE 1:
 Crowds have lined the narrow street
 To see this man from Galilee

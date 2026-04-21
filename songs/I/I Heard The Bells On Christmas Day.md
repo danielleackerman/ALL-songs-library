@@ -1,24 +1,27 @@
 ---
-title: "I Heard The Bells On Christmas Day"
-artist: "Casting Crowns"
+title: I Heard The Bells On Christmas Day
+artist: Casting Crowns
 key: Bb
-tempo: 
-time: 
-ccli: "109663"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "men"
-  - "peace"
+  - men
+  - peace
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '109663'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "1380633B-C1F4-4926-BA9F-B993FD21FBA9"
+id: 1380633B-C1F4-4926-BA9F-B993FD21FBA9
 ---
-
 VERSE 1:
 [F]I heard the bells on Christmas d[Gm]ay, t[Eb]heir old familiar carols p[Bb]lay.[F]
 And mild and sweet their songs r[Gm]epeat,[Eb] of peace on earth good will, to [Bb]men.[D]

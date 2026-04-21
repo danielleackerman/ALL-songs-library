@@ -1,24 +1,29 @@
 ---
-title: "Power to Redeem"
-artist: "Lauren Daigle"
+title: Power to Redeem
+artist: Lauren Daigle
 key: C
-tempo: 
-time: 
-ccli: "7023313"
-copyright: "© 2014 Wordspring Music, LLC (a div. of Word Music Group, Inc.)     CentricSongs (Admin. by Music Services, Inc.)     Flychild Publishing (Admin."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "light"
-  - "power"
+  - light
+  - power
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7023313'
+copyright: >-
+  © 2014 Wordspring Music, LLC (a div. of Word Music Group, Inc.)    
+  CentricSongs (Admin. by Music Services, Inc.)     Flychild Publishing (Admin.
+source: ''
+year: ''
 medley: []
-id: "433FFA55-4B1B-467B-8FD6-E8F597CE4ED9"
+id: 433FFA55-4B1B-467B-8FD6-E8F597CE4ED9
 ---
-
 C
 
 VERSE 1:

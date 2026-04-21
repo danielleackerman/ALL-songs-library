@@ -1,40 +1,44 @@
 ---
-title: "I Just Feel Like Something Good Is About To Happen"
-artist: "William J. Gaither"
+title: I Just Feel Like Something Good Is About To Happen
+artist: William J. Gaither
 key: C
-tempo: 93
-time: 
-ccli: "67262"
-copyright: "1974 William J. Gaither, Inc., Admin. Gaither Copyright Management"
+bpm: '93'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "assurance"
-  - "comfort"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - assurance
+  - comfort
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med-slow"
-  - "os-southern-gospel-med-slow"
-keywords: "os apo med slow, os southern gospel med slow, assurance, comfort"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med-slow
+  - os-southern-gospel-med-slow
+keywords: 'os apo med slow, os southern gospel med slow, assurance, comfort'
+ccli: '67262'
+copyright: '1974 William J. Gaither, Inc., Admin. Gaither Copyright Management'
+source: ''
+year: ''
 medley:
-  - "[[LIFT UP THE NAME OF JESUS]]"
-id: "F6913E50-264D-402A-87F6-29DF81FF6E63"
+  - '[[LIFT UP THE NAME OF JESUS]]'
+id: F6913E50-264D-402A-87F6-29DF81FF6E63
 ---
-
 Medley: lift up the name of Jesus
 
 CHORUS:

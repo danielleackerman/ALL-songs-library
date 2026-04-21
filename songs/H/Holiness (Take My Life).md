@@ -1,24 +1,27 @@
 ---
-title: "Holiness (Take My Life)"
-artist: ""
+title: Holiness (Take My Life)
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: "1617154"
-copyright: "1995 Mercy / Vineyard Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "holiness"
-  - "life"
+  - holiness
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1617154'
+copyright: 1995 Mercy / Vineyard Publishing
+source: ''
+year: ''
 medley: []
-id: "B0CED25F-6012-4C0F-B78F-807CE205C19E"
+id: B0CED25F-6012-4C0F-B78F-807CE205C19E
 ---
-
 VERSE 1:
 [G]Holi - ness[C], holi - ness[D] is what I long for,[C]
 [G]Holi - [C]ness is what I [D]need.			   [C]

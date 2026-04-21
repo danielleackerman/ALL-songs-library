@@ -1,34 +1,38 @@
 ---
-title: "Can't Stop Praising His Name"
-artist: ""
+title: Can't Stop Praising His Name
+artist: 'Key of: Cm'
 key: Dm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-fast"
-  - "middle-eastern"
-  - "praise"
-  - "solo-songs"
-  - "traditional"
-  - "his-name"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-fast
+  - middle-eastern
+  - praise
+  - solo-songs
+  - traditional
+  - his-name
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0C2AB3B0-EFBA-4207-8C9D-53B4A51F8961"
+id: 10BAF33F-9148-4555-B600-32D598FC00C7
 ---
-
 CHORUS:
 [Dm]Can't stop praising His Name
 [Dm/Bb]Can't stop praising His Name

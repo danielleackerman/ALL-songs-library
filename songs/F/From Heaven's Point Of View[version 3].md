@@ -1,24 +1,27 @@
 ---
-title: "From Heaven's Point Of View[version 3]"
-artist: "The McGruders"
+title: 'From Heaven''s Point Of View[version 3]'
+artist: The McGruders
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "heaven"
-  - "strength"
+  - heaven
+  - strength
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CAC2798A-6885-4C70-9FD1-EBE44C42401B"
+id: CAC2798A-6885-4C70-9FD1-EBE44C42401B
 ---
-
 {artist: The McGruders}
 
 INTRO:

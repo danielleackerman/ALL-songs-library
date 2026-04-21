@@ -1,22 +1,25 @@
 ---
-title: "No One Loves Me Like You"
-artist: "Jars Of Clay"
+title: No One Loves Me Like You
+artist: Jars Of Clay
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9DF720E2-063F-4ADA-8328-FA63CE0ABE1B"
+id: 9DF720E2-063F-4ADA-8328-FA63CE0ABE1B
 ---
-
 Key:
 
 ***********************************

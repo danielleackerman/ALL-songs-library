@@ -1,27 +1,30 @@
 ---
-title: "Shout (With A Voice of Triumph)"
-artist: "Martha Munizzi / Dan Munizzi"
+title: Shout (With A Voice of Triumph)
+artist: Martha Munizzi / Dan Munizzi
 key: Dm
-tempo: 104
-time: 
-ccli: 
-copyright: 
+bpm: '104'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "triumph"
-  - "ccm"
+  - praise
+  - triumph
+  - ccm
 genre: []
-energy: medium
 profile:
-  - "contemporary-christian-med-fast"
-keywords: 
-source: 
-year: 
+  - contemporary-christian-med-fast
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[SHAKE THE FOUNDATIONS WITH PRAISE]]"
-id: "CCC7A9B6-469D-4C4E-B081-CE2F5A154C46"
+  - '[[SHAKE THE FOUNDATIONS WITH PRAISE]]'
+id: CCC7A9B6-469D-4C4E-B081-CE2F5A154C46
 ---
-
 Songwriter: Percy Bady
 Tempo: 104
 Key : [Dm]

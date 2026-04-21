@@ -1,23 +1,28 @@
 ---
-title: "That's What Love Is"
-artist: "David Phelps"
+title: That's What Love Is
+artist: David Phelps
 key: A
-tempo: 
-time: 
-ccli: "4466824"
-copyright: "2004 Word Music, LLC / TT Bloom Music Publishing / Wordspring Music, LLC / Soulwriter Music Company, Inc. / Bieck Music Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4466824'
+copyright: >-
+  2004 Word Music, LLC / TT Bloom Music Publishing / Wordspring Music, LLC /
+  Soulwriter Music Company, Inc. / Bieck Music Publishing
+source: ''
+year: ''
 medley: []
-id: "AA256FE5-EDF3-498B-B468-BD9A83144E64"
+id: AA256FE5-EDF3-498B-B468-BD9A83144E64
 ---
-
 Intro   A Asus A  D  F#m D
 [A]It’s the only thing worth li[D]fe and death
 [F#m]It’s the first moment and the fi[D]nal breath

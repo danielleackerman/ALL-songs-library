@@ -1,24 +1,27 @@
 ---
-title: "Only Jesus"
-artist: "Big Daddy Weave"
+title: Only Jesus
+artist: Big Daddy Weave
 key: C
-tempo: 
-time: 
-ccli: "4807861"
-copyright: "2006 Word Music, LLC / Weave Country"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "rest"
+  - jesus
+  - rest
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4807861'
+copyright: '2006 Word Music, LLC / Weave Country'
+source: ''
+year: ''
 medley: []
-id: "6CD389B7-378C-4E21-8830-D262C37558CA"
+id: 6CD389B7-378C-4E21-8830-D262C37558CA
 ---
-
 [C]    -    [G]     [Am]    -      [F]  (4x)
 
 [C]Who could ever find the w[G]ords to describe the indescri[Am]bable[F]

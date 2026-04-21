@@ -1,23 +1,26 @@
 ---
-title: "It's All About You"
-artist: "Big Daddy Weave"
+title: It's All About You
+artist: Big Daddy Weave
 key: E
-tempo: 
-time: 
-ccli: "4706175"
-copyright: "2005 Word Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4706175'
+copyright: '2005 Word Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "BF11D044-4378-42F0-B32B-BC0CF921AA92"
+id: BF11D044-4378-42F0-B32B-BC0CF921AA92
 ---
-
 [Esus]It’s [E]not about me,[C#m] It’s all about You,
 It’s not about my [F#m7]pride,
                      B

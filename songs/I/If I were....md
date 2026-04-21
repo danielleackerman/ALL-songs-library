@@ -1,24 +1,27 @@
 ---
-title: "If I were..."
-artist: "Children's song"
+title: If I were...
+artist: Children's song
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "thank"
+  - jesus
+  - thank
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1073430A-1162-4E01-82AF-DF7496C57CA6"
+id: 1073430A-1162-4E01-82AF-DF7496C57CA6
 ---
-
 If I were a butterfly, I'd thank the Lord for giving me wings.
 And if I were a fish in the sea, I'd thank the Lord that I could swim.
 And if I were a bird in the tree, I'd thank the Lord that I could sing.

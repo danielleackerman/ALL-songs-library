@@ -1,25 +1,28 @@
 ---
-title: "I Woke up This Morning With My Mind"
-artist: "J. Jefferson Cleveland, Verolga Nix -Traditional Black Gospel"
+title: I Woke up This Morning With My Mind
+artist: 'J. Jefferson Cleveland, Verolga Nix -Traditional Black Gospel'
 key: F
-tempo: 
-time: 
-ccli: "1760719"
-copyright: "Words: Public Domain, Music: 1981 Abington Press"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "gospel"
+  - gospel
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-  - "os-gospel-med"
-keywords: "os apo med, os gospel med"
-source: 
-year: 
+  - os-apo-med
+  - os-gospel-med
+keywords: 'os apo med, os gospel med'
+ccli: '1760719'
+copyright: 'Words: Public Domain, Music: 1981 Abington Press'
+source: ''
+year: ''
 medley: []
-id: "A22EF555-5480-4E1E-8C70-A609E006027C"
+id: A22EF555-5480-4E1E-8C70-A609E006027C
 ---
-
 VERSE:
 [F]I woke up this morning with my mind Stayed on [F7]Jesus
 [Bb7]I woke up this mornin with my mind Stayed [B7dim]on [F]Jesus [Bb/C]

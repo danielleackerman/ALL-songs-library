@@ -1,24 +1,27 @@
 ---
-title: "Holy Ghost and Fire"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Holy Ghost and Fire
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "alive"
-  - "holy-ghost"
+  - alive
+  - holy-ghost
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CB156FA1-2525-4A62-9321-63FFF3E11E49"
+id: CB156FA1-2525-4A62-9321-63FFF3E11E49
 ---
-
 CHORUS:
 
 It's that Holy Ghost and Fire

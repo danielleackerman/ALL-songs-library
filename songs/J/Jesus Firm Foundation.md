@@ -1,24 +1,27 @@
 ---
-title: "Jesus Firm Foundation"
-artist: "Jeremy Camp"
+title: Jesus Firm Foundation
+artist: Jeremy Camp
 key: C
-tempo: 
-time: 
-ccli: "6500159"
-copyright: "2013 Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "foundation"
+  - jesus
+  - foundation
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6500159'
+copyright: 2013 Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "91BDECF3-1E41-4208-99C6-B338F29F1FBD"
+id: 91BDECF3-1E41-4208-99C6-B338F29F1FBD
 ---
-
 INTRO:
 [C] - [F/C] - [C] - [F/C] - [C] - [F/C]
 

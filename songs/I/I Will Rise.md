@@ -1,23 +1,28 @@
 ---
-title: "I Will Rise"
-artist: "Chris Tomlin"
+title: I Will Rise
+artist: Chris Tomlin
 key: B
-tempo: 
-time: 
-ccli: "5183450"
-copyright: "2008 Vamos Publishing / worshiptogether.com songs / sixsteps Music / Thankyou Music / spiritandsong.com"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "sorrow"
+  - sorrow
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5183450'
+copyright: >-
+  2008 Vamos Publishing / worshiptogether.com songs / sixsteps Music / Thankyou
+  Music / spiritandsong.com
+source: ''
+year: ''
 medley: []
-id: "89268ACA-03F5-44CA-A262-F158A55E3CA5"
+id: 89268ACA-03F5-44CA-A262-F158A55E3CA5
 ---
-
 INTRO:
 [G#m7] - [E2] - [G#m7] - [F#5]  (x2)
 

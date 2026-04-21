@@ -1,40 +1,44 @@
 ---
-title: "I Worship You Almighty God"
-artist: ""
+title: I Worship You Almighty God
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "medium-slow"
-  - "praise"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "almighty"
+  - black-gospel
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - jesus-movement
+  - maranatha
+  - medium
+  - medium-slow
+  - praise
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - almighty
 genre: []
-energy: medium
 profile:
-  - "black-gospel-ccm-choir-choruses-congregational-contemporary-jesus-movement-maranatha-medium-medium-slow-praise-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-ccm-choir-choruses-congregational-contemporary-jesus-movement-maranatha-medium-medium-slow-praise-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "2730CED5-D333-4B2A-89DE-54F71F045394"
+id: 2730CED5-D333-4B2A-89DE-54F71F045394
 ---
-
 I [Bb/Eb] worship  [Eb]You  [Bb/C]almighty  [Cm]God [Gm7] [Fm7]
 
 There is [Ab/Bb]none like [EbM7]You.   [Ab/Bb]

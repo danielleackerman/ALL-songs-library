@@ -1,22 +1,25 @@
 ---
-title: "Not Ashamed"
-artist: "Jeremy Camp"
+title: Not Ashamed
+artist: Jeremy Camp
 key: C
-tempo: 
-time: 
-ccli: "5818000"
-copyright: "2010 Thirsty Moon River Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5818000'
+copyright: 2010 Thirsty Moon River Publishing
+source: ''
+year: ''
 medley: []
-id: "164A9BD2-D4F1-444D-8262-AE878DB05C5F"
+id: 164A9BD2-D4F1-444D-8262-AE878DB05C5F
 ---
-
 capo 4
 
 [C] - [G] - [D] - [Am7] - [C] - [G]

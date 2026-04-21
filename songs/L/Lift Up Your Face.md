@@ -1,24 +1,27 @@
 ---
-title: "Lift Up Your Face"
-artist: "Third Day"
+title: Lift Up Your Face
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "2010 Consuming Fire Music / Walter Ego Music / Needtobreathe Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "calling"
-  - "salvation"
+  - calling
+  - salvation
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2010 Consuming Fire Music / Walter Ego Music / Needtobreathe Music
+source: ''
+year: ''
 medley: []
-id: "AAEE1D83-F487-47B9-91C4-1E68AC685C26"
+id: AAEE1D83-F487-47B9-91C4-1E68AC685C26
 ---
-
 Intro:  with vocal oooo’s
 
 [Em]  [G]   [Am]  [B]

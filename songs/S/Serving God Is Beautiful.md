@@ -1,31 +1,35 @@
 ---
-title: "Serving God Is Beautiful"
-artist: ""
+title: Serving God Is Beautiful
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "36D6A808-DE8D-4512-9FE8-ADA31BA53459"
+id: 36D6A808-DE8D-4512-9FE8-ADA31BA53459
 ---
-
 CHORUS:
 [G2]Serving [F/G]God is [CM7]beautiful, [G/B]    [Am7]
 [D7]Serving the [C/D]King [D7b9]of [GM7]Kings    [C/D]

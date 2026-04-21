@@ -1,25 +1,28 @@
 ---
-title: "I'm A Pentecostal"
-artist: ""
+title: I'm A Pentecostal
+artist: ''
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "pentecost"
-  - "one-god"
+  - pentecost
+  - one-god
 genre: []
-energy: 
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med, pentecost, one god"
-source: 
-year: 
+  - mod-apo-med
+keywords: 'mod apo med, pentecost, one god'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D983F4A7-A91B-4DD4-938B-3B1D4DAEEF11"
+id: D983F4A7-A91B-4DD4-938B-3B1D4DAEEF11
 ---
-
 [Abm]I'm a Pentecostal, I am not ashamed
 [Abm]Just read the book of Acts, we are still the same
 We [Eb9]worship only one God, Jesus is His name

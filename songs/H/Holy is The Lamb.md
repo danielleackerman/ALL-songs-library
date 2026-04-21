@@ -1,23 +1,26 @@
 ---
-title: "Holy is The Lamb"
-artist: ""
+title: Holy is The Lamb
+artist: ''
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F265BEF5-612D-4A3C-B0B5-623076677B3C"
+id: F265BEF5-612D-4A3C-B0B5-623076677B3C
 ---
-
 [Ab]Holy is [Bbm/Ab]the[Ab] Lamb
 [Ab]Holy is [Bbm/Ab]the[Ab] Lamb
 [Ab]Holy is [Bbm/Ab]the[Ab] Lamb [Fm/Ab]of[Eb] God [Eb7/G]

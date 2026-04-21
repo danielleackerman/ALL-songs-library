@@ -1,26 +1,29 @@
 ---
-title: "I Love to Sing Your Praise Ii"
-artist: "Geron Davis"
+title: I Love to Sing Your Praise Ii
+artist: Geron Davis
 key: G
-tempo: 
-time: 
-ccli: "3412790"
-copyright: "2001 DaviShop, New Spring, Admin. Brentwood-Benson Music Publishing, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "praise"
-  - "adoration"
+  - love
+  - praise
+  - adoration
 genre: []
-energy: 
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med, adoration, praise, love"
-source: "ORIGINAL KEY Bb"
+  - mod-apo-med
+keywords: 'mod apo med, adoration, praise, love'
+ccli: '3412790'
+copyright: '2001 DaviShop, New Spring, Admin. Brentwood-Benson Music Publishing, Inc.'
+source: ORIGINAL KEY Bb
 year: 2001
 medley: []
-id: "9CF5248A-C37C-4E60-BB06-C9682928C6C9"
+id: 9CF5248A-C37C-4E60-BB06-C9682928C6C9
 ---
-
 [G]I love sing your [C6]praise Lord
 I love the sound of your [G7]name
 It [A9]fills me with [D2] peace

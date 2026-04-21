@@ -1,24 +1,27 @@
 ---
-title: "God Rest Ye Merry Gentlemen"
-artist: "MercyMe"
+title: God Rest Ye Merry Gentlemen
+artist: MercyMe
 key: A
-tempo: 
-time: 
-ccli: "4630399"
-copyright: "2005 Simpleville Music / Wet As A Fish Music / Banistuci Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "joy"
-  - "comfort"
+  - joy
+  - comfort
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4630399'
+copyright: 2005 Simpleville Music / Wet As A Fish Music / Banistuci Music
+source: ''
+year: ''
 medley: []
-id: "0A394389-F8B2-4111-B04E-0DC032F5EDDE"
+id: 0A394389-F8B2-4111-B04E-0DC032F5EDDE
 ---
-
 INTRO:
 [F#m7]    [Bm]- [F#m7]    [Bm]
 

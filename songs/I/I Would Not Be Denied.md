@@ -1,23 +1,26 @@
 ---
-title: "I Would Not Be Denied"
-artist: ""
+title: I Would Not Be Denied
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
+  - altar-songs
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "20A5E5B8-13D0-40AB-9F49-4026C03CF9A1"
+id: 20A5E5B8-13D0-40AB-9F49-4026C03CF9A1
 ---
-
 VERSE 1:
 [F/G]When [C]pangs of death seiz'd on my soul,
 un[G]to the [G7/B]Lord I [C]cried.   [F/G]

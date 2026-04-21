@@ -1,22 +1,27 @@
 ---
-title: "Don't Let Me Go"
-artist: "Third Day"
+title: Don't Let Me Go
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "3118661"
-copyright: "2000 New Spring Publishing, Inc. (Admin. by Brentwood-Benson Music Publishing, Inc., 741 Cool Springs Blvd., Franklin TN 37067)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3118661'
+copyright: >-
+  2000 New Spring Publishing, Inc. (Admin. by Brentwood-Benson Music Publishing,
+  Inc., 741 Cool Springs Blvd., Franklin TN 37067)
+source: ''
+year: ''
 medley: []
-id: "EEDA690B-391E-40A1-9251-CB596CE76999"
+id: EEDA690B-391E-40A1-9251-CB596CE76999
 ---
-
 VERSE 1:
 Take my heart and help me[D] feel, ta[C]ke my faith and make it rea[G]l.
 Take my eyes and help me se[D]e, a[C]ll the love surroun[D]ding m[G]e.

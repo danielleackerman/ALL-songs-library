@@ -1,23 +1,26 @@
 ---
-title: "Dive"
-artist: "Steven Curtis Chapman"
+title: Dive
+artist: Steven Curtis Chapman
 key: E
-tempo: 
-time: 
-ccli: "2758448"
-copyright: "1999 Sparrow Songs / Peach Hill Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "river"
+  - river
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2758448'
+copyright: 1999 Sparrow Songs / Peach Hill Songs
+source: ''
+year: ''
 medley: []
-id: "1347023B-8EE2-4B65-8FDF-CC642BA08184"
+id: 1347023B-8EE2-4B65-8FDF-CC642BA08184
 ---
-
 Intro: E A G E    A G B
 
 VERSE:

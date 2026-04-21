@@ -1,26 +1,31 @@
 ---
-title: "Take Me to the King"
-artist: "Kirk Franklin, performed by Tamela Mann"
+title: Take Me to the King
+artist: 'Kirk Franklin, performed by Tamela Mann'
 key: C
-tempo: 58
-time: 
-ccli: "6363389"
-copyright: "2012 Aunt Gertrude Music Publishing LLC, Admin. Brentwood-Benson Music Publishing, Inc."
+bpm: '58'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
-  - "king"
-  - "altar"
+  - glory
+  - king
+  - altar
 genre: []
-energy: slow
 profile:
-  - "contemporary-gospel-slow"
-keywords: "contemporary gospel slow, altar"
-source: "ORIGINAL KEY Db"
-year: 
+  - contemporary-gospel-slow
+keywords: 'contemporary gospel slow, altar'
+ccli: '6363389'
+copyright: >-
+  2012 Aunt Gertrude Music Publishing LLC, Admin. Brentwood-Benson Music
+  Publishing, Inc.
+source: ORIGINAL KEY Db
+year: ''
 medley: []
-id: "77D4E08E-E97A-44B6-BFD8-3F127B220632"
+id: 77D4E08E-E97A-44B6-BFD8-3F127B220632
 ---
-
 (Intro: 1,2,3,4 | [C2]     | [C9]     | [D2/C]    |  [Ddim/C]    | )
 (**arpeggios on each chord on intro & pre-chorus**)
 

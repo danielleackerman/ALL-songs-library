@@ -1,23 +1,26 @@
 ---
-title: "He's Real"
-artist: "Hillsong"
+title: He's Real
+artist: Hillsong
 key: G
-tempo: 
-time: 
-ccli: "1839932"
-copyright: "1995 Hillsong Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "trust"
+  - trust
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1839932'
+copyright: 1995 Hillsong Publishing
+source: ''
+year: ''
 medley: []
-id: "0DBCC40D-E0A3-458B-8D60-1097662647A4"
+id: 0DBCC40D-E0A3-458B-8D60-1097662647A4
 ---
-
 VERSE 1:
 [G7]My God can never fail
 

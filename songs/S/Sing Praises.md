@@ -1,23 +1,26 @@
 ---
-title: "Sing Praises"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Sing Praises
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "king"
+  - king
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "02D82B4C-1231-4E4D-9A51-8A4C874D198F"
+id: 02D82B4C-1231-4E4D-9A51-8A4C874D198F
 ---
-
 Key:
 Copyright: 2001 New Spring Publishing, Inc
 

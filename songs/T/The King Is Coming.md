@@ -1,23 +1,26 @@
 ---
-title: "The King Is Coming"
-artist: "Bill Gaither"
+title: The King Is Coming
+artist: Bill Gaither
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "king"
+  - king
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B79B8FA9-5019-4B0F-AF3F-2C5A0FC77255"
+id: B79B8FA9-5019-4B0F-AF3F-2C5A0FC77255
 ---
-
 Verse:1
 
 The [F]market place is empty, [F7/A]no more [Bb2]traffic in the [Gm7]streets

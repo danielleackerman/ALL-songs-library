@@ -1,25 +1,28 @@
 ---
-title: "What A Beautiful Name | LYRICS ONLY"
-artist: "Hillsong Worship"
+title: What A Beautiful Name | LYRICS ONLY
+artist: Hillsong Worship
 key: D
-tempo: 
-time: 
-ccli: "7068424"
-copyright: "2016 Hillsong Music Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "christ"
+  - jesus
+  - christ
 genre: []
-energy: 
 profile:
-  - "contemp-christian-slow"
-keywords: "contemp christian slow,"
-source: 
-year: 
+  - contemp-christian-slow
+keywords: 'contemp christian slow,'
+ccli: '7068424'
+copyright: 2016 Hillsong Music Publishing
+source: ''
+year: ''
 medley: []
-id: "7F54694F-5F91-460C-8A5E-D3923CE952A0"
+id: 7F54694F-5F91-460C-8A5E-D3923CE952A0
 ---
-
 VERSE 1:
 
 You were the Word at the beginning

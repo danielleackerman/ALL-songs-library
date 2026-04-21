@@ -1,23 +1,26 @@
 ---
-title: "In Awe of You We Worship"
-artist: "Cooley Choruses"
+title: In Awe of You We Worship
+artist: Cooley Choruses
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C99AF046-AF77-4A06-8AA7-69CB2AF2D4CC"
+id: C99AF046-AF77-4A06-8AA7-69CB2AF2D4CC
 ---
-
 VERSE 1:
 [Eb]In awe of [Db]You we wor[Ab]ship
 [Eb]And stand a[Db]mazed at Your great [Eb]love

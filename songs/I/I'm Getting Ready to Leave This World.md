@@ -1,38 +1,44 @@
 ---
-title: "I'm Getting Ready to Leave This World"
-artist: "Luther G. Presley"
+title: I'm Getting Ready to Leave This World
+artist: Luther G. Presley
 key: G
-tempo: 
-time: 
-ccli: "138184"
-copyright: "1937. Renewed 1965 Bridge Building Music, Inc. (Admin. by Brentwood-Benson Music Publishing, Inc.)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "heaven"
+  - altar-songs
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - heaven
 genre: []
-energy: high
 profile:
-  - "altar-songs-black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-southern-gospel-med"
-keywords: "os southern gospel med, heaven"
-source: 
-year: 
+  - >-
+    altar-songs-black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-southern-gospel-med
+keywords: 'os southern gospel med, heaven'
+ccli: '138184'
+copyright: >-
+  1937. Renewed 1965 Bridge Building Music, Inc. (Admin. by Brentwood-Benson
+  Music Publishing, Inc.)
+source: ''
+year: ''
 medley: []
-id: "2414629B-85A5-4A51-987C-CFA5F1588278"
+id: 2414629B-85A5-4A51-987C-CFA5F1588278
 ---
-
 VERSE 1:
 [G]Laying my treasures in that [C]home [G]above
 [G]Trusting, fully [Em]trusting in the [A7]Saviour's [D]Love

@@ -1,23 +1,26 @@
 ---
-title: "Everybody Will Be Happy Over There"
-artist: ""
+title: Everybody Will Be Happy Over There
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F1B7DA14-330C-4710-AB70-9C34BC9408D0"
+id: F1B7DA14-330C-4710-AB70-9C34BC9408D0
 ---
-
 (Verse:1)
 
 [C/D]There's a [G]happy land of [G7/B]promise over [C7]in the great be---[C#o7]yond

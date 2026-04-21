@@ -1,22 +1,25 @@
 ---
-title: "The Hammer Holds"
-artist: "Bebo Norman"
+title: The Hammer Holds
+artist: Bebo Norman
 key: D
-tempo: 
-time: 
-ccli: "2894230"
-copyright: "1999 New Spring / Appstreet Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2894230'
+copyright: 1999 New Spring / Appstreet Music
+source: ''
+year: ''
 medley: []
-id: "ED314F7D-530E-4E75-8B32-8A877621F307"
+id: ED314F7D-530E-4E75-8B32-8A877621F307
 ---
-
 Intro: |   D9 D/C#  |  D/B D/A   |  G   A  |
 
 VERSE 1:

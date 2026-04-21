@@ -1,39 +1,43 @@
 ---
-title: "I've Been Redeemed"
-artist: ""
+title: I've Been Redeemed
+artist: ''
 key: G
-tempo: 86
-time: 
-ccli: 
-copyright: 
+bpm: '86'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "blood"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - blood
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[I'VE ALREADY BEEN TO THE WATER]]"
-id: "FC5E0A0F-0A84-4E86-9DFA-AEB9D067855E"
+  - '[[I''VE ALREADY BEEN TO THE WATER]]'
+id: FC5E0A0F-0A84-4E86-9DFA-AEB9D067855E
 ---
-
 Medley: I've already been to the water
 
 [G]I've Been Redeemed (I've been redeemed)

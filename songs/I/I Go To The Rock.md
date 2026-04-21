@@ -1,40 +1,46 @@
 ---
-title: "I Go To The Rock"
-artist: "Dottie Rambo"
+title: I Go To The Rock
+artist: Dottie Rambo
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: "1977 John T. Benson Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "rock"
-  - "protection"
-  - "provision"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - rock
+  - protection
+  - provision
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med-slow"
-  - "os-gospel-slow"
-  - "os-southern-gospel-med-slow"
-keywords: "os apo med slow, os gospel slow, os southern gospel med slow, protection, provision"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med-slow
+  - os-gospel-slow
+  - os-southern-gospel-med-slow
+keywords: >-
+  os apo med slow, os gospel slow, os southern gospel med slow, protection,
+  provision
+ccli: ''
+copyright: 1977 John T. Benson Publishing
+source: ''
+year: ''
 medley: []
-id: "507C368F-C79D-44B9-AF46-EA0018FC7767"
+id: 507C368F-C79D-44B9-AF46-EA0018FC7767
 ---
-
 (Verse:1)
 [F/G]Where do I [C]go, [C7]when there's [F]no one else to [C]turn to
 [C/E]Who do [Cdim/D#]I [Dm]talk to,   [Dm7].    [G7]

@@ -1,33 +1,37 @@
 ---
-title: "Sheltered In The Arms Of God"
-artist: "Songwriters: Dottie Rambo & Jimmie Davis"
+title: Sheltered In The Arms Of God
+artist: 'Songwriters: Dottie Rambo & Jimmie Davis'
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - altar-songs
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-slow"
-keywords: "o.s. apo. slow"
-source: 
+  - >-
+    altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-slow
+keywords: o.s. apo. slow
+ccli: ''
+copyright: ''
+source: ''
 year: 1969
 medley: []
-id: "B5C1912A-A010-4532-B0CF-DF7176257223"
+id: B5C1912A-A010-4532-B0CF-DF7176257223
 ---
-
 VERSE 1:
 I feel the touch of hands so kind and tender
 They're leading me in paths that I must trod

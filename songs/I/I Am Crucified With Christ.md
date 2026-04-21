@@ -1,24 +1,27 @@
 ---
-title: "I Am Crucified With Christ"
-artist: ""
+title: I Am Crucified With Christ
+artist: ''
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "grace"
-  - "christ"
+  - grace
+  - christ
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Galatians 2:20"
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: 'Galatians 2:20'
+year: ''
 medley: []
-id: "CFC3C4C4-6472-4518-87E8-5405A5AD7EB4"
+id: CFC3C4C4-6472-4518-87E8-5405A5AD7EB4
 ---
-
 [D]I am crucified with Christ
 It is no [C]longer I who [G]live But [C]Christ who [Am]lives in [D]me
 And the [G]life that I now [Em]live in the flesh

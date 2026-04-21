@@ -1,22 +1,25 @@
 ---
-title: "Portrait Of An Apology"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Portrait Of An Apology
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E3442C6C-AC34-4A67-8027-0D005131667B"
+id: E3442C6C-AC34-4A67-8027-0D005131667B
 ---
-
 Key:
 
 Portrait of an Apology by Jars of Clay

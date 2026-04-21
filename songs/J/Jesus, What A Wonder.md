@@ -1,25 +1,28 @@
 ---
-title: "Jesus, What A Wonder"
-artist: ""
+title: 'Jesus, What A Wonder'
+artist: ''
 key: Eb
-tempo: 51
-time: 
-ccli: 
-copyright: 
+bpm: '51'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "wonder"
+  - jesus
+  - wonder
 genre: []
-energy: slow
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "00543E13-F2A4-4A94-9A2C-7797EE6DEAB5"
+id: 00543E13-F2A4-4A94-9A2C-7797EE6DEAB5
 ---
-
 CHORUS:
 [Eb]Jesus, Jesus, [Fm/Eb]Je[Eb]sus what a [Ab/Eb]wonder you [Eb]are [Ab/Bb]
 [Eb]Jesus, Jesus, [Fm/Eb]Je[Eb]sus what a [Ab/Eb]wonder you [Eb]are [Ab/Bb]

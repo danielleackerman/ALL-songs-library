@@ -1,22 +1,25 @@
 ---
-title: "Move in Me"
-artist: "Calvary Chapel Music"
+title: Move in Me
+artist: Calvary Chapel Music
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: "1993  Dave Morrow"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 1993  Dave Morrow
+source: ''
+year: ''
 medley: []
-id: "A938B0BE-DBAC-4106-A638-EDD7391A1455"
+id: A938B0BE-DBAC-4106-A638-EDD7391A1455
 ---
-
 VERSE 1:
 	[Dm]Holy S[Am7]pirit move in[Dm] me.[Am7]    [Dm]Open my[Am7] eyes that I might [Dm]see.[Am7]
 	[Dm]Teach me [Am7]of my Father's [Dm]love.[Am7]    [Dm]Set my [Am7]heart on things [Dm]above.[Am7]

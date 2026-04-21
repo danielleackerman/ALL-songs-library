@@ -1,23 +1,26 @@
 ---
-title: "Shout"
-artist: "Clint Brown"
+title: Shout
+artist: Clint Brown
 key: Gb
-tempo: 
-time: 
-ccli: "2793915"
-copyright: "1999 Martha Munizzi Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2793915'
+copyright: 1999 Martha Munizzi Music
+source: ''
+year: ''
 medley: []
-id: "240FD387-4D86-4144-BB93-009A627B629D"
+id: 240FD387-4D86-4144-BB93-009A627B629D
 ---
-
 Em/Em	     Em/B  Em/D Em/E   	Em/B    /D
 Shout with a voice of triumph
 [Em]Shout wi[Em/B]th a v[Em/D]oice [Em/Em]of pra[Em/B]ise

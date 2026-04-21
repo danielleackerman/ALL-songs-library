@@ -1,23 +1,26 @@
 ---
-title: "Wash Me Lord"
-artist: "Beau Williams"
+title: Wash Me Lord
+artist: Beau Williams
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "black-gospel-opera"
-keywords: 
-source: 
-year: 
+  - black-gospel-opera
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "BA384A80-0FAB-4B49-B204-89A8617EAF69"
+id: BA384A80-0FAB-4B49-B204-89A8617EAF69
 ---
-
 CHORUS 1:
 [C/E]Wash me [F]Lord,   [G/F]
 Wash me [Em7]Lord.  [A7b9]

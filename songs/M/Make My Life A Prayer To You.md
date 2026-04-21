@@ -1,23 +1,26 @@
 ---
-title: "Make My Life A Prayer To You"
-artist: "Keith Green"
+title: Make My Life A Prayer To You
+artist: Keith Green
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9794496D-4CBA-48C1-B1D2-8CE627107B5B"
+id: 9794496D-4CBA-48C1-B1D2-8CE627107B5B
 ---
-
 Key:
 
 -----------------------------------------------------------------------

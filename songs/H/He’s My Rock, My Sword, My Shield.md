@@ -1,27 +1,30 @@
 ---
-title: "He’s My Rock, My Sword, My Shield"
-artist: "Traditional African Spiritual; Ethel Waters"
+title: 'He’s My Rock, My Sword, My Shield'
+artist: Traditional African Spiritual; Ethel Waters
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "rock"
-  - "shield"
-  - "prayer"
+  - rock
+  - shield
+  - prayer
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-  - "os-gospel-med"
-keywords: "os apo med, os gospel med, prayer"
-source: 
+  - os-apo-med
+  - os-gospel-med
+keywords: 'os apo med, os gospel med, prayer'
+ccli: ''
+copyright: ''
+source: ''
 year: 1960
 medley: []
-id: "BC3759DA-7242-45E3-BD62-55EA9BF2B815"
+id: BC3759DA-7242-45E3-BD62-55EA9BF2B815
 ---
-
 {artist: Traditional African Spiritual; Ethel Waters, 1960}
 
 CHORUS:

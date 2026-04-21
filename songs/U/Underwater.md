@@ -1,23 +1,26 @@
 ---
-title: "Underwater"
-artist: "Third Day"
+title: Underwater
+artist: Third Day
 key: A
-tempo: 
-time: 
-ccli: 
-copyright: "1999 New Spring Publshing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "river"
+  - river
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 1999 New Spring Publshing
+source: ''
+year: ''
 medley: []
-id: "95D8CD96-FC73-481B-9DAD-8CAFBF4216F1"
+id: 95D8CD96-FC73-481B-9DAD-8CAFBF4216F1
 ---
-
 [A]Now listen, there's something much be[G]tter
 [F]Than what I had, and [G]what I had been t[A]old
 [A]And now one day, I heard a message spo[G]ken

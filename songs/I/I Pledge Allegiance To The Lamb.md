@@ -1,22 +1,25 @@
 ---
-title: "I Pledge Allegiance To The Lamb"
-artist: "Ray Boltz"
+title: I Pledge Allegiance To The Lamb
+artist: Ray Boltz
 key: G
-tempo: 
-time: 
-ccli: "1366797"
-copyright: "1994 Word Music, LLC / Shepherd Boy Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1366797'
+copyright: '1994 Word Music, LLC / Shepherd Boy Music'
+source: ''
+year: ''
 medley: []
-id: "F42FE6F6-0DC1-45EF-AB15-403A32F668EE"
+id: F42FE6F6-0DC1-45EF-AB15-403A32F668EE
 ---
-
 CHORUS:
 
 [G]I Pledge Allegiance [C]to the [G]Lamb

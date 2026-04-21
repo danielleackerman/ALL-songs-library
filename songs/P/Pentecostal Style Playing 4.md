@@ -1,22 +1,25 @@
 ---
-title: "Pentecostal Style Playing 4"
-artist: "Lesson 1 Segment 6"
+title: Pentecostal Style Playing 4
+artist: Lesson 1 Segment 6
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Turnaround & Outro"
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: Turnaround & Outro
+year: ''
 medley: []
-id: "72421B46-26F9-4E61-8D1A-9F20F4DF1614"
+id: 72421B46-26F9-4E61-8D1A-9F20F4DF1614
 ---
-
 TURNAROUND:
 [C]
 

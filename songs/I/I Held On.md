@@ -1,22 +1,25 @@
 ---
-title: "I Held On"
-artist: "Ben Weeks"
+title: I Held On
+artist: Ben Weeks
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "15D26075-F72C-4273-9FE6-C41FBADC51FE"
+id: 15D26075-F72C-4273-9FE6-C41FBADC51FE
 ---
-
 (Verse:1)
 
 You [C]ask how it is I'm still [G/B]standing,

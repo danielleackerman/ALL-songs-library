@@ -1,23 +1,26 @@
 ---
-title: "Always Have Always Will"
-artist: "Avalon"
+title: Always Have Always Will
+artist: Avalon
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C22B64DE-7292-437E-B3E4-562AFBA85EE2"
+id: C22B64DE-7292-437E-B3E4-562AFBA85EE2
 ---
-
 Key:
 
 ***********************************

@@ -1,24 +1,27 @@
 ---
-title: "Every Time"
-artist: "Twila Labar"
+title: Every Time
+artist: Twila Labar
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "presence"
-  - "holy-place"
+  - presence
+  - holy-place
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "83305CB0-843E-414A-9E06-EDB8740E4B2E"
+id: 83305CB0-843E-414A-9E06-EDB8740E4B2E
 ---
-
 INTRO:
 [Am7] [Gm7] [Gm9] [Fm9]
 [Am7][Gm9] [Dm7] [Dm7/A] [Fm9] [G7#5#9]

@@ -1,36 +1,40 @@
 ---
-title: "Something Beautiful"
-artist: "Gaither Vocal Band"
+title: Something Beautiful
+artist: Gaither Vocal Band
 key: D
-tempo: 
-time: 
-ccli: "18060"
-copyright: "1971 William J. Gaither, Inc. ARR UBP of Gaither Copyright Management"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "dreams"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - dreams
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: os apo med
+ccli: '18060'
+copyright: '1971 William J. Gaither, Inc. ARR UBP of Gaither Copyright Management'
+source: ''
+year: ''
 medley: []
-id: "8011A2CF-458B-41D8-A408-E4DC987B8F22"
+id: 8011A2CF-458B-41D8-A408-E4DC987B8F22
 ---
-
 CHORUS:
 [D]Something beautiful s[A7]omething good
 [Em]All my conf[Em7]usion[A7]   [D]He understo[D7]od

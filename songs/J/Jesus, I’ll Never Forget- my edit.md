@@ -1,24 +1,27 @@
 ---
-title: "Jesus, I’ll Never Forget- my edit"
-artist: "Sam Cooke"
+title: 'Jesus, I’ll Never Forget- my edit'
+artist: Sam Cooke
 key: F
-tempo: 88
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '88'
+time_sig: 4/4
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: medium
 profile:
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "794D248C-FFD8-4EAA-B7B5-B2D783677213"
+id: 794D248C-FFD8-4EAA-B7B5-B2D783677213
 ---
-
 CHORUS:
 [F]Jesus I’ll never for  [F7]get what You’ve [Bb]done for [F/C]me
 [F]Jesus I’ll never for  [Dm]get how You [G9]set me  [C7]free.

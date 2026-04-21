@@ -1,23 +1,28 @@
 ---
-title: "The Motions"
-artist: "Matthew West"
+title: The Motions
+artist: Matthew West
 key: E
-tempo: 
-time: 
-ccli: "4780335"
-copyright: "2006 Word Music, LLC / Songs For Lulu / Wyzell Music / Simplex Songs / Songs Of Extreme"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4780335'
+copyright: >-
+  2006 Word Music, LLC / Songs For Lulu / Wyzell Music / Simplex Songs / Songs
+  Of Extreme
+source: ''
+year: ''
 medley: []
-id: "67C7CDE7-CE15-4967-8D63-1A817BC4202D"
+id: 67C7CDE7-CE15-4967-8D63-1A817BC4202D
 ---
-
 VERSE 1:
 [F#m]This might hu[C#m]rt
 It's not s[E]afe but I know that I've go[B]tta make a change

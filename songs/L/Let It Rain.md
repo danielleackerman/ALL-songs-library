@@ -1,23 +1,26 @@
 ---
-title: "Let It Rain"
-artist: "Pocket Full of Rocks"
+title: Let It Rain
+artist: Pocket Full of Rocks
 key: G
-tempo: 
-time: 
-ccli: "3591817"
-copyright: "2001 This Is Your Time Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "heaven"
+  - heaven
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3591817'
+copyright: 2001 This Is Your Time Music
+source: ''
+year: ''
 medley: []
-id: "ABFBCA1E-C2BD-4EDC-AD54-9C8A7026A94A"
+id: ABFBCA1E-C2BD-4EDC-AD54-9C8A7026A94A
 ---
-
 [Em7]We feel the rains of Your love
 We feel the [C9]winds of Your Spirit
             G

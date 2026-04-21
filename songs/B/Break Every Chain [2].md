@@ -1,45 +1,52 @@
 ---
-title: "Break Every Chain"
-artist: "Tasha Cobb"
-key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Break Every Chain
+artist: Tasha Cobbs
+key: A
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-  - "mod-gospel-slow"
-keywords: "mod apo slow, mod gospel slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - mod-gospel-slow
+  - mod-apo-slow
+keywords: 'mod gospel slow, mod apo slow'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5B10E697-05B2-4964-9F4F-6669A40FBEA5"
+id: C20757E0-6E16-4A5C-8746-F1F3A658F050
 ---
+{artist: Tasha Cobbs}
 
-{artist: Tasha Cobb}
+CHORUS:
+[Esus4]There is [F#m7]power [DM7]in the name of [A]Jesus,  (Repeat 3 x's)
+[Esus4]To break ev'ry [F#m7]chain, Break ev'ry [DM7]chain, Break ev'ry [A]chain.
 
-[Eb]There is [Fm]power [Db2]in the name of [Ab]Jesus [Eb]  (Repeat 3 x's)
-To break ev'ry [Fm]chain, Break ev'ry [DbM7]chain, Break ev'ry [Ab]chain[Eb]
+VERSE 1:
+[F#m7]All suf[DM7]ficient [A]sacri[Esus4]fices, so free[F#m7]ly given, [A]such a [Esus4]price
+Brought our [F#m7]redemp[DM7]tion, Heav[A]en's [Esus4]gates swing [F#m7]wide.   [DM7].   [A]
 
-[Eb]There's an [Fm]army [Db2]rising [Ab/Eb]up [Eb](Repeat 2x's)
-To break ev'ry [Fm]chain, Break ev'ry [DbM7]chain, Break ev'ry [Ab]chain.
+VERSE 2:
+[Esus4]There's an [F#m7]army [DM7]rising [A]up  (Repeat 2x's)
+[Esus4]To break ev'ry [F#m7]chain, Break ev'ry [DM7]chain, Break ev'ry [A]chain.
 
-BRIDGE:
-[Fm]I [Fm/Ab]hear the [Db]chains [Db/F] fallin' [Ab]  [Eb]I hear the chains fallin'
-
-Mod apo slow, mod gospel slow
+Mod gospel slow, mod apo slow

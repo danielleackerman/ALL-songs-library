@@ -1,23 +1,28 @@
 ---
-title: "Holy Spirit Rain Down On Us"
-artist: "Mark Condon"
+title: Holy Spirit Rain Down On Us
+artist: Mark Condon
 key: Eb
-tempo: 
-time: 
-ccli: "3065563"
-copyright: "© 1999 Bridge Building Music, Inc. (Admin. by Brentwood-Benson Music Publishing, Inc., 741 Cool Springs Blvd., Franklin TN 37067)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "holy-spirit"
+  - holy-spirit
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3065563'
+copyright: >-
+  © 1999 Bridge Building Music, Inc. (Admin. by Brentwood-Benson Music
+  Publishing, Inc., 741 Cool Springs Blvd., Franklin TN 37067)
+source: ''
+year: ''
 medley: []
-id: "8CA66ADD-933C-4CEC-98B8-32A8FB3343C0"
+id: 8CA66ADD-933C-4CEC-98B8-32A8FB3343C0
 ---
-
 CHORUS 1:
 
 H[Eb]oly S[Fm/Eb]pirit [Eb]rai[Ab/Eb]n down[Eb] on u[Ab/Eb]s     [Eb]

@@ -1,24 +1,27 @@
 ---
-title: "Praise You In This storm"
-artist: "Casting Crowns"
+title: Praise You In This storm
+artist: Casting Crowns
 key: Ebm
-tempo: 
-time: 
-ccli: "4543620"
-copyright: "2005 Word Music, LLC / BanaHama Tunes / SWECS Music / Club Zoo Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "help"
+  - praise
+  - help
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4543620'
+copyright: '2005 Word Music, LLC / BanaHama Tunes / SWECS Music / Club Zoo Music'
+source: ''
+year: ''
 medley: []
-id: "791320AC-F906-449E-90ED-D964348FBA38"
+id: 791320AC-F906-449E-90ED-D964348FBA38
 ---
-
 INTRO:
 [Ebm] [B] [Gb] [Bbm]
 

@@ -1,24 +1,27 @@
 ---
-title: "Precious Blood"
-artist: "Lanny Wolfe"
+title: Precious Blood
+artist: Lanny Wolfe
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "blood"
+  - altar-songs
+  - blood
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "BAC32F30-6C23-4208-886C-2194EE323120"
+id: BAC32F30-6C23-4208-886C-2194EE323120
 ---
-
 [F]So many years,  so [Bb/C]many lambs were [F]offered up [Bb/C]
 But all the [F]blood that was spilled could [G]never fill  [G7]that [Bb/C]bitter  [C]cup
 [F]Till one spotless lamb,  in the [Eb/C]form of [F7/A]man, gave His [Bb6]life   on Calvary [Gm]

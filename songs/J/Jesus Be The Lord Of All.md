@@ -1,33 +1,36 @@
 ---
-title: "Jesus Be The Lord Of All"
-artist: "Lanny and Marietta Wolfe"
+title: Jesus Be The Lord Of All
+artist: Lanny and Marietta Wolfe
 key: Db
-tempo: 74
-time: "4/4"
-ccli: "7291"
-copyright: "1975 Lanny Wolfe Music, Admin. Capitol CMG Publishing"
+bpm: '74'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "jesus"
-  - "guidance"
+  - altar-songs
+  - jesus
+  - guidance
 genre: []
-energy: medium-slow
 profile:
-  - "os-apo-slow"
-  - "lordship-of-jesus"
-keywords: "os apo slow, guidance, lordship of jesus"
-source: "Original Key F"
-year: 
+  - os-apo-slow
+  - lordship-of-jesus
+keywords: 'os apo slow, guidance, lordship of jesus'
+ccli: '7291'
+copyright: '1975 Lanny Wolfe Music, Admin. Capitol CMG Publishing'
+source: Original Key F
+year: ''
 medley:
-  - "[[I WILL GIVE YOU ALL]]"
-  - "[[I SURRENDER ALL]]"
-  - "[[JESUS AT THE CENTER]]"
-  - "[[I GIVE YOU JESUS]]"
-  - "[[LORD]]"
-  - "[[I’M AVAILABLE TO YOU]]"
-id: "34441AA1-1CED-4CD4-B1E4-D61AF770A442"
+  - '[[I WILL GIVE YOU ALL]]'
+  - '[[I SURRENDER ALL]]'
+  - '[[JESUS AT THE CENTER]]'
+  - '[[I GIVE YOU JESUS]]'
+  - '[[LORD]]'
+  - '[[I’M AVAILABLE TO YOU]]'
+id: 34441AA1-1CED-4CD4-B1E4-D61AF770A442
 ---
-
 Expressive, loosely, rubato
 
 Medley: I will give You all / I surrender all / Jesus at the center / I give You Jesus / Lord, I’m available to You

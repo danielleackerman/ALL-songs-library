@@ -1,39 +1,43 @@
 ---
-title: "God Is Good All the Time"
-artist: "Gaither Vocal Band"
+title: God Is Good All the Time
+artist: Gaither Vocal Band
 key: G
-tempo: 134
-time: 
-ccli: 
-copyright: 
+bpm: '134'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - jesus-movement
+  - maranatha
+  - medium
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-ccm-choir-choruses-congregational-contemporary-energetic-jesus-movement-maranatha-medium-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-ccm-choir-choruses-congregational-contemporary-energetic-jesus-movement-maranatha-medium-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "13E8DB64-2532-41D6-A148-D76FCBF34021"
+id: 13E8DB64-2532-41D6-A148-D76FCBF34021
 ---
-
 CHORUS:
 [G]God is good, yes, He is, He's good all the [G7]time
 [C]God is good, you know He is, He's good all the [G]time

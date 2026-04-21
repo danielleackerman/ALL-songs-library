@@ -1,23 +1,26 @@
 ---
-title: "Speaking Louder Than Before"
-artist: "Jeremy Camp"
+title: Speaking Louder Than Before
+artist: Jeremy Camp
 key: B
-tempo: 
-time: 
-ccli: "5322266"
-copyright: "2008 Thirsty Moon River Publishing / Stolen Pride Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5322266'
+copyright: 2008 Thirsty Moon River Publishing / Stolen Pride Music
+source: ''
+year: ''
 medley: []
-id: "05EB370E-1DC7-4B4B-B98C-026F70E14DF3"
+id: 05EB370E-1DC7-4B4B-B98C-026F70E14DF3
 ---
-
 Intro – B (4 Measures)
 
 VERSE 1:

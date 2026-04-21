@@ -1,33 +1,37 @@
 ---
-title: "You Are My Hiding Place"
-artist: "Michael James Ledner"
+title: You Are My Hiding Place
+artist: Michael James Ledner
 key: Bm
-tempo: 
-time: 
-ccli: "21442"
-copyright: "1981 Maranatha! Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "deliverance"
-  - "strength"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - deliverance
+  - strength
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '21442'
+copyright: 1981 Maranatha! Music
+source: ''
 year: 1980
 medley: []
-id: "F5F6984A-9B1F-40BD-B5A8-BE7599DDB453"
+id: F5F6984A-9B1F-40BD-B5A8-BE7599DDB453
 ---
-
 [Bm]You are my [Em]hiding place,
 [A]You always [Dsus]fill my [D/C#]heart,
 With [G/B]songs of deli[Em]verance

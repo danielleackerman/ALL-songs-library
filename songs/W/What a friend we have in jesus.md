@@ -1,24 +1,27 @@
 ---
-title: "What a Friend We Have in Jesus"
-artist: "Artist Name"
+title: What a Friend We Have in Jesus
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "friend"
+  - jesus
+  - friend
 genre: []
-energy: 
 profile:
-  - "black-gospel-opera"
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - black-gospel-opera
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "EC920592-6F01-4608-9F71-DE6A63B36470"
+id: EC920592-6F01-4608-9F71-DE6A63B36470
 ---
-
 

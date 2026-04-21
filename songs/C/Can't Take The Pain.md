@@ -1,22 +1,25 @@
 ---
-title: "Can't Take The Pain"
-artist: "Third Day"
+title: Can't Take The Pain
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "3012774"
-copyright: "1999 New Spring Publishing, Inc. / Gray Dot Songs / Vandura 2500 Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3012774'
+copyright: '1999 New Spring Publishing, Inc. / Gray Dot Songs / Vandura 2500 Songs'
+source: ''
+year: ''
 medley: []
-id: "BC61B7A3-3375-4349-8D37-9ECB946FA14B"
+id: BC61B7A3-3375-4349-8D37-9ECB946FA14B
 ---
-
 Intro: G C G
 
 [G]No, I didn't see [C]th[-]is[G] one coming.

@@ -1,24 +1,27 @@
 ---
-title: "All My Worship"
-artist: "Key : Db"
+title: All My Worship
+artist: 'Key : Db'
 key: Db
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "worship"
+  - praise
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "146DD57D-5871-419A-B437-18AFF2857E2C"
+id: 146DD57D-5871-419A-B437-18AFF2857E2C
 ---
-
 VERSE 1:
 [Db2]In the secret place of the most [Db2/Bb]high,       it's where I  [Db2/Gb]abide
 

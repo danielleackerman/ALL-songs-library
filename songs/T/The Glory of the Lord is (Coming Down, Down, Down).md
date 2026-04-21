@@ -1,24 +1,27 @@
 ---
-title: "The Glory of the Lord is (Coming Down, Down, Down)"
-artist: ""
+title: 'The Glory of the Lord is (Coming Down, Down, Down)'
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F291195B-79DB-4395-BDAA-BED266A82223"
+id: F291195B-79DB-4395-BDAA-BED266A82223
 ---
-
 [Bb/C]Coming  [F]down,  down,  [F7/A]down
 
 Coming   [Bb7]down,    down,   [F]down [A7]oh

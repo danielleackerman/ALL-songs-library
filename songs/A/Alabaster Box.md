@@ -1,28 +1,31 @@
 ---
-title: "Alabaster Box"
-artist: "Janice Lyn Sjostrand, sung by Cece Winans"
+title: Alabaster Box
+artist: 'Janice Lyn Sjostrand, sung by Cece Winans'
 key: G
-tempo: 
-time: 
-ccli: "2825962"
-copyright: "2004 Little Pooky’s Music, Admin. Pure Psalms Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile:
-  - "black-gospel-opera"
-  - "cont-gospel-slow"
-keywords: "cont. gospel slow"
-source: 
-year: 
+  - black-gospel-opera
+  - cont-gospel-slow
+keywords: cont. gospel slow
+ccli: '2825962'
+copyright: '2004 Little Pooky’s Music, Admin. Pure Psalms Music'
+source: ''
+year: ''
 medley:
-  - "[[At Your Feet]]"
-  - "[[At Your Feet 2]]"
-id: "50886283-0AE5-48D8-8620-EA421BA69D61"
+  - '[[At Your Feet]]'
+  - '[[At Your Feet 2]]'
+id: 50886283-0AE5-48D8-8620-EA421BA69D61
 ---
-
 {artist: Janice Lyn Sjostrand, sung by Cece Winans}
 
 INTRO:

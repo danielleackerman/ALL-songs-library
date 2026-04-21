@@ -1,27 +1,30 @@
 ---
-title: "Nearing Home"
-artist: "Joan Ewing, Sing Unto The Lord Songbook"
+title: Nearing Home
+artist: 'Joan Ewing, Sing Unto The Lord Songbook'
 key: Eb
-tempo: 
-time: "3/4"
-ccli: "1161088"
-copyright: "1978 Word Music, LLC. (Admin. by Word Entertainment, LLC)"
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "home"
-  - "sutl"
+  - altar-songs
+  - home
+  - sutl
 genre: []
-energy: 
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow, sutl"
-source: "9"
-year: 
+  - os-apo-slow
+keywords: 'os apo slow, sutl'
+ccli: '1161088'
+copyright: '1978 Word Music, LLC. (Admin. by Word Entertainment, LLC)'
+source: '9'
+year: ''
 medley:
-  - "[[IF THAT ISN’T LOVE]]"
-id: "3FD18DAF-7B68-45DE-A074-25D2B7366BAC"
+  - '[[IF THAT ISN’T LOVE]]'
+id: 3FD18DAF-7B68-45DE-A074-25D2B7366BAC
 ---
-
 Medley: if that isn’t love
 
 VERSE 1:

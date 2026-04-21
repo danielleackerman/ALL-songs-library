@@ -1,24 +1,27 @@
 ---
-title: "Adonai-in Process"
-artist: "Avalon"
+title: Adonai-in Process
+artist: Avalon
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: "1997 Dayspring Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "father"
-  - "hope"
+  - father
+  - hope
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: '1997 Dayspring Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "295D9442-EF8A-4997-B96C-E52EA40DF629"
+id: 295D9442-EF8A-4997-B96C-E52EA40DF629
 ---
-
 Intro:  Absus   Ab   Cm7   Db(add 2)  Absus    Ab  Ab/C  Db(add2)
 ----------------------------------------------------------------------
 

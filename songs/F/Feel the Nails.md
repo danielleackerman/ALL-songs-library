@@ -1,22 +1,25 @@
 ---
-title: "Feel the Nails"
-artist: "Ray Boltz"
+title: Feel the Nails
+artist: Ray Boltz
 key: C
-tempo: 
-time: 
-ccli: "429525"
-copyright: "1989 Sonworshipers Music / Shepherd Boy Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '429525'
+copyright: 1989 Sonworshipers Music / Shepherd Boy Music
+source: ''
+year: ''
 medley: []
-id: "59F7A05F-9DB0-473B-A3F9-38A3F1DFE618"
+id: 59F7A05F-9DB0-473B-A3F9-38A3F1DFE618
 ---
-
 [Am]          [Em7]    [|]         [F2]          [Am9]    [|]         [BbMaj9]               [G9sus]               [|]   [C2(no3)]        [|]         [Fmaj7/C]        [|]
 
 [C2(no3)]               [Fmaj7/C]             [C2]                                [|]    [C2(no3)]

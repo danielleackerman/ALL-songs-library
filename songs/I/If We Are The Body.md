@@ -1,24 +1,27 @@
 ---
-title: "If We Are The Body"
-artist: "Casting Crowns"
+title: If We Are The Body
+artist: Casting Crowns
 key: G
-tempo: 
-time: 
-ccli: "4196589"
-copyright: "2003 SWECS Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "teaching"
+  - love
+  - teaching
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4196589'
+copyright: 2003 SWECS Music
+source: ''
+year: ''
 medley: []
-id: "800C9E88-1F7D-4356-B9AD-04E1C29B9CEB"
+id: 800C9E88-1F7D-4356-B9AD-04E1C29B9CEB
 ---
-
 Capo 2nd fret
 
 Intro/Outro	E  3<->2

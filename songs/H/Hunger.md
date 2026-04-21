@@ -1,38 +1,42 @@
 ---
-title: "Hunger"
-artist: "Mitch Wong / Madison Gracie Binion"
+title: Hunger
+artist: Mitch Wong / Madison Gracie Binion
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "medium-slow"
-  - "praise"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "hunger"
-  - "immerse"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - medium-slow
+  - praise
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - hunger
+  - immerse
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-medium-slow-praise-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-medium-slow-praise-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "BC8DCD61-960D-4F8C-AD9C-76D02CDA2CED"
+id: BC8DCD61-960D-4F8C-AD9C-76D02CDA2CED
 ---
-
 INTRO:
 [Am] [G] [Dsus] [D]
 [Am] [G] [Dsus] [D]

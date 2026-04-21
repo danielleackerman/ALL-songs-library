@@ -1,51 +1,53 @@
 ---
-title: "The Blood Will Never Lose Its Power"
-artist: "Burbank"
-key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: The Blood Will Never Lose Its Power
+artist: Burbank
+key: G
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "blood"
-  - "power"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - blood
+  - power
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "EB04C38F-D429-476D-9F7B-3069954F44C3"
+id: 1A10EE5C-6701-4E41-B2C3-70FD95637622
 ---
-
-Key of: G
-
 VERSE 1:
-The [Eb]blood that [Eb7/G]Jesus [Ab]shed for [Eb]me,
-[G]Way [G7/B]back on [Cm7]Calva[Db/Bb]ry,
-[G+/A]Oh the [AbM7]blood that gives me [A]strength,
-from [Eb/Bb]day to [C7(b9)]day,
-It will [Fm]n[Eb/G]e[Fm/Ab]ver [Eb/Bb]lose [Bb7]its [Eb]power!
+The [G]blood that [G7/B]Jesus [C]shed for [G]me,
+[B]Way [B7/D#]back on [Em7]Calva[F/D]ry,
+[B+/Db]Oh the [CM7]blood that gives me [C#]strength,
+from [G/D]day to [E7(b9)]day,
+It will [Am]n[G/B]e[Am/C]ver [G/D]lose [D7]its [G]power!
 
 CHORUS:
-[Gm7]F[Gbm7]or [Fm7]it reaches to the [Bb7]highest [Eb]mountain
-[Gm7]And [Gbm7]it [Fm7]flows to the [Bb7]lowest [Eb]valley,
-[Db/Bb] [G+/A]Oh the [AbM7]blood that gives me [A]strength from [Eb/Bb]day to [C7(b9)]day,
-It will [Fm]n[Eb/G]e[Fm/Ab]ver [Eb/Bb]lose [Bb7]its [Eb]power!
+[Bm7]F[Bbm7]or [Am7]it reaches to the [D7]highest [G]mountain
+[Bm7]And [Bbm7]it [Am7]flows to the [D7]lowest [G]valley,
+[F/D] [B+/Db]Oh the [CM7]blood that gives me [C#]strength from [G/D]day to [E7(b9)]day,
+It will [Am]n[G/B]e[Am/C]ver [G/D]lose [D7]its [G]power!
 
 VERSE 2:
-It [Eb]soothes my [Eb7/G]doubts and it [Ab]calms my [Eb]fears,
-[G]And that [G7/B]same blood [Cm7]dries all my [Db/Bb]tears,
-[G+/A]Oh the [AbM7]blood that gives me [A]strength,
-from [Eb/Bb]day to [C7(b9)]day,
-It will [Fm]n[Eb/G]e[Fm/Ab]ver [Eb/Bb]lose [Bb7]its [Eb]power!
+It [G]soothes my [G7/B]doubts and it [C]calms my [G]fears,
+[B]And that [B7/D#]same blood [Em7]dries all my [F/D]tears,
+[B+/Db]Oh the [CM7]blood that gives me [C#]strength,
+from [G/D]day to [E7(b9)]day,
+It will [Am]n[G/B]e[Am/C]ver [G/D]lose [D7]its [G]power!

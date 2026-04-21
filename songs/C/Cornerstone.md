@@ -1,23 +1,26 @@
 ---
-title: "Cornerstone"
-artist: "Hillsong Worship"
+title: Cornerstone
+artist: Hillsong Worship
 key: C
-tempo: 
-time: 
-ccli: "6158927"
-copyright: "2011 Hillsong Music Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "cornerstone"
+  - cornerstone
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6158927'
+copyright: 2011 Hillsong Music Publishing
+source: ''
+year: ''
 medley: []
-id: "2EDADE15-9C62-4DB3-804F-C180AAB913BE"
+id: 2EDADE15-9C62-4DB3-804F-C180AAB913BE
 ---
-
 Psalm 118:21-23, Isaiah 28:16, Matthew 21:41-43
 
 INTRO:

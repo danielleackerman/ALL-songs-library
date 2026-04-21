@@ -1,24 +1,27 @@
 ---
-title: "Love Them Like Jesus"
-artist: "Casting Crowns"
+title: Love Them Like Jesus
+artist: Casting Crowns
 key: C
-tempo: 
-time: 
-ccli: "4543613"
-copyright: "2005 Word Music, LLC / BanaHama Tunes / SWECS Music / Club Zoo Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4543613'
+copyright: '2005 Word Music, LLC / BanaHama Tunes / SWECS Music / Club Zoo Music'
+source: ''
+year: ''
 medley: []
-id: "532C97D1-0735-4343-91E5-16CDE462B639"
+id: 532C97D1-0735-4343-91E5-16CDE462B639
 ---
-
 INTRO:
 [C]  -  [G]  -  [Am]  -  [F]
 

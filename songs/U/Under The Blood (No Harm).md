@@ -1,25 +1,28 @@
 ---
-title: "Under The Blood (No Harm)"
-artist: "Darrell Rodman, Fred Bock"
+title: Under The Blood (No Harm)
+artist: 'Darrell Rodman, Fred Bock'
 key: G
-tempo: 
-time: 
-ccli: "172487"
-copyright: "1982 Fred Bock  Music Company (Admin. by Fred Bock Music Company, Inc.)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "blood"
-  - "dance"
+  - blood
+  - dance
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '172487'
+copyright: '1982 Fred Bock  Music Company (Admin. by Fred Bock Music Company, Inc.)'
+source: ''
+year: ''
 medley:
-  - "[[THE DEVIL DON'T ALLOW]]"
-id: "664D7123-9798-4614-97E8-A9F563F8E2D8"
+  - '[[THE DEVIL DON''T ALLOW]]'
+id: 664D7123-9798-4614-97E8-A9F563F8E2D8
 ---
-
 Original key f
 
 Medley: the Devil don't allow

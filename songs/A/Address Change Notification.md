@@ -1,35 +1,39 @@
 ---
-title: "Address Change Notification"
-artist: "Rev. J. Michael Wilson"
+title: Address Change Notification
+artist: Rev. J. Michael Wilson
 key: F
-tempo: 77
-time: 
-ccli: 
-copyright: 
+bpm: '77'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med-slow"
-keywords: "os apo med slow"
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med-slow
+keywords: os apo med slow
+ccli: ''
+copyright: ''
+source: ''
 year: 1984
 medley: []
-id: "B54DA05B-CA66-4424-B035-67091EFB7905"
+id: B54DA05B-CA66-4424-B035-67091EFB7905
 ---
-
 VERSE 1:
 I've been [F]living in[C] this world for [F]quite a long time
 Always [Bb]looking for a [Bb/C]place to call my [F]home

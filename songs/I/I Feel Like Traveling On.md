@@ -1,37 +1,43 @@
 ---
-title: "I Feel Like Traveling On"
-artist: "Wm. Hunter, D.D."
+title: I Feel Like Traveling On
+artist: 'Wm. Hunter, D.D.'
 key: G
-tempo: 124
-time: "4/4"
-ccli: "6203827"
-copyright: "Words: Public Domain, Music: 1987, 1994 Penny Annie Music (Admin. by Words & Music, a Division of Big Deal Music, LLC)"
+bpm: '124'
+time_sig: 4/4
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "home"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - home
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med-fast"
-keywords: "os apo med fast"
-source: "Sing Unto The Lord Songbook - 24"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med-fast
+keywords: os apo med fast
+ccli: '6203827'
+copyright: >-
+  Words: Public Domain, Music: 1987, 1994 Penny Annie Music (Admin. by Words &
+  Music, a Division of Big Deal Music, LLC)
+source: Sing Unto The Lord Songbook - 24
+year: ''
 medley: []
-id: "FA934E19-5A87-4ABE-B994-5F94089654A0"
+id: FA934E19-5A87-4ABE-B994-5F94089654A0
 ---
-
 VERSE 1:
 [G]My heaven’ly home is bright and fair, I feel like trav[D/F#]el[C#dim]ing [D]on,
 [G]Nor pain, nor death can enter there, I [G/D]feel like travel[D7]ing [G]on.

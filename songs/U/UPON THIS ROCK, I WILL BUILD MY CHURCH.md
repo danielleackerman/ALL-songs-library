@@ -1,23 +1,26 @@
 ---
-title: "Upon This Rock, I Will Build My Church"
-artist: ""
+title: 'Upon This Rock, I Will Build My Church'
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "rock"
+  - rock
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "6F52C625-36C3-40C8-B9E3-637E01D7DE15"
+id: 6F52C625-36C3-40C8-B9E3-637E01D7DE15
 ---
-
 Bassline or run:
 [C][B[A][D][D]
 

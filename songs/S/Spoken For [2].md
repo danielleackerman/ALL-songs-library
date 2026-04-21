@@ -1,55 +1,115 @@
 ---
-title: "Spoken For"
-artist: "MercyMe"
-key: D
-tempo: 
-time: 
-ccli: "3912537"
-copyright: "2002 Simpleville Music / Songs From The Indigo Room / Wordspring Music, LLC"
+title: Spoken For
+artist: MercyMe
+key: C
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2002 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "D953B2BC-80F5-4DF3-9ADC-F2D254C2919A"
+id: 42324CAC-862C-4CA7-82CE-6A13B739EFE4
 ---
+[C]   [Fm][a]j9   [Am7]    [Fm][a]j9 [C]  [Fm][a]j9  [Am7](4) [Fm][a]j9
 
-[D]   [G]   [Bm]   [G]
+[C]     Take this world from me[Fmaj9]
 
-VERSE 1:
-[D]Take[Em] this[G] worl[Bm]d from me,        I do[A]n't n[G]eed it anymore
-[D]For [Em]I am fina[G]lly free,   [Bm]       My Hear[A]t is s[G]poken for
-And [Bm]oh and I [G]praise you, [Bm]   And oh and[A] I worship you
+[Am7(4)]      I don’t need it anymore[Fmaj9]
 
-Refrain
-[D]Covered by y[G]our love divi[Bm]ne,       Child of the ris[G]en Lord
-[D]To h[G]ear you say this[Bm] one's mine     My heart [G]is spoken for
+[C]      I am     fin’lly   free[Fmaj9]
 
-INTERLUDE:
-[D]	[G]     [Bm]               [G]
+Am7(4)               Am7(4)     Fmaj9
+                               G
+       My heart is spoken for
 
+Chorus___________________
+[Am7(4)]       Oh  and I praise  [Fmaj9]  You
+
+[Am7(4)]       Oh,  and I worship    [G7sus]  You
+
+C                         f2,6
+     Covered by a love divine,
+
+Am7(4)                    Am7        F2,6
+                                   G
+         Child of  the  risen lord
+
+C                                   f2,6
+      To hear you say     This one’s mine
+
+Am7(4)                 Am7(4)       F2,6
+                                  G
+       My heart is spo  - ken for
+
+ C        Fmaj9    Am7(4)    Am7     F2(no3)
+                              G
+_____________________________
 VERSE 2:
-[D]Now I[Em] hav[G]e a peace, [Bm]          I’ve n[A]ever know[G]n before
-[D]I fi[Em]nd mysel[G]f complet[Bm]e,          My hear[A]t is [G]spoken for
-And[Bm] oh and I [G]praise you,    An[Bm]d oh and I [A]worship you
-[D]Cov[G]ered by yo[Bm]ur love divine,       Ch[G]ild of the risen Lord
-[D]To h[G]ear you say this one[Bm]'s mine     My[G] heart is spoken for
+[C]         Now I have a peace[Fmaj9]
 
-BRIDGE:
-[Cmaj7]By the power of the cross,  Taken what was lost[Asus]
-And made[A] it fully yours[Cmaj7],
-And I have been redeemed,   For y[Asus]ou have spoken to me,
-Now I[A] am spo[D]ken for
+[Am7(4)]      That I’ve never known before[Fmaj9]
 
-CHORUS:
-[D]Covered by [G]your love div[Bm]ine,       Child of the risen[G] Lord
-[D]To h[G]ear you say this[Bm] ones mine    [G] My heart is spoken for
-[D]Covered by [G]your love di[Bm]vine,       Child of the risen[G] Lord
-[D]To h[G]ear you say this[Bm] one’s mine     My heart i[G]s spoken for
+[C]     I find myself complete[Fmaj9]
 
-D
-Take this world from me,           I don't need it anymore
+Am7(4)               Am7(4)     Fmaj9
+                               G
+       My heart is spoken for
+
+Chorus___________________
+
+[Am7(4)]       Oh  and I praise  [Fmaj9]  You
+
+[Am7(4)]       Oh,  and I worship    [G7sus]  You
+
+C                         f2,6
+     Covered by a love divine,
+
+Am7(4)                    Am7        F2,6
+                                   G
+         Child of  the  risen lord
+
+C                                   f2,6
+      To hear you say     This one’s mine
+
+Am7(4)                 Am7(4)       F2,6
+                                  G
+       My heart is spo  - ken for
+
+Bridge to ending:
+
+Bb2(#4)
+      By the power of the cross
+      You’ve taken what was lost[G7sus]
+                        G7                     Bb2(#4)
+      And made      it fully yours
+
+      And I have been redeemed
+      by you who spoke to me[G7sus]
+      Now I       [G7]am spoken for
+
+Repeat:
+
+C                         f2,6
+     Covered by a love divine,
+
+Am7(4)                    Am7        F2,6
+                                   G
+         Child of  the  risen lord
+
+C                                   f2,6
+      To hear you say     This one’s mine
+
+Am7(4)                 Am7(4)       F2,6
+                                  G
+       My heart is spo  - ken for

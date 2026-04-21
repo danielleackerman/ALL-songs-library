@@ -1,23 +1,26 @@
 ---
-title: "Won’t We Have A Time?"
-artist: ""
+title: Won’t We Have A Time?
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "os-apo-fast"
-keywords: "os apo fast"
-source: 
-year: 
+  - os-apo-fast
+keywords: os apo fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CE3C8F23-6218-41CD-A8D3-314428B0A019"
+id: CE3C8F23-6218-41CD-A8D3-314428B0A019
 ---
-
 [F]Won’t we have a time,  when we get over yond[F7]er
 [Bb7]Won’t we have a time, when we get over [F]yonder
 [F]Won’t we have a time when [A7]we  get [CA7/Db]over [Dm7]yonder,

@@ -1,23 +1,26 @@
 ---
-title: "It Will Be Worth It All (When We See Christ)"
-artist: "Esther K. Rusthoi"
+title: It Will Be Worth It All (When We See Christ)
+artist: Esther K. Rusthoi
 key: D
-tempo: 92
-time: "2/2"
-ccli: 
-copyright: 
+bpm: '92'
+time_sig: 2/2
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "christ"
+  - christ
 genre: []
-energy: medium
 profile: []
-keywords: 
-source: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
 year: 1940
 medley: []
-id: "C119018C-5A75-47BE-9B7B-6464143155EB"
+id: C119018C-5A75-47BE-9B7B-6464143155EB
 ---
-
 {artist: Esther K. Rusthoi, 1940}
 
 VERSE 1:

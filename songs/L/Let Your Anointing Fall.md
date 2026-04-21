@@ -1,22 +1,25 @@
 ---
-title: "Let Your Anointing Fall"
-artist: "Sammy Ward"
+title: Let Your Anointing Fall
+artist: Sammy Ward
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "2000 40 Psalms Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2000 40 Psalms Music
+source: ''
+year: ''
 medley: []
-id: "1A211A18-D9FA-4B12-9987-38AA96FAE8B4"
+id: 1A211A18-D9FA-4B12-9987-38AA96FAE8B4
 ---
-
 [D]Let your anointing fa[G]ll on us a[D]ll
 A holy dow[EM7]npour like never be[D/F#]fore
 [D]let your anointing fa[G]ll on us a[D]ll

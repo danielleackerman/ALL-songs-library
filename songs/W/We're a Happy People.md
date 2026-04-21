@@ -1,22 +1,25 @@
 ---
-title: "We're a Happy People"
-artist: ""
+title: We're a Happy People
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4A1DEAE8-2564-48A1-AEF8-60C341EF1239"
+id: 4A1DEAE8-2564-48A1-AEF8-60C341EF1239
 ---
-
 Book: CHILDREN'S
 
 Artist Name

@@ -1,23 +1,28 @@
 ---
-title: "Orphans Of God"
-artist: "by Twila Labar & Joel Lindsey"
+title: Orphans Of God
+artist: by Twila Labar & Joel Lindsey
 key: G
-tempo: 65
-time: "4/4"
-ccli: "4675732"
-copyright: "2006 Bridge Building Music, Inc. / Upright Grand Music / New Spring / Vacation Boy Music"
+bpm: '65'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "grace"
+  - grace
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: "Avalon / Lauren Talley"
-year: 
+keywords: ''
+ccli: '4675732'
+copyright: >-
+  2006 Bridge Building Music, Inc. / Upright Grand Music / New Spring / Vacation
+  Boy Music
+source: Avalon / Lauren Talley
+year: ''
 medley: []
-id: "93B994B5-A8B4-4E67-B989-067A473B7554"
+id: 93B994B5-A8B4-4E67-B989-067A473B7554
 ---
-
 INTRO:
 [|] [G] [/] [C] [/] [|] [D] [/] [Em] [/]
 [|] [G] [/] [C] [/] [|] [D] [/] [/] [/]

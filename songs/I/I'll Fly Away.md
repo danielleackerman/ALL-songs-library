@@ -1,36 +1,40 @@
 ---
-title: "I'll Fly Away"
-artist: ""
+title: I'll Fly Away
+artist: ''
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-fast"
-keywords: "os apo fast"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-fast
+keywords: os apo fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "22CD5BF9-9934-4338-A423-9C60E08873A2"
+id: 22CD5BF9-9934-4338-A423-9C60E08873A2
 ---
-
 Medley songs:
 Are You washed in the blood / I'll fly away / I saw the light / will the circle be unbroken
 

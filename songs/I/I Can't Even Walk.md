@@ -1,31 +1,35 @@
 ---
-title: "I Can't Even Walk"
-artist: "Colbert and Joyce Croft"
+title: I Can't Even Walk
+artist: Colbert and Joyce Croft
 key: G
-tempo: 
-time: 
-ccli: "307616"
-copyright: "1975 Word Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '307616'
+copyright: '1975 Word Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "26E63694-7A50-4F88-A427-64AB38328453"
+id: 26E63694-7A50-4F88-A427-64AB38328453
 ---
-
 {artist: Colbert and Joyce Croft}
 
 VERSE 1:

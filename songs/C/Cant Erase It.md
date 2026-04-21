@@ -1,22 +1,25 @@
 ---
-title: "Cant Erase It"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Cant Erase It
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "97A7AB94-BF69-42D8-8B08-D93E72C26651"
+id: 97A7AB94-BF69-42D8-8B08-D93E72C26651
 ---
-
 Key:
 
 Can’t Erase It

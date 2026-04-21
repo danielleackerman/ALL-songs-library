@@ -1,22 +1,25 @@
 ---
-title: "Pentecostal Style Playing 2"
-artist: "Vamp on the I & IV"
+title: Pentecostal Style Playing 2
+artist: Vamp on the I & IV
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E93F0659-A270-48F6-B8BF-611470F385C4"
+id: E93F0659-A270-48F6-B8BF-611470F385C4
 ---
-
 [Key of] [C]
 
 [C][E][G]	    [C][F][A][C]	     [C][Eb][G][Bb][C]

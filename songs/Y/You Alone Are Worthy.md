@@ -1,22 +1,25 @@
 ---
-title: "You Alone Are Worthy"
-artist: "by Terry Condren"
+title: You Alone Are Worthy
+artist: by Terry Condren
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3CAB597A-50F5-499E-BB68-FAF5DFE33B18"
+id: 3CAB597A-50F5-499E-BB68-FAF5DFE33B18
 ---
-
 CHORUS:
 [Ab/Bb]      [Eb]You  a[Eb/Db]lone are [AbM7]wor[Bb9]thy
 [Fm/D]       [Eb]You  a[Eb/Db]lone are [AbM7]wor[Bb2]thy

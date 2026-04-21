@@ -1,23 +1,32 @@
 ---
-title: "This is a Move"
-artist: ""
+title: This is a Move
+artist: ''
 key: Ab
-tempo: 
-time: "6/8"
-ccli: "7123068"
-copyright: "2018 Brandon Lake Music (ASCAP) (admin by Bethel Music Publishing) / Meadowgreen Music Company (ASCAP) (adm. at CapitolCMGPublishing.com) / Tasha Cobbs Music Group (ASCAP) (adm. at CapitolCMGPublishing.com) / Bethel Worship Publishing (BMI) / Tony Brown Music Designee (BMI) (admin by Bethel Worship Publishing) / Mouth of the River Music (BMI) (admin by Bethel Worship Publishing). All Rights Reserved. Used by Permission."
+bpm: ''
+time_sig: 6/8
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7123068'
+copyright: >-
+  2018 Brandon Lake Music (ASCAP) (admin by Bethel Music Publishing) /
+  Meadowgreen Music Company (ASCAP) (adm. at CapitolCMGPublishing.com) / Tasha
+  Cobbs Music Group (ASCAP) (adm. at CapitolCMGPublishing.com) / Bethel Worship
+  Publishing (BMI) / Tony Brown Music Designee (BMI) (admin by Bethel Worship
+  Publishing) / Mouth of the River Music (BMI) (admin by Bethel Worship
+  Publishing). All Rights Reserved. Used by Permission.
+source: ''
+year: ''
 medley: []
-id: "05BF71B9-BA22-402C-86F1-0ACAF413C4CA"
+id: 05BF71B9-BA22-402C-86F1-0ACAF413C4CA
 ---
-
 INTRO:
 [Ab][Db]
 

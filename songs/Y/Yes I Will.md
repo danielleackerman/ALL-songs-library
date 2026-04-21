@@ -1,24 +1,29 @@
 ---
-title: "Yes I Will"
-artist: "Bebo Norman"
+title: Yes I Will
+artist: Bebo Norman
 key: E
-tempo: 
-time: 
-ccli: "4327059"
-copyright: "2004 Meaux Mercy / New Spring Publishing, Inc. / Never Say Never Songs / Appstreet Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "cross"
+  - jesus
+  - cross
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4327059'
+copyright: >-
+  2004 Meaux Mercy / New Spring Publishing, Inc. / Never Say Never Songs /
+  Appstreet Music
+source: ''
+year: ''
 medley: []
-id: "767494C5-DC5F-4D04-B843-44EABA7DF22E"
+id: 767494C5-DC5F-4D04-B843-44EABA7DF22E
 ---
-
 Great song from Bebo's new CD Try.  Capo at II so that you're in Gb, but playing in
 E.  As always, make any correction needed.
 

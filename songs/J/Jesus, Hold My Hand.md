@@ -1,23 +1,26 @@
 ---
-title: "Jesus, Hold My Hand"
-artist: ""
+title: 'Jesus, Hold My Hand'
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "28CC10A7-C29F-424A-B5D2-5C90508C9E3C"
+id: 28CC10A7-C29F-424A-B5D2-5C90508C9E3C
 ---
-
 (Verse:1)
 
 [Eb]As  I  travel  thru  this  pilgrim  [Eb9/G]land,

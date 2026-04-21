@@ -1,24 +1,27 @@
 ---
-title: "Gloria"
-artist: "Watermark"
+title: Gloria
+artist: Watermark
 key: A
-tempo: 
-time: 
-ccli: "2587860"
-copyright: "1997 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "glory"
+  - praise
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2587860'
+copyright: '1997 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music'
+source: ''
+year: ''
 medley: []
-id: "F67FEB4C-6A55-4CBC-867C-153F7196EB63"
+id: F67FEB4C-6A55-4CBC-867C-153F7196EB63
 ---
-
 Intro A2
 
 VERSE 1:

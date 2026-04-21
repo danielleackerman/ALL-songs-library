@@ -1,37 +1,41 @@
 ---
-title: "When I Think About The Lord-my edit"
-artist: "James Huey"
+title: When I Think About The Lord-my edit
+artist: James Huey
 key: F
-tempo: 58
-time: "4/4"
-ccli: "2834496"
-copyright: "1998 CFN Music (Admin. by Music Services, Inc.)"
+bpm: '58'
+time_sig: 4/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-med"
-  - "mod-gospel-med"
-keywords: "mod apo med, mod gospel med"
-source: "1998"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-med
+  - mod-gospel-med
+keywords: 'mod apo med, mod gospel med'
+ccli: '2834496'
+copyright: '1998 CFN Music (Admin. by Music Services, Inc.)'
+source: '1998'
+year: ''
 medley:
-  - "[[USE ME]]"
-id: "ECAE5A63-C9D7-479B-B6AD-BFC73C08F00E"
+  - '[[USE ME]]'
+id: ECAE5A63-C9D7-479B-B6AD-BFC73C08F00E
 ---
-
 {artist: James Huey (1998)}
 
 Medley:use me

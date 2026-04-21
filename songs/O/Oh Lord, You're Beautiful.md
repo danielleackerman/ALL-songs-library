@@ -1,23 +1,26 @@
 ---
-title: "Oh Lord, You're Beautiful"
-artist: "Keith Green"
+title: 'Oh Lord, You''re Beautiful'
+artist: Keith Green
 key: D
-tempo: 
-time: 
-ccli: "14514"
-copyright: "1980 Birdwing Music / BMG Songs, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "help"
+  - help
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '14514'
+copyright: '1980 Birdwing Music / BMG Songs, Inc.'
+source: ''
+year: ''
 medley: []
-id: "2C5F2F74-185F-4BF3-B122-F0767A29CDAC"
+id: 2C5F2F74-185F-4BF3-B122-F0767A29CDAC
 ---
-
 [D]Oh Lord, Y[G]ou'r[D]e B[A]eautiful
 Your [D]face is a[G]ll [D]I s[A]eek
 And [Bm]when Your e[F#]yes are [Bm]on t[A]his c[D]hild

@@ -1,24 +1,27 @@
 ---
-title: "Coming Back"
-artist: "THRIVE WORSHIP"
+title: Coming Back
+artist: THRIVE WORSHIP
 key: C
-tempo: 68
-time: 
-ccli: 
-copyright: 
+bpm: '68'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9D70F45A-E87E-470F-B48B-5EA98AFACBF8"
+id: 9D70F45A-E87E-470F-B48B-5EA98AFACBF8
 ---
-
 {Intro}
 [C]   [Gsus7/D]   [Fsus2]   [C]
 

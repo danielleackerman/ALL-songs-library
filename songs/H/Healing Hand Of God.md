@@ -1,23 +1,26 @@
 ---
-title: "Healing Hand Of God"
-artist: "Jeremy Camp"
+title: Healing Hand Of God
+artist: Jeremy Camp
 key: E
-tempo: 
-time: 
-ccli: "5323708"
-copyright: "2008 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "healing"
+  - healing
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5323708'
+copyright: 2008 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "49D14F2F-153D-48D4-A753-D8EFEC007496"
+id: 49D14F2F-153D-48D4-A753-D8EFEC007496
 ---
-
 INTRO:
 [C#m]	[B]	[A] x2
 

@@ -1,24 +1,27 @@
 ---
-title: "Ain't Got Time For You, Devil"
-artist: "Walt Mills"
-key: 
-tempo: 120
-time: 
-ccli: 
-copyright: 
+title: 'Ain''t Got Time For You, Devil'
+artist: Walt Mills
+key: ''
+bpm: '120'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: medium-fast
 profile:
-  - "os-southern-gospel-fast"
-keywords: "os southern gospel fast"
-source: 
-year: 
+  - os-southern-gospel-fast
+keywords: os southern gospel fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8CFFA038-E2BB-4513-AAA3-FCC2E09303CA"
+id: 8CFFA038-E2BB-4513-AAA3-FCC2E09303CA
 ---
-
 VERSE 1:
 One night while I was sleeping, I felt a presence in my room
 I looked down at the foot of my bed and there stood Mr. Gloom

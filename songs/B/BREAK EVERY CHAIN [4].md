@@ -1,55 +1,49 @@
 ---
-title: "Break Every Chain"
-artist: "Will Reagan, performed by Tasha Cobbs"
-key: A
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Break Every Chain
+artist: Tasha Cobb
+key: Ab
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "army"
-  - "power"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "mod-gospel-slow"
-  - "contemp-christian-slow"
-keywords: "mod gospel slow, contemp christian slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+  - mod-gospel-slow
+keywords: 'mod apo slow, mod gospel slow'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B719D92D-EE13-4DCC-8231-8CADC75ECBF3"
+id: 5B10E697-05B2-4964-9F4F-6669A40FBEA5
 ---
+{artist: Tasha Cobb}
 
-Medley ; beyond the open door
+[Eb]There is [Fm]power [Db2]in the name of [Ab]Jesus [Eb]  (Repeat 3 x's)
+To break ev'ry [Fm]chain, Break ev'ry [DbM7]chain, Break ev'ry [Ab]chain[Eb]
 
-Verse 1: UNISON
-There is [F#m7]power [D]in the name of [A]Jesus [E]
-There is [F#m7]power [D]in the name of [A]Jesus [E]
-There is [F#m7]power [D]in the name of [A]Jesus [E]
-Sat
-To break every [F#m7]chain, break every [D]chain, break every [A]chain [E]
-To break every [F#m7]chain, break every [D]chain, break every [A]chain [E]
+[Eb]There's an [Fm]army [Db2]rising [Ab/Eb]up [Eb](Repeat 2x's)
+To break ev'ry [Fm]chain, Break ev'ry [DbM7]chain, Break ev'ry [Ab]chain.
 
-Verse 2:UNISON
-There's an [F#m7]army [D]risin' up [A][E]
-There's an [F#m7]army [D]risin' up [A][E]
-There's an [F#m7]army [D]risin' up [A][E]
-Sat
-To break every [F#m7]chain, break every [D]chain, break every [A]chain [E]
-To break every [F#m7]chain, break every [D]chain, break every [A]chain [E]
+BRIDGE:
+[Fm]I [Fm/Ab]hear the [Db]chains [Db/F] fallin' [Ab]  [Eb]I hear the chains fallin'
 
-Verse 3: SAT(Soprano-lead)
-[F#m7] I hear the [D]chains [A]fallin' [E]
+Mod apo slow, mod gospel slow

@@ -1,65 +1,47 @@
 ---
-title: "Blessed Be Your Name"
-artist: "Rebecca St. James"
-key: Bb
-tempo: 115
-time: 
-ccli: "3798438"
-copyright: "2002 Thankyou Music"
+title: Blessed Be Your Name
+artist: Tree63
+key: Db
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium-fast
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3798438'
+copyright: 2002 Thankyou Music
+source: ''
+year: ''
 medley: []
-id: "BE492DA7-5B7D-4616-B361-BE9DA181B8A3"
+id: A46509DC-48B5-40C9-9CEC-2EA22B39A715
 ---
+Intro:  C#2  G#   Bbm7   F#
+            (Guitar & Drums)
 
-This version of "Blessed By Your Name" is a very good upbeat song for worship services
-that have strong female voices.
+[C#2]Blessed [G#]be Your name in the [Bbm7]land that is [F#]plentiful
+Where Your [C#2]streams of ab[G#]undance flow, [F#]blessed be Your name
+(Add Bass)
+[C#2]Blessed [G#]be Your name when I'm [Bbm7]found in the [F#]desert place
+Though I [C#2]walk through the [G#]wilderness, [F#]blessed be Your name
 
-                                              Tempo:  115  bpm  4  x  4
+[C#2]Every blessing [G#]You pour out I'll [Bbm7]turn back to [F#]praise				(Down)
+[C#2]When the darkness [G#]closes in Lord [Bbm7]still I will [F#]say
 
-Intro:   /    /    /    /    /    /    /    /    /    /    /    /    /    /    /    /
-        F (16 Count)  Synth + Drums
+Blessed be the [C#2]name of the [G#]Lord			   (Rockin-Add Band)    (Building)   (Rocking)
+Blessed be Your [Bbm7]name       [F#]
+Blessed be the [C#2]name of the [G#]Lord
+Blessed be Your g[Bbm7]lorious [F#]name
 
-VERSE 1:  Synth, Drums + lead Vocalist
-[F] Blessed [C/F]be Your name in the [Dm7/F]land that is ple[Bb/F]ntiful
-Where Your st[F]reams of a[C/F]bundance flow,      [Bb/F]Blessed be Your name
-[F] And blessed [C/F]be Your name when I'm [Dm7/F]found in the d[Bb/F]esert place
-Though I w[F]alk through the w[C/F]ilderness,         [Bb/F]Blessed be Your name
+C#2     G#                    Bbm7          F#			4 (-Down-)
+Blessed be Your name when the sun's shining down on me
+When the [C#2]world's as [G#]it should be' [F#]blessed be Your name
+[C#2]Blessed [G#]be Your name on the [Bbm7]Road marked with [F#]suffering
+Though there's [C#2]pain in the [G#]offering, [F#]blessed be Your name
 
-PRE-CHORUS:
-[F5] Every blessing Y[C]ou pour out I'll,              [Dm7]  turn back to pra[Bb]ise
-[F5] And when the darkness cl[C]oses in, Lord       [Dm7]Still I will s[Bb]ay
-
-Chorus:                                                         /     /     /     /     /     /     /     /     /
-Blessed be the n[F]ame of the L[C]ord,            Blessed be Your na[Dm7]me        /     /     /  [Bb]   /
-Blessed be the n[F]ame of the L[C]ord,            Blessed be Your g[Dm7]lorious na[Bb]me
-
-  /      /      /      /      /      /      /      /      /      /      /      /      /      /      /      /
-[F]                           [C]                          [Dm7]                          [Bb]
-
-VERSE 2:
-[F]Blessed [C]be Your name when the [Dm7]sun's shining d[Bb]own on me
-When the wo[F]rld's "all as [C]it should be",        [Bb]Blessed be Your name,
-[F]And blessed [C]be Your name on the [Dm7]road marked with s[Bb]uffering
-Though there's p[F]ain in the of[C]fering,            [Bb]Blessed be Your name
-
-PRE-CHORUS:
-
-Chorus  (2 times)
-
-    /      /     /     /     /     /     /     /     /     /     /     /      /     /     /     /
-[Am]                        [Bb]                     [Dm7]                       [C]
-
-BRIDGE:
-You g[Am]ive and take a[Bb]way,             You g[Dm7]ive and take a[C]way
-My h[Am]eart will choose to [Bb]say,       Lord, b[Dm7]lessed be Your n[C]ame
-
-CHORUS  (4 Times)     1. Pretty, Synth + Vocals only
-                                       2. Add Bass, Drums + Acoustic Guitar
-                                   3, 4. Add Lead Guitar
-Song-ends on f
+[C#2]You give and take [G#]away, You [Bbm7]give and take [F#]away
+[C#2]My heart will choose to [G#]say Lord [Bbm7]blessed be Your name[F#]

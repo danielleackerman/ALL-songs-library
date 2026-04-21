@@ -1,24 +1,27 @@
 ---
-title: "Sing To Jesus"
-artist: "Fernando Ortega"
+title: Sing To Jesus
+artist: Fernando Ortega
 key: G
-tempo: 
-time: 
-ccli: "3469389"
-copyright: "2002 Word Music, LLC / Dejamesolo Music / Rich Nibbe Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "life"
+  - jesus
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3469389'
+copyright: '2002 Word Music, LLC / Dejamesolo Music / Rich Nibbe Songs'
+source: ''
+year: ''
 medley: []
-id: "C628B0C2-FA8E-42FF-81FA-89CA186EA61A"
+id: C628B0C2-FA8E-42FF-81FA-89CA186EA61A
 ---
-
 [C]Come and see, look on this [Em]mystery,
                 D
 The Lord of the universe,

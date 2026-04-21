@@ -1,22 +1,25 @@
 ---
-title: "God's Been Better To Me"
-artist: ""
+title: God's Been Better To Me
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CF549689-6EDA-4038-AED8-76425823051B"
+id: CF549689-6EDA-4038-AED8-76425823051B
 ---
-
 [F]God's been better to [F7]me than [Bb7]anyone else I [F]know,
 
 [F]God's been better to [Dm]me and [G9]I'm gonna tell Him [C9]so

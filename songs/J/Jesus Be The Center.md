@@ -1,23 +1,26 @@
 ---
-title: "Jesus Be The Center"
-artist: "Israel Houghton"
+title: Jesus Be The Center
+artist: Israel Houghton
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D7100428-846B-462C-BAF4-806AED141F09"
+id: D7100428-846B-462C-BAF4-806AED141F09
 ---
-
 VERSE 1:
 [F]Jesus at the [Gm7]center of it [F/A]all
 [Bb]Jesus at the [F/A]center of it [Gm7]all[Bb/C][C]

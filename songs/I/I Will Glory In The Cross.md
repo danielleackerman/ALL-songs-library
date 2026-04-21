@@ -1,24 +1,27 @@
 ---
-title: "I Will Glory In The Cross"
-artist: "Dottie Rambo"
+title: I Will Glory In The Cross
+artist: Dottie Rambo
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "cross"
-  - "glory"
+  - cross
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E78B02A2-0C5C-45F4-981E-27E65D806B19"
+id: E78B02A2-0C5C-45F4-981E-27E65D806B19
 ---
-
 (Verse:1)
 
 I [G]boast not of works,  nor [C]tell of good deeds

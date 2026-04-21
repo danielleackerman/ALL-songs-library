@@ -1,22 +1,25 @@
 ---
-title: "Better Is One Day"
-artist: "Passion Band"
+title: Better Is One Day
+artist: Passion Band
 key: E
-tempo: 
-time: 
-ccli: "1097451"
-copyright: "1995 Thankyou Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1097451'
+copyright: 1995 Thankyou Music
+source: ''
+year: ''
 medley: []
-id: "59EE65D3-83A7-43E2-8291-6717409438F2"
+id: 59EE65D3-83A7-43E2-8291-6717409438F2
 ---
-
 VERSE 1:
 How [E]Lovely is your dwelling place,  Oh [A2]Lord Almighty  [Bsus]
 For [E]my soul longs and even faints for You  [Bsus]

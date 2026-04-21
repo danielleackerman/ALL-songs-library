@@ -1,21 +1,24 @@
 ---
-title: "Thank You All"
-artist: "Third Day"
+title: Thank You All
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "thank"
+  - thank
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3A186C23-7534-429B-B3E6-EF9FAAF6D4C7"
+id: 3A186C23-7534-429B-B3E6-EF9FAAF6D4C7
 ---
-
 

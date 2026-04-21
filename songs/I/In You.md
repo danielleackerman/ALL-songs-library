@@ -1,22 +1,25 @@
 ---
-title: "In You"
-artist: "MercyMe"
+title: In You
+artist: MercyMe
 key: C
-tempo: 
-time: 
-ccli: "3479843"
-copyright: "2001 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3479843'
+copyright: 2001 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "FA63B97C-8F2E-4A8D-82FE-501EA9E5C4A1"
+id: FA63B97C-8F2E-4A8D-82FE-501EA9E5C4A1
 ---
-
 VERSE 1:
 [G]I put my hope in Yo[Dm]u
 I l[F]ay my life in palm of your ha[G]nd

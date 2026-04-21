@@ -1,36 +1,40 @@
 ---
-title: "Let There Be Glory"
-artist: "James and Elisabeth Greenelsh"
+title: Let There Be Glory
+artist: James and Elisabeth Greenelsh
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "glory"
-  - "honor"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - glory
+  - honor
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-  - "mod-apo-med"
-keywords: 
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+  - mod-apo-med
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1E065AEB-3991-440F-BD7B-B07B2CE0E8A5"
+id: 1E065AEB-3991-440F-BD7B-B07B2CE0E8A5
 ---
-
 Key : [G]
 time signature: 3/4
 Keywords: MOD APO MED

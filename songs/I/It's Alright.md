@@ -1,22 +1,25 @@
 ---
-title: "It's Alright"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: It's Alright
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5E658918-9A63-4CF3-B310-B58B06637DE1"
+id: 5E658918-9A63-4CF3-B310-B58B06637DE1
 ---
-
 Key:
 Copyright: 2001 New Spring Publishing, Inc. / Vandura 2500 S
 

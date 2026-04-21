@@ -1,35 +1,39 @@
 ---
-title: "Here I Am To Worship - version 2"
-artist: "Tim Hughes"
+title: Here I Am To Worship - version 2
+artist: Tim Hughes
 key: E
-tempo: 
-time: 
-ccli: "3266032"
-copyright: "2000 Thankyou Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-med
+keywords: mod apo med
+ccli: '3266032'
+copyright: 2000 Thankyou Music
+source: ''
+year: ''
 medley: []
-id: "468CC8E3-984C-400A-9558-CE3759ABE716"
+id: 468CC8E3-984C-400A-9558-CE3759ABE716
 ---
-
 VERSE 1:
 [E]Light of the [Bsus]world
 You stepped [F#m]down into dark[A]ness

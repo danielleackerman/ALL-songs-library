@@ -1,24 +1,27 @@
 ---
-title: "HE'S AN AWESOME GOD--LYRICS ONLY (Yandris arrangement)"
-artist: "Mark Yandris"
+title: HE'S AN AWESOME GOD--LYRICS ONLY (Yandris arrangement)
+artist: Mark Yandris
 key: C
-tempo: 148
-time: 
-ccli: 
-copyright: 
+bpm: '148'
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "angels"
-  - "awesome"
+  - angels
+  - awesome
 genre: []
-energy: high
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E4FBFC0F-BB1D-4521-B930-00608391CF9B"
+id: E4FBFC0F-BB1D-4521-B930-00608391CF9B
 ---
-
 148 bpm
 [C]
 

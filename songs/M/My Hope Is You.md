@@ -1,23 +1,26 @@
 ---
-title: "My Hope Is You"
-artist: "Third Day"
+title: My Hope Is You
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "2373672"
-copyright: "1997 New Spring publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "hope"
+  - hope
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2373672'
+copyright: 1997 New Spring publishing
+source: ''
+year: ''
 medley: []
-id: "CDA34323-9A85-44DC-9258-7BC64FF0774B"
+id: CDA34323-9A85-44DC-9258-7BC64FF0774B
 ---
-
 (Verse 1)
 
 ////            ////        ////      ////

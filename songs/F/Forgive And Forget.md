@@ -1,22 +1,25 @@
 ---
-title: "Forgive And Forget"
-artist: "Avalon"
+title: Forgive And Forget
+artist: Avalon
 key: G
-tempo: 
-time: 
-ccli: "2325613"
-copyright: "1997 River Oaks Music Company / Field Of Themes Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2325613'
+copyright: 1997 River Oaks Music Company / Field Of Themes Music
+source: ''
+year: ''
 medley: []
-id: "5BE7453F-F373-4BA8-84BA-08012CC64439"
+id: 5BE7453F-F373-4BA8-84BA-08012CC64439
 ---
-
 [G]Me and my s[C/E]hadow [G]He goes wher[C/E]ever I go
 [G]My darker [C/E]side Sometimes [D]chases me home
 [G]He makes me feel [C/E]guilty [G]For things I'm [C/E]forgiven of

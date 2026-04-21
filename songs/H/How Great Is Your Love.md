@@ -1,24 +1,27 @@
 ---
-title: "How Great Is Your Love"
-artist: "MercyMe"
+title: How Great Is Your Love
+artist: MercyMe
 key: F
-tempo: 
-time: 
-ccli: "3479850"
-copyright: "2001 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "glory"
+  - love
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3479850'
+copyright: 2001 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "2066E493-BD0F-4EF5-BE05-B2F022428402"
+id: 2066E493-BD0F-4EF5-BE05-B2F022428402
 ---
-
 [F]My heart is [F2]steadfast O God
 [Dm]And I [Bb]will sing w[F]ith all my[F2] heart and soul
 [Dm]Music for[Bb] the King

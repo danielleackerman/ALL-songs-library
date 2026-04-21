@@ -1,22 +1,25 @@
 ---
-title: "It's A Shame"
-artist: "Third Day"
+title: It's A Shame
+artist: Third Day
 key: B
-tempo: 
-time: 
-ccli: "4292263"
-copyright: "2004 Consuming Fire Music (Admin. by EMI Christian Music Publishing)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Solo Intro"
-year: 
+keywords: ''
+ccli: '4292263'
+copyright: 2004 Consuming Fire Music (Admin. by EMI Christian Music Publishing)
+source: Solo Intro
+year: ''
 medley: []
-id: "A384C5FE-F90D-4716-92CE-3C918C2C3F17"
+id: A384C5FE-F90D-4716-92CE-3C918C2C3F17
 ---
-
 [B] I hate to be[F#], to be the one
 [C#m] Who’s given up
      E

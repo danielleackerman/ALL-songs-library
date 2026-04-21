@@ -1,23 +1,26 @@
 ---
-title: "Victory"
-artist: "Artist Name"
+title: Victory
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "victory"
+  - victory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4A43514F-7D60-43E3-B035-D59907334A1C"
+id: 4A43514F-7D60-43E3-B035-D59907334A1C
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

@@ -1,36 +1,40 @@
 ---
-title: "He Brought Me Out"
-artist: ""
+title: He Brought Me Out
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "sutl"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - sutl
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: "sutl"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: sutl
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "BF02F2AB-BFBE-4870-9222-7734C89E57FF"
+id: BF02F2AB-BFBE-4870-9222-7734C89E57FF
 ---
-
 [F/G]My [C]heart was dis[C/E]tressed 'neath Je[F]hovah's dread [C]frown
 And low in the [C/A]pit where my [D7]sins dragged me [G7]down
 I [C]cried to the [C7/E]Lord from the [F2]deep [A7/E]miry [Dm7]clay

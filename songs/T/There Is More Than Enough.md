@@ -1,22 +1,25 @@
 ---
-title: "There Is More Than Enough"
-artist: ""
+title: There Is More Than Enough
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "898B9F9A-8BD2-4BE3-B536-F85EADED1AC4"
+id: 898B9F9A-8BD2-4BE3-B536-F85EADED1AC4
 ---
-
 [Ab/Bb]There is [Eb]more than e[Eb/G]nough of God's [Bb/Ab]mer[Ab]cy,
 [C7b9] [Fm9]More than e[Bb9]nough of His [Eb]love  [Ab/Bb]
 When your [Eb]well has run [Db/Bb]dry,  [AbM9]He will [Abm6/Db]supply,

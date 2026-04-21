@@ -1,22 +1,25 @@
 ---
-title: "Into The Chamber"
-artist: "David Ingles"
+title: Into The Chamber
+artist: David Ingles
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A259AF3A-868A-44C6-97EF-0B843C0DFBEB"
+id: A259AF3A-868A-44C6-97EF-0B843C0DFBEB
 ---
-
 [Eb]Enter  my [Eb7/G]chambers, [Ab]sweet  Holy [Eb]Spirit  [Ab/Bb]
 
 [Eb]Speak   to  me  [Cm]softly  as  [Cm/F]I  close  the [Bb]door.  [Bb7/D]

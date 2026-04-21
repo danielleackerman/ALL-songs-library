@@ -1,22 +1,25 @@
 ---
-title: "Fly"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Fly
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "92CE534B-CE85-4C05-A8CC-1F9478D0989B"
+id: 92CE534B-CE85-4C05-A8CC-1F9478D0989B
 ---
-
 Key:
 Copyright: 2002 Bridge Building Music, Inc./Pogostick
 

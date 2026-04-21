@@ -1,61 +1,90 @@
 ---
-title: "I Am"
-artist: "Jill Phillips"
-key: C
-tempo: 
-time: 
-ccli: "3042122"
-copyright: "1999 Word Music, LLC / Juvintud Music"
-tags: []
+title: I Am
+artist: Mark Schultz
+key: D
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
+tags:
+  - redeemer
+  - savior
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4572079'
+copyright: 2005 Crazy Romaine Music
+source: ''
+year: ''
 medley: []
-id: "242C0B2D-B8C0-4F3E-BBAE-B8A7728726AB"
+id: 31A6BD96-97F5-4AD1-A122-DF82BCB8A967
 ---
+Intro 	D      Asus  Bm  D      A (Hit once)
 
-N.C. = no chord
+VERSE 1:
+I A[Bm]m     [A/C#]   the M[D]aker of the Heavens
+I A[Bm]m     [A/C#]   the B[D]right and Morning Star
+I A[Bm]m     [A/C#]   the B[D]reath of all Creation
+Who alw[G]ays was and is to[Gm] come
 
-First verse:
-
-N.c.                C
-Oh gently lay your head
-          G
-upon my chest
-And I will [Am7]comfort you like a m[C]other while you [F]rest
-N.c.                   C
-The tide can change so fast
-            G
-But I will stay
-The same through the [Am7]past, the [C]same in the f[F]uture, same today.
-
-CHORUS:
-[F]I [C]am constant,
-and [F]I a[C]m n[G]ear,
-[F]I a[C]m p[Am7]eace that shatters a[Dm]ll your secret fe[Dm7]ars.
-[F]I [C]am holy,
-and [F]I [C]am w[G]ise,
-[F]I'm the [C]only o[Am7]ne who knows your [Dm]heart's desir[Dm7]es.
-F
-your heart's desires.
-
-2nd Verse:
-
-Oh weary, tired, and worn,
-Let out your sighs,
-And drop that heavy load you pull cause mine is light.
-And I know you through and through
-There's no need to hide.
-I want to show you love that is deep, and high, and wide.
+VERSE 2:
+I A[Bm]m     [A/C#]   the O[D]ne who walked on water
+I A[Bm]m     [A/C#]   the O[D]ne who calmed the seas
+I A[Bm]m     [A/C#]   the m[D]iracles and wonders
+[Asus]    So c[G]ome and see, foll[A]ow me
+And yo[Bm]u will know[G][A]
 
 CHORUS:
+That I A[D]m the Fo[A/C#]unt of Living Wa[G/B]ter
+The r[A]isen Son of M[G]an
+The H[D/F#]ealer of the br[G]oken
+And w[Asus]hen you cry I A[D]m
+Your S[A/C#]avior and Re[G/B]deemer
+Who b[D]ore the sin of[G] man
+The A[D/F#]uthor and Perf[G]ector
+Beg[A]inning and the[Bm] End[A/C#]
+Yes, I A[Dsus]m[D]
 
-Bridge (verse chord pattern)
+VERSE 3:
+I A[Bm7]m     [A/C#]   the S[D]pirit deep inside you
+I A[Bm7]m     [A/C#]   the W[D]ord upon your heart
+I A[Bm7]m     [A/C#]   the O[D]ne who even knew you
+Bef[G]ore your birth, bef[A]ore you were
 
 CHORUS:
+I A[D]m the F[A/C#]ount of Living Wa[G/B]ter
+The r[A]isen Son of M[G]an
+The H[D/F#]ealer of the br[G]oken
+And w[Asus]hen you cry I [D]Am
+Your S[A/C#]avior and Re[G/B]deemer
+Who b[D]ore the sin of[G] man
+The A[D/F#]uthor and Perf[G]ector
+Beg[A]inning and th[Bm]e End[A/C#]
+I A[G]m;   [Bm]    yes, I [D/F#]Am[G][G/B][A]
 
-Oh gently lay your head upon my chest
-And I will comfort you like a mother while you rest
+BRIDGE:
+Throughout the e[G]arth I A[D]m
+The univ[A]erse I A[Bm]m
+In every he[G]art I A[D]m
+Where you [A]are I A[Bm]m
+The Lord of Lo[G]rds, [D]   the King of K[Asus]ings[Bm]
+          G    D         Asus (Hit 5 times)
+The Holy Lamb	above all things
+
+CHORUS:
+Yes, I Am the Mighty God, your F[G/B]ather
+The r[D]isen Son of[G] Man
+The[D/F#] Healer of the br[G]oken
+And w[A]hen you cry I [D]Am
+Your [A/C#]Savior and Red[G/B]eemer
+Who b[D]ore the sin of m[G]an
+The[D/F#] Author and Perf[G]ector
+Beg[A]inning and the[Bm] End[A/C#]
+Yes, I A[G]m[D][Asus][Bm]
+Yes, I A[G]m[D][Asus][Bm]
+Yes, I A[G]m[D][Asus][Bm]
+       G (Hit once)
+Oh, I Am

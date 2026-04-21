@@ -1,24 +1,27 @@
 ---
-title: "Lead Me To The Rock"
-artist: ""
+title: Lead Me To The Rock
+artist: ''
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "rock"
-  - "shelter"
+  - rock
+  - shelter
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5F734FC3-F759-4202-BB14-F72CC13799B0"
+id: 5F734FC3-F759-4202-BB14-F72CC13799B0
 ---
-
 [Ab/Bb]When [Bb]my [Eb]heart is [Bb]over[Eb]whelmed
 [Ab]Lead me [Bb]to the [Eb]Rock, [Ab]Lead me [Bb]to the [Eb]Rock,
 [Ab]Lead me [Bb]to the [Eb]Rock

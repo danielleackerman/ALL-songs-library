@@ -1,22 +1,25 @@
 ---
-title: "Hold Fast"
-artist: "MercyMe"
+title: Hold Fast
+artist: MercyMe
 key: G
-tempo: 
-time: 
-ccli: "4770149"
-copyright: "2006 Simpleville Music / Wet As A Fish Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4770149'
+copyright: 2006 Simpleville Music / Wet As A Fish Music
+source: ''
+year: ''
 medley: []
-id: "EFD419AD-0415-4D34-933D-6D435ADEB3BF"
+id: EFD419AD-0415-4D34-933D-6D435ADEB3BF
 ---
-
 *Capo 3rd fret to match the recorded key*
 
 Intro:  G  Cadd9  Em  Cadd9

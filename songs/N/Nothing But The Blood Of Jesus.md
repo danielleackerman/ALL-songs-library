@@ -1,35 +1,39 @@
 ---
-title: "Nothing But The Blood Of Jesus"
-artist: "Jars Of Clay"
+title: Nothing But The Blood Of Jesus
+artist: Jars Of Clay
 key: C
-tempo: 
-time: 
-ccli: "21332"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '21332'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "2235C5E5-E31D-46A0-826E-6CB733A4172F"
+id: 2235C5E5-E31D-46A0-826E-6CB733A4172F
 ---
-
 Intro:  Slide, drums  & Bass
 	G  F  C  (Slide 2Xs)
 	G  F  C  (Add bass, acoustic, & drums)

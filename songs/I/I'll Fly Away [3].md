@@ -1,51 +1,52 @@
 ---
-title: "I'll Fly Away"
-artist: ""
+title: I'll Fly Away
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "6AB72FE4-A34D-4C96-97CF-DF800F436602"
+id: 15C3172D-9B51-45CD-A378-EBD5A8B6EF5E
 ---
+VERSE 1:
+[G]Some glad morning when this life is [G7/B]o'er, [C7]I'll fly a[G]way.
+[G]To a home on God's celestial [Em7]shore, [G/D]I'll fly [D7]a[G]way.
 
-(Verse:1)
+CHORUS:
+[G]I'll fly away O [G7/B]glory, [C7]I'll fly a[G]way.   [
+[G]When I die hallelujah, by and [Em7]by,     [G/D]I'll fly   [D7]a[G]way.
 
-[G]Some glad morning when this life is [G7/B]o'er, [C7]I'll fly a---[G]way.  [C/D]
-[G]To a home on God's celestial [Em7]shore, [G/D]I'll [D7].    fly a----[G]way.  [C/D]
+VERSE 2:
+[G]When the shadows of this life have [G7/B]grown, [C7]I'll fly a[G]way
+[G]Like a bird from prison bars has [Em7]flown, [G/D]I'll fly [D7]a[G]way.
 
-(Chorus:)
+VERSE 3:
 
-[G]I'll fly away O glo---[G7/B]ry, [C7]I'll fly a---[G]way.   [C/D]
-[G]When I die hallelujah, by and [Em7]by,     [G/D]I'll   [D7].     fly   a---[G]way.
-
-(Verse:2)
-
-When the shadows of this life have grown, I'll fly away
-Like a bird from prison bars has flown, I'll fly away.
-
-(Verse:3)
-
-Just a few more weary days and then, I'll fly away
-To a land where joys shall never end, I'll fly away.
+[G]Just a few more [G7/B]weary days and then, [C7]I'll fly a[G]way
+[G]To a land where joys shall never [Em7]end, [G/D]I'll [D7]fly a[G]way.

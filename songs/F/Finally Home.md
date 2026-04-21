@@ -1,23 +1,26 @@
 ---
-title: "Finally Home"
-artist: "MercyMe"
+title: Finally Home
+artist: MercyMe
 key: E
-tempo: 
-time: 
-ccli: "5152670"
-copyright: "2007 Simpleville Music / Wet As A Fish Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "home"
+  - home
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5152670'
+copyright: 2007 Simpleville Music / Wet As A Fish Music
+source: ''
+year: ''
 medley: []
-id: "05C0EFC1-41CB-4221-99FE-69643274674C"
+id: 05C0EFC1-41CB-4221-99FE-69643274674C
 ---
-
 INTRO:
 [A2]    [E]    [A2]    [E]
 

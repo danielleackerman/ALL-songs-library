@@ -1,22 +1,25 @@
 ---
-title: "Lord, Put a White Robe Aound Me"
-artist: "Artist Name"
+title: 'Lord, Put a White Robe Aound Me'
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "01844CDC-62AD-4CDE-8292-65517E78F3E3"
+id: 01844CDC-62AD-4CDE-8292-65517E78F3E3
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

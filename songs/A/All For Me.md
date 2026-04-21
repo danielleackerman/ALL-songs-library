@@ -1,20 +1,23 @@
 ---
-title: "All For Me"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: All For Me
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "BAEC7ABB-F82D-455E-AE30-C4A002AA2F30"
+id: BAEC7ABB-F82D-455E-AE30-C4A002AA2F30
 ---
-
 

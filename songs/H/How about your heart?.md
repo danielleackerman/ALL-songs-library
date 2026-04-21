@@ -1,25 +1,28 @@
 ---
-title: "How About Your Heart?"
-artist: "Bennie S. Triplett"
+title: How About Your Heart?
+artist: Bennie S. Triplett
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "jesus"
-  - "christ"
+  - altar-songs
+  - jesus
+  - christ
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "2F29664A-EC7A-432D-89D9-8D644A94A199"
+id: 2F29664A-EC7A-432D-89D9-8D644A94A199
 ---
-
 CHORUS:
 How about your heart?
 Is it right with God?

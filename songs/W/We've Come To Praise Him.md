@@ -1,36 +1,40 @@
 ---
-title: "We've Come To Praise Him"
-artist: "Lindell Cooley"
+title: We've Come To Praise Him
+artist: Lindell Cooley
 key: Bb
-tempo: 100
-time: 
-ccli: 
-copyright: 
+bpm: '100'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
 year: 1997
 medley: []
-id: "B174CAB2-F366-46E6-8CDD-A31A17D21BE0"
+id: B174CAB2-F366-46E6-8CDD-A31A17D21BE0
 ---
-
 {artist: Lindell Cooley, 1997}
 
 (D F G Bb -Bass run)

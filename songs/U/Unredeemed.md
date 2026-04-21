@@ -1,25 +1,28 @@
 ---
-title: "Unredeemed"
-artist: "Selah"
+title: Unredeemed
+artist: Selah
 key: F
-tempo: 80
-time: 
-ccli: "4845414"
-copyright: "2006 New Spring / Row J, Seat 9 Songs / Upper Cates Music"
+bpm: '80'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "grace"
-  - "contemporary-christian-slow"
+  - grace
+  - contemporary-christian-slow
 genre: []
-energy: medium-slow
 profile: []
-keywords: "contemporary christian slow"
-source: 
-year: 
+keywords: contemporary christian slow
+ccli: '4845414'
+copyright: '2006 New Spring / Row J, Seat 9 Songs / Upper Cates Music'
+source: ''
+year: ''
 medley:
-  - "[[AMAZING GRACE]]"
-id: "AD636685-5B24-4D59-B92D-5FE12D88D1B3"
+  - '[[AMAZING GRACE]]'
+id: AD636685-5B24-4D59-B92D-5FE12D88D1B3
 ---
-
 Medley: amazing grace
 
 [F]   [F/Bb]

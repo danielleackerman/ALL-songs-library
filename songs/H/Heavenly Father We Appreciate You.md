@@ -1,39 +1,43 @@
 ---
-title: "Heavenly Father We Appreciate You"
-artist: "Composer Unknown, Maranatha Singers"
+title: Heavenly Father We Appreciate You
+artist: 'Composer Unknown, Maranatha Singers'
 key: G
-tempo: 
-time: "3/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "love"
-  - "comfort"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - love
+  - comfort
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[oh how i love jesus]]"
-  - "[[i love you lord]]"
-id: "EBDA4C94-AB7D-4A64-A91B-B11BB03B61FE"
+  - '[[oh how i love jesus]]'
+  - '[[i love you lord]]'
+id: EBDA4C94-AB7D-4A64-A91B-B11BB03B61FE
 ---
-
 MEDLEY : oh how i love jesus / i love you lord
 
 [C/D]Heavenly [G]Father, we ap[C]preciate [G]You,

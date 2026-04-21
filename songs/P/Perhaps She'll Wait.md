@@ -1,23 +1,26 @@
 ---
-title: "Perhaps She'll Wait"
-artist: "Bebo Norman"
+title: Perhaps She'll Wait
+artist: Bebo Norman
 key: G
-tempo: 
-time: 
-ccli: "3428313"
-copyright: "2000 New Spring Publishing, Inc. / Appstreet Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "wonder"
+  - wonder
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3428313'
+copyright: '2000 New Spring Publishing, Inc. / Appstreet Music'
+source: ''
+year: ''
 medley: []
-id: "E6270767-F0D6-42A6-9C1F-5A957C44F350"
+id: E6270767-F0D6-42A6-9C1F-5A957C44F350
 ---
-
 VERSE 1:
 [G9]  They say you cannot walk before you cr[D/F#]awl
             Em7               C9       /B

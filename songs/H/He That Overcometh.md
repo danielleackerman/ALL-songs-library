@@ -1,22 +1,25 @@
 ---
-title: "He That Overcometh"
-artist: ""
+title: He That Overcometh
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1E8190D0-D3C3-46DD-901F-51E60F8EDBE1"
+id: 1E8190D0-D3C3-46DD-901F-51E60F8EDBE1
 ---
-
 [F]He that over[F7]cometh, Over[Bb]cometh in the name of the [F]Lord
 
 He that over[F7]cometh Over[Bb]cometh in the name of the [F]Lord

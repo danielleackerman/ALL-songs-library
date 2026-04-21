@@ -1,38 +1,42 @@
 ---
-title: "Soon And Very Soon"
-artist: "Andraé Crouch"
+title: Soon And Very Soon
+artist: Andraé Crouch
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "king"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - king
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-  - "os-gospel-med"
-keywords: "os apo med, os gospel med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+  - os-gospel-med
+keywords: 'os apo med, os gospel med'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "6DB60793-9956-4AE6-B4D5-4138D359EA42"
+id: 6DB60793-9956-4AE6-B4D5-4138D359EA42
 ---
-
 CHORUS:
 [F]Soon [Bb/F]and [Ab]ve[Bb/F]ry [F]soon,
 [F]We [F]are [Bb/F]going to [Ab]see the [F]King

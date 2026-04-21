@@ -1,42 +1,46 @@
 ---
-title: "I Bless Your Name"
-artist: ""
-key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: I Bless Your Name
+artist: ''
+key: F
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A5A52AA4-8449-4C6A-BD7B-5C753443547B"
+id: BCD2CADE-66D2-469F-AFFE-5BF95515A5C7
 ---
-
 CHORUS:
-[G6/A]I bless Your name  [D2]  [Bm/G]  I bless Your name [D2]
-I give You ho[Bm2]         [Bm2/A]  nor      [E/G#]give        You [A2]praise   [A2/G]
-You are the life[D/F#]         [Bm/G]       the truth the way [D/A]
-I [G6/B]bless Your [D/A]name   I [G6/A]bless    Your name[D]
+[F6/G]I bless Your name  [C2]  [Am/F]  I bless Your name [C2]
+I give You ho[Am2]         [Am2/G]  nor      [D/Gb]give        You [G2]praise   [G2/F]
+You are the life[C/E]         [Am/F]       the truth the way [C/G]
+I [F6/A]bless Your [C/G]name   I [F6/G]bless    Your name[C]
 
-To Verse 1 [G6/A]
+To Verse 1 [F6/G]
 
 V1:
-[D]Je  [Bm/G]sus    [D] Jesus    [Bm2]Jesus  [E/G#]  [A2]Jesus  [A/G]
-[D/F#]Je     [Bm/G]sus     [D2/A]Jesus      I [G6/B]bless Your [D/A]name
-I [G6/A]bless Your name[D]
+[C]Je  [Am/F]sus    [C] Jesus    [Am2]Jesus  [D/Gb]  [G2]Jesus  [G/F]
+[C/E]Je     [Am/F]sus     [C2/G]Jesus      I [F6/A]bless Your [C/G]name
+I [F6/G]bless Your name[C]
 
-Ending:  You [A/G]are the    [D/F#]life        [Bm/G] the truth the            [D/A]way
+Ending:  You [G/F]are the    [C/E]life        [Am/F] the truth the            [C/G]way

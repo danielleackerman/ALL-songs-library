@@ -1,20 +1,23 @@
 ---
-title: "Overcomer (Revisable)"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Overcomer (Revisable)
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FFDFD4F7-632F-4AEC-BB55-0A5C3836FBD9"
+id: B119D122-2D57-45D4-880B-A0BCB4EB268F
 ---
-
 

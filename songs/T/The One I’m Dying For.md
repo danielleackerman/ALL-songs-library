@@ -1,34 +1,38 @@
 ---
-title: "The One I’m Dying For"
-artist: "The Isaacs"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: The One I’m Dying For
+artist: The Isaacs
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "71B72EC7-385F-400F-8DAC-8F8F04AC64FA"
+id: 71B72EC7-385F-400F-8DAC-8F8F04AC64FA
 ---
-
 Songwriters: Ronnie Bowman / Sonya Isaacs / Rebecca Bowman
 
 VERSE 1:

@@ -1,24 +1,27 @@
 ---
-title: "Walk With Me Lord"
-artist: "Bishop G.E. Patterson"
+title: Walk With Me Lord
+artist: Bishop G.E. Patterson
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "friend"
-  - "journey"
+  - friend
+  - journey
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8FECEA3D-342B-418E-A41D-1FE68BB74E2C"
+id: 8FECEA3D-342B-418E-A41D-1FE68BB74E2C
 ---
-
 VERSE 1:
 [Bb/C]Walk with [F]me Lord [Bb/F]
 [F] Walk with me,

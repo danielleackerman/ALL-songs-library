@@ -1,32 +1,36 @@
 ---
-title: "My Desire"
-artist: "Jeremy Camp"
+title: My Desire
+artist: Jeremy Camp
 key: E
-tempo: 
-time: 
-ccli: "4504425"
-copyright: "2004 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "desire"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - desire
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '4504425'
+copyright: 2004 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "C22E23A5-5364-4E4F-B1D0-D7F918F4B53E"
+id: C22E23A5-5364-4E4F-B1D0-D7F918F4B53E
 ---
-
 (Please Note:  Tablature will not change when using the transpose feature of this site.)
 
 Intro/1 Verse

@@ -1,22 +1,25 @@
 ---
-title: "Bind Us Together-EASY"
-artist: "82 BPM"
+title: Bind Us Together-EASY
+artist: 82 BPM
 key: G
-tempo: 82
-time: 
-ccli: 
-copyright: 
+bpm: '82'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "2C1EA65E-650B-43D2-941B-BA1A5372C0F2"
+id: 2C1EA65E-650B-43D2-941B-BA1A5372C0F2
 ---
-
 Slow 3
 Key: [G]
 

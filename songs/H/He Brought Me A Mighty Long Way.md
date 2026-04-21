@@ -1,34 +1,38 @@
 ---
-title: "He Brought Me A Mighty Long Way"
-artist: "Nancy Grandquist"
+title: He Brought Me A Mighty Long Way
+artist: Nancy Grandquist
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9327648F-4F99-476E-9D04-D1A325C83FE8"
+id: 9327648F-4F99-476E-9D04-D1A325C83FE8
 ---
-
 VERSE 1:
 [Eb/F]If I could [BbM7]tell you, Just [Eb/Bb]what the Lord,  Has [BbM7]done for me
 [Eb/F]I'd have to [BbM7]tell you, I'm not [Eb/Bb]worthy, Of the blood He [BbM7]shed for me

@@ -1,22 +1,25 @@
 ---
-title: "TUTORIAL Background Progressions"
-artist: ""
+title: TUTORIAL Background Progressions
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "EFA12DA8-B300-480B-9E1B-446ECFE8345E"
+id: EFA12DA8-B300-480B-9E1B-446ECFE8345E
 ---
-
 F:
 [F2]     [Eb/C]       [BbM7]       [C/A]      [Gm7]      [F/C]      [A+/Db]        [Dm7]      [G9]     [C7sus]        [FM7]
 [Gm7]      [C/A]      [Dm7]      [Gm7]     [Gm/C]       [Bb/C]       [F2]

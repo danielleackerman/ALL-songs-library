@@ -1,35 +1,39 @@
 ---
-title: "Zion Is Calling Me"
-artist: "Clint Brown"
+title: Zion Is Calling Me
+artist: Clint Brown
 key: C
-tempo: 
-time: 
-ccli: "647194"
-copyright: "1996 Dayspring Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "calling"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - calling
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '647194'
+copyright: '1996 Dayspring Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "41FDCC7A-D2BD-426E-91EA-FB0089FBCEA6"
+id: 41FDCC7A-D2BD-426E-91EA-FB0089FBCEA6
 ---
-
 Chorus 2x:
 [F/G][C]Zion is cal[Em]ling me, to a hi[F]gher [F/G]place of [C]praise
 To [F]stand up[G/F]on the [C/E]mountain, and [D7]magnify His [G]name

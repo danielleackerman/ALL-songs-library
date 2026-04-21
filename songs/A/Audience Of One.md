@@ -1,24 +1,27 @@
 ---
-title: "Audience Of One"
-artist: "Big Daddy Weave"
+title: Audience Of One
+artist: Big Daddy Weave
 key: D
-tempo: 
-time: 
-ccli: "3504512"
-copyright: "2002 Word Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "desire"
+  - praise
+  - desire
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3504512'
+copyright: '2002 Word Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "40686875-0FD7-4814-BCF3-6E2F6091F237"
+id: 40686875-0FD7-4814-BCF3-6E2F6091F237
 ---
-
 VERSE 1:
 I come on my [Bm7]knees  [G2][D]   To lay down be[Bm7]fore You  [G2][D]
 Bringing all that I [Bm7]am [G2][D]    Longing only to [Dm]know You [G2][D]

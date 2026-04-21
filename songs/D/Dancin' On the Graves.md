@@ -1,24 +1,27 @@
 ---
-title: "Dancin' On the Graves"
-artist: "Lanny Wolfe or Janice Lyn Sjostrand"
+title: Dancin' On the Graves
+artist: Lanny Wolfe or Janice Lyn Sjostrand
 key: Dm
-tempo: 140
-time: 
-ccli: 
-copyright: 
+bpm: '140'
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: high
 profile:
-  - "os-apo-fast"
-  - "southern-gospel-fast"
-keywords: 
-source: 
-year: 
+  - os-apo-fast
+  - southern-gospel-fast
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "2BBCA859-9962-4630-9363-40C73FE3C265"
+id: 2BBCA859-9962-4630-9363-40C73FE3C265
 ---
-
 Key : Dm
 Keywords: os apo fast, southern gospel fast
 

@@ -1,23 +1,26 @@
 ---
-title: "Carry My Cross"
-artist: "Third Day"
+title: Carry My Cross
+artist: Third Day
 key: A
-tempo: 
-time: 
-ccli: "4586113"
-copyright: "2005 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "cross"
+  - cross
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4586113'
+copyright: 2005 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "08ABCC01-F7D9-4D64-B033-9B998B9B6583"
+id: 08ABCC01-F7D9-4D64-B033-9B998B9B6583
 ---
-
 VERSE 1:
 [F#m]As long as I remember, I’ve been [E]walking through the wilder[Bm]ness
 [F#m]Praying to the Father, and [E]waiting for my [Bm]time

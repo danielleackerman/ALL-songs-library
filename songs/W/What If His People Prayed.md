@@ -1,22 +1,25 @@
 ---
-title: "What If His People Prayed"
-artist: "Casting Crowns"
+title: What If His People Prayed
+artist: Casting Crowns
 key: D
-tempo: 
-time: 
-ccli: "4196644"
-copyright: "2003 Club Zoo Music / SWEC Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4196644'
+copyright: 2003 Club Zoo Music / SWEC Music
+source: ''
+year: ''
 medley: []
-id: "63EFFF1A-5DB5-4512-900A-B25BAC46B3EA"
+id: 63EFFF1A-5DB5-4512-900A-B25BAC46B3EA
 ---
-
 **Capo 1st fret**
 
 What if the a[D]rmies [G]of the L[D]ord

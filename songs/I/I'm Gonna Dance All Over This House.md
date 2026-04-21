@@ -1,37 +1,41 @@
 ---
-title: "I'm Gonna Dance All Over This House"
-artist: "Mark Condon"
+title: I'm Gonna Dance All Over This House
+artist: Mark Condon
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[VICTORY ALL OVER THE HOUSE]]"
-id: "1A3D6172-65D9-4FB3-BA67-7DB3EC331183"
+  - '[[VICTORY ALL OVER THE HOUSE]]'
+id: 1A3D6172-65D9-4FB3-BA67-7DB3EC331183
 ---
-
 Medley: victory all over the house
 
 I won't wait til my troubles are over

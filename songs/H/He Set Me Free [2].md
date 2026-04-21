@@ -1,59 +1,60 @@
 ---
-title: "He Set Me Free"
-artist: "Albert E. Brumley"
-key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: He Set Me Free
+artist: 'Key of: Eb'
+key: Eb
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "glory"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - glory
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "EFCEE368-21B7-4176-A550-6CFA35CD550A"
+id: B214B984-8A0C-484C-978E-DE6C1EE354D8
 ---
+CHORUS:
+[Eb]He set me [Eb7]free yes [Ab]He [Ab7]set me [Eb]free [Ab/Bb]
+And [Eb]He broke the [Eb7]bonds of [Bb]prison for [Bb7]me
+I'm [Eb]glory [Eb7]bound my [Ab]Jesus to [Abdim]see
+For [Eb]glory to God He [Bb]set me [Eb]free
 
-{artist: Albert E. Brumley}
+VERSE 1:
+[Eb]Once like a bird in prison I dwelt
+No [Ab]freedom from my [Ab7]sorrow I [Eb]felt
+But [Eb]Jesus came and listened to [Cm]me
+And [Eb]glory to [Eb7]God He [Bb]set me [Eb]free
 
-(Verse:1)
-[F]Once like a bird from prison I [F7]dwelt
-[Bb7]No freedom from my sorrow I [F]felt.  [Bb/C]
-[F]But Jesus came and listened [A/E]to [Dm7]me
-And [F/C]glory [Bbm/Db]to [Dm7]God, [C7]He set me [F]free.   [F7]
+VERSE 2:
+[Eb]Now I am climbing higher each day
+[Ab]Darkness of mine has [Ab7]drifted [Eb]away
+[Eb]My feet are planted on higher [Cm]ground
+[Eb]And glory to [Eb7]God I'm [Bb]homeward [Eb]bound
 
-(Chor:)
-[Bb7]He set me free, [F]He set me free
-He broke the [Dm7]bonds of [G9]prison for [C9]me
-[F]I'm glory [F7/A]bound my [Bb7]Jesus to [Bo7]see
-For [F/C]glory [Bbm/Db]to [Dm7]God, [C7]He set me [F]free.
-
-(Verse:2)
-Now I am climbing higher each day
-Darkness of night has drifted away
-My feet are panted on higher ground
-And glory to God, I'm homeward bound.
-
-(Verse:3)
-Goodbye to sin and things that confound
-Naught of the world shall turn me around
-Daily I'm working, I'm praying too
-And glory to God, I'm going thru.
+VERSE 3:
+[Eb]Goodbye to sin and things that confound
+[Ab]Not all the world can [Ab7]turn me [Eb]around
+[Eb]Daily I'm working I'm praying [Cm]too
+[Eb]And glory to [Eb7]God I'm [Bb]going [Eb]through

@@ -1,25 +1,28 @@
 ---
-title: "You, You Are God"
-artist: "Gateway Worship"
+title: 'You, You Are God'
+artist: Gateway Worship
 key: C
-tempo: 132
-time: 
-ccli: "4389918"
-copyright: "2003 Gateway Create Publishing"
+bpm: '132'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "king"
+  - praise
+  - king
 genre: []
-energy: medium-fast
 profile:
-  - "contemp-christian-fast"
-keywords: "contemp christian fast"
-source: 
-year: 
+  - contemp-christian-fast
+keywords: contemp christian fast
+ccli: '4389918'
+copyright: 2003 Gateway Create Publishing
+source: ''
+year: ''
 medley: []
-id: "A6DAD292-4143-4B22-B4B3-DA4E7CB48054"
+id: A6DAD292-4143-4B22-B4B3-DA4E7CB48054
 ---
-
 INTRO:
 [C]    [G/B]    [Am]    [F]    [C]    [G/B]    [Am]    [F]
 

@@ -1,37 +1,41 @@
 ---
-title: "I'm Claiming My Promise"
-artist: ""
+title: I'm Claiming My Promise
+artist: ''
 key: F
-tempo: 102
-time: 
-ccli: 
-copyright: 
+bpm: '102'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "promise"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - promise
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-fast"
-keywords: "os apo fast"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-fast
+keywords: os apo fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E1CAA561-E434-4F0A-9DB6-C4FFFF665016"
+id: E1CAA561-E434-4F0A-9DB6-C4FFFF665016
 ---
-
 CHORUS:
 I'm [Fm9]claiming my promise, God has promised to me
 I'm standing my ground, His [F13]Word I [G13]believe [Ab13] [A13]

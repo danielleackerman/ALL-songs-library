@@ -1,32 +1,36 @@
 ---
-title: "I Exalt Thee version 2"
-artist: "Pete Sanchez, Jr. 1975; popularized by Phil Driscoll"
+title: I Exalt Thee version 2
+artist: 'Pete Sanchez, Jr. 1975; popularized by Phil Driscoll'
 key: Eb
-tempo: 
-time: 
-ccli: "17803"
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "os-slow"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - os-slow
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: "os slow"
-source: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: os slow
+ccli: '17803'
+copyright: ''
+source: ''
 year: 1983
 medley: []
-id: "5AEE2E47-D2DA-4FA2-B056-D8E4F0BC00D2"
+id: 5AEE2E47-D2DA-4FA2-B056-D8E4F0BC00D2
 ---
-
 {artist: Pete Sanchez, Jr. 1975; popularized by Phil Driscoll 1983}
 
 INTRO:

@@ -1,22 +1,25 @@
 ---
-title: "I Will Rise Up"
-artist: "Ayesha Amarasekara"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: I Will Rise Up
+artist: Ayesha Amarasekara
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C0D04B16-7084-43DB-A682-1121FB5B5044"
+id: C0D04B16-7084-43DB-A682-1121FB5B5044
 ---
-
 Key:
 Copyright: Calvary Music, a division of Calvary International Ministries Inc.
 

@@ -1,22 +1,25 @@
 ---
-title: "My Deliverer"
-artist: "Rich Mullins"
+title: My Deliverer
+artist: Rich Mullins
 key: Eb
-tempo: 
-time: 
-ccli: "2598945"
-copyright: "1998 Word Music/Liturgy Legacy Music/White Plastic Bag Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2598945'
+copyright: 1998 Word Music/Liturgy Legacy Music/White Plastic Bag Music
+source: ''
+year: ''
 medley: []
-id: "9B216EFA-02CA-47AE-851D-9BFB1FA30E1B"
+id: 9B216EFA-02CA-47AE-851D-9BFB1FA30E1B
 ---
-
 [Cm]                     [Ab2]         [Eb/G]
  [Fm7]  [Eb/G]     [Ab2]         [Fm7]   [Ebm][a]j7/[G]      [Ab2]  [Bb]
 

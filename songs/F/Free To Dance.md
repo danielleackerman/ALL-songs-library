@@ -1,23 +1,26 @@
 ---
-title: "Free To Dance"
-artist: "Darlene Zschech"
+title: Free To Dance
+artist: Darlene Zschech
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: "1999 Darlene Zschech (Hillsong)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "dance"
+  - dance
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 1999 Darlene Zschech (Hillsong)
+source: ''
+year: ''
 medley: []
-id: "E97A72FE-6A17-4241-98E1-C92E0597D0CF"
+id: E97A72FE-6A17-4241-98E1-C92E0597D0CF
 ---
-
 INTRO:
 ([E]  [Emaj7]   -     |[E]  [Emaj7]   -     |[E]  [Emaj7]   -     |[E]- [Emaj7]
 

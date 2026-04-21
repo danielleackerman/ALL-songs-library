@@ -1,24 +1,27 @@
 ---
-title: "Here We Are (In Your Presence)"
-artist: "Dallas Holm"
+title: Here We Are (In Your Presence)
+artist: Dallas Holm
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "presence"
+  - jesus
+  - presence
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1D7425DF-6F69-4AF6-8053-0D450A3591BD"
+id: 1D7425DF-6F69-4AF6-8053-0D450A3591BD
 ---
-
 CHORUS:
 [F]Here we [C/E]are  [Bb/D]in Your [F7/A]presence
 [Bb]Lifting [F/A]holy hands to [Gm7]You.    [C9]

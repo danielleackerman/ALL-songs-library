@@ -1,39 +1,43 @@
 ---
-title: "The Old Gospel Ship"
-artist: "G.T. Speer"
+title: The Old Gospel Ship
+artist: G.T. Speer
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "gospel"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - gospel
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[DRIFT AWAY]]"
-  - "[[I DON’T MIND GIVING GOD THE PRAISE MEDLEY]]"
-id: "113586A1-5E92-4762-A061-ACE7F8280867"
+  - '[[DRIFT AWAY]]'
+  - '[[I DON’T MIND GIVING GOD THE PRAISE MEDLEY]]'
+id: 113586A1-5E92-4762-A061-ACE7F8280867
 ---
-
 Medley: drift away / I don’t mind giving God the praise medley
 
 VERSE 1:

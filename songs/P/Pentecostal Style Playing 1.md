@@ -1,22 +1,25 @@
 ---
-title: "Pentecostal Style Playing 1"
-artist: "Lesson 1 Segment 4"
+title: Pentecostal Style Playing 1
+artist: Lesson 1 Segment 4
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "To the vim Chord"
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: To the vim Chord
+year: ''
 medley: []
-id: "0A8BF381-125D-4E6B-B462-FBA83DB21986"
+id: 0A8BF381-125D-4E6B-B462-FBA83DB21986
 ---
-
 7-3-6
 
 [C]

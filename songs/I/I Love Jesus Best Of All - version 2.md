@@ -1,40 +1,44 @@
 ---
-title: "I Love Jesus Best Of All - version 2"
-artist: "Gladstone T Harewood"
+title: I Love Jesus Best Of All - version 2
+artist: Gladstone T Harewood
 key: F
-tempo: 
-time: "4/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 4/4
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "love"
-  - "jesus"
-  - "sutl"
-  - "songbook"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - love
+  - jesus
+  - sutl
+  - songbook
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-fast"
-keywords: "os apo fast, sutl, songbook"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-fast
+keywords: 'os apo fast, sutl, songbook'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C24C394F-9BE7-4B16-B305-9E806584335D"
+id: C24C394F-9BE7-4B16-B305-9E806584335D
 ---
-
 VERSE 1:
 [Bb/C]I [F]love to [Fsus]sing and pray, re[Bb]joicing ev'ry [F]day,
 I love the [Fsus]blessings [Dm7]when the [G9]showers on us [C]fall,

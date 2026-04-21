@@ -1,24 +1,27 @@
 ---
-title: "Offering"
-artist: "Third Day"
+title: Offering
+artist: Third Day
 key: A
-tempo: 
-time: 
-ccli: "4027184"
-copyright: "2003 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
-  - "offering"
+  - life
+  - offering
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4027184'
+copyright: 2003 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "FFD4370E-5143-4681-9B2B-F406C37FEB1C"
+id: FFD4370E-5143-4681-9B2B-F406C37FEB1C
 ---
-
 Chord = EADGBE
 Asus2 = X02200
 Dsus2 = XX0230

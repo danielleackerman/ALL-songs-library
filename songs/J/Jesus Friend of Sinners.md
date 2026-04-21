@@ -1,24 +1,27 @@
 ---
-title: "Jesus Friend of Sinners"
-artist: "Casting Crowns"
+title: Jesus Friend of Sinners
+artist: Casting Crowns
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "2011 Provident Label Group LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2011 Provident Label Group LLC
+source: ''
+year: ''
 medley: []
-id: "68603D30-A76A-490F-B6D4-7B14FDC8F07C"
+id: 68603D30-A76A-490F-B6D4-7B14FDC8F07C
 ---
-
 Capo 3 (Bb)
 
 VERSE 1:

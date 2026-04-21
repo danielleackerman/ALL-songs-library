@@ -1,22 +1,25 @@
 ---
-title: "Silent Night"
-artist: "MercyMe"
+title: Silent Night
+artist: MercyMe
 key: D
-tempo: 
-time: 
-ccli: "4629513"
-copyright: "2005 Simpleville Music / Wet As A Fish Music / Banistuci Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4629513'
+copyright: 2005 Simpleville Music / Wet As A Fish Music / Banistuci Music
+source: ''
+year: ''
 medley: []
-id: "68C41CB0-1A1C-4FB8-A98D-7A43F162C990"
+id: 68C41CB0-1A1C-4FB8-A98D-7A43F162C990
 ---
-
 Capo 7
 
 VERSE 1:

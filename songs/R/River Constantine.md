@@ -1,23 +1,26 @@
 ---
-title: "River Constantine"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: River Constantine
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "river"
+  - river
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "89F036C1-2C9F-42D2-B519-18B4F053526A"
+id: 89F036C1-2C9F-42D2-B519-18B4F053526A
 ---
-
 Key:
 
 Jars of Clay

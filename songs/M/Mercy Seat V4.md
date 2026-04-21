@@ -1,24 +1,27 @@
 ---
-title: "Mercy Seat V4"
-artist: "Vicky Yohe"
+title: Mercy Seat V4
+artist: Vicky Yohe
 key: Cm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "mercy"
-  - "grace"
+  - mercy
+  - grace
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "96221DC2-2E56-44E8-AF5D-548B980E7DB8"
+id: 96221DC2-2E56-44E8-AF5D-548B980E7DB8
 ---
-
 INTRO:
 [Cm][Bb][Cm][Bb]
 [hook repeat] [Cm][D][Eb][C] [F] [D][Eb][C]

@@ -1,23 +1,26 @@
 ---
-title: "More of Jesus"
-artist: "Mylon LeFevre"
+title: More of Jesus
+artist: Mylon LeFevre
 key: D
-tempo: 
-time: 
-ccli: "229354"
-copyright: "1983 Dayspring Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '229354'
+copyright: '1983 Dayspring Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "45E239B4-F0F9-495E-B0FB-7B147BC43FE4"
+id: 45E239B4-F0F9-495E-B0FB-7B147BC43FE4
 ---
-
 This is simple but with some stylistic embellishment can be note for note.
 
 VERSE 1:

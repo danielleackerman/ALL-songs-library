@@ -1,23 +1,26 @@
 ---
-title: "San Angelo"
-artist: "Third Day"
+title: San Angelo
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "4292294"
-copyright: "2004 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "home"
+  - home
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4292294'
+copyright: 2004 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "07FC5B07-0DE7-4116-ACF0-DF4D2A4BE107"
+id: 07FC5B07-0DE7-4116-ACF0-DF4D2A4BE107
 ---
-
 Intro: G D/F# Em7 D/F# G D/F# Em7
 
 [G] Forever seems so [C]distant

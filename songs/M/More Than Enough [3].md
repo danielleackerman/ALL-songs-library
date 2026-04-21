@@ -1,48 +1,58 @@
 ---
-title: "More Than Enough"
-artist: "Gary Oliver"
-key: Db
-tempo: 
-time: 
-ccli: "3305852"
-copyright: "2000 Integrity's Hosanna! Music / Revilo"
+title: More Than Enough
+artist: 'Key of: Fm'
+key: Fm
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DC5DAA96-101D-484F-8387-FB23E98DAA7B"
+id: 060F2865-2A89-41EB-8C5C-4A5F7DFFD016
 ---
-
-VERSE:
-My God is [Bbm7]more than enough, He can supply all my needs,
-
-He is my El Shaddai
-He always [Bbm7]looks out f[Cm7]or me[Db7][D7]
-Je[Eb7]hovah Jireh [Db7]- - -[Dbsus/C] - - - He is[Faug]    my God[Bbm7]
+VERSE 1:
+My God is [Fm]more than [Eb]eno[Fm]ugh
+He will [Fm]supply all my needs
+He is my [Fm]El Shaddai
+He always [Fm]looks out for me
+[Bbm]Jehovah Jireh, [C]He is my [Fm]God
 
 VERSE 2:
-All of the [Bbm7]earth is His, and the fullness thereof, everything that I
-need, You can [Bbm7]be     [Cm7]sure of,[Db7][D7]
-Je[Eb7]hovah Jireh [Db7]- - -[Dbsus/C] - - - He is[Faug]    my God[Bbm7]
+All of the earth is His
+and the fullness thereof
+Everything that I need
+You can be sure of
+Jehovah Jireh, He is my God
 
 CHORUS:
-So why [Eb7]should I [Eb7sus]worry ‘bout the [Eb7]highs and the l[Eb7sus]ows, the [Eb7]ups and the
-   Eb7sus (OCTAVES - F    F    E      Eb  D    Dd   C  B
-Downs,          when by   my   faith  I   know that he is (BACK TO BEGINNING)
+So [Bb]why should I worry about the highs and the lows
+The ups and the down, when [C]by my faith I know...
+
+BRIDGE:
+My God is more than enough (4x)
+
+My God is more than enough, more than enough

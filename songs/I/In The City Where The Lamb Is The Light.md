@@ -1,37 +1,41 @@
 ---
-title: "In The City Where The Lamb Is The Light"
-artist: ""
+title: In The City Where The Lamb Is The Light
+artist: ''
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "light"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - light
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-fast"
-keywords: "os apo fast"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-fast
+keywords: os apo fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "458EE0F5-EF30-489D-ACCD-F38B673D9E80"
+id: 458EE0F5-EF30-489D-ACCD-F38B673D9E80
 ---
-
 Db/Eb]There's a [Ab]country far beyond the [Db/Ab]star-ry [Ab]sky,
 There's a [Eb]city where there never [Eb/G]comes a [Ab]night
 [Ab7]If [Ab7/Bb]we're [Db]faithful we shall go there by and [Ab]by. [Eb/G].  [Fm7]

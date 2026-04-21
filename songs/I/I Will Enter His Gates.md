@@ -1,33 +1,37 @@
 ---
-title: "I Will Enter His Gates"
-artist: ""
+title: I Will Enter His Gates
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F27118D8-8D3B-4AD4-BAF9-3917D5E4883B"
+id: F27118D8-8D3B-4AD4-BAF9-3917D5E4883B
 ---
-
 {title:I Will Enter His Gates}
 
 [Ab/Bb]I will  [Eb]enter His [Ab]gates with thanks[Eb]giving in my heart

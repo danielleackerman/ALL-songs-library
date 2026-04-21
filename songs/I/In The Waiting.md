@@ -1,34 +1,38 @@
 ---
-title: "In The Waiting"
-artist: "FFH"
+title: In The Waiting
+artist: FFH
 key: F
-tempo: 
-time: 
-ccli: "5182080"
-copyright: "2008 New Spring / Schnickelfritz Music Publishing / Peachjellomusic"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '5182080'
+copyright: 2008 New Spring / Schnickelfritz Music Publishing / Peachjellomusic
+source: ''
+year: ''
 medley: []
-id: "56B8B96F-B99F-4886-804F-705CC8D28D71"
+id: 56B8B96F-B99F-4886-804F-705CC8D28D71
 ---
-
 [F]I’ve seen the red sea part, I’ve seen the[Fsus] mountains move
 But no[Eb]w it seems so dark, I can’t even fee[Bb]l you
 [F]If you chose to be silent I’ll be silent [Fsus]too

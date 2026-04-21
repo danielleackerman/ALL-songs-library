@@ -1,23 +1,26 @@
 ---
-title: "My Hope Is You (Guitar Solo)"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: My Hope Is You (Guitar Solo)
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "hope"
+  - hope
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "41CE2C48-48E8-4F23-94D8-D83B94FEF583"
+id: 41CE2C48-48E8-4F23-94D8-D83B94FEF583
 ---
-
 Key:
 Copyright: 1997 New Spring publishing
 

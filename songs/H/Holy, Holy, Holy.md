@@ -1,23 +1,26 @@
 ---
-title: "Holy, Holy, Holy"
-artist: "Alvin Slaughter"
+title: 'Holy, Holy, Holy'
+artist: Alvin Slaughter
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C57DAB22-51B1-44E9-9089-B3FDFFD14110"
+id: C57DAB22-51B1-44E9-9089-B3FDFFD14110
 ---
-
 VERSE:
 [Eb]Holy, [Fm]ho [Eb]ly, [Fm]ho [Eb]ly,
 [Eb]Holy, [Fm]ho [Eb]ly, [Fm]ho [Eb]ly

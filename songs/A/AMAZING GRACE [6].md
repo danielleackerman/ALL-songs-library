@@ -1,33 +1,37 @@
 ---
-title: "Amazing Grace"
-artist: "Key F"
+title: Amazing Grace
+artist: Key F
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "grace"
+  - altar-songs
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - grace
 genre: []
-energy: slow
 profile:
-  - "altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "43D2B474-E610-4C72-98D2-690209D7BA0F"
+id: 8F4DECD3-2E6C-45ED-8CB8-46DDC6DF556C
 ---
-
 G/a      d               d7     am/f#     g      do7/g#  d/a
 A  -  mazing grace how   sweet the sound
 

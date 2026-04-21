@@ -1,37 +1,41 @@
 ---
-title: "To Be Like Jesus"
-artist: ""
+title: To Be Like Jesus
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "os-slow"
+  - altar-songs
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - os-slow
 genre: []
-energy: medium
 profile:
-  - "altar-songs-black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: "os slow"
-source: 
-year: 
+  - >-
+    altar-songs-black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: os slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "36ED02AF-92F8-4C7D-8919-0B6F82551512"
+id: 36ED02AF-92F8-4C7D-8919-0B6F82551512
 ---
-
 CHORUS:
 [F]To [F/G]be [F/A]like [Bb]Jesus,  [Am7]  [Gm7]
 To be like [FM7]Jesus   [Gm/F]  [F]

@@ -1,22 +1,25 @@
 ---
-title: "I Was Glad (When They Said Unto Me)"
-artist: "Charles Hubert Hastings Perry /"
+title: I Was Glad (When They Said Unto Me)
+artist: Charles Hubert Hastings Perry /
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
 year: 1902
 medley: []
-id: "B0EF1571-D045-4367-8C99-0345E34DA5D2"
+id: B0EF1571-D045-4367-8C99-0345E34DA5D2
 ---
-
 {artist: Charles Hubert Hastings Perry / 1902}
 
 VERSE 1:

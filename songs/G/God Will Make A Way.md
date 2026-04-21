@@ -1,22 +1,25 @@
 ---
-title: "God Will Make A Way"
-artist: "Don Moen"
+title: God Will Make A Way
+artist: Don Moen
 key: G
-tempo: 
-time: 
-ccli: "458620"
-copyright: "1990 Integrity's Hosanna! Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '458620'
+copyright: 1990 Integrity's Hosanna! Music
+source: ''
+year: ''
 medley: []
-id: "7BF85832-7505-4DA6-90B9-6AE0C65C487A"
+id: 7BF85832-7505-4DA6-90B9-6AE0C65C487A
 ---
-
 [G]God will make a way [D]where there se[C]ems to be no w[G]ay
     C               G           Am7            CMaj7  D
 He works in ways we cannot see, He will make a way for me

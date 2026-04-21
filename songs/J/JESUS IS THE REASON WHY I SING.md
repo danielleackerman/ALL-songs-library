@@ -1,38 +1,42 @@
 ---
-title: "Jesus is the Reason Why I Sing"
-artist: ""
+title: Jesus is the Reason Why I Sing
+artist: ''
 key: Eb
-tempo: 111
-time: 
-ccli: 
-copyright: 
+bpm: '111'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-fast"
-keywords: "mod apo fast"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-fast
+keywords: mod apo fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[I'VE GOT A RIGHT TO PRAISE THE LORD]]"
-id: "F8F7E2B5-1915-4E43-A2EB-BCABA60B6BD6"
+  - '[[I''VE GOT A RIGHT TO PRAISE THE LORD]]'
+id: F8F7E2B5-1915-4E43-A2EB-BCABA60B6BD6
 ---
-
 Medley: I've got a right to praise the Lord
 
 CHORUS:

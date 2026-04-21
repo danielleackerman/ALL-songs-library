@@ -1,22 +1,25 @@
 ---
-title: "Keep On Shinin'"
-artist: "Third Day"
+title: Keep On Shinin'
+artist: Third Day
 key: C
-tempo: 
-time: 
-ccli: "4586144"
-copyright: "2005 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4586144'
+copyright: 2005 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "E8A3E569-0DC2-4B9D-83E3-9890C13935C6"
+id: E8A3E569-0DC2-4B9D-83E3-9890C13935C6
 ---
-
 ([Am]   [Dm]   [G]    [C]    [G/B])
 
 [Am]It fe[Dm]els l[G]ike f[C]oreve[G/B]r since I can remember

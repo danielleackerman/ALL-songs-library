@@ -1,22 +1,25 @@
 ---
-title: "Just Because You Are God"
-artist: "Christy Ballestero"
+title: Just Because You Are God
+artist: Christy Ballestero
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F7E2A8B4-56E4-4EFC-BC5B-F408E2EECC96"
+id: F7E2A8B4-56E4-4EFC-BC5B-F408E2EECC96
 ---
-
 [Eb]Just [Bb/G]be[Ab]cause [Bb/D]You are [Eb]God,
 
 [Eb]Just [Bb/G]be[Ab]cause You [Bb/D]died for my [Eb]sin,

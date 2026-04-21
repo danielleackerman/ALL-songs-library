@@ -1,23 +1,26 @@
 ---
-title: "I Will Bless Thee, O Lord"
-artist: "Esther Watanabe"
+title: 'I Will Bless Thee, O Lord'
+artist: Esther Watanabe
 key: F
-tempo: 148
-time: 
-ccli: 
-copyright: 
+bpm: '148'
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: high
 profile:
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
 year: 1970
 medley: []
-id: "518F3C9E-6346-41C0-B947-BA430FADDD74"
+id: 518F3C9E-6346-41C0-B947-BA430FADDD74
 ---
-
 CHORUS:
 I will [F/C]bless [Gm]Thee, [F]O [F]Lord, [Fmaj7][F6]
 I will [F]bless [Am7][C]Thee, [Abdim7][B]O [Gm]Lord[Gm7][C][Am][C7]

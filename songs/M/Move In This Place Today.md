@@ -1,32 +1,36 @@
 ---
-title: "Move In This Place Today"
-artist: "Alvin Slaughter"
+title: Move In This Place Today
+artist: Alvin Slaughter
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "desire"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - desire
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "57161429-E49E-46B9-BDFD-C3E0911D296D"
+id: 57161429-E49E-46B9-BDFD-C3E0911D296D
 ---
-
 CHORUS:
 [EbM9]Move [Abm/F]in [Eb/G]this [Ab]place to[Gm7]day.   [Cm7]
 This [EbM9]is my [Abm/F]one [Eb/G]de[Cm7]sire,

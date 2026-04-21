@@ -1,34 +1,38 @@
 ---
-title: "Mercy Rewrote My Life"
-artist: "Jimmy Swaggart"
+title: Mercy Rewrote My Life
+artist: Jimmy Swaggart
 key: Eb
-tempo: 
-time: "3/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "mercy"
-  - "life"
+  - altar-songs
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - mercy
+  - life
 genre: []
-energy: slow
 profile:
-  - "altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "435AA608-D848-483A-A0F2-3416B1032790"
+id: 435AA608-D848-483A-A0F2-3416B1032790
 ---
-
 VERSE 1:
 For [Eb]years I [Eb7]traveled [Eb7/G]a [Ab2]road [Eb2/G]all [Fm7]wrong
 My [Bb7]heart had [Bb7/D]lost all it's [Ab]joy and [Bb7/D]it's [EbM7]song

@@ -1,24 +1,27 @@
 ---
-title: "I Believe In Love"
-artist: "Third Day"
+title: I Believe In Love
+artist: Third Day
 key: A
-tempo: 
-time: 
-ccli: "4292122"
-copyright: "2004 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "believe"
+  - love
+  - believe
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4292122'
+copyright: 2004 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "B1C98D52-A6E9-4EA9-ADF9-18B67D7E663F"
+id: B1C98D52-A6E9-4EA9-ADF9-18B67D7E663F
 ---
-
 [F#m]Give me som[D]ething that I.... ca[F#m]n believe[D] and then I'll[Bm]
 Share it with the world fo[C#]r everyone to see
 [F#m]Take aw[D]ay the darkness,.... all[F#m] the pain and[D] sadness[Bm]

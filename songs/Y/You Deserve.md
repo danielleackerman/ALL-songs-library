@@ -1,24 +1,27 @@
 ---
-title: "You Deserve"
-artist: "Clint Brown"
+title: You Deserve
+artist: Clint Brown
 key: G
-tempo: 
-time: 
-ccli: "3184846"
-copyright: "2000 Tribe Music Group"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "father"
-  - "life"
+  - father
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3184846'
+copyright: 2000 Tribe Music Group
+source: ''
+year: ''
 medley: []
-id: "C25EC8F7-8F73-493B-811E-65E9E84E1A59"
+id: C25EC8F7-8F73-493B-811E-65E9E84E1A59
 ---
-
 Verse 2x:
 Father [G]You [D/F#]deserve,   [C/E]more than just my [G/D]song.
 [C]You deserve my [G/B]heart,    [A/C#]you deserve my [Dsus]all. [D]

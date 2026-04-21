@@ -1,25 +1,28 @@
 ---
-title: "Glory, Glory, Glory, Somebody Touched Me"
-artist: "Recorded by the Stanley Brothers, written by Leon Bowes and Tim Frye"
+title: 'Glory, Glory, Glory, Somebody Touched Me'
+artist: 'Recorded by the Stanley Brothers, written by Leon Bowes and Tim Frye'
 key: F
-tempo: 91
-time: 
-ccli: 
-copyright: 
+bpm: '91'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: medium
 profile:
-  - "os-apo-fast"
-  - "os-southern-gospel-fast"
-keywords: "os apo fast, os southern gospel fast"
-source: 
-year: 
+  - os-apo-fast
+  - os-southern-gospel-fast
+keywords: 'os apo fast, os southern gospel fast'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9519170C-28C6-489B-BC18-637387CD5BD7"
+id: 9519170C-28C6-489B-BC18-637387CD5BD7
 ---
-
 {artist: Recorded by the Stanley Brothers, written by Leon Bowes and Tim Frye}
 
 [F]Glory, glory, glory, somebody touched [F7]me,

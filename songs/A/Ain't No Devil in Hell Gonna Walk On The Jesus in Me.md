@@ -1,27 +1,30 @@
 ---
-title: "Ain't No Devil in Hell Gonna Walk On The Jesus in Me"
-artist: "Danniebelle Hall and Tom T. Hall"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Ain't No Devil in Hell Gonna Walk On The Jesus in Me
+artist: Danniebelle Hall and Tom T. Hall
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "fast-funky"
-  - "jesus"
-  - "hell"
+  - black-gospel
+  - fast-funky
+  - jesus
+  - hell
 genre: []
-energy: 
 profile:
-  - "black-gospel-fast-funky"
-keywords: 
-source: 
-year: 
+  - black-gospel-fast-funky
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D710618A-CF39-402F-814D-43D61F33C8B3"
+id: D710618A-CF39-402F-814D-43D61F33C8B3
 ---
-
 VERSE 1:
 You tried messing with my mind
 Then you tried sneaking up on me from behind.

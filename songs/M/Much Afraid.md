@@ -1,22 +1,25 @@
 ---
-title: "Much Afraid"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Much Afraid
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C1F4DD40-C278-48E6-BA3B-18BA0ED9D03B"
+id: C1F4DD40-C278-48E6-BA3B-18BA0ED9D03B
 ---
-
 Key:
 
 "Much Afraid" - by Jars of Clay

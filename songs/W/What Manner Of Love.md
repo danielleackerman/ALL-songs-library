@@ -1,24 +1,27 @@
 ---
-title: "What Manner Of Love"
-artist: "Watermark"
+title: What Manner Of Love
+artist: Watermark
 key: F
-tempo: 
-time: 
-ccli: "2883519"
-copyright: "1997 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "grace"
+  - love
+  - grace
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2883519'
+copyright: '1997 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music'
+source: ''
+year: ''
 medley: []
-id: "AD0CB049-2A93-4352-91D9-0F52783C33F3"
+id: AD0CB049-2A93-4352-91D9-0F52783C33F3
 ---
-
 INTRO:
 [C]      [Gm]        [Bb2]     [Eb2]      [C]      [Gm]        [Bb2]     [Eb2]    [G]
 

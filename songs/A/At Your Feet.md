@@ -1,36 +1,42 @@
 ---
-title: "At Your Feet"
-artist: "Casting Crowns"
+title: At Your Feet
+artist: Casting Crowns
 key: E
-tempo: 
-time: 
-ccli: "5657539"
-copyright: "2009 My Refuge Music / Sony/ATV Tree Publishing / Sony/ATV Timber Publishing / Windsor Hill Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "peace"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - peace
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '5657539'
+copyright: >-
+  2009 My Refuge Music / Sony/ATV Tree Publishing / Sony/ATV Timber Publishing /
+  Windsor Hill Music
+source: ''
+year: ''
 medley: []
-id: "56DC2EAD-DD86-4495-940F-2A1089504707"
+id: 56DC2EAD-DD86-4495-940F-2A1089504707
 ---
-
 INTRO:
 [C#m7][/][Asus2][/][|][E][/][B][/][|]
 [C#m7][/][Asus2][/][|][/][E][B][/][|]

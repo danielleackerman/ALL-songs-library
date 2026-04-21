@@ -1,23 +1,26 @@
 ---
-title: "I'm Determined In My Heart To Praise Him"
-artist: "Artist :Christy Ballestero"
+title: I'm Determined In My Heart To Praise Him
+artist: 'Artist :Christy Ballestero'
 key: Ebm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "346F2B37-D0F9-4075-B9AC-2D78FDBD694D"
+id: 346F2B37-D0F9-4075-B9AC-2D78FDBD694D
 ---
-
 Key : [Ebm]
 
 CHORUS:

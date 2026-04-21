@@ -1,22 +1,25 @@
 ---
-title: "I Collide"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: I Collide
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "36C42DBB-BEE8-4017-BA75-63D3E02256B7"
+id: 36C42DBB-BEE8-4017-BA75-63D3E02256B7
 ---
-
 Key:
 
 I Collide

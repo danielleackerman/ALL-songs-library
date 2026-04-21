@@ -1,24 +1,27 @@
 ---
-title: "He Gives Strength To Me-2"
-artist: "Unknown Author"
+title: He Gives Strength To Me-2
+artist: Unknown Author
 key: G
-tempo: 53
-time: 
-ccli: 
-copyright: 
+bpm: '53'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "strength"
+  - strength
 genre: []
-energy: slow
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DFCD5821-667E-4EC3-B753-72251EB7D5D8"
+id: DFCD5821-667E-4EC3-B753-72251EB7D5D8
 ---
-
 {artist: Unknown Author}
 
 He  gives  [G]strength  to  [Bm]me [G7]

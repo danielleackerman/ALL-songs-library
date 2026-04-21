@@ -1,24 +1,27 @@
 ---
-title: "Psalm 23"
-artist: "People and Songs"
+title: Psalm 23
+artist: People and Songs
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "comfort"
-  - "victory"
+  - comfort
+  - victory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1DFCA5A1-5D38-43A2-B97C-FFA7A5730904"
+id: 1DFCA5A1-5D38-43A2-B97C-FFA7A5730904
 ---
-
 VERSE 1:
 The Lord is my Shep[E]herd, He goes be[A]fore me
 Defender be[C#m7]hind me, I won't [A]fear

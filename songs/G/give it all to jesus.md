@@ -1,23 +1,26 @@
 ---
-title: "Give it All to Jesus"
-artist: ""
+title: Give it All to Jesus
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5AEDA518-4A65-4DE0-96B4-CF5290922B72"
+id: 5AEDA518-4A65-4DE0-96B4-CF5290922B72
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

@@ -1,23 +1,26 @@
 ---
-title: "Glory To The Lord"
-artist: "Don Moen"
+title: Glory To The Lord
+artist: Don Moen
 key: C
-tempo: 
-time: 
-ccli: "3166211"
-copyright: "2000 Integrity's Hosanna! Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3166211'
+copyright: 2000 Integrity's Hosanna! Music
+source: ''
+year: ''
 medley: []
-id: "2B259BB2-E49B-4ADF-9E92-CC31FFF6519F"
+id: 2B259BB2-E49B-4ADF-9E92-CC31FFF6519F
 ---
-
 [Am]     Who holds the heavens in His hands?  [Am]   [–]  [G]
 [F]     Who made the stars by the wo[C]rd of His po[Esus]wer? [-]  [E]
 [Am]     Who put the spirit in man    [Am]   [–]  [G]

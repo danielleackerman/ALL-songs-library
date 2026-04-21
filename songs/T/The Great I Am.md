@@ -1,36 +1,40 @@
 ---
-title: "The Great I Am"
-artist: "Mrs. S. K. Grimes, 1924"
+title: The Great I Am
+artist: 'Mrs. S. K. Grimes, 1924'
 key: Gm
-tempo: 79
-time: 
-ccli: 
-copyright: 
+bpm: '79'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med-slow"
-keywords: "os apo med slow"
-source: "Sing Unto The Lord Songbook #5"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med-slow
+keywords: os apo med slow
+ccli: ''
+copyright: ''
+source: 'Sing Unto The Lord Songbook #5'
+year: ''
 medley: []
-id: "EC35E67F-5BF9-41F6-BB50-448436A810E1"
+id: EC35E67F-5BF9-41F6-BB50-448436A810E1
 ---
-
 VERSE 1:
 
 God is [Gm]El[Ao]o[Gm]him of all the holy pro[F#o]phets,

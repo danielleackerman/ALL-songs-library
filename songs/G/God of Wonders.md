@@ -1,23 +1,26 @@
 ---
-title: "God of Wonders"
-artist: "Third Day"
+title: God of Wonders
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "3118757"
-copyright: "2000 New Spring Publishing, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "heaven"
+  - heaven
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3118757'
+copyright: '2000 New Spring Publishing, Inc.'
+source: ''
+year: ''
 medley: []
-id: "96D13F5B-7F47-42C0-8BD9-7AA8F77D7D88"
+id: 96D13F5B-7F47-42C0-8BD9-7AA8F77D7D88
 ---
-
 Intro:	Dsus  |  Em7  |  C2   (2X)
 
 VERSE 1:

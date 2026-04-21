@@ -1,24 +1,27 @@
 ---
-title: "The Word Is Alive"
-artist: "Casting Crowns"
+title: The Word Is Alive
+artist: Casting Crowns
 key: B
-tempo: 
-time: 
-ccli: 
-copyright: "2007 Club Zoo Music / SWECS Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "alive"
-  - "truth"
+  - alive
+  - truth
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2007 Club Zoo Music / SWECS Music
+source: ''
+year: ''
 medley: []
-id: "70AD22A5-94A0-40D4-A774-629E0BBC1952"
+id: 70AD22A5-94A0-40D4-A774-629E0BBC1952
 ---
-
 Intro:   G#m   F#
 
 VERSE 1:

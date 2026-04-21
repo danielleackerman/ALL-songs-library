@@ -1,22 +1,25 @@
 ---
-title: "Come One, Come All"
-artist: "MercyMe"
+title: 'Come One, Come All'
+artist: MercyMe
 key: B
-tempo: 
-time: 
-ccli: "3912575"
-copyright: "2002 Simpleville Music / Songs From The Indigo Room / Wordspring Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3912575'
+copyright: '2002 Simpleville Music / Songs From The Indigo Room / Wordspring Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "E6401C04-CE49-42B9-BB6B-2A758D6E67EE"
+id: E6401C04-CE49-42B9-BB6B-2A758D6E67EE
 ---
-
 Intro-Guitar: B A E
 Intro:-Base: B  Bb Ab  Bb Gb - B  Bb Ab Bb Gb  E
 

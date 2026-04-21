@@ -1,22 +1,25 @@
 ---
-title: "Knees to the Earth"
-artist: "Watermark"
+title: Knees to the Earth
+artist: Watermark
 key: G
-tempo: 
-time: 
-ccli: "4209627"
-copyright: "2003 Word Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4209627'
+copyright: '2003 Word Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "68CE54AB-E5DC-40A0-B557-54FDB0DE0044"
+id: 68CE54AB-E5DC-40A0-B557-54FDB0DE0044
 ---
-
 Capo ii
 
 VERSE 1:

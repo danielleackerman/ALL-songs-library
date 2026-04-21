@@ -1,23 +1,26 @@
 ---
-title: "Rejoice"
-artist: "MercyMe"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Rejoice
+artist: MercyMe
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "rejoice"
+  - rejoice
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CF240FB0-F0F9-4029-BC5C-2D369FF5F915"
+id: CF240FB0-F0F9-4029-BC5C-2D369FF5F915
 ---
-
 Key:
 
 Rejoice

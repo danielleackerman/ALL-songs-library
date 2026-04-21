@@ -1,38 +1,42 @@
 ---
-title: "I've Got A Feeling"
-artist: "Walt Mills"
+title: I've Got A Feeling
+artist: Walt Mills
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "high-energy"
-  - "medium-fast"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - high-energy
+  - medium-fast
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-high-energy-medium-fast-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-southern-gospel"
-keywords: "os southern gospel"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-high-energy-medium-fast-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-southern-gospel
+keywords: os southern gospel
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "879B5620-AEBA-4B54-B11F-4CAAC0B3967D"
+id: 879B5620-AEBA-4B54-B11F-4CAAC0B3967D
 ---
-
 {artist: Walt Mills}
 
 CHORUS:

@@ -1,23 +1,26 @@
 ---
-title: "Walk By Faith"
-artist: "Jeremy Camp"
+title: Walk By Faith
+artist: Jeremy Camp
 key: Bb
-tempo: 
-time: "3/4"
-ccli: "3903041"
-copyright: "2002 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "faith"
+  - faith
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3903041'
+copyright: 2002 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "0E76743A-6C73-4F5E-A9D9-9D3CFA4DD884"
+id: 0E76743A-6C73-4F5E-A9D9-9D3CFA4DD884
 ---
-
 INTRO:
 [Cm7][Fm7][Cm]
 [C][Eb][Bb]

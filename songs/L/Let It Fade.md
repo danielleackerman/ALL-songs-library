@@ -1,24 +1,29 @@
 ---
-title: "Let It Fade"
-artist: "Jeremy Camp"
+title: Let It Fade
+artist: Jeremy Camp
 key: D
-tempo: 
-time: 
-ccli: "4873668"
-copyright: "2006 Thirsty Moon River Publishing / Stolen Pride / Seven Peaks Music / Dying Ego Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "grace"
-  - "life"
+  - grace
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4873668'
+copyright: >-
+  2006 Thirsty Moon River Publishing / Stolen Pride / Seven Peaks Music / Dying
+  Ego Music
+source: ''
+year: ''
 medley: []
-id: "1F246B2C-5D07-43E1-965F-F6606C4C29D8"
+id: 1F246B2C-5D07-43E1-965F-F6606C4C29D8
 ---
-
 INTRO:
 [Dno3]  [Dm][a]j7no3
 

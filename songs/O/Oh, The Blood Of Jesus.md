@@ -1,28 +1,31 @@
 ---
-title: "Oh, The Blood Of Jesus"
-artist: ""
+title: 'Oh, The Blood Of Jesus'
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "blood"
+  - jesus
+  - blood
 genre: []
-energy: 
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[THERE IS POWER IN THE BLOOD]]"
-  - "[[NOTHING BUT THE BLOOD]]"
-  - "[[HOW I GOT OVER]]"
-id: "79B18D0F-722E-47F9-8BD2-9E12AE6F750E"
+  - '[[THERE IS POWER IN THE BLOOD]]'
+  - '[[NOTHING BUT THE BLOOD]]'
+  - '[[HOW I GOT OVER]]'
+id: 79B18D0F-722E-47F9-8BD2-9E12AE6F750E
 ---
-
 Medley: there is power in the blood / nothing but the blood / how I got over
 
 [F]Oh [Bb/F]the [F]blood of [Bb/F]Je[F]sus,

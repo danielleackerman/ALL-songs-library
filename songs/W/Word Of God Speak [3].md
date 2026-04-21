@@ -1,72 +1,56 @@
 ---
-title: "Word Of God Speak"
-artist: "MercyMe"
+title: Word of God Speak
+artist: MercyMe
 key: C
-tempo: 
-time: 
-ccli: "3912788"
-copyright: "2002 Simpleville Music / Songs From The Indigo Room / Wordspring Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "holiness"
-  - "majesty"
+  - holiness
+  - majesty
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3912788'
+copyright: '2002 Simpleville Music / Songs From The Indigo Room / Wordspring Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "8C08D029-0282-46C5-BB66-C2DBD5ECB5CB"
+id: BEA757AE-913C-413D-8C4B-7ECA3B03B3F7
 ---
+C                    CaddF C
+I'm finding myself at a loss for words
+[Cadd9]And the [Fmaj7]funny thing is [F]it's[Fmaj7] okay
+                 C       CaddF C
+The last thing I need is to be  heard
+[Cadd9]But to [Fmaj7]hear what You [F]woul[Fmaj7]d say Word of [C]God speak
+                         G
+Would You pour down like rain
+Washing my [Bb]eyes to see Your M[F]ajesty
+To be still and kn[C]ow That You're in this place[G]
+Please let me s[Bb]tay and rest In Your [F]Holiness
+            C     CaddF C CaddF C CaddF C
+Word of God speak
+C                         CaddF   C
+I'm finding myself in the midst of You
+[Cadd9]Beyond the [Fmaj7]music, be[F]yond the [Fmaj7]noise
+                  C          CaddF  C
+All that I need is to be with You
+And [Cadd9]in the [Fmaj7]quiet he[F]ar Your [Fmaj7]voice
+Word of God [C]speak Would You pour down l[G]ike rain
+Washing my [Bb]eyes to see Your M[F]ajesty
+To be still and kn[C]ow That You're in this place[G]
+Please let me s[Bb]tay and rest In Your [F]Holiness
+Word of God[C] speak Would You pour down l[G]ike rain
+Washing my [Bb]eyes to see Your M[F]ajesty
+To be still and kn[C]ow That You're in this place[G]
+Please let me s[Bb]tay and rest In Your [F]Holiness
+              C           CaddF C
+I'm finding myself at a loss for words
+[Cadd9]And the fu[Fmaj7]nny thing is it's[F] okay[Fmaj7]
 
-INTRO:
-[C] - [Csus] - [C]   [C/F] - [Csus/F] - [C/F]
-
-V1
-I'm finding mys[C]elf at a[Csus4] loss for wo[C]rds
-And the f[C/F]unny thing is it's[Csus4/F]    O  - [C/F] k
-The last thing I n[C]eed is to[Csus4] be hea[C]rd
-But to [C/F]hear what[Csus4/F] You would [C/F]say
-
-CHORUS:
-Word of God s[C]peak would You pour down like r[G]ain
-Wa[G]shing [Am]my e[Bb]yes to see Your m[F]ajesty
-To be still and k[C]now that You're in this pl[G]ace
-Pl[G]ease let [Am]me s[Bb]tay and rest in Your h[F]oliness
-Word of God sp[C]eak[C4][C][C/F][C4/F][C/F]
-
-V2
-I'm finding mys[C]elf in the [Csus4]midst of y[C]ou
-Beyond the m[C/F]usic be[Csus4/F]-yond  the n[C/F]oise
-All that I n[C]eed is to[Csus4]  be with y[C]ou
-And in the q[C/F]uiet to[Csus4/F] hear  Your v[C/F]oice
-
-Chorus: x2
-Word of God s[C]peak would You pour down like r[G]ain
-Wa[G]shing [Am]my e[Bb]yes to see Your m[F]ajesty
-To be still and k[C]now that You're in this pl[G]ace
-Pl[G]ease let [Am]me s[Bb]tay and rest in Your h[F]oliness
-Word of God s[C]peak would You pour down like r[G]ain
-Wa[G]shing [Am]my e[Bb]yes to see Your m[F]ajesty
-To be still and k[C]now that You're in this pl[G]ace
-Pl[G]ease let [Am]me s[Bb]tay and rest in Your h[F]oliness
-Word of God sp[C]eak[C4][C][C/F][C4/F][C/F]
-
-1/2 v1
-I'm finding mys[C]elf at a[Csus4] loss for wo[C]rds
-And the f[C/F]unny thing is it's[Csus4/F]    O  - [C/F] k
-
-   C Csus4(C4) G  Am  Bb  F  F4
-E  0 x         3  0   1   1  1
-[B]  1 1         0  1   3   1  1
-[G]  0 0         0  2   3   2  3
-[D]  2 3         0  2   3   3  3
-A  3 3         2  0   1   3  3
-E  x x         3  0   x   1  1
-
-Alternative Verse Chords  (If playing on guitar without Bass)
-
-I'm finding mys[C]elf at a[Csus4] loss for wo[C]rds
-And the fu[F]nny thing is it's [F4]O - [F]k
-The last thing I n[C]eed is to[Csus4] be hea[C]rd
-But to h[F]ear what y[F4]ou would s[F]ay
+C=x32010  CaddF=x32011 Cadd9=x32030 Fmaj7=xx3210 F=xx3211 G=320001 Bb=xx3331

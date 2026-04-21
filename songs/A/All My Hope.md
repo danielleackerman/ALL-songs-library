@@ -1,33 +1,37 @@
 ---
-title: "All My Hope"
-artist: "Crowder"
+title: All My Hope
+artist: Crowder
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "hope"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - jesus
+  - hope
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "262135BC-83E5-41BE-B55B-D7B9964873DB"
+id: 262135BC-83E5-41BE-B55B-D7B9964873DB
 ---
-
 INTRO:
 [Ab] [Db] [|][Ab][Eb][Db]
 

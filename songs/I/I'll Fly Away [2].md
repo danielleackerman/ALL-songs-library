@@ -1,61 +1,55 @@
 ---
-title: "I'll Fly Away"
-artist: "Jars Of Clay"
+title: I'll Fly Away
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: "26399"
-copyright: "1932 Hartford Music Company. Renewed 1960 Albert E. Brumley And Sons (Admin. by Integrated Copyright Group, Inc.)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7947E3E3-E2AD-4A68-B0B6-6DBAFE545F77"
+id: 6AB72FE4-A34D-4C96-97CF-DF800F436602
 ---
+(Verse:1)
 
-Chords: G- 320033  G7- 323003 C- x32033 Em- 0220033 Dsus- 000233
+[G]Some glad morning when this life is [G7/B]o'er, [C7]I'll fly a---[G]way.  [C/D]
+[G]To a home on God's celestial [Em7]shore, [G/D]I'll [D7].    fly a----[G]way.  [C/D]
 
-CHORUS:
-[G]I’ll fly away, Oh G[G7]lory, [C]I’ll fly[G] away[C][G][C][G]
-[G]When I [Dsus]die, h[Em]allelujah by and by, [G]I’ll [D]fly [G]away
+(Chorus:)
 
-Intro – G C G C G C G x2
+[G]I'll fly away O glo---[G7/B]ry, [C7]I'll fly a---[G]way.   [C/D]
+[G]When I die hallelujah, by and [Em7]by,     [G/D]I'll   [D7].     fly   a---[G]way.
 
-VERSE 1:
-[G]Some bright morning when this life is [G7]over, [C]I’ll fly[G] away[C][G][C][G]
-[G]To a land on God’s celestial shore, [C]I’ll fly [G]away
+(Verse:2)
 
-Bridge – Em, G, Dsus, G
+When the shadows of this life have grown, I'll fly away
+Like a bird from prison bars has flown, I'll fly away.
 
-V. 2
-When the shadows of this life have grown, I’ll fly away
-Like a bird from these prison walls, I’ll fly away
+(Verse:3)
 
-V. 3
-Oh how glad and happy when we meet, I’ll fly away
-No more cold iron shackles on my feet, I’ll fly away
-
-Solo – chorus chord pattern.
-
-V. 4
-Just a few more weary days and then, I’ll fly away
-To a land where joy will never end, I’ll fly away
-
-*Chorus repeats until done
+Just a few more weary days and then, I'll fly away
+To a land where joys shall never end, I'll fly away.

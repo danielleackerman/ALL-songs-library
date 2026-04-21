@@ -1,23 +1,26 @@
 ---
-title: "Give You Glory (We Give You Glory)"
-artist: "Jeremy Camp"
+title: Give You Glory (We Give You Glory)
+artist: Jeremy Camp
 key: D
-tempo: 
-time: 
-ccli: "4874337"
-copyright: "2006 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4874337'
+copyright: 2006 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "4334C059-69B5-4A4C-9088-DE40AD5BE0F9"
+id: 4334C059-69B5-4A4C-9088-DE40AD5BE0F9
 ---
-
 INTRO:
 [D]  [Dmaj7]      [D]
 

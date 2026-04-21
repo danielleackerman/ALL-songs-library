@@ -1,31 +1,35 @@
 ---
-title: "He’s In This Place"
-artist: "Clint Brown"
+title: He’s In This Place
+artist: Clint Brown
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9A716442-596E-478F-B5C2-8E551E4E28F3"
+id: A5D1ED5E-7059-4139-B459-5DB3531EABA3
 ---
-
 [F]He’s [C]in this [Dm]place
 His [Gm]presence [F/A]manifested as we
 [Bb]offer up our [C]praise

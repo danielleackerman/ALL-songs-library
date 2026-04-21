@@ -1,24 +1,27 @@
 ---
-title: "More Love, More Power"
-artist: ""
+title: 'More Love, More Power'
+artist: ''
 key: Gm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "power"
+  - love
+  - power
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7A80482D-F578-4595-9271-A36BCC20A802"
+id: 7A80482D-F578-4595-9271-A36BCC20A802
 ---
-
 INTRO:
 [Gm]  [Gm/Eb]  [F]  [Gm]
 

@@ -1,22 +1,25 @@
 ---
-title: "Leaning On The Everlasting Arms-EASY"
-artist: ""
+title: Leaning On The Everlasting Arms-EASY
+artist: ''
 key: A
-tempo: 
-time: 
-ccli: "31779"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '31779'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "690E3F5B-92E6-435C-9687-E6D897E3FF91"
+id: 690E3F5B-92E6-435C-9687-E6D897E3FF91
 ---
-
 VERSE 1:
 [A]What a fellowship, [D]what a joy divine, [A]leaning on the Everlasting [E]Arms
 [A]What a blessedness, [D]what a peace is mine, [A]leaning on the Everl[E]asting A[A]rms

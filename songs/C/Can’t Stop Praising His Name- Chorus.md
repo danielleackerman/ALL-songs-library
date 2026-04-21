@@ -1,27 +1,30 @@
 ---
-title: "Can’t Stop Praising His Name- Chorus"
-artist: ""
+title: Can’t Stop Praising His Name- Chorus
+artist: ''
 key: Dm
-tempo: 61
-time: 
-ccli: 
-copyright: 
+bpm: '61'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "his-name"
-  - "traditional-gospel"
+  - jesus
+  - his-name
+  - traditional-gospel
 genre: []
-energy: slow
 profile:
-  - "os-apo-med"
-keywords: "os apo med, traditional gospel"
-source: 
-year: 
+  - os-apo-med
+keywords: 'os apo med, traditional gospel'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[SEND IT ON DOWN]]"
-id: "EE1B0549-4DDB-490A-A3C1-F3ADB60A37CC"
+  - '[[SEND IT ON DOWN]]'
+id: EE1B0549-4DDB-490A-A3C1-F3ADB60A37CC
 ---
-
 Medley: send it on down
 
 INTRO:

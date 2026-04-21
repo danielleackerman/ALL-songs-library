@@ -1,37 +1,41 @@
 ---
-title: "They That Wait Upon The Lord"
-artist: "James McGranahan"
+title: They That Wait Upon The Lord
+artist: James McGranahan
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "strength"
-  - "sutl"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - strength
+  - sutl
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med, sutl"
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: 'os apo med, sutl'
+ccli: ''
+copyright: ''
+source: ''
 year: 1887
 medley: []
-id: "B2FFD009-F394-49F5-A9FD-83CD571C60EB"
+id: B2FFD009-F394-49F5-A9FD-83CD571C60EB
 ---
-
 {artist: James McGranahan, 1887}
 
 VERSE 1:

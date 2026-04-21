@@ -1,35 +1,39 @@
 ---
-title: "From The Sanctuary"
-artist: "Clint Brown"
+title: From The Sanctuary
+artist: Clint Brown
 key: C
-tempo: 
-time: 
-ccli: "4579553"
-copyright: "2005 Tribe Music Group"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "hope"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - hope
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '4579553'
+copyright: 2005 Tribe Music Group
+source: ''
+year: ''
 medley: []
-id: "45E13813-7173-4108-BE8B-73FB98C82D2B"
+id: 45E13813-7173-4108-BE8B-73FB98C82D2B
 ---
-
 [Intro:]        [C]    [F\C]    [C]  [-]    [C]    [F\C]    [C]   [-]   [C]    [F\C]    [C]
 
 There’s a migh[F]ty praise of v[C]ictory    There’s a might[F]y praise of victo[C]ry

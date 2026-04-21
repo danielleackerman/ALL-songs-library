@@ -1,22 +1,25 @@
 ---
-title: "Here I Am"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Here I Am
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "555CC57F-8A1A-4066-92D2-5DC3BF936093"
+id: 555CC57F-8A1A-4066-92D2-5DC3BF936093
 ---
-
 Key:
 
 [C/D]Here I [G]am

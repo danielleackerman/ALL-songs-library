@@ -1,36 +1,40 @@
 ---
-title: "I'm Going Through"
-artist: "Edwin Hawkins"
+title: I'm Going Through
+artist: Edwin Hawkins
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "medium-slow"
-  - "praise"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - medium-slow
+  - praise
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-medium-slow-praise-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-medium-slow-praise-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DDF154FF-BB3E-442D-B278-47F51ACE889D"
+id: DDF154FF-BB3E-442D-B278-47F51ACE889D
 ---
-
 CHORUS:
 [G]I'm [C/G]going [G]through,  [A#/G]I'm go[Am/G]ing [G]through.   [C7]
 I [E,G/C]don't [D#,G/B]care what the [D,G/A#]rest of the [C#,G/A]world decides to [C,G/G#]do

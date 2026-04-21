@@ -1,23 +1,26 @@
 ---
-title: "The Purest Place"
-artist: "Watermark"
+title: The Purest Place
+artist: Watermark
 key: Eb
-tempo: 
-time: 
-ccli: "4347998"
-copyright: "2004 Word Music, LLC / Sweater Weather Music / Rocketown Music, LLC."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "king"
+  - king
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4347998'
+copyright: '2004 Word Music, LLC / Sweater Weather Music / Rocketown Music, LLC.'
+source: ''
+year: ''
 medley: []
-id: "3647DCEB-AA2D-408B-8283-519B50FAC706"
+id: 3647DCEB-AA2D-408B-8283-519B50FAC706
 ---
-
 You would use the transcribe feature and play the song in the key of D.  Capo 1 on guitar for Eb.
 
 Intro: Ebmaj9  Abmaj9 (repeating)

@@ -1,23 +1,26 @@
 ---
-title: "Jesus Saves"
-artist: "Jeremy Camp"
+title: Jesus Saves
+artist: Jeremy Camp
 key: B
-tempo: 
-time: 
-ccli: "5322950"
-copyright: "2008 Thankyou Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5322950'
+copyright: 2008 Thankyou Music
+source: ''
+year: ''
 medley: []
-id: "DDBB982B-99EA-46A4-8911-AF0774D8BD7A"
+id: DDBB982B-99EA-46A4-8911-AF0774D8BD7A
 ---
-
 (The recording is in B, but you can play it capo 4 in G, or capo 2 in A;
 I've given the original key here so it's easier to play along with the CD).
 

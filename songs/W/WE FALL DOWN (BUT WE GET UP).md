@@ -1,22 +1,25 @@
 ---
-title: "We Fall Down (but We Get up)"
-artist: "Donnie Mcclurkin"
+title: We Fall Down (but We Get up)
+artist: Donnie Mcclurkin
 key: Gb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "We fall down but we get up"
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: We fall down but we get up
+year: ''
 medley: []
-id: "BD6ABBE7-79B9-41DC-9A18-11C23CC11935"
+id: BD6ABBE7-79B9-41DC-9A18-11C23CC11935
 ---
-
 we fall down but we get up
 We fall down but we get up
 we fall down but we get up

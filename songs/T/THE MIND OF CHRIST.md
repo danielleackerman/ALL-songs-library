@@ -1,32 +1,36 @@
 ---
-title: "The Mind of Christ"
-artist: "Jody McBrayer"
+title: The Mind of Christ
+artist: Jody McBrayer
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "christ"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - christ
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0CA921D6-2E00-4116-BAB2-6FA0A007C89D"
+id: 0CA921D6-2E00-4116-BAB2-6FA0A007C89D
 ---
-
 Intro 2x ?:
 [Bb] [G] [F] [Eb] [Bb] [Eb] [F] [G] [A] [G] [F] [C] [A] [C] [F] [A]
 

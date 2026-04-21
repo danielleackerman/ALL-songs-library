@@ -1,22 +1,25 @@
 ---
-title: "I Surrender To You"
-artist: "Jeremy Camp"
+title: I Surrender To You
+artist: Jeremy Camp
 key: G
-tempo: 
-time: 
-ccli: "4249711"
-copyright: "2004 Thirsty Moon Publishing / Dodd Music / Dying Ego Music / Ganologiks"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4249711'
+copyright: 2004 Thirsty Moon Publishing / Dodd Music / Dying Ego Music / Ganologiks
+source: ''
+year: ''
 medley: []
-id: "48DAA2B5-4A0E-4287-91C9-FDD39FE7379B"
+id: 48DAA2B5-4A0E-4287-91C9-FDD39FE7379B
 ---
-
 Intro: G Am7 C D
 
 VERSE:

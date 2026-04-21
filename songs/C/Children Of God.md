@@ -1,24 +1,27 @@
 ---
-title: "Children Of God"
-artist: "Third Day"
+title: Children Of God
+artist: Third Day
 key: F
-tempo: 
-time: 
-ccli: "5856024"
-copyright: "2010 Songs from the Quarry"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "children"
+  - love
+  - children
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5856024'
+copyright: 2010 Songs from the Quarry
+source: ''
+year: ''
 medley: []
-id: "08D09363-4165-42F7-AA0F-C0C9E117C59B"
+id: 08D09363-4165-42F7-AA0F-C0C9E117C59B
 ---
-
 Verse 1                                                   { v1.c.v2.c.inst.b.c.b}
 [Dm]Praise to the Father of our Lord Jesus Christ
 Our G[F]od and our  King to [C]him we will sing

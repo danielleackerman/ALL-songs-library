@@ -1,38 +1,42 @@
 ---
-title: "We’ve Got The Power"
-artist: ""
+title: We’ve Got The Power
+artist: ''
 key: B
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "power"
-  - "country"
-  - "hymn"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - power
+  - country
+  - hymn
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-  - "os-apo-med"
-keywords: "os apo med, country, hymn"
-source: "LaVerne Tripp; In the name of Jesus"
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+  - os-apo-med
+keywords: 'os apo med, country, hymn'
+ccli: ''
+copyright: ''
+source: LaVerne Tripp; In the name of Jesus
+year: ''
 medley:
-  - "[[BREAK EVERY CHAIN]]"
-id: "21E429ED-D2AD-4BBA-916C-67F078AA65AE"
+  - '[[BREAK EVERY CHAIN]]'
+id: 21E429ED-D2AD-4BBA-916C-67F078AA65AE
 ---
-
 Medley: break every chain
 
 CHORUS:

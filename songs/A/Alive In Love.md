@@ -1,24 +1,27 @@
 ---
-title: "Alive In Love"
-artist: "The Swift"
+title: Alive In Love
+artist: The Swift
 key: A
-tempo: 
-time: 
-ccli: "4362148"
-copyright: "2004 Flicker USA Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "alive"
+  - love
+  - alive
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4362148'
+copyright: 2004 Flicker USA Publishing
+source: ''
+year: ''
 medley: []
-id: "61319D9A-9937-4764-A809-6EACF67462C2"
+id: 61319D9A-9937-4764-A809-6EACF67462C2
 ---
-
 INTRO:
 [A] [E] [F#m] [D]
 

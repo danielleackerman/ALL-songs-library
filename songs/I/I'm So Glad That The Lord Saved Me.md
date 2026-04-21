@@ -1,24 +1,27 @@
 ---
-title: "I'm So Glad That The Lord Saved Me"
-artist: "Traditional"
+title: I'm So Glad That The Lord Saved Me
+artist: Traditional
 key: C
-tempo: 107
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '107'
+time_sig: 4/4
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
+  - altar-songs
 genre: []
-energy: medium
 profile:
-  - "o-s-apo-fast"
-keywords: "o. s. apo. fast"
-source: 
-year: 
+  - o-s-apo-fast
+keywords: o. s. apo. fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E8B35639-64B7-41C6-9110-4C854D3A9086"
+id: E8B35639-64B7-41C6-9110-4C854D3A9086
 ---
-
 CHORUS:
 [F/G]I'm so [C]glad that the Lord saved me,
 I'm so glad that the [D7]Lord saved [G7]me. [G#dim]. [G9]

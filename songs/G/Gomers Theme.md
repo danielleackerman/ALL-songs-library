@@ -1,23 +1,26 @@
 ---
-title: "Gomers Theme"
-artist: "Third Day"
+title: Gomers Theme
+artist: Third Day
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DE2AE713-0DF3-41B2-B498-E89509B40535"
+id: DE2AE713-0DF3-41B2-B498-E89509B40535
 ---
-
 INTRO:
 [E]In this place, saw her fa[E7]ce, he was more than [A]happier
 [E]Made for Him, It's a si[E7]n, that she was not fai[A]thful

@@ -1,22 +1,25 @@
 ---
-title: "I Am Thine, O Lord"
-artist: ""
+title: 'I Am Thine, O Lord'
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9F465544-6CA5-4980-8E74-930A8FAE7026"
+id: 9F465544-6CA5-4980-8E74-930A8FAE7026
 ---
-
 Verse:1
 
 D7/F#]I am [Fm7]Thine, O [Bb7]Lord, I have [Ab/Eb]heard Thy [Eb]voice

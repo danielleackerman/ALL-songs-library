@@ -1,35 +1,39 @@
 ---
-title: "Breath Of Heaven (Mary's Song)"
-artist: "Amy Grant"
+title: Breath Of Heaven (Mary's Song)
+artist: Amy Grant
 key: D
-tempo: 
-time: 
-ccli: "1128784"
-copyright: "1992 Age to Age Music, Inc. / Clouseau Music Ltd / Riverstone Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "heaven"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - heaven
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '1128784'
+copyright: '1992 Age to Age Music, Inc. / Clouseau Music Ltd / Riverstone Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "504DAA5E-5976-4DD7-857B-8E58830B8A28"
+id: 504DAA5E-5976-4DD7-857B-8E58830B8A28
 ---
-
 [B(m)]I have traveled many moonless nights
 [D]Cold and weary with a babe inside
 [Bm7]And I w[Em]onder what[G] I've done

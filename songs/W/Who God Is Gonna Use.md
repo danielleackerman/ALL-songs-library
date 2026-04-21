@@ -1,22 +1,25 @@
 ---
-title: "Who God Is Gonna Use"
-artist: "Rich Mullins"
+title: Who God Is Gonna Use
+artist: Rich Mullins
 key: G
-tempo: 
-time: 
-ccli: "701906"
-copyright: "1991 BMG Songs, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '701906'
+copyright: '1991 BMG Songs, Inc.'
+source: ''
+year: ''
 medley: []
-id: "BBE4A941-A013-445C-802B-153A339C40DD"
+id: BBE4A941-A013-445C-802B-153A339C40DD
 ---
-
 VERSE 1:
     G
 Now balaam He had a donkey Who was gentle and true and kind

@@ -1,31 +1,35 @@
 ---
-title: "I Exalt Thee"
-artist: ""
+title: I Exalt Thee
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "13776782-51D1-42DA-AB03-B186BBBE2244"
+id: 13776782-51D1-42DA-AB03-B186BBBE2244
 ---
-
 CHORUS:
 [Ab/Bb]I [Eb]exalt Thee,
 I [Bb/G]exalt Thee  [Gm]

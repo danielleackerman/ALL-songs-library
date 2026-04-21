@@ -1,30 +1,34 @@
 ---
-title: "Giving My Best"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Giving My Best
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "giving"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - giving
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7432850C-471F-4041-AAD1-19F2632A1F07"
+id: 7432850C-471F-4041-AAD1-19F2632A1F07
 ---
-
 

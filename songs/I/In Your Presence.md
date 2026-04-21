@@ -1,23 +1,26 @@
 ---
-title: "In Your Presence"
-artist: "Jeremy Camp"
+title: In Your Presence
+artist: Jeremy Camp
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "2002 Thirsty Moon River Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "presence"
+  - presence
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2002 Thirsty Moon River Publishing
+source: ''
+year: ''
 medley: []
-id: "364432E7-BFAF-4EDA-96C2-19FD4B3C039C"
+id: 364432E7-BFAF-4EDA-96C2-19FD4B3C039C
 ---
-
 INTRO:
 Em7 - d/f# - c2 (x2)
 

@@ -1,27 +1,30 @@
 ---
-title: "I Came To Praise the Lord (I don't know what you came to do)"
-artist: "William J. Gaither"
+title: I Came To Praise the Lord (I don't know what you came to do)
+artist: William J. Gaither
 key: C
-tempo: 
-time: 
-ccli: "57423"
-copyright: "1973 Wiiliam J. Gaither, Inc., Admin. Gaither Copyright Management"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "worship"
+  - praise
+  - worship
 genre: []
-energy: 
 profile:
-  - "os-southern-gospel-med"
-  - "os-apo-med"
-keywords: "os southern gospel med, os apo med, praise, worship"
-source: 
+  - os-southern-gospel-med
+  - os-apo-med
+keywords: 'os southern gospel med, os apo med, praise, worship'
+ccli: '57423'
+copyright: '1973 Wiiliam J. Gaither, Inc., Admin. Gaither Copyright Management'
+source: ''
 year: 1973
 medley:
-  - "[[HOW DID YOU FEEL?]]"
-id: "22170212-20D6-444E-B6BB-5229447AB464"
+  - '[[HOW DID YOU FEEL?]]'
+id: 22170212-20D6-444E-B6BB-5229447AB464
 ---
-
 Medley: how did You feel? /
 
 CHORUS:

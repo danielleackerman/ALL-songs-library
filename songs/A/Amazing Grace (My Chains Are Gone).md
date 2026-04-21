@@ -1,23 +1,26 @@
 ---
-title: "Amazing Grace (My Chains Are Gone)"
-artist: "Chris Tomlin"
+title: Amazing Grace (My Chains Are Gone)
+artist: Chris Tomlin
 key: D
-tempo: 
-time: 
-ccli: "4768151"
-copyright: "worshiptogether.com songs / sixsteps Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "grace"
+  - grace
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4768151'
+copyright: worshiptogether.com songs / sixsteps Music
+source: ''
+year: ''
 medley: []
-id: "3FE9D793-CEA8-4D96-9047-C13E9C9AB52A"
+id: 3FE9D793-CEA8-4D96-9047-C13E9C9AB52A
 ---
-
 VERSE 1:
 A-m[D]azing Grace how s[G/D]weet the so[D]und
 that saved a wretch like [A/D]me

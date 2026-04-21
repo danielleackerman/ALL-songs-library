@@ -1,24 +1,26 @@
 ---
-title: "Because He Lives -- version 2"
-artist: "Bill and Gloria Gaither"
+title: Because He Lives -- version 2
+artist: Bill and Gloria Gaither
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "ACD0668E-BAC5-4E02-993D-32C945C1EBC2"
+id: ACD0668E-BAC5-4E02-993D-32C945C1EBC2
 ---
-
-
 CHORUS:
 [C]Because  He [C7]lives, I  can face  [F]tomorrow
 Because He   [C]lives,  All   fear   is  [D7]gone  [G7]

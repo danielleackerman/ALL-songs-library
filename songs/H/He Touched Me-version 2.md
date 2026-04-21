@@ -1,41 +1,45 @@
 ---
-title: "He Touched Me-version 2"
-artist: "Bill and Gloria Gaither"
+title: He Touched Me-version 2
+artist: Bill and Gloria Gaither
 key: C
-tempo: 
-time: 
-ccli: "13072"
-copyright: "1964 William J. Gaither, Inc. ARR UBP of Gaither Copyright Management"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "cleansing"
-  - "healing"
-  - "testimony"
+  - altar-songs
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - cleansing
+  - healing
+  - testimony
 genre: []
-energy: high
 profile:
-  - "altar-songs-black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-slow"
-  - "os-southern-gospel-slow"
-keywords: "os apo slow, cleansing, healing, testimony, os southern gospel slow"
-source: 
+  - >-
+    altar-songs-black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - os-apo-slow
+  - os-southern-gospel-slow
+keywords: 'os apo slow, cleansing, healing, testimony, os southern gospel slow'
+ccli: '13072'
+copyright: '1964 William J. Gaither, Inc. ARR UBP of Gaither Copyright Management'
+source: ''
 year: 1963
 medley:
-  - "[[there's something about that name]]"
-id: "928F6306-976D-4F18-8877-C61D6DB0D952"
+  - '[[there''s something about that name]]'
+id: 928F6306-976D-4F18-8877-C61D6DB0D952
 ---
-
 medley: there's something about that name
 
 [G]He touched [G7]me, Oh [C]He touched [C7]me

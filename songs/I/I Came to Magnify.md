@@ -1,35 +1,39 @@
 ---
-title: "I Came to Magnify"
-artist: "Mark Condon"
+title: I Came to Magnify
+artist: Mark Condon
 key: Eb
-tempo: 144
-time: 
-ccli: 
-copyright: 
+bpm: '144'
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "82B63F12-4CE4-48B1-B695-2070A2F5BD8C"
+id: 82B63F12-4CE4-48B1-B695-2070A2F5BD8C
 ---
-
 INTRO:
 [Eb-][Gb-][Ab] [Gb∆7/Ab] [Ab13] [Gb∆7/Ab] [Ab13] [Eb-][Gb-][Ab] [Gb∆7/Ab] [Ab13]
 [Db-][Bb-][Ab-][Bb-][Ab-][Eb-][Gb-][Ab]

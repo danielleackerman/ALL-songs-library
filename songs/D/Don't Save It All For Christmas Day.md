@@ -1,23 +1,26 @@
 ---
-title: "Don't Save It All For Christmas Day"
-artist: "Avalon"
+title: Don't Save It All For Christmas Day
+artist: Avalon
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: "1998 Duffield Corp. / Pez Music / Connotation Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 1998 Duffield Corp. / Pez Music / Connotation Music
+source: ''
+year: ''
 medley: []
-id: "61751B9E-8D86-4914-B5F5-D539A367F16D"
+id: 61751B9E-8D86-4914-B5F5-D539A367F16D
 ---
-
 Some of the "more interesting" chords:
 [Cm][a]j7 = x32000
 [D2/B] = x20230

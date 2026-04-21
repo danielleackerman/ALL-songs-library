@@ -1,22 +1,25 @@
 ---
-title: "Run To You"
-artist: "Third Day"
+title: Run To You
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "5208483"
-copyright: "2008 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5208483'
+copyright: 2008 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "10E3EFD3-3A9F-4D1E-8724-7CC87614CAB3"
+id: 10E3EFD3-3A9F-4D1E-8724-7CC87614CAB3
 ---
-
 INTRO:
 [Em]    [C]    [Em]    [C]
 

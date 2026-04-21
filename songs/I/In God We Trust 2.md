@@ -1,25 +1,28 @@
 ---
-title: "In God We Trust 2"
-artist: "Voices of Hope"
+title: In God We Trust 2
+artist: Voices of Hope
 key: Bb
-tempo: 66
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '66'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "hope"
-  - "trust"
+  - hope
+  - trust
 genre: []
-energy: medium-slow
 profile:
-  - "contemp-christian-slow"
-keywords: "contemp christian slow"
-source: 
-year: 
+  - contemp-christian-slow
+keywords: contemp christian slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4F4675A5-23C6-4296-B40C-BB341AE3791C"
+id: 4F4675A5-23C6-4296-B40C-BB341AE3791C
 ---
-
 [Ab]  [Eb]  [Bb]  [Bb]
 [Ab]  [Eb]  [Bb]  [Bb]
 

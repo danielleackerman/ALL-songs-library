@@ -1,34 +1,38 @@
 ---
-title: "More Than Wonderful"
-artist: "Lanny Wolfe"
+title: More Than Wonderful
+artist: Lanny Wolfe
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "47BD8A32-E52B-47A3-9FA8-B9D03946C7D0"
+id: 47BD8A32-E52B-47A3-9FA8-B9D03946C7D0
 ---
-
 VERSE 1:
 He [F]promised us that [Eb/F]He would be a [Eb/Bb]counsel[Bb]or
 A [F]mighty God [Eb/F]and a Prince of [Bb2]Peace[Bb] [Gm7]  [Bb/C]  [C]

@@ -1,24 +1,27 @@
 ---
-title: "That Where I Am There You"
-artist: "Rich Mullins"
+title: That Where I Am There You
+artist: Rich Mullins
 key: D
-tempo: 
-time: 
-ccli: "2587468"
-copyright: "1998 Liturgy Legacy Music / Word Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "father"
-  - "truth"
+  - father
+  - truth
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2587468'
+copyright: '1998 Liturgy Legacy Music / Word Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "5A3FD49A-5591-4D5C-8FC7-A04636CA5EEE"
+id: 5A3FD49A-5591-4D5C-8FC7-A04636CA5EEE
 ---
-
 Ok, this is a great song, reminds me of Hope to Carry On. This requires a
 fast strum, which means that a thin pick is ideal.
 

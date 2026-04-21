@@ -1,22 +1,25 @@
 ---
-title: "Preacher, Preach To Me"
-artist: "Wayne Lawhorn"
+title: 'Preacher, Preach To Me'
+artist: Wayne Lawhorn
 key: Eb
-tempo: 
-time: "3/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7DD16791-64D2-4427-9CA9-90F325005C3D"
+id: 7DD16791-64D2-4427-9CA9-90F325005C3D
 ---
-
 CHORUS:
 [EbM7]Preacher, [Bb13]preach [Bb7]to [Eb]me [Eb7/G]
 [Ab2]Preacher [Bb13]preach [Bb]to [EbM7]me  [Bbm/Eb]

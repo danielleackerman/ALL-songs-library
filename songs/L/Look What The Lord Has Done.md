@@ -1,39 +1,43 @@
 ---
-title: "Look What The Lord Has Done"
-artist: "Mark David Hanby"
+title: Look What The Lord Has Done
+artist: Mark David Hanby
 key: F
-tempo: 120
-time: "4/4"
-ccli: "97861"
-copyright: "1974 Exaltation Music, Admin. Ministry Management Associates"
+bpm: '120'
+time_sig: 4/4
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - altar-songs
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-fast
 profile:
-  - "altar-songs-black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-fast"
-keywords: "os apo fast"
-source: "1974"
-year: 
+  - >-
+    altar-songs-black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-fast
+keywords: os apo fast
+ccli: '97861'
+copyright: '1974 Exaltation Music, Admin. Ministry Management Associates'
+source: '1974'
+year: ''
 medley:
-  - "[[Enemy’s Camp]]"
-  - "[[Can You Believe]]"
-id: "682DD4AD-F415-4488-93FB-2C2CA91787C7"
+  - '[[Enemy’s Camp]]'
+  - '[[Can You Believe]]'
+id: 682DD4AD-F415-4488-93FB-2C2CA91787C7
 ---
-
 {artist: Mark David Hanby (1974)}
 
 MEDLEY: Enemy’s Camp // Can You Believe

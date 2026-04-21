@@ -1,22 +1,25 @@
 ---
-title: "I Got A Feeling"
-artist: "Third Day"
+title: I Got A Feeling
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "4292146"
-copyright: "2004 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4292146'
+copyright: 2004 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "68C6187D-A01F-4855-8285-5AD01D7EAA1A"
+id: 68C6187D-A01F-4855-8285-5AD01D7EAA1A
 ---
-
 VERSE 1:
 [G]  I got a message[C]  [Bb]  I got a song[C]   [G] Can I get a witness[C]  [Bb]  Tell me what’s going on
 

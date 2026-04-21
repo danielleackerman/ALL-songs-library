@@ -1,22 +1,25 @@
 ---
-title: "I See You"
-artist: "Rich Mullins"
+title: I See You
+artist: Rich Mullins
 key: Gb
-tempo: 
-time: 
-ccli: "701951"
-copyright: "1991 BMG Songs, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '701951'
+copyright: '1991 BMG Songs, Inc.'
+source: ''
+year: ''
 medley: []
-id: "AB629205-B3A4-471A-8AEE-4155BD6019B8"
+id: AB629205-B3A4-471A-8AEE-4155BD6019B8
 ---
-
 The Books of Moses/ Isaiah 40:8
 
 (all lines echoed)

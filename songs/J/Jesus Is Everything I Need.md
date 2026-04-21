@@ -1,38 +1,42 @@
 ---
-title: "Jesus Is Everything I Need"
-artist: "Wayne Goodine 1996 / performed by Alvin Slaughter"
+title: Jesus Is Everything I Need
+artist: Wayne Goodine 1996 / performed by Alvin Slaughter
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "life"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - life
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-  - "mod-gospel-slow"
-keywords: "mod apo slow, mod gospel slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+  - mod-gospel-slow
+keywords: 'mod apo slow, mod gospel slow'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "2C26D9EA-55E1-41D8-92F9-94394333EDB8"
+id: 2C26D9EA-55E1-41D8-92F9-94394333EDB8
 ---
-
 VERSE 1:
 My dreams were shattered
 All hope was gone

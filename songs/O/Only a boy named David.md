@@ -1,22 +1,25 @@
 ---
-title: "Only a boy named David"
-artist: "Children's song"
+title: Only a boy named David
+artist: Children's song
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E1A2DCAD-3FA0-4EC8-AE01-86A70C2785B5"
+id: E1A2DCAD-3FA0-4EC8-AE01-86A70C2785B5
 ---
-
 only Shepherd's sling
 And he could play and sing
 Only a boy named David only a babbling brook

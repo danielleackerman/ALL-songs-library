@@ -1,39 +1,43 @@
 ---
-title: "It's My Desire-version 2"
-artist: "Jimmy Pearce"
+title: It's My Desire-version 2
+artist: Jimmy Pearce
 key: Bb
-tempo: 
-time: "4/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 4/4
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "desire"
-  - "sutl"
-  - "songbook"
+  - altar-songs
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - desire
+  - sutl
+  - songbook
 genre: []
-energy: medium
 profile:
-  - "altar-songs-black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow, sutl, songbook"
-source: 
-year: 
+  - >-
+    altar-songs-black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-slow
+keywords: 'os apo slow, sutl, songbook'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "44646638-CCA7-44F5-8A25-153A6EE2FF0C"
+id: 44646638-CCA7-44F5-8A25-153A6EE2FF0C
 ---
-
 {artist: Jimmy Pearce}
 
 VERSE 1:

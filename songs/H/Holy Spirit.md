@@ -1,23 +1,26 @@
 ---
-title: "Holy Spirit"
-artist: "Written By: Mac Powell and Mark Lee"
+title: Holy Spirit
+artist: 'Written By: Mac Powell and Mark Lee'
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "holy-spirit"
+  - holy-spirit
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "365C20E6-6A7C-4AFE-BBA3-7216072CB206"
+id: 365C20E6-6A7C-4AFE-BBA3-7216072CB206
 ---
-
 From: Josiah.Wall@Believers.org
 Copyright1995 Class reunion Music/Little man Big man music/gray Dot
 songs, a division of gray

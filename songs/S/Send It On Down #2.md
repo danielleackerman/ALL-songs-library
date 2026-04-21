@@ -1,24 +1,30 @@
 ---
-title: "Send It On Down #2"
-artist: "Geron Davis"
+title: 'Send It On Down #2'
+artist: Geron Davis
 key: G
-tempo: 
-time: 
-ccli: "1144012"
-copyright: "1994 DaviSongShop (Admin. by Capitol CMG Publishing former Gaither Admin.), Gaither Music Company, Admin. Gaither Copyright Management, Capitol CMG Publishing,Music Services, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-  - "os-southern-gospel-med"
-keywords: "os apo med, os southern gospel med"
-source: 
-year: 
+  - os-apo-med
+  - os-southern-gospel-med
+keywords: 'os apo med, os southern gospel med'
+ccli: '1144012'
+copyright: >-
+  1994 DaviSongShop (Admin. by Capitol CMG Publishing former Gaither Admin.),
+  Gaither Music Company, Admin. Gaither Copyright Management, Capitol CMG
+  Publishing,Music Services, Inc.
+source: ''
+year: ''
 medley: []
-id: "CC04D3B2-9D67-4FFD-B59C-2705F69D7559"
+id: CC04D3B2-9D67-4FFD-B59C-2705F69D7559
 ---
-
 {artist: Geron Davis}
 
 Original key g

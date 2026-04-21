@@ -1,22 +1,25 @@
 ---
-title: "I'm Not My Own, I've Been Bought With a Price"
-artist: "Marty Nystrom, Integrity Records"
+title: 'I''m Not My Own, I''ve Been Bought With a Price'
+artist: 'Marty Nystrom, Integrity Records'
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "AC24E4DC-215C-4ED9-A1F5-A861E696B9B5"
+id: AC24E4DC-215C-4ED9-A1F5-A861E696B9B5
 ---
-
 CHORUS:
 [Bb]I am not my [Bb/D]own
 I've been [Eb]bought with a [Bb]price

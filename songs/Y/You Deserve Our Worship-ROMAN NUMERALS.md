@@ -1,23 +1,26 @@
 ---
-title: "You Deserve Our Worship-ROMAN NUMERALS"
-artist: ""
+title: You Deserve Our Worship-ROMAN NUMERALS
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5BC962A1-9F3E-418B-AD8D-D23642F282E5"
+id: 5BC962A1-9F3E-418B-AD8D-D23642F282E5
 ---
-
 [I]You deserve our [vi]worship [vm/I]
 [ii]You deserve our [V7]worship  [iii/V]
 [ii7]You deserve our [V7]worship Oh [iii/I]Lord   [v/I]

@@ -1,23 +1,26 @@
 ---
-title: "Communion"
-artist: "Third Day"
+title: Communion
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: "4586072"
-copyright: "2005 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "communion"
+  - communion
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4586072'
+copyright: 2005 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "DE12FA3C-1F47-4205-8B0F-B28BDA0D39C7"
+id: DE12FA3C-1F47-4205-8B0F-B28BDA0D39C7
 ---
-
 CHORUS:
 This is the b[G]ody		This is the blood               [D]
 Broken and po[A]ured out	        For all of us   [D]   [Dsus]      [D]

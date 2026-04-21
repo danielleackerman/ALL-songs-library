@@ -1,22 +1,25 @@
 ---
-title: "Did You Mean It"
-artist: "Third Day"
+title: Did You Mean It
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DFF8AD7E-3F05-4691-9865-D068FA374688"
+id: DFF8AD7E-3F05-4691-9865-D068FA374688
 ---
-
 [D]There was a time in your life, when you wanted the pain to leave.
 There were tears in your eyes, you were down on your knees.
 Askin' fo[C5]rgiveness, said you'd do [B5][A5][G5]anything.

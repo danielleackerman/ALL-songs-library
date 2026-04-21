@@ -1,22 +1,25 @@
 ---
-title: "I Feel Like Praising Him (O O O)"
-artist: "Artist Name"
+title: I Feel Like Praising Him (O O O)
+artist: Artist Name
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4E7D653C-A041-49B4-8977-5C2FF58EF450"
+id: 4E7D653C-A041-49B4-8977-5C2FF58EF450
 ---
-
 [G]I feel like praising Him
 
 I feel like praising Him

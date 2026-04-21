@@ -1,25 +1,28 @@
 ---
-title: "Thank You, Lord-2"
-artist: "Public Domain African-American Spiritual"
+title: 'Thank You, Lord-2'
+artist: Public Domain African-American Spiritual
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "thank"
-  - "offering"
+  - thank
+  - offering
 genre: []
-energy: 
 profile:
-  - "os-gospel-slow"
-keywords: "os gospel slow, offering"
-source: 
-year: 
+  - os-gospel-slow
+keywords: 'os gospel slow, offering'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B49658AD-D27B-4546-A458-38EC498A3AF6"
+id: B49658AD-D27B-4546-A458-38EC498A3AF6
 ---
-
 {artist: Public Domain African-American Spiritual}
 
 [Gadd 9]Thank  [F#m11][B7 #9 #5]You  [Em9]Lord,  [E]    [D/F#]   [E7/G#]

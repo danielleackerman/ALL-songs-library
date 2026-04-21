@@ -1,23 +1,26 @@
 ---
-title: "What A Savior"
-artist: "Laura Story"
+title: What A Savior
+artist: Laura Story
 key: Gb
-tempo: 
-time: 
-ccli: 
-copyright: "2009 INO Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "savior"
+  - savior
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2009 INO Music
+source: ''
+year: ''
 medley: []
-id: "6D555618-2BF9-44BC-B627-D3E39D8B3CBD"
+id: 6D555618-2BF9-44BC-B627-D3E39D8B3CBD
 ---
-
 INTRO:
 [F#] | [D#m] [C#] | x4
 

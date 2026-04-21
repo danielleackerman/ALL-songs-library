@@ -1,22 +1,25 @@
 ---
-title: "This Man"
-artist: "Jeremy Camp"
+title: This Man
+artist: Jeremy Camp
 key: G
-tempo: 
-time: 
-ccli: "4505084"
-copyright: "2004 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4505084'
+copyright: 2004 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "3DBE8723-C348-41C6-9F9D-BDB2A42B9AC5"
+id: 3DBE8723-C348-41C6-9F9D-BDB2A42B9AC5
 ---
-
 Easier intro:
 e|-------------------------------------------------------------------------|
 b|---0--0--0--0--0--0--0--0--0--0--0--0--0--0--0--0--0--0--0--0--0--0--0---|

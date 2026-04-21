@@ -1,23 +1,28 @@
 ---
-title: "In The Blink of An Eye"
-artist: "MercyMe"
+title: In The Blink of An Eye
+artist: MercyMe
 key: D
-tempo: 
-time: 
-ccli: "4312167"
-copyright: "2004 Simpleville Music / Wet As A Fish Music / Songs From The Indigo Room / Wordspring Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "alive"
+  - alive
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4312167'
+copyright: >-
+  2004 Simpleville Music / Wet As A Fish Music / Songs From The Indigo Room /
+  Wordspring Music, LLC
+source: ''
+year: ''
 medley: []
-id: "3510C92F-6576-43AF-BF05-44FB3B6B4E2B"
+id: 3510C92F-6576-43AF-BF05-44FB3B6B4E2B
 ---
-
 Intro:  D  G  Em  G  (-Acoustic Only-)
 	G  A  B5  (2Xs-Band)
 

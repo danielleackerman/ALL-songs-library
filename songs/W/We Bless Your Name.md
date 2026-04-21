@@ -1,22 +1,25 @@
 ---
-title: "We Bless Your Name"
-artist: ""
+title: We Bless Your Name
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DE29AAE9-3F64-44E4-A5FD-EBA851FDB28F"
+id: DE29AAE9-3F64-44E4-A5FD-EBA851FDB28F
 ---
-
 We [Eb]bless Your name
 [G7]Lord We [Cm]bless Your [Bbdim]name
 We [Ab]give You all the [Eb]glory
