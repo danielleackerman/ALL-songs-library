@@ -1,35 +1,39 @@
 ---
-title: "Glory And Honor To You"
-artist: "Landy Maughon"
+title: Glory And Honor To You
+artist: Landy Maughon
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "father"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - father
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E6F26B90-7519-4691-A6E5-E5E677A718B2"
+id: E6F26B90-7519-4691-A6E5-E5E677A718B2
 ---
-
 (Verse:1)
 [Eb]Father we've [Fm7]gathered, [Eb/G]here in Your [Ab]presence,
 [Eb/G]Filling Your [Fm]throne room with [Bb/D]praise.

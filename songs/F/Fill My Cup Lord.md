@@ -1,23 +1,26 @@
 ---
-title: "Fill My Cup Lord"
-artist: ""
+title: Fill My Cup Lord
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
+  - altar-songs
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "2B642639-D468-4E09-B5A5-D29B7E295D94"
+id: 2B642639-D468-4E09-B5A5-D29B7E295D94
 ---
-
 VERSE 1:
 [F]Like the woman at the well I was [C]seeking
 For [C7]things that could not satis-[F]fy;

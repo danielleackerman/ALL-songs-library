@@ -1,22 +1,25 @@
 ---
-title: "Curtis Creek"
-artist: "Bebo Norman"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Curtis Creek
+artist: Bebo Norman
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FC6DBA15-4FA5-45AD-985D-715D94FAAF4D"
+id: FC6DBA15-4FA5-45AD-985D-715D94FAAF4D
 ---
-
 Key:
 Copyright: 1996 Bebo Norman
 

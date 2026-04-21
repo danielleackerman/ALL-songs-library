@@ -1,23 +1,26 @@
 ---
-title: "Holy Ghost"
-artist: "Milton Brunson and the Thompson Community Singers"
+title: Holy Ghost
+artist: Milton Brunson and the Thompson Community Singers
 key: Ab
-tempo: 173
-time: 
-ccli: 
-copyright: 
+bpm: '173'
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "holy-ghost"
+  - holy-ghost
 genre: []
-energy: high
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C37A1A60-C328-4E3D-A43F-76321D00702B"
+id: C37A1A60-C328-4E3D-A43F-76321D00702B
 ---
-
 INTRO:
 [Ab] [Db] [Ab] [Eb]
 

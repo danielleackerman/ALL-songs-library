@@ -1,41 +1,45 @@
 ---
-title: "I Give Myself Away"
-artist: "William McDowell, Sam Hinn"
+title: I Give Myself Away
+artist: 'William McDowell, Sam Hinn'
 key: F
-tempo: 64
-time: 
-ccli: "5873382"
-copyright: "2008 Delivery Room Publishing, Admin. Fun Attic Music"
+bpm: '64'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "life"
-  - "sacrifice"
-  - "faith"
-  - "salvation"
-  - "surrender"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - life
+  - sacrifice
+  - faith
+  - salvation
+  - surrender
 genre: []
-energy: slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-gospel-slow"
-  - "cont-gospel-slow"
-keywords: "mod gospel slow, cont gospel slow, sacrifice, faith, salvation, surrender"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-gospel-slow
+  - cont-gospel-slow
+keywords: 'mod gospel slow, cont gospel slow, sacrifice, faith, salvation, surrender'
+ccli: '5873382'
+copyright: '2008 Delivery Room Publishing, Admin. Fun Attic Music'
+source: ''
+year: ''
 medley: []
-id: "1529E1E2-6DB6-43B8-8273-CC83CD8FC3DB"
+id: 1529E1E2-6DB6-43B8-8273-CC83CD8FC3DB
 ---
-
 VERSE 1:
 [F]Here I [Bb]am, Here I [F/A]stand
 Lord, my [Eb/Bb]life is [Cm]in your [F]hands

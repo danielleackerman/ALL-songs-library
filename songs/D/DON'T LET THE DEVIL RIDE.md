@@ -1,37 +1,41 @@
 ---
-title: "Don't Let the Devil Ride"
-artist: ""
+title: Don't Let the Devil Ride
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "temptation"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - temptation
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-gospel-slow"
-keywords: "os gospel slow, temptation"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-gospel-slow
+keywords: 'os gospel slow, temptation'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "28362415-248A-4158-86C7-1AAA1A03DCC2"
+id: 28362415-248A-4158-86C7-1AAA1A03DCC2
 ---
-
 VERSE 1:
 
 Oh, Don't let the devil ride

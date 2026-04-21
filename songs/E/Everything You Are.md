@@ -1,22 +1,25 @@
 ---
-title: "Everything You Are"
-artist: "Big Daddy Weave"
+title: Everything You Are
+artist: Big Daddy Weave
 key: E
-tempo: 
-time: 
-ccli: "4278328"
-copyright: "2003 Open Worship Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4278328'
+copyright: '2003 Open Worship Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "42704334-44FE-4A11-ADCD-0AF2D6631514"
+id: 42704334-44FE-4A11-ADCD-0AF2D6631514
 ---
-
 [E/G#]     [A]    [E]You are Holy
 [E/G#]     [A]    [E]God of the Heavens
 [E/G#]     [A]    [E]Almighty

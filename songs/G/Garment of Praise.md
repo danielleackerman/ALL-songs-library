@@ -1,35 +1,39 @@
 ---
-title: "Garment of Praise"
-artist: "First Pentecostal Church of North Little Rock"
+title: Garment of Praise
+artist: First Pentecostal Church of North Little Rock
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FDD40F65-E3ED-4B8E-A579-5D3AC1CB44D5"
+id: FDD40F65-E3ED-4B8E-A579-5D3AC1CB44D5
 ---
-
 INTRO:
 [Ab][|][:][(][Gb][-][Ab][-][Cb][)][Gb][Db/F]   [(][Gb][-][Ab][-][Cb][)][Gb][Db/F][:][|]
 [Ab7][Gb][Db/F]   [Ab7][Gb][Db/F]   [Ab7][Gb][Db/F]

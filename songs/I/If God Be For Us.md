@@ -1,22 +1,25 @@
 ---
-title: "If God Be For Us"
-artist: ""
+title: If God Be For Us
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8223D465-01F8-4DDC-AF11-E4FE2682F44E"
+id: 8223D465-01F8-4DDC-AF11-E4FE2682F44E
 ---
-
 [Bb/C]If [F]God be for us, who can be against [F7]us
 
 [Bb7]Who can separate us from His mighty [F]hand.    [Bb/C]

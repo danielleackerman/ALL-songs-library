@@ -1,26 +1,29 @@
 ---
-title: "The Love Of God I"
-artist: "O.S. Davis"
+title: The Love Of God I
+artist: O.S. Davis
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: "1949 by Thompson Music Co. in \"Perfect Melodies\"."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "heaven"
-  - "roots"
+  - love
+  - heaven
+  - roots
 genre: []
-energy: 
 profile:
-  - "os-southern-gospel"
-keywords: "os southern gospel, roots"
-source: 
-year: 
+  - os-southern-gospel
+keywords: 'os southern gospel, roots'
+ccli: ''
+copyright: 1949 by Thompson Music Co. in "Perfect Melodies".
+source: ''
+year: ''
 medley: []
-id: "4998EF28-3F5E-4002-AEFC-01608E72687F"
+id: 4998EF28-3F5E-4002-AEFC-01608E72687F
 ---
-
 {artist: O.S. Davis}
 
 Original key eb

@@ -1,23 +1,26 @@
 ---
-title: "We Cry Out"
-artist: "Jeremy Camp"
+title: We Cry Out
+artist: Jeremy Camp
 key: G
-tempo: 
-time: 
-ccli: "5808845"
-copyright: "2010 Thirsty Moon River Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5808845'
+copyright: 2010 Thirsty Moon River Publishing
+source: ''
+year: ''
 medley: []
-id: "A6202A14-767E-42AA-84B4-2F2D4466D981"
+id: A6202A14-767E-42AA-84B4-2F2D4466D981
 ---
-
 VERSE 1:
 G
 Anthems fill the skies with praise

@@ -1,22 +1,25 @@
 ---
-title: "Redeemed"
-artist: "Big Daddy Weave"
+title: Redeemed
+artist: Big Daddy Weave
 key: B
-tempo: 
-time: 
-ccli: "6219086"
-copyright: "2011 Word Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6219086'
+copyright: '2011 Word Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "E74E5DF9-35AA-487D-A18F-159BD04423C9"
+id: E74E5DF9-35AA-487D-A18F-159BD04423C9
 ---
-
 INTRO:
 [B]  [-]  [B/F#]     [-]  [B/E]
 

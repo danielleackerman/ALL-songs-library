@@ -1,36 +1,40 @@
 ---
-title: "In The Presence of a Holy God"
-artist: "Mark Altrogge"
+title: In The Presence of a Holy God
+artist: Mark Altrogge
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "presence"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - presence
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-med"
-keywords: 
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-med
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
 year: 1998
 medley: []
-id: "34F1767A-8028-45E5-BB18-088085E4CFA3"
+id: 34F1767A-8028-45E5-BB18-088085E4CFA3
 ---
-
 Key : [Eb]
 Keywords: MOD APO MED
 

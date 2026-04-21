@@ -1,23 +1,26 @@
 ---
-title: "He Is My Rock"
-artist: ""
+title: He Is My Rock
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "rock"
+  - rock
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "44F6EF3F-0E51-4C8E-99E6-9D26F41D1C86"
+id: 44F6EF3F-0E51-4C8E-99E6-9D26F41D1C86
 ---
-
 (Cho:)
 [F]He is my rock, He is [D/Gb]my [Gm]fortress
 He's my [C]place of shelter from the [Bb]raging [F]sea

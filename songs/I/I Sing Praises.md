@@ -1,29 +1,32 @@
 ---
-title: "I Sing Praises"
-artist: "Terry MacAlmon"
+title: I Sing Praises
+artist: Terry MacAlmon
 key: G
-tempo: 69
-time: 
-ccli: "17061"
-copyright: "1989 Integrity's Hosanna! Music [Admin. Capitol CMG Publishing (IMI)]"
+bpm: '69'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "jesus"
-  - "worship"
+  - praise
+  - jesus
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "os-christian-slow"
-  - "os-apo-slow"
-keywords: "os christian slow, os apo slow, praise, jesus, worship"
-source: 
-year: 
+  - os-christian-slow
+  - os-apo-slow
+keywords: 'os christian slow, os apo slow, praise, jesus, worship'
+ccli: '17061'
+copyright: '1989 Integrity''s Hosanna! Music [Admin. Capitol CMG Publishing (IMI)]'
+source: ''
+year: ''
 medley:
-  - "[[I EXALT THEE]]"
-  - "[[YOU DESERVE THE GLORY]]"
-id: "F02F5F27-6220-4840-B1D5-69DBFD6978EA"
+  - '[[I EXALT THEE]]'
+  - '[[YOU DESERVE THE GLORY]]'
+id: F02F5F27-6220-4840-B1D5-69DBFD6978EA
 ---
-
 {artist: Terry MacAlmon}
 
 Original key g

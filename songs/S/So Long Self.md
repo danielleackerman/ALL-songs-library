@@ -1,22 +1,27 @@
 ---
-title: "So Long Self"
-artist: "MercyMe"
+title: So Long Self
+artist: MercyMe
 key: Db
-tempo: 
-time: 
-ccli: 
-copyright: "2006 Simpleville Music / Wet As A Fish Music / Songs From The Indigo Room / Wordspring Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: >-
+  2006 Simpleville Music / Wet As A Fish Music / Songs From The Indigo Room /
+  Wordspring Music, LLC
+source: ''
+year: ''
 medley: []
-id: "457F09FD-0EE0-4787-9903-8DE32AFB38E5"
+id: 457F09FD-0EE0-4787-9903-8DE32AFB38E5
 ---
-
 Intro (Ab  Bbm Gb) X2
 
 [Ab]Well if I [Fm]come across a [Gb]little bit distant

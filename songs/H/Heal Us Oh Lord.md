@@ -1,22 +1,25 @@
 ---
-title: "Heal Us Oh Lord"
-artist: "Choir"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Heal Us Oh Lord
+artist: Choir
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A597597E-9C79-4D1C-9755-7DDA91107CD2"
+id: A597597E-9C79-4D1C-9755-7DDA91107CD2
 ---
-
 Key:
 
 Heal Us Oh Lord - The Choir

@@ -1,22 +1,25 @@
 ---
-title: "Give"
-artist: "Third Day"
+title: Give
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: "3012963"
-copyright: "1999 New Spring / Gray Dot Songs / Vandura 2500 Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3012963'
+copyright: 1999 New Spring / Gray Dot Songs / Vandura 2500 Songs
+source: ''
+year: ''
 medley: []
-id: "89A5FA44-84E9-446F-B94A-7EC6F7CB8D61"
+id: 89A5FA44-84E9-446F-B94A-7EC6F7CB8D61
 ---
-
 Intro: [D]  [G]
 
 VERSE 1:

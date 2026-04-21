@@ -1,35 +1,39 @@
 ---
-title: "So You Would Know"
-artist: "BRooklyn Tabernacle Choir"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: So You Would Know
+artist: BRooklyn Tabernacle Choir
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "love"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - love
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1690B2DA-7EEE-4A7A-B9FB-D3A50B704283"
+id: 1690B2DA-7EEE-4A7A-B9FB-D3A50B704283
 ---
-
 (choir 1x, solo+choir)
 VERSE 1:
 How many times must I prove how much I love you

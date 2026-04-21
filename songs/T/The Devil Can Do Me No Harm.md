@@ -1,26 +1,29 @@
 ---
-title: "The Devil Can Do Me No Harm"
-artist: "Ruby Hooks"
+title: The Devil Can Do Me No Harm
+artist: Ruby Hooks
 key: C
-tempo: 120
-time: 
-ccli: 
-copyright: 
+bpm: '120'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "black-gospel"
+  - jesus
+  - black-gospel
 genre: []
-energy: medium-fast
 profile:
-  - "os-gospel-med-fast"
-keywords: "os gospel med fast, black gospel"
-source: 
-year: 
+  - os-gospel-med-fast
+keywords: 'os gospel med fast, black gospel'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[UNDER THE BLOOD (NO HARM]]"
-id: "5D2E9958-F44E-4F82-99BC-BF2020A528D9"
+  - '[[UNDER THE BLOOD (NO HARM]]'
+id: 5D2E9958-F44E-4F82-99BC-BF2020A528D9
 ---
-
 Medley: under the blood (no harm)
 
 I would like to share with you this evening

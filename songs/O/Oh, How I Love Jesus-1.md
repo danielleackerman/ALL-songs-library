@@ -1,25 +1,28 @@
 ---
-title: "Oh, How I Love Jesus-1"
-artist: "F. Whitfield"
+title: 'Oh, How I Love Jesus-1'
+artist: F. Whitfield
 key: Eb
-tempo: 
-time: "6/8"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 6/8
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "150A2456-2F8F-4F8D-B71D-01FCBCAEC8AB"
+id: 150A2456-2F8F-4F8D-B71D-01FCBCAEC8AB
 ---
-
 {artist: F. Whitfield}
 
 [EbM7]Oh   [Fm7]how  I [Bb(7b9)] love [Eb2]Je  [Ab/Eb]e  [Eb]sus  [Gm7] [Gbm7]

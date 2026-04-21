@@ -1,22 +1,25 @@
 ---
-title: "Does He Still Feel The Nails"
-artist: ""
+title: Does He Still Feel The Nails
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C4D7BB51-66F2-447A-A839-41416C8F7072"
+id: C4D7BB51-66F2-447A-A839-41416C8F7072
 ---
-
 (Ver:1)
 [F/G]They [C2]tell me Jesus died for my trans[F2]gressions
 [F/G]That He [C2]paid the price a long, long time a[F2]go

@@ -1,35 +1,39 @@
 ---
-title: "Come Let Us Sing"
-artist: "Variation of Havah Nagilah/African-American Traditional"
+title: Come Let Us Sing
+artist: Variation of Havah Nagilah/African-American Traditional
 key: Fm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-fast"
-  - "middle-eastern"
-  - "praise"
-  - "solo-songs"
-  - "traditional"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-fast
+  - middle-eastern
+  - praise
+  - solo-songs
+  - traditional
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional"
-  - "os-apo-fast"
-  - "os-gospel-fast"
-keywords: "os apo fast, os gospel fast"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional
+  - os-apo-fast
+  - os-gospel-fast
+keywords: 'os apo fast, os gospel fast'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "304D69CF-003B-47EE-826D-96EA92FFCC2C"
+id: 304D69CF-003B-47EE-826D-96EA92FFCC2C
 ---
-
 {artist: Variation of Havah Nagilah/African-American Traditional }
 
 CHORUS:

@@ -1,23 +1,26 @@
 ---
-title: "When I Come Into The Presence Of The Lord"
-artist: ""
+title: When I Come Into The Presence Of The Lord
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "presence"
+  - presence
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "BF695F37-7E0C-4B8C-8100-E44645CFC32B"
+id: BF695F37-7E0C-4B8C-8100-E44645CFC32B
 ---
-
 CHORUS:
 [F/G]When [G7b9]I [C2]come into the [Em7]presence of the [F]Lord,  [C/E][Dm]
 When I [G9]come into the  [Dm/G]presence of  the  [CM7]Lord.  [C7b9/Db] [DM7]

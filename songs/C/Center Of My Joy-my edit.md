@@ -1,31 +1,34 @@
 ---
-title: "Center Of My Joy-my edit"
-artist: "Bill and Gloria Gaithersburg & Richard Smallwood"
+title: Center Of My Joy-my edit
+artist: Bill and Gloria Gaithersburg & Richard Smallwood
 key: Eb
-tempo: 52
-time: 
-ccli: 
-copyright: 
+bpm: '52'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "joy"
-  - "adoration"
-  - "commitment"
-  - "rejoice"
+  - joy
+  - adoration
+  - commitment
+  - rejoice
 genre: []
-energy: slow
 profile:
-  - "black-gospel-opera"
-  - "os-apo-slow"
-  - "os-gospel-slow"
-keywords: "os apo slow, os gospel slow, adoration, commitment, joy, rejoice"
-source: 
+  - black-gospel-opera
+  - os-apo-slow
+  - os-gospel-slow
+keywords: 'os apo slow, os gospel slow, adoration, commitment, joy, rejoice'
+ccli: ''
+copyright: ''
+source: ''
 year: 1987
 medley:
-  - "[[I’M AVAILABLE TO YOU]]"
-  - "[[JESUS AT THE CENTER]]"
-id: "DB1F712C-4CDE-473D-BB7A-629DCF946771"
+  - '[[I’M AVAILABLE TO YOU]]'
+  - '[[JESUS AT THE CENTER]]'
+id: DB1F712C-4CDE-473D-BB7A-629DCF946771
 ---
-
 {artist: Bill and Gloria Gaithersburg & Richard Smallwood, 1987}
 {number: 165937}
 

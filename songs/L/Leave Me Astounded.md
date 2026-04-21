@@ -1,24 +1,27 @@
 ---
-title: "Leave Me Astounded"
-artist: "PlanetShakers"
+title: Leave Me Astounded
+artist: PlanetShakers
 key: D
-tempo: 
-time: 
-ccli: "7000099"
-copyright: "2013 Planetshakers Ministries Int. Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "glory"
+  - love
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7000099'
+copyright: 2013 Planetshakers Ministries Int. Inc.
+source: ''
+year: ''
 medley: []
-id: "101FCDD8-D50A-4EC5-A47F-8CBBC978A509"
+id: 101FCDD8-D50A-4EC5-A47F-8CBBC978A509
 ---
-
 VERSE 1:
 [D]All my hands have made I'm l[D/F#]aying d[G]own
 [D]All that I hold dear my m[D/F#]any cro[G]wns

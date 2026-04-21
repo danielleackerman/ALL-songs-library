@@ -1,22 +1,25 @@
 ---
-title: "Slow Fade"
-artist: "Casting Crowns"
+title: Slow Fade
+artist: Casting Crowns
 key: C
-tempo: 
-time: 
-ccli: "5077346"
-copyright: "2007 My Refuge Music / Club Zoo Music / SWECS Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5077346'
+copyright: 2007 My Refuge Music / Club Zoo Music / SWECS Music
+source: ''
+year: ''
 medley: []
-id: "2CD5182F-A3E5-4C22-8BF1-D40E68245BC5"
+id: 2CD5182F-A3E5-4C22-8BF1-D40E68245BC5
 ---
-
 Capo 1
 
 Intro  Am  C   G   F  3X

@@ -1,34 +1,38 @@
 ---
-title: "He'll Make A Way"
-artist: "Gerald Crabb"
+title: He'll Make A Way
+artist: Gerald Crabb
 key: A
-tempo: 
-time: "3/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7BB15C14-BCCC-4434-A1AB-23069A066EC5"
+id: 7BB15C14-BCCC-4434-A1AB-23069A066EC5
 ---
-
 VERSE 1:
 Looking for [A]answers, You need a way [D]out
 You've been trapped in that [A]trial full of sorrow and [E]doubt

@@ -1,23 +1,26 @@
 ---
-title: "Bless The Lord- 10,000 REASONS"
-artist: "Matt Redman and Jonas Myrin"
+title: 'Bless The Lord- 10,000 REASONS'
+artist: Matt Redman and Jonas Myrin
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4BCCF86F-96BE-46D6-A71E-9A8B58569174"
+id: 4BCCF86F-96BE-46D6-A71E-9A8B58569174
 ---
-
 CHORUS:
 Bless the [C]Lord, O my [G]soul
 [D/F#]oh my [Em]soul,

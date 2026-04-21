@@ -1,0 +1,280 @@
+---
+title: 2021-07-31 SING UNTO THE LORD
+date: '2021-07-31'
+service: SING UNTO THE LORD
+function: []
+feel: []
+songs:
+  - '[[A New Name In Glory]]'
+  - '[[A Brand New Touch]]'
+  - '[[Abide With Me]]'
+  - '[[All in Him]]'
+  - '[[AMAZING GRACE]]'
+  - '[[Amazing Grace]]'
+  - '[[AMAZING GRACE - version 3]]'
+  - '[[Amazing Grace-EASY]]'
+  - '[[Are You Washed In The Blood]]'
+  - '[[Are You Washed in the Blood?]]'
+  - '[[At Calvary]]'
+  - '[[At Calvary II]]'
+  - '[[At The Cross]]'
+  - '[[At the Cross (184)]]'
+  - '[[Because He Lives]]'
+  - '[[Bind Us Together]]'
+  - '[[Blessed Assurance]]'
+  - '[[Blessed be the name - version 1]]'
+  - '[[Blessed Be The Name EASY]]'
+  - '[[THE BLOOD WILL NEVER LOSE ITS POWER]]'
+  - '[[The Blood Will Never Lose Its Power]]'
+  - '[[The Blood Will Never Lose Its Power]]'
+  - '[[The Blood Will Never Lose Its Power]]'
+  - '[[Broken Vessel]]'
+  - '[[By and By (When Morning Comes)]]'
+  - '[[By and By (When The Morning Comes)-1]]'
+  - '[[Everybody Will Be Happy Over There-version 2]]'
+  - '[[The Family Of God]]'
+  - '[[Glory To His Name (206 SUTL)]]'
+  - '[[Glory To His Name II(206 SUTL)]]'
+  - '[[God Is So Good -EASY- CONTEMP.]]'
+  - '[[Great Is Thy Faithfulness]]'
+  - '[[Greater Is He That Is in Me]]'
+  - '[[Greater Is He That Is in Me]]'
+  - '[[Greater Is He That Is in Me]]'
+  - '[[Have A Little Talk With Jesus]]'
+  - '[[He Brought Me Out]]'
+  - '[[He Brought Me Out - version 2]]'
+  - '[[He Set Me Free]]'
+  - '[[He Set Me Free]]'
+  - '[[He’s Coming Soon]]'
+  - '[[Heaven''s Jubilee]]'
+  - '[[Higher Ground (Sing Unto The Lord Songbook, 319)]]'
+  - '[[Higher Ground 2 (Sing Unto The Lord Songbook, 319)]]'
+  - '[[Hold To God''s Unchanging Hand]]'
+  - '[[How Great Thou Art]]'
+  - '[[I Am Determined to Hold Out]]'
+  - '[[I Could Never Outlove the Lord]]'
+  - '[[I Have Found The Way]]'
+  - '[[I Have Found The Way]]'
+  - '[[I Know The Lord Will Make A Way For Me]]'
+  - '[[I Love Him Too Much (To Fail Him Now)]]'
+  - '[[I Love Him Too Much (To Fail Him Now)-my edit]]'
+  - '[[I Love Jesus Best Of All]]'
+  - '[[I Love Jesus Best Of All]]'
+  - '[[I Love Jesus Best Of All]]'
+  - '[[I Love Jesus Best Of All - version 2]]'
+  - '[[I See A Crimson Stream]]'
+  - '[[I Surrender All]]'
+  - '[[I Want More Of Jesus]]'
+  - '[[I''M GOING THROUGH (WITH JESUS)]]'
+  - '[[I''m Gonna Lift Up The Name Of Jesus]]'
+  - '[[I''m On The Stairway To Heaven]]'
+  - '[[In The City Where The Lamb Is The Light]]'
+  - '[[If That Isn''t Love]]'
+  - '[[It''s My Desire-1]]'
+  - '[[Jesus Is All The World To Me]]'
+  - '[[Jesus Is Coming Soon]]'
+  - '[[Jesus Paid it All]]'
+  - '[[Jesus Will Outshine Them All]]'
+  - '[[Jesus Will Outshine Them All//Swaggart 1972]]'
+  - '[[Jesus, Hold My Hand]]'
+  - '[[Jesus, Hold My Hand]]'
+  - '[[Just A Closer Walk With Thee]]'
+  - '[[Leaning On The Everlasting Arms]]'
+  - '[[Lift Up The Name Of Jesus]]'
+  - '[[Lift Up the Name of Jesus]]'
+  - '[[Lift Up The Name Of Jesus | version 2]]'
+  - '[[(Lord, Put A White Robe Around Me) My Promise Land]]'
+  - '[[Love Lifted Me]]'
+  - '[[Make Me A Blessing]]'
+  - '[[More Of You]]'
+  - '[[MY THANKS TO HIM]]'
+  - '[[MY THANKS TO HIM--my edit]]'
+  - '[[Near The Cross]]'
+  - '[[No Tears In Heaven]]'
+  - '[[Nothing But The Blood]]'
+  - '[[Nothing But The Blood]]'
+  - '[[O, How I Love Jesus]]'
+  - '[[Oh, How I Love Jesus]]'
+  - '[[Oh, How I love Jesus - version 3]]'
+  - '[[Oh, How I Love Jesus-EASY]]'
+  - '[[The Old Account Settled]]'
+  - '[[The Old Rugged Cross]]'
+  - '[[The Old Time Way]]'
+  - '[[The Old Time Way]]'
+  - '[[Only Jesus Can Satisfy Your Soul]]'
+  - '[[Only One Life]]'
+  - '[[Pass Me Not, O Gentle Saviour]]'
+  - '[[Redeemed]]'
+  - '[[Sing the wondrous love of jesus]]'
+  - '[[Thank God For The Blood - EASY]]'
+  - '[[Thanks To Him]]'
+  - '[[There Is Power In The Blood]]'
+  - '[[There Is Power In The Blood]]'
+  - '[[There''s A Great Day Coming]]'
+  - '[[They That Wait Upon The Lord]]'
+  - '[[They That Wait Upon The Lord]]'
+  - '[[This World Is Not My Home]]'
+  - '[[This World Is Not My Home]]'
+  - '[[‘Tis So Sweet To Trust In Jesus]]'
+  - '[[Turn Your Eyes Upon Jesus]]'
+  - '[[Under The Blood (No Harm)]]'
+  - '[[Waiting On The Lord, 1904]]'
+  - '[[Walking By Faith]]'
+  - '[[Walking By Faith]]'
+  - '[[When The Redeemed Are Gathering In]]'
+  - '[[When The Saints Go Marching In]]'
+  - '[[When We All Get To Heaven]]'
+  - '[[Where Could I Go]]'
+  - '[[Wonderful Peace]]'
+  - '[[Wonderful Peace]]'
+---
+## Songs
+- [[A New Name In Glory]]
+- [[A Brand New Touch]]
+- [[Abide With Me]]
+- [[All in Him]]
+- [[AMAZING GRACE]]
+- [[Amazing Grace]]
+- [[AMAZING GRACE - version 3]]
+- [[Amazing Grace-EASY]]
+- [[Are You Washed In The Blood]]
+- [[Are You Washed in the Blood?]]
+- [[At Calvary]]
+- [[At Calvary II]]
+- [[At The Cross]]
+- [[At the Cross (184)]]
+- [[Because He Lives]]
+- [[Bind Us Together]]
+- [[Blessed Assurance]]
+- [[Blessed be the name - version 1]]
+- [[Blessed Be The Name EASY]]
+- [[THE BLOOD WILL NEVER LOSE ITS POWER]]
+- [[The Blood Will Never Lose Its Power]]
+- [[The Blood Will Never Lose Its Power]]
+- [[The Blood Will Never Lose Its Power]]
+- [[Broken Vessel]]
+- [[By and By (When Morning Comes)]]
+- [[By and By (When The Morning Comes)-1]]
+- [[Everybody Will Be Happy Over There-version 2]]
+- [[The Family Of God]]
+- [[Glory To His Name (206 SUTL)]]
+- [[Glory To His Name II(206 SUTL)]]
+- [[God Is So Good -EASY- CONTEMP.]]
+- [[Great Is Thy Faithfulness]]
+- [[Greater Is He That Is in Me]]
+- [[Greater Is He That Is in Me]]
+- [[Greater Is He That Is in Me]]
+- [[Have A Little Talk With Jesus]]
+- [[He Brought Me Out]]
+- [[He Brought Me Out - version 2]]
+- [[He Set Me Free]]
+- [[He Set Me Free]]
+- [[He’s Coming Soon]]
+- [[Heaven's Jubilee]]
+- [[Higher Ground (Sing Unto The Lord Songbook, 319)]]
+- [[Higher Ground 2 (Sing Unto The Lord Songbook, 319)]]
+- [[Hold To God's Unchanging Hand]]
+- [[How Great Thou Art]]
+- [[I Am Determined to Hold Out]]
+- [[I Could Never Outlove the Lord]]
+- [[I Have Found The Way]]
+- [[I Have Found The Way]]
+- [[I Know The Lord Will Make A Way For Me]]
+- [[I Love Him Too Much (To Fail Him Now)]]
+- [[I Love Him Too Much (To Fail Him Now)-my edit]]
+- [[I Love Jesus Best Of All]]
+- [[I Love Jesus Best Of All]]
+- [[I Love Jesus Best Of All]]
+- [[I Love Jesus Best Of All - version 2]]
+- [[I See A Crimson Stream]]
+- [[I Surrender All]]
+- [[I Want More Of Jesus]]
+- [[I'M GOING THROUGH (WITH JESUS)]]
+- [[I'm Gonna Lift Up The Name Of Jesus]]
+- [[I'm On The Stairway To Heaven]]
+- [[In The City Where The Lamb Is The Light]]
+- [[If That Isn't Love]]
+- [[It's My Desire-1]]
+- [[Jesus Is All The World To Me]]
+- [[Jesus Is Coming Soon]]
+- [[Jesus Paid it All]]
+- [[Jesus Will Outshine Them All]]
+- [[Jesus Will Outshine Them All//Swaggart 1972]]
+- [[Jesus, Hold My Hand]]
+- [[Jesus, Hold My Hand]]
+- [[Just A Closer Walk With Thee]]
+- [[Leaning On The Everlasting Arms]]
+- [[Lift Up The Name Of Jesus]]
+- [[Lift Up the Name of Jesus]]
+- [[Lift Up The Name Of Jesus | version 2]]
+- [[(Lord, Put A White Robe Around Me) My Promise Land]]
+- [[Love Lifted Me]]
+- [[Make Me A Blessing]]
+- [[More Of You]]
+- [[MY THANKS TO HIM]]
+- [[MY THANKS TO HIM--my edit]]
+- [[Near The Cross]]
+- [[No Tears In Heaven]]
+- [[Nothing But The Blood]]
+- [[Nothing But The Blood]]
+- [[O, How I Love Jesus]]
+- [[Oh, How I Love Jesus]]
+- [[Oh, How I love Jesus - version 3]]
+- [[Oh, How I Love Jesus-EASY]]
+- [[The Old Account Settled]]
+- [[The Old Rugged Cross]]
+- [[The Old Time Way]]
+- [[The Old Time Way]]
+- [[Only Jesus Can Satisfy Your Soul]]
+- [[Only One Life]]
+- [[Pass Me Not, O Gentle Saviour]]
+- [[Redeemed]]
+- [[Sing the wondrous love of jesus]]
+- [[Thank God For The Blood - EASY]]
+- [[Thanks To Him]]
+- [[There Is Power In The Blood]]
+- [[There Is Power In The Blood]]
+- [[There's A Great Day Coming]]
+- [[They That Wait Upon The Lord]]
+- [[They That Wait Upon The Lord]]
+- [[This World Is Not My Home]]
+- [[This World Is Not My Home]]
+- [[‘Tis So Sweet To Trust In Jesus]]
+- [[Turn Your Eyes Upon Jesus]]
+- [[Under The Blood (No Harm)]]
+- [[Waiting On The Lord, 1904]]
+- [[Walking By Faith]]
+- [[Walking By Faith]]
+- [[When The Redeemed Are Gathering In]]
+- [[When The Saints Go Marching In]]
+- [[When We All Get To Heaven]]
+- [[Where Could I Go]]
+- [[Wonderful Peace]]
+- [[Wonderful Peace]]
+
+## Missing Song Notes
+- AMAZING GRACE
+- Blessed be the name - version 1
+- THE BLOOD WILL NEVER LOSE ITS POWER
+- I'M GOING THROUGH (WITH JESUS)
+- Jesus Paid it All
+- Jesus Will Outshine Them All//Swaggart 1972
+- Lift Up The Name Of Jesus
+- Lift Up the Name of Jesus
+- MY THANKS TO HIM
+- Sing the wondrous love of jesus
+
+## Duplicate Titles In This Set
+- Greater Is He That Is in Me (3)
+- He Set Me Free (2)
+- I Have Found The Way (2)
+- I Love Jesus Best Of All (3)
+- Jesus, Hold My Hand (2)
+- Nothing But The Blood (2)
+- The Blood Will Never Lose Its Power (3)
+- The Old Time Way (2)
+- There Is Power In The Blood (2)
+- They That Wait Upon The Lord (2)
+- This World Is Not My Home (2)
+- Walking By Faith (2)
+- Wonderful Peace (2)

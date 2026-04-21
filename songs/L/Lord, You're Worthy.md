@@ -1,22 +1,25 @@
 ---
-title: "Lord, You're Worthy"
-artist: ""
+title: 'Lord, You''re Worthy'
+artist: ''
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "64D83719-9A10-4CA2-8B13-56536EA6B66A"
+id: 64D83719-9A10-4CA2-8B13-56536EA6B66A
 ---
-
 {Key of:Eb}
 
 CHORUS:

@@ -1,23 +1,26 @@
 ---
-title: "Why Not Trust God Again"
-artist: "Kurt Carr"
+title: Why Not Trust God Again
+artist: Kurt Carr
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "trust"
+  - trust
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8793F785-3BEE-484C-A681-787EBA816C57"
+id: 8793F785-3BEE-484C-A681-787EBA816C57
 ---
-
 (Verse:1)
 
 [Eb]When li[Bb/G]fe seems cr[Ab]uel and s[Bb]o unfa[Eb]ir

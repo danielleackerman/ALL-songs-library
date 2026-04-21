@@ -1,36 +1,40 @@
 ---
-title: "Jesus Is Coming Soon"
-artist: "R.E. Winsett"
+title: Jesus Is Coming Soon
+artist: R.E. Winsett
 key: Db
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "ADC3ED4A-ED28-4C51-9769-C86A392D8260"
+id: ADC3ED4A-ED28-4C51-9769-C86A392D8260
 ---
-
 VERSE 1:
 [Gb/Ab]Troublesome [Db]times are here, [Db7/Eb]filling men's [Gb2]hearts with [Ebm9]fear
 Freedom we [Db]all hold [Bbm7]dear now is at [Ab2]stake.

@@ -1,22 +1,25 @@
 ---
-title: "This Is Who I Am"
-artist: "Third Day"
+title: This Is Who I Am
+artist: Third Day
 key: C
-tempo: 
-time: 
-ccli: "5208452"
-copyright: "2008 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5208452'
+copyright: 2008 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "C689916E-32E5-4FAE-8386-8E06D82C4E82"
+id: C689916E-32E5-4FAE-8386-8E06D82C4E82
 ---
-
 Capo 2
 
 [E]I’m a son of a good man, [A]I’m the child of an Angel,

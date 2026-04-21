@@ -1,22 +1,25 @@
 ---
-title: "Here Goes"
-artist: "Bebo Norman"
+title: Here Goes
+artist: Bebo Norman
 key: G
-tempo: 
-time: 
-ccli: "5855025"
-copyright: "2010 Brentwood Benson"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5855025'
+copyright: 2010 Brentwood Benson
+source: ''
+year: ''
 medley: []
-id: "75810A47-6EFF-4065-8629-F1321CF078A0"
+id: 75810A47-6EFF-4065-8629-F1321CF078A0
 ---
-
 INTRO:
 [G2] - [D] - [Bm7] - [A] - [G2] - [D] - [Bm7] - [A]
 

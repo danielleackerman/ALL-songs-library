@@ -1,24 +1,29 @@
 ---
-title: "Until The Whole World Hears"
-artist: "Casting Crowns"
+title: Until The Whole World Hears
+artist: Casting Crowns
 key: C
-tempo: 
-time: 
-ccli: "5642513"
-copyright: "2009 BanaHama Tunes / Word Music, LLC / My Refuge Music / Sony/ATV Tree Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "calling"
-  - "life"
+  - calling
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5642513'
+copyright: >-
+  2009 BanaHama Tunes / Word Music, LLC / My Refuge Music / Sony/ATV Tree
+  Publishing
+source: ''
+year: ''
 medley: []
-id: "3033CCF5-E5D0-446C-9E3E-E7EDF484AB6F"
+id: 3033CCF5-E5D0-446C-9E3E-E7EDF484AB6F
 ---
-
 Capo-1
 
 INTRO:

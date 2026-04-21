@@ -1,35 +1,39 @@
 ---
-title: "Draw Me Nearer"
-artist: "Caedmon's Call"
+title: Draw Me Nearer
+artist: Caedmon's Call
 key: E
-tempo: 
-time: 
-ccli: "4429971"
-copyright: "2004 Word Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "love"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - love
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '4429971'
+copyright: '2004 Word Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "CE0FB0F1-810C-4061-9C84-C9230C5BA71E"
+id: CE0FB0F1-810C-4061-9C84-C9230C5BA71E
 ---
-
 [C#m]     [A]   [E]   [G#m]     [C#m]     [A]   [E]   [B]
 
 1.

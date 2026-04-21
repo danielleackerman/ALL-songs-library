@@ -1,26 +1,29 @@
 ---
-title: "I WILL SING (UNTO THE LORD) version 2"
-artist: "Mark Condon"
+title: I WILL SING (UNTO THE LORD) version 2
+artist: Mark Condon
 key: Dm
-tempo: 120
-time: 
-ccli: 
-copyright: 
+bpm: '120'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "his-name"
+  - his-name
 genre: []
-energy: medium-fast
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[SING UNTO THE LORD A NEW SONG]]"
-  - "[[I WILL DANCE LIKE DAVID DANCED]]"
-  - "[[HIS NAME IS YAHWEH THE LORD IS ONE]]"
-id: "C3DA81C8-5256-4BED-9AD4-BFFB771CD9BA"
+  - '[[SING UNTO THE LORD A NEW SONG]]'
+  - '[[I WILL DANCE LIKE DAVID DANCED]]'
+  - '[[HIS NAME IS YAHWEH THE LORD IS ONE]]'
+id: C3DA81C8-5256-4BED-9AD4-BFFB771CD9BA
 ---
-
 Medley: sing unto the Lord a new song / I will dance like David danced / His name is yahweh the Lord is one
 
 INTRO:

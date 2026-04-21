@@ -1,23 +1,26 @@
 ---
-title: "Jesus"
-artist: "Rich Mullins"
+title: Jesus
+artist: Rich Mullins
 key: D
-tempo: 
-time: 
-ccli: "2819992"
-copyright: "1998 Liturgy Legacy Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2819992'
+copyright: 1998 Liturgy Legacy Music
+source: ''
+year: ''
 medley: []
-id: "6BDE5726-A071-4CCE-BBE3-5E220C7D963A"
+id: 6BDE5726-A071-4CCE-BBE3-5E220C7D963A
 ---
-
 VERSE 1:
 [Em]Jesus, they [D/F]say You walked upon the [A]water once
 [Em]When You l[D/F]ived as all men [A]do

@@ -1,23 +1,26 @@
 ---
-title: "O Holy Night"
-artist: "Third Day"
+title: O Holy Night
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "4867966"
-copyright: "Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "christ"
+  - christ
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4867966'
+copyright: Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "65F66E29-138D-47AC-9057-6CBD957C91B8"
+id: 65F66E29-138D-47AC-9057-6CBD957C91B8
 ---
-
 This song is in the key of C, but it sounds right to Capo 5 and play it in G.
 
 Capo 5

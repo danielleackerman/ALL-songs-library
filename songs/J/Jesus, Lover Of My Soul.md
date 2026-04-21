@@ -1,24 +1,27 @@
 ---
-title: "Jesus, Lover Of My Soul"
-artist: "Daniel Grul / John Ezzy / Steve McPherson"
+title: 'Jesus, Lover Of My Soul'
+artist: Daniel Grul / John Ezzy / Steve McPherson
 key: D
-tempo: 
-time: 
-ccli: "1198817"
-copyright: "1992 Hillsong Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - mod-apo-med
+keywords: mod apo med
+ccli: '1198817'
+copyright: 1992 Hillsong Publishing
+source: ''
+year: ''
 medley: []
-id: "510A9B75-2F1E-460C-B93B-DE14C3F8E352"
+id: 510A9B75-2F1E-460C-B93B-DE14C3F8E352
 ---
-
 CHORUS:
 [D]  Jesus, [F#7sus/C#]loverof my soul, [F#7#5][Bm] Jesus, I will [Em]never let You [G/A]go
 [D]  You've taken me [F#7sus/C#]from the miry clay, [F#7#5][F#m7/B] Set my [Bm7]feet upon the Rock

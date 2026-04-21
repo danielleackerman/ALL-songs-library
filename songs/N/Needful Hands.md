@@ -1,23 +1,26 @@
 ---
-title: "Needful Hands"
-artist: "Jars Of Clay"
+title: Needful Hands
+artist: Jars Of Clay
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "strength"
+  - strength
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "11A05D7D-0C2E-4509-9240-4D1555AF4A87"
+id: 11A05D7D-0C2E-4509-9240-4D1555AF4A87
 ---
-
 Key:
 
 |----------------------------------------------------------|

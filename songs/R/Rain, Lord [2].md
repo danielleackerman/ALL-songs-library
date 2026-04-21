@@ -1,45 +1,43 @@
 ---
-title: "Rain, Lord"
-artist: "Mark Condon"
+title: 'Rain, Lord'
+artist: Mark Condon
 key: Gm
-tempo: 71
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "741409CB-8EFF-4544-9902-6C80786BF3B1"
+id: 247AF3CD-E9EB-4E75-AEF6-CCEC71674E22
 ---
-
 INTRO:
 
+[Cm7][Dm7][Eb2][Dm7]
+
 CHORUS:
-[Gm9]Holy Spirit, rain [Cm9]  [D7#5#9]rain down on [Gm9]us [D7#5] [D7b9]
-[Gm9]Holy Spirit, rain [Cm9]  [D7#5#9]rain down on [Ebmaj9]us [D7b9]
-[Gm9]Holy Spirit, rain [Cm9]  [D7#5#9]rain down on [Gm9]us [D7#5] [D7b9]
-[Gm9]Holy Spirit, rain [Cm9]  [D7#5#9]rain down on [Ebmaj9]us [D7#5]
+
+[Gm]Holy Spirit, [Cm7]rain, [Daug]rain down on [Gm]us [D+9]
+[Gm]Holy Spirit, [Cm7]rain, [Daug]rain down on us [Cm7][Eb2][Dm7][Gm]
+
+VERSE 1:
+[Gm]Like a mighty wind, [Gm]blow through this house
+[Gm][Gm]Open up the heavens, [Gm]pour your spirit out
+
+Out:
+[Gm]Rain Lord, [Gm]rain [D7/A]Lord [Gm/Bb]
+[G/B]Oh let it [Cm7]rain Lord, [Gm]rain Lord
+[D7]God Almighty, [C7]let your Holy Spirit [G]rain [F][E][Eb][D][D+9]
 
 VERSE 2:
-[Gm9 (cut)] Like a mighty wind  [Gm9 (cut)]blow through this house [Gm9]
-[Gm9 (cut)]Open up the heavens  [Gm9 (cut)]and pour your spirit out [D7b9]
-[Gm9 (cut)]Like a mighty wind   [Gm9 (cut)]blow through this house [Gm9]
-[Gm9]Open up the heavens and pour [G][Db][D]your[Eb][D]Spirit[A][Bb][A]out
-
-VERSE 3:
-[Gm9]Rain, Lord
-Rain, Lord   Oh, Let it
-[Cm9]rain, Lord
-[Gm9]Rain, Lord
-[D5]God Almighty  [D5][C5]Let your Holy Spirit [Gm2]rain [D7#5#9][D7b9]
-
-VERSE 4:
-[Abm9]Like a raging fire   [Abm9]burn in my soul [Abm9]
-[Abm9]Baptize me     [Abm9]with the Holy Ghost [Eb7b9]
-[Abm9]Like a raging fire   [Abm9]burn in my soul [Abm9]
-[Abm9]Baptize me     [Abm9]with the Holy Ghost
+[Gm]Like a raging fire, [Gm]burn in my soul
+[Gm]Baptize me with the Holy [Gm]Ghost

@@ -1,23 +1,26 @@
 ---
-title: "God Is With Us"
-artist: "Casting Crowns"
+title: God Is With Us
+artist: Casting Crowns
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: "2008 Warner-Tamerlane Publishing Corp. / Sell The Cow Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "savior"
+  - savior
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2008 Warner-Tamerlane Publishing Corp. / Sell The Cow Music
+source: ''
+year: ''
 medley: []
-id: "917B4225-4869-46EC-9267-00053DE0044A"
+id: 917B4225-4869-46EC-9267-00053DE0044A
 ---
-
 Verse 1 (4/4)
 The skies [E]don't seem to be  [B/E]   as da[C#m7/E]rk as usua[B/E]l[Asus2]
 The stars [E]seem brighter then [B/E]  they've[C#m7/E] been before[B/E][Asus2]

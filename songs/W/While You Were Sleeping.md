@@ -1,24 +1,27 @@
 ---
-title: "While You Were Sleeping"
-artist: "Casting Crowns"
+title: While You Were Sleeping
+artist: Casting Crowns
 key: F
-tempo: 
-time: 
-ccli: "4578846"
-copyright: "2005 Club Zoo Music / SWECS Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jerusalem"
-  - "king"
+  - jerusalem
+  - king
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4578846'
+copyright: 2005 Club Zoo Music / SWECS Music
+source: ''
+year: ''
 medley: []
-id: "AEF5E1D9-C923-49DD-87BD-DC571BB9F61B"
+id: AEF5E1D9-C923-49DD-87BD-DC571BB9F61B
 ---
-
 [F]Oh li[C]ttle town of [Dm]Bethle[Bb]hem, Looks like an[F]oth[C]er [Dm]sile[Bb]nt night
 [F]Above [C]your deep and dre[Dm]amless [Bb]sleep a giant star l[F]igh[C]ts [Dm]up t[Bb]he sky
 [F]And while you’re l[C]yin’ in the [Dm]dark t[Bb]here shines an[F] everlas[C]ting[Dm] lig[Bb]ht

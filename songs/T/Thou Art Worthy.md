@@ -1,33 +1,37 @@
 ---
-title: "Thou Art Worthy"
-artist: "Page 232"
+title: Thou Art Worthy
+artist: Page 232
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7A0AE2B9-45C0-4089-AF29-AB49ACB838A1"
+id: 7A0AE2B9-45C0-4089-AF29-AB49ACB838A1
 ---
-
 [Bb2]Thou art worthy, [Eb2]Thou art [Cm7]worthy
 
 [Bb2]Thou art [Gm7]worthy o [F]Lord.  [F7].    [Eb/G].     [F7/A]

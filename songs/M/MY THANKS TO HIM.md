@@ -1,41 +1,45 @@
 ---
-title: "My Thanks to Him"
-artist: "Rev. A. L. Clanton, SING UNTO THE LORD SONGBOOK"
+title: My Thanks to Him
+artist: 'Rev. A. L. Clanton, SING UNTO THE LORD SONGBOOK'
 key: Db
-tempo: 
-time: "4/4"
-ccli: "748907"
-copyright: "1954. Renewed 1982 Stamps Quartet Music, Admin. ClearBox Rights, LLC."
+bpm: ''
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "love"
-  - "thanks"
-  - "friendship"
-  - "thankfulness"
-  - "sutl"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - love
+  - thanks
+  - friendship
+  - thankfulness
+  - sutl
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-slow-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow, friendship, thankfulness, sutl"
-source: "1"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-slow-solo-songs-southern-gospel-traditional-worship
+  - os-apo-slow
+keywords: 'os apo slow, friendship, thankfulness, sutl'
+ccli: '748907'
+copyright: '1954. Renewed 1982 Stamps Quartet Music, Admin. ClearBox Rights, LLC.'
+source: '1'
+year: ''
 medley: []
-id: "30CE79BD-DAE9-42BA-8D62-45B134BCB2CD"
+id: 30CE79BD-DAE9-42BA-8D62-45B134BCB2CD
 ---
-
 original key Db
 
 VERSE 1:

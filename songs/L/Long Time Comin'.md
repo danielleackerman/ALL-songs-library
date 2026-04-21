@@ -1,22 +1,25 @@
 ---
-title: "Long Time Comin'"
-artist: "Third Day"
+title: Long Time Comin'
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "3295931"
-copyright: "1998 New Spring"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3295931'
+copyright: 1998 New Spring
+source: ''
+year: ''
 medley: []
-id: "C765C2E5-5C2D-4866-A09B-7E8C1AFB8175"
+id: C765C2E5-5C2D-4866-A09B-7E8C1AFB8175
 ---
-
 D
 Well I've been taking, it all for granted
 D

@@ -1,23 +1,26 @@
 ---
-title: "That Wasn’t Me"
-artist: "Brandi Carlile"
+title: That Wasn’t Me
+artist: Brandi Carlile
 key: A
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "family"
+  - family
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D32841A7-6132-4A6D-B90B-2E4CFC8FA46F"
+id: D32841A7-6132-4A6D-B90B-2E4CFC8FA46F
 ---
-
 Intro:  D  E
 
 Hang [A]on, just hang [E]on for a minute

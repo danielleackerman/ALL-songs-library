@@ -1,24 +1,27 @@
 ---
-title: "Homesick"
-artist: "MercyMe"
+title: Homesick
+artist: MercyMe
 key: D
-tempo: 
-time: 
-ccli: "4312181"
-copyright: "2004 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "home"
-  - "strength"
+  - home
+  - strength
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4312181'
+copyright: 2004 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "4D98CC33-B0E5-4E99-8A78-7F82BE3F6B97"
+id: 4D98CC33-B0E5-4E99-8A78-7F82BE3F6B97
 ---
-
 **Capo 3rd fret for the recorded key**
 
 Intro: D9  G  A  G   D9  Bm  G

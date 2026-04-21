@@ -1,26 +1,29 @@
 ---
-title: "Every Time I Speak His Name [version 2]"
-artist: "Marcia B. Henry"
+title: 'Every Time I Speak His Name [version 2]'
+artist: Marcia B. Henry
 key: F
-tempo: 
-time: 
-ccli: "3832019"
-copyright: "1999 Marcia Henry Music (Admin. by Capitol CMG Publishing)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "his-name"
+  - jesus
+  - his-name
 genre: []
-energy: 
 profile:
-  - "mod-apo-slow"
-  - "contemp-christian-slow"
-keywords: "mod apo slow,  contemp christian slow"
-source: 
-year: 
+  - mod-apo-slow
+  - contemp-christian-slow
+keywords: 'mod apo slow,  contemp christian slow'
+ccli: '3832019'
+copyright: 1999 Marcia Henry Music (Admin. by Capitol CMG Publishing)
+source: ''
+year: ''
 medley: []
-id: "20D2E010-3607-4451-808C-1C5FC9BBCB3D"
+id: 20D2E010-3607-4451-808C-1C5FC9BBCB3D
 ---
-
 {artist: Marcia B. Henry}
 
 INTRO:

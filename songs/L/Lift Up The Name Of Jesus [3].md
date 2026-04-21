@@ -1,58 +1,77 @@
 ---
-title: "Lift Up The Name Of Jesus"
-artist: "Keith Duncan"
-key: Db
-tempo: 80
-time: 
-ccli: 
-copyright: 
+title: Lift Up the Name of Jesus
+artist: Keith Duncan
+key: Dm
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "men"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - men
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "contemp-christian-med"
-keywords: "contemp christian med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B0788EA5-04E4-4BC7-B79A-8315883ECBF8"
+id: 428D5734-AD8A-44E5-BEE0-0456691D7FA4
 ---
-
-[run][2x][Bb][Db][Eb][E][F][Ab][Bb]
-      [Bb][Db][Eb][E][F][F7aug]
-
-VERSE:
-[Bbm]Lift up the name of Jesus, [Bbm]Shout it everywhere you go
-[Bbm]Lift up the name of Jesus, [Bbm]We're gonna let the whole world know
-He said, [Eb]If I be lifted up, I'll draw all men unto me.
-Come on and lift him [Bbm]up! Lift him [Bbm]up!
-He said, [F]If I be lifted [Eb]up, I'll draw all men unto me.
-Come on and lift him [Bbm]up! Lift him [Bbm]up!
-
 CHORUS:
-[Bbm]Deaf ears will be opened,[Ab7][Eb/G] [Bbm]blinded eyes will see [Ab7][Eb/G]
-[Bbm]Chains will be broken, [Ab7][Eb/G]  [Bbm]we'll have liberty
-Come on and lift him [Eb7]up! Lift him up!
-Lift him [Bbm]up! Lift him [Bbm]up!
-He said, [F]If I be lifted [Eb]up, I'll draw all men unto me.
-Come on and lift him [Bbm]up! Lift him [Bbm]up!  [F7aug]
+[Dm]Lift up the name of Jesus
+[Dm]Shout it everywhere you go
+[Dm]Lift up the name of Jesus
+We’re gonna let [Dm]let the whole world know
+He said if [G]I be lifted up
+I will draw all men unto Me
+Come on and lift Him [Dm]up
+Lift Him up
 
-Lift him [Bbm]up! [Ab7][Eb/G] Lift him up! [Bbm][Ab7][Eb/G]
-Lift him [Bbm]up! [Ab7][Eb/G] Lift him up! [Bbm][Ab7][Eb/G]
-Lift him [Bbm][bass run]up! Lift him [Bbm]up!
-Lift him [Bbm][bass run]up! Lift him [Bbm]up! [drum hit][Bbm9]
+VERSE 1:
+[Dm]Deaf ears are gonna be opened[C7] [G/B]
+[Dm]Blinded eyes will see[C7] [G/B]
+[Dm]Chains are gonna be broken[C7] [G/B]
+[Dm]And well have liberty
+He said if [G]I be lifted up
+I will draw all men unto Me
+Come on and lift Him [Dm]up
+Lift Him up
+
+VERSE 2:
+If you have a mountain
+You cant tunnel through
+Trust God to deliver
+And He will see you through
+He said if I be lifted up
+I will draw all men unto Me
+Come on and lift Him up
+Lift Him up
+
+VERSE 3:
+If your situation
+Has got you to the wall
+Look unto the Savior
+And He will hear your call
+He said if I be lifted up
+I will draw all men unto Me
+Come on and lift Him up
+Lift Him up

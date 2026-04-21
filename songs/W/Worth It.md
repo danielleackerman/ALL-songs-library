@@ -1,34 +1,38 @@
 ---
-title: "Worth It"
-artist: "The Clark Family"
+title: Worth It
+artist: The Clark Family
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F9428981-0C88-4908-BC69-41F00A0DB15B"
+id: F9428981-0C88-4908-BC69-41F00A0DB15B
 ---
-
 VERSE 1:
 [F/G]Lord, [C2]You left the [F/C]splendor of [C]Heaven, crown a robe and [F/C]a [C]throne
 But [G2/B]what kind of love, would [F2/A]lead You to [C/G]leave, The [F2]safety of [F#dim]that kind of [G7sus]home.  [G7]

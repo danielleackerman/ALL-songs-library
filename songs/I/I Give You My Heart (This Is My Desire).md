@@ -1,23 +1,26 @@
 ---
-title: "I Give You My Heart (This Is My Desire)"
-artist: "Hillsong Live"
+title: I Give You My Heart (This Is My Desire)
+artist: Hillsong Live
 key: G
-tempo: 
-time: 
-ccli: "1866132"
-copyright: "1995 Hillsong Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "desire"
+  - desire
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1866132'
+copyright: 1995 Hillsong Publishing
+source: ''
+year: ''
 medley: []
-id: "7FAB20BA-B0F6-41E9-A71F-9DCA309839EF"
+id: 7FAB20BA-B0F6-41E9-A71F-9DCA309839EF
 ---
-
 Intro: G   D/F#  Em7   C/G  G   D/F#
        [Em7]  [D/F#]   [G]   [Fm][a]j7 [C/G] [D]
 

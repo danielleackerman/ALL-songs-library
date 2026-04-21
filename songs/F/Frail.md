@@ -1,22 +1,25 @@
 ---
-title: "Frail"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Frail
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "05E71E46-B0C6-46A9-B49C-3D4CCA7F36D6"
+id: 05E71E46-B0C6-46A9-B49C-3D4CCA7F36D6
 ---
-
 Key:
 
 [D]Convinced of my deception

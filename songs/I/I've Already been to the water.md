@@ -1,37 +1,41 @@
 ---
-title: "I've Already Been to the Water"
-artist: "Vickie Winans"
+title: I've Already Been to the Water
+artist: Vickie Winans
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-fast"
-  - "os-gospel-fast"
-keywords: "os apo fast, os gospel fast"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-fast
+  - os-gospel-fast
+keywords: 'os apo fast, os gospel fast'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A49EB3C3-BC6C-4B04-9B67-572F46AC00AD"
+id: A49EB3C3-BC6C-4B04-9B67-572F46AC00AD
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

@@ -1,37 +1,41 @@
 ---
-title: "I Don't Know Why"
-artist: "Andrae Crouch"
+title: I Don't Know Why
+artist: Andrae Crouch
 key: F
-tempo: 68
-time: 
-ccli: "16165"
-copyright: "1971 Bud John Songs, Inc. (Admin. by Capitol CMG Publishing)"
+bpm: '68'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "sacrifice"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - sacrifice
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-slow"
-  - "os-gospel-slow"
-keywords: "os apo slow, os gospel slow, sacrifice"
-source: "ORIGINAL KEY Bb"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - os-apo-slow
+  - os-gospel-slow
+keywords: 'os apo slow, os gospel slow, sacrifice'
+ccli: '16165'
+copyright: '1971 Bud John Songs, Inc. (Admin. by Capitol CMG Publishing)'
+source: ORIGINAL KEY Bb
+year: ''
 medley: []
-id: "7EEA5DCC-940C-413A-AABF-B4625247F353"
+id: 7EEA5DCC-940C-413A-AABF-B4625247F353
 ---
-
 (Verse:1)
 
 [F]I  don't  know  [F7]why  [F7/A]Jesus  [Bb2]loved  me.      [Gm7]

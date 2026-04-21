@@ -1,48 +1,57 @@
 ---
-title: "All The Way My Savior Leads Me"
-artist: "Rich Mullins"
-key: D
-tempo: 
-time: 
-ccli: "3504134"
-copyright: "1992 BMG Songs, Inc."
+title: All The Way My Savior Leads Me
+artist: 'by Fanny Crosby, 1875, Chris Tomlin'
+key: G
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "savior"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - mercy
+  - savior
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '3504134'
+copyright: '1992 BMG Songs, Inc.'
+source: ''
+year: ''
 medley: []
-id: "7522C80E-90B4-4FCF-92B6-120B9EFAA626"
+id: C4A7B3D5-EBFA-46F0-836D-57F1B3D52DAE
 ---
-
 Philippians 1:6, 3:10-15
 
 VERSE 1:
-All the [D]way my Savior leads me, what have [G]I to ask be[D]side?
-How could I [F#m7]doubt His faithful mercies,  who through [G]life has been my [A]guide?
-Heavenly [D]peace, divinest comfort ere by [G]faith in Him to [D]dwell
-For I [F#m7]know whatever be[G]fall, me Jesus [A7]doeth all things [D]well
+All the [G]way my Savior [C]leads me, [G]who have I to ask [C]beside?
+[Am]How could I [C/G]doubt His tender [D2]mercy,  [Am]who through [C/G]life has been my [D]guide?
+
+[G]All of the way my Savior [C]leads me, [Em]and cheers each [G/D]winding path I [C]tread
+[Am]Gives me grace for every [Dsus]trial [Am]and He feeds me [C/G]with the living [Dsus]bread
+
+CHORUS:
+You [C]lead [G/B]me, and [Dsus]keep me from falling, You [C]carry [G/B]me [Dsus]close to your heart
+And [Am]sure[G]ly your [Dsus]goodness and mercy will [Am]follow [Dsus]me
 
 VERSE 2:
-All of the [D]way my Savior leads me,  Cheers each [G]winding path I [D]tread
-Gives me [D2maj7/F#]strength for every trial and He feeds [G2]me with the living [Gmaj7/A]bread
-And [A7]though my [D]weary steps may falter and my [G]soul a thirst may [D]be
-Gushing [D2maj7/F#]from a rock be[G2]fore me though a [A7sus]spirit [A7]joy I [D]see
+[G]All the way my Savior [C]leads me, [G]Oh the fullness of His [C]love
+[Am]O the [C/G]sureness of his [D]promise, [Am]in the [C/G]triumph of his [D]blood
 
-VERSE 3:
-And all the [G2]way my Savior leads me, oh the [A2sus]fullness of His [F#m7]love [Em7]
-Perfect [D]rest in me is [Gmaj7]promised in my [G/A]Father's [A]house ab[D]ove
-When my [G2]spirit clothed immortal wings its [A2sus]flight to realms of day [F#m7][Em7]
-This my [D]song through endless [Gmaj7]ages, Jesus [Asus]led me [D/A]all the [D]way
+[G]When my spirit clothed [C/G]immortal, [Em]wings its [G/D]flight to realms of [C]day
+[Am]This my [C/G]song through endless [Dsus]ages, Je[C]sus led me all the [D]way
+
+CHORUS:
+You [C]lead [G/B]me and [Dsus]keep me from falling, You [C]carry [G/B]me [Dsus]close to your heart
+And [Am]sure[G]ly your [Dsus]goodness and mercy will [Am]follow [Dsus]me

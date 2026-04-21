@@ -1,23 +1,26 @@
 ---
-title: "Great I Am"
-artist: "New Life Worship"
+title: Great I Am
+artist: New Life Worship
 key: D
-tempo: 
-time: 
-ccli: "5881491"
-copyright: "2011 Integrity Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "almighty"
+  - almighty
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5881491'
+copyright: 2011 Integrity Music
+source: ''
+year: ''
 medley: []
-id: "FD576D65-EC07-4E9E-A4F2-BC8FEBC1595D"
+id: FD576D65-EC07-4E9E-A4F2-BC8FEBC1595D
 ---
-
 VERSE 1:
 [D]I wanna to be [Em]close c[A/C#]lose to your s[D]ide
 So heaven is [Em]real and [A/C#]death is a l[Bm/D]ie

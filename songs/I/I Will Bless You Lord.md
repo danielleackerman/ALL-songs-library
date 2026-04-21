@@ -1,29 +1,33 @@
 ---
-title: "I Will Bless You Lord"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: I Will Bless You Lord
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5FBD1644-E045-4581-A3CF-751C8D356EA9"
+id: 5FBD1644-E045-4581-A3CF-751C8D356EA9
 ---
-
 

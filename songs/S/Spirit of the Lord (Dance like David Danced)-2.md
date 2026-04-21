@@ -1,25 +1,28 @@
 ---
-title: "Spirit of the Lord (Dance like David Danced)-2"
-artist: "Fred Hammond"
+title: Spirit of the Lord (Dance like David Danced)-2
+artist: Fred Hammond
 key: Am
-tempo: 105
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '105'
+time_sig: 4/4
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "dance"
+  - dance
 genre: []
-energy: medium
 profile:
-  - "mod-apo-med"
-  - "mod-gospel-med"
-keywords: "mod. apo. med. , mod. gospel med"
-source: 
+  - mod-apo-med
+  - mod-gospel-med
+keywords: 'mod. apo. med. , mod. gospel med'
+ccli: ''
+copyright: ''
+source: ''
 year: 1996
 medley: []
-id: "6E613A17-2DDB-4BB4-8914-F38457E6112E"
+id: 6E613A17-2DDB-4BB4-8914-F38457E6112E
 ---
-
 [INTRO:][Am][E][Am]
 
 Let's celebrate, let's celebrate, let's celebrate

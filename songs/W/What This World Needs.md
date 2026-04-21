@@ -1,24 +1,27 @@
 ---
-title: "What This World Needs"
-artist: "Casting Crowns"
+title: What This World Needs
+artist: Casting Crowns
 key: C
-tempo: 
-time: 
-ccli: "5077360"
-copyright: "2007 My Refuge Music / Club Zoo Music / SWECS Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "father"
+  - love
+  - father
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5077360'
+copyright: 2007 My Refuge Music / Club Zoo Music / SWECS Music
+source: ''
+year: ''
 medley: []
-id: "DE1F1D16-9A1E-4B4F-8A9D-2F87FF9992E8"
+id: DE1F1D16-9A1E-4B4F-8A9D-2F87FF9992E8
 ---
-
 [Am] [C] [Dsus2] [F]
 
 What this world n[Am]eeds [Em]   is not another o[F]ne-hit-wonder with an a[G]xe to grind

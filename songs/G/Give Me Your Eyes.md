@@ -1,22 +1,25 @@
 ---
-title: "Give Me Your Eyes"
-artist: "Brandon Heath"
+title: Give Me Your Eyes
+artist: Brandon Heath
 key: Gb
-tempo: 
-time: 
-ccli: 
-copyright: "2008 Grange Hill Music / Peertunes Ltd. / Windsor Way Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Strings over PIANO start"
-year: 
+keywords: ''
+ccli: ''
+copyright: 2008 Grange Hill Music / Peertunes Ltd. / Windsor Way Music
+source: Strings over PIANO start
+year: ''
 medley: []
-id: "B817D2EA-CD95-487A-8410-D44C979D6B0A"
+id: B817D2EA-CD95-487A-8410-D44C979D6B0A
 ---
-
 [Ebm]               [B]                   [Gb]                  [Db/F]
 
 VERSE 1:

@@ -1,32 +1,36 @@
 ---
-title: "He's The Only Reason I Live"
-artist: "Joy Elms"
+title: He's The Only Reason I Live
+artist: Joy Elms
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "longing"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - longing
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FC63B541-155D-48A5-9AF4-00A6ABC64897"
+id: FC63B541-155D-48A5-9AF4-00A6ABC64897
 ---
-
 CHORUS:
 [F]He's the only [Bb/F]reason I [F]live, but [A7+]o what a [Bb2]reason,  [Gm7]
 [C7]He's the only [Gm7]reason I [C7]live, but [Bbm]o what a rea[F]son

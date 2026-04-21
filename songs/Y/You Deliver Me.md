@@ -1,23 +1,26 @@
 ---
-title: "You Deliver Me"
-artist: "Selah"
+title: You Deliver Me
+artist: Selah
 key: C
-tempo: 75
-time: 
-ccli: 
-copyright: 
+bpm: '75'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium-slow
 profile:
-  - "contemporary-christian-med-slow"
-keywords: "contemporary christian med slow"
-source: 
-year: 
+  - contemporary-christian-med-slow
+keywords: contemporary christian med slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "13C6FE5D-9479-4C51-B4DE-27B3052661EC"
+id: 13C6FE5D-9479-4C51-B4DE-27B3052661EC
 ---
-
 VERSE 1:
 [C]Deep as the ocean, [G]And right as rain
 [F]This powerful emotion [C/G]Lifts me up above the [G]plain

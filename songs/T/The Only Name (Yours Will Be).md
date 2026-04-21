@@ -1,23 +1,26 @@
 ---
-title: "The Only Name (Yours Will Be)"
-artist: "Big Daddy Weave"
+title: The Only Name (Yours Will Be)
+artist: Big Daddy Weave
 key: C
-tempo: 
-time: 
-ccli: "6223704"
-copyright: "2011 Word Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6223704'
+copyright: '2011 Word Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "3C230DB0-EDB4-4557-B6D6-EC2979370079"
+id: 3C230DB0-EDB4-4557-B6D6-EC2979370079
 ---
-
 VERSE 1:
 Yo[C]urs will be…the only Name that ma[F]tters to me.
 The only One Whose favor [Dm]I seek.

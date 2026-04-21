@@ -1,26 +1,29 @@
 ---
-title: "Deep (Way Down)"
-artist: "Selah"
+title: Deep (Way Down)
+artist: Selah
 key: E
-tempo: 
-time: 
-ccli: "4337472"
-copyright: "2001 Curb Songs / Okapi One Music / Littleberace Music / Toolguy Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile:
-  - "mod-apo-fast"
-  - "contemp-christian-fast"
-keywords: "mod apo fast, contemp christian fast"
-source: 
+  - mod-apo-fast
+  - contemp-christian-fast
+keywords: 'mod apo fast, contemp christian fast'
+ccli: '4337472'
+copyright: 2001 Curb Songs / Okapi One Music / Littleberace Music / Toolguy Music
+source: ''
 year: 2001
 medley: []
-id: "81ED046B-4EB7-4496-BB2F-F8A0A6FAB83A"
+id: 81ED046B-4EB7-4496-BB2F-F8A0A6FAB83A
 ---
-
 [E7]Deep, way down deep
 
 Way down deep down in my heart, oh

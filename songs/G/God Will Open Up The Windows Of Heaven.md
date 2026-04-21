@@ -1,28 +1,31 @@
 ---
-title: "God Will Open Up The Windows Of Heaven"
-artist: "Babbie Mason"
+title: God Will Open Up The Windows Of Heaven
+artist: Babbie Mason
 key: C
-tempo: 
-time: "4/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 4/4
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "blessing"
-  - "heaven"
-  - "provision"
+  - blessing
+  - heaven
+  - provision
 genre: []
-energy: 
 profile:
-  - "black-gospel-opera"
-  - "os-gospel-med"
-keywords: "os gospel med, blessing, provision"
-source: 
-year: 
+  - black-gospel-opera
+  - os-gospel-med
+keywords: 'os gospel med, blessing, provision'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[GIVE UP]]"
-id: "42FBE5B0-6240-4776-901D-045CDEE99A4B"
+  - '[[GIVE UP]]'
+id: 42FBE5B0-6240-4776-901D-045CDEE99A4B
 ---
-
 Medley: give up
 
 CHORUS:

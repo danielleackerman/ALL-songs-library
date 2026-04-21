@@ -1,22 +1,25 @@
 ---
-title: "More Than You'll Ever Know"
-artist: "Watermark"
+title: More Than You'll Ever Know
+artist: Watermark
 key: C
-tempo: 
-time: 
-ccli: "3194946"
-copyright: "1999 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3194946'
+copyright: '1999 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music'
+source: ''
+year: ''
 medley: []
-id: "FC01B6E2-2161-41EB-8FAF-3EA297D84BA0"
+id: FC01B6E2-2161-41EB-8FAF-3EA297D84BA0
 ---
-
 Tabbed by:  Ben Ramsey (ramseyben@yahoo.com)
 Well, the only thing I'm pretty sure about here is the key that it's
 played in.  I went ahead and tabbed it myself, since I want to use it

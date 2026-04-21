@@ -1,35 +1,39 @@
 ---
-title: "AMAZING GRACE - version 3"
-artist: "John Newton | Public Domain"
+title: AMAZING GRACE - version 3
+artist: John Newton | Public Domain
 key: F
-tempo: 
-time: 
-ccli: "22025"
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "grace"
+  - altar-songs
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - grace
 genre: []
-energy: slow
 profile:
-  - "altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-slow"
-  - "os-apo-med"
-keywords: "os apo slow, os apo med"
-source: 
-year: 
+  - >-
+    altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-slow
+  - os-apo-med
+keywords: 'os apo slow, os apo med'
+ccli: '22025'
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "ED9AF1D4-7AD2-401B-85C3-17D9E00C2413"
+id: ED9AF1D4-7AD2-401B-85C3-17D9E00C2413
 ---
-
 [F/C]A[F]ma[F/A]zing [F]grace, how [Bb][(Cm6)]sweet the [F]sound
 That [Dm]saved a [G/B]wretch like [C]me! [C7][C]
 I [F]once was [F7/A]lost but [Bb]now I'm [F]found,

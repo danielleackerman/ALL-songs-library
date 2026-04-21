@@ -1,23 +1,26 @@
 ---
-title: "What If"
-artist: "Nichole Nordeman"
+title: What If
+artist: Nichole Nordeman
 key: D
-tempo: 
-time: 
-ccli: "4542298"
-copyright: "2005 Birdwing Music / Birdboy Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4542298'
+copyright: 2005 Birdwing Music / Birdboy Songs
+source: ''
+year: ''
 medley: []
-id: "5DEFDB43-6597-40E9-99F7-40E8E8E0C3B4"
+id: 5DEFDB43-6597-40E9-99F7-40E8E8E0C3B4
 ---
-
 Original key is C minor (Eb)
 
 Capo 1

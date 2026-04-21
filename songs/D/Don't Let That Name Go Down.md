@@ -1,24 +1,27 @@
 ---
-title: "Don't Let That Name Go Down"
-artist: ""
+title: Don't Let That Name Go Down
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-  - "os-gospel-med"
-keywords: "os apo med, os gospel med"
-source: 
-year: 
+  - os-apo-med
+  - os-gospel-med
+keywords: 'os apo med, os gospel med'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C7B0DCFA-D34F-4B59-BBAF-FA60C7088EFD"
+id: C7B0DCFA-D34F-4B59-BBAF-FA60C7088EFD
 ---
-
 CHORUS:
 [G]Don't let that name go down
 

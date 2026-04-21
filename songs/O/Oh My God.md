@@ -1,22 +1,25 @@
 ---
-title: "Oh My God"
-artist: "Jars Of Clay"
+title: Oh My God
+artist: Jars Of Clay
 key: C
-tempo: 
-time: 
-ccli: "4798413"
-copyright: "2006 Bridge Building Music, Inc. / Pogostick Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4798413'
+copyright: '2006 Bridge Building Music, Inc. / Pogostick Music'
+source: ''
+year: ''
 medley: []
-id: "9C2D5CA5-94CB-490B-BC8C-A8783B15B7C8"
+id: 9C2D5CA5-94CB-490B-BC8C-A8783B15B7C8
 ---
-
 Intro: Am- F- C- G
 (The whole song are just these four chords with a pattern change at the build)
 

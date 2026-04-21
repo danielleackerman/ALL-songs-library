@@ -1,23 +1,26 @@
 ---
-title: "Can you Believe?"
-artist: "Artist Name"
+title: Can you Believe?
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "believe"
+  - believe
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "91B447A0-18B2-4537-A117-CC70482319E4"
+id: 91B447A0-18B2-4537-A117-CC70482319E4
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

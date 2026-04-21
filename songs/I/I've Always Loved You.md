@@ -1,22 +1,25 @@
 ---
-title: "I've Always Loved You"
-artist: "Third Day"
+title: I've Always Loved You
+artist: Third Day
 key: C
-tempo: 
-time: 
-ccli: "3013144"
-copyright: "1999 New Spring / Vandura 2500 Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3013144'
+copyright: 1999 New Spring / Vandura 2500 Songs
+source: ''
+year: ''
 medley: []
-id: "1FF3ADF2-2F3E-44F8-9A36-C7FAAD57EA48"
+id: 1FF3ADF2-2F3E-44F8-9A36-C7FAAD57EA48
 ---
-
 Capo 4th original key
 (All chords according to capo)
 Intro:  C   C2/B      Fmaj7/A   Am7/A  Fmaj7/A   Am7/A     G (Gadd4 G x4)

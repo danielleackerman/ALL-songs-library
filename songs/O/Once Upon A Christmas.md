@@ -1,24 +1,27 @@
 ---
-title: "Once Upon A Christmas"
-artist: "Selah"
+title: Once Upon A Christmas
+artist: Selah
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: "1984 Velvet Apple Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "birth"
+  - jesus
+  - birth
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 1984 Velvet Apple Music
+source: ''
+year: ''
 medley: []
-id: "185CAA50-C854-4873-8532-7D532D0E1736"
+id: 185CAA50-C854-4873-8532-7D532D0E1736
 ---
-
 Intro: Dm2/ C2/ Bb2/ Asus A/ Dm/ C2/ Bb2/ Asus/ A/C#
 
 [Dm]Once upon a Christ[F2]mas far a[Dm2]way in Bethlehem

@@ -1,24 +1,34 @@
 ---
-title: "Amen [Version 1]"
-artist: "Charity Gayle, Steven Musso, Joshua Sherman, Kaleb Frazier & The Emerging Sound"
+title: 'Amen [Version 1]'
+artist: >-
+  Charity Gayle, Steven Musso, Joshua Sherman, Kaleb Frazier & The Emerging
+  Sound
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "© 2016 Charity: Tent Peg Music, BMI (Admin. Music Services) Steven: The Emerging Sound Publishing, BMI (Admin. Music Services) Joshua: Tent Peg Music, BMI (Admin. Music Services) Kaleb: The Emerging Sound Publishing, BMI (Admin. Music Services) ES: The Emerging Sound Publishing, BMI (Admin. Music Services) All Rights Reserved hello@peopleandsongs.com"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "blessing"
-  - "glory"
+  - blessing
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: >-
+  © 2016 Charity: Tent Peg Music, BMI (Admin. Music Services) Steven: The
+  Emerging Sound Publishing, BMI (Admin. Music Services) Joshua: Tent Peg Music,
+  BMI (Admin. Music Services) Kaleb: The Emerging Sound Publishing, BMI (Admin.
+  Music Services) ES: The Emerging Sound Publishing, BMI (Admin. Music Services)
+  All Rights Reserved hello@peopleandsongs.com
+source: ''
+year: ''
 medley: []
-id: "476A9EF4-A0C1-4943-B831-201375507C75"
+id: 476A9EF4-A0C1-4943-B831-201375507C75
 ---
-
 INTRO:
 [D] | [D/F#] | [G] | [Asus] |
 [D] | [D/F#] | [G] | [Asus] [A]

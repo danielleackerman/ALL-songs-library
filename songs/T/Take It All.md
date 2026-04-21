@@ -1,23 +1,26 @@
 ---
-title: "Take It All"
-artist: "Third Day"
+title: Take It All
+artist: Third Day
 key: C
-tempo: 
-time: 
-ccli: "5208579"
-copyright: "2008 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "rest"
+  - rest
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5208579'
+copyright: 2008 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "CBE4D95E-8A81-44C9-9DEC-79C73C7C2EF5"
+id: CBE4D95E-8A81-44C9-9DEC-79C73C7C2EF5
 ---
-
 Intro:  F    G    Am    (2x)
 
 VERSE 1:

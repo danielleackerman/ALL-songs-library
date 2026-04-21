@@ -1,25 +1,28 @@
 ---
-title: "Waiting On The Lord, 1904"
-artist: "Charles F. Weigle (1871-1966), Sing Unto The Lord #6"
+title: 'Waiting On The Lord, 1904'
+artist: 'Charles F. Weigle (1871-1966), Sing Unto The Lord #6'
 key: Eb
-tempo: 104
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '104'
+time_sig: 4/4
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "power"
-  - "sutl"
+  - power
+  - sutl
 genre: []
-energy: medium
 profile:
-  - "os-apo-med-fast"
-keywords: "os apo med fast, sutl"
-source: 
-year: 
+  - os-apo-med-fast
+keywords: 'os apo med fast, sutl'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5B147A45-BC56-4C16-88CD-8197F76E2706"
+id: 5B147A45-BC56-4C16-88CD-8197F76E2706
 ---
-
 VERSE 1:
 [Eb]Waiting on the Lord, for the [Ab]promise given;
 [Eb]Waiting on the Lord, to [Bb]send from [Bb7]Heaven;

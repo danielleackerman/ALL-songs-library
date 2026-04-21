@@ -1,22 +1,25 @@
 ---
-title: "The Healer (He Was Wounded For Our Trangressions)"
-artist: "Lois Irwin"
+title: The Healer (He Was Wounded For Our Trangressions)
+artist: Lois Irwin
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "EC096D63-A0C9-4B45-8459-BE1C535B2CAD"
+id: EC096D63-A0C9-4B45-8459-BE1C535B2CAD
 ---
-
 [Ab/Bb] He was [Eb] wounded for [Ab] our [Abm] trans[Eb]gressions
 He was [Eb]bruised for [Cm7]our iniqui[Fm]ties [Bb7]
 [Eb]Surely [Eb/Db]He [Eb7/Db]bore our [Ab]sorrows [Abm/Db]

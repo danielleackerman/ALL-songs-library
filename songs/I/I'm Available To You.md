@@ -1,25 +1,32 @@
 ---
-title: "I'm Available To You"
-artist: "Carlis Moody, performed by Rev. Milton Brunson and the Thompson Community Choir"
+title: I'm Available To You
+artist: >-
+  Carlis Moody, performed by Rev. Milton Brunson and the Thompson Community
+  Choir
 key: C
-tempo: 
-time: 
-ccli: "64595"
-copyright: "1988 Word Music, LLC, Moodeasy Music, Admin. Word Music Group, Inc., Conexion Media Group, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "black-gospel-opera"
-  - "os-gospel-slow"
-keywords: "os gospel slow"
-source: 
+  - black-gospel-opera
+  - os-gospel-slow
+keywords: os gospel slow
+ccli: '64595'
+copyright: >-
+  1988 Word Music, LLC, Moodeasy Music, Admin. Word Music Group, Inc., Conexion
+  Media Group, Inc.
+source: ''
 year: 1988
 medley:
-  - "[[CENTER OF MY JOY]]"
-id: "B68DC02B-54DD-4C9C-89CA-F09D637D2BAC"
+  - '[[CENTER OF MY JOY]]'
+id: B68DC02B-54DD-4C9C-89CA-F09D637D2BAC
 ---
-
 Medley: center of my joy
 
 VERSE 1:

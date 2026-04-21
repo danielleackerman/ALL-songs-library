@@ -1,22 +1,25 @@
 ---
-title: "All You Died For Me To Be"
-artist: "Ray Boltz"
+title: All You Died For Me To Be
+artist: Ray Boltz
 key: G
-tempo: 
-time: 
-ccli: "4408741"
-copyright: "2002 Shepherd Boy Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4408741'
+copyright: 2002 Shepherd Boy Music
+source: ''
+year: ''
 medley: []
-id: "3987B8F8-A1D4-42E8-B3CF-F138D24C458B"
+id: 3987B8F8-A1D4-42E8-B3CF-F138D24C458B
 ---
-
 VERSE 1:
 [C]I’ve had [G]trials, and I’ve had [C]doubts, I’ve felt your [G]presence,and walked it [C]out
 Every step of [Em]my life you’ve been here with [C]me,

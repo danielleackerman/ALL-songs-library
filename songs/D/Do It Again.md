@@ -1,22 +1,25 @@
 ---
-title: "Do It Again"
-artist: "Elevation Worship"
+title: Do It Again
+artist: Elevation Worship
 key: G
-tempo: 
-time: 
-ccli: "7067555"
-copyright: "2015 Music by Elevation Worship Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7067555'
+copyright: 2015 Music by Elevation Worship Publishing
+source: ''
+year: ''
 medley: []
-id: "9B8F89C6-8519-4C31-AA06-CD06FB6B6040"
+id: 9B8F89C6-8519-4C31-AA06-CD06FB6B6040
 ---
-
 INTRO:
 [C] - [G/B]
 [C] - [G/B]

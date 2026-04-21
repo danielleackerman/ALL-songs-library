@@ -1,28 +1,31 @@
 ---
-title: "Come Into His Presence EASY"
-artist: "70 BPM- contemporary"
+title: Come Into His Presence EASY
+artist: 70 BPM- contemporary
 key: C
-tempo: 70
-time: 
-ccli: 
-copyright: 
+bpm: '70'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "presence"
-  - "os-presbyterian"
-  - "childrens"
+  - jesus
+  - presence
+  - os-presbyterian
+  - childrens
 genre: []
-energy: medium-slow
 profile:
-  - "os-apo-med"
-  - "os-christian-med"
-keywords: "os apo med, os presbyterian, childrens, os christian med"
-source: 
-year: 
+  - os-apo-med
+  - os-christian-med
+keywords: 'os apo med, os presbyterian, childrens, os christian med'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E8563CC0-D8D7-4836-9C8D-EF4E7D5F9616"
+id: E8563CC0-D8D7-4836-9C8D-EF4E7D5F9616
 ---
-
 [C]Come into His [C]presence singing [F]Allelu [C]ia
 [F]Allelu [C]ia  [G]Allelu [C]ia
 [C]Glory to [C]God singing [F]Allelu [C]ia

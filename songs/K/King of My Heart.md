@@ -1,23 +1,28 @@
 ---
-title: "King of My Heart"
-artist: "John Mark McMillan"
+title: King of My Heart
+artist: John Mark McMillan
 key: Bb
-tempo: 
-time: 
-ccli: "7046145"
-copyright: "Meaux Jeaux Music (Admin. by Capitol CMG Publishing) Raucous Ruckus Publishing (Admin. by Capitol CMG Publishing) McMillan, Sarah"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "king"
+  - king
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7046145'
+copyright: >-
+  Meaux Jeaux Music (Admin. by Capitol CMG Publishing) Raucous Ruckus Publishing
+  (Admin. by Capitol CMG Publishing) McMillan, Sarah
+source: ''
+year: ''
 medley: []
-id: "5A20C7A2-D015-46C9-AF2E-AB85B95A5371"
+id: 5A20C7A2-D015-46C9-AF2E-AB85B95A5371
 ---
-
 VERSE 1:
 Let the[Bb] King of my heart  Be the[Eb] mountain where [Bb]I run
 The[Gm] fountain I drink[F] from  Oh, H[Eb]e is my[Bb] song.

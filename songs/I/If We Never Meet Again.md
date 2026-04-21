@@ -1,34 +1,38 @@
 ---
-title: "If We Never Meet Again"
-artist: "Albert E. Brumley, popularized by The Booth Brothers"
+title: If We Never Meet Again
+artist: 'Albert E. Brumley, popularized by The Booth Brothers'
 key: E
-tempo: 65
-time: "3/4"
-ccli: "107627"
-copyright: "1945 Stamps Quartet Music (Admin. by ClearBox Rights, LLC)"
+bpm: '65'
+time_sig: 3/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "heaven"
-  - "life"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - heaven
+  - life
 genre: []
-energy: medium-slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-southern-gospel-slow"
-keywords: "os southern gospel slow"
-source: "ORIGINAL KEY Eb, F"
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-southern-gospel-slow
+keywords: os southern gospel slow
+ccli: '107627'
+copyright: '1945 Stamps Quartet Music (Admin. by ClearBox Rights, LLC)'
+source: 'ORIGINAL KEY Eb, F'
+year: ''
 medley: []
-id: "A1EE5057-F7CA-4BB0-88D7-FF0D38B91372"
+id: A1EE5057-F7CA-4BB0-88D7-FF0D38B91372
 ---
-
 VERSE 1:
 [B7]Soon we'll [E]come to the [E7]end of life's [A]journey[Am]
 and [E]perhaps we'll never meet any[B7]more;

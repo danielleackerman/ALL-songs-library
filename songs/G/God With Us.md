@@ -1,22 +1,25 @@
 ---
-title: "God With Us"
-artist: "MercyMe"
+title: God With Us
+artist: MercyMe
 key: A
-tempo: 
-time: 
-ccli: 
-copyright: "2007 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2007 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "ECB8E94A-E0FC-4EAE-A884-CF491152913E"
+id: ECB8E94A-E0FC-4EAE-A884-CF491152913E
 ---
-
 VERSE 1:
 Who are w[A]e   That You would be mindf[F#m]ul of us
 What do You se[D]e    That’s worth looking our[A] way[Asus]

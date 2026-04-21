@@ -1,43 +1,44 @@
 ---
-title: "What Kind Of Church Is This"
-artist: ""
-key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: What Kind of Church is This
+artist: Artist Name
+key: C
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D1F0ACA7-2AC5-4946-8983-73E015D2F3CF"
+id: 40E60F9C-9D8B-49C2-9E72-1D9BF7394FD0
 ---
+VERSE 1:
+[C]Type your lines of the [F]song here
+Just [C]use line breaks to [G]make lines
+[Am]Placing the [G/B]chords [F]where you [Em]want them
 
-[Bb/C]What kind of [F]church is this, it's an Apostolic church
-
-[F7]What kind of [Bb7]church is this, it's an Apostolic [F]church
-
-[Bb/C]What kind of [F]church is this, it's an Apo--[A7+]stolic [Dm7]church
-
-It's a [F]soul [Dm]saving, a [F]isle [Dm]running, a [F]hand [Dm]clapping
-
-A [F]foot [Dm]stomping, a [F]tongue [Dm]talking, an [F/C]Apo---[D7]stolic
-
-[G9]Pente-----[C9#5]costal   [F]church.
+CHORUS:
+[C2]You can also [Csus4]repeat the chorus with [G]notes
+(Repeat 3x)

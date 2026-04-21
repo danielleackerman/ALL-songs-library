@@ -1,22 +1,25 @@
 ---
-title: "Through The Fire-HS mod at bridge"
-artist: "The Crabb Family"
+title: Through The Fire-HS mod at bridge
+artist: The Crabb Family
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9CE584D7-3743-418B-A228-90516C360080"
+id: 9CE584D7-3743-418B-A228-90516C360080
 ---
-
 [Eb]So many times I’ve questioned certain cir[Cm]cumstances
 And [Ab]things I could not understand [Fm7]
 And [Bb]many times in trials [Cm/Bb] [Bb]weakness blurs my vision

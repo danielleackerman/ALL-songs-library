@@ -1,39 +1,43 @@
 ---
-title: "In The Name Of Jesus"
-artist: "Traditional Gospel"
+title: In The Name Of Jesus
+artist: Traditional Gospel
 key: F
-tempo: 121
-time: 
-ccli: 
-copyright: 
+bpm: '121'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "jesus"
-  - "victory"
-  - "bluegrass"
+  - altar-songs
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - jesus
+  - victory
+  - bluegrass
 genre: []
-energy: medium-fast
 profile:
-  - "altar-songs-ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-  - "os-apo-fast"
-keywords: "os apo fast, bluegrass"
-source: 
-year: 
+  - >-
+    altar-songs-ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+  - os-apo-fast
+keywords: 'os apo fast, bluegrass'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[VICTORY IS MINE]]"
-id: "8E11F19B-8B18-46DA-99B6-B295727BAABF"
+  - '[[VICTORY IS MINE]]'
+id: 8E11F19B-8B18-46DA-99B6-B295727BAABF
 ---
-
 Medley: victory is mine
 
 [F]In the Name of Jesus, [F]in the Name of Jesus, we have the victo[C]ry

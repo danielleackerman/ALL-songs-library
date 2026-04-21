@@ -1,24 +1,27 @@
 ---
-title: "Jesus Is The Answer | LYRICS"
-artist: "Andrae Crouch"
+title: Jesus Is The Answer | LYRICS
+artist: Andrae Crouch
 key: C
-tempo: 75
-time: 
-ccli: "14260"
-copyright: "1973 Bud John Songs, Inc."
+bpm: '75'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: medium-slow
 profile:
-  - "os-gospel-med-slow"
-keywords: "os gospel med slow"
-source: "ORIGINAL KEY Ab"
+  - os-gospel-med-slow
+keywords: os gospel med slow
+ccli: '14260'
+copyright: '1973 Bud John Songs, Inc.'
+source: ORIGINAL KEY Ab
 year: 1983
 medley: []
-id: "3967FFF7-5670-44CA-B7CC-FF0630531691"
+id: 3967FFF7-5670-44CA-B7CC-FF0630531691
 ---
-
 INTRO:
 
 CHORUS:

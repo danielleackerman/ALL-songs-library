@@ -1,23 +1,26 @@
 ---
-title: "In Christ"
-artist: "Big Daddy Weave"
+title: In Christ
+artist: Big Daddy Weave
 key: D
-tempo: 
-time: 
-ccli: "3504598"
-copyright: "2001 Open Worship Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "christ"
+  - christ
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3504598'
+copyright: '2001 Open Worship Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "BE912ED6-7455-479F-97DC-D3551A8C265B"
+id: BE912ED6-7455-479F-97DC-D3551A8C265B
 ---
-
 [D]Well I m[Em7]ay not be the gr[D/F#]eatest man
           G
 to walk this earth

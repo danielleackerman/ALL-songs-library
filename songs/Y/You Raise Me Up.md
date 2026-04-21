@@ -1,22 +1,25 @@
 ---
-title: "You Raise Me Up"
-artist: "Selah"
+title: You Raise Me Up
+artist: Selah
 key: E
-tempo: 
-time: 
-ccli: "4434612"
-copyright: "2002 Peermusic III, Ltd. / Universal - Polygram International Publishing, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4434612'
+copyright: '2002 Peermusic III, Ltd. / Universal - Polygram International Publishing, Inc.'
+source: ''
+year: ''
 medley: []
-id: "EB7AE118-4718-4FD3-8174-5A1517DCC442"
+id: EB7AE118-4718-4FD3-8174-5A1517DCC442
 ---
-
 INTRO:
 [E(3x)] [E] [-] [A] [B(2)] [A] [E] [-] [A] [-] [E] [A] [E] [-] [B] [B] [E5]
 

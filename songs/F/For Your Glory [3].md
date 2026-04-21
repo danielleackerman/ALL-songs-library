@@ -1,40 +1,43 @@
 ---
-title: "For Your Glory"
-artist: "Tasha Cobbs"
-key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: For Your Glory
+artist: Tasha Cobbs
+key: Ab
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C3CCB871-77F6-4B04-B065-569B4FEB409F"
+id: 64CCA277-CB4D-43E2-B2FE-3C977C66C29A
 ---
-
 V1
-[F2]Lord   [Gm7]if   [F2/A]  I         find [Bb2]favor in Your   [C2]sight
-[F]Lo [Gm7]ord  [F2/A]please    [Bb2]Hear my hearts  [C2]cry
-[F2/A]I'm       [Bb2]des perately   [F2/A]waiting   To [Bb2]be where You [F2/A]are
-[Bb2]I'll cross the hottest [F2/A]desert   I'll [Bb2]travel  [Bb2/D]near    or [C2/E]  far
+[Ab2]Lord   [Bbm7]if   [Ab2/C]  I         find [Db2]favor in Your   [Eb2]sight
+[Ab]Lo [Bbm7]ord  [Ab2/C]please    [Db2]Hear my hearts  [Eb2]cry
+[Ab2/C]I'm       [Db2]des perately   [Ab2/C]waiting   To [Db2]be where You [Ab2/C]are
+[Db2]I'll cross the hottest [Ab2/C]desert   I'll [Db2]travel  [Db2/F]near    or [Eb2/G]  far
 
 Ch
-[F2/A]For  Your  [Bb2]glory  [F2/A]           I will [Bb2]do   [Dm7]any[C2/E]thing
-[F2/A]Just  to   [Bb2]see   You  [F2/A]           To [Bb2]behold You    as [Dm7]my [C2]King
-[F2/A]For   Your [Bb2]glory   [F2/A]          I will [Bb2]do [Dm7]any [C2/E]thing
-[Bb-Eb-F-G-Ab]
-[F2/A]Just   to   [Bb2]see  [F2/A]You      To [Bb2]behold You [Dm7]as my   [C2]King
+[Ab2/C]For  Your  [Db2]glory  [Ab2/C]           I will [Db2]do   [Fm7]any[Eb2/G]thing
+[Ab2/C]Just  to   [Db2]see   You  [Ab2/C]           To [Db2]behold You    as [Fm7]my [Eb2]King
+[Ab2/C]For   Your [Db2]glory   [Ab2/C]          I will [Db2]do [Fm7]any [Eb2/G]thing
+[Db-Eb-F-G-Ab]
+[Ab2/C]Just   to   [Db2]see  [Ab2/C]You      To [Db2]behold You [Fm7]as my   [Eb2]King
 
 Br
-I wanna be [Bb2]where You [C2]are   I gotta be [C2]where You [Dm7]are
-I wanna be [C2]where You [Bb2]are   I gotta be [C2/E]where You [Dm7]are
+I wanna be [Db2]where You [Eb2]are   I gotta be [Eb2]where You [Fm7]are
+I wanna be [Eb2]where You [Db2]are   I gotta be [Eb2/G]where You [Fm7]are
 
 Br2
-I wanna be [Bb2]where You [C2]are    Peace is [C2]where You [Dm7]are
-Joy is [C2]where You [Bb2]are      And love is [C2/E]who You [Dm7]are
+I wanna be [Db2]where You [Eb2]are    Peace is [Eb2]where You [Fm7]are
+Joy is [Eb2]where You [Db2]are      And love is [Eb2/G]who You [Fm7]are

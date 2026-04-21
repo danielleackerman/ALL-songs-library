@@ -1,22 +1,25 @@
 ---
-title: "TUTORIAL Cheat Sheet"
-artist: "Artist Name"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: TUTORIAL Cheat Sheet
+artist: Artist Name
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D887B0CA-59C1-4C32-A205-177CF4C2B746"
+id: D887B0CA-59C1-4C32-A205-177CF4C2B746
 ---
-
 Suspensions:
 
 To find a suspension in root; raise the 3rd 1/2 step.

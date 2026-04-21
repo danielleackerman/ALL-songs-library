@@ -1,22 +1,25 @@
 ---
-title: "Exercise Song #5"
-artist: "AP 201 Lesson 2"
+title: 'Exercise Song #5'
+artist: AP 201 Lesson 2
 key: Dm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7B5B85A5-6445-482A-9931-ABCF5B03D5A8"
+id: 7B5B85A5-6445-482A-9931-ABCF5B03D5A8
 ---
-
 Minor 11th Chords on the ii & vi chord (b3, b7, 9, 11)
 
 [Dm11] [/] [/] [/] [Am11] [/] [/] [/] [Dm11] [/] [/] [/] [E7#9] [/] [Am9] [/]

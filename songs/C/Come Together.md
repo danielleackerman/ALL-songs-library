@@ -1,23 +1,26 @@
 ---
-title: "Come Together"
-artist: "Third Day"
+title: Come Together
+artist: Third Day
 key: C
-tempo: 
-time: 
-ccli: "3520479"
-copyright: "2001 New Spring Publishing, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3520479'
+copyright: '2001 New Spring Publishing, Inc.'
+source: ''
+year: ''
 medley: []
-id: "C658BAE7-DCB4-4B7E-A112-76AAAF569AB8"
+id: C658BAE7-DCB4-4B7E-A112-76AAAF569AB8
 ---
-
 There are two guitars in all Third Day songs. I just tabbed the lead.
 Play this with standared tuning.
 

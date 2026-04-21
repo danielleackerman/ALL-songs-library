@@ -1,24 +1,27 @@
 ---
-title: "Caught Up In The Middle"
-artist: "MercyMe"
+title: Caught Up In The Middle
+artist: MercyMe
 key: A
-tempo: 
-time: 
-ccli: "4312222"
-copyright: "2004 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "alive"
-  - "believe"
+  - alive
+  - believe
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4312222'
+copyright: 2004 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "222DD364-2B6E-43E0-8D72-E69A9AE902BA"
+id: 222DD364-2B6E-43E0-8D72-E69A9AE902BA
 ---
-
 Intro:  Esus4/A  |  Esus4/A  |  B7/A  |  B7/A  |2x
 
 VERSE 1:

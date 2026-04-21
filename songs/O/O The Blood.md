@@ -1,24 +1,27 @@
 ---
-title: "O The Blood"
-artist: "Gateway - \\\"God Be Praised\\\""
+title: O The Blood
+artist: Gateway - \"God Be Praised\"
 key: G
-tempo: 60
-time: 
-ccli: 
-copyright: 
+bpm: '60'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C7AA20D2-7B48-4CA8-882C-426582CD9E0F"
+id: C7AA20D2-7B48-4CA8-882C-426582CD9E0F
 ---
-
 [G] | [C2] | [G] | [C2]
 
 VERSE 1:

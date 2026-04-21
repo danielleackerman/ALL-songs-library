@@ -1,22 +1,27 @@
 ---
-title: "Unaware"
-artist: "MercyMe"
+title: Unaware
+artist: MercyMe
 key: F
-tempo: 
-time: 
-ccli: "4312174"
-copyright: "2004 Simpleville Music / Wet As A Fish Music / Songs From The Indigo Room / Wordspring Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4312174'
+copyright: >-
+  2004 Simpleville Music / Wet As A Fish Music / Songs From The Indigo Room /
+  Wordspring Music, LLC
+source: ''
+year: ''
 medley: []
-id: "8B36477C-202D-4AAF-A847-E4B2DF7A75B7"
+id: 8B36477C-202D-4AAF-A847-E4B2DF7A75B7
 ---
-
 After much trial and error, my wife and I got this one figured out. Enjoy!
 
 Intro: Am  Bb  C  Dm  (4x)

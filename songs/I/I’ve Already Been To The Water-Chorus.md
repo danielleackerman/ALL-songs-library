@@ -1,26 +1,29 @@
 ---
-title: "I’ve Already Been To The Water-Chorus"
-artist: ""
+title: I’ve Already Been To The Water-Chorus
+artist: ''
 key: F
-tempo: 120
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '120'
+time_sig: 4/4
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium-fast
 profile:
-  - "os-apo-fast"
-  - "os-gospel-fast"
-keywords: "os apo fast, os gospel fast"
-source: 
-year: 
+  - os-apo-fast
+  - os-gospel-fast
+keywords: 'os apo fast, os gospel fast'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[I'VE BEEN CHANGED]]"
-  - "[[JESUS SAID IT]]"
-id: "B8FCCE77-B4D1-4983-94C6-6C758EF91B33"
+  - '[[I''VE BEEN CHANGED]]'
+  - '[[JESUS SAID IT]]'
+id: B8FCCE77-B4D1-4983-94C6-6C758EF91B33
 ---
-
 Medley: I've been changed / Jesus said it
 
 [Bb/C]I’ve [F]already been to the water

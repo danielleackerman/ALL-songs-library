@@ -1,24 +1,29 @@
 ---
-title: "Out Of My Hands"
-artist: "Jars Of Clay"
+title: Out Of My Hands
+artist: Jars Of Clay
 key: Eb
-tempo: 
-time: 
-ccli: "5840580"
-copyright: "2010 Bridge Building Music, Inc. / Pogostick Music / Chigostick Music / Dudie Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
-  - "light"
+  - life
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5840580'
+copyright: >-
+  2010 Bridge Building Music, Inc. / Pogostick Music / Chigostick Music / Dudie
+  Music
+source: ''
+year: ''
 medley: []
-id: "A2F03D89-FDE7-48D7-A923-6EEAF8339263"
+id: A2F03D89-FDE7-48D7-A923-6EEAF8339263
 ---
-
 VERSE: (synth)
 e-------------------------------
 [b]---4---4---4---4---4---4---4---

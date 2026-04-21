@@ -1,22 +1,25 @@
 ---
-title: "Song Title"
-artist: "Artist Name"
+title: Song Title
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: Artist Name
+year: ''
 medley: []
-id: "387F6B07-CFD8-46AC-883B-C1C5A41AD009"
+id: 4EFC58B5-B77D-4362-B042-43D4576358B8
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

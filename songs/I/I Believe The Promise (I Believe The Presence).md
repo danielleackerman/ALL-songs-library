@@ -1,24 +1,27 @@
 ---
-title: "I Believe The Promise (I Believe The Presence)"
-artist: "Darlene Zschech"
+title: I Believe The Promise (I Believe The Presence)
+artist: Darlene Zschech
 key: Bb
-tempo: 
-time: 
-ccli: "1839963"
-copyright: "1995 Hillsong Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "presence"
-  - "believe"
+  - presence
+  - believe
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1839963'
+copyright: 1995 Hillsong Publishing
+source: ''
+year: ''
 medley: []
-id: "AD1603BA-ADDF-4D12-B246-2C807726641F"
+id: AD1603BA-ADDF-4D12-B246-2C807726641F
 ---
-
 [Cm9]I believe the promise about the visi[EbM7]ons and the dreams
 That the hol[Cm9]y Spirit will be poured out
 And His po[EbM7]wer will be [Eb/F]seen

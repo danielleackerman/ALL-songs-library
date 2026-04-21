@@ -1,22 +1,25 @@
 ---
-title: "I Will Bless The Lord- EASY"
-artist: "Frank Hernandez"
+title: I Will Bless The Lord- EASY
+artist: Frank Hernandez
 key: G
-tempo: 84
-time: "3/4"
-ccli: 
-copyright: 
+bpm: '84'
+time_sig: 3/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D9712B57-BFA1-4832-B8FA-F1D5B81A3E3A"
+id: D9712B57-BFA1-4832-B8FA-F1D5B81A3E3A
 ---
-
 84 bpm
 
 INTRO:

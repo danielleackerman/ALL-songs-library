@@ -1,38 +1,42 @@
 ---
-title: "I’ve Got The Holy Ghost"
-artist: "Steve Pixler version"
+title: I’ve Got The Holy Ghost
+artist: Steve Pixler version
 key: G
-tempo: 95
-time: 
-ccli: 
-copyright: 
+bpm: '95'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "holy-ghost"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - holy-ghost
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[GOD'S NOT DEAD]]"
-id: "066280C4-0627-4218-BAB6-EBEB6642E40A"
+  - '[[GOD''S NOT DEAD]]'
+id: 066280C4-0627-4218-BAB6-EBEB6642E40A
 ---
-
 {artist: Steve Pixler version}
 {book: MED OS APO}
 

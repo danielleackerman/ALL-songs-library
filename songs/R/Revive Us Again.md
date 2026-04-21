@@ -1,24 +1,27 @@
 ---
-title: "Revive Us Again"
-artist: "Big Daddy Weave"
+title: Revive Us Again
+artist: Big Daddy Weave
 key: C
-tempo: 
-time: 
-ccli: "5223107"
-copyright: "2007 Weave Country / Word Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "glory"
+  - praise
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5223107'
+copyright: '2007 Weave Country / Word Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "9D04128D-CC86-4D5A-864F-C63B6B71102C"
+id: 9D04128D-CC86-4D5A-864F-C63B6B71102C
 ---
-
 INTRO:
 C/E - F2 - G - Am7 - C/E - F2 - Gsus (REPEAT)
 

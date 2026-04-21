@@ -1,37 +1,41 @@
 ---
-title: "What A Day That Will Be"
-artist: "James Hill"
+title: What A Day That Will Be
+artist: James Hill
 key: D
-tempo: 
-time: "3/4"
-ccli: "32046"
-copyright: "1955. Renewed 1983 Ben Speer Music"
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-slow-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-slow-solo-songs-southern-gospel-traditional-worship
+  - os-apo-slow
+keywords: os apo slow
+ccli: '32046'
+copyright: 1955. Renewed 1983 Ben Speer Music
+source: ''
 year: 1955
 medley: []
-id: "9F9C0146-8DFF-4466-86FF-4579FD9684F8"
+id: 9F9C0146-8DFF-4466-86FF-4579FD9684F8
 ---
-
 VERSE 1:
 [D]There is coming a day
 [D]When no heartaches shall come

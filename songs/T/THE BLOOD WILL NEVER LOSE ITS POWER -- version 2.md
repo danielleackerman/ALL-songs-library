@@ -1,27 +1,30 @@
 ---
-title: "The Blood Will Never Lose Its Power -- Version 2"
-artist: "Andre Crouch"
+title: The Blood Will Never Lose Its Power -- Version 2
+artist: Andre Crouch
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "blood"
-  - "power"
+  - blood
+  - power
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-  - "os-gospel-med"
-keywords: "os apo med, os gospel med"
-source: 
-year: 
+  - os-apo-med
+  - os-gospel-med
+keywords: 'os apo med, os gospel med'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[THEY THAT WAIT UPON THE LORD]]"
-id: "34B62970-98DE-414A-AD06-1161DD03FD76"
+  - '[[THEY THAT WAIT UPON THE LORD]]'
+id: 34B62970-98DE-414A-AD06-1161DD03FD76
 ---
-
 Medley: they that wait upon the Lord
 
 VERSE 1:

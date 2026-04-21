@@ -1,22 +1,25 @@
 ---
-title: "Never, No Never"
-artist: ""
+title: 'Never, No Never'
+artist: ''
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CB1F1419-90BC-49DB-9D99-183088029E6E"
+id: CB1F1419-90BC-49DB-9D99-183088029E6E
 ---
-
 (Intro:)   [D]     [Em]     [G2]        [D]     [Em]     [G2]    [G/A]    [D]
 
 (Verse:1)

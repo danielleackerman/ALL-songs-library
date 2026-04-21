@@ -1,22 +1,25 @@
 ---
-title: "Take A Little Time"
-artist: "Jeremy Camp"
+title: Take A Little Time
+artist: Jeremy Camp
 key: A
-tempo: 
-time: 
-ccli: "4873833"
-copyright: "2006 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4873833'
+copyright: 2006 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "3E2BD270-47C6-43B8-8D03-B4CAF4873DB1"
+id: 3E2BD270-47C6-43B8-8D03-B4CAF4873DB1
 ---
-
 Intro:(: Bm  F#m7  D2 :)
 
 VERSE 1:

@@ -1,24 +1,27 @@
 ---
-title: "Jesus, King Of Angels"
-artist: "Fernando Ortega"
+title: 'Jesus, King Of Angels'
+artist: Fernando Ortega
 key: D
-tempo: 
-time: 
-ccli: "2677914"
-copyright: "1998 MargeeDays Music / Dayspring Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "angels"
+  - jesus
+  - angels
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2677914'
+copyright: '1998 MargeeDays Music / Dayspring Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "E45905D7-FB02-40C2-ADF9-551DC3E92040"
+id: E45905D7-FB02-40C2-ADF9-551DC3E92040
 ---
-
 This song was recorded in the Key of Eb. I have transposed to into the Key of D.
 
 [D]Jesus, [Dmaj7]King of an[D6]gels, [Dmaj7]heaven's [G/D]light,[D][G/D]

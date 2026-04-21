@@ -1,31 +1,35 @@
 ---
-title: "More Of You"
-artist: "Gloria and Bill Gaither"
+title: More Of You
+artist: Gloria and Bill Gaither
 key: G
-tempo: 
-time: "2/2"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 2/2
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
 year: 1977
 medley: []
-id: "392218B7-6307-4A75-9748-5CC9CF981645"
+id: 392218B7-6307-4A75-9748-5CC9CF981645
 ---
-
 CHORUS:
 [C/D]More of [G2]You  [G7/B]
 [G7/B]More of [C]You  [D/B]   [Am7]

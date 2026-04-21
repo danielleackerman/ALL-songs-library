@@ -1,23 +1,26 @@
 ---
-title: "Jesus Real Loud"
-artist: "Ray Boltz"
+title: Jesus Real Loud
+artist: Ray Boltz
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D122B597-16E3-479A-A5E4-CF643728289B"
+id: D122B597-16E3-479A-A5E4-CF643728289B
 ---
-
 VERSE 1:
 [E]Doors op[A]ened up and I[B] got on the elevator
 [E]All the oth[A]er people wer[B]e just standing around

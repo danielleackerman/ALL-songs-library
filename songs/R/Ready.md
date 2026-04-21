@@ -1,24 +1,27 @@
 ---
-title: "Ready"
-artist: "Third Day"
+title: Ready
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "5208562"
-copyright: "2008 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "mercy"
+  - love
+  - mercy
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5208562'
+copyright: 2008 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "47D1815F-835A-4141-8C72-67486A65002F"
+id: 47D1815F-835A-4141-8C72-67486A65002F
 ---
-
 INTRO:
 [Em] - [A] - [C] - [D2] - [Em] - [A] - [C]
 

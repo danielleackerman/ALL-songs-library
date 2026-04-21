@@ -1,23 +1,26 @@
 ---
-title: "Take Heart My Friend"
-artist: "Fernando Ortega"
+title: Take Heart My Friend
+artist: Fernando Ortega
 key: A
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "friend"
+  - friend
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F792D499-128B-4189-8F5F-07A6127DF469"
+id: F792D499-128B-4189-8F5F-07A6127DF469
 ---
-
 edited by Danielle Grigsby
 Key: A
 Ccli: 4407106

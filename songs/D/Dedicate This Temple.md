@@ -1,31 +1,35 @@
 ---
-title: "Dedicate This Temple"
-artist: "Ernest K. Emurian"
+title: Dedicate This Temple
+artist: Ernest K. Emurian
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8D5BD731-4DA9-4C4D-B86F-2CFDDDFF03C7"
+id: 8D5BD731-4DA9-4C4D-B86F-2CFDDDFF03C7
 ---
-
 {artist: Ernest K. Emurian}
 
 CHORUS:

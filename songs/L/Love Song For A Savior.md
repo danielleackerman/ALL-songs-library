@@ -1,24 +1,27 @@
 ---
-title: "Love Song For A Savior"
-artist: "Jars Of Clay"
+title: Love Song For A Savior
+artist: Jars Of Clay
 key: G
-tempo: 
-time: 
-ccli: "1848569"
-copyright: "1995 Pogostick Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "savior"
+  - love
+  - savior
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1848569'
+copyright: 1995 Pogostick Music
+source: ''
+year: ''
 medley: []
-id: "8CBCD14D-B45E-45EA-B9AD-E720C4392E67"
+id: 8CBCD14D-B45E-45EA-B9AD-E720C4392E67
 ---
-
 I haven't seen any accurate tabs so I thought I would share these.
 I divided the lines into measures.  It's in 4/4 time.  Enjoy!
 

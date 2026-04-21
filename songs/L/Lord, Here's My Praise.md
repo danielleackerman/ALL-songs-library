@@ -1,24 +1,27 @@
 ---
-title: "Lord, Here's My Praise"
-artist: "Nancy Grandquist"
+title: 'Lord, Here''s My Praise'
+artist: Nancy Grandquist
 key: Db
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "worship"
+  - praise
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
 year: 2012
 medley: []
-id: "6C3B41DB-322D-4D01-8888-368060D2EF18"
+id: 6C3B41DB-322D-4D01-8888-368060D2EF18
 ---
-
 Chorus 2x:
 [Db]Lord here's my [Ab/F]praise [B/Db] [Gbmaj7] and my [Db/F]worship
 [Gb/Eb]Given to [Ab7]You from my [Db2]heart  [Db]   [Gb/Ab]

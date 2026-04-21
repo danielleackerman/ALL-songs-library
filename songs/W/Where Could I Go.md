@@ -1,31 +1,35 @@
 ---
-title: "Where Could I Go"
-artist: ""
+title: Where Could I Go
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F1B173D1-B499-4A12-BABE-64CC8146CFB7"
+id: F1B173D1-B499-4A12-BABE-64CC8146CFB7
 ---
-
 VERSE 1:
 [F]Living be[F7/A]low in [Bb]this old sinful [F]world
 [Dm7]Hardly a [G9]comfort can af[C7]ford.     [Db7]             [C9]

@@ -1,22 +1,25 @@
 ---
-title: "Sweet Beulah Land"
-artist: "Squire Parsons / Carroll Roberson"
+title: Sweet Beulah Land
+artist: Squire Parsons / Carroll Roberson
 key: Gb
-tempo: 
-time: 
-ccli: "65752"
-copyright: "1979 Kingsmen Publishing Company"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '65752'
+copyright: 1979 Kingsmen Publishing Company
+source: ''
+year: ''
 medley: []
-id: "E0E2E700-6040-47F6-8632-658CA054634B"
+id: E0E2E700-6040-47F6-8632-658CA054634B
 ---
-
 VERSE 1:
 [Db]I'm [Bbm/Db]kind [Db7]of [Gb]home[B/Gb]s[Gb]ick [B]for a coun[Gb]try  [Db7/Ab] [Gb]
 To which I've [Bbm]nev[Abm7]er [Bbm/Db]been [B/Gb]before [Gb].

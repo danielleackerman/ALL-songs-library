@@ -1,24 +1,27 @@
 ---
-title: "Anything"
-artist: "Third Day"
+title: Anything
+artist: Third Day
 key: C
-tempo: 
-time: 
-ccli: "4027043"
-copyright: "2003 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "life"
+  - love
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4027043'
+copyright: 2003 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "9F696DE1-2DFA-496F-A9A5-188A4B10CD9D"
+id: 9F696DE1-2DFA-496F-A9A5-188A4B10CD9D
 ---
-
 VERSE 1:
 [C]I can’t do anything, [Csus2]    I [C]can’t do [Am]any[C]thing without you [Csus2] [C]
 [G]But you can do everything,  You [C]can everything you [G]want   [G7]

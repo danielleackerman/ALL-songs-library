@@ -1,22 +1,25 @@
 ---
-title: "Precious Lord, Take My Hand"
-artist: ""
+title: 'Precious Lord, Take My Hand'
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F7ED39D0-C01F-4E3D-BB79-31E85B043E0D"
+id: F7ED39D0-C01F-4E3D-BB79-31E85B043E0D
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

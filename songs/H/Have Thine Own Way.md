@@ -1,35 +1,39 @@
 ---
-title: "Have Thine Own Way"
-artist: ""
+title: Have Thine Own Way
+artist: ''
 key: D
-tempo: 
-time: 
-ccli: "28225"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '28225'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "968F4468-2DE7-4905-AB43-042DBAB491F6"
+id: 968F4468-2DE7-4905-AB43-042DBAB491F6
 ---
-
 [D]have Thine Own [G]way [D]Lord [Bm]have Thine own [A]way
 [A7]Thou art the potter, [A7*]I am the [D]clay
 mold me and [G]make [D]me [D7]after Thy [G]will

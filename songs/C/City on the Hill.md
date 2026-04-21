@@ -1,24 +1,27 @@
 ---
-title: "City on the Hill"
-artist: "Casting Crowns"
+title: City on the Hill
+artist: Casting Crowns
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: "2011 My Refuge Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "home"
-  - "light"
+  - home
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2011 My Refuge Music
+source: ''
+year: ''
 medley: []
-id: "5FEA5E2D-21A0-435B-8D01-0A29144D4825"
+id: 5FEA5E2D-21A0-435B-8D01-0A29144D4825
 ---
-
 INTRO:
 [Dm] - [F] - [C] - [Gm]  2x
 

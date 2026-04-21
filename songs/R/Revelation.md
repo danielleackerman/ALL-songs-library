@@ -1,22 +1,25 @@
 ---
-title: "Revelation"
-artist: "Third Day"
+title: Revelation
+artist: Third Day
 key: A
-tempo: 
-time: 
-ccli: "5208490"
-copyright: "2008 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5208490'
+copyright: 2008 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "8991092C-257D-48B3-9A9D-3E8FC0507197"
+id: 8991092C-257D-48B3-9A9D-3E8FC0507197
 ---
-
 [A]My life has led me down the road that's s[E]o uncertain
 And now I am left alone and I am br[G]oken,
 Trying to find my way,  T[D]rying to find the faith that's gone

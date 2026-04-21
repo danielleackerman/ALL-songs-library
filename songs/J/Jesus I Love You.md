@@ -1,37 +1,41 @@
 ---
-title: "Jesus I Love You"
-artist: "Brooklyn Tabernacle Choir"
+title: Jesus I Love You
+artist: Brooklyn Tabernacle Choir
 key: Ab
-tempo: 115
-time: "2/4"
-ccli: 
-copyright: 
+bpm: '115'
+time_sig: 2/4
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "love"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - love
+  - jesus
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "mod-gospel-slow"
-keywords: "mod gospel slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - mod-gospel-slow
+keywords: mod gospel slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3EF06EC6-E4B3-4990-898B-E39233144C09"
+id: 3EF06EC6-E4B3-4990-898B-E39233144C09
 ---
-
 {artist: Brooklyn Tabernacle Choir}
 
 INTRO:

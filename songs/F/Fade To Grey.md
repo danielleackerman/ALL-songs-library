@@ -1,22 +1,25 @@
 ---
-title: "Fade To Grey"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Fade To Grey
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "933F8BDA-9C4F-4A4C-A340-69B50B9626E5"
+id: 933F8BDA-9C4F-4A4C-A340-69B50B9626E5
 ---
-
 Key:
 
 Fade to Grey by:Jars Of Clay

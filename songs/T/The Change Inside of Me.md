@@ -1,22 +1,25 @@
 ---
-title: "The Change Inside of Me"
-artist: "MercyMe"
+title: The Change Inside of Me
+artist: MercyMe
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "2002 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2002 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "9D82C215-6F50-4C3A-9AB7-AC4ACF24CF90"
+id: 9D82C215-6F50-4C3A-9AB7-AC4ACF24CF90
 ---
-
 Intro: C  D  G  A2  C  D  G  A2
 
 Verse: C2  Am  G  G2  G

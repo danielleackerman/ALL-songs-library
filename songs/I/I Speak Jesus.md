@@ -1,35 +1,42 @@
 ---
-title: "I Speak Jesus"
-artist: ""
+title: I Speak Jesus
+artist: ''
 key: C
-tempo: 74
-time: "4/4"
-ccli: "7136201"
-copyright: "©2019 Integrity's Praise! Music, Here Be Lions Publishing (Admin by Integrity Music) WriterWrong Music, BEC Worship, Raina Pratt Designee (Admin by Music Services) Abby Benton Designee."
+bpm: '74'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '7136201'
+copyright: >-
+  ©2019 Integrity's Praise! Music, Here Be Lions Publishing (Admin by Integrity
+  Music) WriterWrong Music, BEC Worship, Raina Pratt Designee (Admin by Music
+  Services) Abby Benton Designee.
+source: ''
+year: ''
 medley: []
-id: "6F291021-9F40-447A-9654-CEF8696B6543"
+id: 6F291021-9F40-447A-9654-CEF8696B6543
 ---
-
 INTRO:
 [Cmaj7][/][8 beats]
 [Am9][/][4 beats]

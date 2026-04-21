@@ -1,39 +1,43 @@
 ---
-title: "Walking By Faith"
-artist: "O.S. Davis (Sing Unto the Lord (4))"
+title: Walking By Faith
+artist: O.S. Davis (Sing Unto the Lord (4))
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "faith"
-  - "sutl"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - faith
+  - sutl
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med, sutl"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: 'os apo med, sutl'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B1213BFE-2030-409F-89D3-8094E7E3D67F"
+id: B1213BFE-2030-409F-89D3-8094E7E3D67F
 ---
-
 {artist: O.S. Davis (Sing Unto the Lord (4))}
 
 VERSE 1:

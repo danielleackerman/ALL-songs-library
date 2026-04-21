@@ -1,68 +1,36 @@
 ---
-title: "Blessed Be Your Name"
-artist: "Matt Redman & Beth Redman"
-key: Db
-tempo: 111
-time: 
-ccli: "3798438"
-copyright: "2002 Thankyou Music"
-tags:
-  - "blessing"
+title: Blessed Be Your Name
+artist: ''
+key: E
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
+tags: []
 genre: []
-energy: medium-fast
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '125843'
+copyright: 1987 Mercy Publishing
+source: ''
+year: ''
 medley: []
-id: "A5D2B3DE-5575-4F92-A5CC-C6E598B1170C"
+id: 9068FD66-AFD2-4A01-8E5F-6E4A0C9E8A6B
 ---
+[E]Blessed be Your [A]holy name Lord[E] Jesus
+I will never c[A]ease to give You [B]praise
+You are M[G#m]es   s[C#m]iah,  D[G#m]eli  [C#m]verer
+The [F#m]Holy One of I[B]srael
 
-INTRO:
-[Db]1 bar [Ab]1 bar [Bbm7]1 bar [Gb]1 bar
+Blessed be Your holy name Lord Jesus
+There's no other name by which we're saved
+You are Messiah, Deliverer
+B[F#m]lessed [B]be Your n[E]ame
 
-VERSE 1:
-[Db] Blessed [Ab]be Your name in the [Bbm7]land that is [Gb]plentiful,
-Where Your [Db]streams of abun[Ab]dance flow, Blessed [Gb]be Your name
-
-[Db] And blessed [Ab]be Your name, When I'm [Bbm7]found in the de[Gb]sert place
-Though I [Db]walk through the wil[Ab]derness, Blessed [Gb]be Your name [Gb]
-
-PRE-CHORUS:
-[Db] Every blessing [Ab]You pour out I'll, [Bbm7]  Turn back to [Gb]praise
-[Db]And when the darkness [Ab]closes in Lord, [Bbm7] Still I will [Gb]say
-
-CHORUS:
-Blessed be the [Db]name of the [Ab]Lord, Blessed be Your [Bbm7]name   [Gb]
-Blessed be the [Db]name of the [Ab]Lord, Blessed be Your [Bbm7]glori[Ab]ous [Gb]name
-
-VERSE 2:
-[Db]  Blessed be [Ab]Your name when the [Bbm7]sun's [Gbma7]shining [Gb]down on me
-When the [Db]world's all as it [Ab]should be, Blessed [Gb]be Your name
-
-[Db]  Blessed [Ab]be Your name, On the [Bbm7]road marked with suf[Gb]fering
-Though there's [Db]pain in the o[Ab]ffering, Blessed [Gb]be Your name
-
-PRE-CHORUS:
-[Db] Every blessing [Ab]You pour out I'll, [Bbm7]  Turn back to [Gb]praise
-[Db] When the darkness [Ab]closes in Lord, [Bbm7] Still I will [Gb]say
-
-CHORUS:
-Blessed be the [Db]name of the [Ab]Lord, Blessed be Your [Bbm7]name   [Gb]
-Blessed be the [Db]name of the [Ab]Lord, Blessed be Your [Bbm7]glori[Ab]ous [Gb]name
-
-BRIDGE:
-You [Db]give and take a[Ab]way, You [Bbm7]give and take a[Gb]way
-My [Db]heart will choose to [Ab]say, Lord, [Bbm7]blessed be Your [Gb]name
-
-PRE-CHORUS:
-[Db] Every blessing [Ab]You pour out I'll, [Bbm7]  Turn back to [Gb]praise
-[Db] When the darkness [Ab]closes in Lord, [Bbm7] Still I will [Gb]say
-
-Chorus 2x:
-Blessed be the [Db]name of the [Ab]Lord, Blessed be Your [Bbm7]name, Je[Gb]sus,
-Blessed be the [Db]name of the [Ab]Lord, Blessed be Your [Bbm7]glorious [Gb]name
-
-BRIDGE:
-You [Db]give and take a[Ab]way, You [Bbm7]give and take a[Gb]way
-My [Db]heart will choose to [Ab]say, Lord, [Bbm7]blessed be Your [Gb]name [Db]
+Y[C]our name is high above all [E]others
+Y[C]our name has set the [D]captives fr[E]ee
+Y[C]our name delivers all the na[E]tions
+[F#m]Your name is life and breath to [B]me

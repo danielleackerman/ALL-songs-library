@@ -1,23 +1,26 @@
 ---
-title: "Come, Lord Jesus"
-artist: ""
+title: 'Come, Lord Jesus'
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8C467580-EC23-4826-8A1E-765664767034"
+id: 8C467580-EC23-4826-8A1E-765664767034
 ---
-
 [Ab/Bb]Come   Lord   [Eb]Jesus,    [Ab/Bb]quickly   I   [Eb]pray
 
 [Ab/Bb]Come  Lord  [Eb]Jesus  and  [Cm7]take  Your  bride  [Fm7]away. [Bb7]

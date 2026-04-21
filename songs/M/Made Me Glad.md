@@ -1,22 +1,25 @@
 ---
-title: "Made Me Glad"
-artist: "Darlene Zschech"
+title: Made Me Glad
+artist: Darlene Zschech
 key: Bb
-tempo: 
-time: 
-ccli: "3290709"
-copyright: "2001 Hillsong Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3290709'
+copyright: 2001 Hillsong Publishing
+source: ''
+year: ''
 medley: []
-id: "138AFEEE-D209-4B5F-92C1-0C7283BFD41F"
+id: 138AFEEE-D209-4B5F-92C1-0C7283BFD41F
 ---
-
 INTRO: Eb2  Eb  Eb2  Eb  Bb2  Bb  Bb2  Bb (X2)
 
 (verse 1):

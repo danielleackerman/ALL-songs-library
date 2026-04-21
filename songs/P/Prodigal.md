@@ -1,23 +1,26 @@
 ---
-title: "Prodigal"
-artist: "Casting Crowns"
+title: Prodigal
+artist: Casting Crowns
 key: C
-tempo: 
-time: 
-ccli: "4578853"
-copyright: "2005 Club Zoo Music / SWECS Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "prodigal"
+  - prodigal
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4578853'
+copyright: 2005 Club Zoo Music / SWECS Music
+source: ''
+year: ''
 medley: []
-id: "EBE9A08E-26C3-4D4D-8DB4-80B4BAE0C477"
+id: EBE9A08E-26C3-4D4D-8DB4-80B4BAE0C477
 ---
-
 Capo 3 (For same as Album)
 [Am] [F] [C] [G] [Am] [F] [C] [G]
 

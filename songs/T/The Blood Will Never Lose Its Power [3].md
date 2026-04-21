@@ -1,33 +1,37 @@
 ---
-title: "The Blood Will Never Lose Its Power"
-artist: "Burbank"
+title: The Blood Will Never Lose Its Power
+artist: Burbank
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "blood"
-  - "power"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - blood
+  - power
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D4689696-8E0C-4A99-BBF9-32330C1FC7AF"
+id: EB04C38F-D429-476D-9F7B-3069954F44C3
 ---
-
 Key of: G
 
 VERSE 1:

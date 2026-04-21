@@ -1,22 +1,25 @@
 ---
-title: "Oh God, You Are My God"
-artist: "Fernando Ortega"
+title: 'Oh God, You Are My God'
+artist: Fernando Ortega
 key: G
-tempo: 
-time: 
-ccli: "4854742"
-copyright: "2006 Curb Songs / Cerdo Verde Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4854742'
+copyright: 2006 Curb Songs / Cerdo Verde Music
+source: ''
+year: ''
 medley: []
-id: "9E56B7C1-753E-4F7E-AF8F-29EDFDF49AA0"
+id: 9E56B7C1-753E-4F7E-AF8F-29EDFDF49AA0
 ---
-
 Intro:  Em – D Em (Repeat – Keys only)
 
 VERSE 1:

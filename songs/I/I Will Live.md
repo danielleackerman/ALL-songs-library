@@ -1,22 +1,25 @@
 ---
-title: "I Will Live"
-artist: "unknown"
+title: I Will Live
+artist: unknown
 key: Ab
-tempo: 129
-time: 
-ccli: 
-copyright: 
+bpm: '129'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium-fast
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CD5D8EF8-9399-430E-8ED9-49AF99519245"
+id: CD5D8EF8-9399-430E-8ED9-49AF99519245
 ---
-
 Bpm:129
 
 Cho:Unison:(S+low A)(High T)

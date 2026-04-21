@@ -1,24 +1,27 @@
 ---
-title: "It's About Time"
-artist: "Third Day"
+title: It's About Time
+artist: Third Day
 key: C
-tempo: 
-time: 
-ccli: "5350276"
-copyright: "2007 Vandura 2500 Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5350276'
+copyright: 2007 Vandura 2500 Songs
+source: ''
+year: ''
 medley: []
-id: "837B9935-05E7-4D2D-9CE3-EAF20202846D"
+id: 837B9935-05E7-4D2D-9CE3-EAF20202846D
 ---
-
 C
 Well I need to be more than I have been
 [C]Well I need to be more than I have [Am]been

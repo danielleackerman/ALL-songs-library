@@ -1,36 +1,40 @@
 ---
-title: "Move Me With Your Message"
-artist: "Lanny Wolfe ?"
+title: Move Me With Your Message
+artist: Lanny Wolfe ?
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - altar-songs
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "altar-songs-black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - >-
+    altar-songs-black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0244E3C0-424A-4400-9825-52407E9340B8"
+id: 0244E3C0-424A-4400-9825-52407E9340B8
 ---
-
 CHORUS:
 [F2]Move me with Your [Am7]message once [Bb2]again, [F/A]oh
 [Gm7]It’s [C7]been so long since [C7/E]I have broke [FM7]within.  [Bb/C]

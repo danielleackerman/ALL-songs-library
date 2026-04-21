@@ -1,34 +1,38 @@
 ---
-title: "He Knows My Name"
-artist: ""
+title: He Knows My Name
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "light"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - light
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "2E992425-8904-408C-950C-A8ABB173A8A3"
+id: 2E992425-8904-408C-950C-A8ABB173A8A3
 ---
-
 Verse one:
 [G] He counts the stars one and [Dsus]all,  He knows how much [D]sand is on the sh[Em]ores
 He sees every [G/D]sparrow that [C]falls [C/D], [G]He made the mountains and the [Dsus]seas

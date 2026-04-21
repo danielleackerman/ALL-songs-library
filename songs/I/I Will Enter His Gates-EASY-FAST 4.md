@@ -1,26 +1,29 @@
 ---
-title: "I Will Enter His Gates-EASY-FAST 4"
-artist: "Leona Von  Brethorst"
+title: I Will Enter His Gates-EASY-FAST 4
+artist: Leona Von  Brethorst
 key: C
-tempo: 89
-time: 
-ccli: 
-copyright: 
+bpm: '89'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "rejoice"
-  - "maranatha"
+  - rejoice
+  - maranatha
 genre: []
-energy: medium
 profile:
-  - "os-christian-med-slow"
-keywords: 
-source: 
-year: 
+  - os-christian-med-slow
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[WE BRING THE SACRIFICE OF PRAISE]]"
-id: "2578510F-2A2C-40C9-9B9D-53E74779003F"
+  - '[[WE BRING THE SACRIFICE OF PRAISE]]'
+id: 2578510F-2A2C-40C9-9B9D-53E74779003F
 ---
-
 84 bpm
 Copyright: 1976 Universal Music - Brentwood Benson Publishing;Admin. by Brentwood Benson Publishing, Inc.
 Ccli: 1493

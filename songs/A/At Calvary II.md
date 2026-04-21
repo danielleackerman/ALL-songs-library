@@ -1,23 +1,26 @@
 ---
-title: "At Calvary II"
-artist: "D. B. Towner"
+title: At Calvary II
+artist: D. B. Towner
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "calvary"
+  - calvary
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DFBD563C-9569-4688-A4B7-55A1691AF1B4"
+id: DFBD563C-9569-4688-A4B7-55A1691AF1B4
 ---
-
 VERSE 1:
 
 Years I spent in vanity and pride

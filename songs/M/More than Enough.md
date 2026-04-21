@@ -1,38 +1,42 @@
 ---
-title: "More than Enough"
-artist: "Gary Oliver"
+title: More than Enough
+artist: Gary Oliver
 key: Bbm
-tempo: 100
-time: 
-ccli: "3305852"
-copyright: "2000 Integrity's Hosanna! Music, Revilo (Admin. Capitol CMG Publishing (IMI))"
+bpm: '100'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "provision"
-  - "sufficiency"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - provision
+  - sufficiency
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-med-fast"
-keywords: "mod apo med fast, provision, sufficiency"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-med-fast
+keywords: 'mod apo med fast, provision, sufficiency'
+ccli: '3305852'
+copyright: '2000 Integrity''s Hosanna! Music, Revilo (Admin. Capitol CMG Publishing (IMI))'
+source: ''
+year: ''
 medley: []
-id: "21AD91CA-2214-4CBD-A71A-406A00AB08DF"
+id: 21AD91CA-2214-4CBD-A71A-406A00AB08DF
 ---
-
 {artist: Gary Oliver}
 
 Original key bbm (5 b)

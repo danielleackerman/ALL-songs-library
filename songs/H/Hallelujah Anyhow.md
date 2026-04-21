@@ -1,22 +1,25 @@
 ---
-title: "Hallelujah Anyhow"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Hallelujah Anyhow
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "37A5B3EA-19CE-46CC-AC7C-975166591C4D"
+id: 37A5B3EA-19CE-46CC-AC7C-975166591C4D
 ---
-
 VERSE 1:
 
 I believe I'll testify, God's been good to me.

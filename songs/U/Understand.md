@@ -1,22 +1,25 @@
 ---
-title: "Understand"
-artist: "Jeremy Camp"
+title: Understand
+artist: Jeremy Camp
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "2002 Thirsty Moon River Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2002 Thirsty Moon River Publishing
+source: ''
+year: ''
 medley: []
-id: "7068B5B0-7D5E-4F4C-9B75-3C7AD1C804EA"
+id: 7068B5B0-7D5E-4F4C-9B75-3C7AD1C804EA
 ---
-
 Intro:  Bm    A     G
 
 [Bm]Every time I[A] fall down[G] on my face

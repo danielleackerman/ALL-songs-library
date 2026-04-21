@@ -1,22 +1,25 @@
 ---
-title: "The Old Account Settled"
-artist: "F.M. Graham"
+title: The Old Account Settled
+artist: F.M. Graham
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "08FADA2E-4942-490D-8426-46EA74533B16"
+id: 08FADA2E-4942-490D-8426-46EA74533B16
 ---
-
 VERSE 1:
 [C/D]There [G]was a time on earth, when in the book of [G7/B]heav'n
 An [Cold account was [G]standing, for [A7]sins yet unfor[D7]given

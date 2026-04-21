@@ -1,25 +1,28 @@
 ---
-title: "In The Presence Of Jehovah mod"
-artist: "Geron Davis"
+title: In The Presence Of Jehovah mod
+artist: Geron Davis
 key: C
-tempo: 
-time: 
-ccli: "162040"
-copyright: "1983, 1985 Meadowgreen Music Company / Songchannel Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "presence"
-  - "almighty"
+  - presence
+  - almighty
 genre: []
-energy: 
 profile:
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: '162040'
+copyright: '1983, 1985 Meadowgreen Music Company / Songchannel Music'
+source: ''
+year: ''
 medley: []
-id: "9646BC91-D9FA-46E2-932C-6408977E10B9"
+id: 9646BC91-D9FA-46E2-932C-6408977E10B9
 ---
-
 VERSE 1:
 [Gsus]    In and out of sit[C2]ua[C]tions , That tug a [C/E]war at [Fmaj7]me
 [F/G]All day long I stru[C2]gg[C]le, For answers [C/E]that I n[F2]eed [F] [F/C]

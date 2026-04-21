@@ -1,36 +1,42 @@
 ---
-title: "He’s Coming Soon"
-artist: "Thorp Harris, Liliuokalani (Arr. by Thoro Harris) Sing Unto The Lord Songbook-22"
+title: He’s Coming Soon
+artist: >-
+  Thorp Harris, Liliuokalani (Arr. by Thoro Harris) Sing Unto The Lord
+  Songbook-22
 key: Ab
-tempo: 88
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '88'
+time_sig: 4/4
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "sutl"
+  - altar-songs
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - sutl
 genre: []
-energy: medium
 profile:
-  - "altar-songs-ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-  - "os-apo-med-slow"
-keywords: "os apo med slow, sutl"
-source: 
-year: 
+  - >-
+    altar-songs-ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+  - os-apo-med-slow
+keywords: 'os apo med slow, sutl'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "21E5A35E-5151-41C9-90F4-F4A544F5645A"
+id: 21E5A35E-5151-41C9-90F4-F4A544F5645A
 ---
-
 {artist: Thorp Harris, Liliuokalani (Arr. by Thoro Harris) Sing Unto The Lord Songbook-22}
 
 VERSE 1:

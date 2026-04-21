@@ -1,83 +1,62 @@
 ---
-title: "My Jesus I Love Thee"
-artist: "Darlene Zschech"
-key: A
-tempo: 
-time: 
-ccli: "6467247"
-copyright: "2013 Integrity Worship Music & This Is Your Time Music"
+title: My Jesus I Love Thee
+artist: 'William Ralf Featherstone, A.J. Gordon SING UNTO THE LORD SONGBOOK #8'
+key: F
+bpm: '70'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "love"
-  - "jesus"
-  - "sutl"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - love
+  - jesus
+  - sutl
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow, sutl"
-source: 
-year: 
-medley: []
-id: "643DB251-627A-4088-9FC4-E02A23B3AD68"
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-slow
+keywords: 'os apo slow, sutl'
+ccli: '27817'
+copyright: 'Words and Music: Public Domain'
+source: ''
+year: ''
+medley:
+  - '[[TURN YOUR EYES UPON JESUS]]'
+id: 7C2130E1-802C-4A18-BD22-2178788AC9DF
 ---
-
-INTRO:
-[A] [-] [C#m/G#] [-] [F#m7] [-] [D] [(x3)]
+Medley: turn Your eyes upon Jesus
 
 VERSE 1:
-My [A]Je-[C#m/G#]sus  I  [F#m7]love Thee I [D]know [E]Thou art [A]mine
-For Thee [C#m/G#]all the [F#m7]follies of [D]sin [E]I res[A]ign
-My [A/C#]gracio[D]us [A/C#]Re - [Bm7]dee [A]- m[E]er my [A/C#]Savio[D]ur art [Esus]Thou   [E]
-If [A]ev[C#m/G#]er  I  [F#m7]loved Thee my [D]Jes[E]us 'tis [A]now
-
-[C#m/G#] [-] [F#m7] [-] [D] [-] [A]
-[C#m/G#] [-] [F#m7] [-] [D]
+[F]My Je[Bb/F]sus I [F]love Thee, I [C7]know [F]Thou art [F]mine.
+For Thee [Bb/F]all the [F]follies [F]of [C7]sin [C]I re[F]sign;
+My [F/A]gra[Bb]cious [F]Re[C7/G]deem[C/E]er, my [F]Sav[Gm/Bb]ior art [F/C]Thou;
+[F]If ev[Bb/F]er I [F]loved Thee, my [F/C]Je[Am/C]sus, [C7]‘tis [F]now.
 
 VERSE 2:
-I [A]love [C#m/G#]Thee bec[F#m7]ause Thou has [D]first [E]loved [A]me
-And pur[C#m/G#]chased my [F#m7]pardon on [D]Calv[E]ary's [A]tree
-I [A/C#]love T[D]hee [A/C#]for  [Bm7]wear [A]- i[E]ng the [A/C#]thorns [D]on Thy [Esus]brow   [E]
-If [A]ev - [C#m/G#]er  I  [F#m7]loved Thee my [D]Jes[E]us 'tis [A]now
-
-[C#m/G#] [-] [F#m7] [-] [D] [-] [A]
-[C#m/G#] [-] [F#m7] [-] [D]
+[F]I love Thee because Thou has [C7]first [C]loved [F]me,
+And pur[Bb/F]chased my [F]pardon [F]on [C7]Cal[C]vary’s [F]tree.
+I [F/A]love [Bb]Thee [F]for [C7/G]wear[C/E]ing the [F]thorns [Gm/Bb]on Thy [F/C]brow;
+[F]If ev[Bb/F]er I [F]loved Thee, my [F/C]Je[Am/C]sus, [C7]‘tis [F]now.
 
 VERSE 3:
-I'll [A]love [C#m/G#]Thee in [F#m7]life I will [D]love [E]Thee in [A]death
-And praise [C#m/G#]Thee as [F#m7]long as Thou [D]lend[E]est me [A]breath
-And [A/C#]say  w[D]hen [A/C#]the d[Bm7]eath [A]  d[E]ew lies [A/C#]cold [D]on my [Esus]brow   [E]
-If [F#m7]ev - [D]er I [F#m7]loved [C#m/G#]        [F#m7]Thee my [D]Jes[E]us 'tis [A]now
-
-CHORUS:
-[A]   I [C#m/G#]love You [F#m7]Jesus
-[D]   I'll always [F#m7]love [E]You
-[A]   Now [C#m/G#]and for[F#m7]ever
-[D]   I belong [F#m7]to   Y[E]ou  (repeat)
-
-[D]   I bel[E]ong to [F#m7]You,  [D]I bel[E]ong to [A]You [C#m/G#]         [F#m7]       [D]
+[F]I’ll love Thee in life, I will [C7]love [C]Thee in [F]death,
+And praise [Bb/F]Thee as [F]long as [F]Thou [C7]lend[C]est me [F]breath.
+And say [Bb]when [F]the [C7/G]death [C/E]dew lies [F]cold [Gm/Bb]on my [F/C]brow;
+[F]If ev[Bb/F]er I [F]loved Thee, my [F/C]Je[Am/C]sus, [C7]‘tis [F]now.
 
 VERSE 4:
-In [A]mans[C#m/G#]ions of [F#m7]glory and [D]endl[E]ess [A]delight
-I'll [C#m/G#]ever   [F#m7]adore Thee in [D]heav[E]en so [A]bright
-I'll [A/C#]sing [D]with [A/C#]the  [Bm7]glitter [A]- [E]ing [A/C#]crown [D]on my [Esus]brow   [E]
-If [F#m7]ever I lov[A]ed [D]Thee my Je[E]sus 'tis [A]now
-
-CHORUS:
-[A]   I [C#m/G#]love You [F#m7]Jesus
-[D]   I'll always [F#m7]love [E]You
-[A]   Now [C#m/G#]and for[F#m7]ever
-[D]   I belong [F#m7]to   Y[E]ou  (repeat)
-
-[D]   I bel[E]ong to [F#m7]You,  [D]I bel[E]ong to [A]You [C#m/G#]         [F#m7]       [D]
-
-ENDING:
-[A]  [-]  [C#m/G#]       [-]  [F#m7]     Lift Jesus [E]higher (repeat)
+[F]In mansions of glory and [C7]end[C]less de[F]light,
+I’ll ev[Bb/F]er a[F]dore Thee [F]in [C7]heav[C]en so [F]bright.
+I’ll sing [Bb]with [F]the [C7/G]glit[C/E]tering [F]crown [Gm/Bb]on my [F/C]brow;
+[F]If ev[Bb/F]er I [F]loved Thee, my [F/C]Je[Am/C]sus, [C7]‘tis [F]now.

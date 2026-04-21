@@ -1,22 +1,25 @@
 ---
-title: "Use Me Lord"
-artist: "Rev. Clay Evans"
+title: Use Me Lord
+artist: Rev. Clay Evans
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D719BF28-1CFE-4DC7-9AC7-D3D9F70073A0"
+id: D719BF28-1CFE-4DC7-9AC7-D3D9F70073A0
 ---
-
 CHORUS:
 [F]Use me [F7/A]Lord
 To [Bb]do a work for [F]You

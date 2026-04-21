@@ -1,24 +1,27 @@
 ---
-title: "Praise You In The Dance"
-artist: "Casting Crowns"
+title: Praise You In The Dance
+artist: Casting Crowns
 key: E
-tempo: 
-time: 
-ccli: "4196606"
-copyright: "2003 My Refuge Music Sony/ATV Tree Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "dance"
+  - praise
+  - dance
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4196606'
+copyright: 2003 My Refuge Music Sony/ATV Tree Publishing
+source: ''
+year: ''
 medley: []
-id: "2D88904E-0DDF-4F06-9982-03AE149001FC"
+id: 2D88904E-0DDF-4F06-9982-03AE149001FC
 ---
-
 INTRO:
 [E2] - [B] - [A] - [B] (x2)
 

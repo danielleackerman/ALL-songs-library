@@ -1,24 +1,27 @@
 ---
-title: "DON'T LET THE DEVIL RIDE (Neal Robertson)"
-artist: ""
+title: DON'T LET THE DEVIL RIDE (Neal Robertson)
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "temptation"
+  - temptation
 genre: []
-energy: 
 profile:
-  - "os-gospel-slow"
-keywords: "os gospel slow, temptation"
-source: 
-year: 
+  - os-gospel-slow
+keywords: 'os gospel slow, temptation'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E1E6E57C-5ADD-4256-8A48-10C82EE8AB9B"
+id: E1E6E57C-5ADD-4256-8A48-10C82EE8AB9B
 ---
-
 VERSE 1:
 
 Oh, Don't let the devil ride

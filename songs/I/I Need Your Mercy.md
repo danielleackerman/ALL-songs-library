@@ -1,36 +1,40 @@
 ---
-title: "I Need Your Mercy"
-artist: "Clint Brown"
+title: I Need Your Mercy
+artist: Clint Brown
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "mercy"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - mercy
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "977C02DA-6AF7-43E8-93DF-983F1F1A5FB9"
+id: 977C02DA-6AF7-43E8-93DF-983F1F1A5FB9
 ---
-
 [Lead in notes:]  [Eb][F][G][Eb][Bb][Ab][G][C7]
 
 [F/G]I need Your [C2]mercy, I need Your [Am7]grace

@@ -1,37 +1,41 @@
 ---
-title: "Greater Is He That Is in Me"
-artist: "Lanny Wolfe Trio"
+title: Greater Is He That Is in Me
+artist: Lanny Wolfe Trio
 key: F
-tempo: 134
-time: 
-ccli: 
-copyright: 
+bpm: '134'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[I'VE GOT IT]]"
-id: "CDC6B0BB-CECB-4404-BF68-9B6E04574542"
+  - '[[I''VE GOT IT]]'
+id: CDC6B0BB-CECB-4404-BF68-9B6E04574542
 ---
-
 Medley: I've got it
 
 CHORUS:

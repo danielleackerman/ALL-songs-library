@@ -1,22 +1,25 @@
 ---
-title: "How Can It Be"
-artist: "Lauren Daigle"
+title: How Can It Be
+artist: Lauren Daigle
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "2014 Centricity Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2014 Centricity Music
+source: ''
+year: ''
 medley: []
-id: "A5E018E4-3E67-40C6-8640-1DE03021A553"
+id: A5E018E4-3E67-40C6-8640-1DE03021A553
 ---
-
 INTRO:
 [Cadd9] - [G5/E] - [D]
 

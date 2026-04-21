@@ -1,22 +1,25 @@
 ---
-title: "Flood"
-artist: "Jars Of Clay"
+title: Flood
+artist: Jars Of Clay
 key: C
-tempo: 
-time: 
-ccli: "1848741"
-copyright: "1995 Pogostick Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1848741'
+copyright: 1995 Pogostick Music
+source: ''
+year: ''
 medley: []
-id: "A2F15206-5902-4053-B8E6-2936BE326F08"
+id: A2F15206-5902-4053-B8E6-2936BE326F08
 ---
-
 Standard-tuned six-string acoustic, capo 3rd fret.
 
 Capo 3rd fret

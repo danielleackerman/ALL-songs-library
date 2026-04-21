@@ -1,22 +1,25 @@
 ---
-title: "This Road"
-artist: "Jars Of Clay"
+title: This Road
+artist: Jars Of Clay
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "06EC25F2-B4BC-4905-B689-4AD9280EC916"
+id: 06EC25F2-B4BC-4905-B689-4AD9280EC916
 ---
-
 I saw the version that was posted and I decided to post what I came up with.
 If you listen these chords match up really well without having to change the
  tuning on your guitar.

@@ -1,22 +1,25 @@
 ---
-title: "Exercise Song #1"
-artist: "AP 201 Lesson 2"
+title: 'Exercise Song #1'
+artist: AP 201 Lesson 2
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "6BBF1509-B025-4C7C-81BC-9D84A0C040EE"
+id: 6BBF1509-B025-4C7C-81BC-9D84A0C040EE
 ---
-
 11th Chords on the I & V (b7, 9, 11)
 
 [C] [/] [/] [/] [C11] [/] [/] [/] [Fmaj9] [/] [/] [C] [/] [E7#9] [/]

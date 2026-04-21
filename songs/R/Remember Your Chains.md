@@ -1,23 +1,26 @@
 ---
-title: "Remember Your Chains"
-artist: "Steven Curtis Chapman"
+title: Remember Your Chains
+artist: Steven Curtis Chapman
 key: D
-tempo: 
-time: 
-ccli: "1773799"
-copyright: "1994 Sparrow Song / Peach Hill Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1773799'
+copyright: 1994 Sparrow Song / Peach Hill Songs
+source: ''
+year: ''
 medley: []
-id: "FCA65AD3-6AB6-4D2B-9375-29A729433353"
+id: FCA65AD3-6AB6-4D2B-9375-29A729433353
 ---
-
 [D]I couldn't help but wond[D/Bm]er what he was thinking[A/C#]
 As he star[D/G]ed out the window through the sky[D]
 It seemed he was taking his[D/Bm] last look at freedom[A/C#]

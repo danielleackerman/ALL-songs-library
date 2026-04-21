@@ -1,23 +1,26 @@
 ---
-title: "If My People Pray"
-artist: "Avalon"
+title: If My People Pray
+artist: Avalon
 key: Eb
-tempo: 
-time: 
-ccli: "2848190"
-copyright: "1999 River Oaks Music Company / Matt Huesmann Music / Kent Hooper Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "grace"
+  - grace
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2848190'
+copyright: 1999 River Oaks Music Company / Matt Huesmann Music / Kent Hooper Music
+source: ''
+year: ''
 medley: []
-id: "1613C226-97C1-48AD-A1EE-9186F3653410"
+id: 1613C226-97C1-48AD-A1EE-9186F3653410
 ---
-
 INTRO:
 Eb – Cm7 – Gm7 – Fm7 - Bbsus
 Cm – Fm7 – Bbsus – Bb –

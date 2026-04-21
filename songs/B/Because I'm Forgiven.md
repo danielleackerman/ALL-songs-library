@@ -1,23 +1,26 @@
 ---
-title: "Because I'm Forgiven"
-artist: "Phillips, Craig & Dean"
+title: Because I'm Forgiven
+artist: 'Phillips, Craig & Dean'
 key: D
-tempo: 
-time: 
-ccli: "4407955"
-copyright: "2004 JG Songs / Dwell Ministries / Shawn Craig Publishing Designee"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4407955'
+copyright: 2004 JG Songs / Dwell Ministries / Shawn Craig Publishing Designee
+source: ''
+year: ''
 medley: []
-id: "60E2899A-C3AA-404E-9BA5-D269F2FD81D6"
+id: 60E2899A-C3AA-404E-9BA5-D269F2FD81D6
 ---
-
 INTRO 12 bars:
 [D]2 bars [G]2 bars [D]2 bars [G]1 [D]bar [G]1 bars [D]2 bars [G]2 bars
 

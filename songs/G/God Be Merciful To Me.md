@@ -1,23 +1,26 @@
 ---
-title: "God Be Merciful To Me"
-artist: "Jars Of Clay"
+title: God Be Merciful To Me
+artist: Jars Of Clay
 key: C
-tempo: 
-time: 
-ccli: "3251755"
-copyright: "1998 Christopher Miner"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "grace"
+  - grace
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3251755'
+copyright: 1998 Christopher Miner
+source: ''
+year: ''
 medley: []
-id: "6FE5C800-E0A7-48A4-A7F1-1967BA632D04"
+id: 6FE5C800-E0A7-48A4-A7F1-1967BA632D04
 ---
-
 INTRO:
 [C]  [–]  [G]  [–]  [Am]   [–]  [F]
 [C]  [–]  [G]  [–]  [F]

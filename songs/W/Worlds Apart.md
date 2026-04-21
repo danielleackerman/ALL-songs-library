@@ -1,24 +1,27 @@
 ---
-title: "Worlds Apart"
-artist: "Jars Of Clay"
+title: Worlds Apart
+artist: Jars Of Clay
 key: E
-tempo: 
-time: 
-ccli: "1849025"
-copyright: "1995 Pogostick Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "life"
+  - love
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1849025'
+copyright: 1995 Pogostick Music
+source: ''
+year: ''
 medley: []
-id: "51EB2DF0-AA5D-4B4F-AD98-C67F1B381579"
+id: 51EB2DF0-AA5D-4B4F-AD98-C67F1B381579
 ---
-
 [A2]I am the[B] only one to bl[A2/E]ame for this,
 [A2]Somehow[B] it all ad[F#m7(4)]ds up the same,
 [A2]Soar[B]ing[A2/E] on the wings of selfish pride,

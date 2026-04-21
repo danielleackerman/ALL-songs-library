@@ -1,22 +1,25 @@
 ---
-title: "Consecrate Me [version 2]"
-artist: "OBI Overcomers"
+title: 'Consecrate Me [version 2]'
+artist: OBI Overcomers
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
 year: 2006
 medley: []
-id: "8203F08B-12DA-4554-BA41-7B75D6AA6241"
+id: 8203F08B-12DA-4554-BA41-7B75D6AA6241
 ---
-
 {artist: OBI Overcomers 2006}
 
 INTRO:

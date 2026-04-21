@@ -1,22 +1,25 @@
 ---
-title: "Lord I Need You"
-artist: "Passion Band"
+title: Lord I Need You
+artist: Passion Band
 key: G
-tempo: 
-time: 
-ccli: "5925687"
-copyright: "2011 worshiptogether.com songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5925687'
+copyright: 2011 worshiptogether.com songs
+source: ''
+year: ''
 medley: []
-id: "1A1F6BC8-7271-4308-9FCD-FB3642553721"
+id: 1A1F6BC8-7271-4308-9FCD-FB3642553721
 ---
-
 INTRO:
 [G] - [C2] - [G] - [C2]
 

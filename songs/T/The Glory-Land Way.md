@@ -1,23 +1,26 @@
 ---
-title: "The Glory-Land Way"
-artist: ""
+title: The Glory-Land Way
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "89692E50-D7E1-44A4-B63F-FD2418B88868"
+id: 89692E50-D7E1-44A4-B63F-FD2418B88868
 ---
-
 (Verse:1)
 [F]I'm in the [F7]way, the [Bb]bright and shinning [Bo]way
 [F]I'm [Dm7]in the [G7]glory-land [C7]way.  [Db7].   [C9]

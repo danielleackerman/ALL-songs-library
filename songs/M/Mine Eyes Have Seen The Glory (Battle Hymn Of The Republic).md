@@ -1,26 +1,29 @@
 ---
-title: "Mine Eyes Have Seen The Glory (Battle Hymn Of The Republic)"
-artist: ""
+title: Mine Eyes Have Seen The Glory (Battle Hymn Of The Republic)
+artist: ''
 key: Bb
-tempo: 
-time: 
-ccli: "24133"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
-  - "truth"
-  - "sutl"
+  - glory
+  - truth
+  - sutl
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-keywords: "os apo med, sutl"
-source: 
-year: 
+  - os-apo-med
+keywords: 'os apo med, sutl'
+ccli: '24133'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "E4B1FF82-8401-4826-A630-AB3E981F6620"
+id: E4B1FF82-8401-4826-A630-AB3E981F6620
 ---
-
 VERSE 1:
 [Bb]Mine eyes have seen the glo-ry of the com-ing of the Lord;
 He is tr[Eb]am-pling out the vin-tage where the gr[Bb]apes of wrath are stored;

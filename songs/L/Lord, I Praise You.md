@@ -1,23 +1,26 @@
 ---
-title: "Lord, I Praise You"
-artist: "Clint Brown"
+title: 'Lord, I Praise You'
+artist: Clint Brown
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9E11656F-B72F-4DE0-B667-D3CCE616BCCD"
+id: 9E11656F-B72F-4DE0-B667-D3CCE616BCCD
 ---
-
 [C]   Lord    [C7b9/Db]I   [Dm7]praise   You     [Em7]
 
 Lord    I   [F]glorify   Your   [F/G]name     [G/B]    [C]

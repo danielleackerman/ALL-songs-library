@@ -1,22 +1,25 @@
 ---
-title: "One And Only"
-artist: "Big Daddy Weave"
+title: One And Only
+artist: Big Daddy Weave
 key: G
-tempo: 
-time: 
-ccli: "3504639"
-copyright: "2001 Open Worship Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3504639'
+copyright: '2001 Open Worship Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "5DF7C228-E258-42FD-9F51-4EABE511B92B"
+id: 5DF7C228-E258-42FD-9F51-4EABE511B92B
 ---
-
 [G]Well I am st[Bm]anding in the fi[Em]eld[C], [G]firmly p[Bm]lanted like a [Em]tre[C]e
 [G]And though my r[Bm]oots grow de[Em]ep, I still sway from si[C]de to side
 [G]When the [Bm]wind blows [Em]by[C]

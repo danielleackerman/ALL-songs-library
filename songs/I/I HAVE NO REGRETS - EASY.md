@@ -1,22 +1,25 @@
 ---
-title: "I Have No Regrets - Easy"
-artist: "BPM"
+title: I Have No Regrets - Easy
+artist: BPM
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7447477B-0416-420A-9EDD-4012D2E47504"
+id: 7447477B-0416-420A-9EDD-4012D2E47504
 ---
-
 fast contemporary with swing
 Key:[C]
 

@@ -1,24 +1,27 @@
 ---
-title: "Farther Along"
-artist: "Josh Garrels"
+title: Farther Along
+artist: Josh Garrels
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "2011 Josh Garrells"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
+  - altar-songs
 genre: []
-energy: 
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: 2011 Josh Garrells
+source: ''
+year: ''
 medley: []
-id: "7C281405-76F7-4C68-AF1A-E00E084CD311"
+id: 7C281405-76F7-4C68-AF1A-E00E084CD311
 ---
-
 INTRO:
 [G]   [Cadd9]       [Em7]     [D]
 

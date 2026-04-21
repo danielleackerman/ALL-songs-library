@@ -1,22 +1,25 @@
 ---
-title: "Witholding Nothing"
-artist: "William McDowell"
+title: Witholding Nothing
+artist: William McDowell
 key: Cm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C14C46B2-A25A-49FF-8C5E-55635840505D"
+id: C14C46B2-A25A-49FF-8C5E-55635840505D
 ---
-
 VERSE:
 I Surr[Cm]ender [Bb]all to  [F]You
 

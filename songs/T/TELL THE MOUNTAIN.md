@@ -1,22 +1,25 @@
 ---
-title: "Tell the Mountain"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Tell the Mountain
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5CE6A5B2-7B9A-4BA3-A517-0D64B5585700"
+id: 5CE6A5B2-7B9A-4BA3-A517-0D64B5585700
 ---
-
 VERSE 1:
 
 In the foothills of sorrow

@@ -1,40 +1,44 @@
 ---
-title: "Broken Vessel"
-artist: "Andrae Crouch"
+title: Broken Vessel
+artist: Andrae Crouch
 key: Eb
-tempo: 
-time: 
-ccli: "617148"
-copyright: "1968 Manna Music, Inc (Admin. by ClearBox Rights, LLC)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "vessel"
-  - "renewal"
-  - "redemption"
-  - "med-slow"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - vessel
+  - renewal
+  - redemption
+  - med-slow
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-slow"
-  - "os-gospel-slow"
-keywords: "os apo slow, os gospel slow, renewal, redemption, med slow"
-source: "Original Key Eb, F"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - os-apo-slow
+  - os-gospel-slow
+keywords: 'os apo slow, os gospel slow, renewal, redemption, med slow'
+ccli: '617148'
+copyright: '1968 Manna Music, Inc (Admin. by ClearBox Rights, LLC)'
+source: 'Original Key Eb, F'
+year: ''
 medley: []
-id: "FFBA0D0D-85C4-4698-A89B-86F125E750A1"
+id: FFBA0D0D-85C4-4698-A89B-86F125E750A1
 ---
-
 (Verse:1)
 [Ab/Bb]The [Eb]Potter [Bb7/F]saw [Bb9]a [Eb]vessel
 

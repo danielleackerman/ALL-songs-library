@@ -1,25 +1,28 @@
 ---
-title: "Oh, How I love Jesus - version 3"
-artist: "F. Whitfield"
+title: 'Oh, How I love Jesus - version 3'
+artist: F. Whitfield
 key: F
-tempo: 
-time: "6/8"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 6/8
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D58AA29A-142A-49BB-83D0-3EE147CF1F80"
+id: D58AA29A-142A-49BB-83D0-3EE147CF1F80
 ---
-
 INTRO:
 [F]be[Gm]ca[F]use [Gm]He [Am]first [C7]loved [F]me! [Bb/C]
 

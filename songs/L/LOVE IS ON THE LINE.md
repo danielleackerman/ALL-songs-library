@@ -1,24 +1,27 @@
 ---
-title: "Love is on the Line"
-artist: "Jack Savoretti"
+title: Love is on the Line
+artist: Jack Savoretti
 key: C#m
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "believe"
+  - love
+  - believe
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DB913BBE-FFFE-4D4E-ABEE-4A2E6E65FEDA"
+id: DB913BBE-FFFE-4D4E-ABEE-4A2E6E65FEDA
 ---
-
 VERSE 1:
 *Shifts between Natural & Harmonic Minor tonal centers
 

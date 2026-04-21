@@ -1,23 +1,26 @@
 ---
-title: "Praise Song"
-artist: "Third Day"
+title: Praise Song
+artist: Third Day
 key: A
-tempo: 
-time: 
-ccli: "2045175"
-copyright: "1996 New Spring Publishing, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2045175'
+copyright: '1996 New Spring Publishing, Inc.'
+source: ''
+year: ''
 medley: []
-id: "054FE395-2E96-4BD9-8007-E9B4022A075B"
+id: 054FE395-2E96-4BD9-8007-E9B4022A075B
 ---
-
 INTRO:
 A g d a x 4
 

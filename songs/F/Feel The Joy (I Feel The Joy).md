@@ -1,26 +1,31 @@
 ---
-title: "Feel The Joy (I Feel The Joy)"
-artist: "Mark Condon --orig. key Ebm"
+title: Feel The Joy (I Feel The Joy)
+artist: Mark Condon --orig. key Ebm
 key: Cm
-tempo: 
-time: 
-ccli: "3999488"
-copyright: "2002 Bridge Building Music, Inc. (Admin. Brentwood-Benson Music Publishing, Inc.)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "joy"
+  - joy
 genre: []
-energy: 
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med, joy"
-source: 
-year: 
+  - mod-apo-med
+keywords: 'mod apo med, joy'
+ccli: '3999488'
+copyright: >-
+  2002 Bridge Building Music, Inc. (Admin. Brentwood-Benson Music Publishing,
+  Inc.)
+source: ''
+year: ''
 medley:
-  - "[[I FEEL LIKE SOMETHING GOOD IS ABOUT TO HAPPEN]]"
-  - "[[SHAKE THE FOUNDATIONS WITH PRAISE]]"
-id: "08B1058B-9CAB-4432-BC52-BA35D096B799"
+  - '[[I FEEL LIKE SOMETHING GOOD IS ABOUT TO HAPPEN]]'
+  - '[[SHAKE THE FOUNDATIONS WITH PRAISE]]'
+id: 08B1058B-9CAB-4432-BC52-BA35D096B799
 ---
-
 {artist: Mark Condon --orig. key Ebm}
 
 Medley: I feel like something good is about to happen | shake the foundations with praise

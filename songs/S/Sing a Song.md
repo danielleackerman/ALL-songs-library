@@ -1,22 +1,25 @@
 ---
-title: "Sing a Song"
-artist: "Third Day"
+title: Sing a Song
+artist: Third Day
 key: A
-tempo: 
-time: 
-ccli: "4027191"
-copyright: "Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4027191'
+copyright: Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "7329490B-4B01-4444-A155-E7933BBAEE3F"
+id: 7329490B-4B01-4444-A155-E7933BBAEE3F
 ---
-
 I love this song!  As soon as heard Mac say,
 "Hm.  I forgot how to start.  All right: 1,2..."  I loved it!
 It is a great song.  I hope you enjoy it.  God bless!

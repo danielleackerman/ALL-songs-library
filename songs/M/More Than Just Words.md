@@ -1,23 +1,26 @@
 ---
-title: "More Than Just Words"
-artist: "Carl Cartee"
+title: More Than Just Words
+artist: Carl Cartee
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "2005 Willow Branch Publishing / Giggle Hounds Music / Chloe's college Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "teach"
+  - teach
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2005 Willow Branch Publishing / Giggle Hounds Music / Chloe's college Music
+source: ''
+year: ''
 medley: []
-id: "88902BFB-85FC-412E-BF4E-068CF26E2476"
+id: 88902BFB-85FC-412E-BF4E-068CF26E2476
 ---
-
 VERSE:
 [D]So many [D/C#]prayers spoken out [G]loud
 [D]So many [D/C#]words and promises [G]vowed

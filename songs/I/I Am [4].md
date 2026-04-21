@@ -1,57 +1,64 @@
 ---
-title: "I Am"
-artist: "Eddie James"
-key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
-tags: []
+title: I Am
+artist: David Crowder Band
+key: C
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
+tags:
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7011538'
+copyright: 2014 worshiptogether.com Songs
+source: ''
+year: ''
 medley: []
-id: "21674A66-E48E-41B6-8E3C-206B58EFB39B"
+id: 8A3BB65D-584A-4E04-A1DC-6CC85375F033
 ---
-
-INTRO- Bb Eb Gm F
+INTRO:
+C
 
 VERSE 1:
-[Bb]I am the One [Eb]I'm the Almighty God
-[Gm]I am the One for whom [F]nothing is to hard
-[Bb]I am the shepherd and [Eb]I am the door
-[Gm]I am the good news to the [F]bound and the poor
+C
+There's no space that His love can't reach
+[Am7]There's no place where we can't find peace
+[Gsus]There's no end to amazing grace[F2]
+C
+Take me in with Your arms spread wide
+[Am7]Take me in like an orphan child
+[Gsus]Never let go, never leave my side[F2]
 
-Chorus-
-(You echo out the "I am's" and you play the
-Bb & Eb
-before you acually go to the next "I am")
-
-[Bb]I a[Eb]m, [Gm]I a[F]m,[Bb] I [Eb]am,[Gm] I [F]am
+CHORUS:
+    C
+I am holding on to You
+I am[Am7]  holding on to You
+In the [F2]middle of the storm
+                   C
+I am holding on, I am
 
 VERSE 2:
-[Bb]I am the Righteous One and [Eb]I am the Lamb
-[Gm]I am the ram in the [F]bush for Abraham
-[Bb]I am the ultimate [Eb]sacrifice for sin
-[Gm]I am your redeemer, [F]the beginning and the end  (TO THE CHORUS)
+C
+Love like this, O my God to find
+I am [Am7]overwhelmed with a love divine
+[Gsus]Love like this sets our hearts on fire
 
-VERSE 3:
-[Bb]I am Jehovah and [Eb]I am the King
-[Gm]I am Messiah, [F]David's offspring
-[Bb]I am your High Priest and [Eb]I am the Christ
-[Gm]I am the Resurrection, [F]I am the Light  (TO CHORUS)
-
-VERSE 4:
-[Bb]I am the bread and [Eb]I am the wine
-[Gm]I am your future, [F]so leave your past behind
-[Bb]I am the one in the [Eb]midst of two or three
-[Gm]I am your tabernacle, [F]I am your jubilee  (TO CHORUS)
+(chorus)
 
 BRIDGE:
-[Bb]I am Hope, [Bb]I am Peace, [Eb]I am Joy, [Eb]I am Rest
-[Gm]I am your comfort and [F]relief from your stress
-[Bb]I am Strength, [Bb]I am Faith, [Eb]I am Love, [Eb]I am Power
-[Gm]I am your freedom [F]this very hour  (TO CHORUS)
+[C/E]This is my resurr[F]ection song
+[C/G]This is my halle[F/A]lujah come
+[Am]This is why it's to [Gsus]You I run[F2]
+[C/E]This is my resurr[F2]ection song
+[C/G]This is my hall[F/A]elujah come
+[Am]This is why it's to [Gsus]You I run[F2]
+[C/E]There's no space that His love [F/A]can't reach
+[C/G]There's no place where we [F2/A]can't find peace
+[Am]There's no end to a[Gsus/B]mazing grace[G2]
+
+(chorus x2)

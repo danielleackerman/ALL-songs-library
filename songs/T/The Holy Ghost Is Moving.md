@@ -1,23 +1,26 @@
 ---
-title: "The Holy Ghost Is Moving"
-artist: ""
+title: The Holy Ghost Is Moving
+artist: ''
 key: Fm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "holy-ghost"
+  - holy-ghost
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "60112534-B3B7-4ACD-9802-81CED9EFCCF0"
+id: 60112534-B3B7-4ACD-9802-81CED9EFCCF0
 ---
-
 (Chor:)
 
 The [Fm]Holy Ghost is [Eb]mov----[Bb/D]ing,

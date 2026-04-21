@@ -1,24 +1,27 @@
 ---
-title: "Damascus Road"
-artist: "Rich Mullins"
+title: Damascus Road
+artist: Rich Mullins
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "grace"
-  - "praise"
+  - grace
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "188915C7-5061-408E-A217-598B4AB2D869"
+id: 188915C7-5061-408E-A217-598B4AB2D869
 ---
-
 [D]On the road to Damascus I was hu[G]ng on the ropes of succe[D]ss
 When Y[A]ou stripped away the mask of [Bm]life
 They had pl[G]aced upon the face of death[Asus]     [A]

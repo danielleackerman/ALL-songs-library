@@ -1,40 +1,44 @@
 ---
-title: "I Worship You"
-artist: ""
+title: I Worship You
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "medium-slow"
-  - "praise"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - jesus-movement
+  - maranatha
+  - medium
+  - medium-slow
+  - praise
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-ccm-choir-choruses-congregational-contemporary-jesus-movement-maranatha-medium-medium-slow-praise-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - >-
+    black-gospel-ccm-choir-choruses-congregational-contemporary-jesus-movement-maranatha-medium-medium-slow-praise-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "BAFE80A4-3F9A-4F63-B5CB-9243C0DDB634"
+id: BAFE80A4-3F9A-4F63-B5CB-9243C0DDB634
 ---
-
 VERSE 1:
 [Ab/Bb]I [Eb]worship You, [AbM7]I [Gm7]worship [C7]You
 [C7b9]I [Fm9]bow before Your [Eb/G]throne and [Ab]worship You a[Bbsus6]lone.

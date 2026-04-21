@@ -1,22 +1,25 @@
 ---
-title: "I Will Run To You"
-artist: "Darlene Zschech"
+title: I Will Run To You
+artist: Darlene Zschech
 key: G
-tempo: 
-time: 
-ccli: "1959901"
-copyright: "1996 Hillsong Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1959901'
+copyright: 1996 Hillsong Publishing
+source: ''
+year: ''
 medley: []
-id: "6087BEED-E679-4229-9B8A-60E88587A9F4"
+id: 6087BEED-E679-4229-9B8A-60E88587A9F4
 ---
-
 [C]Your e[C/D]ye is on [G]the sp[G/A]arrow[G/B],[G]
 And Yo[C]ur hand, [C/D]it comforts[Em7] me.[Em7/D]
 From the e[F]nds of the ea[C]rth to the de[D]pths o[D/F#]f my he[G]art[G/B]

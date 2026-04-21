@@ -1,38 +1,42 @@
 ---
-title: "Draw Me Close To You - my edit"
-artist: "By Kelly Carpenter as made popular by Donnie McClurkin / Orig. Key Bb"
+title: Draw Me Close To You - my edit
+artist: By Kelly Carpenter as made popular by Donnie McClurkin / Orig. Key Bb
 key: Bb
-tempo: 62
-time: "4/4"
-ccli: "14594484"
-copyright: "1994 Mercy / Vineyard Publishing (Admin. by Vineyard Music USA)"
+bpm: '62'
+time_sig: 4/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "black-gospel-opera"
-  - "black-gospel-black-gospel-opera-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-  - "mod-gospel-slow"
-keywords: "mod apo slow, mod gospel slow"
-source: 
-year: 
+  - black-gospel-opera
+  - >-
+    black-gospel-black-gospel-opera-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+  - mod-gospel-slow
+keywords: 'mod apo slow, mod gospel slow'
+ccli: '14594484'
+copyright: 1994 Mercy / Vineyard Publishing (Admin. by Vineyard Music USA)
+source: ''
+year: ''
 medley:
-  - "[[DRAW ME LORD]]"
-id: "6746C3F4-3F61-45B6-9044-7620805C9C79"
+  - '[[DRAW ME LORD]]'
+id: 6746C3F4-3F61-45B6-9044-7620805C9C79
 ---
-
 Medley: draw me Lord
 
 VERSE:

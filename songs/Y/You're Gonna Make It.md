@@ -1,34 +1,38 @@
 ---
-title: "You're Gonna Make It"
-artist: "performed by Murrell Ewing"
+title: You're Gonna Make It
+artist: performed by Murrell Ewing
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "18F9DE54-EA1E-4E5D-A07E-1A2A7AD2AB26"
+id: 18F9DE54-EA1E-4E5D-A07E-1A2A7AD2AB26
 ---
-
 VERSE 1:
 Now only the strong are gonna make it, And only the brave are gonna win
 So fight, ‘til you can’t fight any longer, And stand up and fight again

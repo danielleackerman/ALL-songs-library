@@ -1,20 +1,23 @@
 ---
-title: "I Give You My Heart words & music"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: I Give You My Heart words & music
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "955C35E1-EBB5-4D05-8EAC-F5159E212E8B"
+id: 955C35E1-EBB5-4D05-8EAC-F5159E212E8B
 ---
-
 

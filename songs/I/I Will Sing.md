@@ -1,23 +1,26 @@
 ---
-title: "I Will Sing"
-artist: "Don Moen"
+title: I Will Sing
+artist: Don Moen
 key: C
-tempo: 
-time: 
-ccli: "3166266"
-copyright: "2000 Integrity's Hosanna! Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3166266'
+copyright: 2000 Integrity's Hosanna! Music
+source: ''
+year: ''
 medley: []
-id: "BE557968-191C-46B4-92D0-145EEAA7D619"
+id: BE557968-191C-46B4-92D0-145EEAA7D619
 ---
-
 INTRO:
 [Am] - [F] - [C] - [G] - [F] - [C]
 

@@ -1,38 +1,42 @@
 ---
-title: "I Get Joy When I Think About"
-artist: ""
+title: I Get Joy When I Think About
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "joy"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - joy
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-f"
-keywords: "os apo f"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-f
+keywords: os apo f
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[Thank God for the blood]]"
-id: "207F43D6-0809-4EA3-B15F-EF38CE1D509B"
+  - '[[Thank God for the blood]]'
+id: 207F43D6-0809-4EA3-B15F-EF38CE1D509B
 ---
-
 MEDLEY: Thank God for the blood
 
 CHORUS 1:

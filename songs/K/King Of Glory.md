@@ -1,36 +1,40 @@
 ---
-title: "King Of Glory"
-artist: "Third Day"
+title: King Of Glory
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: "3118867"
-copyright: "2000 New Spring / Vandura 2500 Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "glory"
-  - "king"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - glory
+  - king
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '3118867'
+copyright: 2000 New Spring / Vandura 2500 Songs
+source: ''
+year: ''
 medley: []
-id: "D33AF36C-C93E-42CA-8DCC-2C925406693C"
+id: D33AF36C-C93E-42CA-8DCC-2C925406693C
 ---
-
 I played this song for years the way it was originally tabbed here.
 I saw Third Day live and noticed that the verse progression was played very
 different. This is the way it is on the Chronology Volume One CD. It is in

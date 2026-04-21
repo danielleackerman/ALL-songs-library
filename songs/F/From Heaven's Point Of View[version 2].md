@@ -1,23 +1,26 @@
 ---
-title: "From Heaven's Point Of View[version 2]"
-artist: "The McGruders"
+title: 'From Heaven''s Point Of View[version 2]'
+artist: The McGruders
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "heaven"
+  - heaven
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9E229631-FCEC-48ED-A556-B753D23AC7ED"
+id: 9E229631-FCEC-48ED-A556-B753D23AC7ED
 ---
-
 {artist: The McGruders}
 
 INTRO:

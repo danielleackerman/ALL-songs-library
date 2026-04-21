@@ -1,22 +1,25 @@
 ---
-title: "Bless Me Indeed"
-artist: "MercyMe"
+title: Bless Me Indeed
+artist: MercyMe
 key: C
-tempo: 
-time: 
-ccli: "3479867"
-copyright: "2001 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "This is a solo guitar version."
-year: 
+keywords: ''
+ccli: '3479867'
+copyright: 2001 Simpleville Music
+source: This is a solo guitar version.
+year: ''
 medley: []
-id: "D7210225-B109-4D0E-9F97-19059DF43498"
+id: D7210225-B109-4D0E-9F97-19059DF43498
 ---
-
 Dm=XX0231,  F=XX3211,  C=X32010,  Cmaj7=x32000,  CaddF=X32011,  Fmaj7=xx3210,
 Fmaj7#11/F=XX3200,  Am=x02210,  Cadd9=X32033,  F/G=XX3213
 

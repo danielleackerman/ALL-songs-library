@@ -1,23 +1,26 @@
 ---
-title: "Yes Lord"
-artist: "Key of: Eb"
+title: Yes Lord
+artist: 'Key of: Eb'
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C664496B-DC2D-49EF-BB8F-4BFFDD09EC08"
+id: C664496B-DC2D-49EF-BB8F-4BFFDD09EC08
 ---
-
 CHORUS:
 [Eb]Yes Lord, [Eb]Yes Lord,
 From the [Eb]bottom of my heart,

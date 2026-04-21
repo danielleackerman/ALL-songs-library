@@ -1,24 +1,27 @@
 ---
-title: "It Came Upon A Midnight Clear"
-artist: "MercyMe"
+title: It Came Upon A Midnight Clear
+artist: MercyMe
 key: A
-tempo: 
-time: 
-ccli: "4630351"
-copyright: "2005 Simpleville Music / Wet As A Fish Music / Banistuci Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "heaven"
-  - "peace"
+  - heaven
+  - peace
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4630351'
+copyright: 2005 Simpleville Music / Wet As A Fish Music / Banistuci Music
+source: ''
+year: ''
 medley: []
-id: "F62C4A62-9E10-4F16-854C-20124CCB4C84"
+id: F62C4A62-9E10-4F16-854C-20124CCB4C84
 ---
-
 Robified Tablature Legend:
      -A = chord is played ahead of the beat
      A- = chord is played behind the beat

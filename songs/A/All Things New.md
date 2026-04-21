@@ -1,23 +1,26 @@
 ---
-title: "All Things New"
-artist: "Watermark"
+title: All Things New
+artist: Watermark
 key: G
-tempo: 
-time: 
-ccli: "3190830"
-copyright: "1996 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3190830'
+copyright: '1996 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music'
+source: ''
+year: ''
 medley: []
-id: "A28318C0-3B82-4213-A3E4-E0B6EDFE351E"
+id: A28318C0-3B82-4213-A3E4-E0B6EDFE351E
 ---
-
 INTRO:
 [G] [C]
 

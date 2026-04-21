@@ -1,23 +1,26 @@
 ---
-title: "Lord, We Give You Glory"
-artist: "Mark Condon"
+title: 'Lord, We Give You Glory'
+artist: Mark Condon
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A75C6429-A506-4D3F-A5CF-1A9DCD114159"
+id: A75C6429-A506-4D3F-A5CF-1A9DCD114159
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

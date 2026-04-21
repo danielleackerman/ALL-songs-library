@@ -1,23 +1,26 @@
 ---
-title: "Tunnel"
-artist: "Third Day"
+title: Tunnel
+artist: Third Day
 key: A
-tempo: 
-time: 
-ccli: "4586065"
-copyright: "2005 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "light"
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4586065'
+copyright: 2005 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "00AC0D82-EF74-42C6-9B60-C5B1DF0979A8"
+id: 00AC0D82-EF74-42C6-9B60-C5B1DF0979A8
 ---
-
 There are three guitars on this song, 2 electric and one acoustic. The electrics are
 playing the song normal and the acoustic in the key of C then Capo 2.
 

@@ -1,29 +1,34 @@
 ---
-title: "Sing Unto The Lord A New Song (Psalm 96)"
-artist: "Becky Fender"
+title: Sing Unto The Lord A New Song (Psalm 96)
+artist: Becky Fender
 key: Em
-tempo: 
-time: 
-ccli: "571215"
-copyright: "1984 Integrity's Hosanna! Music, Admin. by Capitol CMG Publishing (Integrity Music [DC Cook])"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "greatness"
-  - "praise"
+  - greatness
+  - praise
 genre: []
-energy: 
 profile:
-  - "os-apo-fast"
-  - "os-christian-fast"
-keywords: "os apo fast, os christian fast, greatness, praise"
-source: 
-year: 
+  - os-apo-fast
+  - os-christian-fast
+keywords: 'os apo fast, os christian fast, greatness, praise'
+ccli: '571215'
+copyright: >-
+  1984 Integrity's Hosanna! Music, Admin. by Capitol CMG Publishing (Integrity
+  Music [DC Cook])
+source: ''
+year: ''
 medley:
-  - "[[I WILL SING (UNTO THE LORD]]"
-  - "[[DANCE LIKE DAVID DANCED]]"
-  - "[[YAHWEH THE LORD IS ONE]]"
-id: "7090F86D-400A-4F38-AFAD-29E75A92E9DB"
+  - '[[I WILL SING (UNTO THE LORD]]'
+  - '[[DANCE LIKE DAVID DANCED]]'
+  - '[[YAHWEH THE LORD IS ONE]]'
+id: 7090F86D-400A-4F38-AFAD-29E75A92E9DB
 ---
-
 {artist: Becky Fender}
 
 Original key dm

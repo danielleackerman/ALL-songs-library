@@ -1,36 +1,40 @@
 ---
-title: "A Brand New Touch"
-artist: "Lanny Wolfe"
+title: A Brand New Touch
+artist: Lanny Wolfe
 key: Eb
-tempo: 
-time: 
-ccli: "6618"
-copyright: "1977 Lanny Wolfe Music, Admin. Capitol CMG Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "help"
-  - "strength"
-  - "comfort"
-  - "petition"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - help
+  - strength
+  - comfort
+  - petition
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-slow"
-keywords: "o.s. apo. slow"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-slow
+keywords: o.s. apo. slow
+ccli: '6618'
+copyright: '1977 Lanny Wolfe Music, Admin. Capitol CMG Publishing'
+source: ''
+year: ''
 medley: []
-id: "FD21514D-312A-4257-822A-8E4FEC284FFD"
+id: FD21514D-312A-4257-822A-8E4FEC284FFD
 ---
-
 CHORUS:
 [Eb]Lord, You know I need a [Fm]brand new touch.[Fm7][Bb7]
 My strength from [Ab/Bb]yesterday [Gm/Bb]is [Eb]gone

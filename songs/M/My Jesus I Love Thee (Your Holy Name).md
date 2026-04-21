@@ -1,24 +1,29 @@
 ---
-title: "My Jesus I Love Thee (Your Holy Name)"
-artist: "Building 429"
+title: My Jesus I Love Thee (Your Holy Name)
+artist: Building 429
 key: C
-tempo: 
-time: 
-ccli: "6545468"
-copyright: "2013 Be Essential Songs (Admin. by Essential Music Publishing LLC) Havery Publishing (Admin. by Essential Music Publishing LLC) Open Hands Music (Admi"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6545468'
+copyright: >-
+  2013 Be Essential Songs (Admin. by Essential Music Publishing LLC) Havery
+  Publishing (Admin. by Essential Music Publishing LLC) Open Hands Music (Admi
+source: ''
+year: ''
 medley: []
-id: "9D21E2F5-E365-4377-813E-D0E12A83D2AD"
+id: 9D21E2F5-E365-4377-813E-D0E12A83D2AD
 ---
-
 INTRO:
 [C] - [D] - [Em] - [C] - [D] - [G]
 

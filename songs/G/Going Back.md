@@ -1,22 +1,25 @@
 ---
-title: "Going Back"
-artist: ""
+title: Going Back
+artist: ''
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "76509CA5-83E8-47B0-9CBD-A030FFF87AB9"
+id: 76509CA5-83E8-47B0-9CBD-A030FFF87AB9
 ---
-
 VERSE 1:
 [Bb]Whatever happened to death do us part,
 [Eb]Does the home re[Bb]flect the heart,

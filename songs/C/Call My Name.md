@@ -1,23 +1,26 @@
 ---
-title: "Call My Name"
-artist: "Third Day"
+title: Call My Name
+artist: Third Day
 key: E
-tempo: 
-time: 
-ccli: "5208476"
-copyright: "2008 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5208476'
+copyright: 2008 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "0B072E67-5308-4BFD-BE90-B7241547D7F5"
+id: 0B072E67-5308-4BFD-BE90-B7241547D7F5
 ---
-
 Intro: a e b a e b
 
 [C#m]It's b[B]een so l[E]ong since You felt like you were l[C#m]oved

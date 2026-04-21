@@ -1,23 +1,26 @@
 ---
-title: "Father Abraham"
-artist: "Artist Name"
+title: Father Abraham
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "father"
+  - father
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7D57B5D7-665A-4162-8CA6-D6484749271F"
+id: 7D57B5D7-665A-4162-8CA6-D6484749271F
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

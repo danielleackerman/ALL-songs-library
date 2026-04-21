@@ -1,35 +1,39 @@
 ---
-title: "Blessed Assurance"
-artist: "Bob Fitts"
+title: Blessed Assurance
+artist: Bob Fitts
 key: E
-tempo: 
-time: 
-ccli: "22324"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "assurance"
-  - "savior"
+  - altar-songs
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - assurance
+  - savior
 genre: []
-energy: slow
 profile:
-  - "altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - >-
+    altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-slow
+keywords: os apo slow
+ccli: '22324'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "BEE63707-01BD-4D16-BE2A-40044F202DF1"
+id: BEE63707-01BD-4D16-BE2A-40044F202DF1
 ---
-
 INTRO:
 [Bsus]
 

@@ -1,26 +1,29 @@
 ---
-title: "Worship The King, The God of Israel"
-artist: "Mark Yandris"
+title: 'Worship The King, The God of Israel'
+artist: Mark Yandris
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "israel"
-  - "lively"
+  - praise
+  - israel
+  - lively
 genre: []
-energy: 
 profile:
-  - "modern-apostolic-medium"
-keywords: "modern apostolic medium, lively"
-source: 
-year: 
+  - modern-apostolic-medium
+keywords: 'modern apostolic medium, lively'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3A08731E-8AB8-4000-AEF6-5878388217FF"
+id: 3A08731E-8AB8-4000-AEF6-5878388217FF
 ---
-
 INTRO:
 [G] [D] [Am] [C] [Am] [Em] [Em] [F] [C] [Dm]
 

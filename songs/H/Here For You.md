@@ -1,23 +1,26 @@
 ---
-title: "Here For You"
-artist: "MercyMe"
+title: Here For You
+artist: MercyMe
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: "1999 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 1999 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "7BF6A0D8-4D34-4102-B318-B0BADE0E07BB"
+id: 7BF6A0D8-4D34-4102-B318-B0BADE0E07BB
 ---
-
 VERSE 1:
 [G]Oh we're here to praise you
 We're here to dance for you

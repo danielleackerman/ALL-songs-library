@@ -1,35 +1,39 @@
 ---
-title: "Above All"
-artist: "Michael W. Smith"
+title: Above All
+artist: Michael W. Smith
 key: Ab
-tempo: 72
-time: 
-ccli: 
-copyright: 
+bpm: '72'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-contemp-slow"
-keywords: "mod. contemp. slow"
-source: "Leonard J Le Blanc/ Paul Joseph Baloche"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-contemp-slow
+keywords: mod. contemp. slow
+ccli: ''
+copyright: ''
+source: Leonard J Le Blanc/ Paul Joseph Baloche
+year: ''
 medley: []
-id: "9E329776-67BE-4BC6-852D-9E51E0EE4A37"
+id: 9E329776-67BE-4BC6-852D-9E51E0EE4A37
 ---
-
 VERSE 1:
 [Ab/C]   Above all [Db]powers[Eb], above all [Ab]kings,
 [Ab/C]   Above all [Db]nature and [Eb]all created [Ab]things. [Eb/G]

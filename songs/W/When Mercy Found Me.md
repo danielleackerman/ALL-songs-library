@@ -1,24 +1,29 @@
 ---
-title: "When Mercy Found Me"
-artist: "Rhett Walker Band"
+title: When Mercy Found Me
+artist: Rhett Walker Band
 key: C
-tempo: 
-time: 
-ccli: "6128139"
-copyright: "2011 Sony/ATV Timber Publishing (Admin. by Sony/ATV Sounds LLC) Ships In A Bottle (Admin. by Sony/ATV Sounds LLC)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "mercy"
+  - love
+  - mercy
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6128139'
+copyright: >-
+  2011 Sony/ATV Timber Publishing (Admin. by Sony/ATV Sounds LLC) Ships In A
+  Bottle (Admin. by Sony/ATV Sounds LLC)
+source: ''
+year: ''
 medley: []
-id: "9FBD2236-80E2-4451-B94D-D907BDAF3AFD"
+id: 9FBD2236-80E2-4451-B94D-D907BDAF3AFD
 ---
-
 Book: Random Favorites
 
 [Am]i can't count the broken roads i'[F]ve been down, but all i know

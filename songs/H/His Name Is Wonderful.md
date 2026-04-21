@@ -1,33 +1,37 @@
 ---
-title: "His Name Is Wonderful"
-artist: "Audrey Mieir"
+title: His Name Is Wonderful
+artist: Audrey Mieir
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "his-name"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - jesus
+  - his-name
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "46449A39-C497-4772-B778-294A6A8E4534"
+id: 46449A39-C497-4772-B778-294A6A8E4534
 ---
-
 VERSE:
 [F]His name is wonderful, [D+5]His name is [Gm]wonderful
 [C]His name is [F]wonderful, [G7]Jesus my [C7]Lord

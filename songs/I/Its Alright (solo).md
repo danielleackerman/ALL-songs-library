@@ -1,22 +1,25 @@
 ---
-title: "Its Alright (solo)"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Its Alright (solo)
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "32F0CE5A-C7A8-4972-8D2B-6969E01E7AE5"
+id: 32F0CE5A-C7A8-4972-8D2B-6969E01E7AE5
 ---
-
 Key:
 Copyright: 2001
 

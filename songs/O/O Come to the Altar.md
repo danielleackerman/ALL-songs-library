@@ -1,25 +1,30 @@
 ---
-title: "O Come to the Altar"
-artist: "Elevation Worship"
+title: O Come to the Altar
+artist: Elevation Worship
 key: B
-tempo: 
-time: 
-ccli: "7051511"
-copyright: "2015 Music by Elevation Worship Publishing (Admin. by Essential Music Publishing LLC)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "blood"
+  - jesus
+  - blood
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7051511'
+copyright: >-
+  2015 Music by Elevation Worship Publishing (Admin. by Essential Music
+  Publishing LLC)
+source: ''
+year: ''
 medley:
-  - "[[OH LORD YOU’RE BEAUTIFUL]]"
-id: "113FC7AF-9371-443E-93B8-8C266AAF103E"
+  - '[[OH LORD YOU’RE BEAUTIFUL]]'
+id: 113FC7AF-9371-443E-93B8-8C266AAF103E
 ---
-
 Medley: Oh Lord You’re beautiful
 
 INTRO:

@@ -1,27 +1,30 @@
 ---
-title: "Jesus Is All The World To Me"
-artist: "Will Lamartine Thompson"
+title: Jesus Is All The World To Me
+artist: Will Lamartine Thompson
 key: Ab
-tempo: 65
-time: "6/8"
-ccli: "138830"
-copyright: "Public Domain"
+bpm: '65'
+time_sig: 6/8
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "friend"
-  - "sutl"
+  - jesus
+  - friend
+  - sutl
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-opera"
-  - "os-apo-slow"
-keywords: "os apo slow, sutl"
-source: "Sing Unto The Lord - 17"
-year: 
+  - black-gospel-opera
+  - os-apo-slow
+keywords: 'os apo slow, sutl'
+ccli: '138830'
+copyright: Public Domain
+source: Sing Unto The Lord - 17
+year: ''
 medley: []
-id: "DF175D14-61E1-4B76-9A8B-CA876F0B477E"
+id: DF175D14-61E1-4B76-9A8B-CA876F0B477E
 ---
-
 Original key g
 
 VERSE 1:

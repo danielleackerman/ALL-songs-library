@@ -1,24 +1,27 @@
 ---
-title: "In The Presence Of Jehovah A"
-artist: "Geron Davis"
+title: In The Presence Of Jehovah A
+artist: Geron Davis
 key: C
-tempo: 
-time: 
-ccli: "162040"
-copyright: "1983, 1985 Meadowgreen Music Company / Songchannel Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "presence"
+  - presence
 genre: []
-energy: 
 profile:
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: '162040'
+copyright: '1983, 1985 Meadowgreen Music Company / Songchannel Music'
+source: ''
+year: ''
 medley: []
-id: "54D12A73-4A32-4D7A-A675-42043F35AA96"
+id: 54D12A73-4A32-4D7A-A675-42043F35AA96
 ---
-
 VERSE 1:
 [Gsus]    In and out of situ[C2]atio[C]ns
 That tug-a-[C/E]war at [Fmaj7]me

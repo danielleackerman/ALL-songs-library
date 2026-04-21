@@ -1,22 +1,25 @@
 ---
-title: "Pentecostal Style Playing 3"
-artist: "Lesson 1 Segment 5"
+title: Pentecostal Style Playing 3
+artist: Lesson 1 Segment 5
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F53EC579-BC09-4415-8263-772D40BC8A9F"
+id: F53EC579-BC09-4415-8263-772D40BC8A9F
 ---
-
 Walking Bassline Ending #1
 
 [G]

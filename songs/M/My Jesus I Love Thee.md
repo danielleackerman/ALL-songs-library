@@ -1,35 +1,39 @@
 ---
-title: "My Jesus I Love Thee"
-artist: "William Ralf Featherstone, A.J. Gordon SING UNTO THE LORD SONGBOOK #8"
+title: My Jesus I Love Thee
+artist: 'William Ralf Featherstone, A.J. Gordon SING UNTO THE LORD SONGBOOK #8'
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: "(Traditional Hymn) Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "love"
-  - "jesus"
-  - "sutl"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - love
+  - jesus
+  - sutl
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow, sutl"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-slow
+keywords: 'os apo slow, sutl'
+ccli: ''
+copyright: (Traditional Hymn) Public Domain
+source: ''
+year: ''
 medley: []
-id: "E6202700-F7F8-4FDF-910F-A71BC4C32549"
+id: E6202700-F7F8-4FDF-910F-A71BC4C32549
 ---
-
 [E]My [A]Jesus I[E] love Thee, I kn[F#m]ow tho[B]u art mine. [E]
 [E]For Thee al[A]l the foll[E]y of si[F#m]n I r[B]esi[E]gn.
 [E]My gracio[A]us rede[E]emer[F#m], my [B]Savior a[E]rt t[A]hou,    [E]   [B]

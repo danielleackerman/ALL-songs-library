@@ -1,25 +1,28 @@
 ---
-title: "Give Up"
-artist: "Bill and Gloria Gaither"
+title: Give Up
+artist: Bill and Gloria Gaither
 key: F
-tempo: 40
-time: 
-ccli: 
-copyright: 
+bpm: '40'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "bluesy"
+  - bluesy
 genre: []
-energy: slow
 profile:
-  - "os-apo-slow"
-  - "os-southern-gospel-slow"
-keywords: "os apo slow, os southern gospel slow, bluesy"
-source: 
-year: 
+  - os-apo-slow
+  - os-southern-gospel-slow
+keywords: 'os apo slow, os southern gospel slow, bluesy'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "81E0EC8B-7978-4E0E-A834-A68906B458D4"
+id: 81E0EC8B-7978-4E0E-A834-A68906B458D4
 ---
-
 {artist: Bill and Gloria Gaither}
 
 [Bb/C]Give [F]up  and  let  Jesus  take  ov[F7]er

@@ -1,22 +1,25 @@
 ---
-title: "Bless The Lord, O My Soul"
-artist: ""
+title: 'Bless The Lord, O My Soul'
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B24810A4-34FC-410C-BD09-0A68174A6020"
+id: B24810A4-34FC-410C-BD09-0A68174A6020
 ---
-
 VERSE:
 [Eb]Bless the Lord, [C7/E] [Fm7]Oh my soul.    [Bb7]
 And [Eb2]all that [Fm]is [Eb/G]with[Eb/Ab]in [Fm/Ab]me

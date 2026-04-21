@@ -1,22 +1,25 @@
 ---
-title: "Be Your Everything"
-artist: "Big Daddy Weave"
+title: Be Your Everything
+artist: Big Daddy Weave
 key: G
-tempo: 
-time: 
-ccli: "4312325"
-copyright: "2003 Open Worship Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4312325'
+copyright: '2003 Open Worship Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "6F5C26FA-6830-48BF-A221-7CBAB18BEDC2"
+id: 6F5C26FA-6830-48BF-A221-7CBAB18BEDC2
 ---
-
 INTRO:
 [Em7] [C] [|] [G] [D/F#]
 [Em7] [C] [|] [G] [D/F#]

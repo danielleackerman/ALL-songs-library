@@ -1,23 +1,26 @@
 ---
-title: "I Have a Father Who Can"
-artist: "Timothy Spell"
+title: I Have a Father Who Can
+artist: Timothy Spell
 key: G
-tempo: 72
-time: 
-ccli: 
-copyright: 
+bpm: '72'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "father"
+  - father
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "517BEF85-7D28-47CD-B806-15922A05ADDD"
+id: 517BEF85-7D28-47CD-B806-15922A05ADDD
 ---
-
 VERSE 1:
 [G]I cannot make a world [B7] and hold it in my hands[Em7]
 I cannot take the lightening and [G/D]flash it across the [D7]land

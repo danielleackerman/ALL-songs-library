@@ -1,24 +1,29 @@
 ---
-title: "Holy One"
-artist: "Casting Crowns"
+title: Holy One
+artist: Casting Crowns
 key: D
-tempo: 
-time: 
-ccli: "5643220"
-copyright: "2009 My Refuge Music / Integrity's Hosanna! Music / Sony/ATV Tree Publishing / Sony/ATV Timber Publishing / Windsor Hill Music / Music Of Windswept"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "glory"
+  - praise
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5643220'
+copyright: >-
+  2009 My Refuge Music / Integrity's Hosanna! Music / Sony/ATV Tree Publishing /
+  Sony/ATV Timber Publishing / Windsor Hill Music / Music Of Windswept
+source: ''
+year: ''
 medley: []
-id: "4045E741-6017-4E5F-9665-734D27110527"
+id: 4045E741-6017-4E5F-9665-734D27110527
 ---
-
   (intro 2x) D C/D C/D C
 
 [D]God, [C/D]You are [C/D]my God

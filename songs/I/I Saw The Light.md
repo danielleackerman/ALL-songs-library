@@ -1,40 +1,44 @@
 ---
-title: "I Saw The Light"
-artist: "Hank Williams Sr."
+title: I Saw The Light
+artist: Hank Williams Sr.
 key: G
-tempo: 
-time: 
-ccli: "45064"
-copyright: "1948. Renewed 1975 Acuff Rose Music / Hiriam Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "black-gospel"
-  - "bluegrass"
-  - "cheeky"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "novel"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "light"
+  - altar-songs
+  - black-gospel
+  - bluegrass
+  - cheeky
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - novel
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - light
 genre: []
-energy: high
 profile:
-  - "altar-songs-black-gospel-bluegrass-cheeky-choir-choruses-congregational-contemporary-energetic-medium-fast-novel-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    altar-songs-black-gospel-bluegrass-cheeky-choir-choruses-congregational-contemporary-energetic-medium-fast-novel-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '45064'
+copyright: '1948. Renewed 1975 Acuff Rose Music / Hiriam Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "B641695C-3A63-4E6E-912F-DB9B33A80C5D"
+id: B641695C-3A63-4E6E-912F-DB9B33A80C5D
 ---
-
 G
 I wandered so aimless, life filled with sin,
 [C]I wouldn't let my dear Savior [G]in

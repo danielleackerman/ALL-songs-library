@@ -1,23 +1,26 @@
 ---
-title: "Reckless"
-artist: "Jeremy Camp"
+title: Reckless
+artist: Jeremy Camp
 key: Eb
-tempo: 
-time: 
-ccli: "6454274"
-copyright: "Stolen Pride (Admin. by EMI Christian Music Publishing)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6454274'
+copyright: Stolen Pride (Admin. by EMI Christian Music Publishing)
+source: ''
+year: ''
 medley: []
-id: "278D4026-5E66-459F-9D8D-3F7A4B6D9E89"
+id: 278D4026-5E66-459F-9D8D-3F7A4B6D9E89
 ---
-
 INTRO:
 [Cm] - [Ab] - [Eb] - [Bb]
 

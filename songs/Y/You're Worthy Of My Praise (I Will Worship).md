@@ -1,24 +1,27 @@
 ---
-title: "You're Worthy Of My Praise (I Will Worship)"
-artist: "Jeremy Camp"
+title: You're Worthy Of My Praise (I Will Worship)
+artist: Jeremy Camp
 key: G
-tempo: 
-time: 
-ccli: "487976"
-copyright: "1991 Maranatha Praise, Inc. / Shade Tree Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "trust"
+  - praise
+  - trust
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '487976'
+copyright: '1991 Maranatha Praise, Inc. / Shade Tree Music'
+source: ''
+year: ''
 medley: []
-id: "92D5073B-8758-4C65-A526-665ABD65E118"
+id: 92D5073B-8758-4C65-A526-665ABD65E118
 ---
-
 VERSE 1:
 G
  I will worship (I will worship)

@@ -1,25 +1,28 @@
 ---
-title: "Jesus I Love You - MODULATE WHOLE STEP"
-artist: "Brooklyn Tabernacle Choir"
+title: Jesus I Love You - MODULATE WHOLE STEP
+artist: Brooklyn Tabernacle Choir
 key: Ab
-tempo: 115
-time: "2/4"
-ccli: 
-copyright: 
+bpm: '115'
+time_sig: 2/4
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: medium-fast
 profile:
-  - "mod-gospel-slow"
-keywords: "mod gospel slow"
-source: 
-year: 
+  - mod-gospel-slow
+keywords: mod gospel slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "90B3070A-0477-4D43-93BF-0492DC03392F"
+id: 90B3070A-0477-4D43-93BF-0492DC03392F
 ---
-
 {artist: Brooklyn Tabernacle Choir}
 
 VERSE 1:

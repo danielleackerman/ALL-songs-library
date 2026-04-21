@@ -1,22 +1,25 @@
 ---
-title: "For What Earthly Reason[version 2]"
-artist: "Dottie Rambo"
+title: 'For What Earthly Reason[version 2]'
+artist: Dottie Rambo
 key: A
-tempo: 
-time: "4/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 4/4
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "71831E0E-5787-44C4-8C73-F5CDAB8169D5"
+id: 71831E0E-5787-44C4-8C73-F5CDAB8169D5
 ---
-
 [A] [D] [A]
 
 VERSE 1:

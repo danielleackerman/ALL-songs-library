@@ -1,22 +1,25 @@
 ---
-title: "Welcome To OnSong"
-artist: "OnSong Team"
+title: Welcome To OnSong
+artist: OnSong Team
 key: C
-tempo: 85
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '85'
+time_sig: 4/4
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "60D71400-A83A-493A-8721-8A3C29185E1F"
+id: ECB02D6A-6D06-439B-A108-95B1C9DB17F4
 ---
-
 VERSE 1:
 to get [C]started with OnSong, [F]tap "Songs"
 you can [C]use this to manage your [G]music

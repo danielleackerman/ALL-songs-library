@@ -1,40 +1,44 @@
 ---
-title: "I've Got a Right to Praise the Lord"
-artist: "Nancy Harmon"
+title: I've Got a Right to Praise the Lord
+artist: Nancy Harmon
 key: F
-tempo: 86
-time: 
-ccli: "313473"
-copyright: "1973 Renewed 2001 LeFevre-Sing Publishing (Admin. by ClearBox Rights, LLC)"
+bpm: '86'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "children"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - children
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-  - "os-gospel-med"
-keywords: "os apo med, os gospel med"
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+  - os-gospel-med
+keywords: 'os apo med, os gospel med'
+ccli: '313473'
+copyright: '1973 Renewed 2001 LeFevre-Sing Publishing (Admin. by ClearBox Rights, LLC)'
+source: ''
 year: 1973
 medley:
-  - "[[I'VE BEEN REDEEMED]]"
-  - "[[I'VE GOT A RIGHT TO PRAISE THE LORD]]"
-id: "A7C6F4F8-24F0-4FF0-8783-170C425D5AE3"
+  - '[[I''VE BEEN REDEEMED]]'
+  - '[[I''VE GOT A RIGHT TO PRAISE THE LORD]]'
+id: A7C6F4F8-24F0-4FF0-8783-170C425D5AE3
 ---
-
 {artist: Nancy Harmon, 1973}
 
 Medley: I've been redeemed / I've got a right to praise the Lord

@@ -1,23 +1,26 @@
 ---
-title: "You Are All"
-artist: "Rich Mullins"
+title: You Are All
+artist: Rich Mullins
 key: A
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A0E9B3E9-32E7-4D45-9C3D-B54A608A9FF4"
+id: A0E9B3E9-32E7-4D45-9C3D-B54A608A9FF4
 ---
-
 Key:
 
 You Are All

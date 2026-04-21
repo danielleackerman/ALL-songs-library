@@ -1,22 +1,25 @@
 ---
-title: "The Breaking Of The Dawn"
-artist: "Fernando Ortega"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: The Breaking Of The Dawn
+artist: Fernando Ortega
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "669D217F-3033-485E-886E-2955BF565802"
+id: 669D217F-3033-485E-886E-2955BF565802
 ---
-
 Key:
 Copyright: 1998 MargeeDays Music
 

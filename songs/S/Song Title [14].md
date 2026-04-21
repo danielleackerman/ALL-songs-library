@@ -1,27 +1,33 @@
 ---
-title: "Song Title"
-artist: "Artist Name"
-key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Song Title
+artist: ''
+key: F#
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9AC58094-FDAF-4466-A671-6C2B9F2C0D9E"
+id: ED1A8D19-21B1-44B0-8874-C0F44F0D7283
 ---
+[F#] [/] [/] [/] [F#11] [/] [/] [/] [Bmaj9] [/] [/] [F#] [/] [A#7#9] [/]
 
-VERSE 1:
-[C]Type your lines of the [F]song here
-Just [C]use line breaks to [G]make lines
-[Am]Placing the [G/B]chords [F]where you [Em]want them
+[D#m9] [/] [/] [/]  [G#9] [/] [/] [/] [C#9] [/] [/] [/] [C#11] [/] [/] [/] [F#2]
 
-CHORUS:
-[C2]You can also [Csus4]repeat the chorus with [G]notes
-(Repeat 3x)
+[B] [/] [/] [/] [B11] [/] [/] [/] [Emaj9] [/] [/] [B] [/] [D#7#9] [/]
+
+[G#m9] [/] [/] [/]  [C#9] [/] [/] [/] [F#9] [/] [/] [/] [F#11] [/] [/] [/] [B2]
+
+[E] [/] [/] [/] [E11] [/] [/] [/] [Amaj9] [/] [/] [E] [/] [G#7#9] [/]
+
+[C#m9] [/] [/] [/]  [F#9] [/] [/] [/] [B9] [/] [/] [/] [B11] [/] [/] [/] [E2]

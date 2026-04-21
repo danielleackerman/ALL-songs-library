@@ -1,24 +1,27 @@
 ---
-title: "You Are Everything"
-artist: "Matthew West"
+title: You Are Everything
+artist: Matthew West
 key: G
-tempo: 
-time: 
-ccli: "4807737"
-copyright: "2006 Songs For Lulu / Word Music, LLC / Wyzell Music / Simplex Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "believe"
-  - "help"
+  - believe
+  - help
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4807737'
+copyright: '2006 Songs For Lulu / Word Music, LLC / Wyzell Music / Simplex Songs'
+source: ''
+year: ''
 medley: []
-id: "309DA7FB-1EF2-4F86-A566-EF3EA8CC95EA"
+id: 309DA7FB-1EF2-4F86-A566-EF3EA8CC95EA
 ---
-
 Capo 3
 
 Intro - Em7 - Cadd9 - G - D

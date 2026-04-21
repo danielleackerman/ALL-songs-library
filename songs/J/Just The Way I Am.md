@@ -1,24 +1,27 @@
 ---
-title: "Just The Way I Am"
-artist: "Big Daddy Weave"
+title: Just The Way I Am
+artist: Big Daddy Weave
 key: C
-tempo: 
-time: 
-ccli: "4506090"
-copyright: "2005 Word Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "dance"
+  - love
+  - dance
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4506090'
+copyright: '2005 Word Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "92B3A8E1-8A95-4FAD-9F01-BA058BC81077"
+id: 92B3A8E1-8A95-4FAD-9F01-BA058BC81077
 ---
-
 These chords are correct with CAPO 1
 
 Intro: C Dm F G G (2x)

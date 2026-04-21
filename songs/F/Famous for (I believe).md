@@ -1,36 +1,40 @@
 ---
-title: "Famous for (I believe)"
-artist: "Tauren Wells"
+title: Famous for (I believe)
+artist: Tauren Wells
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "believe"
-  - "life"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - believe
+  - life
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "AA1BA04B-6AEE-4A68-B2EC-B3B923B0B72F"
+id: AA1BA04B-6AEE-4A68-B2EC-B3B923B0B72F
 ---
-
 INTRO:
 [|] [A] [/] [/] [/] [|] [Dma7] [/] [/] [F#m] [|] [E(4)] [/] [/] [/] [|] [Dma7] [/] [/] [F#m] [|] [E(4)] [/] [/] [/] [|]
 

@@ -1,34 +1,38 @@
 ---
-title: "I Lean On You Lord"
-artist: "The Nelons"
+title: I Lean On You Lord
+artist: The Nelons
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "888E5E7C-B19B-432F-8D52-6F3CA5529B0C"
+id: 888E5E7C-B19B-432F-8D52-6F3CA5529B0C
 ---
-
 CHORUS:
 [Bb/C]I lean on [F]You Lord, I [Bb/C]lean on [F]You Lord,
 [Bb/C]For the [F]things that I [Dm]need I lean on [C7sus]You.   [C7]

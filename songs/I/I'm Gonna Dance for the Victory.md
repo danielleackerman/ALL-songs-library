@@ -1,24 +1,27 @@
 ---
-title: "I'm Gonna Dance for the Victory"
-artist: "Key of: Em"
+title: I'm Gonna Dance for the Victory
+artist: 'Key of: Em'
 key: Cm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "praise"
+  - jesus
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "58E724EE-C886-4290-8729-574FBE4107C9"
+id: 58E724EE-C886-4290-8729-574FBE4107C9
 ---
-
 VERSE 1:
 I won't [Cm]wait til my [Bb]troubles are [Cm]over
 I'm gonna dance til the victory comes

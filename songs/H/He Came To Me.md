@@ -1,32 +1,36 @@
 ---
-title: "He Came To Me"
-artist: "Squire Parsons"
+title: He Came To Me
+artist: Squire Parsons
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9FDDEFBC-A31A-454E-AD5B-FDB487B865EC"
+id: 9FDDEFBC-A31A-454E-AD5B-FDB487B865EC
 ---
-
 {artist: Squire Parsons}
 
 [Bb/C]He   came   to  [F]me,     He   came   to   [Bb]me   [C/A]   [Gm7]

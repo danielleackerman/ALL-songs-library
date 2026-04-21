@@ -1,31 +1,34 @@
 ---
-title: "The Highest Praise (Give the Lord The Highest Praise)"
-artist: "Clint Brown"
+title: The Highest Praise (Give the Lord The Highest Praise)
+artist: Clint Brown
 key: G
-tempo: 130
-time: 
-ccli: 
-copyright: 
+bpm: '130'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "dance"
+  - praise
+  - dance
 genre: []
-energy: medium-fast
 profile:
-  - "mod-apo-fast"
-  - "contemp-christian-fast"
-keywords: "mod apo fast, contemp christian fast"
-source: 
-year: 
+  - mod-apo-fast
+  - contemp-christian-fast
+keywords: 'mod apo fast, contemp christian fast'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[Can't nobody do me like Jesus]]"
-  - "[[Jesus]]"
-  - "[[I'll never forget]]"
-  - "[[Never]]"
-  - "[[never forget]]"
-id: "BAC5D903-E519-40DC-8551-4AEC3521AB31"
+  - '[[Can''t nobody do me like Jesus]]'
+  - '[[Jesus]]'
+  - '[[I''ll never forget]]'
+  - '[[Never]]'
+  - '[[never forget]]'
+id: BAC5D903-E519-40DC-8551-4AEC3521AB31
 ---
-
 {artist: Clint Brown}
 
 MEDLEY: Can't nobody do me like Jesus / Jesus, I'll never forget/ Never, never forget

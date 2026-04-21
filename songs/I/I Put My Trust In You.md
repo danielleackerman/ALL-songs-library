@@ -1,37 +1,41 @@
 ---
-title: "I Put My Trust In You"
-artist: "Clint Brown"
+title: I Put My Trust In You
+artist: Clint Brown
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "2007 Tribe Muysic Group"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "life"
-  - "trust"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - life
+  - trust
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: 2007 Tribe Muysic Group
+source: ''
+year: ''
 medley: []
-id: "EB2CE975-D083-4642-B3A7-2D314A3D9F5D"
+id: EB2CE975-D083-4642-B3A7-2D314A3D9F5D
 ---
-
 INTRO:
 [Em]  [E]  [Em]  [Dsus]
 [C2]  [D]  [Em7] [D/B]

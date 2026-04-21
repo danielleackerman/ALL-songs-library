@@ -1,25 +1,28 @@
 ---
-title: "Victory, Victory Shall Be Mine"
-artist: "Nancy Harmon, 1977, original key G"
+title: 'Victory, Victory Shall Be Mine'
+artist: 'Nancy Harmon, 1977, original key G'
 key: Eb
-tempo: 110
-time: 
-ccli: "94709"
-copyright: "1977 LeFevre-Sing Publishing (Admin. by ClearBox Rights, LLC)"
+bpm: '110'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "victory"
+  - victory
 genre: []
-energy: medium-fast
 profile:
-  - "os-apo-fast"
-  - "os-gospel-fast"
-keywords: "os apo fast, os gospel fast"
-source: 
-year: 
+  - os-apo-fast
+  - os-gospel-fast
+keywords: 'os apo fast, os gospel fast'
+ccli: '94709'
+copyright: '1977 LeFevre-Sing Publishing (Admin. by ClearBox Rights, LLC)'
+source: ''
+year: ''
 medley: []
-id: "DFD7F4C8-A203-4D05-9466-171D5C326D48"
+id: DFD7F4C8-A203-4D05-9466-171D5C326D48
 ---
-
 {artist: Nancy Harmon, 1977, original key G}
 
 CHORUS:

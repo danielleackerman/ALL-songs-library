@@ -1,23 +1,28 @@
 ---
-title: "Drops in the Ocean"
-artist: "Hawk Nelson"
+title: Drops in the Ocean
+artist: Hawk Nelson
 key: G
-tempo: 
-time: 
-ccli: "7034172"
-copyright: "2014 Forest For The Trees Music, Open Hands, Atlantis Underwater Music, Fair Trade Tunes, Sony/ATV Timber Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7034172'
+copyright: >-
+  2014 Forest For The Trees Music, Open Hands, Atlantis Underwater Music, Fair
+  Trade Tunes, Sony/ATV Timber Publishing
+source: ''
+year: ''
 medley: []
-id: "5DE473DC-2A33-4998-83BD-FB5D1AB39927"
+id: 5DE473DC-2A33-4998-83BD-FB5D1AB39927
 ---
-
 INTRO:
 [G2] - [Asus] - [Bm7] - [G2] - [D] - [A]
 

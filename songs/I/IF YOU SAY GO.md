@@ -1,22 +1,25 @@
 ---
-title: "If You Say Go"
-artist: "Rita Springer"
+title: If You Say Go
+artist: Rita Springer
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A539EB97-A24D-4AC2-8A02-67ED98A4DF74"
+id: A539EB97-A24D-4AC2-8A02-67ED98A4DF74
 ---
-
 [G/A]If You say [D]go we [Bm7]will [G]go
 If You say [Bm7] [G]wait we will [Asus]wait [A]
 If You say [D]step out of the water and they [Bm7]say it can't be [G]done

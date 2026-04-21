@@ -1,23 +1,26 @@
 ---
-title: "Holy Life [Eb]"
-artist: "Mark Condon"
+title: 'Holy Life [Eb]'
+artist: Mark Condon
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F15AA3A1-FE2C-4502-9DAD-3F7CC1FECBD7"
+id: F15AA3A1-FE2C-4502-9DAD-3F7CC1FECBD7
 ---
-
 [Ab/Bb]I     wanna    live    a    [Eb]holy    [Eb7/G]life
 
 I     wanna     walk    in    [Ab]truth     day     [Gm7]and     [Fm7]night

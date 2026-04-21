@@ -1,22 +1,25 @@
 ---
-title: "Hallelujah"
-artist: "Darlene Zschech"
+title: Hallelujah
+artist: Darlene Zschech
 key: C
-tempo: 
-time: 
-ccli: "3189339"
-copyright: "2000 Hillsong Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3189339'
+copyright: 2000 Hillsong Publishing
+source: ''
+year: ''
 medley: []
-id: "5F732F30-C222-47C0-9105-EBD821193C93"
+id: 5F732F30-C222-47C0-9105-EBD821193C93
 ---
-
 [Intro:]  [C/E]    [F]     [C/E]      [F]     [C]    [C]
 
 VERSE:

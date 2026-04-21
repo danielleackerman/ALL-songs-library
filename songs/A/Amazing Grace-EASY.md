@@ -1,24 +1,27 @@
 ---
-title: "Amazing Grace-EASY"
-artist: "3/4 time"
+title: Amazing Grace-EASY
+artist: 3/4 time
 key: C
-tempo: 75
-time: 
-ccli: 
-copyright: 
+bpm: '75'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "grace"
+  - grace
 genre: []
-energy: medium-slow
 profile:
-  - "os-apo-slow"
-keywords: 
-source: 
-year: 
+  - os-apo-slow
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "91F6E35B-9CDA-4012-8372-5D4B78C5DA4A"
+id: 91F6E35B-9CDA-4012-8372-5D4B78C5DA4A
 ---
-
 75 bpm
 Sutl 93
 Keywords: OS APO SLOW

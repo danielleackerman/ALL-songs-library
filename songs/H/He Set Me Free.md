@@ -1,38 +1,44 @@
 ---
-title: "He Set Me Free"
-artist: "Albert E. Brumley,"
+title: He Set Me Free
+artist: 'Albert E. Brumley,'
 key: Ab
-tempo: 
-time: "4/4"
-ccli: "61062"
-copyright: "1939. Copyright 1967 Bridge Building Music, Inc. (Admin. by Brentwood-Benson Music Publishing, Inc.)"
+bpm: ''
+time_sig: 4/4
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "glory"
-  - "sutl"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - glory
+  - sutl
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med, sutl"
-source: "Sing Unto The Lord 175"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: 'os apo med, sutl'
+ccli: '61062'
+copyright: >-
+  1939. Copyright 1967 Bridge Building Music, Inc. (Admin. by Brentwood-Benson
+  Music Publishing, Inc.)
+source: Sing Unto The Lord 175
+year: ''
 medley: []
-id: "A4A9AD30-C4B4-46A3-A60C-760434AA620B"
+id: A4A9AD30-C4B4-46A3-A60C-760434AA620B
 ---
-
 {artist: Albert E. Brumley, (Sing Unto The Lord 175)}
 
 VERSE 1:

@@ -1,22 +1,25 @@
 ---
-title: "Worth it All"
-artist: "FFH"
+title: Worth it All
+artist: FFH
 key: F
-tempo: 
-time: 
-ccli: "4648824"
-copyright: "2005 New Spring / Schnickelfritz Music Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4648824'
+copyright: 2005 New Spring / Schnickelfritz Music Publishing
+source: ''
+year: ''
 medley: []
-id: "85F2338C-6D41-4790-93C4-91E2C0647B18"
+id: 85F2338C-6D41-4790-93C4-91E2C0647B18
 ---
-
 Capo 1 to change F to Gb to match CD
 
 [Bb/F]       [Bb/F]       [D5]O Child, you’ve never k[Gm]nown

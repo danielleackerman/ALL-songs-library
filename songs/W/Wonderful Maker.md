@@ -1,23 +1,26 @@
 ---
-title: "Wonderful Maker"
-artist: "Jeremy Camp"
+title: Wonderful Maker
+artist: Jeremy Camp
 key: G
-tempo: 
-time: 
-ccli: "3798627"
-copyright: "2002 Thankyou Music / worshiptogether.com songs / sixsteps Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "light"
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3798627'
+copyright: 2002 Thankyou Music / worshiptogether.com songs / sixsteps Music
+source: ''
+year: ''
 medley: []
-id: "C12DE93C-6EF3-4ED7-9937-155559B5398B"
+id: C12DE93C-6EF3-4ED7-9937-155559B5398B
 ---
-
 VERSE 1:
 C
 You spread out the skies over empty space

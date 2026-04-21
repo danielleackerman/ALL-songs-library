@@ -1,24 +1,27 @@
 ---
-title: "The Wise Man Built His House Upon the Rock"
-artist: "Children's song"
+title: The Wise Man Built His House Upon the Rock
+artist: Children's song
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "rock"
+  - jesus
+  - rock
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8B084536-AB0D-4C17-A597-5A9CB8C92B58"
+id: 8B084536-AB0D-4C17-A597-5A9CB8C92B58
 ---
-
 and the rains came tumbling down
 
 The rains came down as the floods came up

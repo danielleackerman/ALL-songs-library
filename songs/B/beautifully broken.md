@@ -1,20 +1,23 @@
 ---
-title: "Beautifully Broken"
-artist: "Artist Name"
+title: Beautifully Broken
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E87011BD-5BC0-41F0-839A-CEAEEBB9FE05"
+id: E87011BD-5BC0-41F0-839A-CEAEEBB9FE05
 ---
-
 

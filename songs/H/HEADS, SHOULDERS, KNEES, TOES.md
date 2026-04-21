@@ -1,22 +1,25 @@
 ---
-title: "Heads, Shoulders, Knees, Toes"
-artist: "Artist Name"
+title: 'Heads, Shoulders, Knees, Toes'
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8D90E098-A34D-4D90-9018-24467C58EE0A"
+id: 8D90E098-A34D-4D90-9018-24467C58EE0A
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

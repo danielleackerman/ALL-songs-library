@@ -1,34 +1,38 @@
 ---
-title: "We Sing Worthy"
-artist: "Geron LaRay Davis"
+title: We Sing Worthy
+artist: Geron LaRay Davis
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4A179A46-C270-48C1-A9EB-B6429A122CB0"
+id: 4A179A46-C270-48C1-A9EB-B6429A122CB0
 ---
-
 VERSE 1:
 [F]We sing [C2/E]worthy  [Cm/Eb]
 We sing [D7b9]wo[C2/E][Gbdim]or[Gm]thy

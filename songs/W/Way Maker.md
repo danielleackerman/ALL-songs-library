@@ -1,34 +1,38 @@
 ---
-title: "Way Maker"
-artist: "Sinach"
+title: Way Maker
+artist: Sinach
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: "2016 SLIC Inspire"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: 2016 SLIC Inspire
+source: ''
+year: ''
 medley: []
-id: "DA391373-C841-455F-AF3F-F8B59B7BC43F"
+id: DA391373-C841-455F-AF3F-F8B59B7BC43F
 ---
-
 VERSE 1:
 You are here,[F] Moving in our midst[C]
 I worship You[G], I worship You[Am]     [G]

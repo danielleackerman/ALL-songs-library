@@ -1,22 +1,25 @@
 ---
-title: "Move"
-artist: "MercyMe"
+title: Move
+artist: MercyMe
 key: C
-tempo: 
-time: 
-ccli: "5760701"
-copyright: "2010 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5760701'
+copyright: 2010 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "8247E0AE-9190-459E-ADF3-2515BB010598"
+id: 8247E0AE-9190-459E-ADF3-2515BB010598
 ---
-
 VERSE 1:
 [Am]   I'm not about to give up, because I heard You say
 [F]   There's gonna be brighter days, there's gonna be brighter days

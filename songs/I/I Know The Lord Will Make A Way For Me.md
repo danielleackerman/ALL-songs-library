@@ -1,34 +1,38 @@
 ---
-title: "I Know The Lord Will Make A Way For Me"
-artist: ""
+title: I Know The Lord Will Make A Way For Me
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "389CA994-48FB-42E1-A637-0CF21BDDCAE1"
+id: 389CA994-48FB-42E1-A637-0CF21BDDCAE1
 ---
-
 CHORUS:
 [Ab/Bb]I know the [Eb]Lord Will make a [Bb7]way [Bb7/D]for [Eb]me.  [Ab/Eb].   [Eb]
 [Ab/Bb]I know the [Eb]Lord will make a [Bb7]way [Bb7/D]for [Eb]me.  [Eb7]

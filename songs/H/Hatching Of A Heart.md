@@ -1,24 +1,27 @@
 ---
-title: "Hatching Of A Heart"
-artist: "Rich Mullins"
+title: Hatching Of A Heart
+artist: Rich Mullins
 key: B
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "praise"
+  - love
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "29330E51-8CD7-418B-8A93-1BFEBC27E4FF"
+id: 29330E51-8CD7-418B-8A93-1BFEBC27E4FF
 ---
-
 [F#2]Well the night was cold and my heart was hidden very safely in its shell
 But I knew somehow I'd have to run that risk, I'd have t[F#2/B]o open up myself
 

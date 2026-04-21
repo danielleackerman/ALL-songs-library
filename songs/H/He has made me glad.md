@@ -1,22 +1,25 @@
 ---
-title: "He Has Made Me Glad"
-artist: "Artist Name"
+title: He Has Made Me Glad
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "589CB525-84F3-491C-A71C-0FDDD10CFFCE"
+id: 589CB525-84F3-491C-A71C-0FDDD10CFFCE
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

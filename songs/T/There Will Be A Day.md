@@ -1,23 +1,26 @@
 ---
-title: "There Will Be A Day"
-artist: "Jeremy Camp"
+title: There Will Be A Day
+artist: Jeremy Camp
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D3F0F819-8A09-4DB1-A49B-10D347FC23B9"
+id: D3F0F819-8A09-4DB1-A49B-10D347FC23B9
 ---
-
 E5 is an easier way to play E for this song but it sounds good either way
 
 (B) Is an optional chord, it comes in on the third beat.

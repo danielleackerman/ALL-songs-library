@@ -1,22 +1,25 @@
 ---
-title: "Hidden Track On Offerings"
-artist: "Third Day"
+title: Hidden Track On Offerings
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "2000 Essential Records"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2000 Essential Records
+source: ''
+year: ''
 medley: []
-id: "0E10C292-D28C-4BDA-B99A-344578EA03D2"
+id: 0E10C292-D28C-4BDA-B99A-344578EA03D2
 ---
-
 V1:
 Take my heart and help me [D]feel
 [C] Take my faith and [D]make it [G]real

@@ -1,34 +1,38 @@
 ---
-title: "Adonai"
-artist: "Avalon"
+title: Adonai
+artist: Avalon
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: "1997 Dayspring Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "father"
-  - "hope"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - father
+  - hope
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "mod-contemp-slow"
-keywords: "mod. contemp. slow"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - mod-contemp-slow
+keywords: mod. contemp. slow
+ccli: ''
+copyright: '1997 Dayspring Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "65886289-FB53-4658-ADBA-BF11055DF936"
+id: 65886289-FB53-4658-ADBA-BF11055DF936
 ---
-
 INTRO:
 [Absus][Ab][Cm7][Db2]
 [Absus][Ab][Ab/C][[Db2]

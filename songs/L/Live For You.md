@@ -1,24 +1,29 @@
 ---
-title: "Live For You"
-artist: "Rachel Lampa"
+title: Live For You
+artist: Rachel Lampa
 key: G
-tempo: 
-time: 
-ccli: "525436"
-copyright: "2000 Dayspring Music, LLC / SGO Music Publishing Ltd. / Still Working For The Man Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "life"
+  - love
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Rachael Lampa"
-year: 
+keywords: ''
+ccli: '525436'
+copyright: >-
+  2000 Dayspring Music, LLC / SGO Music Publishing Ltd. / Still Working For The
+  Man Music, Inc.
+source: Rachael Lampa
+year: ''
 medley: []
-id: "DC53CDFD-5D06-485A-A722-D73F95DD8FDC"
+id: DC53CDFD-5D06-485A-A722-D73F95DD8FDC
 ---
-
 This is an extremely easy song. The solo and lead is in E minor and the
 entire song utilizes this rythym.
 

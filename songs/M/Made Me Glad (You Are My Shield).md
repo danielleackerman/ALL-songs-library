@@ -1,25 +1,28 @@
 ---
-title: "Made Me Glad (You Are My Shield)"
-artist: "Miriam Webster, as performed by Hillsong / Alvin Slaughter"
+title: Made Me Glad (You Are My Shield)
+artist: 'Miriam Webster, as performed by Hillsong / Alvin Slaughter'
 key: Eb
-tempo: 91
-time: 
-ccli: "3290709"
-copyright: "2001 Wonder Down Under Music (Admin. by Music Services, Inc.)"
+bpm: '91'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "shield"
-  - "ccm"
+  - shield
+  - ccm
 genre: []
-energy: medium
 profile:
-  - "contemporary-christian-med-slow"
-keywords: "contemporary christian med slow, ccm"
-source: 
-year: 
+  - contemporary-christian-med-slow
+keywords: 'contemporary christian med slow, ccm'
+ccli: '3290709'
+copyright: '2001 Wonder Down Under Music (Admin. by Music Services, Inc.)'
+source: ''
+year: ''
 medley: []
-id: "B1CD4ED2-D850-4FF3-89F2-147D2E39753D"
+id: B1CD4ED2-D850-4FF3-89F2-147D2E39753D
 ---
-
 INTRO: Eb2  Eb  Eb2  Eb  Bb2  Bb  Bb2  Bb (X2)
 
 VERSE 1:

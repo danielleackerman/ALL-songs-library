@@ -1,32 +1,50 @@
 ---
-title: "Oh, The Blood Of Jesus"
-artist: ""
-key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: 'Oh, The Blood of Jesus'
+artist: Version 2
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "blood"
+  - love
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "153F0DEB-7F81-42AF-83C5-378443C7B345"
+id: 00BE8BD7-791D-44DD-85E7-C8644146A3B3
 ---
-
 VERSE 1:
-[F]Oh [Bb/F]the [F]blood of [Bb/F]Je[F]sus,
-[C7]Oh the blood [C7/E]of [F]Jesus
-[F]Oh [Bb/F]the [F]blood of Je[C7/E]e[Dm7]sus
-[D7#5]That [Gm7]washes [Gm/C]white.   [Bb/C]as [F]snow.
+Oh, the blood of Jesus,
+Oh, the blood of Jesus,
+Oh, the blood of Jesus,
+It must not suffer loss.
 
 VERSE 2:
-I'm thankful for the blood of Jesus
+Oh, the word of Jesus,
+Oh, the word of Jesus,
+Oh, the word of Jesus,
+It cleanses white as snow.
+
+Refrain:
+There is power, power,
+Wonder working pow'r,
+In the blood of the Lamb.
+
+There is power, power,
+Wonder working pow'r,
+In the precious blood of the Lamb.
 
 VERSE 3:
-There's power in the blood of Jesus
+Oh, the love of Jesus,
+Oh, the love of Jesus,
+Oh, the love of Jesus,
+It makes His body whole. [Refrain]

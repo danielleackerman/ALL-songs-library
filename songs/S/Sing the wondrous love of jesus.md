@@ -1,24 +1,27 @@
 ---
-title: "Sing the Wondrous Love of Jesus"
-artist: ""
+title: Sing the Wondrous Love of Jesus
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Artist Name"
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: Artist Name
+year: ''
 medley: []
-id: "1ADE00EA-13B8-42FD-991C-A84D985FA06E"
+id: 1ADE00EA-13B8-42FD-991C-A84D985FA06E
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

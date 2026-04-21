@@ -1,33 +1,37 @@
 ---
-title: "Amazing Grace"
-artist: ""
+title: Amazing Grace
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "grace"
+  - altar-songs
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - grace
 genre: []
-energy: slow
 profile:
-  - "altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "12B05B94-327F-41B1-B6C1-FFE1E08D2223"
+id: 12B05B94-327F-41B1-B6C1-FFE1E08D2223
 ---
-
 CHORUS:
 [F][Bb/C]Amaz[F]ing grace how  [Bb]sweet t[Cm/A]He sound  [Bb]  [Fo7/B] [F/C]
 That save[Dm7]d a  wretch like[G9] me  [C]  [Bb/G]  [C]

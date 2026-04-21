@@ -1,24 +1,27 @@
 ---
-title: "Praisin for the Victory"
-artist: ""
+title: Praisin for the Victory
+artist: ''
 key: Em
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "victory"
-  - "worship"
+  - victory
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D6327630-552E-4568-A80B-47B8CEB05093"
+id: D6327630-552E-4568-A80B-47B8CEB05093
 ---
-
 CHORUS:
 [Em]Lift up [D]your voice and sing for joy
 [Em/C]Clap your hands, make a joyful noise

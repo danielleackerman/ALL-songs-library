@@ -1,24 +1,27 @@
 ---
-title: "We Hunger And Thirst"
-artist: "Alex Couch, Dave Fournier, George Romanacce"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: We Hunger And Thirst
+artist: 'Alex Couch, Dave Fournier, George Romanacce'
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
 year: 2011
 medley: []
-id: "CF80948E-5082-4CB1-9307-C428C0B29D29"
+id: CF80948E-5082-4CB1-9307-C428C0B29D29
 ---
-
 VERSE 1:
 Exalted, Son of glory, Humbly came down,
 Wounded, For the broken, Bore the sinner's crown

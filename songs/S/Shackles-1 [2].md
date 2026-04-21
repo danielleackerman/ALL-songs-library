@@ -1,24 +1,27 @@
 ---
-title: "Shackles-1"
-artist: "Jon Kendrick"
+title: Shackles-1
+artist: Jon Kendrick
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile:
-  - "mod-apo-fast"
-keywords: "mod apo fast"
-source: 
-year: 
+  - mod-apo-fast
+keywords: mod apo fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "131501B9-C0C0-4D8A-B8F1-BBBBA06E2B42"
+id: 5C70EC08-E77D-4635-A690-ECB54C639F41
 ---
-
 (Chorus:)
 [Ab]He [Gb]took [Db/F]the  [Ab]shackles off my feet so I can dance
 [Ab]He [Gb]broke [Db/F]the  [Db]chains and bands so I could raise my hands

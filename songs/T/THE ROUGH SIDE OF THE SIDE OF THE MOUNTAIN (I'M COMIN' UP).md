@@ -1,22 +1,25 @@
 ---
-title: "The Rough Side of the Side of the Mountain (I'm Comin' up)"
-artist: "Rev. F.C. Barnes"
+title: The Rough Side of the Side of the Mountain (I'm Comin' up)
+artist: Rev. F.C. Barnes
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "67D24E26-DA1A-4AC3-99FC-E75CE5048C54"
+id: 67D24E26-DA1A-4AC3-99FC-E75CE5048C54
 ---
-
 VERSE 1:
 Oh Lord, I'm striving
 Trying to make it through this barren land.

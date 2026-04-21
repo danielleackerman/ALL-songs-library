@@ -1,20 +1,23 @@
 ---
-title: "There's Something About That Name sheet music"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: There's Something About That Name sheet music
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B50FFB1D-67BF-4D54-82C4-BDF42122236E"
+id: B50FFB1D-67BF-4D54-82C4-BDF42122236E
 ---
-
 

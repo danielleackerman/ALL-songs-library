@@ -1,24 +1,27 @@
 ---
-title: "There Is A Remedy EDIT"
-artist: "Annie McRae"
+title: There Is A Remedy EDIT
+artist: Annie McRae
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "christ"
+  - jesus
+  - christ
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "02A1973F-3B83-400E-92A9-2ED21CA23DF8"
+id: 02A1973F-3B83-400E-92A9-2ED21CA23DF8
 ---
-
 (Verse:1)
 For a [Eb]world that's lost in darkness, for the [Eb2/G]saint who's gone astray
 For the [AbM7]sinner, blind but searching, for the [Fm7]child in need of [Bb7]faith

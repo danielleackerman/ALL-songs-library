@@ -1,24 +1,27 @@
 ---
-title: "Weighed Down"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Weighed Down
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "king"
+  - love
+  - king
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "AEC44674-0394-4985-B21C-4B8CF966AEBD"
+id: AEC44674-0394-4985-B21C-4B8CF966AEBD
 ---
-
 Key:
 
 Intro:  2nd guitar part:  C#m     E     F#m     A

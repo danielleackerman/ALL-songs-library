@@ -1,23 +1,26 @@
 ---
-title: "For Your Glory"
-artist: "Tasha Cobbs"
+title: For Your Glory
+artist: Tasha Cobbs
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0E91C364-F4D3-44DE-B4E5-943E17C987B6"
+id: C3CCB871-77F6-4B04-B065-569B4FEB409F
 ---
-
 V1
 [F2]Lord   [Gm7]if   [F2/A]  I         find [Bb2]favor in Your   [C2]sight
 [F]Lo [Gm7]ord  [F2/A]please    [Bb2]Hear my hearts  [C2]cry

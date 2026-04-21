@@ -1,22 +1,25 @@
 ---
-title: "Sinking"
-artist: "JARS OF CLAY"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Sinking
+artist: JARS OF CLAY
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5F57D639-444C-4DA3-91B5-7C644A951223"
+id: 5F57D639-444C-4DA3-91B5-7C644A951223
 ---
-
 Key:
 Song:       "SINKING"
 Artist: JARS OF CLAY

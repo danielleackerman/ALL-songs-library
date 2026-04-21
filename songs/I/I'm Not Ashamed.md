@@ -1,27 +1,32 @@
 ---
-title: "I'm Not Ashamed"
-artist: "Ricardo Sanchez, Israel Houghton"
+title: I'm Not Ashamed
+artist: 'Ricardo Sanchez, Israel Houghton'
 key: G
-tempo: 48
-time: "6/8"
-ccli: "5444199"
-copyright: "2009 Integrity's Hosanna! Music / Integrity's Praise! Music / New Breed Extended / Ricardo Music Dot Com / Sound Of The New Breed"
+bpm: '48'
+time_sig: 6/8
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "dance"
-  - "worship"
-  - "urban-gospel"
+  - jesus
+  - dance
+  - worship
+  - urban-gospel
 genre: []
-energy: slow
 profile:
-  - "med-fast-contemp-christian"
-keywords: 
-source: 
-year: 
+  - med-fast-contemp-christian
+keywords: ''
+ccli: '5444199'
+copyright: >-
+  2009 Integrity's Hosanna! Music / Integrity's Praise! Music / New Breed
+  Extended / Ricardo Music Dot Com / Sound Of The New Breed
+source: ''
+year: ''
 medley: []
-id: "11A4462C-99B7-4440-9C9E-AF3CA520CC7A"
+id: 11A4462C-99B7-4440-9C9E-AF3CA520CC7A
 ---
-
 Book: med contemp christian
 Keywords: med fast contemp christian, dance, worship, urban gospel
 

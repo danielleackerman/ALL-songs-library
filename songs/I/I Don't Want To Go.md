@@ -1,23 +1,26 @@
 ---
-title: "I Don't Want To Go"
-artist: "Avalon"
+title: I Don't Want To Go
+artist: Avalon
 key: E
-tempo: 
-time: 
-ccli: "3426597"
-copyright: "2000 New Spring / Jess Cates Music / Dried Rose Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "home"
+  - home
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3426597'
+copyright: 2000 New Spring / Jess Cates Music / Dried Rose Music
+source: ''
+year: ''
 medley: []
-id: "E54D7805-1EEC-4911-A27A-54E39441703D"
+id: E54D7805-1EEC-4911-A27A-54E39441703D
 ---
-
 (Instrumental Intro through Chorus Progression DO NOT SING)
 
 I don’t want to [E]go some[B/D#]where          if I know that [C#m]You’re not th[B]ere

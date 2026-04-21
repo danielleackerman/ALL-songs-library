@@ -1,23 +1,26 @@
 ---
-title: "Children of the Lord Have a Right"
-artist: "Artist Name"
+title: Children of the Lord Have a Right
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "children"
+  - children
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3E6CEAB2-417C-442F-AE2B-DEA69C29118D"
+id: 3E6CEAB2-417C-442F-AE2B-DEA69C29118D
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

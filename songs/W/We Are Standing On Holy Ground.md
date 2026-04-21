@@ -1,33 +1,37 @@
 ---
-title: "We Are Standing On Holy Ground"
-artist: "Bill Gaither / Geron Davis"
+title: We Are Standing On Holy Ground
+artist: Bill Gaither / Geron Davis
 key: C
-tempo: 55
-time: "4/4"
-ccli: 
-copyright: "1983 by Meadowgreen Music Company/Songchannel Music Co, admin. by Capital CMG"
+bpm: '55'
+time_sig: 4/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "presence"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - presence
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: '1983 by Meadowgreen Music Company/Songchannel Music Co, admin. by Capital CMG'
+source: ''
+year: ''
 medley: []
-id: "DB231F7E-D8C9-4560-BD4D-96058E878CDA"
+id: DB231F7E-D8C9-4560-BD4D-96058E878CDA
 ---
-
 VERSE 1:
 [F/G]When I [C]walked through the [G/B]door I [F/A]sensed His [F/G]pre [G]sence
 [G/C]and I [Dm7]knew this was a [F/G]place where love [C]abounds

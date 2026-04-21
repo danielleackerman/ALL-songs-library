@@ -1,23 +1,26 @@
 ---
-title: "I'm in the Lord's Army"
-artist: "Artist Name"
+title: I'm in the Lord's Army
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "army"
+  - army
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "6F5607A2-4C80-4400-A2EE-418E59C05F36"
+id: 6F5607A2-4C80-4400-A2EE-418E59C05F36
 ---
-
 Book: CHILDREN'S
 
 VERSE 1:

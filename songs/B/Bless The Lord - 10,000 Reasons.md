@@ -1,22 +1,25 @@
 ---
-title: "Bless The Lord - 10,000 Reasons"
-artist: "Matthew James Redman / Jonas Carl Gustaf Myrin"
+title: 'Bless The Lord - 10,000 Reasons'
+artist: Matthew James Redman / Jonas Carl Gustaf Myrin
 key: G
-tempo: 
-time: 
-ccli: "6016351"
-copyright: "2011 Thankyou Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6016351'
+copyright: 2011 Thankyou Music
+source: ''
+year: ''
 medley: []
-id: "B808C26A-B6C8-4B47-AA51-9BAA24FE3906"
+id: B808C26A-B6C8-4B47-AA51-9BAA24FE3906
 ---
-
 CHORUS:
 Bless the [C]Lord O my [G]soul, [D/F#]O my so[Em]ul
 [C]Worship His [G]holy [Dsus4]name [D]

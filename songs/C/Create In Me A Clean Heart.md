@@ -1,22 +1,25 @@
 ---
-title: "Create In Me A Clean Heart"
-artist: "Keith Green"
+title: Create In Me A Clean Heart
+artist: Keith Green
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "1984 Last Days Ministries"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 1984 Last Days Ministries
+source: ''
+year: ''
 medley: []
-id: "981107FB-430A-49BB-B2CB-D6DAAF4607DD"
+id: 981107FB-430A-49BB-B2CB-D6DAAF4607DD
 ---
-
 [G]Create in me a [D]Clean Heart, [C]Oh [G]God, And Renew a Right [D]Spirit [D7]within [G]me.[C][G][D7]
 [G]Create in me a [D]Clean Heart, [C]Oh [G]God, And Renew a Right [D]Spirit [D7]within [G]me.[G7]
 

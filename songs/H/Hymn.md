@@ -1,23 +1,26 @@
 ---
-title: "Hymn"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Hymn
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "610F4F81-A6C9-4E5C-8D58-F5F3A76AC749"
+id: 610F4F81-A6C9-4E5C-8D58-F5F3A76AC749
 ---
-
 Author/Artist: Dan Haseltine, Matt Odmark, Steve Mason, Charlie Lowell/Jars of Clay
 Album: Much Afraid
 (c)1997 Bridge Building Music/Pogostick Music (BMI)

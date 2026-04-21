@@ -1,24 +1,27 @@
 ---
-title: "Already Been To The Water"
-artist: "Vicki Winans"
+title: Already Been To The Water
+artist: Vicki Winans
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "witness"
+  - jesus
+  - witness
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Well, I've already been to the water"
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: 'Well, I''ve already been to the water'
+year: ''
 medley: []
-id: "89EA5EE8-DF91-44A8-8859-A2B0146CB8DE"
+id: 89EA5EE8-DF91-44A8-8859-A2B0146CB8DE
 ---
-
 (already been to the water)
 And I've already been baptized
 (already been baptized)

@@ -1,22 +1,25 @@
 ---
-title: "Thy Will"
-artist: "Hillary Scott & The Scott Family"
+title: Thy Will
+artist: Hillary Scott & The Scott Family
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "2016 EKT Publishing, WB Music Corp., Thankful for this Music and Co-Publisher"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: '2016 EKT Publishing, WB Music Corp., Thankful for this Music and Co-Publisher'
+source: ''
+year: ''
 medley: []
-id: "B53570E3-10B5-4CAF-B24C-8D9C16A2C3EA"
+id: B53570E3-10B5-4CAF-B24C-8D9C16A2C3EA
 ---
-
 The basis for the tab is YouTube: https://www.youtube.com/watch?v=PAmh3yvmzXs
 
 INTRO:

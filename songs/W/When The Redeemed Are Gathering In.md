@@ -1,38 +1,42 @@
 ---
-title: "When The Redeemed Are Gathering In"
-artist: "W.H. Dutton, and Johnson Oatman, Jr."
+title: When The Redeemed Are Gathering In
+artist: 'W.H. Dutton, and Johnson Oatman, Jr.'
 key: G
-tempo: 
-time: "4/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 4/4
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "sin"
-  - "sutl"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - sin
+  - sutl
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med, sutl"
-source: "Sing Unto The Lord, 15"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: 'os apo med, sutl'
+ccli: ''
+copyright: ''
+source: 'Sing Unto The Lord, 15'
+year: ''
 medley: []
-id: "91F64BC5-7189-42BA-AD73-B12FEB85AFAF"
+id: 91F64BC5-7189-42BA-AD73-B12FEB85AFAF
 ---
-
 VERSE 1:
 [G]I am thinking of [C/G]the [G]rapture in [G/B]our [C]bless[Am/C]ed home on [G]high,
 When the re[G]deemed (when the redeemed) are gather[C#dim]ing [D]in; (are [A]gathering [D]in;)

@@ -1,22 +1,25 @@
 ---
-title: "Holy Holy"
-artist: "Sis.Dedie Cooley"
+title: Holy Holy
+artist: Sis.Dedie Cooley
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4F0603C1-2045-445A-800C-A77758A705B7"
+id: 4F0603C1-2045-445A-800C-A77758A705B7
 ---
-
 Parts:
 [G]Holy Holy [Gsus]Lord God almighty
 

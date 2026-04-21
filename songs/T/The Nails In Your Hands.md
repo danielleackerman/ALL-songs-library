@@ -1,23 +1,26 @@
 ---
-title: "The Nails In Your Hands"
-artist: "MercyMe"
+title: The Nails In Your Hands
+artist: MercyMe
 key: G
-tempo: 
-time: 
-ccli: "452444"
-copyright: "1995 Holland Davis"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '452444'
+copyright: 1995 Holland Davis
+source: ''
+year: ''
 medley: []
-id: "456E7307-92D6-4AA8-8E95-2299A7BCEAAE"
+id: 456E7307-92D6-4AA8-8E95-2299A7BCEAAE
 ---
-
 [G]the nails in your hands [Bm]the nail in your feet
 they [C2]tell me how much you l[Dsus]ove me
 the [G]thorns on your brow t[Bm]hey tell me how

@@ -1,22 +1,27 @@
 ---
-title: "Only You Remain"
-artist: "MercyMe"
+title: Only You Remain
+artist: MercyMe
 key: F
-tempo: 
-time: 
-ccli: "5760770"
-copyright: "2010 Simpleville Music (Admin. by Simpleville Music, Inc.) Wet As A Fish Music (Admin. by Simpleville Music, Inc.) Sony/ATV Timber Publishing (Admin."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5760770'
+copyright: >-
+  2010 Simpleville Music (Admin. by Simpleville Music, Inc.) Wet As A Fish Music
+  (Admin. by Simpleville Music, Inc.) Sony/ATV Timber Publishing (Admin.
+source: ''
+year: ''
 medley: []
-id: "B1A88895-0FB3-4D47-8585-3759761CB196"
+id: B1A88895-0FB3-4D47-8585-3759761CB196
 ---
-
 Here are the basic chords I've heard from listening to the song:
 
 Note: This song is split into different keys.  The verses are in the key of

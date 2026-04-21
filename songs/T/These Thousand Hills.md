@@ -1,22 +1,25 @@
 ---
-title: "These Thousand Hills"
-artist: "Third Day"
+title: These Thousand Hills
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "788534"
-copyright: "1990 Broken Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Originally Written by Jacob's Trouble"
-year: 
+keywords: ''
+ccli: '788534'
+copyright: 1990 Broken Songs
+source: Originally Written by Jacob's Trouble
+year: ''
 medley: []
-id: "4F69AAE5-CC92-49EF-A7DC-88167150E2BB"
+id: 4F69AAE5-CC92-49EF-A7DC-88167150E2BB
 ---
-
 This is a powerful worship song!  Third Day does some of the best songs. Enjoy!
 
 (Capo 1)

@@ -1,24 +1,27 @@
 ---
-title: "More Love To Thee"
-artist: "Fernando Ortega"
+title: More Love To Thee
+artist: Fernando Ortega
 key: G
-tempo: 
-time: 
-ccli: "36750"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "christ"
+  - love
+  - christ
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '36750'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "EC85FE88-5250-4C46-BA04-2212BC63EC6A"
+id: EC85FE88-5250-4C46-BA04-2212BC63EC6A
 ---
-
 VERSE 1:
 G
 More love to Thee, O Christ,

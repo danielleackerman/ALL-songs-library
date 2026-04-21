@@ -1,25 +1,28 @@
 ---
-title: "Yes, Lord, Yes (I'll Say Yes, Lord, Yes)"
-artist: "written by Lynn Keesecker; popularized by Shirley Caesar"
+title: 'Yes, Lord, Yes (I''ll Say Yes, Lord, Yes)'
+artist: written by Lynn Keesecker; popularized by Shirley Caesar
 key: F
-tempo: 74
-time: "2/2"
-ccli: "12224"
-copyright: "1983 Manna Music, Inc., Admin. ClearBox Rights, LLC"
+bpm: '74'
+time_sig: 2/2
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "commitment"
-  - "obedience"
+  - commitment
+  - obedience
 genre: []
-energy: medium-slow
 profile:
-  - "os-apo-med"
-keywords: "os apo med, commitment, obedience"
-source: 
-year: 
+  - os-apo-med
+keywords: 'os apo med, commitment, obedience'
+ccli: '12224'
+copyright: '1983 Manna Music, Inc., Admin. ClearBox Rights, LLC'
+source: ''
+year: ''
 medley: []
-id: "D61153CF-E224-4C14-8F4B-4114E60D18A7"
+id: D61153CF-E224-4C14-8F4B-4114E60D18A7
 ---
-
 {artist: written by Lynn Keesecker; popularized by Shirley Caesar}
 
 original key F

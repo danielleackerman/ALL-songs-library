@@ -1,23 +1,26 @@
 ---
-title: "My Heavenly"
-artist: "Jars Of Clay"
+title: My Heavenly
+artist: Jars Of Clay
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: "2002 Bridge Building Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: '2002 Bridge Building Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "C9A37AC6-8ACC-46AC-A829-BA6090AE2020"
+id: C9A37AC6-8ACC-46AC-A829-BA6090AE2020
 ---
-
 [F](con[F/E]tinue [F/D]walk dow[C]n over verse)
 
 [C]Let the wind fall across my path[F]

@@ -1,23 +1,26 @@
 ---
-title: "Here I Am, Lord"
-artist: ""
+title: 'Here I Am, Lord'
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4C24382D-7C28-4C46-BA39-DBD4F67BC051"
+id: 4C24382D-7C28-4C46-BA39-DBD4F67BC051
 ---
-
 VERSE 1:
 [Bb/C]Here [C7b9]I [F]am Lord, [D/F#]here I [Gm7]am,   [C7]
 I give [Gm7]all myself to [C7]Thee, [C7b9]here I [FM7]am   [Bb/C]

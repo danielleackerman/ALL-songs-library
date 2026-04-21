@@ -1,24 +1,27 @@
 ---
-title: "Wounds Of Love"
-artist: "Rich Mullins"
+title: Wounds Of Love
+artist: Rich Mullins
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "faith"
+  - love
+  - faith
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D8A18B3F-5642-4A41-8830-9121D86CDBCB"
+id: D8A18B3F-5642-4A41-8830-9121D86CDBCB
 ---
-
 Key:
 
 Wounds of Love

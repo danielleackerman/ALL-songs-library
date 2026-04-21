@@ -1,31 +1,35 @@
 ---
-title: "He Is Here"
-artist: "The Talleys"
+title: He Is Here
+artist: The Talleys
 key: C
-tempo: 
-time: 
-ccli: "468658"
-copyright: "Kirk Talley Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '468658'
+copyright: Kirk Talley Music
+source: ''
+year: ''
 medley: []
-id: "EED9C720-9440-45B6-AC73-0AADD0BF4E2D"
+id: EED9C720-9440-45B6-AC73-0AADD0BF4E2D
 ---
-
 CHORUS:
 
 He is [C]here, [F/C]halle[C]lujah.

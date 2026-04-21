@@ -1,38 +1,42 @@
 ---
-title: "At The Cross"
-artist: ""
+title: At The Cross
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "cross"
-  - "sutl"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - cross
+  - sutl
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "o-s-apo-med"
-keywords: "o. s. apo. med., sutl"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - o-s-apo-med
+keywords: 'o. s. apo. med., sutl'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B009B35C-80CE-418B-ACB9-25BED15019A8"
+id: B009B35C-80CE-418B-ACB9-25BED15019A8
 ---
-
 (Verse:1)
 
 [Ab/Bb]A[Eb]las, and did my Savior bleed, and [Cm]did my [F9]Sov'reign [Bb7]die

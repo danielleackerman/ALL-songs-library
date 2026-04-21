@@ -1,22 +1,25 @@
 ---
-title: "Sunny Days"
-artist: "Jars Of Clay"
+title: Sunny Days
+artist: Jars Of Clay
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B114F2AE-43DA-4164-BF1A-B7AEC48B2FFE"
+id: B114F2AE-43DA-4164-BF1A-B7AEC48B2FFE
 ---
-
 VERSE 1:
 
 Intro:  | G  | D  Em7 |  2x

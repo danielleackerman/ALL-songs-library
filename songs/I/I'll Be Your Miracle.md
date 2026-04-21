@@ -1,22 +1,25 @@
 ---
-title: "I'll Be Your Miracle"
-artist: "Third Day"
+title: I'll Be Your Miracle
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "2010 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2010 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "062B8B9D-4238-4BE8-8EC2-493D6978CB64"
+id: 062B8B9D-4238-4BE8-8EC2-493D6978CB64
 ---
-
 CHORUS:
 A
 When you’re down and you’re falling fast

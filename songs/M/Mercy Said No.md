@@ -1,36 +1,42 @@
 ---
-title: "Mercy Said No"
-artist: "Greg Long / Don Koch / David Allen Clark"
+title: Mercy Said No
+artist: Greg Long / Don Koch / David Allen Clark
 key: C
-tempo: 
-time: 
-ccli: "2601526"
-copyright: "1998 Word Music, LLC / First Verse Music / Dayspring Music, LLC / Definitive Music / Curlin Music / Inferataste Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "mercy"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - mercy
+  - jesus
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '2601526'
+copyright: >-
+  1998 Word Music, LLC / First Verse Music / Dayspring Music, LLC / Definitive
+  Music / Curlin Music / Inferataste Music
+source: ''
+year: ''
 medley: []
-id: "C7B1447F-4D86-42A2-802D-33CA475C386D"
+id: C7B1447F-4D86-42A2-802D-33CA475C386D
 ---
-
 INTRO:
 [C] [F] [G] [Dm] [Fm]
 

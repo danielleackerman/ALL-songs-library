@@ -1,24 +1,27 @@
 ---
-title: "The Only Hope"
-artist: "Bebo Norman"
+title: The Only Hope
+artist: Bebo Norman
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "2008"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "hope"
-  - "life"
+  - hope
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: '2008'
+source: ''
+year: ''
 medley: []
-id: "374CC1C8-39F5-4A36-B45F-313E0831E272"
+id: 374CC1C8-39F5-4A36-B45F-313E0831E272
 ---
-
 Capo 5
 
 Intro: G C G G | G C G G

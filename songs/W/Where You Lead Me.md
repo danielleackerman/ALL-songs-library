@@ -1,23 +1,26 @@
 ---
-title: "Where You Lead Me"
-artist: "MercyMe"
+title: Where You Lead Me
+artist: MercyMe
 key: G
-tempo: 
-time: 
-ccli: "4312095"
-copyright: "2004 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4312095'
+copyright: 2004 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "D5F31A72-AF8D-4EDE-81C4-7A82E07B40A2"
+id: D5F31A72-AF8D-4EDE-81C4-7A82E07B40A2
 ---
-
 [C2]   What is lif[G]e?    [Em]  A th[G/B]ousand roads, a t[C2]housand ways
 And why am I so afra[G]id to move[D][C2]
 [C2]   I crossed the l[G]ine

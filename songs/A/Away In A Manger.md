@@ -1,23 +1,26 @@
 ---
-title: "Away In A Manger"
-artist: "Casting Crowns"
+title: Away In A Manger
+artist: Casting Crowns
 key: Gb
-tempo: 
-time: 
-ccli: "38583"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '38583'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "CD91D621-2A8D-4EF7-8051-EA11BC95DD29"
+id: CD91D621-2A8D-4EF7-8051-EA11BC95DD29
 ---
-
 Time Sig:  3/3
 
 Intro:  ||  F#  |  F#  |  B/F#  |  B/F#  :||

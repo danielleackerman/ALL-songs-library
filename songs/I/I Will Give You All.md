@@ -1,39 +1,43 @@
 ---
-title: "I Will Give You All"
-artist: "Don Moen"
+title: I Will Give You All
+artist: Don Moen
 key: C
-tempo: 54
-time: 
-ccli: 
-copyright: 
+bpm: '54'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "sacrifice"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - sacrifice
 genre: []
-energy: slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[I WILL GIVE YOU ALL]]"
-  - "[[I SURRENDER ALL]]"
-  - "[[JESUS AT THE CENTER]]"
-  - "[[JESUS BE THE LORD OF ALL]]"
-id: "A09A733B-9AB2-4B3D-B095-EC7F02735138"
+  - '[[I WILL GIVE YOU ALL]]'
+  - '[[I SURRENDER ALL]]'
+  - '[[JESUS AT THE CENTER]]'
+  - '[[JESUS BE THE LORD OF ALL]]'
+id: A09A733B-9AB2-4B3D-B095-EC7F02735138
 ---
-
 {bpm: 54}
 {artist: Don Moen}
 

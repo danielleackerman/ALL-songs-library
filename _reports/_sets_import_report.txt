@@ -1,0 +1,3732 @@
+OK: 2013-09-08-Bobs songs.txt
+  title: 2013-09-08 Bobs songs
+  service: Bobs songs
+  date: 2013-09-08
+  songs: 33
+  missing song notes: 4
+OK: 2013-12-15-PM SUNDAY.txt
+  title: 2013-12-15 PM SUNDAY
+  service: PM SUNDAY
+  date: 2013-12-15
+  songs: 4
+OK: 2014-02-02-PM SUNDAY.txt
+  title: 2014-02-02 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-02-02
+  songs: 6
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2014-02-08-PRACTICE SESSION.txt
+  title: 2014-02-08 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2014-02-08
+  songs: 6
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2014-02-15-PM SUNDAY.txt
+  title: 2014-02-15 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-02-15
+  songs: 4
+  missing song notes: 1
+OK: 2014-02-27-PM SUNDAY.txt
+  title: 2014-02-27 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-02-27
+  songs: 7
+OK: 2014-02-27-PM WEDNESDAY.txt
+  title: 2014-02-27 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-02-27
+  songs: 5
+  missing song notes: 1
+OK: 2014-03-02-AM.txt
+  title: 2014-03-02 AM
+  service: AM
+  date: 2014-03-02
+  songs: 0
+OK: 2014-03-07-PM SUNDAY.txt
+  title: 2014-03-07 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-03-07
+  songs: 4
+  missing song notes: 1
+OK: 2014-03-09-ALTAR CALL.txt
+  title: 2014-03-09 ALTAR CALL
+  service: ALTAR CALL
+  date: 2014-03-09
+  songs: 9
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2014-03-09-AM.txt
+  title: 2014-03-09 AM
+  service: AM
+  date: 2014-03-09
+  songs: 5
+OK: 2014-03-09-PM SUNDAY.txt
+  title: 2014-03-09 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-03-09
+  songs: 4
+OK: 2014-03-16-AM.txt
+  title: 2014-03-16 AM
+  service: AM
+  date: 2014-03-16
+  songs: 6
+OK: 2014-03-16-PM SUNDAY.txt
+  title: 2014-03-16 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-03-16
+  songs: 4
+  duplicate titles: 2
+OK: 2014-03-16-PRACTICE SESSION.txt
+  title: 2014-03-16 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2014-03-16
+  songs: 2
+OK: 2014-03-24-ALTAR CALL PM.txt
+  title: 2014-03-24 ALTAR CALL PM
+  service: ALTAR CALL PM
+  date: 2014-03-24
+  songs: 0
+OK: 2014-03-24-PM SUNDAY.txt
+  title: 2014-03-24 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-03-24
+  songs: 4
+OK: 2014-03-27-PM WEDNESDAY.txt
+  title: 2014-03-27 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-03-27
+  songs: 5
+OK: 2014-03-30-PRACTICE SESSION.txt
+  title: 2014-03-30 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2014-03-30
+  songs: 3
+  missing song notes: 2
+OK: 2014-04-06-AM.txt
+  title: 2014-04-06 AM
+  service: AM
+  date: 2014-04-06
+  songs: 5
+  missing song notes: 1
+OK: 2014-05-14-PM WEDNESDAY.txt
+  title: 2014-05-14 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-05-14
+  songs: 6
+OK: 2014-05-18-AM SUNDAY.txt
+  title: 2014-05-18 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-05-18
+  songs: 5
+  missing song notes: 1
+OK: 2014-05-21-PM WEDNESDAY.txt
+  title: 2014-05-21 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-05-21
+  songs: 7
+  missing song notes: 1
+OK: 2014-05-25-AM SUNDAY.txt
+  title: 2014-05-25 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-05-25
+  songs: 10
+  missing song notes: 2
+OK: 2014-05-28-PM WEDNESDAY.txt
+  title: 2014-05-28 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-05-28
+  songs: 5
+OK: 2014-06-01-AM SUNDAY.txt
+  title: 2014-06-01 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-06-01
+  songs: 8
+  missing song notes: 1
+OK: 2014-06-01-PM SUNDAY.txt
+  title: 2014-06-01 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-06-01
+  songs: 13
+OK: 2014-06-08-AM SUNDAY.txt
+  title: 2014-06-08 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-06-08
+  songs: 0
+OK: 2014-06-12-PM WEDNESDAY.txt
+  title: 2014-06-12 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-06-12
+  songs: 6
+OK: 2014-06-15-AM SUNDAY.txt
+  title: 2014-06-15 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-06-15
+  songs: 8
+OK: 2014-06-19-PM WEDS.txt
+  title: 2014-06-19 PM WEDS
+  service: PM WEDS
+  date: 2014-06-19
+  songs: 2
+OK: 2014-06-22-AM SUNDAY.txt
+  title: 2014-06-22 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-06-22
+  songs: 7
+  missing song notes: 1
+OK: 2014-06-22-PM SUNDAY.txt
+  title: 2014-06-22 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-06-22
+  songs: 7
+OK: 2014-06-25-PM WEDNESDAY.txt
+  title: 2014-06-25 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-06-25
+  songs: 6
+OK: 2014-07-06-AM SUNDAY.txt
+  title: 2014-07-06 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-07-06
+  songs: 7
+OK: 2014-07-09-PM WEDNESDAY.txt
+  title: 2014-07-09 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-07-09
+  songs: 10
+  missing song notes: 1
+OK: 2014-07-13-AM SUNDAY.txt
+  title: 2014-07-13 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-07-13
+  songs: 13
+  duplicate titles: 1
+OK: 2014-07-17-PM WEDNESDAY.txt
+  title: 2014-07-17 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-07-17
+  songs: 3
+OK: 2014-07-20-AM SUNDAY.txt
+  title: 2014-07-20 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-07-20
+  songs: 9
+  missing song notes: 2
+OK: 2014-07-20-PM SUNDAY.txt
+  title: 2014-07-20 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-07-20
+  songs: 11
+  missing song notes: 1
+OK: 2014-07-27-AM SUNDAY.txt
+  title: 2014-07-27 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-07-27
+  songs: 5
+OK: 2014-07-27-PM SUNDAY.txt
+  title: 2014-07-27 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-07-27
+  songs: 4
+OK: 2014-07-30-PM WDNESDAY.txt
+  title: 2014-07-30 PM WDNESDAY
+  service: PM WDNESDAY
+  date: 2014-07-30
+  songs: 0
+OK: 2014-07-30-PM WEDNESDAY.txt
+  title: 2014-07-30 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-07-30
+  songs: 6
+OK: 2014-08-03-AM SUNDAY.txt
+  title: 2014-08-03 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-08-03
+  songs: 6
+OK: 2014-08-10-AM SUNDAY.txt
+  title: 2014-08-10 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-08-10
+  songs: 6
+  missing song notes: 1
+OK: 2014-08-10-PM SUNDAY.txt
+  title: 2014-08-10 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-08-10
+  songs: 2
+OK: 2014-08-24-Cooley Choruses.txt
+  title: 2014-08-24 Cooley Choruses
+  service: Cooley Choruses
+  date: 2014-08-24
+  songs: 15
+  missing song notes: 14
+OK: 2014-08-31-PM SUNDAY.txt
+  title: 2014-08-31 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-08-31
+  songs: 3
+OK: 2014-09-05-EASY SONGS.txt
+  title: 2014-09-05 EASY SONGS
+  service: EASY SONGS
+  date: 2014-09-05
+  songs: 24
+  missing song notes: 2
+OK: 2014-09-07-PRACTICE SESSION.txt
+  title: 2014-09-07 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2014-09-07
+  songs: 5
+  missing song notes: 3
+OK: 2014-09-14-AM SUNDAY.txt
+  title: 2014-09-14 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-09-14
+  songs: 8
+  missing song notes: 2
+OK: 2014-09-14-PM SUNDAY.txt
+  title: 2014-09-14 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-09-14
+  songs: 8
+  missing song notes: 1
+OK: 2014-09-15-AM SUNDAY.txt
+  title: 2014-09-15 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-09-15
+  songs: 9
+OK: 2014-09-17--PM WEDNESDAY.txt
+  title: 2014-09-17 -PM WEDNESDAY
+  service: -PM WEDNESDAY
+  date: 2014-09-17
+  songs: 11
+  missing song notes: 2
+OK: 2014-09-17-AM SUNDAY.txt
+  title: 2014-09-17 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-09-17
+  songs: 11
+  missing song notes: 3
+OK: 2014-09-17-Untitled Set.txt
+  title: 2014-09-17 Untitled Set
+  service: Untitled Set
+  date: 2014-09-17
+  songs: 0
+OK: 2014-09-21-AM SUNDAY.txt
+  title: 2014-09-21 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-09-21
+  songs: 8
+OK: 2014-09-21-PM SUNDAY.txt
+  title: 2014-09-21 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-09-21
+  songs: 6
+OK: 2014-09-24-PM WEDNESDAY.txt
+  title: 2014-09-24 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-09-24
+  songs: 5
+OK: 2014-09-28-AM SUNDAY.txt
+  title: 2014-09-28 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-09-28
+  songs: 9
+  duplicate titles: 1
+OK: 2014-09-28-PM SUNDAY.txt
+  title: 2014-09-28 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-09-28
+  songs: 15
+  missing song notes: 1
+OK: 2014-09-30-AM SUNDAY.txt
+  title: 2014-09-30 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-09-30
+  songs: 6
+  missing song notes: 1
+OK: 2014-09-30-PM SUNDAY.txt
+  title: 2014-09-30 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-09-30
+  songs: 2
+OK: 2014-09-30-PM WEDNESDAY.txt
+  title: 2014-09-30 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-09-30
+  songs: 8
+  duplicate titles: 1
+OK: 2014-09-30-Untitled Set.txt
+  title: 2014-09-30 Untitled Set
+  service: Untitled Set
+  date: 2014-09-30
+  songs: 0
+OK: 2014-10-01-MY SET.txt
+  title: 2014-10-01 MY SET
+  service: MY SET
+  date: 2014-10-01
+  songs: 6
+OK: 2014-10-01-PM WEDNESDAY.txt
+  title: 2014-10-01 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-10-01
+  songs: 7
+OK: 2014-10-02-MY SET.txt
+  title: 2014-10-02 MY SET
+  service: MY SET
+  date: 2014-10-02
+  songs: 6
+  duplicate titles: 1
+OK: 2014-10-05-AM SUNDAY.txt
+  title: 2014-10-05 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-10-05
+  songs: 6
+  missing song notes: 1
+OK: 2014-10-05-PM SUNDAY.txt
+  title: 2014-10-05 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-10-05
+  songs: 15
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2014-10-08-PM WEDNESDAY.txt
+  title: 2014-10-08 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-10-08
+  songs: 7
+OK: 2014-10-12-AM SUNDAY.txt
+  title: 2014-10-12 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-10-12
+  songs: 7
+  missing song notes: 1
+OK: 2014-10-13-AM SUNDAY.txt
+  title: 2014-10-13 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-10-13
+  songs: 7
+OK: 2014-10-14-MY SET.txt
+  title: 2014-10-14 MY SET
+  service: MY SET
+  date: 2014-10-14
+  songs: 7
+OK: 2014-10-15-PM WEDNESDAY.txt
+  title: 2014-10-15 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-10-15
+  songs: 8
+OK: 2014-10-17-MY SET.txt
+  title: 2014-10-17 MY SET
+  service: MY SET
+  date: 2014-10-17
+  songs: 3
+OK: 2014-10-19-AM SUNDAY.txt
+  title: 2014-10-19 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-10-19
+  songs: 9
+  missing song notes: 1
+OK: 2014-10-19-PM SUNDAY.txt
+  title: 2014-10-19 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-10-19
+  songs: 4
+  missing song notes: 1
+OK: 2014-10-22-PM WEDNESDAY.txt
+  title: 2014-10-22 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-10-22
+  songs: 8
+  missing song notes: 1
+OK: 2014-10-24-PM FRIDAY.txt
+  title: 2014-10-24 PM FRIDAY
+  service: PM FRIDAY
+  date: 2014-10-24
+  songs: 5
+OK: 2014-10-26-AM SUNDAY.txt
+  title: 2014-10-26 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-10-26
+  songs: 9
+  missing song notes: 3
+OK: 2014-10-26-PM SUNDAY.txt
+  title: 2014-10-26 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-10-26
+  songs: 6
+  missing song notes: 1
+OK: 2014-10-29-PM WEDNESDAY.txt
+  title: 2014-10-29 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-10-29
+  songs: 8
+  missing song notes: 1
+OK: 2014-11-02-AM SUNDAY.txt
+  title: 2014-11-02 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-11-02
+  songs: 7
+OK: 2014-11-03-PM SUNDAY.txt
+  title: 2014-11-03 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-11-03
+  songs: 11
+OK: 2014-11-05-MY SET 11-5-14.txt
+  title: 2014-11-05 MY SET 11-5-14
+  service: MY SET 11-5-14
+  date: 2014-11-05
+  songs: 7
+  missing song notes: 1
+OK: 2014-11-09-MY SET 11-9-14 PM.txt
+  title: 2014-11-09 MY SET 11-9-14 PM
+  service: MY SET 11-9-14 PM
+  date: 2014-11-09
+  songs: 5
+  missing song notes: 1
+OK: 2014-11-09-MY SET 11-9-14.txt
+  title: 2014-11-09 MY SET 11-9-14
+  service: MY SET 11-9-14
+  date: 2014-11-09
+  songs: 4
+OK: 2014-11-12-MY SET 11-12-14.txt
+  title: 2014-11-12 MY SET 11-12-14
+  service: MY SET 11-12-14
+  date: 2014-11-12
+  songs: 7
+OK: 2014-11-16-MY SET 11-16-14 AM.txt
+  title: 2014-11-16 MY SET 11-16-14 AM
+  service: MY SET 11-16-14 AM
+  date: 2014-11-16
+  songs: 6
+  missing song notes: 1
+OK: 2014-11-19-PM WEDNESDAY.txt
+  title: 2014-11-19 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-11-19
+  songs: 8
+OK: 2014-11-23-AM SUNDAY.txt
+  title: 2014-11-23 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-11-23
+  songs: 8
+  missing song notes: 1
+OK: 2014-11-24-PM SUNDAY.txt
+  title: 2014-11-24 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-11-24
+  songs: 16
+OK: 2014-11-30-AM SUNDAY.txt
+  title: 2014-11-30 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-11-30
+  songs: 9
+  missing song notes: 1
+OK: 2014-11-30-PM SUNDAY.txt
+  title: 2014-11-30 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-11-30
+  songs: 9
+  missing song notes: 1
+OK: 2014-12-01-AM SUNDAY.txt
+  title: 2014-12-01 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-12-01
+  songs: 7
+OK: 2014-12-03-PM WEDNESDAY.txt
+  title: 2014-12-03 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-12-03
+  songs: 4
+OK: 2014-12-07-AM SUNDAY.txt
+  title: 2014-12-07 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-12-07
+  songs: 11
+  missing song notes: 1
+OK: 2014-12-07-PM SUNDAY.txt
+  title: 2014-12-07 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-12-07
+  songs: 8
+OK: 2014-12-10-PM WEDNESDAY.txt
+  title: 2014-12-10 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-12-10
+  songs: 14
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2014-12-14-AM SUNDAY.txt
+  title: 2014-12-14 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-12-14
+  songs: 12
+  missing song notes: 4
+OK: 2014-12-14-PM SUNDAY.txt
+  title: 2014-12-14 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-12-14
+  songs: 3
+OK: 2014-12-14-Untitled Set.txt
+  title: 2014-12-14 Untitled Set
+  service: Untitled Set
+  date: 2014-12-14
+  songs: 0
+OK: 2014-12-17-PM WEDNESDAY.txt
+  title: 2014-12-17 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2014-12-17
+  songs: 8
+  missing song notes: 1
+OK: 2014-12-17-PRACTICE SESSION.txt
+  title: 2014-12-17 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2014-12-17
+  songs: 14
+  missing song notes: 3
+  duplicate titles: 2
+OK: 2014-12-21-AM SUNDAY.txt
+  title: 2014-12-21 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-12-21
+  songs: 7
+  missing song notes: 1
+OK: 2014-12-22-PM SUNDAY.txt
+  title: 2014-12-22 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-12-22
+  songs: 8
+OK: 2014-12-28-AM SUNDAY.txt
+  title: 2014-12-28 AM SUNDAY
+  service: AM SUNDAY
+  date: 2014-12-28
+  songs: 8
+  missing song notes: 1
+OK: 2014-12-28-PM SUNDAY.txt
+  title: 2014-12-28 PM SUNDAY
+  service: PM SUNDAY
+  date: 2014-12-28
+  songs: 11
+  missing song notes: 1
+OK: 2015-01-04-AM SUNDAY.txt
+  title: 2015-01-04 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-01-04
+  songs: 8
+  missing song notes: 1
+OK: 2015-01-04-PM SUNDAY.txt
+  title: 2015-01-04 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-01-04
+  songs: 14
+OK: 2015-01-07-PM WEDNESDAY.txt
+  title: 2015-01-07 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-01-07
+  songs: 4
+OK: 2015-01-09-I love you Lord we exalt thee.txt
+  title: 2015-01-09 I love you Lord/ we exalt thee
+  service: I love you Lord/ we exalt thee
+  date: 2015-01-09
+  songs: 3
+  duplicate titles: 1
+OK: 2015-01-09-I will enter his gates- upbeat.txt
+  title: 2015-01-09 I will enter his gates- upbeat
+  service: I will enter his gates- upbeat
+  date: 2015-01-09
+  songs: 5
+  missing song notes: 1
+OK: 2015-01-10-I know God is a good god.txt
+  title: 2015-01-10 I know God is a good god
+  service: I know God is a good god
+  date: 2015-01-10
+  songs: 3
+  missing song notes: 1
+OK: 2015-01-11-AM SUNDAY.txt
+  title: 2015-01-11 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-01-11
+  songs: 11
+  missing song notes: 5
+  duplicate titles: 1
+OK: 2015-01-25-AM SUNDAY.txt
+  title: 2015-01-25 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-01-25
+  songs: 12
+  missing song notes: 3
+  duplicate titles: 2
+OK: 2015-01-25-PRACTICE SESSION.txt
+  title: 2015-01-25 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2015-01-25
+  songs: 4
+  missing song notes: 1
+OK: 2015-01-26-PM SUNDAY.txt
+  title: 2015-01-26 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-01-26
+  songs: 16
+  missing song notes: 2
+OK: 2015-01-28-PM WEDNESDAY.txt
+  title: 2015-01-28 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-01-28
+  songs: 7
+OK: 2015-02-01-AM SUNDAY.txt
+  title: 2015-02-01 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-02-01
+  songs: 14
+  missing song notes: 3
+  duplicate titles: 1
+OK: 2015-02-04-PM WEDNESDAY.txt
+  title: 2015-02-04 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-02-04
+  songs: 7
+  missing song notes: 1
+OK: 2015-02-08-AM SUNDAY.txt
+  title: 2015-02-08 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-02-08
+  songs: 8
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2015-02-09-PM SUNDAY.txt
+  title: 2015-02-09 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-02-09
+  songs: 11
+OK: 2015-02-15-PM SUNDAY.txt
+  title: 2015-02-15 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-02-15
+  songs: 8
+OK: 2015-02-18-PM WEDNESDAY.txt
+  title: 2015-02-18 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-02-18
+  songs: 8
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2015-02-22-AM SUNDAY.txt
+  title: 2015-02-22 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-02-22
+  songs: 7
+  missing song notes: 1
+OK: 2015-02-23-PM SUNDAY.txt
+  title: 2015-02-23 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-02-23
+  songs: 6
+OK: 2015-03-01-AM SUNDAY.txt
+  title: 2015-03-01 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-03-01
+  songs: 7
+OK: 2015-03-04-PM WEDNESDAY.txt
+  title: 2015-03-04 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-03-04
+  songs: 11
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2015-03-08-AM SUNDAY.txt
+  title: 2015-03-08 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-03-08
+  songs: 8
+  missing song notes: 2
+OK: 2015-03-08-PRACTICE SESSION.txt
+  title: 2015-03-08 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2015-03-08
+  songs: 4
+  missing song notes: 1
+OK: 2015-03-09-PM SUNDAY.txt
+  title: 2015-03-09 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-03-09
+  songs: 12
+  missing song notes: 2
+OK: 2015-03-11-PM WEDNESDAY.txt
+  title: 2015-03-11 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-03-11
+  songs: 10
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2015-03-15-AM SUNDAY.txt
+  title: 2015-03-15 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-03-15
+  songs: 8
+  missing song notes: 2
+OK: 2015-03-18-PM WEDNESDAY.txt
+  title: 2015-03-18 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-03-18
+  songs: 9
+OK: 2015-03-22-AM SUNDAY.txt
+  title: 2015-03-22 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-03-22
+  songs: 15
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2015-03-22-PM SUNDAY.txt
+  title: 2015-03-22 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-03-22
+  songs: 11
+  missing song notes: 1
+OK: 2015-03-25-PM WEDNESDAY.txt
+  title: 2015-03-25 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-03-25
+  songs: 9
+OK: 2015-03-27-Sunday Night Blowout.txt
+  title: 2015-03-27 Sunday Night Blowout
+  service: Sunday Night Blowout
+  date: 2015-03-27
+  songs: 11
+  missing song notes: 1
+OK: 2015-03-29-AM SUNDAY.txt
+  title: 2015-03-29 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-03-29
+  songs: 10
+  duplicate titles: 1
+OK: 2015-03-29-PM SUNDAY.txt
+  title: 2015-03-29 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-03-29
+  songs: 11
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2015-04-05-AM SUNDAY.txt
+  title: 2015-04-05 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-04-05
+  songs: 8
+  missing song notes: 1
+OK: 2015-04-08-PM WEDNESDAY.txt
+  title: 2015-04-08 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-04-08
+  songs: 7
+OK: 2015-04-12-Am SUNDAY.txt
+  title: 2015-04-12 Am SUNDAY
+  service: Am SUNDAY
+  date: 2015-04-12
+  songs: 9
+  missing song notes: 3
+OK: 2015-04-12-PRACTICE SESSION.txt
+  title: 2015-04-12 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2015-04-12
+  songs: 9
+  missing song notes: 1
+  duplicate titles: 2
+OK: 2015-04-14-PM SUNDAY.txt
+  title: 2015-04-14 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-04-14
+  songs: 7
+  missing song notes: 1
+OK: 2015-04-15-PM WEDNESDAY.txt
+  title: 2015-04-15 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-04-15
+  songs: 8
+  duplicate titles: 1
+OK: 2015-04-19-AM SUNDAY.txt
+  title: 2015-04-19 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-04-19
+  songs: 10
+  missing song notes: 1
+  duplicate titles: 2
+OK: 2015-04-19-PM SUNDAY.txt
+  title: 2015-04-19 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-04-19
+  songs: 8
+  duplicate titles: 1
+OK: 2015-04-19-PM WEDNESDAY.txt
+  title: 2015-04-19 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-04-19
+  songs: 7
+OK: 2015-04-26-AM SUNDAY.txt
+  title: 2015-04-26 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-04-26
+  songs: 15
+  missing song notes: 1
+  duplicate titles: 3
+OK: 2015-04-26-PRACTICE SESSION.txt
+  title: 2015-04-26 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2015-04-26
+  songs: 7
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2015-05-01-AM SUNDAY.txt
+  title: 2015-05-01 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-05-01
+  songs: 9
+  duplicate titles: 1
+OK: 2015-05-01-PM SUNDAY.txt
+  title: 2015-05-01 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-05-01
+  songs: 9
+  missing song notes: 1
+OK: 2015-05-03-AM SUNDAY.txt
+  title: 2015-05-03 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-05-03
+  songs: 7
+  duplicate titles: 1
+OK: 2015-05-10-AM SUNDAY.txt
+  title: 2015-05-10 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-05-10
+  songs: 6
+  missing song notes: 1
+OK: 2015-05-13-PM WEDNESDAY.txt
+  title: 2015-05-13 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-05-13
+  songs: 5
+OK: 2015-05-17-AM SUNDAY.txt
+  title: 2015-05-17 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-05-17
+  songs: 12
+  duplicate titles: 1
+OK: 2015-05-17-PM SUNDAY.txt
+  title: 2015-05-17 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-05-17
+  songs: 13
+  duplicate titles: 1
+OK: 2015-05-20-PM WEDNESDAY.txt
+  title: 2015-05-20 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-05-20
+  songs: 7
+  duplicate titles: 1
+OK: 2015-05-24-AM SUNDAY.txt
+  title: 2015-05-24 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-05-24
+  songs: 12
+OK: 2015-05-26-PM SUNDAY.txt
+  title: 2015-05-26 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-05-26
+  songs: 6
+OK: 2015-05-30-PM WEDNESDAY.txt
+  title: 2015-05-30 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-05-30
+  songs: 8
+  missing song notes: 1
+OK: 2015-05-31-AM SUNDAY.txt
+  title: 2015-05-31 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-05-31
+  songs: 15
+  missing song notes: 2
+OK: 2015-06-01-PM SUNDAY.txt
+  title: 2015-06-01 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-06-01
+  songs: 15
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2015-06-07-AM SUNDAY.txt
+  title: 2015-06-07 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-06-07
+  songs: 14
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2015-06-13-PM WEDNESDAY.txt
+  title: 2015-06-13 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-06-13
+  songs: 9
+  duplicate titles: 1
+OK: 2015-06-14-AM SUNDAY.txt
+  title: 2015-06-14 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-06-14
+  songs: 8
+OK: 2015-06-15-PM WEDNESDAY.txt
+  title: 2015-06-15 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-06-15
+  songs: 9
+  duplicate titles: 1
+OK: 2015-06-21-AM SUNDAY.txt
+  title: 2015-06-21 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-06-21
+  songs: 9
+OK: 2015-06-21-PM WEDNESDAY.txt
+  title: 2015-06-21 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-06-21
+  songs: 10
+  missing song notes: 1
+OK: 2015-06-24-PM WEDNESDAY.txt
+  title: 2015-06-24 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-06-24
+  songs: 10
+OK: 2015-06-28-AM SUNDAY.txt
+  title: 2015-06-28 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-06-28
+  songs: 16
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2015-06-28-PM SUNDAY.txt
+  title: 2015-06-28 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-06-28
+  songs: 11
+OK: 2015-07-05-AM SUNDAY.txt
+  title: 2015-07-05 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-07-05
+  songs: 12
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2015-07-12-AM SUNDAY.txt
+  title: 2015-07-12 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-07-12
+  songs: 5
+OK: 2015-07-14-PM WEDNESDAY.txt
+  title: 2015-07-14 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-07-14
+  songs: 7
+OK: 2015-07-19-AM SUNDAY.txt
+  title: 2015-07-19 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-07-19
+  songs: 10
+  missing song notes: 3
+OK: 2015-07-26-AM SUNDAY.txt
+  title: 2015-07-26 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-07-26
+  songs: 10
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2015-07-26-MY SET 7-26-15.txt
+  title: 2015-07-26 MY SET 7-26-15
+  service: MY SET 7-26-15
+  date: 2015-07-26
+  songs: 10
+OK: 2015-07-26-PM SUNDAY.txt
+  title: 2015-07-26 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-07-26
+  songs: 12
+OK: 2015-08-08-PM WEDS.txt
+  title: 2015-08-08 PM WEDS
+  service: PM WEDS
+  date: 2015-08-08
+  songs: 7
+OK: 2015-08-09-AM SUNDAY.txt
+  title: 2015-08-09 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-08-09
+  songs: 0
+OK: 2015-08-12-MY SET- 81115.txt
+  title: 2015-08-12 MY SET- 8/11/15
+  service: MY SET- 8/11/15
+  date: 2015-08-12
+  songs: 8
+  duplicate titles: 1
+OK: 2015-08-16-AM SUNDAY.txt
+  title: 2015-08-16 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-08-16
+  songs: 8
+  missing song notes: 1
+OK: 2015-08-23-AM SUNDAY.txt
+  title: 2015-08-23 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-08-23
+  songs: 14
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2015-08-26-PM WEDNESDAY.txt
+  title: 2015-08-26 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-08-26
+  songs: 8
+OK: 2015-08-30-AM SUNDAY.txt
+  title: 2015-08-30 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-08-30
+  songs: 8
+  missing song notes: 1
+OK: 2015-08-31-PM SUNDAY.txt
+  title: 2015-08-31 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-08-31
+  songs: 11
+OK: 2015-09-02-PM WEDNESDAY.txt
+  title: 2015-09-02 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-09-02
+  songs: 7
+  missing song notes: 1
+OK: 2015-09-06-MY SET 962015.txt
+  title: 2015-09-06 MY SET 9/6/2015
+  service: MY SET 9/6/2015
+  date: 2015-09-06
+  songs: 10
+  duplicate titles: 1
+OK: 2015-09-13-AM SUNDAY.txt
+  title: 2015-09-13 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-09-13
+  songs: 6
+OK: 2015-09-20-AM SUNDAY.txt
+  title: 2015-09-20 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-09-20
+  songs: 12
+  missing song notes: 2
+OK: 2015-09-20-PM SUNDAY.txt
+  title: 2015-09-20 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-09-20
+  songs: 11
+OK: 2015-09-20-PM WEDNESDAY.txt
+  title: 2015-09-20 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-09-20
+  songs: 7
+OK: 2015-09-20-Untitled Set.txt
+  title: 2015-09-20 Untitled Set
+  service: Untitled Set
+  date: 2015-09-20
+  songs: 0
+OK: 2015-09-24-PM WEDNESDAY.txt
+  title: 2015-09-24 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-09-24
+  songs: 5
+OK: 2015-09-27-AM SUNDAY.txt
+  title: 2015-09-27 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-09-27
+  songs: 7
+  missing song notes: 2
+OK: 2015-09-27-PM SUNDAY.txt
+  title: 2015-09-27 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-09-27
+  songs: 13
+  duplicate titles: 1
+OK: 2015-10-03-PM WEDNESDAY.txt
+  title: 2015-10-03 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-10-03
+  songs: 9
+  missing song notes: 1
+OK: 2015-10-04-AM SUNDAY.txt
+  title: 2015-10-04 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-10-04
+  songs: 6
+  duplicate titles: 2
+OK: 2015-10-06-PRACTICE SESSION.txt
+  title: 2015-10-06 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2015-10-06
+  songs: 8
+  missing song notes: 1
+OK: 2015-10-11-AM SUNDAY.txt
+  title: 2015-10-11 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-10-11
+  songs: 12
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2015-10-12-PM SUNDAY.txt
+  title: 2015-10-12 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-10-12
+  songs: 14
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2015-10-15-PM WEDNESDAY.txt
+  title: 2015-10-15 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-10-15
+  songs: 14
+  duplicate titles: 1
+OK: 2015-10-18-AM SUNDAY.txt
+  title: 2015-10-18 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-10-18
+  songs: 14
+  duplicate titles: 1
+OK: 2015-10-19-PM SUNDAY.txt
+  title: 2015-10-19 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-10-19
+  songs: 11
+  duplicate titles: 1
+OK: 2015-10-25-AM SUNDAY.txt
+  title: 2015-10-25 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-10-25
+  songs: 20
+  missing song notes: 4
+  duplicate titles: 2
+OK: 2015-10-29-PM SUNDAY.txt
+  title: 2015-10-29 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-10-29
+  songs: 7
+  missing song notes: 1
+OK: 2015-10-29-PM WEDNESDAY.txt
+  title: 2015-10-29 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-10-29
+  songs: 4
+OK: 2015-11-01-AM SUNDAY.txt
+  title: 2015-11-01 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-11-01
+  songs: 10
+OK: 2015-11-08-AM SUNDAY.txt
+  title: 2015-11-08 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-11-08
+  songs: 7
+  missing song notes: 1
+OK: 2015-11-08-PM SUNDAY.txt
+  title: 2015-11-08 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-11-08
+  songs: 15
+  missing song notes: 1
+OK: 2015-11-08-PM WEDNESDAY.txt
+  title: 2015-11-08 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-11-08
+  songs: 5
+OK: 2015-11-12-PM WEDNESDAY.txt
+  title: 2015-11-12 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-11-12
+  songs: 4
+OK: 2015-11-15-AM SUNDAY.txt
+  title: 2015-11-15 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-11-15
+  songs: 11
+  missing song notes: 2
+OK: 2015-11-17-PM SUNDAY.txt
+  title: 2015-11-17 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-11-17
+  songs: 11
+  missing song notes: 1
+OK: 2015-11-22-AM SUNDAY.txt
+  title: 2015-11-22 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-11-22
+  songs: 17
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2015-11-24-PM WEDNESDAY.txt
+  title: 2015-11-24 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-11-24
+  songs: 12
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2015-11-25-PM SUNDAY.txt
+  title: 2015-11-25 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-11-25
+  songs: 12
+  duplicate titles: 2
+OK: 2015-11-29-AM SUNDAY.txt
+  title: 2015-11-29 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-11-29
+  songs: 8
+  missing song notes: 1
+OK: 2015-12-02-PM WEDNESDAY.txt
+  title: 2015-12-02 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-12-02
+  songs: 7
+OK: 2015-12-06-AM SUNDAY.txt
+  title: 2015-12-06 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-12-06
+  songs: 11
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2015-12-10-PM WEDNESDAY.txt
+  title: 2015-12-10 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-12-10
+  songs: 7
+OK: 2015-12-13-AM SUNDAY.txt
+  title: 2015-12-13 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-12-13
+  songs: 12
+  missing song notes: 2
+OK: 2015-12-14-PM SUNDAY.txt
+  title: 2015-12-14 PM SUNDAY
+  service: PM SUNDAY
+  date: 2015-12-14
+  songs: 7
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2015-12-16-PM WEDNESDAY.txt
+  title: 2015-12-16 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2015-12-16
+  songs: 8
+OK: 2015-12-20-AM SUNDAY.txt
+  title: 2015-12-20 AM SUNDAY
+  service: AM SUNDAY
+  date: 2015-12-20
+  songs: 8
+  missing song notes: 1
+OK: 2015-12-26-MY SET -122715.txt
+  title: 2015-12-26 MY SET -12/27/15
+  service: MY SET -12/27/15
+  date: 2015-12-26
+  songs: 13
+  duplicate titles: 1
+OK: 2015-12-30-MY SET 123015.txt
+  title: 2015-12-30 MY SET 12/30/15
+  service: MY SET 12/30/15
+  date: 2015-12-30
+  songs: 11
+OK: 2016-01-03-AM SUNDAY.txt
+  title: 2016-01-03 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-01-03
+  songs: 11
+  missing song notes: 2
+OK: 2016-01-03-PM SINDAY.txt
+  title: 2016-01-03 PM SINDAY
+  service: PM SINDAY
+  date: 2016-01-03
+  songs: 6
+  missing song notes: 4
+OK: 2016-01-06-Songbook songs.txt
+  title: 2016-01-06 Songbook songs
+  service: Songbook songs
+  date: 2016-01-06
+  songs: 26
+  missing song notes: 2
+  duplicate titles: 3
+OK: 2016-01-10-A,.txt
+  title: 2016-01-10 A,
+  service: A,
+  date: 2016-01-10
+  songs: 0
+OK: 2016-01-10-AM SUNDAY.txt
+  title: 2016-01-10 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-01-10
+  songs: 8
+  missing song notes: 3
+OK: 2016-01-11-PM SUNDAY.txt
+  title: 2016-01-11 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-01-11
+  songs: 7
+  duplicate titles: 1
+OK: 2016-01-14-AM SUNDAY.txt
+  title: 2016-01-14 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-01-14
+  songs: 7
+  duplicate titles: 1
+OK: 2016-01-17-AM SUNDAY.txt
+  title: 2016-01-17 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-01-17
+  songs: 13
+  missing song notes: 1
+OK: 2016-01-18-PM SUNDAY.txt
+  title: 2016-01-18 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-01-18
+  songs: 8
+  missing song notes: 1
+OK: 2016-01-21-PM WEDNESDAY.txt
+  title: 2016-01-21 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2016-01-21
+  songs: 11
+  missing song notes: 1
+OK: 2016-01-24-AM SUNDAY.txt
+  title: 2016-01-24 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-01-24
+  songs: 12
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2016-01-24-PRACTICE SESSIONS.txt
+  title: 2016-01-24 PRACTICE SESSIONS
+  service: PRACTICE SESSIONS
+  date: 2016-01-24
+  songs: 20
+  missing song notes: 3
+OK: 2016-01-25-PM SUNDAY.txt
+  title: 2016-01-25 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-01-25
+  songs: 9
+OK: 2016-01-31-AM SUNDAY.txt
+  title: 2016-01-31 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-01-31
+  songs: 10
+  missing song notes: 2
+OK: 2016-02-04-PM WEDNESDAY.txt
+  title: 2016-02-04 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2016-02-04
+  songs: 10
+OK: 2016-02-07-AM SUNDAY.txt
+  title: 2016-02-07 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-02-07
+  songs: 10
+  duplicate titles: 1
+OK: 2016-02-07-PM SUNDAY.txt
+  title: 2016-02-07 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-02-07
+  songs: 15
+  missing song notes: 1
+OK: 2016-02-14-AM SUNDAY.txt
+  title: 2016-02-14 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-02-14
+  songs: 5
+OK: 2016-02-17-PM WEDNESDAY.txt
+  title: 2016-02-17 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2016-02-17
+  songs: 12
+  duplicate titles: 1
+OK: 2016-02-21-AM SUNDAY.txt
+  title: 2016-02-21 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-02-21
+  songs: 11
+  missing song notes: 1
+OK: 2016-02-21-PM SUNDAY.txt
+  title: 2016-02-21 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-02-21
+  songs: 17
+  duplicate titles: 2
+OK: 2016-02-25-PM WEDNESDAY.txt
+  title: 2016-02-25 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2016-02-25
+  songs: 5
+OK: 2016-03-02-PM WEDNESDAY.txt
+  title: 2016-03-02 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2016-03-02
+  songs: 10
+  missing song notes: 1
+OK: 2016-03-03-AM SUNDAY.txt
+  title: 2016-03-03 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-03-03
+  songs: 6
+OK: 2016-03-03-PM WEDNESDAY.txt
+  title: 2016-03-03 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2016-03-03
+  songs: 10
+  missing song notes: 2
+OK: 2016-03-09-MY SET 3916.txt
+  title: 2016-03-09 MY SET 3/9/16
+  service: MY SET 3/9/16
+  date: 2016-03-09
+  songs: 17
+  missing song notes: 1
+  duplicate titles: 2
+OK: 2016-03-13-AM SUNDAY.txt
+  title: 2016-03-13 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-03-13
+  songs: 9
+  duplicate titles: 1
+OK: 2016-03-14-PM SUNDAY.txt
+  title: 2016-03-14 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-03-14
+  songs: 13
+  duplicate titles: 1
+OK: 2016-04-13-PM WEDNESDAY.txt
+  title: 2016-04-13 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2016-04-13
+  songs: 9
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2016-04-17-AM SUNDAY.txt
+  title: 2016-04-17 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-04-17
+  songs: 19
+  missing song notes: 2
+OK: 2016-04-18-Youth Friday Night.txt
+  title: 2016-04-18 Youth Friday Night
+  service: Youth Friday Night
+  date: 2016-04-18
+  songs: 9
+  missing song notes: 1
+OK: 2016-04-18-Youth Saturday Afternoon.txt
+  title: 2016-04-18 Youth Saturday Afternoon
+  service: Youth Saturday Afternoon
+  date: 2016-04-18
+  songs: 11
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2016-04-22-PM THURSDAY.txt
+  title: 2016-04-22 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-04-22
+  songs: 28
+  missing song notes: 4
+  duplicate titles: 3
+OK: 2016-04-24-AM SUNDAY.txt
+  title: 2016-04-24 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-04-24
+  songs: 12
+  missing song notes: 1
+OK: 2016-04-28-PM THURSDAY.txt
+  title: 2016-04-28 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-04-28
+  songs: 10
+OK: 2016-05-01-AM SUNDAY.txt
+  title: 2016-05-01 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-05-01
+  songs: 15
+  missing song notes: 2
+OK: 2016-05-05-MY SET.txt
+  title: 2016-05-05 MY SET
+  service: MY SET
+  date: 2016-05-05
+  songs: 10
+  duplicate titles: 1
+OK: 2016-05-08-AM SUNDAY.txt
+  title: 2016-05-08 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-05-08
+  songs: 12
+  missing song notes: 3
+OK: 2016-05-12-MY SET 51216.txt
+  title: 2016-05-12 MY SET 5/12/16
+  service: MY SET 5/12/16
+  date: 2016-05-12
+  songs: 6
+  missing song notes: 1
+OK: 2016-05-15-AM SUNDAY.txt
+  title: 2016-05-15 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-05-15
+  songs: 7
+  missing song notes: 1
+OK: 2016-05-19-PM THURSDAY.txt
+  title: 2016-05-19 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-05-19
+  songs: 11
+  duplicate titles: 1
+OK: 2016-05-24-AM SUNDAY.txt
+  title: 2016-05-24 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-05-24
+  songs: 13
+  missing song notes: 2
+  duplicate titles: 2
+OK: 2016-05-26-PM THURSDAY.txt
+  title: 2016-05-26 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-05-26
+  songs: 4
+  missing song notes: 1
+OK: 2016-05-29-MY SET 5-29-16.txt
+  title: 2016-05-29 MY SET 5-29-16
+  service: MY SET 5-29-16
+  date: 2016-05-29
+  songs: 20
+  missing song notes: 1
+  duplicate titles: 3
+OK: 2016-06-02-PM THURSDAY.txt
+  title: 2016-06-02 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-06-02
+  songs: 9
+  missing song notes: 1
+OK: 2016-06-04-AM SUNDAY.txt
+  title: 2016-06-04 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-06-04
+  songs: 11
+  missing song notes: 1
+OK: 2016-06-09-PM THURSDAY.txt
+  title: 2016-06-09 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-06-09
+  songs: 12
+  missing song notes: 1
+OK: 2016-06-11-AM SUNDAY.txt
+  title: 2016-06-11 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-06-11
+  songs: 14
+  missing song notes: 1
+  duplicate titles: 2
+OK: 2016-06-12-AM SUNDAY.txt
+  title: 2016-06-12 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-06-12
+  songs: 14
+  missing song notes: 3
+  duplicate titles: 1
+OK: 2016-06-12-PRACTICE SESSION Sat. 6-11-16.txt
+  title: 2016-06-12 PRACTICE SESSION Sat. 6-11-16
+  service: PRACTICE SESSION Sat. 6-11-16
+  date: 2016-06-12
+  songs: 5
+  missing song notes: 1
+OK: 2016-06-17-PM THURSDAY.txt
+  title: 2016-06-17 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-06-17
+  songs: 9
+  missing song notes: 1
+OK: 2016-06-19-AM SUNDAY.txt
+  title: 2016-06-19 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-06-19
+  songs: 14
+  duplicate titles: 1
+OK: 2016-06-23-PM THURSDAY.txt
+  title: 2016-06-23 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-06-23
+  songs: 7
+OK: 2016-06-25-PRACTICE SESSION.txt
+  title: 2016-06-25 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2016-06-25
+  songs: 21
+  missing song notes: 4
+  duplicate titles: 1
+OK: 2016-06-26-AM SUNDAY.txt
+  title: 2016-06-26 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-06-26
+  songs: 19
+  missing song notes: 2
+  duplicate titles: 2
+OK: 2016-07-07-PM THURSDAY.txt
+  title: 2016-07-07 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-07-07
+  songs: 11
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2016-07-17-AM SUNDAY.txt
+  title: 2016-07-17 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-07-17
+  songs: 13
+  missing song notes: 1
+OK: 2016-07-21-PM THURSDAY.txt
+  title: 2016-07-21 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-07-21
+  songs: 9
+  missing song notes: 1
+OK: 2016-07-22-PM FRIDAY.txt
+  title: 2016-07-22 PM FRIDAY
+  service: PM FRIDAY
+  date: 2016-07-22
+  songs: 11
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2016-07-24-AM SUNDAY.txt
+  title: 2016-07-24 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-07-24
+  songs: 8
+OK: 2016-07-24-PM SUNDAY.txt
+  title: 2016-07-24 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-07-24
+  songs: 10
+  missing song notes: 1
+OK: 2016-07-29-PM THURSDAY.txt
+  title: 2016-07-29 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-07-29
+  songs: 0
+OK: 2016-07-31-AM SUNDAY.txt
+  title: 2016-07-31 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-07-31
+  songs: 5
+  missing song notes: 1
+OK: 2016-08-06-AM SUNDAY.txt
+  title: 2016-08-06 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-08-06
+  songs: 6
+OK: 2016-08-06-PM THURSDAY.txt
+  title: 2016-08-06 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-08-06
+  songs: 7
+  missing song notes: 1
+OK: 2016-08-07-AM SUNDAY.txt
+  title: 2016-08-07 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-08-07
+  songs: 10
+  missing song notes: 1
+OK: 2016-08-11-MY SET.txt
+  title: 2016-08-11 MY SET
+  service: MY SET
+  date: 2016-08-11
+  songs: 11
+  duplicate titles: 2
+OK: 2016-08-12-PM SUNDAY.txt
+  title: 2016-08-12 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-08-12
+  songs: 6
+OK: 2016-08-14-AM SUNDAY.txt
+  title: 2016-08-14 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-08-14
+  songs: 14
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2016-08-14-PRACTICE SESSION.txt
+  title: 2016-08-14 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2016-08-14
+  songs: 9
+  missing song notes: 3
+OK: 2016-08-21-AM SUNDAY.txt
+  title: 2016-08-21 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-08-21
+  songs: 10
+  missing song notes: 3
+OK: 2016-08-24-PM SUNDAY.txt
+  title: 2016-08-24 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-08-24
+  songs: 8
+  missing song notes: 1
+OK: 2016-08-24-PM THURSDAY.txt
+  title: 2016-08-24 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-08-24
+  songs: 6
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2016-08-27-MY SET--Bro Jensen AM SUN.txt
+  title: 2016-08-27 MY SET--Bro Jensen AM SUN
+  service: MY SET--Bro Jensen AM SUN
+  date: 2016-08-27
+  songs: 25
+  missing song notes: 3
+  duplicate titles: 1
+OK: 2016-09-01-PM THURSDAY.txt
+  title: 2016-09-01 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-09-01
+  songs: 7
+OK: 2016-09-04-MY SET.txt
+  title: 2016-09-04 MY SET
+  service: MY SET
+  date: 2016-09-04
+  songs: 8
+  missing song notes: 2
+OK: 2016-09-11-AM SUNDAY.txt
+  title: 2016-09-11 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-09-11
+  songs: 15
+OK: 2016-09-13-PM SUNDAY.txt
+  title: 2016-09-13 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-09-13
+  songs: 6
+OK: 2016-09-13-PM THURSDAY.txt
+  title: 2016-09-13 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-09-13
+  songs: 12
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2016-09-17-PM THURSDAY.txt
+  title: 2016-09-17 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-09-17
+  songs: 8
+  duplicate titles: 1
+OK: 2016-09-18-MY SET.txt
+  title: 2016-09-18 MY SET
+  service: MY SET
+  date: 2016-09-18
+  songs: 12
+  missing song notes: 2
+OK: 2016-09-18-PM SUNDAY.txt
+  title: 2016-09-18 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-09-18
+  songs: 14
+  missing song notes: 1
+OK: 2016-09-23-PM THURSDAY.txt
+  title: 2016-09-23 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-09-23
+  songs: 11
+  duplicate titles: 1
+OK: 2016-09-25-SUNDAY AM.txt
+  title: 2016-09-25 SUNDAY AM
+  service: SUNDAY AM
+  date: 2016-09-25
+  songs: 14
+  missing song notes: 1
+  duplicate titles: 2
+OK: 2016-09-26-PM SUNDAY.txt
+  title: 2016-09-26 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-09-26
+  songs: 10
+  missing song notes: 1
+OK: 2016-09-29-PM THURSDAY.txt
+  title: 2016-09-29 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-09-29
+  songs: 11
+OK: 2016-10-02-AM SUNDAY.txt
+  title: 2016-10-02 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-10-02
+  songs: 9
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2016-10-11-AM SUNDAY.txt
+  title: 2016-10-11 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-10-11
+  songs: 15
+  duplicate titles: 3
+OK: 2016-10-11-PM SUNDAY.txt
+  title: 2016-10-11 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-10-11
+  songs: 7
+  duplicate titles: 1
+OK: 2016-10-11-PM THURSDAY.txt
+  title: 2016-10-11 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-10-11
+  songs: 15
+  missing song notes: 5
+  duplicate titles: 1
+OK: 2016-10-15-PM THURSDAY.txt
+  title: 2016-10-15 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-10-15
+  songs: 6
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2016-10-16-MY SET -JENSEN.txt
+  title: 2016-10-16 MY SET -JENSEN
+  service: MY SET -JENSEN
+  date: 2016-10-16
+  songs: 10
+  missing song notes: 1
+  duplicate titles: 2
+OK: 2016-10-16-MY SET--JELDERKS.txt
+  title: 2016-10-16 MY SET--JELDERKS
+  service: MY SET--JELDERKS
+  date: 2016-10-16
+  songs: 14
+  duplicate titles: 1
+OK: 2016-10-21-PM THURSDAY.txt
+  title: 2016-10-21 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-10-21
+  songs: 7
+OK: 2016-10-23-AM SUNDA.txt
+  title: 2016-10-23 AM SUNDA
+  service: AM SUNDA
+  date: 2016-10-23
+  songs: 16
+  missing song notes: 3
+OK: 2016-10-27-PM THURSDAY.txt
+  title: 2016-10-27 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-10-27
+  songs: 8
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2016-10-30-AM SUNDAY.txt
+  title: 2016-10-30 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-10-30
+  songs: 14
+  missing song notes: 3
+OK: 2016-11-03-PM THURSDAY.txt
+  title: 2016-11-03 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-11-03
+  songs: 11
+  duplicate titles: 1
+OK: 2016-11-06-AM SUNDAY.txt
+  title: 2016-11-06 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-11-06
+  songs: 14
+  missing song notes: 3
+  duplicate titles: 1
+OK: 2016-11-06-MY SET--BRO JENSEN--SUN PM.txt
+  title: 2016-11-06 MY SET--BRO JENSEN--SUN PM
+  service: MY SET--BRO JENSEN--SUN PM
+  date: 2016-11-06
+  songs: 14
+  missing song notes: 3
+OK: 2016-11-10-MY SET--PM THURSDAY-- JELDERKS.txt
+  title: 2016-11-10 MY SET--PM THURSDAY-- JELDERKS
+  service: MY SET--PM THURSDAY-- JELDERKS
+  date: 2016-11-10
+  songs: 21
+  missing song notes: 2
+  duplicate titles: 2
+OK: 2016-11-11-PM THURSDAY.txt
+  title: 2016-11-11 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-11-11
+  songs: 5
+OK: 2016-11-13-AM SUNDAY.txt
+  title: 2016-11-13 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-11-13
+  songs: 8
+  missing song notes: 1
+OK: 2016-11-13-PM SUNDAY.txt
+  title: 2016-11-13 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-11-13
+  songs: 11
+  missing song notes: 1
+OK: 2016-11-18-PM THURSDAY.txt
+  title: 2016-11-18 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-11-18
+  songs: 10
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2016-11-20-AM SUNDAY.txt
+  title: 2016-11-20 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-11-20
+  songs: 14
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2016-11-22-PM TUESDAY.txt
+  title: 2016-11-22 PM TUESDAY
+  service: PM TUESDAY
+  date: 2016-11-22
+  songs: 11
+OK: 2016-11-25-PM SUNDAY.txt
+  title: 2016-11-25 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-11-25
+  songs: 11
+  missing song notes: 3
+  duplicate titles: 1
+OK: 2016-11-27-AM SUNDAY.txt
+  title: 2016-11-27 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-11-27
+  songs: 15
+  missing song notes: 2
+OK: 2016-11-27-PM SUNDAY.txt
+  title: 2016-11-27 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-11-27
+  songs: 12
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2016-12-01-PM THURSDAY.txt
+  title: 2016-12-01 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-12-01
+  songs: 8
+OK: 2016-12-04-AM SUNDAY.txt
+  title: 2016-12-04 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-12-04
+  songs: 9
+  missing song notes: 1
+OK: 2016-12-05-PM SUNDAY.txt
+  title: 2016-12-05 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-12-05
+  songs: 7
+  duplicate titles: 1
+OK: 2016-12-09-PM THURSDAY.txt
+  title: 2016-12-09 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-12-09
+  songs: 9
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2016-12-11-ALTAR MEDLEY.txt
+  title: 2016-12-11 ALTAR MEDLEY
+  service: ALTAR MEDLEY
+  date: 2016-12-11
+  songs: 4
+OK: 2016-12-11-PM SUNDAY.txt
+  title: 2016-12-11 PM SUNDAY
+  service: PM SUNDAY
+  date: 2016-12-11
+  songs: 6
+  missing song notes: 1
+OK: 2016-12-11-SUNDAY AM.txt
+  title: 2016-12-11 SUNDAY AM
+  service: SUNDAY AM
+  date: 2016-12-11
+  songs: 9
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2016-12-15-PM THURSDAY.txt
+  title: 2016-12-15 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-12-15
+  songs: 10
+OK: 2016-12-18-AM SUNDAY.txt
+  title: 2016-12-18 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-12-18
+  songs: 14
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2016-12-22-PM THURSDAY.txt
+  title: 2016-12-22 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-12-22
+  songs: 6
+  missing song notes: 1
+OK: 2016-12-24-PM THURSDAY.txt
+  title: 2016-12-24 PM THURSDAY
+  service: PM THURSDAY
+  date: 2016-12-24
+  songs: 12
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2016-12-25-AM SUNDAY.txt
+  title: 2016-12-25 AM SUNDAY
+  service: AM SUNDAY
+  date: 2016-12-25
+  songs: 14
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2017-01-01-AM SUNDAY.txt
+  title: 2017-01-01 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-01-01
+  songs: 11
+  missing song notes: 1
+OK: 2017-01-08-AM SUNDAY.txt
+  title: 2017-01-08 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-01-08
+  songs: 13
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2017-01-08-PM SUNDAY.txt
+  title: 2017-01-08 PM SUNDAY
+  service: PM SUNDAY
+  date: 2017-01-08
+  songs: 7
+  missing song notes: 1
+OK: 2017-01-09-PM THURSDAY.txt
+  title: 2017-01-09 PM THURSDAY
+  service: PM THURSDAY
+  date: 2017-01-09
+  songs: 7
+  missing song notes: 1
+OK: 2017-01-31-AM SUNDAY.txt
+  title: 2017-01-31 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-01-31
+  songs: 5
+OK: 2017-01-31-SUNDAY AM.txt
+  title: 2017-01-31 SUNDAY AM
+  service: SUNDAY AM
+  date: 2017-01-31
+  songs: 10
+  missing song notes: 2
+OK: 2017-02-16-PM THURSDAY.txt
+  title: 2017-02-16 PM THURSDAY
+  service: PM THURSDAY
+  date: 2017-02-16
+  songs: 3
+OK: 2017-02-26-SUNDAY AM.txt
+  title: 2017-02-26 SUNDAY AM
+  service: SUNDAY AM
+  date: 2017-02-26
+  songs: 13
+  missing song notes: 3
+OK: 2017-03-03-PM THURSDAY.txt
+  title: 2017-03-03 PM THURSDAY
+  service: PM THURSDAY
+  date: 2017-03-03
+  songs: 5
+OK: 2017-03-05-AM SUNDAY.txt
+  title: 2017-03-05 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-03-05
+  songs: 12
+OK: 2017-03-19-Am.txt
+  title: 2017-03-19 Am
+  service: Am
+  date: 2017-03-19
+  songs: 18
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2017-03-19-PRACTICE SESSION.txt
+  title: 2017-03-19 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2017-03-19
+  songs: 3
+OK: 2017-03-23-PM THURSDAY.txt
+  title: 2017-03-23 PM THURSDAY
+  service: PM THURSDAY
+  date: 2017-03-23
+  songs: 8
+  duplicate titles: 1
+OK: 2017-03-26-SUNDAY AM.txt
+  title: 2017-03-26 SUNDAY AM
+  service: SUNDAY AM
+  date: 2017-03-26
+  songs: 11
+  missing song notes: 3
+OK: 2017-04-02-AM SUNDAY.txt
+  title: 2017-04-02 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-04-02
+  songs: 12
+  missing song notes: 2
+OK: 2017-04-06-My set-PM THURSDAY.txt
+  title: 2017-04-06 My set-PM THURSDAY
+  service: My set-PM THURSDAY
+  date: 2017-04-06
+  songs: 5
+  missing song notes: 1
+OK: 2017-04-06-THURSDAY PM.txt
+  title: 2017-04-06 THURSDAY PM
+  service: THURSDAY PM
+  date: 2017-04-06
+  songs: 7
+  missing song notes: 1
+OK: 2017-04-09-MICHEL'S SET PM SUNDAY.txt
+  title: 2017-04-09 MICHEL'S SET: PM SUNDAY
+  service: MICHEL'S SET: PM SUNDAY
+  date: 2017-04-09
+  songs: 7
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2017-04-09-MY SET- AM SUNDAY.txt
+  title: 2017-04-09 MY SET- AM SUNDAY
+  service: MY SET- AM SUNDAY
+  date: 2017-04-09
+  songs: 14
+OK: 2017-04-23-AM SUNDAY.txt
+  title: 2017-04-23 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-04-23
+  songs: 9
+  missing song notes: 2
+OK: 2017-04-30-AM SUNDAY.txt
+  title: 2017-04-30 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-04-30
+  songs: 11
+  missing song notes: 4
+OK: 2017-04-30-n-PRACTICE SESSION.txt
+  title: 2017-04-30 n-PRACTICE SESSION
+  service: n-PRACTICE SESSION
+  date: 2017-04-30
+  songs: 8
+  missing song notes: 2
+OK: 2017-05-07-AM SUNDAY.txt
+  title: 2017-05-07 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-05-07
+  songs: 15
+  missing song notes: 5
+OK: 2017-05-10-MY SET.txt
+  title: 2017-05-10 MY SET
+  service: MY SET
+  date: 2017-05-10
+  songs: 12
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2017-05-11-PM SUNDAY.txt
+  title: 2017-05-11 PM SUNDAY
+  service: PM SUNDAY
+  date: 2017-05-11
+  songs: 11
+  missing song notes: 2
+OK: 2017-05-14-AM SUNDAY.txt
+  title: 2017-05-14 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-05-14
+  songs: 11
+  missing song notes: 2
+OK: 2017-05-17-PM WEDNESDAY.txt
+  title: 2017-05-17 PM WEDNESDAY
+  service: PM WEDNESDAY
+  date: 2017-05-17
+  songs: 6
+  duplicate titles: 1
+OK: 2017-05-21-AM SUNDAY.txt
+  title: 2017-05-21 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-05-21
+  songs: 17
+  missing song notes: 1
+  duplicate titles: 2
+OK: 2017-05-21-PRACTICE SESSION  LYRICS.txt
+  title: 2017-05-21 PRACTICE SESSION | LYRICS
+  service: PRACTICE SESSION | LYRICS
+  date: 2017-05-21
+  songs: 9
+  missing song notes: 2
+OK: 2017-05-21-PRACTICE SESSION.txt
+  title: 2017-05-21 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2017-05-21
+  songs: 0
+OK: 2017-05-22-PRACTICE SESSION.txt
+  title: 2017-05-22 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2017-05-22
+  songs: 0
+OK: 2017-05-28-AM SUNDAY.txt
+  title: 2017-05-28 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-05-28
+  songs: 15
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2017-06-04-MICHEL'S SET--.txt
+  title: 2017-06-04 MICHEL'S SET--
+  service: MICHEL'S SET--
+  date: 2017-06-04
+  songs: 11
+  missing song notes: 2
+  duplicate titles: 2
+OK: 2017-06-04-MY SET-AM SUNDAY-JENSEN.txt
+  title: 2017-06-04 MY SET-AM SUNDAY-JENSEN
+  service: MY SET-AM SUNDAY-JENSEN
+  date: 2017-06-04
+  songs: 13
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2017-06-08-PM THURSDAY.txt
+  title: 2017-06-08 PM THURSDAY
+  service: PM THURSDAY
+  date: 2017-06-08
+  songs: 11
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2017-06-11-AM SUNDAY.txt
+  title: 2017-06-11 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-06-11
+  songs: 12
+  missing song notes: 1
+  duplicate titles: 2
+OK: 2017-06-11-PM SUNDAY.txt
+  title: 2017-06-11 PM SUNDAY
+  service: PM SUNDAY
+  date: 2017-06-11
+  songs: 6
+OK: 2017-06-18-AM SUNDAY.txt
+  title: 2017-06-18 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-06-18
+  songs: 11
+  missing song notes: 1
+OK: 2017-06-22-Untitled Set.txt
+  title: 2017-06-22 Untitled Set
+  service: Untitled Set
+  date: 2017-06-22
+  songs: 4
+OK: 2017-06-25-AM SUNDAY.txt
+  title: 2017-06-25 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-06-25
+  songs: 9
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2017-07-02-AM SUNDAY.txt
+  title: 2017-07-02 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-07-02
+  songs: 11
+  missing song notes: 2
+OK: 2017-07-11-AM SUNDAY.txt
+  title: 2017-07-11 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-07-11
+  songs: 6
+  missing song notes: 1
+OK: 2017-07-11-PM SUNDAY.txt
+  title: 2017-07-11 PM SUNDAY
+  service: PM SUNDAY
+  date: 2017-07-11
+  songs: 3
+  missing song notes: 2
+OK: 2017-07-11-THURSDAY PM -- MICHEL.txt
+  title: 2017-07-11 THURSDAY PM -- MICHEL
+  service: THURSDAY PM -- MICHEL
+  date: 2017-07-11
+  songs: 10
+  missing song notes: 1
+OK: 2017-07-12-AM SUNDAY.txt
+  title: 2017-07-12 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-07-12
+  songs: 0
+OK: 2017-07-12-MY SET-PRACTICE SESSION.txt
+  title: 2017-07-12 MY SET-PRACTICE SESSION
+  service: MY SET-PRACTICE SESSION
+  date: 2017-07-12
+  songs: 18
+  missing song notes: 1
+OK: 2017-07-12-PM SUNDAY.txt
+  title: 2017-07-12 PM SUNDAY
+  service: PM SUNDAY
+  date: 2017-07-12
+  songs: 9
+  missing song notes: 1
+OK: 2017-07-12-PM THURSDAY.txt
+  title: 2017-07-12 PM THURSDAY
+  service: PM THURSDAY
+  date: 2017-07-12
+  songs: 10
+OK: 2017-07-12-SUNDAY.txt
+  title: 2017-07-12 SUNDAY
+  service: SUNDAY
+  date: 2017-07-12
+  songs: 0
+OK: 2017-07-12-Untitled Set.txt
+  title: 2017-07-12 Untitled Set
+  service: Untitled Set
+  date: 2017-07-12
+  songs: 0
+OK: 2017-07-13-AM SUNDAY.txt
+  title: 2017-07-13 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-07-13
+  songs: 8
+OK: 2017-07-13-MY SET PRACTICE SESSION.txt
+  title: 2017-07-13 MY SET PRACTICE SESSION
+  service: MY SET PRACTICE SESSION
+  date: 2017-07-13
+  songs: 15
+OK: 2017-07-13-PM SUNDAY.txt
+  title: 2017-07-13 PM SUNDAY
+  service: PM SUNDAY
+  date: 2017-07-13
+  songs: 6
+  missing song notes: 4
+OK: 2017-07-13-PM THURSDAY.txt
+  title: 2017-07-13 PM THURSDAY
+  service: PM THURSDAY
+  date: 2017-07-13
+  songs: 8
+  missing song notes: 1
+OK: 2017-07-15-MY SET--SIS D.txt
+  title: 2017-07-15 MY SET--SIS D
+  service: MY SET--SIS D
+  date: 2017-07-15
+  songs: 3
+  duplicate titles: 1
+OK: 2017-07-17-n-PRACTICE LIST.txt
+  title: 2017-07-17 n-PRACTICE LIST
+  service: n-PRACTICE LIST
+  date: 2017-07-17
+  songs: 45
+  missing song notes: 6
+  duplicate titles: 2
+OK: 2017-07-24--AM SUNDAY.txt
+  title: 2017-07-24 -AM SUNDAY
+  service: -AM SUNDAY
+  date: 2017-07-24
+  songs: 6
+OK: 2017-07-24-n-PM SUNDAY.txt
+  title: 2017-07-24 n-PM SUNDAY
+  service: n-PM SUNDAY
+  date: 2017-07-24
+  songs: 8
+  missing song notes: 1
+OK: 2017-07-24-n-PM THURSDAY.txt
+  title: 2017-07-24 n-PM THURSDAY
+  service: n-PM THURSDAY
+  date: 2017-07-24
+  songs: 5
+  missing song notes: 1
+OK: 2017-07-25-PM TUES.txt
+  title: 2017-07-25 PM TUES
+  service: PM TUES
+  date: 2017-07-25
+  songs: 12
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2017-07-27-PM THURSDAY.txt
+  title: 2017-07-27 PM THURSDAY
+  service: PM THURSDAY
+  date: 2017-07-27
+  songs: 11
+OK: 2017-07-30-AM SUNDAY.txt
+  title: 2017-07-30 AM SUNDAY
+  service: AM SUNDAY
+  date: 2017-07-30
+  songs: 11
+  missing song notes: 1
+OK: 2017-08-06--SUNDAY AM.txt
+  title: 2017-08-06 -SUNDAY AM
+  service: -SUNDAY AM
+  date: 2017-08-06
+  songs: 12
+  missing song notes: 2
+OK: 2017-08-10-n-PM THURSDAY.txt
+  title: 2017-08-10 n-PM THURSDAY
+  service: n-PM THURSDAY
+  date: 2017-08-10
+  songs: 18
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2017-08-13--AM SUNDAY.txt
+  title: 2017-08-13 -AM SUNDAY
+  service: -AM SUNDAY
+  date: 2017-08-13
+  songs: 14
+OK: 2017-08-13-n-PM SUNDAY.txt
+  title: 2017-08-13 n-PM SUNDAY
+  service: n-PM SUNDAY
+  date: 2017-08-13
+  songs: 0
+OK: 2017-08-13-n-PRACTICE SESSION.txt
+  title: 2017-08-13 n-PRACTICE SESSION
+  service: n-PRACTICE SESSION
+  date: 2017-08-13
+  songs: 8
+  missing song notes: 1
+OK: 2017-08-17-n-PRACTICE SESSION.txt
+  title: 2017-08-17 n-PRACTICE SESSION
+  service: n-PRACTICE SESSION
+  date: 2017-08-17
+  songs: 13
+  missing song notes: 3
+  duplicate titles: 1
+OK: 2017-08-20--AM SUNDAY.txt
+  title: 2017-08-20 -AM SUNDAY
+  service: -AM SUNDAY
+  date: 2017-08-20
+  songs: 7
+OK: 2017-09-03-MY SET 8317.txt
+  title: 2017-09-03 MY SET 8/3/17
+  service: MY SET 8/3/17
+  date: 2017-09-03
+  songs: 11
+  duplicate titles: 1
+OK: 2017-09-07-N-MY SET.txt
+  title: 2017-09-07 N-MY SET
+  service: N-MY SET
+  date: 2017-09-07
+  songs: 10
+  missing song notes: 1
+OK: 2017-09-10--AM SUNDAY.txt
+  title: 2017-09-10 -AM SUNDAY
+  service: -AM SUNDAY
+  date: 2017-09-10
+  songs: 9
+  missing song notes: 1
+  duplicate titles: 2
+OK: 2017-09-11-—AM SUNDAY.txt
+  title: 2017-09-11 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2017-09-11
+  songs: 9
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2017-09-11-—PM SUNDAY.txt
+  title: 2017-09-11 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2017-09-11
+  songs: 5
+OK: 2017-09-17-—AM SUNDAY.txt
+  title: 2017-09-17 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2017-09-17
+  songs: 3
+  missing song notes: 1
+OK: 2017-09-24-—AM SUNDAY.txt
+  title: 2017-09-24 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2017-09-24
+  songs: 5
+  missing song notes: 1
+OK: 2017-10-15-—AM SUNDAY.txt
+  title: 2017-10-15 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2017-10-15
+  songs: 7
+OK: 2017-10-22-—AM SUNDAY.txt
+  title: 2017-10-22 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2017-10-22
+  songs: 4
+  missing song notes: 1
+OK: 2017-10-28-—AM SUNDAY.txt
+  title: 2017-10-28 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2017-10-28
+  songs: 6
+  missing song notes: 1
+OK: 2017-10-28-—PM SUNDAY.txt
+  title: 2017-10-28 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2017-10-28
+  songs: 7
+  missing song notes: 1
+OK: 2017-10-28-—THURSDAY PM.txt
+  title: 2017-10-28 —THURSDAY PM
+  service: —THURSDAY PM
+  date: 2017-10-28
+  songs: 6
+OK: 2017-10-29-—AM SUNDAY.txt
+  title: 2017-10-29 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2017-10-29
+  songs: 11
+  missing song notes: 4
+OK: 2017-10-29-—PM SUNDAY.txt
+  title: 2017-10-29 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2017-10-29
+  songs: 7
+  missing song notes: 1
+OK: 2017-11-02-—THURSDAY PM.txt
+  title: 2017-11-02 —THURSDAY PM
+  service: —THURSDAY PM
+  date: 2017-11-02
+  songs: 12
+  duplicate titles: 2
+OK: 2017-11-05-—AM SUNDAY.txt
+  title: 2017-11-05 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2017-11-05
+  songs: 10
+  missing song notes: 3
+OK: 2017-11-12-—AM SUNDAY.txt
+  title: 2017-11-12 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2017-11-12
+  songs: 14
+  missing song notes: 1
+OK: 2017-11-19-—AM SUNDAY.txt
+  title: 2017-11-19 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2017-11-19
+  songs: 7
+  missing song notes: 3
+OK: 2017-11-19-—PM SUNDAY.txt
+  title: 2017-11-19 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2017-11-19
+  songs: 2
+OK: 2017-11-26-—AM SUNDAY.txt
+  title: 2017-11-26 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2017-11-26
+  songs: 13
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2017-11-26-—PM SUNDAY.txt
+  title: 2017-11-26 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2017-11-26
+  songs: 11
+  duplicate titles: 1
+OK: 2017-12-03-—AM SUNDAY.txt
+  title: 2017-12-03 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2017-12-03
+  songs: 14
+  missing song notes: 3
+  duplicate titles: 1
+OK: 2017-12-03-—PM SUNDAY.txt
+  title: 2017-12-03 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2017-12-03
+  songs: 9
+  missing song notes: 1
+OK: 2017-12-24-—AM SUNDAY.txt
+  title: 2017-12-24 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2017-12-24
+  songs: 11
+  missing song notes: 2
+OK: 2017-12-31-—AM SUNDAY.txt
+  title: 2017-12-31 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2017-12-31
+  songs: 7
+  missing song notes: 1
+OK: 2018-01-21-—SUNDAY PM.txt
+  title: 2018-01-21 —SUNDAY PM
+  service: —SUNDAY PM
+  date: 2018-01-21
+  songs: 19
+  missing song notes: 1
+  duplicate titles: 2
+OK: 2018-02-01-—THURSDAY PM.txt
+  title: 2018-02-01 —THURSDAY PM
+  service: —THURSDAY PM
+  date: 2018-02-01
+  songs: 13
+  missing song notes: 4
+OK: 2018-02-08-—THURSDAY PM.txt
+  title: 2018-02-08 —THURSDAY PM
+  service: —THURSDAY PM
+  date: 2018-02-08
+  songs: 7
+  missing song notes: 1
+OK: 2018-02-11-—PM SUNDAY.txt
+  title: 2018-02-11 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2018-02-11
+  songs: 9
+  missing song notes: 1
+OK: 2018-02-18-—AM SUNDAY.txt
+  title: 2018-02-18 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-02-18
+  songs: 8
+OK: 2018-03-04-—AM SUNDAY.txt
+  title: 2018-03-04 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-03-04
+  songs: 6
+  missing song notes: 1
+OK: 2018-03-04-—PM SUNDAY.txt
+  title: 2018-03-04 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2018-03-04
+  songs: 7
+OK: 2018-03-22-—THURSDAY PM.txt
+  title: 2018-03-22 —THURSDAY PM
+  service: —THURSDAY PM
+  date: 2018-03-22
+  songs: 5
+OK: 2018-04-10-PM SUNDAY.txt
+  title: 2018-04-10 PM SUNDAY
+  service: PM SUNDAY
+  date: 2018-04-10
+  songs: 4
+  missing song notes: 1
+OK: 2018-04-10-PRACTICE SESSION.txt
+  title: 2018-04-10 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2018-04-10
+  songs: 22
+  missing song notes: 5
+  duplicate titles: 2
+OK: 2018-04-10-—AM SATURDAY.txt
+  title: 2018-04-10 —AM SATURDAY
+  service: —AM SATURDAY
+  date: 2018-04-10
+  songs: 4
+  missing song notes: 1
+OK: 2018-04-10-—AM SUNDAY.txt
+  title: 2018-04-10 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-04-10
+  songs: 9
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2018-04-10-—PM SUNDAY.txt
+  title: 2018-04-10 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2018-04-10
+  songs: 10
+OK: 2018-04-10-—PM THURSDAY.txt
+  title: 2018-04-10 —PM THURSDAY
+  service: —PM THURSDAY
+  date: 2018-04-10
+  songs: 7
+  missing song notes: 1
+OK: 2018-04-10-—THURSDAY PM.txt
+  title: 2018-04-10 —THURSDAY PM
+  service: —THURSDAY PM
+  date: 2018-04-10
+  songs: 13
+OK: 2018-04-11-N-my set.txt
+  title: 2018-04-11 N-my set
+  service: N-my set
+  date: 2018-04-11
+  songs: 17
+  missing song notes: 3
+OK: 2018-04-11-—AM SUNDAY.txt
+  title: 2018-04-11 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-04-11
+  songs: 4
+  missing song notes: 1
+OK: 2018-04-11-—PM SUNDAY.txt
+  title: 2018-04-11 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2018-04-11
+  songs: 9
+  duplicate titles: 2
+OK: 2018-04-11-—PM THURSDAY.txt
+  title: 2018-04-11 —PM THURSDAY
+  service: —PM THURSDAY
+  date: 2018-04-11
+  songs: 10
+  missing song notes: 5
+OK: 2018-04-11-—THURSDAY PM.txt
+  title: 2018-04-11 —THURSDAY PM
+  service: —THURSDAY PM
+  date: 2018-04-11
+  songs: 12
+  duplicate titles: 2
+OK: 2018-04-19-—SUNDAY AM.txt
+  title: 2018-04-19 —SUNDAY AM
+  service: —SUNDAY AM
+  date: 2018-04-19
+  songs: 9
+  duplicate titles: 1
+OK: 2018-04-19-—SUNDAY PM.txt
+  title: 2018-04-19 —SUNDAY PM
+  service: —SUNDAY PM
+  date: 2018-04-19
+  songs: 14
+  missing song notes: 2
+OK: 2018-04-19-—THURSDAY PM.txt
+  title: 2018-04-19 —THURSDAY PM
+  service: —THURSDAY PM
+  date: 2018-04-19
+  songs: 4
+  missing song notes: 2
+OK: 2018-04-22-—PM SUNDAY.txt
+  title: 2018-04-22 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2018-04-22
+  songs: 7
+  missing song notes: 1
+OK: 2018-04-23-—AM SUNDAY.txt
+  title: 2018-04-23 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-04-23
+  songs: 10
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2018-05-08-—AM SUNDAY.txt
+  title: 2018-05-08 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-05-08
+  songs: 9
+  missing song notes: 2
+OK: 2018-05-08-—PM SUNDAY.txt
+  title: 2018-05-08 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2018-05-08
+  songs: 6
+OK: 2018-05-17-—PM THURSDAY.txt
+  title: 2018-05-17 —PM THURSDAY
+  service: —PM THURSDAY
+  date: 2018-05-17
+  songs: 2
+OK: 2018-05-20-—PM SUNDAY.txt
+  title: 2018-05-20 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2018-05-20
+  songs: 10
+  duplicate titles: 1
+OK: 2018-05-24-—PM THURSDAY.txt
+  title: 2018-05-24 —PM THURSDAY
+  service: —PM THURSDAY
+  date: 2018-05-24
+  songs: 7
+  duplicate titles: 1
+OK: 2018-05-27-—AM SUNDAY.txt
+  title: 2018-05-27 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-05-27
+  songs: 4
+  duplicate titles: 1
+OK: 2018-05-31-—PM THURSDAY.txt
+  title: 2018-05-31 —PM THURSDAY
+  service: —PM THURSDAY
+  date: 2018-05-31
+  songs: 9
+  missing song notes: 3
+OK: 2018-06-05-N-Practice Session.txt
+  title: 2018-06-05 N-Practice Session
+  service: N-Practice Session
+  date: 2018-06-05
+  songs: 18
+  missing song notes: 3
+  duplicate titles: 2
+OK: 2018-06-10-—PM SUNDAY.txt
+  title: 2018-06-10 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2018-06-10
+  songs: 12
+  missing song notes: 4
+OK: 2018-07-08-—AM SUNDAY.txt
+  title: 2018-07-08 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-07-08
+  songs: 8
+  missing song notes: 3
+OK: 2018-07-15-—AM SUNDAY.txt
+  title: 2018-07-15 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-07-15
+  songs: 10
+  missing song notes: 4
+  duplicate titles: 1
+OK: 2018-07-22-—AM SUNDAY.txt
+  title: 2018-07-22 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-07-22
+  songs: 11
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2018-07-29-—AM SUNDAY.txt
+  title: 2018-07-29 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-07-29
+  songs: 12
+  missing song notes: 3
+OK: 2018-08-02-—PM THURSDAY.txt
+  title: 2018-08-02 —PM THURSDAY
+  service: —PM THURSDAY
+  date: 2018-08-02
+  songs: 10
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2018-08-05-—AM SUNDAY.txt
+  title: 2018-08-05 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-08-05
+  songs: 10
+  duplicate titles: 1
+OK: 2018-08-07-PRACTICE SESSION.txt
+  title: 2018-08-07 PRACTICE SESSION
+  service: PRACTICE SESSION
+  date: 2018-08-07
+  songs: 7
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2018-08-09-—PM THURSDAY.txt
+  title: 2018-08-09 —PM THURSDAY
+  service: —PM THURSDAY
+  date: 2018-08-09
+  songs: 9
+  missing song notes: 3
+  duplicate titles: 1
+OK: 2018-08-12-PM SUNDAY.txt
+  title: 2018-08-12 PM SUNDAY
+  service: PM SUNDAY
+  date: 2018-08-12
+  songs: 1
+  missing song notes: 1
+OK: 2018-08-12-—AM SUNDAY.txt
+  title: 2018-08-12 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-08-12
+  songs: 8
+OK: 2018-08-12-—PM SUNDAY.txt
+  title: 2018-08-12 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2018-08-12
+  songs: 7
+  missing song notes: 2
+OK: 2018-08-12-—PM THURSDAY.txt
+  title: 2018-08-12 —PM THURSDAY
+  service: —PM THURSDAY
+  date: 2018-08-12
+  songs: 9
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2018-08-19-—AM SUNDAY.txt
+  title: 2018-08-19 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-08-19
+  songs: 11
+OK: 2018-08-19-—PM SUNDAY.txt
+  title: 2018-08-19 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2018-08-19
+  songs: 16
+  missing song notes: 2
+  duplicate titles: 2
+OK: 2018-08-26--My set.txt
+  title: 2018-08-26 -My set
+  service: -My set
+  date: 2018-08-26
+  songs: 5
+OK: 2018-08-26-My set.txt
+  title: 2018-08-26 My set
+  service: My set
+  date: 2018-08-26
+  songs: 0
+OK: 2018-08-26-Oh draw me Lord.txt
+  title: 2018-08-26 Oh draw me Lord
+  service: Oh draw me Lord
+  date: 2018-08-26
+  songs: 0
+OK: 2018-08-26-—AM SUNDAY.txt
+  title: 2018-08-26 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-08-26
+  songs: 14
+  missing song notes: 1
+OK: 2018-08-30-—PM THURSDAY.txt
+  title: 2018-08-30 —PM THURSDAY
+  service: —PM THURSDAY
+  date: 2018-08-30
+  songs: 6
+  missing song notes: 1
+OK: 2018-09-06-—PM THURSDAY.txt
+  title: 2018-09-06 —PM THURSDAY
+  service: —PM THURSDAY
+  date: 2018-09-06
+  songs: 17
+  missing song notes: 3
+  duplicate titles: 1
+OK: 2018-09-09-—AM SUNDAY.txt
+  title: 2018-09-09 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-09-09
+  songs: 7
+  missing song notes: 1
+OK: 2018-09-09-—PM SUNDAY.txt
+  title: 2018-09-09 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2018-09-09
+  songs: 16
+  missing song notes: 3
+OK: 2018-09-14-PM FRIDAY.txt
+  title: 2018-09-14 PM FRIDAY
+  service: PM FRIDAY
+  date: 2018-09-14
+  songs: 8
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2018-09-16-—AM SUNDAY.txt
+  title: 2018-09-16 —AM SUNDAY
+  service: —AM SUNDAY
+  date: 2018-09-16
+  songs: 13
+  missing song notes: 4
+  duplicate titles: 2
+OK: 2018-09-16-—PM SUNDAY.txt
+  title: 2018-09-16 —PM SUNDAY
+  service: —PM SUNDAY
+  date: 2018-09-16
+  songs: 18
+  missing song notes: 4
+  duplicate titles: 2
+OK: 2018-09-17-SING UNTO THE LORD.txt
+  title: 2018-09-17 SING UNTO THE LORD
+  service: SING UNTO THE LORD
+  date: 2018-09-17
+  songs: 22
+  duplicate titles: 2
+OK: 2019-04-10-AM SUNDAY.txt
+  title: 2019-04-10 AM SUNDAY
+  service: AM SUNDAY
+  date: 2019-04-10
+  songs: 4
+OK: 2019-04-10-PM THURSDAY.txt
+  title: 2019-04-10 PM THURSDAY
+  service: PM THURSDAY
+  date: 2019-04-10
+  songs: 7
+  duplicate titles: 1
+OK: 2019-04-10-SUNDAY.txt
+  title: 2019-04-10 SUNDAY
+  service: SUNDAY
+  date: 2019-04-10
+  songs: 7
+  missing song notes: 3
+OK: 2019-04-10-Sunday AM.txt
+  title: 2019-04-10 Sunday AM
+  service: Sunday AM
+  date: 2019-04-10
+  songs: 10
+  duplicate titles: 1
+OK: 2019-04-10-Sunday PM.txt
+  title: 2019-04-10 Sunday PM
+  service: Sunday PM
+  date: 2019-04-10
+  songs: 9
+  duplicate titles: 1
+OK: 2019-04-10-Thursday PM.txt
+  title: 2019-04-10 Thursday PM
+  service: Thursday PM
+  date: 2019-04-10
+  songs: 6
+OK: 2019-04-10-Untitled Set.txt
+  title: 2019-04-10 Untitled Set
+  service: Untitled Set
+  date: 2019-04-10
+  songs: 22
+  missing song notes: 2
+  duplicate titles: 4
+OK: 2019-04-14-AM SUNDAY.txt
+  title: 2019-04-14 AM SUNDAY
+  service: AM SUNDAY
+  date: 2019-04-14
+  songs: 7
+  missing song notes: 3
+OK: 2019-04-14-Thurs PM.txt
+  title: 2019-04-14 Thurs PM
+  service: Thurs PM
+  date: 2019-04-14
+  songs: 7
+OK: 2019-04-15-PM SUNDAY.txt
+  title: 2019-04-15 PM SUNDAY
+  service: PM SUNDAY
+  date: 2019-04-15
+  songs: 14
+  missing song notes: 4
+  duplicate titles: 2
+OK: 2019-10-13-Sun pm.txt
+  title: 2019-10-13 Sun pm
+  service: Sun pm
+  date: 2019-10-13
+  songs: 7
+  missing song notes: 1
+OK: 2019-10-17-Thursday.txt
+  title: 2019-10-17 Thursday
+  service: Thursday
+  date: 2019-10-17
+  songs: 6
+OK: 2019-10-20-Sun morn.txt
+  title: 2019-10-20 Sun morn
+  service: Sun morn
+  date: 2019-10-20
+  songs: 6
+  missing song notes: 2
+OK: 2019-11-17-Sun pm.txt
+  title: 2019-11-17 Sun pm
+  service: Sun pm
+  date: 2019-11-17
+  songs: 5
+  missing song notes: 2
+OK: 2020-02-04-CHOIR PRACTICE.txt
+  title: 2020-02-04 CHOIR PRACTICE
+  service: CHOIR PRACTICE
+  date: 2020-02-04
+  songs: 2
+  missing song notes: 1
+OK: 2020-02-06-Chris.txt
+  title: 2020-02-06 Chris
+  service: Chris
+  date: 2020-02-06
+  songs: 2
+OK: 2020-02-16-Untitled Set.txt
+  title: 2020-02-16 Untitled Set
+  service: Untitled Set
+  date: 2020-02-16
+  songs: 6
+  missing song notes: 1
+OK: 2020-06-18-He’s in This Place.txt
+  title: 2020-06-18 He’s in This Place
+  service: He’s in This Place
+  date: 2020-06-18
+  songs: 2
+  missing song notes: 2
+OK: 2020-06-20-He’s In This Place.txt
+  title: 2020-06-20 He’s In This Place
+  service: He’s In This Place
+  date: 2020-06-20
+  songs: 4
+  missing song notes: 4
+OK: 2020-06-21-AM Sunday 2020.txt
+  title: 2020-06-21 AM Sunday 2020
+  service: AM Sunday 2020
+  date: 2020-06-21
+  songs: 10
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2020-06-28-—new.SUNDAY AM.txt
+  title: 2020-06-28 —new.SUNDAY AM
+  service: —new.SUNDAY AM
+  date: 2020-06-28
+  songs: 12
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2020-07-12-—new SUN AM.txt
+  title: 2020-07-12 —new SUN AM
+  service: —new SUN AM
+  date: 2020-07-12
+  songs: 14
+  missing song notes: 2
+  duplicate titles: 2
+OK: 2020-07-16-—new 2020.txt
+  title: 2020-07-16 —new 2020
+  service: —new 2020
+  date: 2020-07-16
+  songs: 9
+OK: 2020-07-19-New songs.txt
+  title: 2020-07-19 New songs
+  service: New songs
+  date: 2020-07-19
+  songs: 4
+  missing song notes: 1
+OK: 2020-07-19-Sunday Morning July 2020.txt
+  title: 2020-07-19 Sunday Morning July 2020
+  service: Sunday Morning July 2020
+  date: 2020-07-19
+  songs: 15
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2020-07-26-Sunday morning.txt
+  title: 2020-07-26 Sunday morning
+  service: Sunday morning
+  date: 2020-07-26
+  songs: 21
+  missing song notes: 4
+  duplicate titles: 3
+OK: 2020-07-30-Third.txt
+  title: 2020-07-30 Third
+  service: Third
+  date: 2020-07-30
+  songs: 20
+  duplicate titles: 2
+OK: 2020-08-02-—new SUN AM.txt
+  title: 2020-08-02 —new SUN AM
+  service: —new SUN AM
+  date: 2020-08-02
+  songs: 12
+  missing song notes: 4
+OK: 2020-08-09-—AM SUNDAY. New.txt
+  title: 2020-08-09 —AM SUNDAY. New
+  service: —AM SUNDAY. New
+  date: 2020-08-09
+  songs: 20
+  missing song notes: 7
+  duplicate titles: 1
+OK: 2020-08-13-—NewPM Thursday.txt
+  title: 2020-08-13 —NewPM Thursday
+  service: —NewPM Thursday
+  date: 2020-08-13
+  songs: 15
+  missing song notes: 4
+  duplicate titles: 3
+OK: 2020-08-23-—new.SUN AM Copy.txt
+  title: 2020-08-23 —new.SUN AM Copy
+  service: —new.SUN AM Copy
+  date: 2020-08-23
+  songs: 17
+  missing song notes: 4
+  duplicate titles: 4
+OK: 2020-08-23-—new.SUN AM.txt
+  title: 2020-08-23 —new.SUN AM
+  service: —new.SUN AM
+  date: 2020-08-23
+  songs: 16
+  missing song notes: 2
+  duplicate titles: 4
+OK: 2020-08-27-—new Thursday eve.txt
+  title: 2020-08-27 —new Thursday eve
+  service: —new Thursday eve
+  date: 2020-08-27
+  songs: 10
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2020-09-03-new.Thrsday.txt
+  title: 2020-09-03 new.Thrsday
+  service: new.Thrsday
+  date: 2020-09-03
+  songs: 19
+  missing song notes: 1
+  duplicate titles: 3
+OK: 2020-09-06-New.SOLO.txt
+  title: 2020-09-06 New.SOLO
+  service: New.SOLO
+  date: 2020-09-06
+  songs: 12
+  missing song notes: 1
+OK: 2020-09-17-new.THURS.txt
+  title: 2020-09-17 new.THURS
+  service: new.THURS
+  date: 2020-09-17
+  songs: 8
+  missing song notes: 2
+OK: 2020-09-24-new Thursday.txt
+  title: 2020-09-24 new Thursday
+  service: new Thursday
+  date: 2020-09-24
+  songs: 15
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2020-10-04-new SUN AM.txt
+  title: 2020-10-04 new SUN AM
+  service: new SUN AM
+  date: 2020-10-04
+  songs: 8
+  missing song notes: 2
+OK: 2020-10-18-New Sunday.txt
+  title: 2020-10-18 New Sunday
+  service: New Sunday
+  date: 2020-10-18
+  songs: 16
+  missing song notes: 4
+  duplicate titles: 3
+OK: 2020-11-01-AM SUNDAY.txt
+  title: 2020-11-01 AM SUNDAY
+  service: AM SUNDAY
+  date: 2020-11-01
+  songs: 17
+  duplicate titles: 1
+OK: 2020-12-27-AM SUNDAY.txt
+  title: 2020-12-27 AM SUNDAY
+  service: AM SUNDAY
+  date: 2020-12-27
+  songs: 16
+  missing song notes: 3
+  duplicate titles: 2
+OK: 2020-12-29-PM TUES.txt
+  title: 2020-12-29 PM TUES
+  service: PM TUES
+  date: 2020-12-29
+  songs: 9
+  missing song notes: 1
+  duplicate titles: 2
+OK: 2021-02-07-AM SUNDAY.txt
+  title: 2021-02-07 AM SUNDAY
+  service: AM SUNDAY
+  date: 2021-02-07
+  songs: 19
+  missing song notes: 5
+  duplicate titles: 5
+OK: 2021-02-07-PM SUNDAY.txt
+  title: 2021-02-07 PM SUNDAY
+  service: PM SUNDAY
+  date: 2021-02-07
+  songs: 13
+  missing song notes: 1
+OK: 2021-02-11-Pm Thursday.txt
+  title: 2021-02-11 Pm Thursday
+  service: Pm Thursday
+  date: 2021-02-11
+  songs: 12
+  missing song notes: 1
+  duplicate titles: 2
+OK: 2021-03-07-Believe For It.txt
+  title: 2021-03-07 Believe For It
+  service: Believe For It
+  date: 2021-03-07
+  songs: 3
+  missing song notes: 1
+OK: 2021-03-11-PM THURSDAY.txt
+  title: 2021-03-11 PM THURSDAY
+  service: PM THURSDAY
+  date: 2021-03-11
+  songs: 8
+  missing song notes: 5
+OK: 2021-04-22-4-22-21.txt
+  title: 2021-04-22 4-22-21
+  service: 4-22-21
+  date: 2021-04-22
+  songs: 11
+  duplicate titles: 2
+OK: 2021-04-22-PM THURSDAY.txt
+  title: 2021-04-22 PM THURSDAY
+  service: PM THURSDAY
+  date: 2021-04-22
+  songs: 10
+  duplicate titles: 1
+OK: 2021-06-24-PM THURS.txt
+  title: 2021-06-24 PM THURS
+  service: PM THURS
+  date: 2021-06-24
+  songs: 9
+  duplicate titles: 1
+OK: 2021-07-11-SUNDAY AM.txt
+  title: 2021-07-11 SUNDAY AM
+  service: SUNDAY AM
+  date: 2021-07-11
+  songs: 7
+  missing song notes: 2
+OK: 2021-07-22-New Thursday PM.txt
+  title: 2021-07-22 New Thursday PM
+  service: New Thursday PM
+  date: 2021-07-22
+  songs: 7
+  duplicate titles: 1
+OK: 2021-07-25-AM SUNDAY 72521.txt
+  title: 2021-07-25 AM SUNDAY 7/25/21
+  service: AM SUNDAY 7/25/21
+  date: 2021-07-25
+  songs: 13
+  missing song notes: 4
+  duplicate titles: 2
+OK: 2021-07-31-SING UNTO THE LORD.txt
+  title: 2021-07-31 SING UNTO THE LORD
+  service: SING UNTO THE LORD
+  date: 2021-07-31
+  songs: 122
+  missing song notes: 10
+  duplicate titles: 13
+OK: 2021-08-08-AMEN  2 versions.txt
+  title: 2021-08-08 AMEN / 2 versions
+  service: AMEN / 2 versions
+  date: 2021-08-08
+  songs: 2
+  missing song notes: 1
+OK: 2021-09-12-Lost songs.txt
+  title: 2021-09-12 Lost songs
+  service: Lost songs
+  date: 2021-09-12
+  songs: 3
+OK: 2021-10-07-Third 2021.txt
+  title: 2021-10-07 Third 2021
+  service: Third 2021
+  date: 2021-10-07
+  songs: 6
+OK: 2021-10-21-New pm Thursday.txt
+  title: 2021-10-21 New pm Thursday
+  service: New pm Thursday
+  date: 2021-10-21
+  songs: 12
+  missing song notes: 4
+  duplicate titles: 2
+OK: 2021-10-26-PM REVIVAL.txt
+  title: 2021-10-26 PM REVIVAL
+  service: PM REVIVAL
+  date: 2021-10-26
+  songs: 9
+  missing song notes: 1
+OK: 2021-11-03-PM WEDS.txt
+  title: 2021-11-03 PM WEDS
+  service: PM WEDS
+  date: 2021-11-03
+  songs: 11
+  missing song notes: 1
+  duplicate titles: 2
+OK: 2021-11-07-PM SUNDAY.txt
+  title: 2021-11-07 PM SUNDAY
+  service: PM SUNDAY
+  date: 2021-11-07
+  songs: 21
+  missing song notes: 1
+  duplicate titles: 5
+OK: 2021-12-05-SUNDAY AM 2021.txt
+  title: 2021-12-05 SUNDAY AM 2021
+  service: SUNDAY AM 2021
+  date: 2021-12-05
+  songs: 12
+  duplicate titles: 4
+OK: 2021-12-16-2021 PM THURSDAY.txt
+  title: 2021-12-16 2021 PM THURSDAY
+  service: 2021 PM THURSDAY
+  date: 2021-12-16
+  songs: 8
+  missing song notes: 3
+OK: 2022-01-20-2022 TH PM.txt
+  title: 2022-01-20 2022 TH PM
+  service: 2022 TH PM
+  date: 2022-01-20
+  songs: 6
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2022-02-06-2022 Pm Sunday.txt
+  title: 2022-02-06 2022 Pm Sunday
+  service: 2022 Pm Sunday
+  date: 2022-02-06
+  songs: 8
+  missing song notes: 1
+OK: 2022-02-24-Thursday 2022.txt
+  title: 2022-02-24 Thursday 2022
+  service: Thursday 2022
+  date: 2022-02-24
+  songs: 8
+  missing song notes: 3
+  duplicate titles: 1
+OK: 2022-03-10-2020 TH PM.txt
+  title: 2022-03-10 2020 TH PM
+  service: 2020 TH PM
+  date: 2022-03-10
+  songs: 13
+  missing song notes: 1
+  duplicate titles: 3
+OK: 2022-03-13-2020 SUNDAY AM.txt
+  title: 2022-03-13 2020 SUNDAY AM
+  service: 2020 SUNDAY AM
+  date: 2022-03-13
+  songs: 9
+  duplicate titles: 1
+OK: 2022-03-20-2020 SUNDAY AM.txt
+  title: 2022-03-20 2020 SUNDAY AM
+  service: 2020 SUNDAY AM
+  date: 2022-03-20
+  songs: 1
+OK: 2022-03-20-2020 SUNDAY PM 322.txt
+  title: 2022-03-20 2020 SUNDAY PM 3/22
+  service: 2020 SUNDAY PM 3/22
+  date: 2022-03-20
+  songs: 7
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2022-03-24-2022 March.txt
+  title: 2022-03-24 2022 March
+  service: 2022 March
+  date: 2022-03-24
+  songs: 9
+  missing song notes: 1
+OK: 2022-03-27-2022 March.txt
+  title: 2022-03-27 2022 March
+  service: 2022 March
+  date: 2022-03-27
+  songs: 9
+  missing song notes: 1
+  duplicate titles: 2
+OK: 2022-04-03-2022 sun am.txt
+  title: 2022-04-03 2022 sun am
+  service: 2022 sun am
+  date: 2022-04-03
+  songs: 6
+  duplicate titles: 1
+OK: 2022-04-07-2022 thurs pm.txt
+  title: 2022-04-07 2022 thurs pm
+  service: 2022 thurs pm
+  date: 2022-04-07
+  songs: 7
+  missing song notes: 2
+OK: 2022-04-28-2022 PM THURSDAY.txt
+  title: 2022-04-28 2022 PM THURSDAY
+  service: 2022 PM THURSDAY
+  date: 2022-04-28
+  songs: 8
+  missing song notes: 3
+  duplicate titles: 1
+OK: 2022-05-05-2020 May Thurs Pm.txt
+  title: 2022-05-05 2020 May Thurs Pm
+  service: 2020 May Thurs Pm
+  date: 2022-05-05
+  songs: 8
+OK: 2022-05-08-2020 SUNDAY AM.txt
+  title: 2022-05-08 2020 SUNDAY AM
+  service: 2020 SUNDAY AM
+  date: 2022-05-08
+  songs: 0
+OK: 2022-05-12-2022 pm th.txt
+  title: 2022-05-12 2022 pm th
+  service: 2022 pm th
+  date: 2022-05-12
+  songs: 8
+  missing song notes: 4
+  duplicate titles: 1
+OK: 2022-05-15-2020 sun am.txt
+  title: 2022-05-15 2020 sun am
+  service: 2020 sun am
+  date: 2022-05-15
+  songs: 7
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2022-05-22-2022 am sun.txt
+  title: 2022-05-22 2022 am sun
+  service: 2022 am sun
+  date: 2022-05-22
+  songs: 7
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2022-05-26-2022 thurs pm.txt
+  title: 2022-05-26 2022 thurs pm
+  service: 2022 thurs pm
+  date: 2022-05-26
+  songs: 13
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2022-06-05-2022 sun am.txt
+  title: 2022-06-05 2022 sun am
+  service: 2022 sun am
+  date: 2022-06-05
+  songs: 15
+  missing song notes: 3
+  duplicate titles: 2
+OK: 2022-06-23-2022 pm Thursday.txt
+  title: 2022-06-23 2022 pm Thursday
+  service: 2022 pm Thursday
+  date: 2022-06-23
+  songs: 9
+  missing song notes: 2
+OK: 2022-06-26-2022 June sun am.txt
+  title: 2022-06-26 2022 June sun am
+  service: 2022 June sun am
+  date: 2022-06-26
+  songs: 7
+  missing song notes: 1
+OK: 2022-07-03-Q022 sun am.txt
+  title: 2022-07-03 Q022 sun am
+  service: Q022 sun am
+  date: 2022-07-03
+  songs: 10
+  missing song notes: 4
+  duplicate titles: 2
+OK: 2022-07-10-2022 an sun.txt
+  title: 2022-07-10 2022 an sun
+  service: 2022 an sun
+  date: 2022-07-10
+  songs: 10
+  missing song notes: 3
+  duplicate titles: 1
+OK: 2022-07-17-2022 sun am.txt
+  title: 2022-07-17 2022 sun am
+  service: 2022 sun am
+  date: 2022-07-17
+  songs: 13
+  missing song notes: 1
+  duplicate titles: 4
+OK: 2022-08-04-2022 pm thurs.txt
+  title: 2022-08-04 2022 pm thurs
+  service: 2022 pm thurs
+  date: 2022-08-04
+  songs: 8
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2022-08-04-Pm thurs.txt
+  title: 2022-08-04 Pm thurs
+  service: Pm thurs
+  date: 2022-08-04
+  songs: 4
+OK: 2022-08-07-2022 PM SUNDAY.txt
+  title: 2022-08-07 2022 PM SUNDAY
+  service: 2022 PM SUNDAY
+  date: 2022-08-07
+  songs: 9
+  missing song notes: 4
+OK: 2022-08-21-2022 sun am.txt
+  title: 2022-08-21 2022 sun am
+  service: 2022 sun am
+  date: 2022-08-21
+  songs: 17
+  missing song notes: 7
+  duplicate titles: 3
+OK: 2022-09-08-2022 THURS PM.txt
+  title: 2022-09-08 2022 THURS PM
+  service: 2022 THURS PM
+  date: 2022-09-08
+  songs: 12
+  missing song notes: 1
+  duplicate titles: 1
+OK: 2022-09-15-2022 pm THURSDAY.txt
+  title: 2022-09-15 2022 pm THURSDAY
+  service: 2022 pm THURSDAY
+  date: 2022-09-15
+  songs: 11
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2022-10-08-2022 SUNDAY AM 119.txt
+  title: 2022-10-08 2022 SUNDAY AM 11/9
+  service: 2022 SUNDAY AM 11/9
+  date: 2022-10-08
+  songs: 14
+  missing song notes: 5
+  duplicate titles: 2
+OK: 2022-10-16-Sun am 2022.txt
+  title: 2022-10-16 Sun am 2022
+  service: Sun am 2022
+  date: 2022-10-16
+  songs: 11
+  duplicate titles: 2
+OK: 2022-10-30-2022 altar.txt
+  title: 2022-10-30 2022 altar
+  service: 2022 altar
+  date: 2022-10-30
+  songs: 16
+  duplicate titles: 2
+OK: 2022-11-06-2022 sun am.txt
+  title: 2022-11-06 2022 sun am
+  service: 2022 sun am
+  date: 2022-11-06
+  songs: 22
+  missing song notes: 6
+  duplicate titles: 2
+OK: 2022-11-13-2022 AM SUN.txt
+  title: 2022-11-13 2022 AM SUN
+  service: 2022 AM SUN
+  date: 2022-11-13
+  songs: 10
+  missing song notes: 2
+  duplicate titles: 2
+OK: 2022-11-20-2022 1120 Sun AM.txt
+  title: 2022-11-20 2022 11/20 Sun AM
+  service: 2022 11/20 Sun AM
+  date: 2022-11-20
+  songs: 10
+  missing song notes: 1
+OK: 2022-12-15-2022 pm thurs.txt
+  title: 2022-12-15 2022 pm thurs
+  service: 2022 pm thurs
+  date: 2022-12-15
+  songs: 9
+  duplicate titles: 2
+OK: 2022-12-20-2022 PM TUES.txt
+  title: 2022-12-20 2022 PM TUES
+  service: 2022 PM TUES
+  date: 2022-12-20
+  songs: 9
+  missing song notes: 2
+  duplicate titles: 1
+OK: 2023-01-12-AM SUNDAY.txt
+  title: 2023-01-12 AM SUNDAY
+  service: AM SUNDAY
+  date: 2023-01-12
+  songs: 5
+  missing song notes: 1
+OK: 2023-01-29-2023 SUN 12923.txt
+  title: 2023-01-29 2023 SUN 1/29/23
+  service: 2023 SUN 1/29/23
+  date: 2023-01-29
+  songs: 15
+  missing song notes: 2
+  duplicate titles: 2
+OK: 2023-02-09-PM 2023 THURS.txt
+  title: 2023-02-09 PM 2023 THURS
+  service: PM 2023 THURS
+  date: 2023-02-09
+  songs: 13
+  missing song notes: 1
+  duplicate titles: 3
+OK: 2023-02-16-2023 Thurs pm.txt
+  title: 2023-02-16 2023 Thurs pm
+  service: 2023 Thurs pm
+  date: 2023-02-16
+  songs: 19
+  missing song notes: 9
+  duplicate titles: 2
+OK: 2023-03-09-PM THURS 3923.txt
+  title: 2023-03-09 PM THURS 3/9/23
+  service: PM THURS 3/9/23
+  date: 2023-03-09
+  songs: 19
+  missing song notes: 5
+  duplicate titles: 3
+OK: 2023-05-28-AM SUNDAY.txt
+  title: 2023-05-28 AM SUNDAY
+  service: AM SUNDAY
+  date: 2023-05-28
+  songs: 0
+OK: 2023-05-28-am Sunday May 28, 2023.txt
+  title: 2023-05-28 am Sunday May 28, 2023
+  service: am Sunday May 28, 2023
+  date: 2023-05-28
+  songs: 11
+  missing song notes: 1
+  duplicate titles: 2
+OK: 2023-06-15-PM THURS 2023 615.txt
+  title: 2023-06-15 PM THURS 2023 6/15
+  service: PM THURS 2023 6/15
+  date: 2023-06-15
+  songs: 30
+  missing song notes: 3
+  duplicate titles: 6
+OK: 2023-07-06-AM TH 723.txt
+  title: 2023-07-06 AM TH 7/23
+  service: AM TH 7/23
+  date: 2023-07-06
+  songs: 13
+  duplicate titles: 2
+OK: 2023-08-17-PM THURS.txt
+  title: 2023-08-17 PM THURS
+  service: PM THURS
+  date: 2023-08-17
+  songs: 17
+  missing song notes: 11
+  duplicate titles: 2
+OK: 2023-09-21-PM THURS 9-21-23.txt
+  title: 2023-09-21 PM THURS 9-21-23
+  service: PM THURS 9-21-23
+  date: 2023-09-21
+  songs: 17
+  missing song notes: 4
+  duplicate titles: 3
+OK: 2023-11-21-2023 TRANSITION.txt
+  title: 2023-11-21 2023 TRANSITION
+  service: 2023 TRANSITION
+  date: 2023-11-21
+  songs: 14
+  missing song notes: 10
+OK: 2024-12-01-2024-12-01.txt
+  title: 2024-12-01 2024-12-01
+  service: 2024-12-01
+  date: 2024-12-01
+  songs: 3
+  missing song notes: 3
+
+============================================================
+Set files scanned       : 622
+Set notes created       : 622
+Errors                  : 0
+Total song entries      : 5965
+Missing linked targets  : 744
+Duplicate title entries : 353
+Output folder           : /Volumes/AllWork_2024/000_obsidian/ALL-songs-library/sets
+============================================================

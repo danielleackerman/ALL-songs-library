@@ -1,23 +1,26 @@
 ---
-title: "Come On Back To Me"
-artist: "Third Day"
+title: Come On Back To Me
+artist: Third Day
 key: Gb
-tempo: 
-time: 
-ccli: "4292098"
-copyright: "2004 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4292098'
+copyright: 2004 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "7718E6D1-1EC7-4BC0-ABAF-4EAC8949804C"
+id: 7718E6D1-1EC7-4BC0-ABAF-4EAC8949804C
 ---
-
 Intro: g#m  b  e c#  g#m  b  e  c#
 
 [G#m]        You’ve been [F#]hiding now for [C#]so long

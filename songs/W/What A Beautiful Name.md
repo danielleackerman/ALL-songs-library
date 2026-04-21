@@ -1,37 +1,41 @@
 ---
-title: "What A Beautiful Name"
-artist: "Hillsong Worship"
+title: What A Beautiful Name
+artist: Hillsong Worship
 key: D
-tempo: 68
-time: 
-ccli: "7068424"
-copyright: "2016 Hillsong Music Publishing"
+bpm: '68'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "christ"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - christ
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "contemp-christian-slow"
-keywords: "contemp christian slow,"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - contemp-christian-slow
+keywords: 'contemp christian slow,'
+ccli: '7068424'
+copyright: 2016 Hillsong Music Publishing
+source: ''
+year: ''
 medley: []
-id: "3C822B47-B5D2-4AB3-B755-50188B09105B"
+id: 3C822B47-B5D2-4AB3-B755-50188B09105B
 ---
-
 VERSE 1:
 [D]You were the Word at the beginning
 One with [G]God the [Bm]Lord Most [A]High

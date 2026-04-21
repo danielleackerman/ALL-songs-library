@@ -1,22 +1,25 @@
 ---
-title: "In Awe of You"
-artist: "Chris Jelderks, Danielle Grigsby"
+title: In Awe of You
+artist: 'Chris Jelderks, Danielle Grigsby'
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "475173E0-1FB5-456B-9929-B3EB93F8888D"
+id: 475173E0-1FB5-456B-9929-B3EB93F8888D
 ---
-
 CHORUS:
 
 Let your arms surround me

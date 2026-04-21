@@ -1,22 +1,25 @@
 ---
-title: "Nothing At All"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Nothing At All
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "24988E27-0A30-4C7A-92B3-452C74AD380C"
+id: 24988E27-0A30-4C7A-92B3-452C74AD380C
 ---
-
 Key:
 
 Nothing At All

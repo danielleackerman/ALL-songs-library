@@ -1,23 +1,26 @@
 ---
-title: "Maker Of Noses"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Maker Of Noses
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "dreams"
+  - dreams
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CEEF2D3E-7E30-4AE1-AD5C-F04276A598AA"
+id: CEEF2D3E-7E30-4AE1-AD5C-F04276A598AA
 ---
-
 Key:
 
 Maker of Noses

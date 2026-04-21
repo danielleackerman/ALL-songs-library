@@ -1,22 +1,25 @@
 ---
-title: "Exercise Song #2"
-artist: "AP 201 Lesson 2"
+title: 'Exercise Song #2'
+artist: AP 201 Lesson 2
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7E2C9E6D-4B71-437C-A755-06EFADFD3DE8"
+id: 7E2C9E6D-4B71-437C-A755-06EFADFD3DE8
 ---
-
 Minor 11th Chords on the vii chord (b3, b7, 9, 11)
 
 [C] [/] [/] [/] [Bm11] [/] [E7b9] [/] [Am9] [/] [/] [/] [Gm9] [/] [C9] [/]

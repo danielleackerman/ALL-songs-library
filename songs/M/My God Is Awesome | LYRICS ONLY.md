@@ -1,24 +1,27 @@
 ---
-title: "My God Is Awesome | LYRICS ONLY"
-artist: "Pastor Charles Jenkins"
+title: My God Is Awesome | LYRICS ONLY
+artist: Pastor Charles Jenkins
 key: Eb
-tempo: 66
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '66'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "awesome"
+  - awesome
 genre: []
-energy: medium-slow
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "99882A89-13B9-4888-B80D-6E9D8B437CBF"
+id: 99882A89-13B9-4888-B80D-6E9D8B437CBF
 ---
-
 VERSE 1:
 My God is awesome,  He can move mountains,
 Keep me in the valley, Hide me from the rain.

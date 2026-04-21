@@ -1,55 +1,55 @@
 ---
-title: "In Christ Alone"
-artist: "Keith and Kristin Getty"
+title: In Christ Alone
+artist: Stuart Townend
 key: D
-tempo: 
-time: 
-ccli: "3350395"
-copyright: "2001 Thankyou Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "christ"
+  - christ
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3350395'
+copyright: 2001 Thankyou Music
+source: ''
+year: ''
 medley: []
-id: "B06B9493-9625-4C92-A3A3-F172386F6CA5"
+id: B0DB2D0B-9516-49D0-AA6B-B36A650E75EA
 ---
-
 INTRO:
-[D] [G] [Bm] [A]
+[G] [D] [G] [A] [D/F#] [Em7] [G] [D] [Dsus] [D]
 
 VERSE 1:
-In Christ a[D]lone, My hope is [A]found, He is my [Em]light, my [G]strength, my [D]song
-This Cornerstone, This solid ground, Firm through the [G]fiercest drought and [D]storm
-
-What heights of [G]love, What depths of [A]peace, When fears are [Bm]stilled, When [A]strivings [D]cease     My Comfor[D]ter, My all in all, Here in the [G]love of Christ I [D]stand  [Am7] [G] [Em] [G]
+In Ch[G]rist a[D]lone my ho[G]pe is fo[A]und, [D/F#]He is my Li[G]ght, [D/F#]my st[Em7]rength,[G/A]   my so[D]ng.
+This Co[G]rner[D]stone, this so[G]lid gr[A]ound, [D/F#]Firm through the fie[G]rc[D/F#] est dr[Em7]ought[G/A] and st[D]orm.
+What he[D/F#]ights of lo[G]ve! What de[D]pths of [Asus]peace[A], When fe[D]ars are st[G]illed, when st[Bm7]rivings [Asus]cease[A]
+My C[G]omfort[D]er, my a[G]ll in a[A]ll, [D/F#]Here in the l[G]ove [D/F#] of C[Em7]hrist [G/A] st[D]and.
+[Dsus] [D]
 
 VERSE 2:
-In Christ a[D]lone, Who took on [G]flesh, Fullness of [G]God in [Em]helpless [D]babe
-This gift of love and righteous[A]ness, Scorned by the [G]ones He [Em]came to [D]save
-‘Til on that [G]cross as Jesus [A]died, The [D]wrath of [Em]God was [D]satis[A]fied
-For [G]every [D]sin on Him was laid, Here in the [G]death of [Em]Christ I [D]live
-
-[Am7] [G] [Em] [D] [Em] [G] [A] [Bm] [G] [A]
+In Christ alone, who took on flesh, Fullness of God in helpless Babe.
+This gift of love and righteousness, Scorned by the ones He came to save
+'til on that cross as Jesus died, the wrath of God was satisfied,
+for ev'ry sin on Him was laid, Here in the death of Christ I live.
+[G] [A] [Em7]  [G]  [D] [Dsus]  [D]
 
 VERSE 3:
-[Am7]There in the [Bm7]ground His [D]body [A]lay, [F#m7]Light of the [G]world by [A]darkness [D]slain
-Then [A]bursting [G]forth in glorious [A]day, Up from the [G]grave He [Em]rose a[A]gain
-
-And as He [G]stands in [Bm]victo[A]ry, Sin’s [D]curse has [Em]lost its [D]grip on [A]me
-For [G]I am [D]His, and He is [A]mine, Bought with the [G]precious [Em]blood of [D]Christ
-
-[A] [Em] [G] [D]
+There in the ground His body lay, Light of the world by darkness slain.
+Then bursting forth in glorious day, Up from the grave He rose again.
+And as He stands in victory, Sin's curse has lost its grip on me.
+For I am His, and He is mine,Bought with the precious blood of Chr[D]ist [B]
 
 VERSE 4:
-No guilt in [D]life, no fear in [A]death, This is the [G]power of Christ in [D]me
-From life’s first [D]cry to final [A]breath, Jesus commands [G]my [Em]desti[D]ny
-No power of [G]hell, no scheme of [A]man, Can [D]ever pluck me [B]from His [A]hand
-‘Til [G]He re[D]turns or [G]calls me [A]home, [D]Here in the [G]power of [Em]Christ I’ll [D]stand
-
-No power of [Em]hell, no scheme of [A]man, Can ever [G]pluck me from His [A]hand
-‘Til [G]He re[D]turns or [G]calls me [A]home, [F#m]Here in the [G]power [E]of [Em]Christ [Am]I’ll [D]stand
+No guilt in life, no fear in death, This is the pow'r of Christ in me.
+From life's first cry to final breath, Jesus commands my destiny.
+No pow'r of hell, no scheme of man, Can ever pluck me from His hand
+'til He returns, or calls me home
+[D/F#]Here in the p[G]ow'r [D/F#]of   C[Em7]hrist [G/A]   I'll st[D]and.
+[D/F#]Here in the p[G]ow'r [D/F#]of   C[Em7]hrist [G/A]   I'll st[Bm]and.
+[D/F#]Here in the p[G]ow'r [D/F#]of   C[Em7]hrist [G/A]   I'll st[D]and.
+[G] [A] [D/F#] [Em7] [G] [D]

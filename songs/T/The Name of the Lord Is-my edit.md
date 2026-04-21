@@ -1,23 +1,26 @@
 ---
-title: "The Name of the Lord Is-my edit"
-artist: "Key : [F]"
+title: The Name of the Lord Is-my edit
+artist: 'Key : [F]'
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "30CAAD68-B0BC-47CD-BF1D-F166E7D8A8A4"
+id: 30CAAD68-B0BC-47CD-BF1D-F166E7D8A8A4
 ---
-
 The [C11]name of the [F]Lord is [Bb] [C11]a strong [F]tower
 
 The [F]righteous run [C]into [Dm]it and [C11]they are [G7]sa[F#dim]fe  [C11]

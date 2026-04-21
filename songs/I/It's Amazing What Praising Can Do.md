@@ -1,37 +1,41 @@
 ---
-title: "It's Amazing What Praising Can Do"
-artist: ""
+title: It's Amazing What Praising Can Do
+artist: ''
 key: F
-tempo: 89
-time: 
-ccli: 
-copyright: 
+bpm: '89'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[WE BRING THE SACRIFICE OF PRAISE]]"
-id: "BB87D3C5-70F6-4871-9F95-A0C0F4452B22"
+  - '[[WE BRING THE SACRIFICE OF PRAISE]]'
+id: BB87D3C5-70F6-4871-9F95-A0C0F4452B22
 ---
-
 Medley: we bring the sacrifice of praise
 
 [F]It's ama-

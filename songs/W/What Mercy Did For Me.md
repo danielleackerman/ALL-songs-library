@@ -1,23 +1,31 @@
 ---
-title: "What Mercy Did For Me"
-artist: "originally by Alfred Brumley; as arranged by Micah Tyler, Crystal Yates, Joshua Sherman & Emerging Sound"
+title: What Mercy Did For Me
+artist: >-
+  originally by Alfred Brumley; as arranged by Micah Tyler, Crystal Yates,
+  Joshua Sherman & Emerging Sound
 key: C#m
-tempo: 
-time: 
-ccli: "7088252"
-copyright: "2016 Albert E. Brumley & Sons, New Hope Road Music, Tent Peg Music, The Emerging Sound Publishing, Fair Trade Global Songs, Admin. ClearBox Rights, LLC, Essential Music Publishing LLC, Music Services, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "mercy"
+  - mercy
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7088252'
+copyright: >-
+  2016 Albert E. Brumley & Sons, New Hope Road Music, Tent Peg Music, The
+  Emerging Sound Publishing, Fair Trade Global Songs, Admin. ClearBox Rights,
+  LLC, Essential Music Publishing LLC, Music Services, Inc.
+source: ''
+year: ''
 medley: []
-id: "146057C1-B87C-4081-8108-FF6A5D0FF9CF"
+id: 146057C1-B87C-4081-8108-FF6A5D0FF9CF
 ---
-
 INTRO:
 [C#m] [B] [A] [E]
 

@@ -1,22 +1,25 @@
 ---
-title: "You Are Mine"
-artist: "Third Day"
+title: You Are Mine
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: "4292115"
-copyright: "2004 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4292115'
+copyright: 2004 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "AF560BFE-EBE6-426C-8517-DF994AE929FE"
+id: AF560BFE-EBE6-426C-8517-DF994AE929FE
 ---
-
 Capo 2nd Fret 1-5 strings ONLY
 
 	    D

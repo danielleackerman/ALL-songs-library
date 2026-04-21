@@ -1,22 +1,25 @@
 ---
-title: "Dont Say Goodbye"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Dont Say Goodbye
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "71E68F8E-6AD9-429C-A515-15F0B008C939"
+id: 71E68F8E-6AD9-429C-A515-15F0B008C939
 ---
-
 Key:
 
 Song:			Don’t Say Goodbye

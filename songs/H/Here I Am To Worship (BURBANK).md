@@ -1,23 +1,26 @@
 ---
-title: "Here I Am To Worship (BURBANK)"
-artist: "Burbank"
+title: Here I Am To Worship (BURBANK)
+artist: Burbank
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "EAF66F72-4A39-4703-AF14-D4A9EEB0B461"
+id: EAF66F72-4A39-4703-AF14-D4A9EEB0B461
 ---
-
 Key of: F
 
 VERSE 1:

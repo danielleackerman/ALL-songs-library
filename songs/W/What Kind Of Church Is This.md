@@ -1,35 +1,39 @@
 ---
-title: "What Kind Of Church Is This"
-artist: ""
+title: What Kind Of Church Is This
+artist: ''
 key: F
-tempo: 112
-time: 
-ccli: 
-copyright: 
+bpm: '112'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "87CAAE10-BF5F-4EB3-92D8-045C964FF016"
+id: 87CAAE10-BF5F-4EB3-92D8-045C964FF016
 ---
-
 [Bb/C]What kind of [F]church is this, it's an Apostolic church
 [F7]What kind of [Bb7]church is this, it's an Apostolic [F]church
 [Bb/C]What kind of [F]church is this, it's an Apo[A7+]stolic [Dm7]church

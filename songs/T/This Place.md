@@ -1,23 +1,26 @@
 ---
-title: "This Place"
-artist: ""
+title: This Place
+artist: ''
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7330758B-01E9-4296-91FE-717EB34885B3"
+id: 7330758B-01E9-4296-91FE-717EB34885B3
 ---
-
 INTRO:
 [Bb] [F] [C]
 

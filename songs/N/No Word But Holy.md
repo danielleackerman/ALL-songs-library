@@ -1,32 +1,36 @@
 ---
-title: "No Word But Holy"
-artist: "Clint Brown"
+title: No Word But Holy
+artist: Clint Brown
 key: F
-tempo: 
-time: 
-ccli: "3467862"
-copyright: "2001 Martha Munizzi Music / Tribe Music Group"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "love"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - love
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '3467862'
+copyright: 2001 Martha Munizzi Music / Tribe Music Group
+source: ''
+year: ''
 medley: []
-id: "43742ABA-DA8D-4FF3-B586-4F1D0878DE4B"
+id: 43742ABA-DA8D-4FF3-B586-4F1D0878DE4B
 ---
-
 VERSE 1:
 [F]No [Gm]word [F/A]but [Bb][F/A]Holy, [Gm]
 That's what I would [C]say,

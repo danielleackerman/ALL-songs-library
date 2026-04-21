@@ -1,23 +1,26 @@
 ---
-title: "O, It is Jesus"
-artist: "Artist Name"
+title: 'O, It is Jesus'
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3FB228E2-499B-4B4C-A081-215349F7FA73"
+id: 3FB228E2-499B-4B4C-A081-215349F7FA73
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

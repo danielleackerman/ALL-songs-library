@@ -1,24 +1,27 @@
 ---
-title: "Come And Fill Me Up"
-artist: "Brian Doerksen"
+title: Come And Fill Me Up
+artist: Brian Doerksen
 key: E
-tempo: 
-time: 
-ccli: "630307"
-copyright: "1990 Vineyard Songs Canada / ION Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "presence"
+  - love
+  - presence
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '630307'
+copyright: 1990 Vineyard Songs Canada / ION Publishing
+source: ''
+year: ''
 medley: []
-id: "958B779E-D8BB-4A1D-B6AC-F075F90D6F91"
+id: 958B779E-D8BB-4A1D-B6AC-F075F90D6F91
 ---
-
 [A]I can [Asus]feel You[A] flowing [Asus]through me
 [A]Holy [Asus]Spirit,[A] come and [Asus]fill me [E]up
 [D]   Come and fill me up[A][Asus][A][Asus]

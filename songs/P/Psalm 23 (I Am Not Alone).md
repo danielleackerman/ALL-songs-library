@@ -1,23 +1,26 @@
 ---
-title: "Psalm 23 (I Am Not Alone)"
-artist: "People and Songs"
+title: Psalm 23 (I Am Not Alone)
+artist: People and Songs
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "victory"
+  - victory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "446BE226-6B57-40D2-AA74-A5E34E59400E"
+id: 446BE226-6B57-40D2-AA74-A5E34E59400E
 ---
-
 VERSE 1:
 
 The Lord is my [E]Shepherd.  He goes be[A]fore me

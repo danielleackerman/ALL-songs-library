@@ -1,23 +1,26 @@
 ---
-title: "Did You Come To Give The Lord The Praise ?"
-artist: "Key : [F]"
+title: Did You Come To Give The Lord The Praise ?
+artist: 'Key : [F]'
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1270FF2D-64BF-45EE-A3B4-9C7669F8855B"
+id: 1270FF2D-64BF-45EE-A3B4-9C7669F8855B
 ---
-
 [Bb/C]Did you [F]come to give the Lord the praise
 [F]Did you come to give the [Dm]Lord the[C][C7] praise
 He's[F] worthy of the [F7/A]glory

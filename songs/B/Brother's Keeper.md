@@ -1,22 +1,25 @@
 ---
-title: "Brother's Keeper"
-artist: "Rich Mullins"
+title: Brother's Keeper
+artist: Rich Mullins
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8890E3EE-7BAB-437B-9A56-89BDA4CABAC8"
+id: 8890E3EE-7BAB-437B-9A56-89BDA4CABAC8
 ---
-
     E  A      D2          E   D      A
 |:( / / / / )( / / / / )( / / / / )( / / / / ):|
 No[E]w th[A]e plumber'[D2]s got a drip in his spigot

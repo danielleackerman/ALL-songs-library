@@ -1,24 +1,27 @@
 ---
-title: "All That I Am"
-artist: "The Afters"
+title: All That I Am
+artist: The Afters
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "2004 Sony Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "calling"
+  - love
+  - calling
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2004 Sony Music
+source: ''
+year: ''
 medley: []
-id: "1ED3E1F9-3BBF-4826-83AA-851867C7F60B"
+id: 1ED3E1F9-3BBF-4826-83AA-851867C7F60B
 ---
-
 Intro 2x:
 [D] [Dmaj7] [Dsus] [D] [Bm] [Bsus] [Bmsus4] [Bm] [2x]
 

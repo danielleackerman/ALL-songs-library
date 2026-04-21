@@ -1,23 +1,26 @@
 ---
-title: "Free To Worship"
-artist: "Eddy James"
+title: Free To Worship
+artist: Eddy James
 key: Db
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B154F0B7-54E7-4702-8F4C-0BBBF317CF85"
+id: 9C97C713-9A43-488D-B820-9830CC58B760
 ---
-
 [Db]Free  to worship  [Gb]Free to praise
 [Bbm]Free to lift up holy hands and [Ab]magnify His name
 

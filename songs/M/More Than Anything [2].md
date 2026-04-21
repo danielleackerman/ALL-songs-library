@@ -1,66 +1,50 @@
 ---
-title: "More Than Anything"
-artist: "Don Moen"
-key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: More Than Anything
+artist: ''
+key: Eb
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "love"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5B6010B6-23E2-4C24-AD71-5AC78703CBFD"
+id: 0B4797AA-67A3-47D4-91F0-40C58F28E227
 ---
+[Fm7] [Gm7]  [AbM7]More  [Bb7b9]than  [EbM7]anything  [Fm7]
 
-[Eb7]More than any[Ab]thing
-[Eb7]More than any[Cm]thing
-[Fm7]I love You [Bbm7]Jesus
-[Db]More than any[Ab]thing
+[Bb13]More   [Bb7b9]than   [EbM7]anything     [Bb/Eb]   [Cm7]
 
-[Eb7]More than [Ab]worldly wealth
-[Eb7]More than [Cm]life itself
-[Fm7]I love You Jesus
-[Db]More than any[Ab]thing
+I love You  [Fm7]Jesus   [Ab/Bb]more  than  an  [Bb7b9]y   [EbM7]thing
 
-[B]Nothing in this world
-[Ab]Can take Your place
-[B]Nothing take Your [Ab]love away
-[Fm7]Someday I will see You [Bb]face to face
-[Fm7]Look into Your eyes and [Eb7]say
+[Fm7]  [Gm7]  [AbM7]More   [Bb7b9]than   [EbM7]worldly  wealth  [Fm7]
 
-[Eb7]More than any[Ab]thing
-[Eb7]More than any[Cm]thing
-[Fm7]I love You [Bbm7]Jesus
-[Db]More than any[Ab]thing
+[Bb13]More   [Bb7b9]than   [EbM7]life  it’s  self     [Bb/Eb]   [Cm7]
 
-[Eb7]More than [Ab]earthly friends
-[Eb7]More than [Cm]family
-[Fm7]I love You Jesus
-[Db]More than any[Ab]thing
+I love You   [Fm7]Jesus,   [Ab/Bb]more  than  an  [Bb7b9]y   [Eb]thing
+
 
-Edit!!!!!
-[B]
-More than [E]anything [F#m] [E]
-More than [B]anything [C#m]
-I love You [A]Jesus
-More than [B]any[E]thing [F#m] [B]
+
 
-[B]More than [E]anything [F#]
-[F#m]More than [G#m]anything [C#m]
-I love You [F#m]Jesus
-[B] More than any[E]thing
+
+
+

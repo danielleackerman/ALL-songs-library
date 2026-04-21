@@ -1,24 +1,27 @@
 ---
-title: "Awesome God"
-artist: "Rich Mullins"
+title: Awesome God
+artist: Rich Mullins
 key: F#m
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "awesome"
+  - love
+  - awesome
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "002F0C47-7403-40D2-8338-C2087AD3A15A"
+id: 002F0C47-7403-40D2-8338-C2087AD3A15A
 ---
-
 Key : [F#m]
 Copyright: 1988 BMG Songs, Inc.
 Ccli: 41099

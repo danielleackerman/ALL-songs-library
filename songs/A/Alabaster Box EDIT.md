@@ -1,23 +1,26 @@
 ---
-title: "Alabaster Box EDIT"
-artist: "Cece Winans"
+title: Alabaster Box EDIT
+artist: Cece Winans
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "cont-gospel-slow"
-keywords: "cont. gospel slow"
-source: 
-year: 
+  - cont-gospel-slow
+keywords: cont. gospel slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DD8B4898-4C27-4793-89F9-E8AA2CB4417A"
+id: DD8B4898-4C27-4793-89F9-E8AA2CB4417A
 ---
-
 {artist: Cece Winans}
 
 (verse: 1)

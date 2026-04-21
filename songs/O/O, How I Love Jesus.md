@@ -1,24 +1,27 @@
 ---
-title: "O, How I Love Jesus"
-artist: "Burbank"
+title: 'O, How I Love Jesus'
+artist: Burbank
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "40EE7BAD-43DD-45FA-8CC5-8B326DDA9A08"
+id: 40EE7BAD-43DD-45FA-8CC5-8B326DDA9A08
 ---
-
 Key of: C
 
 [FM7]O, [Gm7]how I [C7(b9)]love [F]Jesus, [Am7 - Abm7]

@@ -1,23 +1,26 @@
 ---
-title: "Thou Art Worthy-EASY"
-artist: "BPM 85 - 3/4"
+title: Thou Art Worthy-EASY
+artist: BPM 85 - 3/4
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D5F9AA59-ED70-4AF1-AAAF-420BC72E3642"
+id: D5F9AA59-ED70-4AF1-AAAF-420BC72E3642
 ---
-
 [G]Thou art [G] worthy, [C]Thou art [C]worthy,
 [G]thou art worthy, O [D]Lord , [D]
 [G]To receive [G]glory, [C]Glory and [C]honor,

@@ -1,24 +1,27 @@
 ---
-title: "While The Nations Rage"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: While The Nations Rage
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "children"
+  - love
+  - children
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "EF3F040B-3718-4FE7-BB08-D877D2DD45D0"
+id: EF3F040B-3718-4FE7-BB08-D877D2DD45D0
 ---
-
 Key:
 
 While the Nations Rage

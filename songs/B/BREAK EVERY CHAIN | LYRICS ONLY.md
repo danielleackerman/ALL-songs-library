@@ -1,25 +1,28 @@
 ---
-title: "Break Every Chain | Lyrics Only"
-artist: "Tasha Cobbs"
+title: Break Every Chain | Lyrics Only
+artist: Tasha Cobbs
 key: A
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "army"
-  - "power"
+  - army
+  - power
 genre: []
-energy: 
 profile:
-  - "mod-gospel-slow"
-keywords: "mod gospel slow"
-source: 
-year: 
+  - mod-gospel-slow
+keywords: mod gospel slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DD0C9410-E0A5-48E8-B958-6E31E43FA117"
+id: DD0C9410-E0A5-48E8-B958-6E31E43FA117
 ---
-
 VERSE 1:
 Unison
 There is power in the name of Jesus

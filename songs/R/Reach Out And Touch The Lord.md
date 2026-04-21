@@ -1,25 +1,28 @@
 ---
-title: "Reach Out And Touch The Lord"
-artist: "Bill Harmon, 1958*"
+title: Reach Out And Touch The Lord
+artist: 'Bill Harmon, 1958*'
 key: D
-tempo: 
-time: "3/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
+  - altar-songs
 genre: []
-energy: 
 profile:
-  - "os-apo-slow"
-  - "os-apo-med"
-keywords: "os apo slow, os apo med"
-source: 
-year: 
+  - os-apo-slow
+  - os-apo-med
+keywords: 'os apo slow, os apo med'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B3549276-A86D-4BAC-A823-6F52ECA8C647"
+id: B3549276-A86D-4BAC-A823-6F52ECA8C647
 ---
-
 CHORUS:
 [D/E]Reach [A]out and touch the [A7/C#]Lord As [D]He passes [A]by,
 [D/E]You'll [A]find He's not too [F#m7]busy To [B7]hear your hearts [E7]cry.

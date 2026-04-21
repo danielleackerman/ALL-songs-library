@@ -1,23 +1,26 @@
 ---
-title: "God Is"
-artist: ""
+title: God Is
+artist: ''
 key: Dm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "awesome"
+  - awesome
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1331FE85-6D37-4646-B40D-B52EA6A69917"
+id: 1331FE85-6D37-4646-B40D-B52EA6A69917
 ---
-
 1:
 [Dm]God is an awesome God. [Gdim7/A]God is an awesome God.
 

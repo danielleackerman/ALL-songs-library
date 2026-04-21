@@ -1,24 +1,27 @@
 ---
-title: "Worship The King-ROMAN NUMERALS"
-artist: "Page 220"
+title: Worship The King-ROMAN NUMERALS
+artist: Page 220
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "king"
-  - "worship"
+  - king
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "2BA9509A-D374-41C1-864A-EF522657D698"
+id: 2BA9509A-D374-41C1-864A-EF522657D698
 ---
-
         [octaves]
        [V]    [V]                      [iii]     [topnote]
 [I2]Worship t[/]he Ki[/]ng, [iii7]Worship the [vi7]King.  [V].   [vi]

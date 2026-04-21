@@ -1,36 +1,40 @@
 ---
-title: "Into Your Presence"
-artist: ""
+title: Into Your Presence
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "presence"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - presence
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "38034F07-95EE-447C-AB20-5AC7908F4353"
+id: 38034F07-95EE-447C-AB20-5AC7908F4353
 ---
-
 [Eb/Bb]Into [Eb2/Ab]Your pre[Eb]sence [Eb/G]Lord I [Ab]come
 [Fm/Ab]Into [Fm2/Ab]Your [Eb/F]pre[Fm]sence
 [Fm/Eb]Most Holy[Eb/Db] One [Ab2/C]

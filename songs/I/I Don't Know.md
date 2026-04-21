@@ -1,22 +1,25 @@
 ---
-title: "I Don't Know"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: I Don't Know
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4A660F90-AEC5-4C63-9DDC-17DAE19FE087"
+id: 4A660F90-AEC5-4C63-9DDC-17DAE19FE087
 ---
-
 Key:
 Copyright: 2001 New Spring Publishing, Inc./Vandura 2500 Song
 

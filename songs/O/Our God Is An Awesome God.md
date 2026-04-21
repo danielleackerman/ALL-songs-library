@@ -1,34 +1,38 @@
 ---
-title: "Our God Is An Awesome God"
-artist: "Rich Mullins"
+title: Our God Is An Awesome God
+artist: Rich Mullins
 key: G
-tempo: 
-time: 
-ccli: "41099"
-copyright: "1988 BMG Songs, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-fast"
-  - "middle-eastern"
-  - "praise"
-  - "solo-songs"
-  - "traditional"
-  - "awesome"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-fast
+  - middle-eastern
+  - praise
+  - solo-songs
+  - traditional
+  - awesome
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional
+keywords: ''
+ccli: '41099'
+copyright: '1988 BMG Songs, Inc.'
+source: ''
+year: ''
 medley: []
-id: "727B6F7E-9B77-4BCA-8E78-8371418B8A6C"
+id: 727B6F7E-9B77-4BCA-8E78-8371418B8A6C
 ---
-
 [C]Our God is[G] an awesome God
 He [D]reigns from [Em]heaven above
 With [C]wisdom [G]power and love

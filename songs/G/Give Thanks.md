@@ -1,34 +1,38 @@
 ---
-title: "Give Thanks"
-artist: ""
+title: Give Thanks
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "thanks"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - thanks
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4DCC50D9-29FE-42BA-A624-655B14F7AA93"
+id: 4DCC50D9-29FE-42BA-A624-655B14F7AA93
 ---
-
 Give t[G]hanks with a g[Bm7]rateful heart
 Give [Em7]thanks unto the [Bm]Holy One
 Give t[C]hanks because He's [G/B]given Jesus C[F]hrist, His [Dsus]Son  [D]

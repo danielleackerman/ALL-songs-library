@@ -1,22 +1,27 @@
 ---
-title: "If We've Ever Needed You"
-artist: "Casting Crowns"
+title: If We've Ever Needed You
+artist: Casting Crowns
 key: D
-tempo: 
-time: 
-ccli: "5631995"
-copyright: "2009 Word Music, LLC / BanaHama Tunes / My Refuge Music / Sony/ATV Tree Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5631995'
+copyright: >-
+  2009 Word Music, LLC / BanaHama Tunes / My Refuge Music / Sony/ATV Tree
+  Publishing
+source: ''
+year: ''
 medley: []
-id: "8D40A12E-99E9-46EB-8F3D-D11C2C6F7A5D"
+id: 8D40A12E-99E9-46EB-8F3D-D11C2C6F7A5D
 ---
-
 Intro:    D    F#m    D     F#m    D
 
 [D]Hear our cry,[F#m]      Lord we pray,[D]

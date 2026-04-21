@@ -1,23 +1,26 @@
 ---
-title: "I'll Be Singing There"
-artist: ""
+title: I'll Be Singing There
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FB8D9794-881B-411D-B73F-711D1C800B26"
+id: E9ED1ADD-65F4-4F30-B7E2-00638FCC1F6E
 ---
-
 (Verse:1)
 
 [Eb]When the saints from ev'ry nation [Eb9/G]gather

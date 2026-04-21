@@ -1,23 +1,26 @@
 ---
-title: "It's My Joy"
-artist: "MercyMe"
+title: It's My Joy
+artist: MercyMe
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "joy"
+  - joy
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "838F5EA8-47EC-4204-B257-61C55B1AF933"
+id: 838F5EA8-47EC-4204-B257-61C55B1AF933
 ---
-
 [G]It is my joy to worshi[C]p You
 It is my joy t[G]o speak Your name[C]
 It is my joy to[G] be in Your presence[C]

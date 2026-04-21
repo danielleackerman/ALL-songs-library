@@ -1,36 +1,40 @@
 ---
-title: "In The Presence Of Jehovah"
-artist: "Geron Davis"
+title: In The Presence Of Jehovah
+artist: Geron Davis
 key: C
-tempo: 
-time: 
-ccli: "162040"
-copyright: "1983, 1985 Meadowgreen Music Company / Songchannel Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "presence"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - presence
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: '162040'
+copyright: '1983, 1985 Meadowgreen Music Company / Songchannel Music'
+source: ''
+year: ''
 medley: []
-id: "8931DC3A-4CD6-4785-8AA6-D331CF431700"
+id: 8931DC3A-4CD6-4785-8AA6-D331CF431700
 ---
-
 VERSE 1:
 [Gsus]   In and out of sit[C2]ua[C]tions , That tug a war [C/E]at [Fmaj7]me
 [F/G]   All day long I [C2]strugg[C]le,[C][Dm][C] For answers [C/E]that I [F]need [F][C/E][D/F]

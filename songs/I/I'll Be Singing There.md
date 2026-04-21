@@ -1,26 +1,29 @@
 ---
-title: "I'll Be Singing There"
-artist: "O.S. Davis"
+title: I'll Be Singing There
+artist: O.S. Davis
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "eternal"
-  - "glory"
-  - "sutl"
+  - eternal
+  - glory
+  - sutl
 genre: []
-energy: 
 profile:
-  - "os-apo-fast"
-keywords: "sutl, os apo fast"
-source: 
-year: 
+  - os-apo-fast
+keywords: 'sutl, os apo fast'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F3B2810F-24CD-4D36-839F-92760BD9E6CE"
+id: F3B2810F-24CD-4D36-839F-92760BD9E6CE
 ---
-
 {artist: O.S. Davis}
 
 VERSE 1:

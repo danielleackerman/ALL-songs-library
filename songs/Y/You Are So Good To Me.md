@@ -1,22 +1,25 @@
 ---
-title: "You Are So Good To Me"
-artist: "Third Day"
+title: You Are So Good To Me
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "2757944"
-copyright: "1999 Blue Renaissance Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2757944'
+copyright: 1999 Blue Renaissance Music
+source: ''
+year: ''
 medley: []
-id: "C89099AB-1ECF-4D93-A4A0-231AB4AD2A88"
+id: C89099AB-1ECF-4D93-A4A0-231AB4AD2A88
 ---
-
 [G]You are beautiful my swee[C2]t sweet song
 You are [G]beautiful my sweet sweet [C2]song
 You are [G]beautiful my sweet sweet [C2]song

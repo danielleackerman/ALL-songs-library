@@ -1,24 +1,27 @@
 ---
-title: "Hiding Place"
-artist: "Jars Of Clay"
+title: Hiding Place
+artist: Jars Of Clay
 key: A
-tempo: 
-time: 
-ccli: 
-copyright: "2005 Bridge Building / Pogostick Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "grace"
-  - "christ"
+  - grace
+  - christ
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2005 Bridge Building / Pogostick Music
+source: ''
+year: ''
 medley: []
-id: "245E2ABB-FF00-4273-9AA5-861647899CC1"
+id: 245E2ABB-FF00-4273-9AA5-861647899CC1
 ---
-
 A
 
 A

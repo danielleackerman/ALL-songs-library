@@ -1,22 +1,25 @@
 ---
-title: "It Is Well With My Soul"
-artist: "Jars Of Clay"
+title: It Is Well With My Soul
+artist: Jars Of Clay
 key: E
-tempo: 
-time: 
-ccli: "25376"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '25376'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "986320A5-D8E0-4EAF-B514-46DAE197671A"
+id: 986320A5-D8E0-4EAF-B514-46DAE197671A
 ---
-
 Intro: E – E – E – E (2X)
         (Guitar only)
 

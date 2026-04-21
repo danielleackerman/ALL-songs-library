@@ -1,35 +1,39 @@
 ---
-title: "Take My Life"
-artist: "Third Day"
+title: Take My Life
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "2027708"
-copyright: "1996 New Spring / Big Man Little Man Music / Gray Dot Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "life"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - life
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '2027708'
+copyright: 1996 New Spring / Big Man Little Man Music / Gray Dot Songs
+source: ''
+year: ''
 medley: []
-id: "70154EF9-1289-4227-8FFB-C40EEF5D35B3"
+id: 70154EF9-1289-4227-8FFB-C40EEF5D35B3
 ---
-
 INTRO:
 G c   d...
 

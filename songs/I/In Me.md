@@ -1,24 +1,27 @@
 ---
-title: "In Me"
-artist: "Casting Crowns"
+title: In Me
+artist: Casting Crowns
 key: C
-tempo: 
-time: 
-ccli: "4578877"
-copyright: "2005 Club Zoo Music / SWECS Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "christ"
-  - "light"
+  - christ
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4578877'
+copyright: 2005 Club Zoo Music / SWECS Music
+source: ''
+year: ''
 medley: []
-id: "60518629-0D62-4002-A966-4D3E8C086220"
+id: 60518629-0D62-4002-A966-4D3E8C086220
 ---
-
 [C] If you ask me to [F]leap         [Am] Out of my boat on the [F]crashing waves
 [C] If You ask me to [F]go             [Am]Preach to the lost world that [F]Jesus saves
 [G]   I’ll go, but I [F]cannot go alone    [G]    Cause I know I’m [F]nothing on my own

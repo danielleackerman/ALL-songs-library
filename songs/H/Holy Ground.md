@@ -1,39 +1,43 @@
 ---
-title: "Holy Ground"
-artist: "Geron Davis"
+title: Holy Ground
+artist: Geron Davis
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: "1983 by Meadowgreen Music Company/Songchannel Music Co, admin. by Capital CMG"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "praise"
-  - "holiness"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - praise
+  - holiness
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-keywords: "holiness, mod apo slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+keywords: 'holiness, mod apo slow'
+ccli: ''
+copyright: '1983 by Meadowgreen Music Company/Songchannel Music Co, admin. by Capital CMG'
+source: ''
+year: ''
 medley: []
-id: "20A26C9E-D329-4457-BA4A-A706ED443F41"
+id: 20A26C9E-D329-4457-BA4A-A706ED443F41
 ---
-
 VERSE 1:
 As I [Eb2]walked through the [Bb/D]door[Cm] I sensed His [Bb]presence
 [Bbm/Db]And [C7]I [Fm]knew this [Fm∆7]was a [Ab/Bb]place where love a[Eb2]bounds[Eb∆7][Ab/Bb]

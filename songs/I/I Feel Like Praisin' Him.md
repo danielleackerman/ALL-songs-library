@@ -1,22 +1,25 @@
 ---
-title: "I Feel Like Praisin' Him"
-artist: "Sandra Crouch"
+title: I Feel Like Praisin' Him
+artist: Sandra Crouch
 key: F
-tempo: 
-time: 
-ccli: "1801939"
-copyright: "1995 Dayspring Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1801939'
+copyright: '1995 Dayspring Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "43D06B13-66C5-4F57-9346-451AFE22A607"
+id: 43D06B13-66C5-4F57-9346-451AFE22A607
 ---
-
 [F]I feel like praisin' Him, I feel like praisin' Him[F][E][Eb]
 [Dm]The Lord has been so good to good to me[G7]
 I [Bb/C]feel like praisin' Him[F]

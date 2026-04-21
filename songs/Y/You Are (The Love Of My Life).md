@@ -1,25 +1,28 @@
 ---
-title: "You Are (The Love Of My Life)"
-artist: "Clint Brown"
+title: You Are (The Love Of My Life)
+artist: Clint Brown
 key: D
-tempo: 66
-time: "4/4"
-ccli: "3176555"
-copyright: "1999 Integrity's Praise! Music"
+bpm: '66'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "hope"
+  - love
+  - hope
 genre: []
-energy: medium-slow
 profile:
-  - "mod-apo-med"
-keywords: "mod. apo. med."
-source: 
-year: 
+  - mod-apo-med
+keywords: mod. apo. med.
+ccli: '3176555'
+copyright: 1999 Integrity's Praise! Music
+source: ''
+year: ''
 medley: []
-id: "2BDCBD11-FE0A-4641-9401-D20C22698326"
+id: 2BDCBD11-FE0A-4641-9401-D20C22698326
 ---
-
 INTRO:
 [Dmaj7] [Asus2] [Asus] [Gm]
 [Am7] [A#m7] [D] [A#m7]

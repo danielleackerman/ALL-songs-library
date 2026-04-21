@@ -1,23 +1,26 @@
 ---
-title: "Verse 1"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Verse 1
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "928DCC51-3654-4D09-960E-165FD64748FE"
+id: 928DCC51-3654-4D09-960E-165FD64748FE
 ---
-
 VERSE 1:
 Copyright: © 2018 Brandon Lake Music (ASCAP) (admin by Bethel Music Publishing) / Meadowgreen Music Company (ASCAP) (adm. at CapitolCMGPublishing.com) / Tasha Cobbs Music Group (ASCAP) (adm. at CapitolCMGPublishing.com) / Bethel Worship Publishing (BMI) / Tony Brown Music Designee (BMI) (admin by Bethel Worship Publishing) / Mouth of the River Music (BMI) (admin by Bethel Worship Publishing). All Rights Reserved. Used by Permission.
 Ccli: 7123068

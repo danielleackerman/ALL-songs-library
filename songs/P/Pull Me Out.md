@@ -1,22 +1,25 @@
 ---
-title: "Pull Me Out"
-artist: "Bebo Norman"
+title: Pull Me Out
+artist: Bebo Norman
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "2008"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: '2008'
+source: ''
+year: ''
 medley: []
-id: "C503D7D5-6BE5-44CB-A5AA-57DF2A5C38E1"
+id: C503D7D5-6BE5-44CB-A5AA-57DF2A5C38E1
 ---
-
 VERSE 1:
 D
 Tell me now, when does this start feeling Like I understand, everything I'm dealing with.

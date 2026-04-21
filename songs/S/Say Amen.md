@@ -1,23 +1,26 @@
 ---
-title: "Say Amen"
-artist: "MercyMe"
+title: Say Amen
+artist: MercyMe
 key: G
-tempo: 
-time: 
-ccli: "3546477"
-copyright: "1999 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3546477'
+copyright: 1999 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "1CA6DCC1-504E-4314-B226-C8DBC74B2C31"
+id: 1CA6DCC1-504E-4314-B226-C8DBC74B2C31
 ---
-
 This is from MercyMe's old-school worship days. The opening is basically fingered-
 sorry I can't give a very accurate description of the pattern.
 

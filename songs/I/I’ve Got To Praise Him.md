@@ -1,23 +1,26 @@
 ---
-title: "I’ve Got To Praise Him"
-artist: ""
+title: I’ve Got To Praise Him
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9260701C-8575-469B-A036-11B584B01DAC"
+id: 9260701C-8575-469B-A036-11B584B01DAC
 ---
-
 [Bb/C]I’ve got to [F]praise Him
 [F7]I’ve got to [Bb7]lift my voice and [F]shout
 [Bb/C]I’ve got to [F]praise [Dm]Him

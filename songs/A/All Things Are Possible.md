@@ -1,23 +1,26 @@
 ---
-title: "All Things Are Possible"
-artist: "Darlene Zschech"
+title: All Things Are Possible
+artist: Darlene Zschech
 key: C
-tempo: 
-time: 
-ccli: "2245140"
-copyright: "1997 Darlene Zschech (Hillsong)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2245140'
+copyright: 1997 Darlene Zschech (Hillsong)
+source: ''
+year: ''
 medley: []
-id: "C2F41F5F-7E47-46EA-82FF-F5D2C62A16F7"
+id: C2F41F5F-7E47-46EA-82FF-F5D2C62A16F7
 ---
-
 VERSE:
 [C2]    Almighty [Am7]God my Redeem[C2]er, my hiding [Am7]place my safe re[F2]fuge
 No other [G]name like J[Am]e[G]sus    [F2]    No power can stand [G]against you.

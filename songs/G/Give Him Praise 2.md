@@ -1,24 +1,27 @@
 ---
-title: "Give Him Praise 2"
-artist: "Kathy Taylor"
+title: Give Him Praise 2
+artist: Kathy Taylor
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "praise"
+  - jesus
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "505886B4-C949-4D24-BBA6-73653CB196F5"
+id: 505886B4-C949-4D24-BBA6-73653CB196F5
 ---
-
 INTRO:
 Bb7 - - - | A13(b9) Ab7 DM7 GbM7 Cb13(#11) |
 

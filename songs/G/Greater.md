@@ -1,36 +1,40 @@
 ---
-title: "Greater"
-artist: "Tod Dulaney"
+title: Greater
+artist: Tod Dulaney
 key: F#
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "power"
-  - "choir-song"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - power
+  - choir-song
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: "choir song"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: choir song
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "871F90D3-5981-4C0B-8C9D-7483EEE9B310"
+id: 871F90D3-5981-4C0B-8C9D-7483EEE9B310
 ---
-
 VERSE 1:
 [B]Almighty S[B/D#]aviour
 You never [E]fail

@@ -1,23 +1,26 @@
 ---
-title: "Come Now Is The Time To Worship"
-artist: "Brian Doerksen"
+title: Come Now Is The Time To Worship
+artist: Brian Doerksen
 key: D
-tempo: 
-time: 
-ccli: "2430948"
-copyright: "1998 Vineyard Songs (UK/Eire)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2430948'
+copyright: 1998 Vineyard Songs (UK/Eire)
+source: ''
+year: ''
 medley: []
-id: "66438FD9-18C9-4847-880F-BA8A0A24E271"
+id: 66438FD9-18C9-4847-880F-BA8A0A24E271
 ---
-
 (Chorus:)
 [D5]Come, now is the time to [Dsus]wor - [D5]ship
 [A2]Come, now is the time to [Em7]give your hear[G]t

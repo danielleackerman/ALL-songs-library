@@ -1,23 +1,26 @@
 ---
-title: "My Heart Your Home"
-artist: "Watermark"
+title: My Heart Your Home
+artist: Watermark
 key: D
-tempo: 
-time: 
-ccli: "2982726"
-copyright: "1997 Rocketown Music. LLC. / Word Music, LLC / Sweater Weather Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "home"
+  - home
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2982726'
+copyright: '1997 Rocketown Music. LLC. / Word Music, LLC / Sweater Weather Music'
+source: ''
+year: ''
 medley: []
-id: "F95291E9-79D7-4C18-BA7D-27F9558D2CAB"
+id: F95291E9-79D7-4C18-BA7D-27F9558D2CAB
 ---
-
 [(A)]  Come and[D] make my h[A/C#]eart your h[Bm]ome
 [D/A]Come and be ev[G]erything I a[D/F#]m and all I k[A]now
 [D]Search [A/C#]me through and th[Bm]rough

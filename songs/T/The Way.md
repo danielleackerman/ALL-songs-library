@@ -1,22 +1,27 @@
 ---
-title: "The Way"
-artist: "Jeremy Camp"
+title: The Way
+artist: Jeremy Camp
 key: G
-tempo: 
-time: 
-ccli: "5818017"
-copyright: "2010 Thirsty Moon River Publishing / Stolen Pride Music, Bluke Music Publishing (Admin by EMI CMG Publishing))"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5818017'
+copyright: >-
+  2010 Thirsty Moon River Publishing / Stolen Pride Music, Bluke Music
+  Publishing (Admin by EMI CMG Publishing))
+source: ''
+year: ''
 medley: []
-id: "F98B0EB7-C042-4B28-B736-7F7E2425195B"
+id: F98B0EB7-C042-4B28-B736-7F7E2425195B
 ---
-
 No capo
 (Transpose and Capo 7th fret to play in key of "G")
 

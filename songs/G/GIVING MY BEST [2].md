@@ -1,79 +1,70 @@
 ---
-title: "Giving My Best"
-artist: "Mark Condon | Orig. Key Eb"
-key: Eb
-tempo: 
-time: 
-ccli: "1203702"
-copyright: "1992 Dayspring Music, LLC, Brooklyn Tabernacle Music | Admin. Word Music Group, Inc., ClearBox Rights, LLC"
+title: Giving My Best
+artist: Mark Condon
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "love"
-  - "giving"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - giving
+  - life
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D81EAA79-787B-4DF0-8377-ED205566AE5E"
+id: 5221BCFF-2B40-48A1-AAB9-B9834DA4E047
 ---
-
 VERSE 1:
-[Eb]There's been many times, that [Bb/D]I've let you down
-[Eb/Db]Searching for happiness, but [Ab/F]none to be [Ab/Bb]found
+There's been many times that I've let you down
+Searching for happiness, but none to be found.
 
-To [Eb]think that the price, [Bb/D]you paid for me
-[Eb/Db]Wasn't in vain, all that [Ab/F]ago[Bb]ny
+To think that the price you paid for me
+Wasn't in vain - all that agony
 
-But [Cm]I'm here to say, I've had my [Bb/G]ups and my downs
-But I'm [Cm]here now to [F9]stay, 'cause of the [Ab/F]love of you I've [Ab/Bb]found
+But I'm here to say I've had my ups and my downs
+But I'm here now to stay, 'cause of the love that I've found
 
 CHORUS:
-[Ab/Bb]Now [Bb]I'm [Eb]giving my best, to [Bb/G]you Lord
-[Eb/C]All that I [F9]have, [Ab/F]I won't with[Ab/Bb]hold
+Now I'm giving my best, to You Lord,
+All that I have, I won't withhold.
 
-I'm [Eb]giving my best, to [Bb/G]you Lord
-[Eb/C]All my [F9]heart, [Ab/F]and [Ab/Bb]all of my [Eb]soul
+I'm giving my best, to You lord,
+All of my heart, and all of my soul.
 
 VERSE 2:
-[Eb]When I think of the love, [Bb/D]you've shown to me
-[Eb/Db]The times you waited [Ab/F]so patient[Ab/Bb]ly
+When I think of the life you've shown to me
+The times you waited so patiently;
 
-[Bb]My [Eb2]heart is filled, with [Bb/D]such love for you
-[Eb/Db]And I know the best thing, for [Ab/F]me to [Bb]do
+My heart is filled with such love for you
+And I know the best thing for me to do
 
-Now I [Eb/C]come to you Lord, to [Bb/G]answer your call
-[Eb/C]Not holding [F9]back, but I'm [Ab/F]giving my [Ab/Bb]all
+I come to you Lord, to answer your call
+Not holding back, but I'm giving my all!
 
-CHORUS:
+You are the one that truly did it for me;
+You gave your best at calvary.
 
-BRIDGE:
-(Well)[Bbm/Gb]You are the one who gave your [Ab/F]life for [Db/Bb]me
-[Gb/Eb]You gave your [Gb/Ab]best, at [Db]Calvary
-[Bbm/Gb]You are the one that made the [Ab/F]sacri[Db/Bb]fice
-[Gb/Eb]So now I'm gi[Ab/F]ving my best, [Bbm/Gb]I'm giving my [Eb/G]life,
-I'll give my [Ab]life [Ab/Bb]
+You are the one that paid that sacrifice;
+So now I'm giving my life -
 
-CHORUS:
-[A/B]Now [B]I'm [E]giving you my best, to [B/Ab]you Lord
-[E/Db]All that I [Gb9]have, [A/Gb]I won't with[A/B]hold
+I'm giving my life - I'll give my life!
 
-Mod:
-I'm [E]giving my best to [B/Ab]you Lord
-[E/Db]All my [Gb9]heart, [A/Gb]and [A/B]all of my [E]soul
-
-CHORUS:
-mod and rubato
-
-Mod apo med
+Giving My Best lyrics © Brooklyn Tabernacle Music, Dayspring Music, Llc

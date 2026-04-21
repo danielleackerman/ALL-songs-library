@@ -1,25 +1,28 @@
 ---
-title: "In The Sanctuary"
-artist: "Kurt Carr"
+title: In The Sanctuary
+artist: Kurt Carr
 key: Eb
-tempo: 113
-time: 
-ccli: "3324039"
-copyright: "2001 KCartunes Music / Lilly Mack Music"
+bpm: '113'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "rest"
+  - praise
+  - rest
 genre: []
-energy: medium-fast
 profile:
-  - "cont-gospel-med"
-keywords: "cont gospel med"
-source: "Original key F"
-year: 
+  - cont-gospel-med
+keywords: cont gospel med
+ccli: '3324039'
+copyright: 2001 KCartunes Music / Lilly Mack Music
+source: Original key F
+year: ''
 medley: []
-id: "DF275925-A964-47FC-979A-595CD2976623"
+id: DF275925-A964-47FC-979A-595CD2976623
 ---
-
 VERSE:
 [Cm] We lift our h[Ab/F]ands in the s[Bb]anctu[Eb]ary. [Cm] We lift our h[Ab/F]ands to g[Bb]ive you the g[Eb]lory.
 [Cm] We lift our h[Ab/F]ands to g[Bb]ive you the p[Eb]rai[Bb/D]se,  [Cm]

@@ -1,26 +1,29 @@
 ---
-title: "Glory To His Name II(206 SUTL)"
-artist: ""
+title: Glory To His Name II(206 SUTL)
+artist: ''
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "sutl"
-  - "glory"
+  - sutl
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[AT CALVARY]]"
-  - "[[AT THE CROSS]]"
-id: "129D74F2-39B6-4260-871F-82F55EA18DEB"
+  - '[[AT CALVARY]]'
+  - '[[AT THE CROSS]]'
+id: 129D74F2-39B6-4260-871F-82F55EA18DEB
 ---
-
 Medley: at Calvary / at the cross
 
 VERSE 1:

@@ -1,24 +1,27 @@
 ---
-title: "In My Life"
-artist: "Selah"
+title: In My Life
+artist: Selah
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "life"
+  - love
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "88566F1D-0EA3-4341-834A-1543662A922B"
+id: 88566F1D-0EA3-4341-834A-1543662A922B
 ---
-
 Capo 2nd Fret
  G        D
 --3-------2--

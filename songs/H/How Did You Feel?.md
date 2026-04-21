@@ -1,39 +1,43 @@
 ---
-title: "How Did You Feel?"
-artist: "Traditional Negro Spiritual"
+title: How Did You Feel?
+artist: Traditional Negro Spiritual
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "traditional-gospel"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - traditional-gospel
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-  - "os-gospel-med"
-keywords: "os apo med, os gospel med,traditional gospel"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+  - os-gospel-med
+keywords: 'os apo med, os gospel med,traditional gospel'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[I'M LEANIN ON JESUS]]"
-id: "A604AFBB-6A7C-46E0-9C4E-438DACD72CC0"
+  - '[[I''M LEANIN ON JESUS]]'
+id: A604AFBB-6A7C-46E0-9C4E-438DACD72CC0
 ---
-
 {artist: Traditional Negro Spiritual}
 
 Medley: I'm leanin on Jesus

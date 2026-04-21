@@ -1,27 +1,30 @@
 ---
-title: "Heavenly Father-my edit"
-artist: ""
+title: Heavenly Father-my edit
+artist: ''
 key: G
-tempo: 86
-time: 
-ccli: 
-copyright: 
+bpm: '86'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "father"
+  - father
 genre: []
-energy: medium
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[HEAVENLY FATHER]]"
-  - "[[I LOVE YOU]]"
-  - "[[LORD]]"
-id: "D3545F40-BD5B-4D9F-B30F-4DEFA50B6BB3"
+  - '[[HEAVENLY FATHER]]'
+  - '[[I LOVE YOU]]'
+  - '[[LORD]]'
+id: D3545F40-BD5B-4D9F-B30F-4DEFA50B6BB3
 ---
-
 Medley: heavenly Father / I love You, Lord
 
 [C/D]Heavenly [G2]Father [G]I ap[CM7]prec[CM11]i[CM13]ate [G/D]You

@@ -1,24 +1,27 @@
 ---
-title: "Trust In Jesus"
-artist: "Third Day"
+title: Trust In Jesus
+artist: Third Day
 key: C
-tempo: 
-time: 
-ccli: "5876554"
-copyright: "2010 Songs From The Quarry"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "trust"
+  - jesus
+  - trust
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5876554'
+copyright: 2010 Songs From The Quarry
+source: ''
+year: ''
 medley: []
-id: "A1409EB6-7791-42E1-9594-5841B9BC5B48"
+id: A1409EB6-7791-42E1-9594-5841B9BC5B48
 ---
-
 INTRO:
 [Am]2 bars [C]1 bar [C]1 bar [Dm]1 bar
 

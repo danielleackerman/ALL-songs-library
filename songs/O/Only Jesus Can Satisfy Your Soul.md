@@ -1,35 +1,39 @@
 ---
-title: "Only Jesus Can Satisfy Your Soul"
-artist: "Lanny Wolfe"
+title: Only Jesus Can Satisfy Your Soul
+artist: Lanny Wolfe
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C5D162A8-2A95-4346-AE54-8F58ED463996"
+id: C5D162A8-2A95-4346-AE54-8F58ED463996
 ---
-
 VERSE 1:
 [Ab/Bb]The world will [Eb]try to [Bb13]satis[Eb]fy, that [Bb13]longing in your [Eb]soul
 [C7+]You may [Fm]search the wide world [Bb7]ore, but you'll [Ab13]be just as be[Eb]fore

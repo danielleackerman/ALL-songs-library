@@ -1,35 +1,39 @@
 ---
-title: "There's A Great Day Coming"
-artist: "Will L. Thompson"
+title: There's A Great Day Coming
+artist: Will L. Thompson
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5D67E212-423B-486A-9236-69ED78C7FEFC"
+id: 5D67E212-423B-486A-9236-69ED78C7FEFC
 ---
-
 VERSE 1:
 [Bb/C]There's a [F]great day coming, [Bb/C] A [F]great day coming
 [Bb/C]There's a [F]great day [Dm7]coming by and [C7]by

@@ -1,23 +1,26 @@
 ---
-title: "I Bless Your Name-edit"
-artist: ""
+title: I Bless Your Name-edit
+artist: ''
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "truth"
+  - truth
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B362BC05-8CD0-4EEE-A870-D001D7B928E9"
+id: B362BC05-8CD0-4EEE-A870-D001D7B928E9
 ---
-
 CHORUS:
 [Eb6/F]I bless your name [Bb2] [Ebmaj9] I bless your name [Bb2]
 I give you [Gm2] hon  [Gm2/F]nor      I give [C/E] You praise [F2][F2/Eb(F9)]

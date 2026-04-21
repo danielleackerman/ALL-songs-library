@@ -1,22 +1,25 @@
 ---
-title: "Magnificent Obsession"
-artist: "Steven Curtis Chapman"
+title: Magnificent Obsession
+artist: Steven Curtis Chapman
 key: E
-tempo: 
-time: 
-ccli: "3458613"
-copyright: "2001 Sparrow Records"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3458613'
+copyright: 2001 Sparrow Records
+source: ''
+year: ''
 medley: []
-id: "E3582F17-78C4-480D-8CD6-A8108AAA2B2A"
+id: E3582F17-78C4-480D-8CD6-A8108AAA2B2A
 ---
-
 He uses some odd chords in the song, so I will tab them out as (I think) he
 plays them.  There are some odd timings which I won't write down ('cause I
 don't really know what they are)  So you have to listen to the song.  I will

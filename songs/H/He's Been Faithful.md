@@ -1,31 +1,35 @@
 ---
-title: "He's Been Faithful"
-artist: ""
+title: He's Been Faithful
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B5840AED-37ED-410E-A6A8-A145C3F579B6"
+id: B5840AED-37ED-410E-A6A8-A145C3F579B6
 ---
-
 (Ver:1)
 
 [Bb/C]In [C7b9]my [F2]moments of [Dm7]fear, through every [Am7]pain, every [Eb/F]fear,

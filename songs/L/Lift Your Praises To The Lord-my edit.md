@@ -1,34 +1,38 @@
 ---
-title: "Lift Your Praises To The Lord-my edit"
-artist: ""
+title: Lift Your Praises To The Lord-my edit
+artist: ''
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "18985DDC-F51E-42DA-ACEA-5FFC3213EA0E"
+id: 18985DDC-F51E-42DA-ACEA-5FFC3213EA0E
 ---
-
 VERSE:
 [G/A]Lift [A7]your [D]praises [A/C#]to the [D]Lord
 [D]Lift [D/B]your [A7]praises [A/C#]to the [D]Lord

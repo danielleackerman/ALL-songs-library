@@ -1,37 +1,41 @@
 ---
-title: "I've Got Jesus On My Mind"
-artist: "Lynda Randle"
-key: 
-tempo: 106
-time: 
-ccli: 
-copyright: 
+title: I've Got Jesus On My Mind
+artist: Lynda Randle
+key: ''
+bpm: '106'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-gospel-fast"
-keywords: "os gospel fast"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-gospel-fast
+keywords: os gospel fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3B984CA0-D41A-480E-B58B-589C9C012216"
+id: 3B984CA0-D41A-480E-B58B-589C9C012216
 ---
-
 CHORUS:
 Jesus, Jesus, Jesus, I got him on my mind
 Jesus, Jesus, Jesus, I got him on my mind

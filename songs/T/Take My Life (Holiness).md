@@ -1,25 +1,28 @@
 ---
-title: "Take My Life (Holiness)"
-artist: "Micah Stampley"
+title: Take My Life (Holiness)
+artist: Micah Stampley
 key: Ab
-tempo: 65
-time: 
-ccli: "1617154"
-copyright: "1995 Mercy / Vineyard Publishing"
+bpm: '65'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "holiness"
-  - "life"
+  - holiness
+  - life
 genre: []
-energy: medium-slow
 profile:
-  - "contemporary-gospel-slow"
-keywords: "contemporary gospel slow"
-source: 
-year: 
+  - contemporary-gospel-slow
+keywords: contemporary gospel slow
+ccli: '1617154'
+copyright: 1995 Mercy / Vineyard Publishing
+source: ''
+year: ''
 medley: []
-id: "B341141C-5D28-4FE9-8681-D6B4AEDAEFBD"
+id: B341141C-5D28-4FE9-8681-D6B4AEDAEFBD
 ---
-
 VERSE:
 [Ab]Holi[Db]ness Ho[Eb]liness
 is what I [Db]long for

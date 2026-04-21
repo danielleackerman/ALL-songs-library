@@ -1,22 +1,25 @@
 ---
-title: "He Understands My Tears-the Isaacs"
-artist: ""
+title: He Understands My Tears-the Isaacs
+artist: ''
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1684AD5B-3B40-49E6-9EB2-8AA9EBF485EA"
+id: 1684AD5B-3B40-49E6-9EB2-8AA9EBF485EA
 ---
-
 INTRO:
 [Em7]He under[A]stands my [D]tears [G]    [D]
 

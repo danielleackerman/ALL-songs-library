@@ -1,34 +1,38 @@
 ---
-title: "Learning To Lean"
-artist: "Jeannie Vee Clattenburg"
+title: Learning To Lean
+artist: Jeannie Vee Clattenburg
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CB284F6F-4938-4CDE-90DA-492039FB979D"
+id: CB284F6F-4938-4CDE-90DA-492039FB979D
 ---
-
 popularized by the Heritage Singers
 
 [Eb2]Learning to [Bbm/Eb] lean, [Ab2]Learning to [Fm7]lean

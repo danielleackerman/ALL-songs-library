@@ -1,22 +1,25 @@
 ---
-title: "Rain, Lord"
-artist: "Mark Condon"
+title: 'Rain, Lord'
+artist: Mark Condon
 key: Gm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "247AF3CD-E9EB-4E75-AEF6-CCEC71674E22"
+id: 6CD576FF-5B4A-406B-AF41-DA1202174AB9
 ---
-
 INTRO:
 
 [Cm7][Dm7][Eb2][Dm7]

@@ -1,24 +1,27 @@
 ---
-title: "Oh Lord You’re Beautiful"
-artist: "Keith Green"
+title: Oh Lord You’re Beautiful
+artist: Keith Green
 key: A
-tempo: 59
-time: "2/4"
-ccli: "14514"
-copyright: "1980 Birdwing Music/BMG Songs"
+bpm: '59'
+time_sig: 2/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus-movement"
+  - jesus-movement
 genre: []
-energy: slow
 profile:
-  - "os-christian-slow"
-keywords: "jesus movement, os christian slow"
-source: 
-year: 
+  - os-christian-slow
+keywords: 'jesus movement, os christian slow'
+ccli: '14514'
+copyright: 1980 Birdwing Music/BMG Songs
+source: ''
+year: ''
 medley: []
-id: "35FDB4B6-8207-4783-99EE-95BB8DC5A977"
+id: 35FDB4B6-8207-4783-99EE-95BB8DC5A977
 ---
-
 INTRO:
 [A] [D] [E]
 

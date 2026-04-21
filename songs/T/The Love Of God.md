@@ -1,35 +1,39 @@
 ---
-title: "The Love Of God"
-artist: "MercyMe"
+title: The Love Of God
+artist: MercyMe
 key: D
-tempo: 
-time: 
-ccli: "3912874"
-copyright: "2002 Simpleville Music / Songs From The Indigo Room / Wordspring Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "love"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - love
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '3912874'
+copyright: '2002 Simpleville Music / Songs From The Indigo Room / Wordspring Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "822DF864-9A16-42C7-AB8B-E77EF497EC4C"
+id: 822DF864-9A16-42C7-AB8B-E77EF497EC4C
 ---
-
 (Chorus)
 Halle[D/F#]lujah, [G]   Halle[D/F#]lujah, [G]  Hallel[F]ujah[C]
 Oh love of [G]God how rich and p[D]ure

@@ -1,35 +1,39 @@
 ---
-title: "The Family Of God"
-artist: "Gloria and Bill Gaither"
+title: The Family Of God
+artist: Gloria and Bill Gaither
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "jesus"
-  - "family"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - jesus
+  - family
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7B606742-9B4A-45E7-B7C6-4793B9B01716"
+id: 7B606742-9B4A-45E7-B7C6-4793B9B01716
 ---
-
 CHORUS:
 [Bb/C]I'm so [F2]glad I'm a [D7]part, of the [G7]family of God
 

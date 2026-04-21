@@ -1,22 +1,25 @@
 ---
-title: "All My Tears"
-artist: "Jars Of Clay"
+title: All My Tears
+artist: Jars Of Clay
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "2006 Provident Label Group LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2006 Provident Label Group LLC
+source: ''
+year: ''
 medley: []
-id: "B91DAC8C-3B57-4193-B2AC-28F3036E2DE0"
+id: B91DAC8C-3B57-4193-B2AC-28F3036E2DE0
 ---
-
 Intro Bm D A A/E Bm
 
 [Bm]When I go don't cry for me

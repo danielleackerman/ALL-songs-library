@@ -1,28 +1,31 @@
 ---
-title: "Spirit of the Lord (Dance like David Danced)-1"
-artist: "Travis J. Gandy / ORIG KEY Am"
+title: Spirit of the Lord (Dance like David Danced)-1
+artist: Travis J. Gandy / ORIG KEY Am
 key: Dm
-tempo: 105
-time: "4/4"
-ccli: 
-copyright: "2004 GYOM Publishing Company"
+bpm: '105'
+time_sig: 4/4
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "dance"
+  - dance
 genre: []
-energy: medium
 profile:
-  - "mod-apo-fast"
-  - "mod-gospel-fast"
-keywords: "mod apo fast , mod gospel fast"
-source: 
-year: 
+  - mod-apo-fast
+  - mod-gospel-fast
+keywords: 'mod apo fast , mod gospel fast'
+ccli: ''
+copyright: 2004 GYOM Publishing Company
+source: ''
+year: ''
 medley:
-  - "[[YAHWEH]]"
-  - "[[SING UNTO THE LORD A NEW SONG]]"
-  - "[[SHELTER]]"
-id: "A42C4E60-B877-4EB7-B5DC-EC5AA25394F8"
+  - '[[YAHWEH]]'
+  - '[[SING UNTO THE LORD A NEW SONG]]'
+  - '[[SHELTER]]'
+id: A42C4E60-B877-4EB7-B5DC-EC5AA25394F8
 ---
-
 Medley: yahweh / sing unto the Lord a new song / shelter
 
 VERSE:

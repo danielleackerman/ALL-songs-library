@@ -1,23 +1,26 @@
 ---
-title: "Coming Into Your Presence"
-artist: "Joel Ritchy"
+title: Coming Into Your Presence
+artist: Joel Ritchy
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "presence"
+  - presence
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FEE5E2B5-3736-4399-B36B-DA6EF4100F4C"
+id: FEE5E2B5-3736-4399-B36B-DA6EF4100F4C
 ---
-
 [Eb]Coming [Eb/G]into Your [Ab]pre[Fm7]sence,
 
 Is the [Eb/Bb]sweetest [F9]part of the [Fm9]day.   [Bb9]

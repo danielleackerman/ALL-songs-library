@@ -1,31 +1,35 @@
 ---
-title: "Whatever It Takes"
-artist: "Lanny Wolfe"
+title: Whatever It Takes
+artist: Lanny Wolfe
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0BC5B74A-09F5-4F4A-BD78-6660FB305FEA"
+id: 0BC5B74A-09F5-4F4A-BD78-6660FB305FEA
 ---
-
 CHORUS:
 [Ab/Bb]For [Bb7b9]what[Eb]ever it [Db/Bb]takes,
 [G7+]To draw [AbM7]closer to [Ab/Eb]You [Eb]Lord, [G7/D]

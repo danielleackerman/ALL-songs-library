@@ -1,44 +1,30 @@
 ---
-title: "Holy Is The Lamb"
-artist: "Christ For The Nations Institute"
-key: G
-tempo: 
-time: 
-ccli: "3674813"
-copyright: "2002 CFN Music"
+title: Holy is The Lamb
+artist: ''
+key: Bb
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "6750EB71-4F49-4A4F-9081-0D39BDA47529"
+id: 01445C2C-3D0D-4C50-A9FA-D9DB88500D5E
 ---
+[Bb]Holy is [Cm/Bb]the[Bb] Lamb, Holy is [Cm/Bb]the[Bb] Lamb
+Holy is [Cm/Bb]the[Bb] Lamb [Gm/Bb]of[F] God [F7/A]
+[Bb]Bow before[Cm/Bb] His [Bb]throne, make His[Cm/Bb] glory[Bb] known[Bb/D]
+[Eb]Holy [Eb/C].  is the[Bb/F] Lamb [F]of[Bb] God
 
-VERSE 1:
-[G]I hear the [Gsus]sound of many [G]waters[Gsus]
-[G]I feel a mi[Gsus]ghty rushing win[G]d[D/F#]
-[Em7]I hear a multitude of v[Asus]oices[A]
-[C2]Singing the [Am7]song of the re[Dsus]deemed[D]
-[G]I see the mig[Gsus]hty exalt[G]ation[Gsus]
-[G]Given to the s[Gsus]acrificial Lam[G]b[D/F#]
-[Em7]Who is the Lion of [Asus]Judah[A]
-[C2]Seated at the [Am7]Father's own right h[Dsus]and[D]
-
-CHORUS:
-[G]Wor - [D/F#]thy, [G/F]wor-[Gsus/F]-------[G/F]----[F]--[C/E]thy
-[Cm/Eb]worthy [Cm]is the [Dsus]Lamb[D]
-[G]Ho-[D/F#]-ly    [G/F]Hol-[Gsus/F]-------[G/F]----[F]ly[C/E]
-[Cm/Eb]Holy   [F/C]is the [G]Lamb[G/F][C/E][D]
-
-VERSE 2:
-[Ab]I see the [Absus]harvest of the na[Ab]tions[Absus]
-[Ab]The righteous [Absus]shining as the s[Ab]un[Eb/G]
-[Fm7]I see them marching through the [Bbsus]ages[Bb]
-[Db2]Shouting t[Bbm7]riumphant "He has [Ebsus]won!"[Eb]
-[A]I hear the [Asus]blowing of the tr[A]umpets[Asus]
-[A]I hear the [Asus]Spirit saying C[A]ome![E/G#]
-[F#m7]The time is now, the Bride is r[Bsus]eady[B]
-[D2]The marriage [Bm7]supper has begun[Esus][E]
+BRIDGE:
+[Bb7/D]Sing[Eb]glory[Bb]glory[F]glory[F/G]to[F7/A]His[Bb]name[Bb-Bb/D]forever
+[Eb]Glory[Bb]glo[Gm7]ry[Bb/F]glory[F]to[Eb/Bb]His[Bb]name. [Eb/F]

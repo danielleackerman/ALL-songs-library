@@ -1,22 +1,25 @@
 ---
-title: "Blind"
-artist: "Third Day"
+title: Blind
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "4292081"
-copyright: "2004 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4292081'
+copyright: 2004 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "5DB6F362-6994-4AD1-879D-56335606C571"
+id: 5DB6F362-6994-4AD1-879D-56335606C571
 ---
-
 capo 4th fret
 
 [Em]Each and every single day, [C]I was throwing my life away with ques[D]tions

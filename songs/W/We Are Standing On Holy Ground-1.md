@@ -1,24 +1,27 @@
 ---
-title: "We Are Standing On Holy Ground-1"
-artist: "Bill Gaither / Geron Davis"
+title: We Are Standing On Holy Ground-1
+artist: Bill Gaither / Geron Davis
 key: F
-tempo: 55
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '55'
+time_sig: 4/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "presence"
+  - presence
 genre: []
-energy: slow
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
-year: 
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A5C5E507-BCEE-4C10-A0BE-697F888806E8"
+id: A5C5E507-BCEE-4C10-A0BE-697F888806E8
 ---
-
 VERSE 1:
 [F/G]When I [C]walked through the [G/B]door I [F/A]sensed His [F/G]pre [G]sence
 [G/C]and I [Dm7]knew this was a [F/G]place where love [C]abounds

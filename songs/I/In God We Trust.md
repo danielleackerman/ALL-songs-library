@@ -1,36 +1,40 @@
 ---
-title: "In God We Trust"
-artist: "Voices of Hope"
+title: In God We Trust
+artist: Voices of Hope
 key: C
-tempo: 66
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '66'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "trust"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - trust
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "contemp-christian-slow"
-keywords: "contemp christian slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - contemp-christian-slow
+keywords: contemp christian slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4C3EEB56-F554-4DC2-9A24-F80F89A2B01D"
+id: 4C3EEB56-F554-4DC2-9A24-F80F89A2B01D
 ---
-
 [Bb]  [F]  [C]  [C]
 [Bb]  [F]  [C]  [C]
 

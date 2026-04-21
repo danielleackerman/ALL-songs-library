@@ -1,24 +1,27 @@
 ---
-title: "Blessed Be the Name of the Lord"
-artist: ""
+title: Blessed Be the Name of the Lord
+artist: ''
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "1989 Mercy Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "rock"
+  - jesus
+  - rock
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 1989 Mercy Publishing
+source: ''
+year: ''
 medley: []
-id: "F79E64DD-F3D3-4370-9466-61B3321C5AA0"
+id: F79E64DD-F3D3-4370-9466-61B3321C5AA0
 ---
-
 D
 Blessed be the name of the Lord
 Blessed be the name of the Lord

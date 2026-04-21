@@ -1,50 +1,64 @@
 ---
-title: "Can't Stop Praising His Name"
-artist: "Key of: Cm"
-key: Dm
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Can't Stop Praising His Name
+artist: ''
+key: Gm
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-fast"
-  - "middle-eastern"
-  - "praise"
-  - "solo-songs"
-  - "traditional"
-  - "his-name"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-fast
+  - middle-eastern
+  - praise
+  - solo-songs
+  - traditional
+  - his-name
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "10BAF33F-9148-4555-B600-32D598FC00C7"
+id: 5D8A9392-6850-4CC2-9D10-8F5E6254068C
 ---
+VERSE 1:
+[Gm]Lift up [F]your voice and sing for joy
+[Gm/Eb]Clap your hands, make a joyful noise
+[Dsus7]Blow the trumpet and [D7]shout
+We are [Gm]praisin for the victory (Praisin for the Victory)
+
+[Gm]Weapons we use are not bombs and guns
+[Gm/Eb]Worship is the way the battle is won
+[Dsus7]This is the way we [D7]fight
+We are [Gm]praisin for the victory
 
 CHORUS:
-[Dm]Can't stop praising His Name
-[Dm/Bb]Can't stop praising His Name
-Just [Bb]can't stop [C]praising the Name of [Dm]Jesus [A/G]
+[Gm]Can't stop praising His Name
+[Gm/Eb]Can't stop praising His Name
+Just [Eb]can't stop [F]praising the Name of [Gm]Jesus
 
-VERSE 1:
-[Dm]I won't turn back
-[Dm/Bb]I won't turn back
-[C]I won't turn [Dm]back now. [A/G]
+BRIDGE 1:
+[Gm]I won't turn back
+[Gm/Eb]I won't turn back
+[F]I won't turn [Gm]back now.
 
-VERSE 2:
-[Dm]I won't give in
-[Dm]I won't give up
-[C]I am determined to [Dm]win! [A/G]
+BRIDGE 2:
+[Gm]I won't give in [Gm]I won't give up
+[F]I am determined to [Gm]win!
 
-VERSE 3:
-[Dm]satan, you're a liar.
-[Dm/Bb]Jesus has all power
-[Bb]You can't keep me [C]down I'm heaven [Dm]bound! [A/G]
+BRIDGE 3:
+[Gm]satan, you're a liar.
+[Gm/Eb]Jesus has all power
+[Eb]You can't keep me [F]down I'm heaven [Gm]bound!

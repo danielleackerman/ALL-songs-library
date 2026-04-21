@@ -1,23 +1,26 @@
 ---
-title: "Alabaster Box LYRICS"
-artist: "Cece Winans"
+title: Alabaster Box LYRICS
+artist: Cece Winans
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "cont-gospel-slow"
-keywords: "cont. gospel slow"
-source: 
-year: 
+  - cont-gospel-slow
+keywords: cont. gospel slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E9632D3F-6AED-45F0-B9F3-1672F01F58B9"
+id: E9632D3F-6AED-45F0-B9F3-1672F01F58B9
 ---
-
 {artist: Cece Winans}
 
 VERSE 1:

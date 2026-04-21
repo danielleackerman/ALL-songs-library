@@ -1,23 +1,26 @@
 ---
-title: "Forty Days (40 Days)"
-artist: "Matt Maher"
+title: Forty Days (40 Days)
+artist: Matt Maher
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "living-water"
+  - living-water
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FA7FD27F-4FCF-4593-9E21-4445522C53AB"
+id: FA7FD27F-4FCF-4593-9E21-4445522C53AB
 ---
-
 VERSE 1:
 Forty days to wander, Forty days to die to self,
 Forty days to grow stronger, As faith breaks open the gates of hell,

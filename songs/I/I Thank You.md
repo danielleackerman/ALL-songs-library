@@ -1,35 +1,39 @@
 ---
-title: "I Thank You"
-artist: "Geron Davis"
+title: I Thank You
+artist: Geron Davis
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "thank"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - thank
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "AF24109F-E992-4B02-BE0C-A0C897747723"
+id: AF24109F-E992-4B02-BE0C-A0C897747723
 ---
-
 [C]I [A#/D]thank [C/E]You, [F]I [C/A#]thank [A#9/G#]You
 [C/G]For [E7+]all You've [Am7]done and all that [D9]You [Am/F#]will [G9]do
 [C]You're [A#/D]faith[C/E]ful, [F]I'm [C/A#]grate[A#9/G#]ful

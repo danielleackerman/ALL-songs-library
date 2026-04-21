@@ -1,24 +1,27 @@
 ---
-title: "Let Mercy Lead"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Let Mercy Lead
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "mercy"
+  - love
+  - mercy
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "268D2737-0A59-43D5-8FC3-E4AE85511209"
+id: 268D2737-0A59-43D5-8FC3-E4AE85511209
 ---
-
 Key:
 
 Let Mercy Lead

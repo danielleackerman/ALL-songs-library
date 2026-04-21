@@ -1,22 +1,25 @@
 ---
-title: "Stand"
-artist: "Bebo Norman"
+title: Stand
+artist: Bebo Norman
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "1999 New Spring Publishing, Inc./"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: '1999 New Spring Publishing, Inc./'
+source: ''
+year: ''
 medley: []
-id: "96014D85-590E-4495-9AF3-1C3B37CA3D9D"
+id: 96014D85-590E-4495-9AF3-1C3B37CA3D9D
 ---
-
 this song is played in DADGAD tuning on the album
 but works well in standard tuning too.
 

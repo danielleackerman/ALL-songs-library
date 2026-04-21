@@ -1,52 +1,40 @@
 ---
-title: "In Christ Alone"
-artist: "Stuart Townend"
-key: D
-tempo: 
-time: 
-ccli: "3350395"
-copyright: "2001 Thankyou Music"
+title: In Christ Alone
+artist: Brian Littrell
+key: C
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "christ"
+  - christ
+  - glory
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '841440'
+copyright: 1990 Paragon Music Corporation
+source: ''
+year: ''
 medley: []
-id: "B0DB2D0B-9516-49D0-AA6B-B36A650E75EA"
+id: B27319F2-0BDC-4B5A-B9BE-5969F6591984
 ---
-
-INTRO:
-[G] [D] [G] [A] [D/F#] [Em7] [G] [D] [Dsus] [D]
-
 VERSE 1:
-In Ch[G]rist a[D]lone my ho[G]pe is fo[A]und, [D/F#]He is my Li[G]ght, [D/F#]my st[Em7]rength,[G/A]   my so[D]ng.
-This Co[G]rner[D]stone, this so[G]lid gr[A]ound, [D/F#]Firm through the fie[G]rc[D/F#] est dr[Em7]ought[G/A] and st[D]orm.
-What he[D/F#]ights of lo[G]ve! What de[D]pths of [Asus]peace[A], When fe[D]ars are st[G]illed, when st[Bm7]rivings [Asus]cease[A]
-My C[G]omfort[D]er, my a[G]ll in a[A]ll, [D/F#]Here in the l[G]ove [D/F#] of C[Em7]hrist [G/A] st[D]and.
-[Dsus] [D]
+In C[C/D]hrist alo[C]ne will I glory, Though [Gsus]I could pride mys[F]elf in battles w[Am]on
+For I’ve been [C]blessed beyond measure, And [Gsus]by His strength al[F]one I’ll overco[G]me
+[F]Oh, I could stop and count succ[C]esses like diamonds [Gsus][F]in my hands
+But those [Dm7]trophies could not [C/B]equal to the g[F]race by which I [Gsus]stand
+
+CHORUS:
+[C]  In [C/E]Christ al[F2]one I place my t[C/E]rust, And find my [Dm7]glory in the p[F/G]ower o[G/B]f the c[C2]ross
+[Am7]In every [Fmaj7]vict[Dm7]ory, let it be [Em]said of [F2]me, My [Dm7]source of strength, my [F/G]source of hope [G]
+Is [G/B]Christ al[C]one
 
 VERSE 2:
-In Christ alone, who took on flesh, Fullness of God in helpless Babe.
-This gift of love and righteousness, Scorned by the ones He came to save
-'til on that cross as Jesus died, the wrath of God was satisfied,
-for ev'ry sin on Him was laid, Here in the death of Christ I live.
-[G] [A] [Em7]  [G]  [D] [Dsus]  [D]
-
-VERSE 3:
-There in the ground His body lay, Light of the world by darkness slain.
-Then bursting forth in glorious day, Up from the grave He rose again.
-And as He stands in victory, Sin's curse has lost its grip on me.
-For I am His, and He is mine,Bought with the precious blood of Chr[D]ist [B]
-
-VERSE 4:
-No guilt in life, no fear in death, This is the pow'r of Christ in me.
-From life's first cry to final breath, Jesus commands my destiny.
-No pow'r of hell, no scheme of man, Can ever pluck me from His hand
-'til He returns, or calls me home
-[D/F#]Here in the p[G]ow'r [D/F#]of   C[Em7]hrist [G/A]   I'll st[D]and.
-[D/F#]Here in the p[G]ow'r [D/F#]of   C[Em7]hrist [G/A]   I'll st[Bm]and.
-[D/F#]Here in the p[G]ow'r [D/F#]of   C[Em7]hrist [G/A]   I'll st[D]and.
-[G] [A] [D/F#] [Em7] [G] [D]
+In Christ alone will I glory, For only by His grace I am redeemed
+For only His tender mercy, Could reach beyond my weakness to my need
+And now I seek no greater honor in just to know Him more
+And to count my gains but losses to the glory of my Lord

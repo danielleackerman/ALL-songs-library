@@ -1,24 +1,29 @@
 ---
-title: "You Amaze Us"
-artist: "Selah"
+title: You Amaze Us
+artist: Selah
 key: C
-tempo: 
-time: "4/4"
-ccli: "6546807"
-copyright: "2012 Dayspring Music, LLC (a div. of Word Music Group, Inc.) / We Celebrate Music (admin. by CopyrightSolver)"
+bpm: ''
+time_sig: 4/4
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
-  - "honor"
+  - glory
+  - honor
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6546807'
+copyright: >-
+  2012 Dayspring Music, LLC (a div. of Word Music Group, Inc.) / We Celebrate
+  Music (admin. by CopyrightSolver)
+source: ''
+year: ''
 medley: []
-id: "CD36A8F8-39C9-4D89-BA36-BE5F69F79296"
+id: CD36A8F8-39C9-4D89-BA36-BE5F69F79296
 ---
-
 INTRO:
 [C] - [F] - [Am] - [G]
 [C] - [F] - [Am] - [G]

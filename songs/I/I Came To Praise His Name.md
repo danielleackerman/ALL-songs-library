@@ -1,24 +1,27 @@
 ---
-title: "I Came To Praise His Name"
-artist: ""
+title: I Came To Praise His Name
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "his-name"
+  - praise
+  - his-name
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1D3DA0ED-69AE-4902-8BF5-9414C7F54879"
+id: 1D3DA0ED-69AE-4902-8BF5-9414C7F54879
 ---
-
 [F]I came to praise His name   [C/E]
 [Dm]I came to praise His [D7]name   [D7/E]   [D7/F]   [D7/Gb]
 [Gm]I don’t know what [C7]you came to do

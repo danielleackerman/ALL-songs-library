@@ -1,24 +1,27 @@
 ---
-title: "Praise You With The Dance"
-artist: "Casting Crowns"
+title: Praise You With The Dance
+artist: Casting Crowns
 key: E
-tempo: 
-time: 
-ccli: "4196606"
-copyright: "2003 SWECS Music / Club Zoo Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "dance"
+  - praise
+  - dance
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4196606'
+copyright: 2003 SWECS Music / Club Zoo Music
+source: ''
+year: ''
 medley: []
-id: "AA8CEE04-E697-4A2E-93BA-952DD49BFB03"
+id: AA8CEE04-E697-4A2E-93BA-952DD49BFB03
 ---
-
 Intro (: E  Bsus A2   B  :)
 (Verse)
 I will s[E]ing to the Lo[B]rd     And [C#m7]I will lift my [A2]voice

@@ -1,38 +1,42 @@
 ---
-title: "God’s Not Dead"
-artist: ""
+title: God’s Not Dead
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-fast"
-  - "middle-eastern"
-  - "praise"
-  - "solo-songs"
-  - "traditional"
-  - "life"
-  - "service"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-fast
+  - middle-eastern
+  - praise
+  - solo-songs
+  - traditional
+  - life
+  - service
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional"
-  - "os-apo-fast"
-  - "os-gospel-fast"
-keywords: "os apo fast, os gospel fast, life, service"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional
+  - os-apo-fast
+  - os-gospel-fast
+keywords: 'os apo fast, os gospel fast, life, service'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[LIVING HE LOVED ME]]"
-id: "AC40AA80-308B-486D-AB84-CC2EA9D2C58C"
+  - '[[LIVING HE LOVED ME]]'
+id: AC40AA80-308B-486D-AB84-CC2EA9D2C58C
 ---
-
 Original key f
 
 Medley: living He loved me

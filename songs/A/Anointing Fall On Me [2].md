@@ -1,50 +1,44 @@
 ---
-title: "Anointing Fall On Me"
-artist: "Donn Thomas, Ron Kenoly"
-key: Db
-tempo: 68
-time: 
-ccli: "859126"
-copyright: "1992 New Spring, Admin. Brentwood-Benson Music Publishing, Inc."
+title: Anointing Fall On Me
+artist: 'Donn Thomas, Ron Kenoly'
+key: C
+bpm: '68'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "contemporary"
-  - "classic"
-  - "worship"
-  - "slow"
-  - "invitation"
-  - "altar"
-  - "solo"
+  - contemporary
+  - classic
+  - worship
+  - slow
+  - invitation
+  - altar
+  - solo
 genre: []
-energy: medium-slow
 profile:
-  - "mod-gospel-slow"
-keywords: "mod gospel slow, contemporary, classic, worship, slow, invitation, altar, solo"
-source: 
-year: 
+  - mod-gospel-slow
+keywords: 'mod gospel slow, contemporary, classic, worship, slow, invitation, altar, solo'
+ccli: '859126'
+copyright: '1992 New Spring, Admin. Brentwood-Benson Music Publishing, Inc.'
+source: ''
+year: ''
 medley: []
-id: "228E176B-F729-4068-99DB-6734BAC4AF39"
+id: EC376ED8-BF95-48AD-8F0E-4921C05A9828
 ---
-
 {artist: Donn Thomas, Ron Kenoly}
 
-A[Fm7]noi[Bbm7]nting [Ebm7]fall on [Ab7]me
+A[Em7]noi[Am7]nting [Dm7]fall on [G7]me
+A[Em]noin[Am7]ting [Dm7]fall on [G7]me
+Let the [C7]power of the
+Holy ghost [F]fall on [Fm6]me
+A[C]nointing [G7]fall on [C]me
 
-A[Fm]noin[Bbm7]ting [Ebm7]fall on [Ab7]me
-
-Let the [Db7]power of the
-
-Holy ghost [Gb]fall on [Gbm6]me
-
-A[Db]nointing [Ab7]fall on [Db]me
-
-Touch my [Db]hands [Bbm7]Lord
-
-My [Ebm7]mouth and my [Ab7]heart
-
-Fill my [Fm]life [Bbm7]Lord [Ebm7]every [Ab7]part
-
-Let the [Db]power of the
-
-Holy ghost [Gb]fall on [Gbm6]me
-
-A[Db]nointing [Ab7]fall on [Db]me
+Touch my [C]hands [Am7]Lord
+My [Dm7]mouth and my [G7]heart
+Fill my [Em]life [Am7]Lord [Dm7]every [G7]part
+Let the [C]power of the
+Holy ghost [F]fall on [Fm6]me
+A[C]nointing [G7]fall on [C]me

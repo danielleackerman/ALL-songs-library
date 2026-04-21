@@ -1,32 +1,36 @@
 ---
-title: "I Love You Lord"
-artist: ""
+title: I Love You Lord
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: "25266"
-copyright: "1978, 1980 House Of Mercy Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "love"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - love
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: "With Much Expression"
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '25266'
+copyright: '1978, 1980 House Of Mercy Music'
+source: With Much Expression
+year: ''
 medley: []
-id: "DFF01181-BD29-4D76-8F8D-A8C22E933720"
+id: DFF01181-BD29-4D76-8F8D-A8C22E933720
 ---
-
 [F]   [Em7]   [Dm7]   [G]   [Bb2]    [Bb]    [G]    [Am]
 		         [D]      [D]     [D]       [D]    [Bb]    [Am7]    [Gm7]
 

@@ -1,23 +1,26 @@
 ---
-title: "Awesome"
-artist: "Key of: Eb"
+title: Awesome
+artist: 'Key of: Eb'
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "awesome"
+  - awesome
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C957E160-8509-46DA-A6DF-C511D1F81AD4"
+id: C957E160-8509-46DA-A6DF-C511D1F81AD4
 ---
-
 VERSE 1:
 My [Eb/F]God is [Bb]Awesome, He can move [F]mountains
 Keep me in the [Gm]valley, Hide me from the [Eb]rain

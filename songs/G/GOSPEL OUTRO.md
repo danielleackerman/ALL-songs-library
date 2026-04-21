@@ -1,23 +1,26 @@
 ---
-title: "Gospel Outro"
-artist: ""
+title: Gospel Outro
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "gospel"
+  - gospel
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "2761FD2C-882F-4F92-971B-8D987FD35302"
+id: 2761FD2C-882F-4F92-971B-8D987FD35302
 ---
-
 [C]
 [LEFT HAND]  [E]        [RIGHT HAND]	  [G][C]
 	        [Eb]	                [Gb][C]

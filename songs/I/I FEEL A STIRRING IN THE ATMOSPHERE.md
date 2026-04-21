@@ -1,37 +1,41 @@
 ---
-title: "I Feel a Stirring in the Atmosphere"
-artist: "Geron Davis"
+title: I Feel a Stirring in the Atmosphere
+artist: Geron Davis
 key: Cm
-tempo: 82
-time: 
-ccli: 
-copyright: 
+bpm: '82'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "awesome"
-  - "power"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - awesome
+  - power
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-med"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-med
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0591D842-EA85-43D9-83B7-FD3D61199A15"
+id: 0591D842-EA85-43D9-83B7-FD3D61199A15
 ---
-
 Cooley Choruses 82 BPM
 Artist: Geron Davis
 Keywords: MOD APO MED

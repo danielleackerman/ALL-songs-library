@@ -1,24 +1,27 @@
 ---
-title: "Always Enough"
-artist: "Casting Crowns"
+title: Always Enough
+artist: Casting Crowns
 key: Gm
-tempo: 
-time: 
-ccli: "5631139"
-copyright: "2009 Alletrop Music / My Refuge Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "faith"
+  - love
+  - faith
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5631139'
+copyright: 2009 Alletrop Music / My Refuge Music
+source: ''
+year: ''
 medley: []
-id: "5C1A9D81-4663-40F2-A89A-85FCDF3C3850"
+id: 5C1A9D81-4663-40F2-A89A-85FCDF3C3850
 ---
-
 Intro 2x:
 [Gm7][/] [Fsus][/] [Ebsus2][/][/][/]
 

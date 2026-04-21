@@ -1,23 +1,26 @@
 ---
-title: "I'll Carry On"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: I'll Carry On
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "home"
+  - home
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "274535C3-625C-4A68-933A-1DD4E74605E2"
+id: 274535C3-625C-4A68-933A-1DD4E74605E2
 ---
-
 Key:
 
 Proverbs 1:8-9/2 Timothy 1:3-6

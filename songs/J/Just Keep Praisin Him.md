@@ -1,24 +1,27 @@
 ---
-title: "Just Keep Praisin Him"
-artist: "Lanny Wolfe"
+title: Just Keep Praisin Him
+artist: Lanny Wolfe
 key: Ebm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "men"
+  - praise
+  - men
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9C2F7F87-BD5A-4899-B04A-5BA79FEAA7A6"
+id: 9C2F7F87-BD5A-4899-B04A-5BA79FEAA7A6
 ---
-
 Key of: Ebm
 Paul [Ebm]and Silas in the jail, [Ebm/B]Daniel in the lion's den
 [Abm]Shadrach, Meshak, Abednego, [Bbsus]men of faith who would not [Bb]bend

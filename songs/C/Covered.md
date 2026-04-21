@@ -1,22 +1,25 @@
 ---
-title: "Covered"
-artist: ""
+title: Covered
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "07036887-2918-447C-A909-A5B579CFD4C6"
+id: 07036887-2918-447C-A909-A5B579CFD4C6
 ---
-
 [Bb/C]I  am   [F]covered,  [Bb]covered, [F]covered  by  His  blood.
 
 [C7]Walking  by  faith,  [F]living  in  love.

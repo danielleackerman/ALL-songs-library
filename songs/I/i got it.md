@@ -1,22 +1,25 @@
 ---
-title: "I Got It"
-artist: "Artist Name"
+title: I Got It
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "69929548-3144-4476-8411-0197FE3C23B4"
+id: 69929548-3144-4476-8411-0197FE3C23B4
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

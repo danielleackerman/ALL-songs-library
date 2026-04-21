@@ -1,34 +1,38 @@
 ---
-title: "There Is None Like You"
-artist: "Lenny LeBlanc"
+title: There Is None Like You
+artist: Lenny LeBlanc
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[MORE THAN ANYTHING]]"
-  - "[[I WORSHIP YOU ALMIGHTY GOD]]"
-id: "F581144A-20E5-4C6A-8A46-AF370FF4DD1E"
+  - '[[MORE THAN ANYTHING]]'
+  - '[[I WORSHIP YOU ALMIGHTY GOD]]'
+id: F581144A-20E5-4C6A-8A46-AF370FF4DD1E
 ---
-
 {artist: Lenny LeBlanc}
 
 Medley: more than anything / I worship You almighty God

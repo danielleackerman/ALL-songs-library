@@ -1,23 +1,26 @@
 ---
-title: "I Love the Lord and I Wont Take it Back"
-artist: "Artist Name"
+title: I Love the Lord and I Wont Take it Back
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C11DA221-EFE0-4E7A-A4E6-822852A991FE"
+id: C11DA221-EFE0-4E7A-A4E6-822852A991FE
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

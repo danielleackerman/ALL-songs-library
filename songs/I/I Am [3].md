@@ -1,87 +1,60 @@
 ---
-title: "I Am"
-artist: "Mark Schultz"
-key: D
-tempo: 
-time: 
-ccli: "4572079"
-copyright: "2005 Crazy Romaine Music"
-tags:
-  - "redeemer"
-  - "savior"
+title: I Am
+artist: Eddie James
+key: Bb
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
+tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "31A6BD96-97F5-4AD1-A122-DF82BCB8A967"
+id: 21674A66-E48E-41B6-8E3C-206B58EFB39B
 ---
-
-Intro 	D      Asus  Bm  D      A (Hit once)
+INTRO- Bb Eb Gm F
 
 VERSE 1:
-I A[Bm]m     [A/C#]   the M[D]aker of the Heavens
-I A[Bm]m     [A/C#]   the B[D]right and Morning Star
-I A[Bm]m     [A/C#]   the B[D]reath of all Creation
-Who alw[G]ays was and is to[Gm] come
+[Bb]I am the One [Eb]I'm the Almighty God
+[Gm]I am the One for whom [F]nothing is to hard
+[Bb]I am the shepherd and [Eb]I am the door
+[Gm]I am the good news to the [F]bound and the poor
+
+Chorus-
+(You echo out the "I am's" and you play the
+Bb & Eb
+before you acually go to the next "I am")
+
+[Bb]I a[Eb]m, [Gm]I a[F]m,[Bb] I [Eb]am,[Gm] I [F]am
 
 VERSE 2:
-I A[Bm]m     [A/C#]   the O[D]ne who walked on water
-I A[Bm]m     [A/C#]   the O[D]ne who calmed the seas
-I A[Bm]m     [A/C#]   the m[D]iracles and wonders
-[Asus]    So c[G]ome and see, foll[A]ow me
-And yo[Bm]u will know[G][A]
-
-CHORUS:
-That I A[D]m the Fo[A/C#]unt of Living Wa[G/B]ter
-The r[A]isen Son of M[G]an
-The H[D/F#]ealer of the br[G]oken
-And w[Asus]hen you cry I A[D]m
-Your S[A/C#]avior and Re[G/B]deemer
-Who b[D]ore the sin of[G] man
-The A[D/F#]uthor and Perf[G]ector
-Beg[A]inning and the[Bm] End[A/C#]
-Yes, I A[Dsus]m[D]
+[Bb]I am the Righteous One and [Eb]I am the Lamb
+[Gm]I am the ram in the [F]bush for Abraham
+[Bb]I am the ultimate [Eb]sacrifice for sin
+[Gm]I am your redeemer, [F]the beginning and the end  (TO THE CHORUS)
 
 VERSE 3:
-I A[Bm7]m     [A/C#]   the S[D]pirit deep inside you
-I A[Bm7]m     [A/C#]   the W[D]ord upon your heart
-I A[Bm7]m     [A/C#]   the O[D]ne who even knew you
-Bef[G]ore your birth, bef[A]ore you were
+[Bb]I am Jehovah and [Eb]I am the King
+[Gm]I am Messiah, [F]David's offspring
+[Bb]I am your High Priest and [Eb]I am the Christ
+[Gm]I am the Resurrection, [F]I am the Light  (TO CHORUS)
 
-CHORUS:
-I A[D]m the F[A/C#]ount of Living Wa[G/B]ter
-The r[A]isen Son of M[G]an
-The H[D/F#]ealer of the br[G]oken
-And w[Asus]hen you cry I [D]Am
-Your S[A/C#]avior and Re[G/B]deemer
-Who b[D]ore the sin of[G] man
-The A[D/F#]uthor and Perf[G]ector
-Beg[A]inning and th[Bm]e End[A/C#]
-I A[G]m;   [Bm]    yes, I [D/F#]Am[G][G/B][A]
+VERSE 4:
+[Bb]I am the bread and [Eb]I am the wine
+[Gm]I am your future, [F]so leave your past behind
+[Bb]I am the one in the [Eb]midst of two or three
+[Gm]I am your tabernacle, [F]I am your jubilee  (TO CHORUS)
 
 BRIDGE:
-Throughout the e[G]arth I A[D]m
-The univ[A]erse I A[Bm]m
-In every he[G]art I A[D]m
-Where you [A]are I A[Bm]m
-The Lord of Lo[G]rds, [D]   the King of K[Asus]ings[Bm]
-          G    D         Asus (Hit 5 times)
-The Holy Lamb	above all things
-
-CHORUS:
-Yes, I Am the Mighty God, your F[G/B]ather
-The r[D]isen Son of[G] Man
-The[D/F#] Healer of the br[G]oken
-And w[A]hen you cry I [D]Am
-Your [A/C#]Savior and Red[G/B]eemer
-Who b[D]ore the sin of m[G]an
-The[D/F#] Author and Perf[G]ector
-Beg[A]inning and the[Bm] End[A/C#]
-Yes, I A[G]m[D][Asus][Bm]
-Yes, I A[G]m[D][Asus][Bm]
-Yes, I A[G]m[D][Asus][Bm]
-       G (Hit once)
-Oh, I Am
+[Bb]I am Hope, [Bb]I am Peace, [Eb]I am Joy, [Eb]I am Rest
+[Gm]I am your comfort and [F]relief from your stress
+[Bb]I am Strength, [Bb]I am Faith, [Eb]I am Love, [Eb]I am Power
+[Gm]I am your freedom [F]this very hour  (TO CHORUS)

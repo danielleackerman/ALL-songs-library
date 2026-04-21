@@ -1,23 +1,26 @@
 ---
-title: "Because Of Who You Are-1"
-artist: ""
+title: Because Of Who You Are-1
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1C6387E8-528D-4140-BEFD-DD1C9034D5B8"
+id: 1C6387E8-528D-4140-BEFD-DD1C9034D5B8
 ---
-
 [Ab/Bb][Eb2]Because of who You [Fm7]are I give You [Eb/G]glory  [Ab/Bb]
 [Eb]Because of who You [Cm]are I give You [Fm7]praise [Bb][Bb/A]
 [Ab2]Because of [Ab b2/A]who You [Bb]are

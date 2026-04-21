@@ -1,27 +1,30 @@
 ---
-title: "Shackles-1"
-artist: "Jon Kendrick"
+title: Shackles-1
+artist: Jon Kendrick
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile:
-  - "mod-apo-fast"
-keywords: "mod apo fast"
-source: 
-year: 
+  - mod-apo-fast
+keywords: mod apo fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[SINCE I LAID MY BURDENS DOWN]]"
-  - "[[MORE THAN ENOUGH]]"
-  - "[[PRAISE HIM IN THE MORNING]]"
-id: "1B82EF59-441B-4923-B033-391EBEF5C37B"
+  - '[[SINCE I LAID MY BURDENS DOWN]]'
+  - '[[MORE THAN ENOUGH]]'
+  - '[[PRAISE HIM IN THE MORNING]]'
+id: 1B82EF59-441B-4923-B033-391EBEF5C37B
 ---
-
 Medley: since I laid my burdens down / more than enough / praise Him in the morning
 
 CHORUS:

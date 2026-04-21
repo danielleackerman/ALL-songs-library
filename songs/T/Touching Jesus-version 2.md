@@ -1,35 +1,39 @@
 ---
-title: "Touching Jesus-version 2"
-artist: "John Stallings (1973) Jimmy Swaggart"
+title: Touching Jesus-version 2
+artist: John Stallings (1973) Jimmy Swaggart
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "touching"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - jesus
+  - touching
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-slow"
-  - "os-apo-med"
-keywords: "os apo slow, os apo med"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-slow
+  - os-apo-med
+keywords: 'os apo slow, os apo med'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "58FFF65E-0A1A-4F91-B682-93CE23A8895B"
+id: 58FFF65E-0A1A-4F91-B682-93CE23A8895B
 ---
-
 {artist: John Stallings (1973) Jimmy Swaggart}
 
 CHORUS:

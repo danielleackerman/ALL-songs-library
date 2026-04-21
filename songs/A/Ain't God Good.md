@@ -1,40 +1,46 @@
 ---
-title: "Ain't God Good"
-artist: "Jeffrey W. Robinson / Gold City Quartet"
+title: Ain't God Good
+artist: Jeffrey W. Robinson / Gold City Quartet
 key: F
-tempo: 
-time: 
-ccli: "288649"
-copyright: "1977 Jeffrey W. Robinson. Assigned to Rex Nelon Music Company. Admin. ClearBox Rights, LLC."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "high-energy"
-  - "medium-fast"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - high-energy
+  - medium-fast
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-high-energy-medium-fast-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-southern-gospel-med"
-  - "os-gospel-med"
-  - "os-apo-med"
-keywords: "os southern gospel med, os gospel med, os apo med, praise"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-high-energy-medium-fast-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-southern-gospel-med
+  - os-gospel-med
+  - os-apo-med
+keywords: 'os southern gospel med, os gospel med, os apo med, praise'
+ccli: '288649'
+copyright: >-
+  1977 Jeffrey W. Robinson. Assigned to Rex Nelon Music Company. Admin. ClearBox
+  Rights, LLC.
+source: ''
+year: ''
 medley: []
-id: "52086C0A-FFE7-4D01-B053-3A60062C6A28"
+id: 52086C0A-FFE7-4D01-B053-3A60062C6A28
 ---
-
 {artist: Jeffrey W. Robinson / Gold City Quartet}
 
 VERSE 1:

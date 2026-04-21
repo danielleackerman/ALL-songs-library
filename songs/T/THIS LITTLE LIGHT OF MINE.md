@@ -1,23 +1,26 @@
 ---
-title: "This Little Light of Mine"
-artist: ""
+title: This Little Light of Mine
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "light"
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FAF4DDDB-DD7B-4340-A199-CA98B88A385D"
+id: FAF4DDDB-DD7B-4340-A199-CA98B88A385D
 ---
-
 Book: CHILDREN'S
 
 Artist Name

@@ -1,24 +1,27 @@
 ---
-title: "All the Glory"
-artist: "Mark Condon"
+title: All the Glory
+artist: Mark Condon
 key: C
-tempo: 132
-time: 
-ccli: 
-copyright: 
+bpm: '132'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
-  - "honor"
+  - glory
+  - honor
 genre: []
-energy: medium-fast
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "92426BBF-C270-4B27-AB2B-748260CD0901"
+id: 92426BBF-C270-4B27-AB2B-748260CD0901
 ---
-
 INTRO:
 [Eb/Ab] [F/Bb] [Eb/Ab] [F/Bb] [Eb/Ab] [Eb/Db] [F/G] [Dm7] [C2]
 CHORUS:

@@ -1,22 +1,25 @@
 ---
-title: "I Feel A Stirring"
-artist: "Geron Davis"
+title: I Feel A Stirring
+artist: Geron Davis
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C4BB5044-1100-4AE3-AE05-58FB2C8B9253"
+id: C4BB5044-1100-4AE3-AE05-58FB2C8B9253
 ---
-
 (Verse: 1)
 
 [Fm]We have come with all our [Cm/Bb]different [Bb]needs

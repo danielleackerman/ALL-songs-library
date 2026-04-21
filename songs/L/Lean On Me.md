@@ -1,24 +1,27 @@
 ---
-title: "Lean On Me"
-artist: "Kirk Franklin"
+title: Lean On Me
+artist: Kirk Franklin
 key: F
-tempo: 52
-time: 
-ccli: "2809892"
-copyright: "1998 Lilly Mack Music / Kerrion Publishing"
+bpm: '52'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "friend"
+  - friend
 genre: []
-energy: slow
 profile:
-  - "mod-gospel-slow"
-keywords: "mod gospel slow"
-source: 
-year: 
+  - mod-gospel-slow
+keywords: mod gospel slow
+ccli: '2809892'
+copyright: 1998 Lilly Mack Music / Kerrion Publishing
+source: ''
+year: ''
 medley: []
-id: "C289E105-1A59-4C6B-8458-C07BA85829DB"
+id: C289E105-1A59-4C6B-8458-C07BA85829DB
 ---
-
 Spoken: This is for that little child with no father, for that man that doesn't
 have a place to stay, and for that little boy living with AIDS-you can lean on me.
 

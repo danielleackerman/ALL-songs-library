@@ -1,23 +1,26 @@
 ---
-title: "More Than Words"
-artist: "EXTREME"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: More Than Words
+artist: EXTREME
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0C4ED5A9-8011-4C62-8538-EBDA07EEEA79"
+id: 0C4ED5A9-8011-4C62-8538-EBDA07EEEA79
 ---
-
 VERSE 1:
 
 Saying I love you

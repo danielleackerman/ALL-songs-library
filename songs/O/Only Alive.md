@@ -1,23 +1,26 @@
 ---
-title: "Only Alive"
-artist: "Jars Of Clay"
+title: Only Alive
+artist: Jars Of Clay
 key: A
-tempo: 
-time: 
-ccli: 
-copyright: "2003 Bridge Building Music, Inc. / Pogostick Music / BMI"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "alive"
+  - alive
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: '2003 Bridge Building Music, Inc. / Pogostick Music / BMI'
+source: ''
+year: ''
 medley: []
-id: "260D8338-04C6-4011-98A5-C023FD22FCB2"
+id: 260D8338-04C6-4011-98A5-C023FD22FCB2
 ---
-
 Capo 1st fret
 Intro: Asus2, E
 

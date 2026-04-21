@@ -1,34 +1,38 @@
 ---
-title: "I Have Made My Decision"
-artist: "Interpreted from Serve the Lord"
+title: I Have Made My Decision
+artist: Interpreted from Serve the Lord
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: "Carman"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: Carman
+year: ''
 medley: []
-id: "0B8548DF-EFBE-480C-AF05-D581ECC6FD49"
+id: 0B8548DF-EFBE-480C-AF05-D581ECC6FD49
 ---
-
 CHORUS 1:
 [C]I [G/B]have [G]made my de[G/B]cision, I have [F/C]staked my [C]claim
 I have [F]drawn a line [C/E]in the sand, And I [A#/D]won't be a[Gsus]shamed

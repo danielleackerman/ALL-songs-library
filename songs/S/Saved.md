@@ -1,23 +1,26 @@
 ---
-title: "Saved"
-artist: "Third Day"
+title: Saved
+artist: Third Day
 key: A
-tempo: 
-time: 
-ccli: 
-copyright: "1980 Special Rider Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "thank"
+  - thank
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 1980 Special Rider Music
+source: ''
+year: ''
 medley: []
-id: "0CA0F998-B0ED-4E22-8CEE-C5EFB4085E6A"
+id: 0CA0F998-B0ED-4E22-8CEE-C5EFB4085E6A
 ---
-
 A
 I was blinded by the devil, Born already ruined,
 Stone-cold dead as I stepped out of the womb.

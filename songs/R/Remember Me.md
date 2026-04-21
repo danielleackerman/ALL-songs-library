@@ -1,23 +1,26 @@
 ---
-title: "Remember Me"
-artist: "Mark Schultz"
+title: Remember Me
+artist: Mark Schultz
 key: F
-tempo: 
-time: 
-ccli: "3178072"
-copyright: "2000 Mark Schultz Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "wonder"
+  - wonder
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3178072'
+copyright: 2000 Mark Schultz Music
+source: ''
+year: ''
 medley: []
-id: "BFF3D04A-99D9-4E2A-BA66-D45AEA33BE60"
+id: BFF3D04A-99D9-4E2A-BA66-D45AEA33BE60
 ---
-
 Intro and interlude:
 F – C/E – Dm – F/C – Bb – F/ A – Bb –  Csus – C7
 

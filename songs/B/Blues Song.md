@@ -1,24 +1,27 @@
 ---
-title: "Blues Song"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Blues Song
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "friend"
+  - jesus
+  - friend
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C291F1F5-4B98-48D7-8018-8DFF16D98736"
+id: C291F1F5-4B98-48D7-8018-8DFF16D98736
 ---
-
 Key:
 Copyright: 1994 Independent Recording
 

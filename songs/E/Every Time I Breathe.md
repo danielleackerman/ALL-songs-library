@@ -1,23 +1,28 @@
 ---
-title: "Every Time I Breathe"
-artist: "Big Daddy Weave"
+title: Every Time I Breathe
+artist: Big Daddy Weave
 key: D
-tempo: 
-time: 
-ccli: "4807971"
-copyright: "2006 Word Music, LLC / Weave Country / Pocket Full Of Rocks Publishing / Dog Named David Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4807971'
+copyright: >-
+  2006 Word Music, LLC / Weave Country / Pocket Full Of Rocks Publishing / Dog
+  Named David Music
+source: ''
+year: ''
 medley: []
-id: "F5F174DB-B3A8-4231-83BD-24029449BACC"
+id: F5F174DB-B3A8-4231-83BD-24029449BACC
 ---
-
 [Intro:]        [D]  [-]  [G]  [-]  [Bm]   [-]  [D/F#]     [-]  [G]
 I am [G]sure, all of [Asus]Heaven's heard me [Bm]cry, as I
 [D/F#]tell you all the [G]reasons why this [Asus]life is just too [D]hard;

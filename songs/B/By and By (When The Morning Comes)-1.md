@@ -1,23 +1,26 @@
 ---
-title: "By and By (When The Morning Comes)-1"
-artist: "Charles Albert Tindley"
+title: By and By (When The Morning Comes)-1
+artist: Charles Albert Tindley
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-keywords: "os apo med"
-source: "1905"
-year: 
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: '1905'
+year: ''
 medley: []
-id: "5B171F95-ABF7-4442-A094-BF8ECAC86468"
+id: 5B171F95-ABF7-4442-A094-BF8ECAC86468
 ---
-
 VERSE 1:
 [Eb]Tri [Fm7]als [Eb]dark on every hand [Eb/Bb]and [Eb7]we can[Ab]not under[Eb]stand
 [Eb]All the [Eb]ways that God would lead us [Eb]to that [Bb]blessed [F7]pro[F9]mised [Bb]land

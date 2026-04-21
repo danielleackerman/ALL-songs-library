@@ -1,24 +1,27 @@
 ---
-title: "Lord Of All"
-artist: "Carman"
+title: Lord Of All
+artist: Carman
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "christ"
+  - jesus
+  - christ
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D6AF7FE6-8CEC-4D1C-AA98-29C023738B04"
+id: D6AF7FE6-8CEC-4D1C-AA98-29C023738B04
 ---
-
 [C]Lord You are wonderful, L[Bb]ord You are glorious
 [F]You are Lord of a[C]ll
 [C]Lord You are wonderful, L[Bb]ord You are glorious

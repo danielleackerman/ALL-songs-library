@@ -1,24 +1,27 @@
 ---
-title: "Way Maker v1"
-artist: "NLPC arrangment"
+title: Way Maker v1
+artist: NLPC arrangment
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "light"
-  - "promise"
+  - light
+  - promise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A413D822-7517-453F-998D-91DF3234D023"
+id: A413D822-7517-453F-998D-91DF3234D023
 ---
-
 VERSE 1 (solo):
 You are here moving in our midst, I worship you, I worship you.
 You are here rearranging destinies, I worship you, I worship you.

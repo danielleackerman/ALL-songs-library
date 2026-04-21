@@ -1,22 +1,25 @@
 ---
-title: "Still Holdin’ On"
-artist: "Gerald Crabb"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Still Holdin’ On
+artist: Gerald Crabb
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0C62FD84-75D0-45FE-BBFA-49C33C9B91AA"
+id: 0C62FD84-75D0-45FE-BBFA-49C33C9B91AA
 ---
-
 VERSE 1:
 People said I'd never make it
 They said I'd never see it through

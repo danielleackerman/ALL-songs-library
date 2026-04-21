@@ -1,23 +1,28 @@
 ---
-title: "My Offering"
-artist: "Carl Cartee"
+title: My Offering
+artist: Carl Cartee
 key: E
-tempo: 
-time: 
-ccli: "4495699"
-copyright: "2005 Willow Branch Publishing / All For The King Music / Postage Stamp Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "offering"
+  - offering
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4495699'
+copyright: >-
+  2005 Willow Branch Publishing / All For The King Music / Postage Stamp
+  Publishing
+source: ''
+year: ''
 medley: []
-id: "248837A2-568E-49BE-A463-FC40286C387D"
+id: 248837A2-568E-49BE-A463-FC40286C387D
 ---
-
 VERSE 1:
 [E]Master, Ma[B]ker, m[C#m7]y Cre[G#m]ator
 You [A2(no3)]spoke and the w[B]orld beg[E]an[A2(no3)]

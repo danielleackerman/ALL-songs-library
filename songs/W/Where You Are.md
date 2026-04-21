@@ -1,22 +1,25 @@
 ---
-title: "Where You Are"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Where You Are
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8FFDF563-1D39-46CA-9547-791147A9E904"
+id: 8FFDF563-1D39-46CA-9547-791147A9E904
 ---
-
 Key:
 
 Where You Are

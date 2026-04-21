@@ -1,23 +1,26 @@
 ---
-title: "And Now My Lifesong Sings"
-artist: "Casting Crowns"
+title: And Now My Lifesong Sings
+artist: Casting Crowns
 key: Db
-tempo: 
-time: 
-ccli: "4578884"
-copyright: "2005 My Refuge Music / Sony/ATV Tree Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4578884'
+copyright: 2005 My Refuge Music / Sony/ATV Tree Publishing
+source: ''
+year: ''
 medley: []
-id: "2B8F14B3-40F8-4A8E-8C24-D4F637232A7F"
+id: 2B8F14B3-40F8-4A8E-8C24-D4F637232A7F
 ---
-
 INTRO:
 [Db][/][/][Ebm7][|][Db/F][/][/][/][|][Gb][/][/][/][|][Bbm][/][/][/]
 [Gb][/][/][/][|][Ab][/][/][/][|][Bbm][/][Ab][/][|][Gb][/][/][/]

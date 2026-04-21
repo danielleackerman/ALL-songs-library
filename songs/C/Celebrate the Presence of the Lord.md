@@ -1,37 +1,41 @@
 ---
-title: "Celebrate the Presence of the Lord"
-artist: ""
+title: Celebrate the Presence of the Lord
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "presence"
-  - "rejoice"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - presence
+  - rejoice
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C1D4176A-EDAC-40AE-89E6-1DD485A04B9F"
+id: C1D4176A-EDAC-40AE-89E6-1DD485A04B9F
 ---
-
 CHORUS:
 [Eb]Celebrate the [Ab/Eb]presence of the [Eb]Lord, [Eb]He is worthy [Ab/Eb]to be [Eb]praised
 [Eb]Celebrate the [Ab/Eb]presence of the [Eb]Lord, [Eb]He is worthy [Ab/Eb]to be [Eb]praised

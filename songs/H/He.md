@@ -1,22 +1,25 @@
 ---
-title: "He"
-artist: "Jars Of Clay"
+title: He
+artist: Jars Of Clay
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "374ABB87-DE43-44F3-839C-92D95B070D8C"
+id: 374ABB87-DE43-44F3-839C-92D95B070D8C
 ---
-
  G2  G  Gmaj7  C2  C6/9  C9  D  Am7 Gsus
 [e]-3--3----2----3----3----0---2---0---3---
 [B]-3--3----3----3----3----3---3---1---1---

@@ -1,24 +1,27 @@
 ---
-title: "We Praise You, Oh Lord"
-artist: "Myles Young"
+title: 'We Praise You, Oh Lord'
+artist: Myles Young
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile:
-  - "mod-apo-slow"
-keywords: 
-source: 
-year: 
+  - mod-apo-slow
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C57898C5-14EA-4961-997E-F6CCA4C6DB1D"
+id: B36AE00F-8925-400B-A35D-BCE937098B90
 ---
-
 Key : [Bb]
 Keywords: MOD APO SLOW
 

@@ -1,23 +1,28 @@
 ---
-title: "Every Man"
-artist: "Casting Crowns"
+title: Every Man
+artist: Casting Crowns
 key: G
-tempo: 
-time: 
-ccli: "4991306"
-copyright: "2007 BanaHama Tunes / Word Music, LLC / SWECS Music / Club Zoo Music / Birdboy Songs / Birdwing Music / My Refuge Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "hope"
+  - hope
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4991306'
+copyright: >-
+  2007 BanaHama Tunes / Word Music, LLC / SWECS Music / Club Zoo Music / Birdboy
+  Songs / Birdwing Music / My Refuge Music
+source: ''
+year: ''
 medley: []
-id: "787C53DB-5E64-4A06-8919-17023B5B7128"
+id: 787C53DB-5E64-4A06-8919-17023B5B7128
 ---
-
 INTRO:
 [G] | [F] | [Em] | [F] | x2
 

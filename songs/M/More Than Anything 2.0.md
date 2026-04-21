@@ -1,28 +1,31 @@
 ---
-title: "More Than Anything 2.0"
-artist: "Don Moen"
+title: More Than Anything 2.0
+artist: Don Moen
 key: Db
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[SING FOR JOY]]"
-  - "[[MORE THAN ANYTHING]]"
-  - "[[I WORSHIP YOU ALMIGHTY GOD]]"
-  - "[[THERE IS NONE LIKE YOU]]"
-id: "D7B4E51B-B785-492B-9A82-68F07B80D0CB"
+  - '[[SING FOR JOY]]'
+  - '[[MORE THAN ANYTHING]]'
+  - '[[I WORSHIP YOU ALMIGHTY GOD]]'
+  - '[[THERE IS NONE LIKE YOU]]'
+id: D7B4E51B-B785-492B-9A82-68F07B80D0CB
 ---
-
 Medley: sing for joy/ more than anything / I worship You almighty God / there is none like You
 
 [Db]More than anything [Ebm7], More than [Fm7]anything [Bbm7]

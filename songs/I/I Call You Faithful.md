@@ -1,22 +1,25 @@
 ---
-title: "I Call You Faithful"
-artist: ""
+title: I Call You Faithful
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FE5F7622-C62A-4815-8652-5608CACE5452"
+id: FE5F7622-C62A-4815-8652-5608CACE5452
 ---
-
 [Eb]I call You [Eb/G]faithful, [Ab]I call You [Eb/G]faithful
 
 [Ab]You have been [Eb/G]faithful to [Bbsus B]me.   [Ab/C].     [Bb/D]

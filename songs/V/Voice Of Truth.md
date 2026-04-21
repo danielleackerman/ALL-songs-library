@@ -1,24 +1,27 @@
 ---
-title: "Voice Of Truth"
-artist: "Casting Crowns"
+title: Voice Of Truth
+artist: Casting Crowns
 key: D
-tempo: 
-time: 
-ccli: "4196620"
-copyright: "SWECS Music / Club Zoo Music / Sparrow Song / Peach Hill Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "believe"
+  - jesus
+  - believe
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4196620'
+copyright: SWECS Music / Club Zoo Music / Sparrow Song / Peach Hill Songs
+source: ''
+year: ''
 medley: []
-id: "0CE29C12-77E4-47E4-90D4-2D3786085604"
+id: 0CE29C12-77E4-47E4-90D4-2D3786085604
 ---
-
 (Capo 3)
 
 [D2]  [D]   [Bm]([a][d][d11])  [Bm]   [G2]  [G]   [G2]  [G]

@@ -1,46 +1,47 @@
 ---
-title: "Nothing But The Blood"
-artist: "The Swift"
-key: G
-tempo: 
-time: 
-ccli: "4329411"
-copyright: "2004 ThankYou Music"
+title: Nothing But The Blood
+artist: ''
+key: F
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "blood"
+  - blood
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "01184F29-0620-4385-B7CB-D294E9A0FE48"
+id: 8550E176-B663-4CF9-8961-85E97B3567C2
 ---
+(Verse:1)
 
-VERSE 1:
-Your b[G2]lood speaks a better [Em7]word
-Than all the empty [G]claims I've heard upon this [Em7]earth
-Speaks righteousness for [D]me
-And stands in my [C2]defense
-Jesus, only by You[G]r blood      [Em7]      [D]
+[F]What [Bb/F]can [F]wash away my [Dm7]sin, [F/C]nothing [Bbm/Db]but the [Dm7]blood of [F/C]Je---[C7]e---[F]sus
+[F]What [Bb/F]can [F]make me whole a----[Dm7]gain, [F/C]nothing [Bbm/Db]but the [Dm7]blood of [F/C]Je---[C7]e---[F]sus.
 
-CHORUS:
-[G]What can wash away our sins?
-[Em7]What can make us whole again?
-[D]Nothing but the blood
-[C2]Nothing but the blood of J[G]esus    [D]   [C2]
-[G]What can wash us pure as snow?
-[Em7]Welcomed as the friends of God
-[D]Nothing but Your blood
-[C2]Nothing but Your blood King [G]Jesus   [D]   [C2]
+(Chorus:)
 
-([G]  [Em7]  [G]  [Em7])
+[F]Oh [Bb/F]pre---[F]cious is the flow, [C7]that makes me white [C7/E]as [Fm7]snow
+[F]No [Bb/F]oth----[F]er fount I [Dm7]know, [F/C]nothing [Bbm/Db]but the [Dm7]blood of [F/C]Je---[C7]e---[F]sus.
 
-VERSE 2:
-[G]Your cross testifies in [Em7]grace
-It tells the Father's [G]heart to make a way for [Em7]us
-Now boldly we app[D]roach
-Not earthly confiden[C2]ce
-It's only by Your [G]blood
-Y[Em7]our Bl[D]ood
+(Verse:2)
+
+For my pardon this I see, nothing but the blood of Je---sus
+For my cleansing this I plea, nothing but the blood of Je---sus.
+
+(Verse:3)
+
+Nothing can for sin atone, nothing but the blood of Je---e---sus
+Naught of good that I have done, nothing but the blood of Je---sus.
+
+(Verse:4)
+
+This is all my hope and peace, nothing but the blood of Je---sus
+This is all my righteousness, nothing but the blood of Je---sus.

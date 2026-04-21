@@ -1,22 +1,25 @@
 ---
-title: "So Will I (100 Billion X)"
-artist: "Hillsong United"
+title: So Will I (100 Billion X)
+artist: Hillsong United
 key: A
-tempo: 
-time: 
-ccli: "3259278"
-copyright: "2017 Hillsong Music Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3259278'
+copyright: 2017 Hillsong Music Publishing
+source: ''
+year: ''
 medley: []
-id: "DFDB52DD-17E8-4E21-956C-8E991134EBAD"
+id: DFDB52DD-17E8-4E21-956C-8E991134EBAD
 ---
-
 INTRO:
 [D] [-] [F#m] [-] [E] [-] [D] [-] [F#m] [-] [E]
 

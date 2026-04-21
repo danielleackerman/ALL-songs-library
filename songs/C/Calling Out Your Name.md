@@ -1,24 +1,27 @@
 ---
-title: "Calling Out Your Name"
-artist: "Rich Mullins"
+title: Calling Out Your Name
+artist: Rich Mullins
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "calling"
-  - "hope"
+  - calling
+  - hope
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A81DDF75-1073-4A63-ADE0-3F584416FA6C"
+id: A81DDF75-1073-4A63-ADE0-3F584416FA6C
 ---
-
 Psalm 19:1-6
 
 [F]    [Bb]     [Gm]      [C]     [F]    [Bb]    [Gm]     [F]

@@ -1,41 +1,45 @@
 ---
-title: "I’ve Already Been To The Water"
-artist: "Vicki Winans"
+title: I’ve Already Been To The Water
+artist: Vicki Winans
 key: G
-tempo: 126
-time: 
-ccli: 
-copyright: 
+bpm: '126'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "baptism"
-  - "water"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - baptism
+  - water
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-fast"
-  - "os-gospel-fast"
-keywords: "os apo fast, os gospel fast, baptism, water"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-fast
+  - os-gospel-fast
+keywords: 'os apo fast, os gospel fast, baptism, water'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[JESUS SAID IT]]"
-  - "[[I'VE BEEN CHANGED]]"
-id: "EA0B76E1-7899-41A2-972E-25372525594A"
+  - '[[JESUS SAID IT]]'
+  - '[[I''VE BEEN CHANGED]]'
+id: EA0B76E1-7899-41A2-972E-25372525594A
 ---
-
 {artist: Vicki Winans}
 
 Medley: Jesus said it / I've been changed

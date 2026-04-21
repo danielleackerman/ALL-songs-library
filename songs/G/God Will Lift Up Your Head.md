@@ -1,24 +1,27 @@
 ---
-title: "God Will Lift Up Your Head"
-artist: "Jars Of Clay"
+title: God Will Lift Up Your Head
+artist: Jars Of Clay
 key: D
-tempo: 
-time: 
-ccli: "2410607"
-copyright: "1996 Triune Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "joy"
-  - "wise"
+  - joy
+  - wise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2410607'
+copyright: '1996 Triune Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "0959E6BC-A956-4946-9B5C-10904B343DFD"
+id: 0959E6BC-A956-4946-9B5C-10904B343DFD
 ---
-
 Intro     d/// a g    d/// a g  3x
 (The A is on the up-beat of 4)
 (See tab below, Played w/intro)

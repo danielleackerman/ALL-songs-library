@@ -1,20 +1,23 @@
 ---
-title: "All I Need"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: All I Need
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E46563BB-0240-4089-ACB9-AAB0C7B2E8A3"
+id: E46563BB-0240-4089-ACB9-AAB0C7B2E8A3
 ---
-
 

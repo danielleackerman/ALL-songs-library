@@ -1,25 +1,28 @@
 ---
-title: "Lord You're Holy"
-artist: "Eddy James/ Helen Baylor"
+title: Lord You're Holy
+artist: Eddy James/ Helen Baylor
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "praise"
+  - love
+  - praise
 genre: []
-energy: 
 profile:
-  - "black-gospel-opera"
-keywords: 
-source: 
-year: 
+  - black-gospel-opera
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "24AAC3A6-75C7-487F-9FD2-89EEAB1B0A00"
+id: 24AAC3A6-75C7-487F-9FD2-89EEAB1B0A00
 ---
-
 INTRO:
 [Cm][Abmaj7][Fm7][G9sus][G]
 [Cm][Abmaj7][Fm7][G]

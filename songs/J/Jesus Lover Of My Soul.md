@@ -1,35 +1,39 @@
 ---
-title: "Jesus Lover Of My Soul"
-artist: "Hillsong United"
+title: Jesus Lover Of My Soul
+artist: Hillsong United
 key: G
-tempo: 
-time: 
-ccli: "1198817"
-copyright: "1992 Hillsong Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '1198817'
+copyright: 1992 Hillsong Publishing
+source: ''
+year: ''
 medley: []
-id: "79B3455E-F29A-4680-A339-692B59825348"
+id: 79B3455E-F29A-4680-A339-692B59825348
 ---
-
 Intro:  C   D   Em7   C
 
 [C]Worship [D]You, my [Em7]Lord, un[C]til the very end (repeat several times)

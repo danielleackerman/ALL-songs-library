@@ -1,23 +1,26 @@
 ---
-title: "I'm Getting Ready"
-artist: "Gordon Mote"
+title: I'm Getting Ready
+artist: Gordon Mote
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "os-apo-fast"
-keywords: "os apo fast"
-source: 
-year: 
+  - os-apo-fast
+keywords: os apo fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CC3B6911-C4CF-4A7D-90D3-7100C8CA6CF7"
+id: CC3B6911-C4CF-4A7D-90D3-7100C8CA6CF7
 ---
-
 {artist: Gordon Mote}
 
 [F]I'm  getting  [F7]ready  to  [Bb]leave  this  [F]world

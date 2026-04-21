@@ -1,23 +1,26 @@
 ---
-title: "Your Grace Is Enough"
-artist: "Chris Tomlin"
+title: Your Grace Is Enough
+artist: Chris Tomlin
 key: A
-tempo: 
-time: 
-ccli: "4477026"
-copyright: "2003 spiritandsong.com"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "grace"
+  - grace
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4477026'
+copyright: 2003 spiritandsong.com
+source: ''
+year: ''
 medley: []
-id: "06BBAE6E-D46B-4952-BCD2-087874D9351E"
+id: 06BBAE6E-D46B-4952-BCD2-087874D9351E
 ---
-
 Capo II (makes it key of A)
 
 Intro: G Gmaj7/B C2 (x2)

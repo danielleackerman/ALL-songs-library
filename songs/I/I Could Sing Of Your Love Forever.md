@@ -1,23 +1,26 @@
 ---
-title: "I Could Sing Of Your Love Forever"
-artist: ""
+title: I Could Sing Of Your Love Forever
+artist: ''
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: "1996 Mercy Vineyard"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 1996 Mercy Vineyard
+source: ''
+year: ''
 medley: []
-id: "E2E7DE3F-9F14-45C0-BCC5-DA95DC313F6C"
+id: E2E7DE3F-9F14-45C0-BCC5-DA95DC313F6C
 ---
-
 [E]Over the mountains and the [F#m]sea
                               A
 Your river runs with love for me

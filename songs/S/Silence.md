@@ -1,22 +1,25 @@
 ---
-title: "Silence"
-artist: "Jars Of Clay"
+title: Silence
+artist: Jars Of Clay
 key: B
-tempo: 
-time: 
-ccli: "3604254"
-copyright: "2002 Bridge Building Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3604254'
+copyright: '2002 Bridge Building Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "25EF9977-31B9-45ED-8EE4-C3F29C32AB91"
+id: 25EF9977-31B9-45ED-8EE4-C3F29C32AB91
 ---
-
 Intro: B
 
 VERSE:

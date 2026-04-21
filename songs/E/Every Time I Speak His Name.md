@@ -1,34 +1,38 @@
 ---
-title: "Every Time I Speak His Name"
-artist: "Marcia B. Henry"
+title: Every Time I Speak His Name
+artist: Marcia B. Henry
 key: F
-tempo: 
-time: 
-ccli: "3832019"
-copyright: "1999 Marcia Henry Music (Admin. by Capitol CMG Publishing)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "his-name"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - his-name
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "mod-apo-slow"
-  - "contemp-christian-slow"
-keywords: "mod apo slow,  contemp christian slow"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - mod-apo-slow
+  - contemp-christian-slow
+keywords: 'mod apo slow,  contemp christian slow'
+ccli: '3832019'
+copyright: 1999 Marcia Henry Music (Admin. by Capitol CMG Publishing)
+source: ''
+year: ''
 medley: []
-id: "E016FA73-3290-492A-865A-B0AF5DF0BED4"
+id: E016FA73-3290-492A-865A-B0AF5DF0BED4
 ---
-
 {artist: Marcia B. Henry}
 
 VERSE 1:

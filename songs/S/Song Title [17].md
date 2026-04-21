@@ -1,24 +1,33 @@
 ---
-title: "Song Title"
-artist: "Artist Name"
-key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Song Title
+artist: Artist Name
+key: Dm
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CD5F9FED-69D7-4575-B001-1C76B27012C9"
+id: D2E466A7-D22C-4CEC-BC77-9BFA728177C0
 ---
+You’re a [Dm]Wonderful, Glorious, Holy and Righteous
+Vic[Bb]torious, Conquerer, Triumphant, and [C]Mighty
+[F]Healer, Deliverer, Shield and Defense
+[Asus]Strong tower and [A]My best friend
+Om[D]nipotent, Omnipresent, [D/Gb] Soon Coming King
+[Gm]Alpha, Omega, [Bb]Lord of every[C]thing
+Ho[F]ly, Holy, Holy is your [Asus]na[A]me
 
-CHORUS:
-God is [D]greater than the [D/F#]need, [G]bigger than the [G/E]problem
-No mat[A]ter how [F#]bad it [Bm]seems, I [Em]know that He can [A]solve them
-So [D]trust Him and be[D/F#]lieve, He can do any[G]thing
-[D]God is [A]greater, [D] [Em]greater [A]than the [D]need
+Omnipo[D]tent, Omnipresent, [D/Gb] Soon Coming King
+Alpha, [Gm]Omega, [Bb]Lord of every[C]thing
+[F]Holy, Holy, Holy is your [A][Asus]na[A]me

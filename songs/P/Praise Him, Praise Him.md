@@ -1,26 +1,29 @@
 ---
-title: "Praise Him, Praise Him"
-artist: ""
+title: 'Praise Him, Praise Him'
+artist: ''
 key: F
-tempo: 125
-time: 
-ccli: 
-copyright: 
+bpm: '125'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "black-gospel"
-  - "traditional"
+  - praise
+  - black-gospel
+  - traditional
 genre: []
-energy: medium-fast
 profile:
-  - "os-gospel-fast"
-keywords: "os gospel fast, black gospel, traditional"
-source: 
-year: 
+  - os-gospel-fast
+keywords: 'os gospel fast, black gospel, traditional'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B7503392-88F1-45E6-AC21-53217AD0B923"
+id: B7503392-88F1-45E6-AC21-53217AD0B923
 ---
-
 [F]Praise Him, Praise [F7]Him,
 [Bb9]Praise Him in the morning
 Praise Him in the [F]noontime

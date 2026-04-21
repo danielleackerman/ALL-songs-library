@@ -1,24 +1,27 @@
 ---
-title: "Hope To Carry On"
-artist: "Rich Mullins"
+title: Hope To Carry On
+artist: Rich Mullins
 key: Db
-tempo: 
-time: 
-ccli: "775190"
-copyright: "1990 BMG Songs, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '775190'
+copyright: '1990 BMG Songs, Inc.'
+source: ''
+year: ''
 medley: []
-id: "7655CA14-653F-4F6D-A20F-33FC824B02F6"
+id: 7655CA14-653F-4F6D-A20F-33FC824B02F6
 ---
-
 Matthew 27:33-54/Mark 15:22-39/Luke 23:33-47/John 17:18-30
 
     Db   Gb    Db   Gb    Db   Gb    Db   Gb

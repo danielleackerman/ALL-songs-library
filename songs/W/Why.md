@@ -1,23 +1,26 @@
 ---
-title: "Why"
-artist: "Big Daddy Weave"
+title: Why
+artist: Big Daddy Weave
 key: G
-tempo: 
-time: 
-ccli: "4313678"
-copyright: "2003 Open Worship Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4313678'
+copyright: 2003 Open Worship Music
+source: ''
+year: ''
 medley: []
-id: "A6BCC8A2-83D4-41B0-A207-20F1890410FA"
+id: A6BCC8A2-83D4-41B0-A207-20F1890410FA
 ---
-
 Intro – g5, d2 | am7  g/b c2 | g5, d2 | am7 |
 
 [G5]  Walking[D2] down the road this life is on

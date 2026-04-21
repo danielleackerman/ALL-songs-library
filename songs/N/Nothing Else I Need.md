@@ -1,22 +1,25 @@
 ---
-title: "Nothing Else I Need"
-artist: "Jeremy Camp"
+title: Nothing Else I Need
+artist: Jeremy Camp
 key: C
-tempo: 
-time: 
-ccli: "4505156"
-copyright: "2004 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4505156'
+copyright: 2004 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "C650AD1C-6D38-4500-95E3-76086390B61B"
+id: C650AD1C-6D38-4500-95E3-76086390B61B
 ---
-
 [C]  [Am]  [F]  [G]  (x3)
 
 When I [C]think of all I've [Am]seen

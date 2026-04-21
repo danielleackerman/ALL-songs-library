@@ -1,22 +1,25 @@
 ---
-title: "Lift Your Praises To The Lord-1"
-artist: "Page 17"
+title: Lift Your Praises To The Lord-1
+artist: Page 17
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8D2355F7-ACFF-487B-A9A9-4BF7C6077439"
+id: 8D2355F7-ACFF-487B-A9A9-4BF7C6077439
 ---
-
 [Ab/Bb]Lift [Bb7]your [Eb]pra [Bb7] ises  [Bb/D]to the [Eb]Lord
 
 [Eb]Lift  [Eb/C]your  [Bb7]praises  [Bb/D]to  the  [Eb]Lord

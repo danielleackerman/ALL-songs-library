@@ -1,24 +1,27 @@
 ---
-title: "The Just Shall Live"
-artist: "Rich Mullins"
+title: The Just Shall Live
+artist: Rich Mullins
 key: Db
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "faith"
-  - "trust"
+  - faith
+  - trust
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1F21AD48-8702-43F7-B9B4-DB3D8EC0D1A3"
+id: 1F21AD48-8702-43F7-B9B4-DB3D8EC0D1A3
 ---
-
 Romans 1:16,17/John 6:35-40/Hebrews 2:9-11/Psalm 16:9-10
 Isaiah 10:1-4/Matthew 5:5, 16:18/Proverbs 24:11,12
 

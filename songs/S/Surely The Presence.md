@@ -1,34 +1,38 @@
 ---
-title: "Surely The Presence"
-artist: "Lanny Wolfe"
+title: Surely The Presence
+artist: Lanny Wolfe
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "presence"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - presence
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[HEAVEN'S POINT OF VIEW]]"
-id: "A686E86B-F895-45E7-8662-7865C9AAB01E"
+  - '[[HEAVEN''S POINT OF VIEW]]'
+id: A686E86B-F895-45E7-8662-7865C9AAB01E
 ---
-
 Medley: heaven's point of view
 
 CHORUS:

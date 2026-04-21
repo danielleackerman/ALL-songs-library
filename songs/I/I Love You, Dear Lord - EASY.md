@@ -1,24 +1,27 @@
 ---
-title: "I Love You, Dear Lord - EASY"
-artist: "Susan Triplett"
+title: 'I Love You, Dear Lord - EASY'
+artist: Susan Triplett
 key: Eb
-tempo: 76
-time: 
-ccli: 
-copyright: 
+bpm: '76'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "praise"
+  - love
+  - praise
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "EDA3FBEF-B4FD-41F6-8FDF-CBA31502805B"
+id: EDA3FBEF-B4FD-41F6-8FDF-CBA31502805B
 ---
-
 contemporary 76 BPM
 Key: Eb
 

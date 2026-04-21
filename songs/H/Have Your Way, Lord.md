@@ -1,22 +1,25 @@
 ---
-title: "Have Your Way, Lord"
-artist: ""
+title: 'Have Your Way, Lord'
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F2D00F40-62C5-4990-A9BF-C9022754BC64"
+id: F2D00F40-62C5-4990-A9BF-C9022754BC64
 ---
-
 [Bb/C]Have   Your   [F]way   Lord,   [Bb/C]Have   Your   [F]way
 
 [Bb/C]Have  Your  [F]way  [Dm]Lord,  [G9]Have  Your  [C7]way.

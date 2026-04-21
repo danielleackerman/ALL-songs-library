@@ -1,22 +1,25 @@
 ---
-title: "Surrender"
-artist: "Jeremy Camp"
+title: Surrender
+artist: Jeremy Camp
 key: F
-tempo: 
-time: 
-ccli: "5324233"
-copyright: "2008 Thirsty Moon River Publishing / Stolen Pride Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5324233'
+copyright: 2008 Thirsty Moon River Publishing / Stolen Pride Music
+source: ''
+year: ''
 medley: []
-id: "808FABF4-E3DB-47FE-845C-4FBD92B49162"
+id: 808FABF4-E3DB-47FE-845C-4FBD92B49162
 ---
-
 VERSE 1:
 [F]Purify this tainted [Bb]soul
 [Gm]I'm tired of liv[F]ing life a fo[Bb]ol

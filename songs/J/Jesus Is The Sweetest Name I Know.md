@@ -1,37 +1,41 @@
 ---
-title: "Jesus Is The Sweetest Name I Know"
-artist: "Lela Long"
+title: Jesus Is The Sweetest Name I Know
+artist: Lela Long
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-opera"
-  - "black-gospel-black-gospel-opera-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: 
+  - black-gospel-opera
+  - >-
+    black-gospel-black-gospel-opera-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: ''
 year: 1930
 medley: []
-id: "52C8A82C-2190-430A-9DEC-254B9B25E315"
+id: 52C8A82C-2190-430A-9DEC-254B9B25E315
 ---
-
 {artist: Lela Long, 1930}
 
 CHORUS:

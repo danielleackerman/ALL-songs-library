@@ -1,35 +1,39 @@
 ---
-title: "You Deserve Our Worship"
-artist: ""
+title: You Deserve Our Worship
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "EF89AEE3-615A-4F8B-A84C-6CC1DEBC12E1"
+id: EF89AEE3-615A-4F8B-A84C-6CC1DEBC12E1
 ---
-
 CHORUS:
 [Eb]You deserve our [Cm]worship [Bbm/E]    [Fm]You deserve our [Bb7]worship
 [Fm7]You deserve our [Bb7]worship, Oh [Gm/Eb]Lord  [Bbm/Eb]

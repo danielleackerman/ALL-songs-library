@@ -1,22 +1,25 @@
 ---
-title: "Lord Of Eternity"
-artist: "Fernando Ortega"
+title: Lord Of Eternity
+artist: Fernando Ortega
 key: C
-tempo: 
-time: 
-ccli: "2753704"
-copyright: "1998 MargeeDays Music / Dayspring Music, LLC / John Andrew Schreiner Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2753704'
+copyright: '1998 MargeeDays Music / Dayspring Music, LLC / John Andrew Schreiner Music'
+source: ''
+year: ''
 medley: []
-id: "9F1DCF57-5742-4BCB-8287-EA0373994B0A"
+id: 9F1DCF57-5742-4BCB-8287-EA0373994B0A
 ---
-
 [C]Blessed is the man who walks in Your favor.[F]
 [C]Who loves all Your words, and hides them like treasure.[F]
 In the dark[Dm]est place     [F/C]of his desperate heart.[G/B][F/A]

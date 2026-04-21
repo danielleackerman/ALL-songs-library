@@ -1,24 +1,27 @@
 ---
-title: "Blessed Be The Name EASY"
-artist: ""
+title: Blessed Be The Name EASY
+artist: ''
 key: G
-tempo: 78
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '78'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "sutl"
+  - sutl
 genre: []
-energy: medium-slow
 profile:
-  - "os-apo-med"
-keywords: "os apo med, sutl"
-source: 
-year: 
+  - os-apo-med
+keywords: 'os apo med, sutl'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B4221A23-9FD6-482D-8D0F-5BE219B17E95"
+id: B4221A23-9FD6-482D-8D0F-5BE219B17E95
 ---
-
 CHORUS:
 [G]Blessed [/]be the [G]name,    [C]blessed [/]be the [G]name, [/]
 [G]Blessed [/]be the [G]name [/] of the [D]Lord [/]   [D]

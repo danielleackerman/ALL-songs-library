@@ -1,36 +1,40 @@
 ---
-title: "Hallelujah Praise The Lamb"
-artist: ""
+title: Hallelujah Praise The Lamb
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "praise"
+  - altar-songs
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - praise
 genre: []
-energy: medium-slow
 profile:
-  - "altar-songs-black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    altar-songs-black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "37C857CC-0E85-46E1-81D3-CBA6D0CB3468"
+id: 37C857CC-0E85-46E1-81D3-CBA6D0CB3468
 ---
-
 [C/D]Halle  [G]lu    jah   [CM7]praise    the   [G2]Lamb
 
 [C/D]Halle   [G]lu   [Em7]jah    praise   the  [Am7]lamb.  [D]

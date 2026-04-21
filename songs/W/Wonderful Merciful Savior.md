@@ -1,24 +1,29 @@
 ---
-title: "Wonderful Merciful Savior"
-artist: "Dawn Rodgers, Eric Wyse, performed by Selah"
+title: Wonderful Merciful Savior
+artist: 'Dawn Rodgers, Eric Wyse, performed by Selah'
 key: A
-tempo: 43
-time: "6/8"
-ccli: "106879"
-copyright: "1989 Dayspring Music, LLC (a div. of Word Music Group, Inc.) Word Music, LLC (a div. of Word Music Group, Inc.)"
+bpm: '43'
+time_sig: 6/8
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "savior"
-  - "contemporary-christian-slow"
+  - savior
+  - contemporary-christian-slow
 genre: []
-energy: slow
 profile: []
-keywords: "contemporary christian slow"
-source: 
-year: 
+keywords: contemporary christian slow
+ccli: '106879'
+copyright: >-
+  1989 Dayspring Music, LLC (a div. of Word Music Group, Inc.) Word Music, LLC
+  (a div. of Word Music Group, Inc.)
+source: ''
+year: ''
 medley: []
-id: "0D4B1867-1E71-4F2A-9B1F-14FBDF275002"
+id: 0D4B1867-1E71-4F2A-9B1F-14FBDF275002
 ---
-
 Intro: A    Asus    A    Asus (2X)
 
 [A]Wonderful, [Asus]merciful [A]Savior

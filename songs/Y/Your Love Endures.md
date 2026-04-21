@@ -1,23 +1,26 @@
 ---
-title: "Your Love Endures"
-artist: "Third Day"
+title: Your Love Endures
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "720DF1DD-2004-4DDF-99A9-67E512B1F294"
+id: 720DF1DD-2004-4DDF-99A9-67E512B1F294
 ---
-
 Key:
 
 Your Love Endures

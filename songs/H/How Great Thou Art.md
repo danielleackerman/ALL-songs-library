@@ -1,32 +1,38 @@
 ---
-title: "How Great Thou Art"
-artist: "Paul Baloche"
+title: How Great Thou Art
+artist: Paul Baloche
 key: Bb
-tempo: 
-time: 
-ccli: "14181"
-copyright: "1941, 1953, 1955 Stuart K. Hine, Renewed 1981 Manna Music, Inc. ARR UBP of Manna Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-med
+keywords: os apo med
+ccli: '14181'
+copyright: >-
+  1941, 1953, 1955 Stuart K. Hine, Renewed 1981 Manna Music, Inc. ARR UBP of
+  Manna Music, Inc.
+source: ''
+year: ''
 medley: []
-id: "659A3E64-C89B-421E-A169-551BCD04608C"
+id: 659A3E64-C89B-421E-A169-551BCD04608C
 ---
-
 VERSE 1:
 [Bbsus]O Lord my [Bb]God, when I in [Eb/Bb]awesome wonder,
 Consider [Bb]all the [F(add4)]worlds Thy hand hath [Bb]made

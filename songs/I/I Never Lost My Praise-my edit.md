@@ -1,25 +1,30 @@
 ---
-title: "I Never Lost My Praise-my edit"
-artist: "Kurt Carr"
+title: I Never Lost My Praise-my edit
+artist: Kurt Carr
 key: F
-tempo: 63
-time: 
-ccli: "4706656"
-copyright: "2007 KCartunes Music (Admin. by Capitol CMG Publishing) Lilly Mack Music  (Admin. by Capitol CMG Publishing)"
+bpm: '63'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "faith"
+  - praise
+  - faith
 genre: []
-energy: slow
 profile:
-  - "mod-gospel-slow"
-keywords: "mod gospel slow"
-source: 
-year: 
+  - mod-gospel-slow
+keywords: mod gospel slow
+ccli: '4706656'
+copyright: >-
+  2007 KCartunes Music (Admin. by Capitol CMG Publishing) Lilly Mack Music 
+  (Admin. by Capitol CMG Publishing)
+source: ''
+year: ''
 medley: []
-id: "5DBAE621-F21D-4CF7-B903-B274A5BA4B83"
+id: 5DBAE621-F21D-4CF7-B903-B274A5BA4B83
 ---
-
 {artist: Kurt Carr}
 
 (Verse 1:)

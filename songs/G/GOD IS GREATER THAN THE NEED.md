@@ -1,36 +1,40 @@
 ---
-title: "God is Greater Than the Need"
-artist: "Denny Livingston"
+title: God is Greater Than the Need
+artist: Denny Livingston
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "believe"
-  - "trust"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - believe
+  - trust
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DEE1389A-DC09-48E6-ABAA-B6F6E3A80249"
+id: DEE1389A-DC09-48E6-ABAA-B6F6E3A80249
 ---
-
 [D] [C] [F] [Fm] [G] [E] [Am] [G]
 VERSE 1:
 I [C]know from where [Em]you’re standing the [F]mountain seems so [Dm]high

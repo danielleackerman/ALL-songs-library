@@ -1,34 +1,38 @@
 ---
-title: "This Is The Day"
-artist: ""
+title: This Is The Day
+artist: ''
 key: Eb
-tempo: 100
-time: 
-ccli: 
-copyright: 
+bpm: '100'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-  - "os-gospel-med"
-keywords: "os gospel med"
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+  - os-gospel-med
+keywords: os gospel med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3AFE7CF2-C486-43D5-9A77-A71FB0585794"
+id: 3AFE7CF2-C486-43D5-9A77-A71FB0585794
 ---
-
 VERSE:
 
 [Eb]This is the day, this is the day

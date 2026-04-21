@@ -1,22 +1,25 @@
 ---
-title: "I'm Still Listening"
-artist: "Third Day"
+title: I'm Still Listening
+artist: Third Day
 key: B
-tempo: 
-time: 
-ccli: "3521911"
-copyright: "2001 New Spring / Vandura 2500 Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3521911'
+copyright: 2001 New Spring / Vandura 2500 Songs
+source: ''
+year: ''
 medley: []
-id: "C9CCDF56-EA5B-4022-8215-30E24334FDAA"
+id: C9CCDF56-EA5B-4022-8215-30E24334FDAA
 ---
-
 Intro: B   E    B   E   B   E
 
 VERSE 1:

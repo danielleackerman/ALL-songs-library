@@ -1,36 +1,40 @@
 ---
-title: "I'm On The Stairway To Heaven"
-artist: ""
+title: I'm On The Stairway To Heaven
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "heaven"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - heaven
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0A294107-CEE7-40F6-9C51-5A0D6AC73D04"
+id: 0A294107-CEE7-40F6-9C51-5A0D6AC73D04
 ---
-
 VERSE 1:
 [Ab/Bb]I'm on the [Eb]stairway to [Ab]heaven to[Eb]night
 [Ab/Bb]I'm climbing [Eb]higher and [Eb/C]higher each [Bb]day.  [Bo]  [Bb7]

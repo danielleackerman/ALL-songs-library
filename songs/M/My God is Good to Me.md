@@ -1,34 +1,38 @@
 ---
-title: "My God is Good to Me"
-artist: "Rev. Don Johnson"
+title: My God is Good to Me
+artist: Rev. Don Johnson
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
 year: 1975
 medley: []
-id: "444C11AB-83AD-455B-8AB8-0E837EDFCCDC"
+id: 444C11AB-83AD-455B-8AB8-0E837EDFCCDC
 ---
-
 VERSE 1:
 [C7b9/Db]I've had some[Dm]bad days, [Dm7/G]and I've had [F/C]hills to [C]climb.   [A7b9]
 I've had some [Dm]sad days, [Dm7/G]and then I've had a [F/C]weary [C]mind.

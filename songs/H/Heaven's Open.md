@@ -1,23 +1,26 @@
 ---
-title: "Heaven's Open"
-artist: "William McDowell"
+title: Heaven's Open
+artist: William McDowell
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "heaven"
+  - heaven
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "282E73A7-0D37-4D91-B77F-79AA7B4CB645"
+id: 282E73A7-0D37-4D91-B77F-79AA7B4CB645
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

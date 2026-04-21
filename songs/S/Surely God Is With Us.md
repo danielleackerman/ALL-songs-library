@@ -1,22 +1,25 @@
 ---
-title: "Surely God Is With Us"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Surely God Is With Us
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0B4A8D60-3B63-4DFB-A818-D93A1AA9FD74"
+id: 0B4A8D60-3B63-4DFB-A818-D93A1AA9FD74
 ---
-
 Key:
 Surely God is With Us
 from Rich Mullins' "The Jesus Record"

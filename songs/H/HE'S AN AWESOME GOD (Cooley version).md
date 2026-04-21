@@ -1,24 +1,27 @@
 ---
-title: "HE'S AN AWESOME GOD (Cooley version)"
-artist: "Mark Yandris"
+title: HE'S AN AWESOME GOD (Cooley version)
+artist: Mark Yandris
 key: C
-tempo: 148
-time: 
-ccli: 
-copyright: 
+bpm: '148'
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "angels"
-  - "awesome"
+  - angels
+  - awesome
 genre: []
-energy: high
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0871403F-65F6-4705-94A2-77ACBA9FE585"
+id: 0871403F-65F6-4705-94A2-77ACBA9FE585
 ---
-
 148 bpm
 [C]
 

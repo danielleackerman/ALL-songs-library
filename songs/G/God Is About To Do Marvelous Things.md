@@ -1,37 +1,41 @@
 ---
-title: "God Is About To Do Marvelous Things"
-artist: ""
+title: God Is About To Do Marvelous Things
+artist: ''
 key: Eb
-tempo: 85
-time: 
-ccli: 
-copyright: 
+bpm: '85'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-fast"
-  - "mod-apo-med-fast"
-keywords: "mod apo fast, mod apo med fast"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-fast
+  - mod-apo-med-fast
+keywords: 'mod apo fast, mod apo med fast'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "054C7C52-333E-422C-99BA-64CA80A9D666"
+id: 054C7C52-333E-422C-99BA-64CA80A9D666
 ---
-
 [Eb]God is about to do marvelous things,
 [Eb]God is about to do marvelous [Db/Bb]thi[Eb7]ngs.
 Every[AbM9]thing that He said is [Bb/Ab]true,

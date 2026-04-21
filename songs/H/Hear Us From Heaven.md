@@ -1,37 +1,41 @@
 ---
-title: "Hear Us From Heaven"
-artist: "New Life Worship"
+title: Hear Us From Heaven
+artist: New Life Worship
 key: G
-tempo: 72
-time: 
-ccli: "4455392"
-copyright: "2004 Vertical Worship Songs"
+bpm: '72'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "desperation"
-  - "heaven"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - desperation
+  - heaven
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+keywords: ''
+ccli: '4455392'
+copyright: 2004 Vertical Worship Songs
+source: ''
+year: ''
 medley: []
-id: "45E08E4C-BBBC-4342-91B7-472571E7722C"
+id: 45E08E4C-BBBC-4342-91B7-472571E7722C
 ---
-
 Song Tempo: 72
 Capo 4
 Keywords: MOD APO SLOW

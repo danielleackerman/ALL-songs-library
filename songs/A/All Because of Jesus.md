@@ -1,24 +1,27 @@
 ---
-title: "All Because of Jesus"
-artist: "Casting Crowns"
+title: All Because of Jesus
+artist: Casting Crowns
 key: G
-tempo: 130
-time: 
-ccli: 
-copyright: 
+bpm: '130'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "alive"
+  - jesus
+  - alive
 genre: []
-energy: medium-fast
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "85E9902A-7F22-4194-981C-A4B7EEAB9E3D"
+id: 85E9902A-7F22-4194-981C-A4B7EEAB9E3D
 ---
-
 INTRO:
 [Gsus] [G] [Gsus] [G] [C] [G] [C] [G] [C] [Em7] [Dsus] [D]
 

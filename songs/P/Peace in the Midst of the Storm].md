@@ -1,23 +1,26 @@
 ---
-title: "Peace in the Midst of the Storm]"
-artist: ""
+title: 'Peace in the Midst of the Storm]'
+artist: ''
 key: Dbm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "peace"
+  - peace
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "141D5611-B6B9-4777-9663-4BA7DA3CFC96"
+id: 141D5611-B6B9-4777-9663-4BA7DA3CFC96
 ---
-
 When the [Db]world that I've been [Gb]livin in [Ab]collapses at my [Db]feet.
 
 When my [F]life is [Bbm]shattered and [B]torn. [Gb/Ab] [Ab]

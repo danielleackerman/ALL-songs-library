@@ -1,22 +1,25 @@
 ---
-title: "Psalm 139 (You Are There)"
-artist: "MercyMe"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Psalm 139 (You Are There)
+artist: MercyMe
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "002B36A9-2295-41CD-AC49-FF64A8882D88"
+id: 002B36A9-2295-41CD-AC49-FF64A8882D88
 ---
-
 Key:
 
 Chords provided relative to capo on 2nd fret:

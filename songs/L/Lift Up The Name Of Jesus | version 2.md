@@ -1,24 +1,27 @@
 ---
-title: "Lift Up The Name Of Jesus | version 2"
-artist: "Keith Duncan"
+title: Lift Up The Name Of Jesus | version 2
+artist: Keith Duncan
 key: Cm
-tempo: 80
-time: 
-ccli: 
-copyright: 
+bpm: '80'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: medium-slow
 profile:
-  - "contemp-christian-med"
-keywords: "contemp christian med"
-source: 
-year: 
+  - contemp-christian-med
+keywords: contemp christian med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3A0507F1-B499-43E2-901F-97C06E361833"
+id: 3A0507F1-B499-43E2-901F-97C06E361833
 ---
-
 VERSE 1:
 [Cm]Lift up the name of Jesus,
 [Cm]Shout it everywhere you go

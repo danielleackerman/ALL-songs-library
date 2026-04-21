@@ -1,25 +1,28 @@
 ---
-title: "The Lion And The Lamb"
-artist: "Bill Batstone, Praise Band"
+title: The Lion And The Lamb
+artist: 'Bill Batstone, Praise Band'
 key: C
-tempo: 113
-time: 
-ccli: "477986"
-copyright: "1990 Maranatha Praise, Inc."
+bpm: '113'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "his-name"
+  - jesus
+  - his-name
 genre: []
-energy: medium-fast
 profile:
-  - "contemp-christian-med"
-keywords: "contemp christian med"
-source: 
-year: 
+  - contemp-christian-med
+keywords: contemp christian med
+ccli: '477986'
+copyright: '1990 Maranatha Praise, Inc.'
+source: ''
+year: ''
 medley: []
-id: "951E428A-0B39-4A11-A3B8-2F6E21FAC1F1"
+id: 951E428A-0B39-4A11-A3B8-2F6E21FAC1F1
 ---
-
 VERSE 1:
 [C]Who is He?  Who's the m[F]ightiest of all
 [G]Who is He?  Creation tr[C]embles at His c[G]all

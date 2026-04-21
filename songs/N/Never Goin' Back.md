@@ -1,22 +1,25 @@
 ---
-title: "Never Goin' Back"
-artist: "Big Daddy Weave"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Never Goin' Back
+artist: Big Daddy Weave
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "71F05BDF-E3C1-4675-8882-D9EF6384CDB0"
+id: 71F05BDF-E3C1-4675-8882-D9EF6384CDB0
 ---
-
 Key:
 Copyright: 2001 Open Worship Music, Inc. (ASCAP)
 

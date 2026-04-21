@@ -1,35 +1,39 @@
 ---
-title: "The Unseen Hand"
-artist: "A.J. Sims"
+title: The Unseen Hand
+artist: A.J. Sims
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - altar-songs
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "altar-songs-black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
+  - >-
+    altar-songs-black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
 year: 1973
 medley: []
-id: "9F762FAA-6004-40FB-A371-0775B10BFFD7"
+id: 9F762FAA-6004-40FB-A371-0775B10BFFD7
 ---
-
 VERSE 1:
 [Bb/C]There is an,                          [Fsus][F2]unseen [Bb2]hand to [F2]me
 That leads [C/E]thru [Dm7]ways,             [G9]I cannot [C7]see

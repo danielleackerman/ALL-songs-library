@@ -1,22 +1,25 @@
 ---
-title: "Sanctified"
-artist: "MercyMe"
+title: Sanctified
+artist: MercyMe
 key: Eb
-tempo: 
-time: 
-ccli: "1779119"
-copyright: "1991 Never Say Never Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1779119'
+copyright: 1991 Never Say Never Songs
+source: ''
+year: ''
 medley: []
-id: "270689CE-2C26-4A5D-A3CC-2B46EA4332A7"
+id: 270689CE-2C26-4A5D-A3CC-2B46EA4332A7
 ---
-
 (Play with power chords for deep sound.)
 
 Intro Cm Eb Ab

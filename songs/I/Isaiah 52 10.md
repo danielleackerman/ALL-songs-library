@@ -1,22 +1,25 @@
 ---
-title: "Isaiah 52 10"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Isaiah 52 10
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FC94B507-2FD3-43D2-8AE6-D416055D03C0"
+id: FC94B507-2FD3-43D2-8AE6-D416055D03C0
 ---
-
 Key:
 
 Isaiah 52:10 (Entroit)

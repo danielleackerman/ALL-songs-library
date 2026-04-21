@@ -1,22 +1,25 @@
 ---
-title: "Lifesong"
-artist: "Casting Crowns"
+title: Lifesong
+artist: Casting Crowns
 key: C
-tempo: 
-time: 
-ccli: "4578839"
-copyright: "2005 Club Zoo Music / SWECS Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "This song is off Casting Crowns' new record Lifesong."
-year: 
+keywords: ''
+ccli: '4578839'
+copyright: 2005 Club Zoo Music / SWECS Music
+source: This song is off Casting Crowns' new record Lifesong.
+year: ''
 medley: []
-id: "803C44CA-D495-4AF6-930E-80303BC3D586"
+id: 803C44CA-D495-4AF6-930E-80303BC3D586
 ---
-
 If this new album sounds anything like this song, it's gonna be just
 as good as their debut. If you want the entire song w/ lyrics, just
 email me at andytim21@msn.com

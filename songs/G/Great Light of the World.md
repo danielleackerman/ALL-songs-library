@@ -1,23 +1,26 @@
 ---
-title: "Great Light of the World"
-artist: "Bebo Norman"
+title: Great Light of the World
+artist: Bebo Norman
 key: C
-tempo: 
-time: 
-ccli: "3920158"
-copyright: "2002 New Spring Publishing, Inc. / Appstreet Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "light"
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3920158'
+copyright: '2002 New Spring Publishing, Inc. / Appstreet Music'
+source: ''
+year: ''
 medley: []
-id: "A0D38C92-ED26-43BD-8E8C-F2FB0DE64922"
+id: A0D38C92-ED26-43BD-8E8C-F2FB0DE64922
 ---
-
 Capo 1 Intro:
 
 INTRO:

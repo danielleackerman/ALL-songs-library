@@ -1,23 +1,26 @@
 ---
-title: "I Don’t Mind-1"
-artist: ""
+title: I Don’t Mind-1
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "os-apo-fast"
-keywords: "o.s. apo. fast"
-source: 
-year: 
+  - os-apo-fast
+keywords: o.s. apo. fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9071B978-BDA9-4128-93A8-843A83DAA153"
+id: 9071B978-BDA9-4128-93A8-843A83DAA153
 ---
-
 [G]I   don’t   mind,       giving   God   the   [G7]praise
 
 [C7]I   don’t   mind,       giving   God   the  [G]praise    [C/D]

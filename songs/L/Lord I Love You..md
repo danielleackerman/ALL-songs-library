@@ -1,23 +1,26 @@
 ---
-title: "Lord I Love You."
-artist: ""
+title: Lord I Love You.
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8178D1AC-19AA-4D3F-80D2-C95BA4E71235"
+id: 8178D1AC-19AA-4D3F-80D2-C95BA4E71235
 ---
-
 (Chor:)
 
 [Am/C]Lord.  [Gm/C]I   [F2]love   You,   [F2/A]

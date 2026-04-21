@@ -1,36 +1,40 @@
 ---
-title: "There Is Power In The Name Of Jesus"
-artist: "Reginald Stone & Jeffrey Ferguson"
+title: There Is Power In The Name Of Jesus
+artist: Reginald Stone & Jeffrey Ferguson
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "power"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - power
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0798BE0B-2A67-4E55-B2AD-AECD14271AAA"
+id: 0798BE0B-2A67-4E55-B2AD-AECD14271AAA
 ---
-
 CHORUS:
 [Ab/Bb]There [Bb7/D]is [Eb2]power in the name [G7b9]of [Cm]Jesus
 There is [Fm7]hope, there is [Eb/G]strength

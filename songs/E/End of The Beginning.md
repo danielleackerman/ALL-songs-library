@@ -1,35 +1,39 @@
 ---
-title: "End of The Beginning"
-artist: "DAvid Phelps"
+title: End of The Beginning
+artist: DAvid Phelps
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-fast"
-  - "middle-eastern"
-  - "praise"
-  - "solo-songs"
-  - "traditional"
-  - "angels"
-  - "friend"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-fast
+  - middle-eastern
+  - praise
+  - solo-songs
+  - traditional
+  - angels
+  - friend
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-fast-middle-eastern-praise-solo-songs-traditional
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "05E91FF9-11C2-4875-A802-6C7505564792"
+id: 05E91FF9-11C2-4875-A802-6C7505564792
 ---
-
 INTRO:
 [A] [E] [Am] [F] [A] [Dm] [B] [E]
 [Am] [F] [Dm] [B] [Esus] [E] [Am]

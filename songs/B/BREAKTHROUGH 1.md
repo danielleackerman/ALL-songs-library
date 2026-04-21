@@ -1,24 +1,27 @@
 ---
-title: "Breakthrough 1"
-artist: "Artist Name"
+title: Breakthrough 1
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "breakthrough"
+  - praise
+  - breakthrough
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7E94D02B-3F57-433A-822B-9E3E714CBB49"
+id: 7E94D02B-3F57-433A-822B-9E3E714CBB49
 ---
-
 Arrangement:
 V1 - v2 - ch
 V1 - v2 - ch/2x

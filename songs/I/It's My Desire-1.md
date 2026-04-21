@@ -1,26 +1,29 @@
 ---
-title: "It's My Desire-1"
-artist: ""
+title: It's My Desire-1
+artist: ''
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "desire"
-  - "sutl"
-  - "songbook"
+  - desire
+  - sutl
+  - songbook
 genre: []
-energy: 
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow, sutl, songbook"
-source: 
-year: 
+  - os-apo-slow
+keywords: 'os apo slow, sutl, songbook'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E19FFF5B-FB48-4322-9FD2-5B715EF39AB9"
+id: E19FFF5B-FB48-4322-9FD2-5B715EF39AB9
 ---
-
 VERSE 1:
 [Bb/F]It's [Cm/F]my [Eb/F]de[Bb]sire to live for [Cm7]Jesus.   [F7]
 It's my de[Cm7]sire [F7] to  be like [BbM7]Him.   [Eb/F]

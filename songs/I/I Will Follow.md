@@ -1,23 +1,28 @@
 ---
-title: "I Will Follow"
-artist: "Chris Tomlin"
+title: I Will Follow
+artist: Chris Tomlin
 key: G
-tempo: 
-time: 
-ccli: "5806878"
-copyright: "2010 SHOUT! Publishing / sixsteps Music / worshiptogether.com songs / Vamos Publishing / Sony/ATV Timber Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5806878'
+copyright: >-
+  2010 SHOUT! Publishing / sixsteps Music / worshiptogether.com songs / Vamos
+  Publishing / Sony/ATV Timber Publishing
+source: ''
+year: ''
 medley: []
-id: "6F695515-8E4D-4688-9DF4-838B546CD6F8"
+id: 6F695515-8E4D-4688-9DF4-838B546CD6F8
 ---
-
 Capo 3 to match recording.
 
 Intro Chorus

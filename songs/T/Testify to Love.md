@@ -1,23 +1,26 @@
 ---
-title: "Testify to Love"
-artist: "Avalon"
+title: Testify to Love
+artist: Avalon
 key: Eb
-tempo: 94
-time: 
-ccli: 
-copyright: "© 1996 Windswept Music"
+bpm: '94'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: medium
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: © 1996 Windswept Music
+source: ''
+year: ''
 medley: []
-id: "1EB33DBA-EDBE-4FBC-B70B-657CE3E2D4E4"
+id: 1EB33DBA-EDBE-4FBC-B70B-657CE3E2D4E4
 ---
-
 This is in a different key than the previous submission.  I believe the other submission was
 for some other group playing the song not Avalon.  This should cover the popular version of the song by Avalon.
 

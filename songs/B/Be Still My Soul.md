@@ -1,22 +1,25 @@
 ---
-title: "Be Still My Soul"
-artist: "Selah"
+title: Be Still My Soul
+artist: Selah
 key: D
-tempo: 
-time: 
-ccli: "3123591"
-copyright: "1991 Discovery House Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3123591'
+copyright: 1991 Discovery House Music
+source: ''
+year: ''
 medley: []
-id: "D9BC5D28-2996-4E80-88DC-884C2052C008"
+id: D9BC5D28-2996-4E80-88DC-884C2052C008
 ---
-
 [D]Be still, my [Em]soul: the L[A]ord is on thy s[D]ide.
 [D]Bear patientl[Em]y the cr[A]oss of grief or p[D]ain.
 [D]Leave[D/A#] to thy G[Bm]od to o[F#m]rder and pr[Em]ovide[G];

@@ -1,22 +1,25 @@
 ---
-title: "Hello Old Friends"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Hello Old Friends
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "48079C7A-84A4-40F5-BC6F-1F2CE34E3AA8"
+id: 48079C7A-84A4-40F5-BC6F-1F2CE34E3AA8
 ---
-
 Key:
 
 Hello Old Friends

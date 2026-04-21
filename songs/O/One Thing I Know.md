@@ -1,24 +1,27 @@
 ---
-title: "One Thing I Know"
-artist: "Selah"
+title: One Thing I Know
+artist: Selah
 key: D
-tempo: 
-time: 
-ccli: "2570817"
-copyright: "1999 Curb Congregatino Songs/Paragon Music Corp. Arr. UBP."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "contemporary-christian-slow"
-  - "ccm"
+  - contemporary-christian-slow
+  - ccm
 genre: []
-energy: 
 profile: []
-keywords: "contemporary christian slow, ccm"
-source: 
-year: 
+keywords: 'contemporary christian slow, ccm'
+ccli: '2570817'
+copyright: 1999 Curb Congregatino Songs/Paragon Music Corp. Arr. UBP.
+source: ''
+year: ''
 medley: []
-id: "8B022524-95A4-4032-9379-603F4A9A658D"
+id: 8B022524-95A4-4032-9379-603F4A9A658D
 ---
-
 INTRO:
 [Bm] [-] [D/A] [-] [G] [-] [D/F#] [-] [G] [-] [A2] [-] [D] [-] [Dsus] [-] [D]
 

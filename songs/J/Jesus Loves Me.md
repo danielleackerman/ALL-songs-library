@@ -1,35 +1,39 @@
 ---
-title: "Jesus Loves Me"
-artist: "Anna Bartlett Warner"
+title: Jesus Loves Me
+artist: Anna Bartlett Warner
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "jesus"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - jesus
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A274E953-4725-485B-974F-F48D6E413066"
+id: A274E953-4725-485B-974F-F48D6E413066
 ---
-
 VERSE 1:
 [C]Jesus [Dm7]loves me [C/E]this I [Gm7]know.   [C/E]
 [F]For the [Dm7]bible [C]tells me so.   [F/G]

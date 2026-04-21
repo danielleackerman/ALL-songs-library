@@ -1,23 +1,26 @@
 ---
-title: "Oceans (Where Feet May Fail)"
-artist: "Hillsong United"
+title: Oceans (Where Feet May Fail)
+artist: Hillsong United
 key: D
-tempo: 63
-time: 
-ccli: "6428767"
-copyright: "2012 Hillsong Music Publishing (Admin. by EMI Christian Music Publishing)"
+bpm: '63'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "rest"
+  - rest
 genre: []
-energy: slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6428767'
+copyright: 2012 Hillsong Music Publishing (Admin. by EMI Christian Music Publishing)
+source: ''
+year: ''
 medley: []
-id: "A8D9EED6-B464-4A54-BFC6-F7E4D6772F09"
+id: A8D9EED6-B464-4A54-BFC6-F7E4D6772F09
 ---
-
 INTRO:
 [D] [E] [G]
 [Bm7] [A/C#] [D] [A] [G]

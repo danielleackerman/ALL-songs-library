@@ -1,37 +1,43 @@
 ---
-title: "Total Praise"
-artist: "Richard Smallwood"
+title: Total Praise
+artist: Richard Smallwood
 key: C
-tempo: 48
-time: "4/4"
-ccli: "2110330"
-copyright: "1996 Bridge Building Music, Inc. / T. Autumn Music,Admin. Brentwood-Benson Music Publishing"
+bpm: '48'
+time_sig: 4/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "praise"
-  - "men"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - praise
+  - men
 genre: []
-energy: slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-gospel-slow"
-keywords: "mod gospel slow"
-source: "Michael W. Smith"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-gospel-slow
+keywords: mod gospel slow
+ccli: '2110330'
+copyright: >-
+  1996 Bridge Building Music, Inc. / T. Autumn Music,Admin. Brentwood-Benson
+  Music Publishing
+source: Michael W. Smith
+year: ''
 medley: []
-id: "1053FD75-84E0-4B5F-B55E-46976BFE1D41"
+id: 1053FD75-84E0-4B5F-B55E-46976BFE1D41
 ---
-
 [C] [F2/C] [C] [F2/C]
 
 L[C]ord, [Am]  I     wil[G]l lif[C]t  [-]          m[G7/D]ine    e[C/E]yes            [F] to  [C/E] the   [A7/Db] hills   [Dm]

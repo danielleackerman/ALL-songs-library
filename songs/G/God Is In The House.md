@@ -1,22 +1,25 @@
 ---
-title: "God Is In The House"
-artist: "Darlene Zschech"
+title: God Is In The House
+artist: Darlene Zschech
 key: G
-tempo: 
-time: 
-ccli: "1935884"
-copyright: "1996 Hillsong Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1935884'
+copyright: 1996 Hillsong Publishing
+source: ''
+year: ''
 medley: []
-id: "87740E46-712C-452F-AE16-4F57B210BB8D"
+id: 87740E46-712C-452F-AE16-4F57B210BB8D
 ---
-
 CHORUS 1:
 I've [G]got [G6]Jesus Jesus
 He [Gmaj7]calls me for His [G]own

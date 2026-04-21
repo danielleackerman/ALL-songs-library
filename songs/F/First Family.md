@@ -1,23 +1,26 @@
 ---
-title: "First Family"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: First Family
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "family"
+  - family
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A4EB3A7B-55F5-4D1F-B9EB-283407147733"
+id: A4EB3A7B-55F5-4D1F-B9EB-283407147733
 ---
-
 Key:
 
 First Family

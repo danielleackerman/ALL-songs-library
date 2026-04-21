@@ -1,35 +1,39 @@
 ---
-title: "Oh How Marvelous"
-artist: "Charles Gabriel"
+title: Oh How Marvelous
+artist: Charles Gabriel
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1926EC12-6C95-4904-9EB6-9AF972264CA3"
+id: 1926EC12-6C95-4904-9EB6-9AF972264CA3
 ---
-
 CHORUS:
 [Eb2]Oh   how   marvelous  [Gm7]how   [Cm7]wonderful
 [Fm]And my   [Fm/Eb]song   shall   [DbM7]ever   [Bb7sus]be.  [Bb]

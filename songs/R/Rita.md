@@ -1,22 +1,25 @@
 ---
-title: "Rita"
-artist: "Bebo Norman"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Rita
+artist: Bebo Norman
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FE801411-67B3-43A7-9D8D-DAA37796C602"
+id: FE801411-67B3-43A7-9D8D-DAA37796C602
 ---
-
 Key:
 
 "Rita" by Bebo Norman

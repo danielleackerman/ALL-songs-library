@@ -1,22 +1,25 @@
 ---
-title: "Empty Me (alt. version)"
-artist: "Jeremy Camp"
+title: Empty Me (alt. version)
+artist: Jeremy Camp
 key: F#
-tempo: 
-time: 
-ccli: "4067467"
-copyright: "2003 Thirsty Moon River Publishing / 50 Miles / Gene Way Designee"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4067467'
+copyright: 2003 Thirsty Moon River Publishing / 50 Miles / Gene Way Designee
+source: ''
+year: ''
 medley: []
-id: "8CBF94D1-A649-409D-B70F-4F3545BB7EEF"
+id: 8CBF94D1-A649-409D-B70F-4F3545BB7EEF
 ---
-
 Capo on 2nd fret
 [F#]   Holy fire [C#sus]       [D#m]    burn away [B2]
 [F#]   My desire [C#sus]       [D#m]    for an[(B2)]ything

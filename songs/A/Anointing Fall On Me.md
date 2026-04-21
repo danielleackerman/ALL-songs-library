@@ -1,32 +1,35 @@
 ---
-title: "Anointing Fall On Me"
-artist: "Donn Thomas, Ron Kenoly"
+title: Anointing Fall On Me
+artist: 'Donn Thomas, Ron Kenoly'
 key: C
-tempo: 68
-time: 
-ccli: "859126"
-copyright: "1992 New Spring, Admin. Brentwood-Benson Music Publishing, Inc."
+bpm: '68'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "holy-ghost"
-  - "power"
-  - "contemporary"
-  - "classic"
-  - "worship"
-  - "slow"
-  - "invitation"
-  - "altar"
-  - "solo"
+  - holy-ghost
+  - power
+  - contemporary
+  - classic
+  - worship
+  - slow
+  - invitation
+  - altar
+  - solo
 genre: []
-energy: medium-slow
 profile:
-  - "mod-gospel-slow"
-keywords: "mod gospel slow, contemporary, classic, worship, slow, invitation, altar, solo"
-source: 
-year: 
+  - mod-gospel-slow
+keywords: 'mod gospel slow, contemporary, classic, worship, slow, invitation, altar, solo'
+ccli: '859126'
+copyright: '1992 New Spring, Admin. Brentwood-Benson Music Publishing, Inc.'
+source: ''
+year: ''
 medley: []
-id: "6887B1DB-02F5-4D29-A74C-45E8D587A94D"
+id: 6887B1DB-02F5-4D29-A74C-45E8D587A94D
 ---
-
 {artist: Donn Thomas, Ron Kenoly}
 
 Original key d

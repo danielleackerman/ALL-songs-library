@@ -1,24 +1,27 @@
 ---
-title: "Christmas Offering"
-artist: "Casting Crowns"
+title: Christmas Offering
+artist: Casting Crowns
 key: F
-tempo: 
-time: 
-ccli: "3956562"
-copyright: "2008 Provident Label Group, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "honor"
+  - jesus
+  - honor
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3956562'
+copyright: '2008 Provident Label Group, LLC'
+source: ''
+year: ''
 medley: []
-id: "2BB9E13F-05D2-4A14-97B5-B05BF8E8BB47"
+id: 2BB9E13F-05D2-4A14-97B5-B05BF8E8BB47
 ---
-
 I think this was recorded with the capo on the third fret.  Transpose to D, and you'll have the right chords for the capo'd version.
 
 [F]   -  [Bb/F]  -  (4x)

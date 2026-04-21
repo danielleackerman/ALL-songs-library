@@ -1,34 +1,38 @@
 ---
-title: "Everlasting God"
-artist: "by Benton Brown & Ken Riley"
+title: Everlasting God
+artist: by Benton Brown & Ken Riley
 key: A
-tempo: 
-time: 
-ccli: "4556538"
-copyright: "2005 Thankyou Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: "Chris Tomlin"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '4556538'
+copyright: 2005 Thankyou Music
+source: Chris Tomlin
+year: ''
 medley: []
-id: "6381B258-47A8-4216-B8A4-2B64D2DE7FDC"
+id: 6381B258-47A8-4216-B8A4-2B64D2DE7FDC
 ---
-
 VERSE:
 [A]Strength will rise as we [D]wait upon the [A]Lord,
 [D]Wait upon the [A]Lord, We [A/C#]will [D]wait upon the [A]Lord

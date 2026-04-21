@@ -1,24 +1,27 @@
 ---
-title: "I Go To The Rock-- version 2"
-artist: "Dottie Rambo"
+title: I Go To The Rock-- version 2
+artist: Dottie Rambo
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "rock"
+  - rock
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
-year: 
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CBB9F111-FEA8-43BC-BC38-CC02B6DC2A4E"
+id: CBB9F111-FEA8-43BC-BC38-CC02B6DC2A4E
 ---
-
 INTRO:
 
 [D/A] [B7] [E7] [A7] [D] [G]

@@ -1,22 +1,25 @@
 ---
-title: "Who You Say I Am"
-artist: "Hillsong Worship"
+title: Who You Say I Am
+artist: Hillsong Worship
 key: G
-tempo: 
-time: 
-ccli: "7102401"
-copyright: "2017 Hillsong Music Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7102401'
+copyright: 2017 Hillsong Music Publishing
+source: ''
+year: ''
 medley: []
-id: "8B54A827-8B95-4421-8A43-C5D1773F5E56"
+id: 8B54A827-8B95-4421-8A43-C5D1773F5E56
 ---
-
 INTRO:
 G
 

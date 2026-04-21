@@ -1,22 +1,25 @@
 ---
-title: "What Good"
-artist: "Third Day"
+title: What Good
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: "3014507"
-copyright: "1999 New Spring Publishing, Inc. / Gray Dot Songs / Vandura 2500 Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3014507'
+copyright: '1999 New Spring Publishing, Inc. / Gray Dot Songs / Vandura 2500 Songs'
+source: ''
+year: ''
 medley: []
-id: "149CC3D1-74BA-44E1-8F60-528F3EFDC146"
+id: 149CC3D1-74BA-44E1-8F60-528F3EFDC146
 ---
-
 Intro:  D   C   G        C  G
 
 [A]Rich young m[D]an, you think you can

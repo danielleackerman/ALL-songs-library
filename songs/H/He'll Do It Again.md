@@ -1,34 +1,38 @@
 ---
-title: "He'll Do It Again"
-artist: ""
+title: He'll Do It Again
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: "Do Dat Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: Do Dat Music
+source: ''
+year: ''
 medley: []
-id: "444C6D78-21DC-43A4-A02B-6F192348D490"
+id: 444C6D78-21DC-43A4-A02B-6F192348D490
 ---
-
 VERSE 1:
 You may be [F]down and feel like God
 Has somehow fo[Bb]rgotten

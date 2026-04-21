@@ -1,23 +1,26 @@
 ---
-title: "Healer"
-artist: "Kari Jobe"
+title: Healer
+artist: Kari Jobe
 key: F
-tempo: 76
-time: 
-ccli: 
-copyright: 
+bpm: '76'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "believe"
+  - believe
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B362A657-3A3F-432C-A8C3-D1ECD403062B"
+id: B362A657-3A3F-432C-A8C3-D1ECD403062B
 ---
-
 INTRO:
 [F5] [Bb2] [Dm7] [Bb2]
 

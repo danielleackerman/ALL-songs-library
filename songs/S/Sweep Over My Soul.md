@@ -1,33 +1,37 @@
 ---
-title: "Sweep Over My Soul"
-artist: "Harry D. Clarke"
+title: Sweep Over My Soul
+artist: Harry D. Clarke
 key: G
-tempo: 64
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '64'
+time_sig: 4/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - altar-songs
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-med"
-keywords: "os apo med"
-source: 
+  - >-
+    altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-med
+keywords: os apo med
+ccli: ''
+copyright: ''
+source: ''
 year: 1927
 medley: []
-id: "7B7C68E2-4FFA-4C67-9850-ECA290173B33"
+id: 7B7C68E2-4FFA-4C67-9850-ECA290173B33
 ---
-
 {artist: Harry D. Clarke, 1927}
 
 CHORUS:

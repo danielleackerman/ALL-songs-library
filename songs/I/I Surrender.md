@@ -1,22 +1,25 @@
 ---
-title: "I Surrender"
-artist: "Hillsong Live"
+title: I Surrender
+artist: Hillsong Live
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F348D6FC-3C90-428B-970E-8DAE0EAE626E"
+id: F348D6FC-3C90-428B-970E-8DAE0EAE626E
 ---
-
 Capo: 4
 
 INTRO:

@@ -1,23 +1,26 @@
 ---
-title: "Pass Me Not, O Gentle Saviour"
-artist: "FANNY CROSBY"
+title: 'Pass Me Not, O Gentle Saviour'
+artist: FANNY CROSBY
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "saviour"
+  - saviour
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CD37F7FA-6D6A-4E13-B3CE-83B830F03DC5"
+id: CD37F7FA-6D6A-4E13-B3CE-83B830F03DC5
 ---
-
 CHORUS:
 [FM7]Pass me [Gm7]not O gentle [Am7]Sa[Dm7]vior
 [Gm7]Hear my [Bb/C]hum[C7b9]ble [FM7]cry [Gbdim]  [Gm7]  [C9]

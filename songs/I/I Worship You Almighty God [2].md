@@ -1,50 +1,59 @@
 ---
-title: "I Worship You Almighty God"
-artist: ""
+title: I Worship You Almighty God
+artist: Sondra Corbett Wood
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "medium-slow"
-  - "praise"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "almighty"
+  - black-gospel
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - jesus-movement
+  - maranatha
+  - medium
+  - medium-slow
+  - praise
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - almighty
 genre: []
-energy: medium
 profile:
-  - "black-gospel-ccm-choir-choruses-congregational-contemporary-jesus-movement-maranatha-medium-medium-slow-praise-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
-medley: []
-id: "0FD05CEE-BA2A-4C82-91C6-477583DAB23B"
+  - >-
+    black-gospel-ccm-choir-choruses-congregational-contemporary-jesus-movement-maranatha-medium-medium-slow-praise-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: '224347'
+copyright: 1983 Integrity’s Hosanna Music
+source: ''
+year: ''
+medley:
+  - '[[MORE THAN ANYTHING]]'
+  - '[[I WORSHIP YOU ALMIGHTY GOD]]'
+  - '[[THERE IS NONE LIKE YOU]]'
+id: B9566108-41CD-4B81-904E-357A703530DB
 ---
+{artist: Sondra Corbett Wood}
 
-I [Bb/Eb] worship  [Eb]You  [Bb/C]almighty  [Cm]God [Gm7] [Fm7]
+Medley: more than anything / I worship You almighty God / there is none like You
 
-There is [Ab/Bb]none like [EbM7]You.   [Ab/Bb]
-
-I  [Bb/Eb]worship  [Eb]You.  Oh [Bb/C]Prince of [Cm7]Peace [Gm7][Fm7]
-
-That is what I [AbM7/Bb]long        to [Bb]do
-
-I [Bb/Eb]give   You [EbM7]praise.    [Cm7]For You are my [Eb/F]righteous [Fm]ness.   Ab/Bb- Bb- Ab/Bb
-
-I [Bb/Eb]worship  [Eb]You   [Bb/C]almighty  [Cm]God [Gm7] [Fm7]
-
-There is [Ab/Bb]none   [Bb]like   [Eb]You
+I [Bb/Eb] worship [Eb]You
+[Bb/C]Almighty [Cm]God [Gm7] [Fm7]
+There is [Ab/Bb]none like [EbM7]You.  [Ab/Bb]
+I [Bb/Eb]worship [Eb]You,
+Oh [Bb/C]Prince of [Cm7]Peace [Gm7][Fm7]
+That is what I [AbM7/Bb]long  to [Bb]do
+I [Bb/Eb]give You [EbM7]praise
+[Cm7]for You are my [Eb/F]righteous[Fm]ness.   [Ab/Bb][Bb][Ab/Bb]
+I [Bb/Eb]worship [Eb]You [Bb/C]almighty [Cm]God [Gm7] [Fm7]
+There is [Ab/Bb]none [Bb]like [Eb]You.

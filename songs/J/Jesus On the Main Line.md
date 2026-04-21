@@ -1,26 +1,31 @@
 ---
-title: "Jesus On the Main Line"
-artist: "Stephen Lee, Public Domain"
+title: Jesus On the Main Line
+artist: 'Stephen Lee, Public Domain'
 key: F
-tempo: 110
-time: 
-ccli: "5304889"
-copyright: "Words: Public Domain, Music: 1998 Professional Music Services, Inc. Admin, Public Domain, Professional Music Services, Inc."
+bpm: '110'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "jesus"
+  - altar-songs
+  - jesus
 genre: []
-energy: medium-fast
 profile:
-  - "os-gospel-med"
-  - "os-apo-med"
-keywords: "os gospel med, os apo med"
-source: 
-year: 
+  - os-gospel-med
+  - os-apo-med
+keywords: 'os gospel med, os apo med'
+ccli: '5304889'
+copyright: >-
+  Words: Public Domain, Music: 1998 Professional Music Services, Inc. Admin,
+  Public Domain, Professional Music Services, Inc.
+source: ''
+year: ''
 medley: []
-id: "DABE059D-D87C-4224-877F-B42E06F6B086"
+id: DABE059D-D87C-4224-877F-B42E06F6B086
 ---
-
 {artist: Stephen Lee, Public Domain}
 
 Original key ab

@@ -1,24 +1,27 @@
 ---
-title: "Love Song"
-artist: "Third Day"
+title: Love Song
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "2221865"
-copyright: "1996 New Spring Publishing, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "life"
+  - love
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2221865'
+copyright: '1996 New Spring Publishing, Inc.'
+source: ''
+year: ''
 medley: []
-id: "7799AE8A-3F57-41C0-8A7C-E1FB74740B2A"
+id: 7799AE8A-3F57-41C0-8A7C-E1FB74740B2A
 ---
-
 This is my first chording posted here or anywhere else on the Internet.
 This is a re-redo of love_song.crd posted by David Andrew Chapman.
 There were a few words missing from that one, so I put them in here.

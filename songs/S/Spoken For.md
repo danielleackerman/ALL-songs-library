@@ -1,22 +1,25 @@
 ---
-title: "Spoken For"
-artist: "MercyMe"
+title: Spoken For
+artist: MercyMe
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "2002 Simpleville Music (Admin. by Fun Attic Music)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2002 Simpleville Music (Admin. by Fun Attic Music)
+source: ''
+year: ''
 medley: []
-id: "F3C9F2E6-5475-4883-8933-D770AE07EDBC"
+id: F3C9F2E6-5475-4883-8933-D770AE07EDBC
 ---
-
 VERSE 1:
 [D]Take this world from m[G]e,
 [Bm]I don’t need it any[G]more.

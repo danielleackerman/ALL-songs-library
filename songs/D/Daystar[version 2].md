@@ -1,24 +1,27 @@
 ---
-title: "Daystar[Version 2]"
-artist: "Steve Richardson"
+title: 'Daystar[Version 2]'
+artist: Steve Richardson
 key: Eb
-tempo: 
-time: 
-ccli: "112588"
-copyright: "1988 Ariose Music, Administrators Capitol CMG Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '112588'
+copyright: '1988 Ariose Music, Administrators Capitol CMG Publishing'
+source: ''
+year: ''
 medley: []
-id: "09A1BC0F-C6E8-47B5-A625-A22390BE9D88"
+id: 09A1BC0F-C6E8-47B5-A625-A22390BE9D88
 ---
-
 {artist: Steve Richardson}
 
 INTRO:

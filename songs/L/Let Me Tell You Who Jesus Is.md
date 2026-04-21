@@ -1,38 +1,42 @@
 ---
-title: "Let Me Tell You Who Jesus Is"
-artist: ""
+title: Let Me Tell You Who Jesus Is
+artist: ''
 key: F
-tempo: 150
-time: 
-ccli: 
-copyright: 
+bpm: '150'
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-fast"
-  - "os-southern-gospel-fast"
-keywords: "os apo fast, os southern gospel fast"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-fast
+  - os-southern-gospel-fast
+keywords: 'os apo fast, os southern gospel fast'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9FEF71BC-892F-4DD1-90F1-1CA993454562"
+id: 9FEF71BC-892F-4DD1-90F1-1CA993454562
 ---
-
 VERSE 1:
 Now the Jews were talking to Jesus
 And they said, "Just who are you?

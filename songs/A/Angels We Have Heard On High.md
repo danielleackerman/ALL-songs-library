@@ -1,23 +1,26 @@
 ---
-title: "Angels We Have Heard On High"
-artist: "Third Day"
+title: Angels We Have Heard On High
+artist: Third Day
 key: E
-tempo: 
-time: 
-ccli: "4867980"
-copyright: "Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "angels"
+  - angels
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4867980'
+copyright: Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "E1D29AF1-CEDE-4BCF-B838-AD25094B5AB0"
+id: E1D29AF1-CEDE-4BCF-B838-AD25094B5AB0
 ---
-
 [E]Angels we have [B4]heard on [E]high
 Sweetly singing [B4]o'er the [E]plains
 And the mountains [B4]in re[E]ply,

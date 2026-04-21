@@ -1,24 +1,27 @@
 ---
-title: "He Gives Strength To Me 2"
-artist: ""
+title: He Gives Strength To Me 2
+artist: ''
 key: Gb
-tempo: 53
-time: 
-ccli: 
-copyright: 
+bpm: '53'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "strength"
-  - "maranatha-medium"
+  - strength
+  - maranatha-medium
 genre: []
-energy: slow
 profile: []
-keywords: "maranatha medium"
-source: 
-year: 
+keywords: maranatha medium
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "74009E03-B23F-46DF-B904-F575CD50E1ED"
+id: 74009E03-B23F-46DF-B904-F575CD50E1ED
 ---
-
 [Gb]He gives strength to [Db]me [Gb]
 [Bb]As I [B]worship Him [Db/Bb] [Abm7]
 And my [Db7]heart is [Abm7]filled [Db7]with [Gb]praise [A] [Abm7] [Ab7]

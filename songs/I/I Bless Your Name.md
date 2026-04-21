@@ -1,32 +1,36 @@
 ---
-title: "I Bless Your Name"
-artist: "Elizabeth Goodine"
+title: I Bless Your Name
+artist: Elizabeth Goodine
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "087F0F3D-9924-4A2D-9E1B-8BE132D17DC5"
+id: 087F0F3D-9924-4A2D-9E1B-8BE132D17DC5
 ---
-
 {artist: Elizabeth Goodine}
 
 (Verse:1)

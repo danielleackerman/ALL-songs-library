@@ -1,37 +1,41 @@
 ---
-title: "Jesus At The Center"
-artist: "Israel Houghton"
+title: Jesus At The Center
+artist: Israel Houghton
 key: A
-tempo: 66
-time: 
-ccli: "6115180"
-copyright: "2011 Integrity's Praise! Music"
+bpm: '66'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "contemp-christian"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - contemp-christian
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: "contemp christian"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: contemp christian
+ccli: '6115180'
+copyright: 2011 Integrity's Praise! Music
+source: ''
+year: ''
 medley: []
-id: "9B491903-954A-4508-9345-B633AAAEBEA7"
+id: 9B491903-954A-4508-9345-B633AAAEBEA7
 ---
-
 INTRO:
 [A] [-] [Bm] [-] [A/C#] [-] [Dmaj7] [(x2)]
 

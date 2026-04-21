@@ -1,24 +1,27 @@
 ---
-title: "Here I Go Again"
-artist: "Casting Crowns"
+title: Here I Go Again
+artist: Casting Crowns
 key: Bb
-tempo: 
-time: 
-ccli: "4196572"
-copyright: "SWECS Music / Club Zoo Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "friend"
+  - love
+  - friend
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4196572'
+copyright: SWECS Music / Club Zoo Music
+source: ''
+year: ''
 medley: []
-id: "0BBE1D45-7CE0-427F-8B56-3B282AC0AEEA"
+id: 0BBE1D45-7CE0-427F-8B56-3B282AC0AEEA
 ---
-
 Intro:  (: Gm	Bb	F	Eb :)
 Fa[Gm]ther[Bb] hear my[F] praye[Eb]r I need the perfect words, words that he will hear
 And [Gm]know th[Bb]ey’re straight from You, I don’t know what to say,

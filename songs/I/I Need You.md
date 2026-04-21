@@ -1,23 +1,26 @@
 ---
-title: "I Need You"
-artist: "Jars Of Clay"
+title: I Need You
+artist: Jars Of Clay
 key: E
-tempo: 
-time: 
-ccli: "3601594"
-copyright: "2002 Bridge Building Music / Pogostick Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "shelter"
+  - shelter
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3601594'
+copyright: 2002 Bridge Building Music / Pogostick Music
+source: ''
+year: ''
 medley: []
-id: "F5076DE5-85E9-45E7-8162-3813C68EDC20"
+id: F5076DE5-85E9-45E7-8162-3813C68EDC20
 ---
-
 This is close, but if you have any additions, feel free to make them!
 [E] =022100
 [Am][a]j7=002120

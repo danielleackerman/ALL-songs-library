@@ -1,24 +1,27 @@
 ---
-title: "DON'T LET THE DEVIL RIDE (Julie Miller)"
-artist: ""
+title: DON'T LET THE DEVIL RIDE (Julie Miller)
+artist: ''
 key: Ebm
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "temptation"
+  - temptation
 genre: []
-energy: 
 profile:
-  - "os-gospel-slow"
-keywords: "os gospel slow, temptation"
-source: 
-year: 
+  - os-gospel-slow
+keywords: 'os gospel slow, temptation'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4B107930-760F-4AFA-B376-FF1DB45417CF"
+id: 4B107930-760F-4AFA-B376-FF1DB45417CF
 ---
-
 VERSE 1:
 [Eb] [Ebm] [Eb] [Ebm] [Ebm7] [Ebm]
 

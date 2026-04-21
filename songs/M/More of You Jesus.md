@@ -1,23 +1,26 @@
 ---
-title: "More of You Jesus"
-artist: ""
+title: More of You Jesus
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5AA5D8E1-346D-4427-B9B9-98B41233BD1D"
+id: 5AA5D8E1-346D-4427-B9B9-98B41233BD1D
 ---
-
 VERSE 1:
 I've [G]touched the hem of Your [D/Gb]garment
 And I have [G/E]felt the [G/D]leading of Your [C]hand

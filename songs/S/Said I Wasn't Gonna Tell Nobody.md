@@ -1,25 +1,28 @@
 ---
-title: "Said I Wasn't Gonna Tell Nobody"
-artist: "Angie Primm"
+title: Said I Wasn't Gonna Tell Nobody
+artist: Angie Primm
 key: D
-tempo: 85
-time: 
-ccli: 
-copyright: 
+bpm: '85'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium
 profile:
-  - "os-gospel-fast"
-keywords: "os gospel fast"
-source: 
-year: 
+  - os-gospel-fast
+keywords: os gospel fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[SOMEBODY TOUCHED ME]]"
-  - "[[BORN AGAIN]]"
-id: "40D93AAE-E583-4B19-A090-AFC6CA9C3970"
+  - '[[SOMEBODY TOUCHED ME]]'
+  - '[[BORN AGAIN]]'
+id: 40D93AAE-E583-4B19-A090-AFC6CA9C3970
 ---
-
 Medley: somebody touched me / born again
 
 VERSE 1:

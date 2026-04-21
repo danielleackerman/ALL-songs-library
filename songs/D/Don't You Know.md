@@ -1,23 +1,26 @@
 ---
-title: "Don't You Know"
-artist: "Watermark"
+title: Don't You Know
+artist: Watermark
 key: C
-tempo: 
-time: 
-ccli: "3192254"
-copyright: "1999 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3192254'
+copyright: '1999 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music'
+source: ''
+year: ''
 medley: []
-id: "6F505C10-E62D-4483-943F-A99B4B46DCF1"
+id: 6F505C10-E62D-4483-943F-A99B4B46DCF1
 ---
-
 VERSE 1:
 [C]I have [F]hidden you,[C] I have [F]set you apart and...
 [C]Saved the [F]best for me...saved the [C]best for me...([F]oh)

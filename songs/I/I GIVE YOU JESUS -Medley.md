@@ -1,21 +1,24 @@
 ---
-title: "I GIVE YOU JESUS -Medley"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: I GIVE YOU JESUS -Medley
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3899C3A2-644E-4A64-BF4B-9ED4133187B1"
+id: 3899C3A2-644E-4A64-BF4B-9ED4133187B1
 ---
-
 

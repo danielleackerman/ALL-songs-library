@@ -1,23 +1,26 @@
 ---
-title: "Peace"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Peace
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "peace"
+  - peace
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "6046D643-DE7D-430E-A188-FA0F5F326518"
+id: 6046D643-DE7D-430E-A188-FA0F5F326518
 ---
-
 Key:
 
 Peace

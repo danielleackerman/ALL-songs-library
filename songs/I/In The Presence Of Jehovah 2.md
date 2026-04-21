@@ -1,24 +1,27 @@
 ---
-title: "In The Presence Of Jehovah 2"
-artist: "Geron Davis"
+title: In The Presence Of Jehovah 2
+artist: Geron Davis
 key: C
-tempo: 
-time: 
-ccli: "162040"
-copyright: "1983, 1985 Meadowgreen Music Company / Songchannel Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "presence"
+  - presence
 genre: []
-energy: 
 profile:
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: '162040'
+copyright: '1983, 1985 Meadowgreen Music Company / Songchannel Music'
+source: ''
+year: ''
 medley: []
-id: "77B14645-3048-4B7A-A6EA-8144A203A8D7"
+id: 77B14645-3048-4B7A-A6EA-8144A203A8D7
 ---
-
 INTRO:
 [F] [F2sus] [Eb] [Dm7] [G2sus]
 

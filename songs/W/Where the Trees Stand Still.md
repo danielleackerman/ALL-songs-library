@@ -1,22 +1,25 @@
 ---
-title: "Where the Trees Stand Still"
-artist: "Bebo Norman"
+title: Where the Trees Stand Still
+artist: Bebo Norman
 key: D
-tempo: 
-time: 
-ccli: "3924240"
-copyright: "2002 New Spring Publishing, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3924240'
+copyright: '2002 New Spring Publishing, Inc.'
+source: ''
+year: ''
 medley: []
-id: "B06AAAA6-7BCA-44B5-A3D0-B4B8E1CEE5C9"
+id: B06AAAA6-7BCA-44B5-A3D0-B4B8E1CEE5C9
 ---
-
 Bebo play this song with the capo on the 2 fret and slowy finger pick it
 listen to the song to get exact stlye of picking it pretty easy
 

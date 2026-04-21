@@ -1,37 +1,41 @@
 ---
-title: "Hold To God's Unchanging Hand"
-artist: "Lindell Cooley"
+title: Hold To God's Unchanging Hand
+artist: Lindell Cooley
 key: F
-tempo: 
-time: 
-ccli: "107548"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - altar-songs
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "altar-songs-black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-fast"
-keywords: "os apo fast"
-source: 
-year: 
+  - >-
+    altar-songs-black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-fast
+keywords: os apo fast
+ccli: '107548'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "E1E25BE9-E53F-49F3-B0F4-5688E23D4EBB"
+id: E1E25BE9-E53F-49F3-B0F4-5688E23D4EBB
 ---
-
 VERSE 1:
 T[F]ime is filled with swift transition
 na[F]ught of earth unmoved can stand

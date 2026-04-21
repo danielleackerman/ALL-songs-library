@@ -1,27 +1,30 @@
 ---
-title: "Yes Lord ( Completely Yes)"
-artist: "Sandra Crouch/original key Ab, F, G"
+title: Yes Lord ( Completely Yes)
+artist: 'Sandra Crouch/original key Ab, F, G'
 key: Db
-tempo: 
-time: 
-ccli: "16907"
-copyright: "1985 Bud John Songs, Inc., Sanabella Music, Admin. Capitol CMG Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "devotion"
-  - "obedience"
-  - "slow"
+  - devotion
+  - obedience
+  - slow
 genre: []
-energy: slow
 profile:
-  - "os-apo-med"
-  - "os-gospel-med"
-keywords: "os apo med, os gospel med, devotion, obedience, slow"
-source: 
-year: 
+  - os-apo-med
+  - os-gospel-med
+keywords: 'os apo med, os gospel med, devotion, obedience, slow'
+ccli: '16907'
+copyright: '1985 Bud John Songs, Inc., Sanabella Music, Admin. Capitol CMG Publishing'
+source: ''
+year: ''
 medley: []
-id: "A173BAC2-626A-465A-A056-80F0400F1525"
+id: CF6B8A7D-9073-47F3-9773-D390AF5A66B2
 ---
-
 [Db]Yes,   Lord
 [Db]Yes,   Lord   [Gb/Db]
 [Gb/Ab]From the  [Db]bottom of  [Gb/Db]my  [Db]heart

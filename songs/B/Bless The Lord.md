@@ -1,22 +1,25 @@
 ---
-title: "Bless The Lord"
-artist: ""
+title: Bless The Lord
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "59598777-3038-41CD-BB5A-43317AA8828B"
+id: 59598777-3038-41CD-BB5A-43317AA8828B
 ---
-
 [Eb]Bless   the   Lord,   [C7/E].      [Fm7]Oh   my   soul.    [Bb7]
 
 And   [Eb2]all   that   [Fm]is   [Eb/G]with[Eb/Ab]in   [Fm/Ab]me

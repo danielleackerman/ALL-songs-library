@@ -1,27 +1,32 @@
 ---
-title: "God Is Here, God Is Real"
-artist: "Israel Houghton, Meleasa Houghton, Martha Munizzi"
+title: 'God Is Here, God Is Real'
+artist: 'Israel Houghton, Meleasa Houghton, Martha Munizzi'
 key: Ab
-tempo: 
-time: 
-ccli: "41855969"
-copyright: "2003 Integrity's Praise Music, Sound of the New Breed, Martha Munizzi Music, Admin. Capitol CMG Publishing (IMI), Say The Name Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "anointed"
-  - "presence"
-  - "anthemic"
+  - anointed
+  - presence
+  - anthemic
 genre: []
-energy: 
 profile:
-  - "mod-apo-slow"
-  - "contemp-christian-slow"
-keywords: "mod apo slow, contemp christian slow, anointed, presence, anthemic"
-source: 
-year: 
+  - mod-apo-slow
+  - contemp-christian-slow
+keywords: 'mod apo slow, contemp christian slow, anointed, presence, anthemic'
+ccli: '41855969'
+copyright: >-
+  2003 Integrity's Praise Music, Sound of the New Breed, Martha Munizzi Music,
+  Admin. Capitol CMG Publishing (IMI), Say The Name Publishing
+source: ''
+year: ''
 medley: []
-id: "87506A28-642D-41CF-BAA4-A3BCFA58EF48"
+id: 87506A28-642D-41CF-BAA4-A3BCFA58EF48
 ---
-
 ORIGINAL KEY: Bb original
 
 VERSE 1:

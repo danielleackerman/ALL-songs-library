@@ -1,24 +1,27 @@
 ---
-title: "Press On"
-artist: "Selah"
+title: Press On
+artist: Selah
 key: F
-tempo: 
-time: 
-ccli: "91410"
-copyright: "1983 Good Life Publications, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "strength"
+  - jesus
+  - strength
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '91410'
+copyright: '1983 Good Life Publications, Inc.'
+source: ''
+year: ''
 medley: []
-id: "91EA1BF7-23E6-4F98-B14E-854E4D0CEBB9"
+id: 91EA1BF7-23E6-4F98-B14E-854E4D0CEBB9
 ---
-
 Intro: [F][Bb][F][Bb]
 
 VERSE:

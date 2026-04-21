@@ -1,28 +1,31 @@
 ---
-title: "Jesus Said It ORIGINAL"
-artist: "Eddie James"
+title: Jesus Said It ORIGINAL
+artist: Eddie James
 key: Eb
-tempo: 160
-time: 
-ccli: "5539066"
-copyright: "2005 Maize Music / Productive Rhythm Publishing"
+bpm: '160'
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "believe"
+  - jesus
+  - believe
 genre: []
-energy: high
 profile:
-  - "mod-gospel-fast"
-  - "cont-gospel-fast"
-keywords: "mod gospel fast, cont gospel fast"
-source: 
-year: 
+  - mod-gospel-fast
+  - cont-gospel-fast
+keywords: 'mod gospel fast, cont gospel fast'
+ccli: '5539066'
+copyright: 2005 Maize Music / Productive Rhythm Publishing
+source: ''
+year: ''
 medley:
-  - "[[I'VE ALREADY BEEN TO THE WATER]]"
-  - "[[I WISH SOMEBODY’S SOUL WOULD CATCH ON FIRE]]"
-id: "E52F3E3A-DDFE-4C4C-A401-EFE5BCF3B0DB"
+  - '[[I''VE ALREADY BEEN TO THE WATER]]'
+  - '[[I WISH SOMEBODY’S SOUL WOULD CATCH ON FIRE]]'
+id: E52F3E3A-DDFE-4C4C-A401-EFE5BCF3B0DB
 ---
-
 Intro Riff Tab:
 [Eb]Eb [Bb]Bb [Eb-]Eb- [Db]Db... [C-]Db [C] C  Bb  Ab  Gb...-back to Eb repeated_as needed
 

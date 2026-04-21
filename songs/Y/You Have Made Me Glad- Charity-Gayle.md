@@ -1,20 +1,23 @@
 ---
-title: "You Have Made Me Glad- Charity-Gayle"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: You Have Made Me Glad- Charity-Gayle
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "11CF4B91-F21A-41CD-BFC5-AD84D9CB15DE"
+id: 11CF4B91-F21A-41CD-BFC5-AD84D9CB15DE
 ---
-
 

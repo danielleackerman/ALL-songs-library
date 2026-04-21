@@ -1,23 +1,26 @@
 ---
-title: "Do You Know Him?"
-artist: "Hezekiah Walker"
+title: Do You Know Him?
+artist: Hezekiah Walker
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "sin"
+  - sin
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "69C00E53-39F1-46C8-A1C1-174573BFEC77"
+id: 69C00E53-39F1-46C8-A1C1-174573BFEC77
 ---
-
 VERSE:
 I know a man from Galilee
 If youre in sin, He'll set you free

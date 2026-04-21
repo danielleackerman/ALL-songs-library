@@ -1,34 +1,38 @@
 ---
-title: "Fall Like Rain"
-artist: "Clint Brown"
+title: Fall Like Rain
+artist: Clint Brown
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "2007 Tribe Music Group"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: 2007 Tribe Music Group
+source: ''
+year: ''
 medley: []
-id: "798B383A-67C0-4C26-B580-F2DF36065282"
+id: 798B383A-67C0-4C26-B580-F2DF36065282
 ---
-
 [C-C-V1-C-V1-C-V2-C-V2-C-C-T]
 
 CHORUS:

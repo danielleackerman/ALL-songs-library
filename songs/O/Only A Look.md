@@ -1,22 +1,25 @@
 ---
-title: "Only A Look"
-artist: "Artist Name"
+title: Only A Look
+artist: Artist Name
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CC3C4DF2-D799-49B1-BF5B-F1428F90A024"
+id: CC3C4DF2-D799-49B1-BF5B-F1428F90A024
 ---
-
 (Verse:1)
 
 [Bb]Only  [Cm/Bb]a  [Bb]look,  [Dbdim7]at  [Cm7]Je----[F7]sus,

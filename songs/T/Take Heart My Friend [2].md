@@ -1,54 +1,54 @@
 ---
-title: "Take Heart My Friend"
-artist: "Fernando Ortega"
-key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Take Heart My Friend
+artist: Fernando Ortega
+key: G
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "friend"
+  - friend
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4407106'
+copyright: 2004 Curb Songs / Cerdo Verde Music / John Andrew Schreiner Music
+source: ''
+year: ''
 medley: []
-id: "7C9506C2-3819-455E-AEB7-EFB4B5D28D12"
+id: 927A8CDD-D4F4-453A-A08F-F43BDE320B16
 ---
-
-edited by Danielle Grigsby 2013
-Ccli: 4407106
-Copyright: 2004 Curb Songs / Cerdo Verde Music / John Andrew Schreiner Music
-
 Capo 6th fret
 
-[D]Take heart, my friend, we’ll go to[G2]gether
-This un[D]certain road that lies [G2]ahead
-Our faithful [Bm]God has always gone be[A/C#]fore us
-And He will [Em]lead the way once a[A]gain
+[G]Take heart, my friend, we’ll go to[C9]gether
+This un[G]certain road that lies [C9]ahead
+Our faithful [Em]God has always gone be[D/F#]fore us
+And He will [Am]lead the way once a[D]gain
 
-Take heart, my [D]friend, we can walk to[G2]gether
-And if our [D]burdens become too [G2]great
-We can [Bm]hold up and help one a[A/C#]nother
-In God’s [Em]love and God’s [A]grace
+Take heart, my [G]friend, we can walk to[C9]gether
+And if our [G]burdens become too [C9]great
+We can [E#m]hold up and help one a[D/F#]nother
+In God’s [Am]love and God’s [D]grace
 
-[A/D,](desc[A/C#,]ending[A/B,] bass[A] run on 3rd & 4th strings)
+D/g, d/f#, d/e, d
+(descending bass run on 3rd & 4th strings)
 
-Take heart my [A]friend, the Lord is [G2]with us
-As He has [A/F#]been all the days of our [Bm]lives[A/C#]
-Our assu[G2]rance every m[Bm]orning
-Our de[Em]fender in the [D]night [G2]      [D]      [G9]
+Take heart my [D]friend, the Lord is [C9]with us
+As He has [D/B]been all the days of our [E#m]lives[D/F#]
+Our assu[C9]rance every m[E#m]orning
+Our de[Am]fender in the [G]night[C9][G][C9]
 
-If we should [D]falter when trouble s[G2]urrounds us
-When the [D/C]wind and the waves are wild and [G2]high
-We will look [Bm]away to Him who ruled the [A/C#]waters
-Who spoke His [Em]peace into the angry [A]tide
+If we should [G]falter when trouble s[C9]urrounds us
+When the [G/F]wind and the waves are wild and [C9]high
+We will look [E#m]away to Him who ruled the [D/F#]waters
+Who spoke His [Am]peace into the angry [D]tide
 
-He is our [D]comfort, our [G2]sustainer
-He is our [D/B]help in time of [G2]need
-When we [Bm]wander, He is our [A/C#]Shepherd
-He who [Em]watches over us never [A]sleeps
+He is our [G]comfort, our [C9]sustainer
+He is our [G/F]help in time of [C9]need
+When we [E#m]wander, He is our [D/F#]Shepherd
+He who [Am]watches over us never [D]sleeps
 
 Repeat Chorus 2X

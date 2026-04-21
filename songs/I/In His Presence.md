@@ -1,24 +1,27 @@
 ---
-title: "In His Presence"
-artist: "Geron Davis"
+title: In His Presence
+artist: Geron Davis
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "presence"
+  - presence
 genre: []
-energy: 
 profile:
-  - "apo-mod-slow"
-keywords: "apo mod slow"
-source: 
-year: 
+  - apo-mod-slow
+keywords: apo mod slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4CCA0577-1776-4004-94FD-2B2545EE8876"
+id: 4CCA0577-1776-4004-94FD-2B2545EE8876
 ---
-
 [C]In [Cmaj7]His [G/B]pres[F/A]ence [F2/A], [Dm7]In His [G]ho[G9]ly [C6]pre[C]scence [A+] [A7b9]
 The [Dm]weary can [G6]find [F/G]perfect [G13]rest, [Dm]The [C]broken [Dm]are [Em]restored
 [C]In [G/B]His pres[F/A]cence [F2/A], [Dm]In His [G]Ho[G9]ly [G13]pre[G2]sence

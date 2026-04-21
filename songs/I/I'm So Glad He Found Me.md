@@ -1,39 +1,43 @@
 ---
-title: "I'm So Glad He Found Me"
-artist: ""
-key: 
-tempo: 65
-time: 
-ccli: 
-copyright: 
+title: I'm So Glad He Found Me
+artist: ''
+key: ''
+bpm: '65'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "love"
-  - "home"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - love
+  - home
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-slow-solo-songs-southern-gospel-traditional-worship"
-  - "os-southern-gospel-slow"
-keywords: "os southern gospel slow"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-slow-solo-songs-southern-gospel-traditional-worship
+  - os-southern-gospel-slow
+keywords: os southern gospel slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[HE CAME LOOKING FOR ME]]"
-id: "B503F633-3F7D-4B71-944B-AC93C25AC8FF"
+  - '[[HE CAME LOOKING FOR ME]]'
+id: B503F633-3F7D-4B71-944B-AC93C25AC8FF
 ---
-
 Medley: He came looking for me
 
 VERSE 1:

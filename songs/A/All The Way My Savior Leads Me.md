@@ -1,33 +1,37 @@
 ---
-title: "All The Way My Savior Leads Me"
-artist: "by Fanny Crosby, 1875, Chris Tomlin"
+title: All The Way My Savior Leads Me
+artist: 'by Fanny Crosby, 1875, Chris Tomlin'
 key: Ab
-tempo: 
-time: 
-ccli: "3504134"
-copyright: "1992 BMG Songs, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "mercy"
-  - "savior"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - mercy
+  - savior
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '3504134'
+copyright: '1992 BMG Songs, Inc.'
+source: ''
+year: ''
 medley: []
-id: "7E01ACD2-B6FA-4850-BD40-C2144718C967"
+id: 7E01ACD2-B6FA-4850-BD40-C2144718C967
 ---
-
 Philippians 1:6, 3:10-15
 
 VERSE 1:

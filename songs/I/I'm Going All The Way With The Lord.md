@@ -1,26 +1,29 @@
 ---
-title: "I'm Going All The Way With The Lord"
-artist: "Carlton Pearson"
+title: I'm Going All The Way With The Lord
+artist: Carlton Pearson
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "commitment"
-  - "declaration"
+  - commitment
+  - declaration
 genre: []
-energy: 
 profile:
-  - "os-apo-slow"
-  - "os-gospel-slow"
-keywords: "os apo slow, os gospel slow, commitment, declaration"
-source: 
-year: 
+  - os-apo-slow
+  - os-gospel-slow
+keywords: 'os apo slow, os gospel slow, commitment, declaration'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A069CE93-49CF-4B99-92E4-91E20FF65717"
+id: A069CE93-49CF-4B99-92E4-91E20FF65717
 ---
-
 {artist: Carlton Pearson}
 
 [C2/E] All  the  [F]way, [F/A]   I’m [Bb2]going  all [Bb]   the   [F/A]way.

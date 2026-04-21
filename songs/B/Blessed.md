@@ -1,22 +1,25 @@
 ---
-title: "Blessed"
-artist: "Rachel Lampa"
+title: Blessed
+artist: Rachel Lampa
 key: G
-tempo: 
-time: 
-ccli: "3120381"
-copyright: "2000 Word Music, LLC / Above The Rim Music / BMG Songs, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3120381'
+copyright: '2000 Word Music, LLC / Above The Rim Music / BMG Songs, Inc.'
+source: ''
+year: ''
 medley: []
-id: "984E4445-C563-46BF-A0CC-D0A3E6936A74"
+id: 984E4445-C563-46BF-A0CC-D0A3E6936A74
 ---
-
 [C]I may never cl[G]imb a mountain so [D]I can see the world[Em] from there
 I may [C]never ride the w[G]aves and taste the [D]salty ocean [Em]air
 Or build a [C]bridge,[G]   that would [B]last a hundred [Em]years

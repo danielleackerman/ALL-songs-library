@@ -1,22 +1,25 @@
 ---
-title: "Restored"
-artist: "Jeremy Camp"
+title: Restored
+artist: Jeremy Camp
 key: G
-tempo: 
-time: 
-ccli: "4503990"
-copyright: "2004 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4503990'
+copyright: 2004 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "CB39E11F-8DCC-4A4B-9724-7AC50E013128"
+id: CB39E11F-8DCC-4A4B-9724-7AC50E013128
 ---
-
 Capo 1
 
 [Dsus2]    [G/B]

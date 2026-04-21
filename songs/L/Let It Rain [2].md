@@ -1,44 +1,42 @@
 ---
-title: "Let It Rain"
-artist: "Michael W. Smith"
-key: C
-tempo: 
-time: 
-ccli: "3591817"
-copyright: "2001 This Is Your Time Music"
+title: Let It Rain
+artist: Jesus Culture
+key: E
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3591817'
+copyright: 2001 This Is Your Time Music
+source: ''
+year: ''
 medley: []
-id: "4845B528-752F-4CA7-8991-8316CD2C17F1"
+id: CEC90B27-3E9C-4D5B-B0E3-22FBA3D7C74E
 ---
+CHORUS:
+Let it r[C#m7]ain,   let it [A]rain
+[E]Open the flood gates of Hea[B]ven  (repeat)
 
-[Am]Let it rain, [F]Let It rain
-[C]Open the flood gates of [G]Heaven
+VERSE:
+We feel the rai[A2]ns of Your love
+We feel the win[C#m7]ds of Your Spirit
+Now the h[E]eartbeat of heaven, let us hear [B](repeat)
 
-I can feel the [Am]rain of Your love
-               F
-I can feel the wind of Your Spirit
-               C
-I can hear the heartbeat of heaven
-        G
-Can you hear it?
+(chorus - verse)
 
-Psalm 97
-1 The Lord reigns, let the earth be glad;
-let the distant shores rejoice.
-2 Clouds and thick darkness surround him;
-righteouness and justice are the foundation of his throne.
-3 Fire goes before him;
-and consumes his foes on every side.
-4 His lightening lights up the world;
-the earth sees and trembles.
-5 The mountains melt like wax before the Lord,
-before the Lord of all the earth.
-6 The Heavens proclaim his righteouness,
-and all the peoples see his Glory.
-(let it rain)
+INSTRUMENTAL:
+[Am][a]j7 - [Bsus4] - [C#m7] - [Bsus4]
+[Am][a]j7 - [Bsus4] - [C#m7] - [B/D#]
+
+BRIDGE:
+We want to[Amaj7] see You, show us Your glor[Bsus4]y
+We want t[C#m7]o know You [Bsus4]more
+We want t[Amaj7]o see You, show us Your glo[Bsus4]ry
+We want to[C#m7] know You m[B/D#]ore

@@ -1,23 +1,26 @@
 ---
-title: "My House Is Full (But My Field Is Empty)"
-artist: "Lanny Wolfe"
+title: My House Is Full (But My Field Is Empty)
+artist: Lanny Wolfe
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "father"
+  - father
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
 year: 1977
 medley: []
-id: "24EB1DE2-EF3F-4BF5-AFE8-69B1E054783F"
+id: 24EB1DE2-EF3F-4BF5-AFE8-69B1E054783F
 ---
-
 VERSE 1:
 There is [Eb]peace and con[Eb7]tentment In the [Ab]Father's house to[Eb]day
 [Bb]Lots of [Eb]food on His [Cm7]table And no [F7]one is turned a[Bb9]way.  [Bb7]

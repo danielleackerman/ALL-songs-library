@@ -1,23 +1,26 @@
 ---
-title: "Nothing Without You"
-artist: "Bebo Norman"
+title: Nothing Without You
+artist: Bebo Norman
 key: D
-tempo: 
-time: 
-ccli: "4442453"
-copyright: "2004 New Spring Publishing, Inc. / Appstreet Music / Rotten Banana Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4442453'
+copyright: '2004 New Spring Publishing, Inc. / Appstreet Music / Rotten Banana Music'
+source: ''
+year: ''
 medley: []
-id: "9274ADFC-DF7C-490C-BE75-A4AB7FB17EA6"
+id: 9274ADFC-DF7C-490C-BE75-A4AB7FB17EA6
 ---
-
 INTRO:  D2(no3)  (4 measures)
 
 VERSE 1:

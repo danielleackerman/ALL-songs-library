@@ -1,24 +1,27 @@
 ---
-title: "He Didn't Have To Do It But He Did"
-artist: ""
+title: He Didn't Have To Do It But He Did
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[I'm So Glad That The Lord Saved Me]]"
-  - "[[I Feel Like Praisin]]"
-id: "95F83DEB-862D-441F-9169-BC11810C6B42"
+  - '[[I''m So Glad That The Lord Saved Me]]'
+  - '[[I Feel Like Praisin]]'
+id: 95F83DEB-862D-441F-9169-BC11810C6B42
 ---
-
 [Ab/Bb]He [Eb]didn't have to do it but He did,    [Bb/D]
 
 He [Eb/C]didn't have to do it but He [Bb7]did.  [Bdim].   [Bb9]

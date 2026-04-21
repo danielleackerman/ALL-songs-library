@@ -1,36 +1,40 @@
 ---
-title: "Great Praise for a Great God"
-artist: "Christy Ballestero"
+title: Great Praise for a Great God
+artist: Christy Ballestero
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "praise"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - praise
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "147C2160-4FB2-4D36-8523-F326335B9719"
+id: 147C2160-4FB2-4D36-8523-F326335B9719
 ---
-
 [F]Great [F7/A]praise for a [Bb]great [Gm7]God
 A [F/C]mighty worship for the [C]mighty [Dm/C]One.   [Bb/D].    [C/E]
 [F]We bring You [F7/A]worship and [Bb]we bring You [Gm7]praise

@@ -1,24 +1,27 @@
 ---
-title: "Go Tell It On The Mountain"
-artist: "Big Daddy Weave"
+title: Go Tell It On The Mountain
+artist: Big Daddy Weave
 key: G
-tempo: 
-time: 
-ccli: "29080"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "christ"
+  - jesus
+  - christ
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '29080'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "15D4070B-1860-4E41-A3C9-0008F02CE67C"
+id: 15D4070B-1860-4E41-A3C9-0008F02CE67C
 ---
-
 Intro: Em – Em – Em - Em
 
 VERSE 1:

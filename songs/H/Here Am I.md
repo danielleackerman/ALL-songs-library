@@ -1,36 +1,40 @@
 ---
-title: "Here Am I"
-artist: "MercyMe"
+title: Here Am I
+artist: MercyMe
 key: C
-tempo: 
-time: 
-ccli: "3479805"
-copyright: "2001 Simpleville Music / Songs From The Indigo Room"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "king"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - king
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '3479805'
+copyright: 2001 Simpleville Music / Songs From The Indigo Room
+source: ''
+year: ''
 medley: []
-id: "EBD2B3B4-8431-416A-9603-1817B6797B38"
+id: EBD2B3B4-8431-416A-9603-1817B6797B38
 ---
-
 INTRO:
 [C9]      [F2]      [C9]      [F2]   (8 beats each)
 

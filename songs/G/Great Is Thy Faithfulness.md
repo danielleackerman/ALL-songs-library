@@ -1,31 +1,35 @@
 ---
-title: "Great Is Thy Faithfulness"
-artist: ""
+title: Great Is Thy Faithfulness
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: "18723"
-copyright: "1923; Renewed 1951 Hope Publishing Company"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '18723'
+copyright: 1923; Renewed 1951 Hope Publishing Company
+source: ''
+year: ''
 medley: []
-id: "80E7D3AD-09BC-4819-BD82-548977FFFF75"
+id: 80E7D3AD-09BC-4819-BD82-548977FFFF75
 ---
-
 [C]Great is thy [Fmaj7]faithfulness, [G7]O God my F[C]ather
 [F]There is no s[C]hadow of t[D]urning w[D7]ith t[G]hee
 [G7]Thou changest n[C]ot, thy c[F]omp[C]assions they [Dm]fail not

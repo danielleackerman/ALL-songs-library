@@ -1,24 +1,29 @@
 ---
-title: "Jesus, Blessed Savior (He's Worthy To Be Praised)"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: 'Jesus, Blessed Savior (He''s Worthy To Be Praised)'
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "praise"
+  - jesus
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Praise Him,  Praise Him,  Praise Him,  Praise Him; Jesus,  blessed Savior  He's worthy to be praised"
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: >-
+  Praise Him,  Praise Him,  Praise Him,  Praise Him; Jesus,  blessed Savior 
+  He's worthy to be praised
+year: ''
 medley: []
-id: "CF4ECFFE-4519-437A-8A0A-274D2EC88624"
+id: CF4ECFFE-4519-437A-8A0A-274D2EC88624
 ---
-
 From the rising of the sun,  until the going down of the same
 He's worthy,  Jesus is worthy
 He's worthy to be praised

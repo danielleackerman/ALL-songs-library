@@ -1,23 +1,26 @@
 ---
-title: "My God"
-artist: "Jeremy Camp"
+title: My God
+artist: Jeremy Camp
 key: G
-tempo: 78
-time: 
-ccli: 
-copyright: 
+bpm: '78'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "137B90EF-88D9-46C0-A835-DEB41AC9A802"
+id: 137B90EF-88D9-46C0-A835-DEB41AC9A802
 ---
-
 Key:
 Ccli: 6500159
 Copyright: 2013 Stolen Pride

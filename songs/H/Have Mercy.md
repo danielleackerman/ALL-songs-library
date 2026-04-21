@@ -1,23 +1,26 @@
 ---
-title: "Have Mercy"
-artist: "Third Day"
+title: Have Mercy
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "mercy"
+  - mercy
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F4A10C33-23D1-492B-83A4-7417FE79EA21"
+id: F4A10C33-23D1-492B-83A4-7417FE79EA21
 ---
-
 intro:  G A 4x
 [G]My[A] will won't break it barely bends
 same old sinner, same old sin   [G]  [A]

@@ -1,22 +1,25 @@
 ---
-title: "Two Hands"
-artist: "Jars Of Clay"
+title: Two Hands
+artist: Jars Of Clay
 key: E
-tempo: 
-time: 
-ccli: "5478354"
-copyright: "2009 Bridge Building Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5478354'
+copyright: '2009 Bridge Building Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "467411B1-8E9A-4F6C-9480-C610F7E16C4C"
+id: 467411B1-8E9A-4F6C-9480-C610F7E16C4C
 ---
-
 VERSE 1:
 E
 I've been living out of sanity

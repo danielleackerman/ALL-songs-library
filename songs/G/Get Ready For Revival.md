@@ -1,24 +1,27 @@
 ---
-title: "Get Ready For Revival"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Get Ready For Revival
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "fast-funky"
-  - "revival"
+  - black-gospel
+  - fast-funky
+  - revival
 genre: []
-energy: 
 profile:
-  - "black-gospel-fast-funky"
-keywords: 
-source: 
-year: 
+  - black-gospel-fast-funky
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E2C3BD28-A551-4DA3-AC96-30AD3F55EBD7"
+id: E2C3BD28-A551-4DA3-AC96-30AD3F55EBD7
 ---
-
 

@@ -1,24 +1,27 @@
 ---
-title: "Watch The Lamb"
-artist: "Ray Boltz"
+title: Watch The Lamb
+artist: Ray Boltz
 key: C
-tempo: 
-time: 
-ccli: "29767"
-copyright: "1986 Shepherd Boy Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "children"
-  - "cross"
+  - children
+  - cross
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '29767'
+copyright: 1986 Shepherd Boy Music
+source: ''
+year: ''
 medley: []
-id: "9E952D6A-1CBB-40DE-947C-AEE5EE45EFF7"
+id: 9E952D6A-1CBB-40DE-947C-AEE5EE45EFF7
 ---
-
 [C]Walking on the [G/B]road to J[Am]erusalem[Am7]
 [F]The time had come to [G]sacrifice ag[C]ain.
 [C]My two small [G/B]sons, they walked bes[Am]ide me on the [Am7]road

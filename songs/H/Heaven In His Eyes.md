@@ -1,23 +1,26 @@
 ---
-title: "Heaven In His Eyes"
-artist: "Rich Mullins"
+title: Heaven In His Eyes
+artist: Rich Mullins
 key: G
-tempo: 
-time: 
-ccli: "2851273"
-copyright: "1998 Word Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "heaven"
+  - heaven
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2851273'
+copyright: '1998 Word Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "F3F30A4E-4CD0-4673-AA0F-0911E36EE53E"
+id: F3F30A4E-4CD0-4673-AA0F-0911E36EE53E
 ---
-
 INTRO:
 G - CMaj7 - G - CMaj7
 

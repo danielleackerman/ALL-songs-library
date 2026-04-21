@@ -1,24 +1,27 @@
 ---
-title: "Jesus Loves the Little Children of the World"
-artist: "Artist Name"
+title: Jesus Loves the Little Children of the World
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "children"
+  - jesus
+  - children
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "97E3A736-7C0D-46B9-87F3-09E0BE61AD50"
+id: 97E3A736-7C0D-46B9-87F3-09E0BE61AD50
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

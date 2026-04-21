@@ -1,22 +1,25 @@
 ---
-title: "Why Don’t You Lift Up Your Hands"
-artist: ""
+title: Why Don’t You Lift Up Your Hands
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F3E4EBD6-1F77-494B-9389-1D1D195A32B6"
+id: F3E4EBD6-1F77-494B-9389-1D1D195A32B6
 ---
-
 [G7]Why don’t you [C]lift up your hands, And praise the [G]Lord.
 [D]Praise Him for His mercy, [D7]Praise Him for His [G]love,
 

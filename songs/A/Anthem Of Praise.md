@@ -1,23 +1,26 @@
 ---
-title: "Anthem Of Praise"
-artist: "Carl Cartee"
+title: Anthem Of Praise
+artist: Carl Cartee
 key: G
-tempo: 
-time: 
-ccli: "4576604"
-copyright: "2004 Electra Car Publishing / Bracy Train Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4576604'
+copyright: 2004 Electra Car Publishing / Bracy Train Publishing
+source: ''
+year: ''
 medley: []
-id: "81442263-EC41-4927-BECE-EA40CA5AE7AF"
+id: 81442263-EC41-4927-BECE-EA40CA5AE7AF
 ---
-
 INTRO:
 [G][D][G/B][C]
 

@@ -1,24 +1,27 @@
 ---
-title: "Mercy and Grace"
-artist: "Clint Brown"
+title: Mercy and Grace
+artist: Clint Brown
 key: Bb
-tempo: 
-time: 
-ccli: "4579838"
-copyright: "2005 Clint Brown (Admin. by CSB Ministries, Inc.)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "mercy"
-  - "grace"
+  - mercy
+  - grace
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4579838'
+copyright: '2005 Clint Brown (Admin. by CSB Ministries, Inc.)'
+source: ''
+year: ''
 medley: []
-id: "17298329-678A-4EC8-ACE3-879E919CD8F6"
+id: 17298329-678A-4EC8-ACE3-879E919CD8F6
 ---
-
 Chorus 2x:
 [Bb]I need your mercy,
 I need your gr[Bb/G]ace

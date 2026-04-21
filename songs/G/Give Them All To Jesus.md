@@ -1,34 +1,38 @@
 ---
-title: "Give Them All To Jesus"
-artist: ""
+title: Give Them All To Jesus
+artist: ''
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "1975 by Erickson Music (SESAC)/West Point Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "jesus"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - jesus
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+keywords: ''
+ccli: ''
+copyright: 1975 by Erickson Music (SESAC)/West Point Music
+source: ''
+year: ''
 medley: []
-id: "3B591083-88ED-49E9-B394-F4EDBB0C2A63"
+id: 3B591083-88ED-49E9-B394-F4EDBB0C2A63
 ---
-
 [D]Are you tired[DM7] of chasing pretty[Em] rainbows
 Are y[A7sus]ou tired of [A7]spinning 'round and 'r[D]ound
 Wrap up all the shattered dreams of [Em]your life

@@ -1,24 +1,27 @@
 ---
-title: "Serve the Lord"
-artist: "Carman"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Serve the Lord
+artist: Carman
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "grace"
-  - "jesus"
+  - grace
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "01A656B1-7D5B-44F3-87D0-09CE2385AB17"
+id: 01A656B1-7D5B-44F3-87D0-09CE2385AB17
 ---
-
 VERSE 1:
 I believe in God the Father
 Jesus Christ, His only Son

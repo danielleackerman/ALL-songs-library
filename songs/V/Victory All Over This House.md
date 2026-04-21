@@ -1,26 +1,29 @@
 ---
-title: "Victory All Over This House"
-artist: ""
+title: Victory All Over This House
+artist: ''
 key: F
-tempo: 68
-time: "2/4"
-ccli: 
-copyright: 
+bpm: '68'
+time_sig: 2/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "power"
-  - "strength"
+  - power
+  - strength
 genre: []
-energy: medium-slow
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[I'M GONNA DANCE ALL OVER THIS HOUSE]]"
-id: "6E894266-E016-4B70-86F3-4EF0A4E506A9"
+  - '[[I''M GONNA DANCE ALL OVER THIS HOUSE]]'
+id: 6E894266-E016-4B70-86F3-4EF0A4E506A9
 ---
-
 Medley: I'm gonna dance all over this house
 
 VERSE 1:

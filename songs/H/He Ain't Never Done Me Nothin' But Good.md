@@ -1,22 +1,25 @@
 ---
-title: "He Ain't Never Done Me Nothin' But Good"
-artist: "The Isaacs"
+title: He Ain't Never Done Me Nothin' But Good
+artist: The Isaacs
 key: G
-tempo: 
-time: 
-ccli: "1935183"
-copyright: "1968 John T. Benson Publishing Company"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1935183'
+copyright: 1968 John T. Benson Publishing Company
+source: ''
+year: ''
 medley: []
-id: "8C54D592-3813-41C2-BEA9-20053638BF62"
+id: 8C54D592-3813-41C2-BEA9-20053638BF62
 ---
-
 CHORUS:
 [G]He ain't n[C]ever
 D[G]one me no[C]thin'

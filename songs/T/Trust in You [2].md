@@ -1,61 +1,42 @@
 ---
-title: "Trust in You"
-artist: "Lauren Daigle"
-key: A
-tempo: 
-time: 
-ccli: "7025522"
-copyright: "2014 Farren Love And War Publishing (Admin. by Capitol CMG Publishing (IMI)), Integrity's Alleluia! Music (Admin. by Capitol CMG Publishing IMI), Cent"
+title: Trust in you
+artist: Anthony Brown
+key: E
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "trust"
+  - trust
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C1F1C791-F290-482D-851F-D5130AA283CD"
+id: 0AA7B3DA-530D-4B65-9C9A-FEEBD4E0737F
 ---
-
-INTRO:
-[A5]
-
 VERSE 1:
-[A5]  Letting go of every single dream[F#m7],   I lay each one down at Your feet
-[Dsus2]  Every moment of my wandering[E]   never changes what You see
-[A5]  I've tried to win this war, I confess[F#m7],   my hands are weary, I need your rest
-[Dsus2]  Mighty warrior, King of the fight,[E]   no matter what I face, You're by my side
-
-CHORUS 1:
-[A5]  When You don't move the mountains[E]   I'm needing You to move
-[F#m7]  When You don't part the water[Dsus2]s    I wish I could walk through
-[A5]  When You don't give the answers[E]   as I cry out to You,
-[F#m7]  I will trust, I will trust[Dsus2],   I will trust in[A5] You
+[E]You did not create me to worry.  [C#m7]You did not create me to fear
+[A6/9]You created me to worship daily, so [E/B]Imma leave it all right [B]here
 
 VERSE 2:
-[A5]  Truth is, You know what tomorrow brings[F#m7],   there's not a day ahead You have not seen
-[Dsus2]  So, in all things, be my life and breath[E],  I want what You want, Lord, and nothing less
+My [E]hands are raised because I surrender. [C#m7]Your will is what’s best for me
+I [A6/9]worship You because You’re Jehovah Jireh I [E/B]bow before the King of [B]Kings
 
-CHORUS 2:
-[A5]  When You don't move the mountains[E]   I'm needing You to move
-[F#m7]  When You don't part the water[Dsus2]s   I wish I could walk through
-[A5]  When You don't give the answers[E]   as I cry out to You,
-[F#m7]  I will trust, I will t[Dsus2]rust, I will trust in[A5] You,[E]   I will trust in[F#m7] You[Dsus2]
+VERSE 3:
+[E]No more no crying no more complaining [C#m7]I believe Your word is true
+[A6/9]Lord You promised never to leave me lonely so [E/B]this is what I’m gonna [B]do
 
-BRIDGE:
-[Dsus2]  You are my strength and comfort,[E]   You are my steady hand
-[F#m7]  You are my firm foundation, the Rock on which I stand
-[Dsus2]  Your ways are always higher,[E]   Your plans are always good
-[F#m7]  There's not a place where I'll g[Dsus2]o    You've not already stood
+CHORUS:
+I will [A]trust [F#m7]in [C#m7]You [B]Lord, I will [A]trust [A/C#]in [E/B]You [B]Lord
+I will [A]put [F#m7]my [E/B]trust [B]in
 
-CHORUS 3:
-[A5]  When You don't move the mountains[E]   I'm needing You to move
-[F#m7]  When You don't part the water[Dsus2]s   I wish I could walk through
-[A5]  When You don't give the answers[E]   as I cry out to You,
-[F#m7]  I will trust, I will t[Dsus2]rust, I will trust in[A5] You,
-[A5]  When You don't move the mountains[E]   I'm needing You to move
-[F#m7]  When You don't part the water[Dsus2]s   I wish I could walk through
-[A5]  When You don't give the answers[E]   as I cry out to You,
-[F#m7]  I will trust, I will t[Dsus2]rust, I will trust in[A5] You[E],   I will trust in[F#m7] You[Dsus2]
-I will trust in[A5] You[E],   I will trust in[F#m7] You[Dsus2]
+VERSE 1:
+(Cut)
+You did not

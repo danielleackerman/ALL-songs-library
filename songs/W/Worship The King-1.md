@@ -1,24 +1,27 @@
 ---
-title: "Worship The King-1"
-artist: "Page 220"
+title: Worship The King-1
+artist: Page 220
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "king"
-  - "worship"
+  - king
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "565C45F7-D5B1-4F28-9F86-1DEEA2061DD2"
+id: 565C45F7-D5B1-4F28-9F86-1DEEA2061DD2
 ---
-
 [Eb2]Worship the King, [Gm7]Worship the [Cm7]King.  [Bb].   [Cm]
 
 [Fm7]We are [Fm]in His [Fm7]presence

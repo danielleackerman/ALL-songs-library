@@ -1,22 +1,25 @@
 ---
-title: "Feels Like"
-artist: "Jeremy Camp"
+title: Feels Like
+artist: Jeremy Camp
 key: E
-tempo: 
-time: 
-ccli: "4873723"
-copyright: "2006 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4873723'
+copyright: 2006 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "ACE01261-71E5-4DD8-AAA2-73DE44FA3DB8"
+id: ACE01261-71E5-4DD8-AAA2-73DE44FA3DB8
 ---
-
 [C#m]I fail in every single way but every time I he[B]ar you say
 [A]Faithful one into this place the place of rest where you bel[C]ong                               [B]                    [C#m]
 Anticipate the final day when I fall into Your warm embr[B]ace

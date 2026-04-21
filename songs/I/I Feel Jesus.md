@@ -1,33 +1,37 @@
 ---
-title: "I Feel Jesus"
-artist: "Carman"
+title: I Feel Jesus
+artist: Carman
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1B2DAFD4-EFD4-418B-9905-A2F8F66CDB50"
+id: 1B2DAFD4-EFD4-418B-9905-A2F8F66CDB50
 ---
-
 {artist: Carman}
 
 [G/A]I    [A7b9]feel    [D]Jesus,    [G/A]I    [A7b9]feel    [D]Jesus

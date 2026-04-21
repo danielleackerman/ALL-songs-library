@@ -1,23 +1,26 @@
 ---
-title: "What Child Is This"
-artist: "Third Day"
+title: What Child Is This
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "4868020"
-copyright: "Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "king"
+  - king
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4868020'
+copyright: Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "2FD71F97-DF3D-4D8F-91C0-A9ED238705E9"
+id: 2FD71F97-DF3D-4D8F-91C0-A9ED238705E9
 ---
-
 Capo 2
 
 INTRO:

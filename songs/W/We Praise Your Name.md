@@ -1,35 +1,39 @@
 ---
-title: "We Praise Your Name"
-artist: "Trent Cory"
+title: We Praise Your Name
+artist: Trent Cory
 key: Bb
-tempo: 135
-time: 
-ccli: 
-copyright: 
+bpm: '135'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FA6C4009-67BC-49DE-88FE-84AFA2B74D38"
+id: FA6C4009-67BC-49DE-88FE-84AFA2B74D38
 ---
-
 INTRO:
 [Gm][F/A][Eb][Gm]
 [F/A][Ab][Bb][Ab]

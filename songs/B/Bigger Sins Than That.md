@@ -1,23 +1,26 @@
 ---
-title: "Bigger Sins Than That"
-artist: ""
+title: Bigger Sins Than That
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "blood"
+  - blood
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "84304484-70DA-414D-9938-E9B17869C1D8"
+id: 84304484-70DA-414D-9938-E9B17869C1D8
 ---
-
 CHORUS:
 [Eb]There's bigger sins than [Gm7]that beneath the [Ab]Blood, [Eb/G]
 

@@ -1,22 +1,25 @@
 ---
-title: "Bring The Rain"
-artist: "MercyMe"
+title: Bring The Rain
+artist: MercyMe
 key: A
-tempo: 
-time: 
-ccli: "4770486"
-copyright: "2006 Simpleville Music / Wet As A Fish Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4770486'
+copyright: 2006 Simpleville Music / Wet As A Fish Music
+source: ''
+year: ''
 medley: []
-id: "49DCBC72-4784-4992-B999-0FBCEDD99A21"
+id: 49DCBC72-4784-4992-B999-0FBCEDD99A21
 ---
-
 VERSE 1:
 [A]I can count a million times [D/A]people asking me how I
 Can [A]praise You with all that I've gone [D]through

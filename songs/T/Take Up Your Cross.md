@@ -1,35 +1,39 @@
 ---
-title: "Take Up Your Cross"
-artist: "Brooklyn Tabernacle Choir"
+title: Take Up Your Cross
+artist: Brooklyn Tabernacle Choir
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "cross"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - cross
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4282F34E-6036-425E-9E30-091C55F70DC2"
+id: 4282F34E-6036-425E-9E30-091C55F70DC2
 ---
-
 CHORUS:
 [Bb/C]Take up your [F]cross and follow [Bb/F]Jesus   [F]
 [Bb/C]Take up your [F]cross   [Dm7], Every[Eb]day    [Bb/C]

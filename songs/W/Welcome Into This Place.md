@@ -1,40 +1,44 @@
 ---
-title: "Welcome Into This Place"
-artist: "Gary Oliver"
+title: Welcome Into This Place
+artist: Gary Oliver
 key: Eb
-tempo: 64
-time: 
-ccli: "661606"
-copyright: "1991 CMI-HP Publishing / Life Spring Music"
+bpm: '64'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "praise"
-  - "fellowship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - praise
+  - fellowship
 genre: []
-energy: slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "os-gospel-slow"
-  - "mod-southern-gospel-slow"
-keywords: "os gospel slow, mod southern gospel slow, fellowship, praise"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - os-gospel-slow
+  - mod-southern-gospel-slow
+keywords: 'os gospel slow, mod southern gospel slow, fellowship, praise'
+ccli: '661606'
+copyright: 1991 CMI-HP Publishing / Life Spring Music
+source: ''
+year: ''
 medley:
-  - "[[Let Your Glory Fill This Place]]"
-id: "E7ABFCCF-13EA-4E50-9715-CE2894E6E734"
+  - '[[Let Your Glory Fill This Place]]'
+id: E7ABFCCF-13EA-4E50-9715-CE2894E6E734
 ---
-
 by Orlando Juarez
 
 MEDLEY: Let Your Glory Fill This Place

@@ -1,34 +1,38 @@
 ---
-title: "When He Was On The Cross"
-artist: "Ronnie Hinson and Ronald Michael Payne"
+title: When He Was On The Cross
+artist: Ronnie Hinson and Ronald Michael Payne
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "love"
-  - "cross"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - love
+  - cross
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "59C84624-8358-4322-86AB-C0FD4505CDF1"
+id: 59C84624-8358-4322-86AB-C0FD4505CDF1
 ---
-
 VERSE 1:
 [Bb]I'm not [BbM7]on an [Cm/Bb]ego [Bb]trip  [Bdim] [Cm7]
 I'm nothing on my [F]own [Cm7]

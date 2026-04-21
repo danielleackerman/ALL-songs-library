@@ -1,22 +1,25 @@
 ---
-title: "I Can Only Imagine (alt. version)"
-artist: "MercyMe"
+title: I Can Only Imagine (alt. version)
+artist: MercyMe
 key: E
-tempo: 
-time: 
-ccli: "2978857"
-copyright: "2001, 2002 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2978857'
+copyright: '2001, 2002 Simpleville Music'
+source: ''
+year: ''
 medley: []
-id: "A49B1A94-7E16-4F20-99CC-28906E0D33BD"
+id: A49B1A94-7E16-4F20-99CC-28906E0D33BD
 ---
-
 Intro:		e-11-12-7-------7------7---------------5-
       		b-----------4-5-----4h5----4-5-2---4-5---                                                     (Repeat)
 

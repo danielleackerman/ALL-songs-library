@@ -1,23 +1,26 @@
 ---
-title: "I Need Jesus"
-artist: "Chris Jelderks"
+title: I Need Jesus
+artist: Chris Jelderks
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "72A9A410-8874-40CC-A3AA-0F488F0AAC76"
+id: 72A9A410-8874-40CC-A3AA-0F488F0AAC76
 ---
-
 BRIDGE 1:
 I need Jesus
 I need Jesus

@@ -1,24 +1,27 @@
 ---
-title: "Fields Of Grace"
-artist: "Big Daddy Weave"
+title: Fields Of Grace
+artist: Big Daddy Weave
 key: E
-tempo: 
-time: 
-ccli: "2795638"
-copyright: "2002 Integrity's Hosanna! Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "grace"
+  - love
+  - grace
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2795638'
+copyright: 2002 Integrity's Hosanna! Music
+source: ''
+year: ''
 medley: []
-id: "EBE3B6C9-E6E7-43D9-9817-B4B46D86F87E"
+id: EBE3B6C9-E6E7-43D9-9817-B4B46D86F87E
 ---
-
 [E]There's a place that I love to run and pla[E]y [Esus]     [E]  [Esus]
 [E]There's a place that I sing new songs of prai[E]se[Esus]     [E]  [Esus]
 

@@ -1,23 +1,26 @@
 ---
-title: "Jacob And Two Women"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Jacob And Two Women
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "women"
+  - women
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F0DB00C0-D5A4-4DEA-B74B-C3E551945FA1"
+id: F0DB00C0-D5A4-4DEA-B74B-C3E551945FA1
 ---
-
 Key:
 
 Genesis 29:16-50

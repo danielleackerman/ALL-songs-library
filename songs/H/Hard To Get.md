@@ -1,22 +1,25 @@
 ---
-title: "Hard To Get"
-artist: "Rich Mullins"
+title: Hard To Get
+artist: Rich Mullins
 key: G
-tempo: 
-time: 
-ccli: "2851280"
-copyright: "1998 Word Music, LLC / Liturgy Legacy Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2851280'
+copyright: '1998 Word Music, LLC / Liturgy Legacy Music'
+source: ''
+year: ''
 medley: []
-id: "0BE9F10F-0468-46A1-9A93-D8C98498CFF5"
+id: 0BE9F10F-0468-46A1-9A93-D8C98498CFF5
 ---
-
 [G]     [D/G]    [G]     [C/G]             [G]     [D/G]    [G]     [C/G]
 
 Y[G]ou who live in heav[D/G]en

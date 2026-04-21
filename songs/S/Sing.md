@@ -1,24 +1,27 @@
 ---
-title: "Sing"
-artist: "Jars Of Clay"
+title: Sing
+artist: Jars Of Clay
 key: A
-tempo: 
-time: 
-ccli: 
-copyright: "2002 Bridge Building Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "trust"
+  - love
+  - trust
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: '2002 Bridge Building Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "DA9C6B51-6C71-49C1-9536-E1226EE54428"
+id: DA9C6B51-6C71-49C1-9536-E1226EE54428
 ---
-
 VERSE:
 [A2]I love the way, I love the way you c[E]arry on,
 You[F#m] make me wanna say, you make me wanna sing another l[D]ove song

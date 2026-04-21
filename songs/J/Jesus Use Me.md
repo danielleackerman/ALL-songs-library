@@ -1,39 +1,43 @@
 ---
-title: "Jesus Use Me"
-artist: "Jack and Billy Campbell"
+title: Jesus Use Me
+artist: Jack and Billy Campbell
 key: D
-tempo: 
-time: "4/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 4/4
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "help"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - help
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-slow-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-slow"
-  - "os-apo-med"
-keywords: "os apo slow, os apo med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-slow-solo-songs-southern-gospel-traditional-worship
+  - os-apo-slow
+  - os-apo-med
+keywords: 'os apo slow, os apo med'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C547D064-AAD2-4513-A9B2-23E81B9ADD93"
+id: C547D064-AAD2-4513-A9B2-23E81B9ADD93
 ---
-
 VERSE 1:
 [D]Dear Lord I'll be a [G]witness, if you help my [D]weakness
 I know that I'm not worthy, Lord, of [A]Thee.

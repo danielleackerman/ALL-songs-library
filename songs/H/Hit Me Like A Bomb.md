@@ -1,23 +1,26 @@
 ---
-title: "Hit Me Like A Bomb"
-artist: "Third Day"
+title: Hit Me Like A Bomb
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "6452317"
-copyright: "Third Day"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6452317'
+copyright: Third Day
+source: ''
+year: ''
 medley: []
-id: "574511C3-40ED-45C0-A33C-657319D8D6B1"
+id: 574511C3-40ED-45C0-A33C-657319D8D6B1
 ---
-
 Capo: 1
 
 INTRO:

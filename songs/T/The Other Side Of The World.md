@@ -1,22 +1,25 @@
 ---
-title: "The Other Side Of The World"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: The Other Side Of The World
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8AC3DEB0-9F7B-4252-BCEB-04E54FDE7526"
+id: 8AC3DEB0-9F7B-4252-BCEB-04E54FDE7526
 ---
-
 Key:
 
 The Other Side of the World

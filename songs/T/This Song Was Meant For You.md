@@ -1,22 +1,25 @@
 ---
-title: "This Song Was Meant For You"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: This Song Was Meant For You
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "528FBB0F-B74C-4C77-855A-3BF3D0E1179F"
+id: 528FBB0F-B74C-4C77-855A-3BF3D0E1179F
 ---
-
 Key:
 
 This Song Was Meant For You

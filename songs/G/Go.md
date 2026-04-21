@@ -1,22 +1,25 @@
 ---
-title: "Go"
-artist: "MercyMe"
+title: Go
+artist: MercyMe
 key: C
-tempo: 
-time: 
-ccli: "3912908"
-copyright: "2002 Simpleville Music / Songs From The Indigo Room / Wordspring Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3912908'
+copyright: '2002 Simpleville Music / Songs From The Indigo Room / Wordspring Music, LLC'
+source: ''
+year: ''
 medley: []
-id: "498FE7DA-8B60-47FC-9549-6307DB103C81"
+id: 498FE7DA-8B60-47FC-9549-6307DB103C81
 ---
-
 Intro:   (First 4 lines of verse)
 
 [Am]My l[F]ife has been insti[C]lled

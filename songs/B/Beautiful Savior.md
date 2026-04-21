@@ -1,24 +1,27 @@
 ---
-title: "Beautiful Savior"
-artist: "Casting Crowns"
+title: Beautiful Savior
+artist: Casting Crowns
 key: G
-tempo: 
-time: 
-ccli: "2492216"
-copyright: "1998 Kingsway's Thankyou"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "holiness"
-  - "heaven"
+  - holiness
+  - heaven
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2492216'
+copyright: 1998 Kingsway's Thankyou
+source: ''
+year: ''
 medley: []
-id: "E6EF2A51-D94D-4D72-A69E-CA6F96BEEC22"
+id: E6EF2A51-D94D-4D72-A69E-CA6F96BEEC22
 ---
-
 INTRO:
 [Em7] [F2] [G]  [G]
 [Em7] [F2] [G]  [G]

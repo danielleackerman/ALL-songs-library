@@ -1,23 +1,26 @@
 ---
-title: "Let Praise Be Given"
-artist: ""
+title: Let Praise Be Given
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "853ED5C9-CF74-4427-8D85-0C01700F8255"
+id: 853ED5C9-CF74-4427-8D85-0C01700F8255
 ---
-
 [G]Let praise be given to the [C9]King of [G]Kings,
 Hosan[B/F#]na [Em9]Glory, [A13]Hallelujahs [D]bring,
 [G]Let's testify, [G/B]Let's glorify,

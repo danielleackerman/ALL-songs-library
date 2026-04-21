@@ -1,32 +1,36 @@
 ---
-title: "Written In Red"
-artist: "by Jensen Gordon"
+title: Written In Red
+artist: by Jensen Gordon
 key: G
-tempo: 
-time: 
-ccli: "262744"
-copyright: "1984 Word Music, LLC"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "love"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - love
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: "Janet Paschal"
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '262744'
+copyright: '1984 Word Music, LLC'
+source: Janet Paschal
+year: ''
 medley: []
-id: "F19A7B98-E6A7-478A-BB53-659F34A4FA78"
+id: F19A7B98-E6A7-478A-BB53-659F34A4FA78
 ---
-
 INTRO:
 [G] [F] [C/E] [Cm]
 

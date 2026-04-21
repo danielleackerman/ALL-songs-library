@@ -1,36 +1,40 @@
 ---
-title: "In Everything Give Thanks"
-artist: "Brooklyn Tabernacle Choir, Ron Kenoly"
+title: In Everything Give Thanks
+artist: 'Brooklyn Tabernacle Choir, Ron Kenoly'
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "praise"
-  - "king"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - praise
+  - king
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CA1D5CA9-6B2F-42AD-9320-0E0DBE196BB5"
+id: CA1D5CA9-6B2F-42AD-9320-0E0DBE196BB5
 ---
-
 {artist: Brooklyn Tabernacle Choir, Ron Kenoly}
 
 CHORUS:

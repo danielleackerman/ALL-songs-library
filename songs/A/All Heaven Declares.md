@@ -1,38 +1,42 @@
 ---
-title: "All Heaven Declares"
-artist: "Martin Ball, written by Tom Fettke / Noel Richards / Tricia Richards"
+title: All Heaven Declares
+artist: 'Martin Ball, written by Tom Fettke / Noel Richards / Tricia Richards'
 key: A
-tempo: 
-time: 
-ccli: "120556"
-copyright: "1987 Thankyou Music, Admin. Capitol CMG Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "heaven"
-  - "beauty"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - heaven
+  - beauty
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-contemporary-jesus-movement-maranatha-medium-praise-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-contemporary-jesus-movement-maranatha-medium-praise-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '120556'
+copyright: '1987 Thankyou Music, Admin. Capitol CMG Publishing'
+source: ''
+year: ''
 medley: []
-id: "7DAEB08E-0F5B-4B30-A08B-918FD0BA768E"
+id: 7DAEB08E-0F5B-4B30-A08B-918FD0BA768E
 ---
-
 INTRO:
 [A]
 

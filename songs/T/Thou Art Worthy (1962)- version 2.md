@@ -1,24 +1,27 @@
 ---
-title: "Thou Art Worthy (1962)- version 2"
-artist: "Pauline Michael Mills"
+title: Thou Art Worthy (1962)- version 2
+artist: Pauline Michael Mills
 key: F
-tempo: 85
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '85'
+time_sig: 4/4
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: medium
 profile:
-  - "os-apo-slow"
-keywords: "os apo slow"
-source: "1898-1991"
-year: 
+  - os-apo-slow
+keywords: os apo slow
+ccli: ''
+copyright: ''
+source: 1898-1991
+year: ''
 medley: []
-id: "5B02815B-B6D2-4D0E-ABDE-DCB88712782D"
+id: 5B02815B-B6D2-4D0E-ABDE-DCB88712782D
 ---
-
 [F]Thou art worthy, [Bb]Thou art worthy,
 [F]Thou art [Dm]worthy,  O [C7/G]Lord [C7][Bb/D][C7/E]
 [F]To receive glory, [Bb]glory and honor,

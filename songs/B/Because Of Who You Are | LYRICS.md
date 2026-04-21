@@ -1,26 +1,29 @@
 ---
-title: "Because Of Who You Are | LYRICS"
-artist: "Martha Munizzi"
-key: 
-tempo: 55
-time: "4/4"
-ccli: 
-copyright: 
+title: Because Of Who You Are | LYRICS
+artist: Martha Munizzi
+key: ''
+bpm: '55'
+time_sig: 4/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
-  - "gospel-ccli"
-  - "ccli"
+  - worship
+  - gospel-ccli
+  - ccli
 genre: []
-energy: slow
 profile:
-  - "mod-apo-slow"
-keywords: "mod. apo. slow, gospel/ccli, ccli"
-source: 
-year: 
+  - mod-apo-slow
+keywords: 'mod. apo. slow, gospel/ccli, ccli'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9D8A3B99-6137-4454-9BF0-40854820C4AA"
+id: 9D8A3B99-6137-4454-9BF0-40854820C4AA
 ---
-
 VERSE 1:
 
 Because of who You are I give You glory

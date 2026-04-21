@@ -1,34 +1,38 @@
 ---
-title: "Turn Your Eyes Upon Jesus"
-artist: "Helen H. Lemmel"
+title: Turn Your Eyes Upon Jesus
+artist: Helen H. Lemmel
 key: F
-tempo: 55
-time: "3/4"
-ccli: "15960"
-copyright: "Public Domain"
+bpm: '55'
+time_sig: 3/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "light"
+  - altar-songs
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - jesus
+  - light
 genre: []
-energy: slow
 profile:
-  - "altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
+  - >-
+    altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '15960'
+copyright: Public Domain
+source: ''
 year: 1921
 medley: []
-id: "C7566222-D2E1-49BB-9EC4-70AABE52A045"
+id: C7566222-D2E1-49BB-9EC4-70AABE52A045
 ---
-
 CHORUS:
 [F]Turn Your [C]eyes [C7]upon [Dm]je[F7]sus
 Look [Bb]full in His wonder[Gm7]ful [C]face

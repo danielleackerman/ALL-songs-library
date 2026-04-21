@@ -1,22 +1,25 @@
 ---
-title: "I Will Bless Thee, O Lord - Easy| Lyrics"
-artist: "Esther Watanabe"
-key: 
-tempo: 130
-time: 
-ccli: 
-copyright: 
+title: 'I Will Bless Thee, O Lord - Easy| Lyrics'
+artist: Esther Watanabe
+key: ''
+bpm: '130'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium-fast
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DB39080B-D79F-4781-A435-51A125517B3B"
+id: DB39080B-D79F-4781-A435-51A125517B3B
 ---
-
 fast 3 130 BPM
 F
 

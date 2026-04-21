@@ -1,23 +1,26 @@
 ---
-title: "Hear My Calling Great Redemeer"
-artist: "Fernando Ortega"
+title: Hear My Calling Great Redemeer
+artist: Fernando Ortega
 key: E
-tempo: 
-time: 
-ccli: "3205213"
-copyright: "1997 MargeeDays Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "calling"
+  - calling
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3205213'
+copyright: 1997 MargeeDays Music
+source: ''
+year: ''
 medley: []
-id: "D2754E32-285D-44A3-9A2F-85286367145F"
+id: D2754E32-285D-44A3-9A2F-85286367145F
 ---
-
 INTRO:
 [E]  [-]  [A2]   [-]  [E]  [-]  [A2/C#]      [-]  [E]  [-]  [B]  [-]  [E]
 

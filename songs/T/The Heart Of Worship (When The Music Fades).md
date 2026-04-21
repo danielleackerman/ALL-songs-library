@@ -1,23 +1,26 @@
 ---
-title: "The Heart Of Worship (When The Music Fades)"
-artist: "Matt Redman"
+title: The Heart Of Worship (When The Music Fades)
+artist: Matt Redman
 key: D
-tempo: 
-time: 
-ccli: "2296522"
-copyright: "1997 Thankyou Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2296522'
+copyright: 1997 Thankyou Music
+source: ''
+year: ''
 medley: []
-id: "D94CCBD9-BF76-4461-93C4-FFC657CA0161"
+id: D94CCBD9-BF76-4461-93C4-FFC657CA0161
 ---
-
 VERSE 1:
 [D2]  When the music fades
 [A2]  And all is stripped away,[Em7]   and I simply come[A7sus]

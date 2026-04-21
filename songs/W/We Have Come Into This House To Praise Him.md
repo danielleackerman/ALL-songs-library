@@ -1,33 +1,37 @@
 ---
-title: "We Have Come Into This House To Praise Him"
-artist: ""
+title: We Have Come Into This House To Praise Him
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "26B11C01-7709-4A88-9A89-9157E3557BF0"
+id: 26B11C01-7709-4A88-9A89-9157E3557BF0
 ---
-
 CHORUS:
 [Ab/Bb]We have [Eb]come into this [Ab7]house to [Eb]praise Him
 [Bb9]Lift up holy hands, [Eb]praise the Great I Am

@@ -1,24 +1,29 @@
 ---
-title: "Joy, Joy To The World"
-artist: "David Phelps"
+title: 'Joy, Joy To The World'
+artist: David Phelps
 key: F
-tempo: 
-time: 
-ccli: "3457607"
-copyright: "2001 Bridge Building Music, Inc. / Matt Huesmann Music / Soulwriter Music Company, Inc. / Winkin' Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "praise"
+  - jesus
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3457607'
+copyright: >-
+  2001 Bridge Building Music, Inc. / Matt Huesmann Music / Soulwriter Music
+  Company, Inc. / Winkin' Music
+source: ''
+year: ''
 medley: []
-id: "DE70708B-6375-49FA-8EA6-86D35DE0D093"
+id: DE70708B-6375-49FA-8EA6-86D35DE0D093
 ---
-
 [Fm]Like a drama unfolding, the [Eb]curtain was opening
 An [Db]audience of angels was [C/F]holding its breath
 A [Db]census, a manger, two [Csus]travel worn [C/F]strangers

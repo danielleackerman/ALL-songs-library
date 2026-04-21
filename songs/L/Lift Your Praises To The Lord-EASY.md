@@ -1,22 +1,25 @@
 ---
-title: "Lift Your Praises To The Lord-EASY"
-artist: ""
+title: Lift Your Praises To The Lord-EASY
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "60C17F36-3563-4990-A44C-7254058B9038"
+id: 60C17F36-3563-4990-A44C-7254058B9038
 ---
-
 [Ab/Bb]Lift your [Eb]praises [Bb]to the [Eb]Lord
 [Eb]Lift your [Bb]praises to the [Eb]Lord
 [Eb/Bb]Lift Him [Ab]higher in one ac[Eb]co[Cm]ord

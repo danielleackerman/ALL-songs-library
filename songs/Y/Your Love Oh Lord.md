@@ -1,24 +1,27 @@
 ---
-title: "Your Love Oh Lord"
-artist: "Third Day"
+title: Your Love Oh Lord
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "1894255"
-copyright: "1999 New Spring / Vandura 2500 Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "king"
+  - love
+  - king
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1894255'
+copyright: 1999 New Spring / Vandura 2500 Songs
+source: ''
+year: ''
 medley: []
-id: "BBC2537C-9808-47B3-99F4-A7965FC58FA1"
+id: BBC2537C-9808-47B3-99F4-A7965FC58FA1
 ---
-
 This is an awesome song. The first time I heard it, I fell in love
 with it. It is based on Psalms 36. (True worship is of the heart, not
 the lips!)

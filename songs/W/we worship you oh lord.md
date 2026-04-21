@@ -1,23 +1,26 @@
 ---
-title: "We Worship You Oh Lord"
-artist: ""
+title: We Worship You Oh Lord
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Artist Name"
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: Artist Name
+year: ''
 medley: []
-id: "CC53C1CF-C00C-4E19-A545-988F01DA3EE1"
+id: CC53C1CF-C00C-4E19-A545-988F01DA3EE1
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

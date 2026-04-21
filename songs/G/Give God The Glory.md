@@ -1,24 +1,27 @@
 ---
-title: "Give God The Glory"
-artist: ""
+title: Give God The Glory
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "blood"
+  - jesus
+  - blood
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1217928C-491D-4E79-A533-41FF2ABE07FB"
+id: 1217928C-491D-4E79-A533-41FF2ABE07FB
 ---
-
 [F]Give God the [Bb]glory
 [G]Give God the [C]glory
 [A7]Give God the [Dm]glory[Bb]

@@ -1,22 +1,25 @@
 ---
-title: "Nothing Else"
-artist: "Cody Carnes"
+title: Nothing Else
+artist: Cody Carnes
 key: C
-tempo: 
-time: 
-ccli: "7123436"
-copyright: "2018 Every Square Inch"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '7123436'
+copyright: 2018 Every Square Inch
+source: ''
+year: ''
 medley: []
-id: "B61238E2-3D66-4FEB-B408-17DD8AAB6E45"
+id: B61238E2-3D66-4FEB-B408-17DD8AAB6E45
 ---
-
 INTRO:
 [C][Dm7] [F] [C] [Csus] [C]
 [Dm7][Fmaj7] [C] [Csus] [C]

@@ -1,36 +1,40 @@
 ---
-title: "His Strength Is Perfect"
-artist: ""
+title: His Strength Is Perfect
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "power"
-  - "strength"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - power
+  - strength
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "4F3DB4AF-E7E1-4FC9-84C5-F5222AB2F69D"
+id: 4F3DB4AF-E7E1-4FC9-84C5-F5222AB2F69D
 ---
-
 VERSE 1:
 [Eb]I can [Fm7]do all [Eb/G]things,[Ab/Bb] through [Eb/G]Christ who [Fm/Ab]gives me [Eb]strength
 [Eb7]But [Eb7/G]some[Ab]times I [Eb/G]wonder what [Fm]He can [Ab/Bb]do through [Eb]me.    [Ab/Bb]

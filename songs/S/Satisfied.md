@@ -1,23 +1,26 @@
 ---
-title: "Satisfied"
-artist: "Gaither Vocal Band"
+title: Satisfied
+artist: Gaither Vocal Band
 key: F
-tempo: 80
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '80'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: medium-slow
 profile:
-  - "os-apo-med-slow"
-keywords: "os apo med slow"
-source: 
-year: 
+  - os-apo-med-slow
+keywords: os apo med slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5FA5E765-9279-4E18-93C4-815EBFB17D90"
+id: 5FA5E765-9279-4E18-93C4-815EBFB17D90
 ---
-
 {artist: Gaither Vocal Band}
 
 CHORUS:

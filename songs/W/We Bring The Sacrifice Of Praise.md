@@ -1,35 +1,39 @@
 ---
-title: "We Bring The Sacrifice Of Praise"
-artist: "Kirk Dearman"
+title: We Bring The Sacrifice Of Praise
+artist: Kirk Dearman
 key: F
-tempo: 96
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '96'
+time_sig: 4/4
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "sacrifice"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - sacrifice
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-  - "mod-apo-fast"
-keywords: "mod apo fast"
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+  - mod-apo-fast
+keywords: mod apo fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "404C8FE8-9EB2-4395-8F5B-F665845FD5D6"
+id: 404C8FE8-9EB2-4395-8F5B-F665845FD5D6
 ---
-
 CHORUS:
 [F]We bring the sacrifice of praise
 into the [Bb]house of the [F]Lord,

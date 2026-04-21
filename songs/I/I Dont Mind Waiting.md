@@ -1,24 +1,27 @@
 ---
-title: "I Dont Mind Waiting"
-artist: "Juanita Bynum"
+title: I Dont Mind Waiting
+artist: Juanita Bynum
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "mod-apo-slow"
-  - "mod-gospel-slow"
-keywords: "mod apo slow, mod gospel slow"
-source: 
-year: 
+  - mod-apo-slow
+  - mod-gospel-slow
+keywords: 'mod apo slow, mod gospel slow'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CDD3025A-6907-4BD3-862E-9D0D7851D9DB"
+id: CDD3025A-6907-4BD3-862E-9D0D7851D9DB
 ---
-
 [C]I dont mind [C2]wait[F]ting  I dont mind [F]wa [G]a.   [C]ting
 
 I don't mind [C2]waiting on You [Gsus]Lord[G]

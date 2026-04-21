@@ -1,20 +1,30 @@
 ---
-title: "Song Title"
-artist: "Artist Name"
-key: A
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Song Title
+artist: Artist Name
+key: C
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E86B6805-44D4-4D63-9426-C59A0CF5FD57"
+id: E2F85A38-F7B6-4703-9934-11BF5144DE47
 ---
+VERSE 1:
+[C]Type your lines of the [F]song here
+Just [C]use line breaks to [G]make lines
+[Am]Placing the [G/B]chords [F]where you [Em]want them
 
-
+CHORUS:
+[C2]You can also [Csus4]repeat the chorus with [G]notes
+(Repeat 3x)

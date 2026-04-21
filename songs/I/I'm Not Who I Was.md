@@ -1,22 +1,25 @@
 ---
-title: "I'm Not Who I Was"
-artist: "Brandon Heath"
+title: I'm Not Who I Was
+artist: Brandon Heath
 key: D
-tempo: 
-time: 
-ccli: "4610474"
-copyright: "2005 New Spring / Capilano Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4610474'
+copyright: 2005 New Spring / Capilano Music
+source: ''
+year: ''
 medley: []
-id: "593699CD-F43F-47D3-BDE8-5B991E60A8BC"
+id: 593699CD-F43F-47D3-BDE8-5B991E60A8BC
 ---
-
 Intro :  D    A9     C9       G9
 
 D

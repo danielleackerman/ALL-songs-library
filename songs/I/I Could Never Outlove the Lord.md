@@ -1,32 +1,36 @@
 ---
-title: "I Could Never Outlove the Lord"
-artist: "Bill and Gloria Gaither"
+title: I Could Never Outlove the Lord
+artist: Bill and Gloria Gaither
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - altar-songs
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0AFEFA2B-D199-4E69-B2DB-E499351A3BE0"
+id: 0AFEFA2B-D199-4E69-B2DB-E499351A3BE0
 ---
-
 CHORUS:
 [Ab/Bb]I want to [Eb]live the [Ab]way he [Eb]wants me [Ab]to [Eb]live,
 I want [Fm]give un [Bb]til there’s just [Ab]no more [Bb7/D]to [EbM7]give

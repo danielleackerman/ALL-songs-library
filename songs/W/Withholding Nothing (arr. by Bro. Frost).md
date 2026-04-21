@@ -1,22 +1,25 @@
 ---
-title: "Withholding Nothing (arr. by Bro. Frost)"
-artist: "William McDowell"
+title: Withholding Nothing (arr. by Bro. Frost)
+artist: William McDowell
 key: Bb
-tempo: 59
-time: 
-ccli: 
-copyright: 
+bpm: '59'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1A845B9D-B546-4852-B013-08D3FFB14E02"
+id: 1A845B9D-B546-4852-B013-08D3FFB14E02
 ---
-
 INTRO:
  [Bb][F]  [/]   [F/A][Bb][Eb2]  [/]  [Gm][Bb][F]
 

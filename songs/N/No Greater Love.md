@@ -1,24 +1,27 @@
 ---
-title: "No Greater Love"
-artist: "Rachel Lampa"
+title: No Greater Love
+artist: Rachel Lampa
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "1999 His Eye Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "beauty"
+  - love
+  - beauty
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 1999 His Eye Music
+source: ''
+year: ''
 medley: []
-id: "8156F66E-8E55-4083-B894-587CAA1F74E6"
+id: 8156F66E-8E55-4083-B894-587CAA1F74E6
 ---
-
 [G]1. Before I knew y[Em]our name[C],  You knew my ev'[Am]ry bre[D]ath.
 Bef[G]ore I found my [Em]way,  [C]You knew my ev'ry [Am]step.[D]
 [C]Before I knew everyt[G]hing that I'd need,  [Am]You gave it all to [C]me[D]

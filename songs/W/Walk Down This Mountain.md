@@ -1,24 +1,27 @@
 ---
-title: "Walk Down This Mountain"
-artist: "Bebo Norman"
+title: Walk Down This Mountain
+artist: Bebo Norman
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: "1999 New Spring Publishing, Inc. / AppStreet Publishing, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "life"
+  - love
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: '1999 New Spring Publishing, Inc. / AppStreet Publishing, Inc.'
+source: ''
+year: ''
 medley: []
-id: "1E853555-CBA4-47C3-A73C-66FA1151AFB8"
+id: 1E853555-CBA4-47C3-A73C-66FA1151AFB8
 ---
-
 Intro: E / A / | Bsus / / |
 
 VERSE 1:

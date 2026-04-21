@@ -1,22 +1,25 @@
 ---
-title: "The Altar And The Door"
-artist: "Casting Crowns"
+title: The Altar And The Door
+artist: Casting Crowns
 key: Ab
-tempo: 
-time: 
-ccli: "5077054"
-copyright: "2007 My Refuge Music / Club Zoo Music / SWECS Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5077054'
+copyright: 2007 My Refuge Music / Club Zoo Music / SWECS Music
+source: ''
+year: ''
 medley: []
-id: "945B7C42-8198-4D35-9E58-B66F42F1CDF9"
+id: 945B7C42-8198-4D35-9E58-B66F42F1CDF9
 ---
-
 VERSE 1:
 [Db2]Care[Ab2]less, I am [Eb]reckless,
 I’m a [Db2]wrong-way travelin’ [Ab2]slowly unravelin’ [Eb]shell of a  man.

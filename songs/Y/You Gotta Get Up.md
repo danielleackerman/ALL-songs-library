@@ -1,22 +1,25 @@
 ---
-title: "You Gotta Get Up"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: You Gotta Get Up
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "614F601D-5148-4D88-9510-67EAE4DFDAD8"
+id: 614F601D-5148-4D88-9510-67EAE4DFDAD8
 ---
-
 Key:
 
 You Gotta Get Up (Christmas Song)

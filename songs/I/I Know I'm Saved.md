@@ -1,37 +1,41 @@
 ---
-title: "I Know I'm Saved"
-artist: "Rev. A.L. Clanton"
+title: I Know I'm Saved
+artist: Rev. A.L. Clanton
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "sutl"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - sutl
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med"
-keywords: "sutl, o.s. apo. med."
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med
+keywords: 'sutl, o.s. apo. med.'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0766908A-426B-4040-9D1F-4A707E091EBA"
+id: 0766908A-426B-4040-9D1F-4A707E091EBA
 ---
-
 {artist: Rev. A.L. Clanton}
 
 VERSE 1:

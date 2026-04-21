@@ -1,23 +1,26 @@
 ---
-title: "Shine On"
-artist: "MercyMe"
+title: Shine On
+artist: MercyMe
 key: C
-tempo: 
-time: 
-ccli: "4312260"
-copyright: "2004 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "light"
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4312260'
+copyright: 2004 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "B6F36CA2-3066-4E99-9514-DDA491A2769A"
+id: B6F36CA2-3066-4E99-9514-DDA491A2769A
 ---
-
 [C]  [F]  [C]  [F]
 [Am]If we're to be the light that shines for all of man[Dm]
 Then how [C]can we light the way if we don't go[G] to them[Dm]

@@ -1,24 +1,27 @@
 ---
-title: "Praise Him Today, Church"
-artist: "John Rowsey, Jeff Steele"
+title: 'Praise Him Today, Church'
+artist: 'John Rowsey, Jeff Steele'
 key: G
-tempo: 70
-time: 
-ccli: 
-copyright: 
+bpm: '70'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: medium-slow
 profile:
-  - "os-southern-gospel-med-slow"
-keywords: "os southern gospel med slow"
-source: 
-year: 
+  - os-southern-gospel-med-slow
+keywords: os southern gospel med slow
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5AFC6725-10AF-4C7B-BFC5-A07C7B38C920"
+id: 5AFC6725-10AF-4C7B-BFC5-A07C7B38C920
 ---
-
 CHORUS:
 [G]Praise Him today church,[A9]
 [D9]praise Him today [G]church,

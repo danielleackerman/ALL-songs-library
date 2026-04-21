@@ -1,22 +1,27 @@
 ---
-title: "Rain Lord"
-artist: "Mark Condon"
+title: Rain Lord
+artist: Mark Condon
 key: Dm
-tempo: 
-time: 
-ccli: "3065563"
-copyright: "© 1999 Bridge Building Music, Inc. (Admin. by Brentwood-Benson Music Publishing, Inc., 741 Cool Springs Blvd., Franklin TN 37067)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3065563'
+copyright: >-
+  © 1999 Bridge Building Music, Inc. (Admin. by Brentwood-Benson Music
+  Publishing, Inc., 741 Cool Springs Blvd., Franklin TN 37067)
+source: ''
+year: ''
 medley: []
-id: "BDB555CB-43F6-4FC7-BEEB-C1F763EDC57C"
+id: BDB555CB-43F6-4FC7-BEEB-C1F763EDC57C
 ---
-
 CHORUS 1:
 
 [Dm]Holy Spirit [Gm]rain, [A]rain down on [Dm]us

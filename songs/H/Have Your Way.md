@@ -1,35 +1,41 @@
 ---
-title: "Have Your Way"
-artist: "Darlene Zschech"
+title: Have Your Way
+artist: Darlene Zschech
 key: F
-tempo: 
-time: 
-ccli: "2582683"
-copyright: "1998 Hillsong Publishing (Admin. in U.S. and Canada by Integrity's Hossana! Music)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '2582683'
+copyright: >-
+  1998 Hillsong Publishing (Admin. in U.S. and Canada by Integrity's Hossana!
+  Music)
+source: ''
+year: ''
 medley: []
-id: "1E248388-E03C-4227-9C49-931AC86985C8"
+id: 1E248388-E03C-4227-9C49-931AC86985C8
 ---
-
 [F] This yearning deep [Gm]within me
  [C]Reaches out to You[Gm]
  Your oil [F]of joy for mourning[Gm]

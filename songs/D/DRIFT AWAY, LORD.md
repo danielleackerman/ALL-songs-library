@@ -1,23 +1,26 @@
 ---
-title: "Drift Away, Lord"
-artist: "Artist Name"
+title: 'Drift Away, Lord'
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DAC8045E-0619-4E4A-A0D5-9536A3B6F7BB"
+id: DAC8045E-0619-4E4A-A0D5-9536A3B6F7BB
 ---
-
 He called out over the ocean
 And He drew me this old way
 If Your souls not anchored in Jesus

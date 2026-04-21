@@ -1,24 +1,27 @@
 ---
-title: "Love Come to Life"
-artist: "Big Daddy Weave"
+title: Love Come to Life
+artist: Big Daddy Weave
 key: C
-tempo: 
-time: 
-ccli: "6221050"
-copyright: "2011 Word Music, LLC / Weave Country"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "life"
+  - love
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6221050'
+copyright: '2011 Word Music, LLC / Weave Country'
+source: ''
+year: ''
 medley: []
-id: "C02DB870-8161-4EFC-9088-8186155B1099"
+id: C02DB870-8161-4EFC-9088-8186155B1099
 ---
-
 INTRO:
 [C] | [C] | [C] | [C] |
 

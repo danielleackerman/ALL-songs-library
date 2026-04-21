@@ -1,23 +1,26 @@
 ---
-title: "Always Have, Always Will"
-artist: "Avalon"
+title: 'Always Have, Always Will'
+artist: Avalon
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "68EEF92E-A364-4B10-AF28-E7C64C70E766"
+id: 68EEF92E-A364-4B10-AF28-E7C64C70E766
 ---
-
 Key:
 Copyright: 1999 Vogon Poetry
 

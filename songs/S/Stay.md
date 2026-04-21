@@ -1,22 +1,25 @@
 ---
-title: "Stay"
-artist: "Jeremy Camp"
+title: Stay
+artist: Jeremy Camp
 key: C
-tempo: 
-time: 
-ccli: "3903027"
-copyright: "2002 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3903027'
+copyright: 2002 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "CCD5F7DC-00A4-4CF2-8964-9E6234B478D2"
+id: CCD5F7DC-00A4-4CF2-8964-9E6234B478D2
 ---
-
 Capo: 6
 INTRO:
 [Am7] - [G] - [F7] - [G]

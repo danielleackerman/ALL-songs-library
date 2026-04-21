@@ -1,22 +1,25 @@
 ---
-title: "Beyond Measure"
-artist: "Jeremy Camp"
+title: Beyond Measure
+artist: Jeremy Camp
 key: C
-tempo: 
-time: 
-ccli: "4873651"
-copyright: "2006 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4873651'
+copyright: 2006 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "726DE909-D51A-4214-BF6E-518C7F6FBD7C"
+id: 726DE909-D51A-4214-BF6E-518C7F6FBD7C
 ---
-
 VERSE 1:
 [Am]      [G/D]       [C]                 [Am]     [G/D]      [Cadd9]       [C]
 The [Am]fog has finally cleare[G/D]d to see,

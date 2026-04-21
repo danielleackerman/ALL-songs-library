@@ -1,24 +1,27 @@
 ---
-title: "In Jesus Name"
-artist: "Darlene Zschech"
+title: In Jesus Name
+artist: Darlene Zschech
 key: D
-tempo: 
-time: 
-ccli: "6454638"
-copyright: "2013 EWI"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "christ"
+  - jesus
+  - christ
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6454638'
+copyright: 2013 EWI
+source: ''
+year: ''
 medley: []
-id: "3AEFC1AE-9AE4-45C3-BBB6-D8928D59644B"
+id: 3AEFC1AE-9AE4-45C3-BBB6-D8928D59644B
 ---
-
 INTRO:
 [D] - [C] - [D] - [C] - [D] - [C] - [D]
 

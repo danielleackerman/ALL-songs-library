@@ -1,21 +1,24 @@
 ---
-title: "Celebration Medley (G) - Oneness Hymns"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Celebration Medley (G) - Oneness Hymns
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "celebration"
+  - celebration
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "1BD51937-325E-4454-97EB-33D16296514D"
+id: 1BD51937-325E-4454-97EB-33D16296514D
 ---
-
 

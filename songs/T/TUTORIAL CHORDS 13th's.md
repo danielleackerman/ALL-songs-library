@@ -1,22 +1,25 @@
 ---
-title: "Tutorial Chords 13th's"
-artist: "Artist Name"
+title: Tutorial Chords 13th's
+artist: Artist Name
 key: Am
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "ADB57B78-68F7-4697-9078-EC6F949EB101"
+id: ADB57B78-68F7-4697-9078-EC6F949EB101
 ---
-
 Contemporary:  6 minor/root,7th.                       Cheater's 13th
 
 [(C13th)]         [Am/C,Bb]                                  [C7add6]       [(A)]

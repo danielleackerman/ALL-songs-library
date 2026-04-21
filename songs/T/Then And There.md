@@ -1,35 +1,39 @@
 ---
-title: "Then And There"
-artist: "Lauren Talley"
+title: Then And There
+artist: Lauren Talley
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "life"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - life
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "903491CC-685D-41C2-B189-C0335AFE684A"
+id: 903491CC-685D-41C2-B189-C0335AFE684A
 ---
-
 VERSE 1:
 [F2]Every road I [Fsus/Bb]walked had led to [Fsus/C]nowhere.    [C2]
 [F2/A]Everything I [Fsus/Bb]tried had turned out [Fsus/C]wrong.  [C]

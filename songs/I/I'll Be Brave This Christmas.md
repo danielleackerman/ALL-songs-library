@@ -1,22 +1,25 @@
 ---
-title: "I'll Be Brave This Christmas"
-artist: "Big Daddy Weave"
+title: I'll Be Brave This Christmas
+artist: Big Daddy Weave
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "0793AD27-1230-4ED0-82FC-4F676EA7B209"
+id: 0793AD27-1230-4ED0-82FC-4F676EA7B209
 ---
-
 INTRO:
 [Gm][a]j7  |  [Gm][a]j7/[D]  |  [Em9] |  [Cm][a]j9
 

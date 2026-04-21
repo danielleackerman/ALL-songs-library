@@ -1,22 +1,25 @@
 ---
-title: "More To This"
-artist: "Third Day"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: More To This
+artist: Third Day
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A0716F53-0967-411B-A2B4-D13CC5183E32"
+id: A0716F53-0967-411B-A2B4-D13CC5183E32
 ---
-
 Key:
 
 -------------------------------------------------------------------------

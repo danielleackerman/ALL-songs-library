@@ -1,23 +1,26 @@
 ---
-title: "From Glory to Glory-Easy"
-artist: "FAST 3"
+title: From Glory to Glory-Easy
+artist: FAST 3
 key: G
-tempo: 135
-time: 
-ccli: 
-copyright: 
+bpm: '135'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
+  - glory
 genre: []
-energy: medium-fast
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "6DD036B2-D948-4C6F-A570-6AEC9317F802"
+id: 6DD036B2-D948-4C6F-A570-6AEC9317F802
 ---
-
 135 bpm
 [G]
 

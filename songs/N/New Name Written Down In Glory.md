@@ -1,36 +1,40 @@
 ---
-title: "New Name Written Down In Glory"
-artist: "Charity Gayle | David Gentiles | Denita Gibbs | The Emerging Sound"
+title: New Name Written Down In Glory
+artist: Charity Gayle | David Gentiles | Denita Gibbs | The Emerging Sound
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "glory"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - glory
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: "MEDLEY // Jesus Is Mine; as published by People & Songs"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: MEDLEY // Jesus Is Mine; as published by People & Songs
+year: ''
 medley: []
-id: "B863E80E-9E0D-460D-99B1-3539C370069C"
+id: B863E80E-9E0D-460D-99B1-3539C370069C
 ---
-
 INTRO:
 [| Gmaj7] [| A] [Bm] [| G] [|A] [Bm]
 

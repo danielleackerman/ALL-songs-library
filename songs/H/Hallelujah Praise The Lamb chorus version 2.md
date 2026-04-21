@@ -1,23 +1,26 @@
 ---
-title: "Hallelujah Praise The Lamb chorus version 2"
-artist: ""
+title: Hallelujah Praise The Lamb chorus version 2
+artist: ''
 key: G
-tempo: 66
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '66'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A218BCED-0CD9-4631-8193-B9080B79E2A7"
+id: A218BCED-0CD9-4631-8193-B9080B79E2A7
 ---
-
 INTRO:
 [C/D]  [D7]  [|] [G]  [C]  [|] [G] [D/F#] [Em7] [Cm6/Eb] [|] [G/D]  [C/D]  [|] [D7] [Gsus] [G] [D7]
 

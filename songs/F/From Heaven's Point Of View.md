@@ -1,32 +1,36 @@
 ---
-title: "From Heaven's Point Of View"
-artist: ""
+title: From Heaven's Point Of View
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "heaven"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - heaven
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "47B5D846-1DF0-4D25-93B2-C115F9802D2B"
+id: 47B5D846-1DF0-4D25-93B2-C115F9802D2B
 ---
-
 VERSE 1:
 [C/D]To[G2]day I face a mountain
 that I [G7]have no [F/A]strength [G7/B]to [C2]climb  [Bm7][Am7]

@@ -1,23 +1,26 @@
 ---
-title: "The Stone"
-artist: "Jars Of Clay"
+title: The Stone
+artist: Jars Of Clay
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: "2000 Pyanagrin Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "greatness"
+  - greatness
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2000 Pyanagrin Music
+source: ''
+year: ''
 medley: []
-id: "6B9187BD-D65F-44F2-B0C1-269A5CA7CB70"
+id: 6B9187BD-D65F-44F2-B0C1-269A5CA7CB70
 ---
-
 [C#m] (046600)
 [B] (024400)
 [F#m] (044200)

@@ -1,24 +1,27 @@
 ---
-title: "Let It Rise"
-artist: "Big Daddy Weave"
+title: Let It Rise
+artist: Big Daddy Weave
 key: Gb
-tempo: 
-time: 
-ccli: "2240585"
-copyright: "1997, 1999 Maranatha Praise, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
-  - "king"
+  - glory
+  - king
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2240585'
+copyright: '1997, 1999 Maranatha Praise, Inc.'
+source: ''
+year: ''
 medley: []
-id: "A5905057-9B7B-48F7-8A99-9F772392C045"
+id: A5905057-9B7B-48F7-8A99-9F772392C045
 ---
-
 VS   CH    VS    CH2       Br    KeY     Vs    CH   tag
 
 Let the [F#]glory of the Lord rise among us

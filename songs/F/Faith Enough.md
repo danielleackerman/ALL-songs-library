@@ -1,23 +1,26 @@
 ---
-title: "Faith Enough"
-artist: "Jars Of Clay"
+title: Faith Enough
+artist: Jars Of Clay
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: "2002 Bridge Building Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "faith"
+  - faith
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: '2002 Bridge Building Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "B9AC55DB-53C0-4B8D-8A0B-9D3FDA4817F8"
+id: B9AC55DB-53C0-4B8D-8A0B-9D3FDA4817F8
 ---
-
 Intro: E B C#m, A F#m E (x2)
 
 VERSE:

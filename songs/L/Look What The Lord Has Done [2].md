@@ -1,43 +1,74 @@
 ---
-title: "Look What The Lord Has Done"
-artist: "Key of: F"
-key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Look What The Lord Has Done
+artist: Mark David Hanby
+key: F
+bpm: '120'
+time_sig: 4/4
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - altar-songs
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "altar-songs-black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
-medley: []
-id: "B38C3F32-5611-4972-A06F-A198270410F7"
+  - >-
+    altar-songs-black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-fast
+keywords: os apo fast
+ccli: ''
+copyright: ''
+source: '1974'
+year: ''
+medley:
+  - '[[enemy''s camp]]'
+  - '[[can you believe]]'
+id: 803AFE31-0D82-4C6B-924C-BB8E6C43331C
 ---
+{artist: Mark David Hanby (1974)}
 
-[Eb]Look what the Lord has done
-[Eb]Look what the Lord has done
-[Eb]He healed my body
-[Eb]He touched my mind
-[Eb]He saved me just in [Eb/Eb-G-Ab-A]time
-[Ab7]I'm gonna praise His Name
-[Ab7]Each day He's just the same
-[Db-E-F]I'm [Eb]gonna praise Him
-[Db-E-F]I'm [Eb]gonna praise Him
-[Bb7/Bb-D-Eb]Look what the Lord has [Eb]done
+CHORUS:
+[F]Look what the [Eb]Lord [Bb/D]has [F/C]done,
+[F]Look what the [Eb]lord [Bb/D]has [F/C]done,
+[F]He healed  my [Eb]bo[Bb/D]dy, [F]He touched my [Eb]mi[Bb/D]nd
+[F]He  saved me just in [F][G][Ab][A]time,
+[Bb7]I'm  gonna  praise His [Bb7]name,
+Each day He's just the [Bb7]same,[B]
+[C7]I'm  gonna  praise  Him, I'm  gonna praise  Him,
+Look what the  [C7/D]Lord  [C7/E]has  [F]done.
+VERSE 1:
+The lame man was sitting outside the gate
+Begging alms of those who entered in
+When Peter and John they came upon him
+The lame man was expecting from them
+Peter said silver and gold have I none
+but such as I have give it to thee
+That's when the spirit touched the lame man
+and he leaped to his feet crying
+look what God's done for me
+
+VERSE 2:
+I was bound by chains of darkness and sin
+I had no hope and no peace of mind
+Though my sins were red as Scarlet
+He washed them white as snow
+And He opened up my blinded eyes
+Now my soul will rejoice since I've made him my choice
+I've got Joy, peace, everything I need
+Now my name's been written down in the Lamb's book of life
+Can't you see what God has done for me
+
+MEDLEY: enemy's camp // can you believe

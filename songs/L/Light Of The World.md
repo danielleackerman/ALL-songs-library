@@ -1,24 +1,27 @@
 ---
-title: "Light Of The World"
-artist: "Watermark"
+title: Light Of The World
+artist: Watermark
 key: F
-tempo: 
-time: 
-ccli: "4787383"
-copyright: "2005 Word Music, LLC / Sweater Weather Music / Rocketown Music, LLC."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "light"
+  - praise
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4787383'
+copyright: '2005 Word Music, LLC / Sweater Weather Music / Rocketown Music, LLC.'
+source: ''
+year: ''
 medley: []
-id: "1358185A-6385-4038-9AD8-FA948AAC3510"
+id: 1358185A-6385-4038-9AD8-FA948AAC3510
 ---
-
 Piano and others (key of F)
 Acoustic (Key of G, Capo 10) or (Key of E, Capo 1)
 

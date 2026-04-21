@@ -1,23 +1,26 @@
 ---
-title: "Turn Your Eyes Upon Jesus Medley"
-artist: "Third Day"
+title: Turn Your Eyes Upon Jesus Medley
+artist: Third Day
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "AE94FBE4-17BE-44E1-9C71-B594AB7913E4"
+id: AE94FBE4-17BE-44E1-9C71-B594AB7913E4
 ---
-
 Song:  Turn Your Eyes Upon Jesus~Can't Help Falling In Love~
        With Or Without You
 

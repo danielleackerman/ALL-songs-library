@@ -1,0 +1,1880 @@
+MOVED: 2013-09-08 Bobs songs.md
+  service: Bobs songs
+  target: unclear-needs-review/
+MOVED: 2013-12-15 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-02-02 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-02-08 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2014-02-15 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-02-27 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-02-27 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-03-02 AM.md
+  service: AM
+  target: sunday-am/
+MOVED: 2014-03-07 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-03-09 ALTAR CALL.md
+  service: ALTAR CALL
+  target: altar/
+MOVED: 2014-03-09 AM.md
+  service: AM
+  target: sunday-am/
+MOVED: 2014-03-09 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-03-16 AM.md
+  service: AM
+  target: sunday-am/
+MOVED: 2014-03-16 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-03-16 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2014-03-24 ALTAR CALL PM.md
+  service: ALTAR CALL PM
+  target: altar/
+MOVED: 2014-03-24 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-03-27 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-03-30 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2014-04-06 AM.md
+  service: AM
+  target: sunday-am/
+MOVED: 2014-05-14 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-05-18 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-05-21 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-05-25 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-05-28 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-06-01 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-06-01 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-06-08 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-06-12 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-06-15 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-06-19 PM WEDS.md
+  service: PM WEDS
+  target: midweek/
+MOVED: 2014-06-22 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-06-22 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-06-25 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-07-06 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-07-09 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-07-13 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-07-17 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-07-20 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-07-20 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-07-27 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-07-27 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-07-30 PM WDNESDAY.md
+  service: PM WDNESDAY
+  target: midweek/
+MOVED: 2014-07-30 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-08-03 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-08-10 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-08-10 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-08-24 Cooley Choruses.md
+  service: Cooley Choruses
+  target: unclear-needs-review/
+MOVED: 2014-08-31 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-09-05 EASY SONGS.md
+  service: EASY SONGS
+  target: unclear-needs-review/
+MOVED: 2014-09-07 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2014-09-14 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-09-14 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-09-15 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-09-17 -PM WEDNESDAY.md
+  service: -PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-09-17 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-09-17 Untitled Set.md
+  service: Untitled Set
+  target: unclear-needs-review/
+MOVED: 2014-09-21 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-09-21 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-09-24 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-09-28 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-09-28 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-09-30 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-09-30 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-09-30 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-09-30 Untitled Set.md
+  service: Untitled Set
+  target: unclear-needs-review/
+MOVED: 2014-10-01 MY SET.md
+  service: MY SET
+  target: unclear-needs-review/
+MOVED: 2014-10-01 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-10-02 MY SET.md
+  service: MY SET
+  target: unclear-needs-review/
+MOVED: 2014-10-05 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-10-05 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-10-08 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-10-12 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-10-13 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-10-14 MY SET.md
+  service: MY SET
+  target: unclear-needs-review/
+MOVED: 2014-10-15 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-10-17 MY SET.md
+  service: MY SET
+  target: unclear-needs-review/
+MOVED: 2014-10-19 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-10-19 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-10-22 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-10-24 PM FRIDAY.md
+  service: PM FRIDAY
+  target: midweek/
+MOVED: 2014-10-26 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-10-26 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-10-29 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-11-02 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-11-03 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-11-05 MY SET 11-5-14.md
+  service: MY SET 11-5-14
+  target: unclear-needs-review/
+MOVED: 2014-11-09 MY SET 11-9-14 PM.md
+  service: MY SET 11-9-14 PM
+  target: unclear-needs-review/
+MOVED: 2014-11-09 MY SET 11-9-14.md
+  service: MY SET 11-9-14
+  target: unclear-needs-review/
+MOVED: 2014-11-12 MY SET 11-12-14.md
+  service: MY SET 11-12-14
+  target: unclear-needs-review/
+MOVED: 2014-11-16 MY SET 11-16-14 AM.md
+  service: MY SET 11-16-14 AM
+  target: unclear-needs-review/
+MOVED: 2014-11-19 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-11-23 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-11-24 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-11-30 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-11-30 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-12-01 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-12-03 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-12-07 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-12-07 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-12-10 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-12-14 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-12-14 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-12-14 Untitled Set.md
+  service: Untitled Set
+  target: unclear-needs-review/
+MOVED: 2014-12-17 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2014-12-17 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2014-12-21 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-12-22 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2014-12-28 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2014-12-28 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-01-04 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-01-04 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-01-07 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-01-09 I love you Lord we exalt thee.md
+  service: I love you Lord/ we exalt thee
+  target: unclear-needs-review/
+MOVED: 2015-01-09 I will enter his gates- upbeat.md
+  service: I will enter his gates- upbeat
+  target: unclear-needs-review/
+MOVED: 2015-01-10 I know God is a good god.md
+  service: I know God is a good god
+  target: unclear-needs-review/
+MOVED: 2015-01-11 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-01-25 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-01-25 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2015-01-26 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-01-28 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-02-01 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-02-04 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-02-08 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-02-09 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-02-15 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-02-18 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-02-22 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-02-23 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-03-01 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-03-04 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-03-08 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-03-08 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2015-03-09 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-03-11 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-03-15 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-03-18 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-03-22 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-03-22 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-03-25 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-03-27 Sunday Night Blowout.md
+  service: Sunday Night Blowout
+  target: unclear-needs-review/
+MOVED: 2015-03-29 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-03-29 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-04-05 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-04-08 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-04-12 Am SUNDAY.md
+  service: Am SUNDAY
+  target: sunday-am/
+MOVED: 2015-04-12 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2015-04-14 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-04-15 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-04-19 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-04-19 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-04-19 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-04-26 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-04-26 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2015-05-01 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-05-01 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-05-03 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-05-10 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-05-13 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-05-17 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-05-17 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-05-20 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-05-24 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-05-26 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-05-30 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-05-31 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-06-01 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-06-07 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-06-13 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-06-14 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-06-15 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-06-21 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-06-21 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-06-24 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-06-28 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-06-28 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-07-05 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-07-12 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-07-14 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-07-19 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-07-26 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-07-26 MY SET 7-26-15.md
+  service: MY SET 7-26-15
+  target: unclear-needs-review/
+MOVED: 2015-07-26 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-08-08 PM WEDS.md
+  service: PM WEDS
+  target: midweek/
+MOVED: 2015-08-09 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-08-12 MY SET- 81115.md
+  service: MY SET- 8/11/15
+  target: unclear-needs-review/
+MOVED: 2015-08-16 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-08-23 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-08-26 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-08-30 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-08-31 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-09-02 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-09-06 MY SET 962015.md
+  service: MY SET 9/6/2015
+  target: unclear-needs-review/
+MOVED: 2015-09-13 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-09-20 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-09-20 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-09-20 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-09-20 Untitled Set.md
+  service: Untitled Set
+  target: unclear-needs-review/
+MOVED: 2015-09-24 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-09-27 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-09-27 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-10-03 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-10-04 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-10-06 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2015-10-11 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-10-12 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-10-15 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-10-18 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-10-19 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-10-25 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-10-29 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-10-29 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-11-01 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-11-08 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-11-08 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-11-08 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-11-12 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-11-15 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-11-17 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-11-22 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-11-24 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-11-25 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-11-29 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-12-02 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-12-06 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-12-10 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-12-13 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-12-14 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2015-12-16 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2015-12-20 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2015-12-26 MY SET -122715.md
+  service: MY SET -12/27/15
+  target: unclear-needs-review/
+MOVED: 2015-12-30 MY SET 123015.md
+  service: MY SET 12/30/15
+  target: unclear-needs-review/
+MOVED: 2016-01-03 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-01-03 PM SINDAY.md
+  service: PM SINDAY
+  target: unclear-needs-review/
+MOVED: 2016-01-06 Songbook songs.md
+  service: Songbook songs
+  target: unclear-needs-review/
+MOVED: 2016-01-10 A,.md
+  service: A,
+  target: unclear-needs-review/
+MOVED: 2016-01-10 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-01-11 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-01-14 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-01-17 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-01-18 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-01-21 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2016-01-24 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-01-24 PRACTICE SESSIONS.md
+  service: PRACTICE SESSIONS
+  target: practice/
+MOVED: 2016-01-25 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-01-31 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-02-04 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2016-02-07 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-02-07 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-02-14 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-02-17 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2016-02-21 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-02-21 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-02-25 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2016-03-02 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2016-03-03 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-03-03 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2016-03-09 MY SET 3916.md
+  service: MY SET 3/9/16
+  target: unclear-needs-review/
+MOVED: 2016-03-13 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-03-14 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-04-13 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2016-04-17 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-04-18 Youth Friday Night.md
+  service: Youth Friday Night
+  target: midweek/
+MOVED: 2016-04-18 Youth Saturday Afternoon.md
+  service: Youth Saturday Afternoon
+  target: unclear-needs-review/
+MOVED: 2016-04-22 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-04-24 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-04-28 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-05-01 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-05-05 MY SET.md
+  service: MY SET
+  target: unclear-needs-review/
+MOVED: 2016-05-08 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-05-12 MY SET 51216.md
+  service: MY SET 5/12/16
+  target: unclear-needs-review/
+MOVED: 2016-05-15 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-05-19 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-05-24 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-05-26 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-05-29 MY SET 5-29-16.md
+  service: MY SET 5-29-16
+  target: unclear-needs-review/
+MOVED: 2016-06-02 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-06-04 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-06-09 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-06-11 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-06-12 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-06-12 PRACTICE SESSION Sat. 6-11-16.md
+  service: PRACTICE SESSION Sat. 6-11-16
+  target: practice/
+MOVED: 2016-06-17 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-06-19 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-06-23 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-06-25 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2016-06-26 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-07-07 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-07-17 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-07-21 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-07-22 PM FRIDAY.md
+  service: PM FRIDAY
+  target: midweek/
+MOVED: 2016-07-24 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-07-24 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-07-29 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-07-31 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-08-06 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-08-06 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-08-07 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-08-11 MY SET.md
+  service: MY SET
+  target: unclear-needs-review/
+MOVED: 2016-08-12 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-08-14 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-08-14 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2016-08-21 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-08-24 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-08-24 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-08-27 MY SET--Bro Jensen AM SUN.md
+  service: MY SET--Bro Jensen AM SUN
+  target: sunday-am/
+MOVED: 2016-09-01 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-09-04 MY SET.md
+  service: MY SET
+  target: unclear-needs-review/
+MOVED: 2016-09-11 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-09-13 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-09-13 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-09-17 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-09-18 MY SET.md
+  service: MY SET
+  target: unclear-needs-review/
+MOVED: 2016-09-18 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-09-23 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-09-25 SUNDAY AM.md
+  service: SUNDAY AM
+  target: sunday-am/
+MOVED: 2016-09-26 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-09-29 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-10-02 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-10-11 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-10-11 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-10-11 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-10-15 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-10-16 MY SET -JENSEN.md
+  service: MY SET -JENSEN
+  target: unclear-needs-review/
+MOVED: 2016-10-16 MY SET--JELDERKS.md
+  service: MY SET--JELDERKS
+  target: unclear-needs-review/
+MOVED: 2016-10-21 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-10-23 AM SUNDA.md
+  service: AM SUNDA
+  target: sunday-am/
+MOVED: 2016-10-27 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-10-30 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-11-03 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-11-06 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-11-06 MY SET--BRO JENSEN--SUN PM.md
+  service: MY SET--BRO JENSEN--SUN PM
+  target: sunday-pm/
+MOVED: 2016-11-10 MY SET--PM THURSDAY-- JELDERKS.md
+  service: MY SET--PM THURSDAY-- JELDERKS
+  target: midweek/
+MOVED: 2016-11-11 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-11-13 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-11-13 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-11-18 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-11-20 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-11-22 PM TUESDAY.md
+  service: PM TUESDAY
+  target: midweek/
+MOVED: 2016-11-25 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-11-27 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-11-27 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-12-01 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-12-04 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-12-05 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-12-09 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-12-11 ALTAR MEDLEY.md
+  service: ALTAR MEDLEY
+  target: altar/
+MOVED: 2016-12-11 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2016-12-11 SUNDAY AM.md
+  service: SUNDAY AM
+  target: sunday-am/
+MOVED: 2016-12-15 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-12-18 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2016-12-22 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-12-24 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2016-12-25 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-01-01 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-01-08 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-01-08 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2017-01-09 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2017-01-31 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-01-31 SUNDAY AM.md
+  service: SUNDAY AM
+  target: sunday-am/
+MOVED: 2017-02-16 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2017-02-26 SUNDAY AM.md
+  service: SUNDAY AM
+  target: sunday-am/
+MOVED: 2017-03-03 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2017-03-05 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-03-19 Am.md
+  service: Am
+  target: sunday-am/
+MOVED: 2017-03-19 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2017-03-23 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2017-03-26 SUNDAY AM.md
+  service: SUNDAY AM
+  target: sunday-am/
+MOVED: 2017-04-02 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-04-06 My set-PM THURSDAY.md
+  service: My set-PM THURSDAY
+  target: midweek/
+MOVED: 2017-04-06 THURSDAY PM.md
+  service: THURSDAY PM
+  target: midweek/
+MOVED: 2017-04-09 MICHEL'S SET PM SUNDAY.md
+  service: MICHEL'S SET: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2017-04-09 MY SET- AM SUNDAY.md
+  service: MY SET- AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-04-23 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-04-30 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-04-30 n-PRACTICE SESSION.md
+  service: n-PRACTICE SESSION
+  target: practice/
+MOVED: 2017-05-07 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-05-10 MY SET.md
+  service: MY SET
+  target: unclear-needs-review/
+MOVED: 2017-05-11 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2017-05-14 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-05-17 PM WEDNESDAY.md
+  service: PM WEDNESDAY
+  target: midweek/
+MOVED: 2017-05-21 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-05-21 PRACTICE SESSION  LYRICS.md
+  service: PRACTICE SESSION | LYRICS
+  target: practice/
+MOVED: 2017-05-21 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2017-05-22 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2017-05-28 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-06-04 MICHEL'S SET--.md
+  service: MICHEL'S SET--
+  target: unclear-needs-review/
+MOVED: 2017-06-04 MY SET-AM SUNDAY-JENSEN.md
+  service: MY SET-AM SUNDAY-JENSEN
+  target: sunday-am/
+MOVED: 2017-06-08 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2017-06-11 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-06-11 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2017-06-18 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-06-22 Untitled Set.md
+  service: Untitled Set
+  target: unclear-needs-review/
+MOVED: 2017-06-25 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-07-02 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-07-11 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-07-11 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2017-07-11 THURSDAY PM -- MICHEL.md
+  service: THURSDAY PM -- MICHEL
+  target: midweek/
+MOVED: 2017-07-12 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-07-12 MY SET-PRACTICE SESSION.md
+  service: MY SET-PRACTICE SESSION
+  target: practice/
+MOVED: 2017-07-12 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2017-07-12 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2017-07-12 SUNDAY.md
+  service: SUNDAY
+  target: unclear-needs-review/
+MOVED: 2017-07-12 Untitled Set.md
+  service: Untitled Set
+  target: unclear-needs-review/
+MOVED: 2017-07-13 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-07-13 MY SET PRACTICE SESSION.md
+  service: MY SET PRACTICE SESSION
+  target: practice/
+MOVED: 2017-07-13 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2017-07-13 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2017-07-15 MY SET--SIS D.md
+  service: MY SET--SIS D
+  target: unclear-needs-review/
+MOVED: 2017-07-17 n-PRACTICE LIST.md
+  service: n-PRACTICE LIST
+  target: practice/
+MOVED: 2017-07-24 -AM SUNDAY.md
+  service: -AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-07-24 n-PM SUNDAY.md
+  service: n-PM SUNDAY
+  target: sunday-pm/
+MOVED: 2017-07-24 n-PM THURSDAY.md
+  service: n-PM THURSDAY
+  target: midweek/
+MOVED: 2017-07-25 PM TUES.md
+  service: PM TUES
+  target: midweek/
+MOVED: 2017-07-27 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2017-07-30 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-08-06 -SUNDAY AM.md
+  service: -SUNDAY AM
+  target: sunday-am/
+MOVED: 2017-08-10 n-PM THURSDAY.md
+  service: n-PM THURSDAY
+  target: midweek/
+MOVED: 2017-08-13 -AM SUNDAY.md
+  service: -AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-08-13 n-PM SUNDAY.md
+  service: n-PM SUNDAY
+  target: sunday-pm/
+MOVED: 2017-08-13 n-PRACTICE SESSION.md
+  service: n-PRACTICE SESSION
+  target: practice/
+MOVED: 2017-08-17 n-PRACTICE SESSION.md
+  service: n-PRACTICE SESSION
+  target: practice/
+MOVED: 2017-08-20 -AM SUNDAY.md
+  service: -AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-09-03 MY SET 8317.md
+  service: MY SET 8/3/17
+  target: unclear-needs-review/
+MOVED: 2017-09-07 N-MY SET.md
+  service: N-MY SET
+  target: unclear-needs-review/
+MOVED: 2017-09-10 -AM SUNDAY.md
+  service: -AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-09-11 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-09-11 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2017-09-17 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-09-24 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-10-15 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-10-22 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-10-28 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-10-28 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2017-10-28 —THURSDAY PM.md
+  service: —THURSDAY PM
+  target: midweek/
+MOVED: 2017-10-29 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-10-29 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2017-11-02 —THURSDAY PM.md
+  service: —THURSDAY PM
+  target: midweek/
+MOVED: 2017-11-05 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-11-12 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-11-19 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-11-19 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2017-11-26 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-11-26 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2017-12-03 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-12-03 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2017-12-24 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2017-12-31 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-01-21 —SUNDAY PM.md
+  service: —SUNDAY PM
+  target: sunday-pm/
+MOVED: 2018-02-01 —THURSDAY PM.md
+  service: —THURSDAY PM
+  target: midweek/
+MOVED: 2018-02-08 —THURSDAY PM.md
+  service: —THURSDAY PM
+  target: midweek/
+MOVED: 2018-02-11 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2018-02-18 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-03-04 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-03-04 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2018-03-22 —THURSDAY PM.md
+  service: —THURSDAY PM
+  target: midweek/
+MOVED: 2018-04-10 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2018-04-10 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2018-04-10 —AM SATURDAY.md
+  service: —AM SATURDAY
+  target: unclear-needs-review/
+MOVED: 2018-04-10 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-04-10 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2018-04-10 —PM THURSDAY.md
+  service: —PM THURSDAY
+  target: midweek/
+MOVED: 2018-04-10 —THURSDAY PM.md
+  service: —THURSDAY PM
+  target: midweek/
+MOVED: 2018-04-11 N-my set.md
+  service: N-my set
+  target: unclear-needs-review/
+MOVED: 2018-04-11 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-04-11 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2018-04-11 —PM THURSDAY.md
+  service: —PM THURSDAY
+  target: midweek/
+MOVED: 2018-04-11 —THURSDAY PM.md
+  service: —THURSDAY PM
+  target: midweek/
+MOVED: 2018-04-19 —SUNDAY AM.md
+  service: —SUNDAY AM
+  target: sunday-am/
+MOVED: 2018-04-19 —SUNDAY PM.md
+  service: —SUNDAY PM
+  target: sunday-pm/
+MOVED: 2018-04-19 —THURSDAY PM.md
+  service: —THURSDAY PM
+  target: midweek/
+MOVED: 2018-04-22 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2018-04-23 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-05-08 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-05-08 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2018-05-17 —PM THURSDAY.md
+  service: —PM THURSDAY
+  target: midweek/
+MOVED: 2018-05-20 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2018-05-24 —PM THURSDAY.md
+  service: —PM THURSDAY
+  target: midweek/
+MOVED: 2018-05-27 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-05-31 —PM THURSDAY.md
+  service: —PM THURSDAY
+  target: midweek/
+MOVED: 2018-06-05 N-Practice Session.md
+  service: N-Practice Session
+  target: practice/
+MOVED: 2018-06-10 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2018-07-08 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-07-15 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-07-22 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-07-29 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-08-02 —PM THURSDAY.md
+  service: —PM THURSDAY
+  target: midweek/
+MOVED: 2018-08-05 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-08-07 PRACTICE SESSION.md
+  service: PRACTICE SESSION
+  target: practice/
+MOVED: 2018-08-09 —PM THURSDAY.md
+  service: —PM THURSDAY
+  target: midweek/
+MOVED: 2018-08-12 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2018-08-12 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-08-12 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2018-08-12 —PM THURSDAY.md
+  service: —PM THURSDAY
+  target: midweek/
+MOVED: 2018-08-19 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-08-19 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2018-08-26 -My set.md
+  service: -My set
+  target: unclear-needs-review/
+MOVED: 2018-08-26 My set.md
+  service: My set
+  target: unclear-needs-review/
+MOVED: 2018-08-26 Oh draw me Lord.md
+  service: Oh draw me Lord
+  target: unclear-needs-review/
+MOVED: 2018-08-26 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-08-30 —PM THURSDAY.md
+  service: —PM THURSDAY
+  target: midweek/
+MOVED: 2018-09-06 —PM THURSDAY.md
+  service: —PM THURSDAY
+  target: midweek/
+MOVED: 2018-09-09 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-09-09 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2018-09-14 PM FRIDAY.md
+  service: PM FRIDAY
+  target: midweek/
+MOVED: 2018-09-16 —AM SUNDAY.md
+  service: —AM SUNDAY
+  target: sunday-am/
+MOVED: 2018-09-16 —PM SUNDAY.md
+  service: —PM SUNDAY
+  target: sunday-pm/
+MOVED: 2018-09-17 SING UNTO THE LORD.md
+  service: SING UNTO THE LORD
+  target: unclear-needs-review/
+MOVED: 2019-04-10 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2019-04-10 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2019-04-10 SUNDAY.md
+  service: SUNDAY
+  target: unclear-needs-review/
+MOVED: 2019-04-10 Sunday AM.md
+  service: Sunday AM
+  target: sunday-am/
+MOVED: 2019-04-10 Sunday PM.md
+  service: Sunday PM
+  target: sunday-pm/
+MOVED: 2019-04-10 Thursday PM.md
+  service: Thursday PM
+  target: midweek/
+MOVED: 2019-04-10 Untitled Set.md
+  service: Untitled Set
+  target: unclear-needs-review/
+MOVED: 2019-04-14 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2019-04-14 Thurs PM.md
+  service: Thurs PM
+  target: midweek/
+MOVED: 2019-04-15 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2019-10-13 Sun pm.md
+  service: Sun pm
+  target: sunday-pm/
+MOVED: 2019-10-17 Thursday.md
+  service: Thursday
+  target: midweek/
+MOVED: 2019-10-20 Sun morn.md
+  service: Sun morn
+  target: unclear-needs-review/
+MOVED: 2019-11-17 Sun pm.md
+  service: Sun pm
+  target: sunday-pm/
+MOVED: 2020-02-04 CHOIR PRACTICE.md
+  service: CHOIR PRACTICE
+  target: practice/
+MOVED: 2020-02-06 Chris.md
+  service: Chris
+  target: unclear-needs-review/
+MOVED: 2020-02-16 Untitled Set.md
+  service: Untitled Set
+  target: unclear-needs-review/
+MOVED: 2020-06-18 He’s in This Place.md
+  service: He’s in This Place
+  target: unclear-needs-review/
+MOVED: 2020-06-20 He’s In This Place.md
+  service: He’s In This Place
+  target: unclear-needs-review/
+MOVED: 2020-06-21 AM Sunday 2020.md
+  service: AM Sunday 2020
+  target: sunday-am/
+MOVED: 2020-06-28 —new.SUNDAY AM.md
+  service: —new.SUNDAY AM
+  target: sunday-am/
+MOVED: 2020-07-12 —new SUN AM.md
+  service: —new SUN AM
+  target: sunday-am/
+MOVED: 2020-07-16 —new 2020.md
+  service: —new 2020
+  target: unclear-needs-review/
+MOVED: 2020-07-19 New songs.md
+  service: New songs
+  target: unclear-needs-review/
+MOVED: 2020-07-19 Sunday Morning July 2020.md
+  service: Sunday Morning July 2020
+  target: unclear-needs-review/
+MOVED: 2020-07-26 Sunday morning.md
+  service: Sunday morning
+  target: unclear-needs-review/
+MOVED: 2020-07-30 Third.md
+  service: Third
+  target: unclear-needs-review/
+MOVED: 2020-08-02 —new SUN AM.md
+  service: —new SUN AM
+  target: sunday-am/
+MOVED: 2020-08-09 —AM SUNDAY. New.md
+  service: —AM SUNDAY. New
+  target: sunday-am/
+MOVED: 2020-08-13 —NewPM Thursday.md
+  service: —NewPM Thursday
+  target: midweek/
+MOVED: 2020-08-23 —new.SUN AM Copy.md
+  service: —new.SUN AM Copy
+  target: sunday-am/
+MOVED: 2020-08-23 —new.SUN AM.md
+  service: —new.SUN AM
+  target: sunday-am/
+MOVED: 2020-08-27 —new Thursday eve.md
+  service: —new Thursday eve
+  target: midweek/
+MOVED: 2020-09-03 new.Thrsday.md
+  service: new.Thrsday
+  target: unclear-needs-review/
+MOVED: 2020-09-06 New.SOLO.md
+  service: New.SOLO
+  target: unclear-needs-review/
+MOVED: 2020-09-17 new.THURS.md
+  service: new.THURS
+  target: midweek/
+MOVED: 2020-09-24 new Thursday.md
+  service: new Thursday
+  target: midweek/
+MOVED: 2020-10-04 new SUN AM.md
+  service: new SUN AM
+  target: sunday-am/
+MOVED: 2020-10-18 New Sunday.md
+  service: New Sunday
+  target: unclear-needs-review/
+MOVED: 2020-11-01 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2020-12-27 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2020-12-29 PM TUES.md
+  service: PM TUES
+  target: midweek/
+MOVED: 2021-02-07 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2021-02-07 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2021-02-11 Pm Thursday.md
+  service: Pm Thursday
+  target: midweek/
+MOVED: 2021-03-07 Believe For It.md
+  service: Believe For It
+  target: unclear-needs-review/
+MOVED: 2021-03-11 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2021-04-22 4-22-21.md
+  service: 4-22-21
+  target: unclear-needs-review/
+MOVED: 2021-04-22 PM THURSDAY.md
+  service: PM THURSDAY
+  target: midweek/
+MOVED: 2021-06-24 PM THURS.md
+  service: PM THURS
+  target: midweek/
+MOVED: 2021-07-11 SUNDAY AM.md
+  service: SUNDAY AM
+  target: sunday-am/
+MOVED: 2021-07-22 New Thursday PM.md
+  service: New Thursday PM
+  target: midweek/
+MOVED: 2021-07-25 AM SUNDAY 72521.md
+  service: AM SUNDAY 7/25/21
+  target: sunday-am/
+MOVED: 2021-07-31 SING UNTO THE LORD.md
+  service: SING UNTO THE LORD
+  target: unclear-needs-review/
+MOVED: 2021-08-08 AMEN  2 versions.md
+  service: AMEN / 2 versions
+  target: unclear-needs-review/
+MOVED: 2021-09-12 Lost songs.md
+  service: Lost songs
+  target: unclear-needs-review/
+MOVED: 2021-10-07 Third 2021.md
+  service: Third 2021
+  target: unclear-needs-review/
+MOVED: 2021-10-21 New pm Thursday.md
+  service: New pm Thursday
+  target: midweek/
+MOVED: 2021-10-26 PM REVIVAL.md
+  service: PM REVIVAL
+  target: unclear-needs-review/
+MOVED: 2021-11-03 PM WEDS.md
+  service: PM WEDS
+  target: midweek/
+MOVED: 2021-11-07 PM SUNDAY.md
+  service: PM SUNDAY
+  target: sunday-pm/
+MOVED: 2021-12-05 SUNDAY AM 2021.md
+  service: SUNDAY AM 2021
+  target: sunday-am/
+MOVED: 2021-12-16 2021 PM THURSDAY.md
+  service: 2021 PM THURSDAY
+  target: midweek/
+MOVED: 2022-01-20 2022 TH PM.md
+  service: 2022 TH PM
+  target: unclear-needs-review/
+MOVED: 2022-02-06 2022 Pm Sunday.md
+  service: 2022 Pm Sunday
+  target: sunday-pm/
+MOVED: 2022-02-24 Thursday 2022.md
+  service: Thursday 2022
+  target: midweek/
+MOVED: 2022-03-10 2020 TH PM.md
+  service: 2020 TH PM
+  target: unclear-needs-review/
+MOVED: 2022-03-13 2020 SUNDAY AM.md
+  service: 2020 SUNDAY AM
+  target: sunday-am/
+MOVED: 2022-03-20 2020 SUNDAY AM.md
+  service: 2020 SUNDAY AM
+  target: sunday-am/
+MOVED: 2022-03-20 2020 SUNDAY PM 322.md
+  service: 2020 SUNDAY PM 3/22
+  target: sunday-pm/
+MOVED: 2022-03-24 2022 March.md
+  service: 2022 March
+  target: unclear-needs-review/
+MOVED: 2022-03-27 2022 March.md
+  service: 2022 March
+  target: unclear-needs-review/
+MOVED: 2022-04-03 2022 sun am.md
+  service: 2022 sun am
+  target: sunday-am/
+MOVED: 2022-04-07 2022 thurs pm.md
+  service: 2022 thurs pm
+  target: midweek/
+MOVED: 2022-04-28 2022 PM THURSDAY.md
+  service: 2022 PM THURSDAY
+  target: midweek/
+MOVED: 2022-05-05 2020 May Thurs Pm.md
+  service: 2020 May Thurs Pm
+  target: midweek/
+MOVED: 2022-05-08 2020 SUNDAY AM.md
+  service: 2020 SUNDAY AM
+  target: sunday-am/
+MOVED: 2022-05-12 2022 pm th.md
+  service: 2022 pm th
+  target: unclear-needs-review/
+MOVED: 2022-05-15 2020 sun am.md
+  service: 2020 sun am
+  target: sunday-am/
+MOVED: 2022-05-22 2022 am sun.md
+  service: 2022 am sun
+  target: sunday-am/
+MOVED: 2022-05-26 2022 thurs pm.md
+  service: 2022 thurs pm
+  target: midweek/
+MOVED: 2022-06-05 2022 sun am.md
+  service: 2022 sun am
+  target: sunday-am/
+MOVED: 2022-06-23 2022 pm Thursday.md
+  service: 2022 pm Thursday
+  target: midweek/
+MOVED: 2022-06-26 2022 June sun am.md
+  service: 2022 June sun am
+  target: sunday-am/
+MOVED: 2022-07-03 Q022 sun am.md
+  service: Q022 sun am
+  target: sunday-am/
+MOVED: 2022-07-10 2022 an sun.md
+  service: 2022 an sun
+  target: unclear-needs-review/
+MOVED: 2022-07-17 2022 sun am.md
+  service: 2022 sun am
+  target: sunday-am/
+MOVED: 2022-08-04 2022 pm thurs.md
+  service: 2022 pm thurs
+  target: midweek/
+MOVED: 2022-08-04 Pm thurs.md
+  service: Pm thurs
+  target: midweek/
+MOVED: 2022-08-07 2022 PM SUNDAY.md
+  service: 2022 PM SUNDAY
+  target: sunday-pm/
+MOVED: 2022-08-21 2022 sun am.md
+  service: 2022 sun am
+  target: sunday-am/
+MOVED: 2022-09-08 2022 THURS PM.md
+  service: 2022 THURS PM
+  target: midweek/
+MOVED: 2022-09-15 2022 pm THURSDAY.md
+  service: 2022 pm THURSDAY
+  target: midweek/
+MOVED: 2022-10-08 2022 SUNDAY AM 119.md
+  service: 2022 SUNDAY AM 11/9
+  target: sunday-am/
+MOVED: 2022-10-16 Sun am 2022.md
+  service: Sun am 2022
+  target: sunday-am/
+MOVED: 2022-10-30 2022 altar.md
+  service: 2022 altar
+  target: altar/
+MOVED: 2022-11-06 2022 sun am.md
+  service: 2022 sun am
+  target: sunday-am/
+MOVED: 2022-11-13 2022 AM SUN.md
+  service: 2022 AM SUN
+  target: sunday-am/
+MOVED: 2022-11-20 2022 1120 Sun AM.md
+  service: 2022 11/20 Sun AM
+  target: sunday-am/
+MOVED: 2022-12-15 2022 pm thurs.md
+  service: 2022 pm thurs
+  target: midweek/
+MOVED: 2022-12-20 2022 PM TUES.md
+  service: 2022 PM TUES
+  target: midweek/
+MOVED: 2023-01-12 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2023-01-29 2023 SUN 12923.md
+  service: 2023 SUN 1/29/23
+  target: unclear-needs-review/
+MOVED: 2023-02-09 PM 2023 THURS.md
+  service: PM 2023 THURS
+  target: midweek/
+MOVED: 2023-02-16 2023 Thurs pm.md
+  service: 2023 Thurs pm
+  target: midweek/
+MOVED: 2023-03-09 PM THURS 3923.md
+  service: PM THURS 3/9/23
+  target: midweek/
+MOVED: 2023-05-28 AM SUNDAY.md
+  service: AM SUNDAY
+  target: sunday-am/
+MOVED: 2023-05-28 am Sunday May 28, 2023.md
+  service: am Sunday May 28, 2023
+  target: sunday-am/
+MOVED: 2023-06-15 PM THURS 2023 615.md
+  service: PM THURS 2023 6/15
+  target: midweek/
+MOVED: 2023-07-06 AM TH 723.md
+  service: AM TH 7/23
+  target: unclear-needs-review/
+MOVED: 2023-08-17 PM THURS.md
+  service: PM THURS
+  target: midweek/
+MOVED: 2023-09-21 PM THURS 9-21-23.md
+  service: PM THURS 9-21-23
+  target: midweek/
+MOVED: 2023-11-21 2023 TRANSITION.md
+  service: 2023 TRANSITION
+  target: unclear-needs-review/
+MOVED: 2024-12-01 2024-12-01.md
+  service: 2024-12-01
+  target: unclear-needs-review/
+
+============================================================
+Root set notes scanned : 622
+Moved                  : 622
+Skipped (exists)       : 0
+Errors                 : 0
+------------------------------------------------------------
+sunday-am              225
+sunday-pm              113
+midweek                168
+practice               28
+altar                  4
+unclear-needs-review   84
+============================================================

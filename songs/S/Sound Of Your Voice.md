@@ -1,22 +1,25 @@
 ---
-title: "Sound Of Your Voice"
-artist: "Third Day"
+title: Sound Of Your Voice
+artist: Third Day
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "2010 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2010 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "BA0A4B95-878D-4CD1-8ED0-07A9CD315AC4"
+id: BA0A4B95-878D-4CD1-8ED0-07A9CD315AC4
 ---
-
 Intro: d  g  bm  a
 
 [D]I ran aw[G]ay from your lo[Bm]ve but y[A]ou waited for[D] me

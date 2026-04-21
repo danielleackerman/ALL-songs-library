@@ -1,22 +1,25 @@
 ---
-title: "You Raise Me Up (Easy Version)"
-artist: "Selah"
+title: You Raise Me Up (Easy Version)
+artist: Selah
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "2002 Peermusic (Ireland) Ltd. & Universal Music Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2002 Peermusic (Ireland) Ltd. & Universal Music Publishing
+source: ''
+year: ''
 medley: []
-id: "1D499D97-771A-4B99-B36C-EBAFCEEA0101"
+id: 1D499D97-771A-4B99-B36C-EBAFCEEA0101
 ---
-
 Capo 1 to reach Eb, Gb, F consistently
 
 D   G    A   G     D   G     D    G   D    A    D               (-Capo 1- D to Eb)

@@ -1,23 +1,26 @@
 ---
-title: "Higher Ground 2 (Sing Unto The Lord Songbook, 319)"
-artist: "Charles Hutchinson Gabriel, Johnson Oatman Jr."
+title: 'Higher Ground 2 (Sing Unto The Lord Songbook, 319)'
+artist: 'Charles Hutchinson Gabriel, Johnson Oatman Jr.'
 key: Ab
-tempo: 
-time: "3/4"
-ccli: "21844"
-copyright: "Public Domain"
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "os-apo-fast"
-keywords: "os apo fast"
-source: 
-year: 
+  - os-apo-fast
+keywords: os apo fast
+ccli: '21844'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "C578A157-B2CF-4498-A3B2-E972A9D0873F"
+id: C578A157-B2CF-4498-A3B2-E972A9D0873F
 ---
-
 {artist: Charles Hutchinson Gabriel, Johnson Oatman Jr.}
 
 Original Key G

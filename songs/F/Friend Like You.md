@@ -1,24 +1,27 @@
 ---
-title: "Friend Like You"
-artist: "Big Daddy Weave"
+title: Friend Like You
+artist: Big Daddy Weave
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "2001 Open Worship Music Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "friend"
+  - love
+  - friend
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2001 Open Worship Music Inc.
+source: ''
+year: ''
 medley: []
-id: "24CBAB60-F978-4714-BE15-6574B3A1B847"
+id: 24CBAB60-F978-4714-BE15-6574B3A1B847
 ---
-
 [G/B]	I w[-]ok[C]e up this morning
 [D]	A[-]nd[D/F#] look[-]ed[G] out my window
 [G/B]	I c[-]ou[C]ld see the sun shining d[D]ow[-]n [D/F#]on me[-]  [G]

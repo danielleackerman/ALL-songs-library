@@ -1,24 +1,27 @@
 ---
-title: "Thanks, Thanks"
-artist: "Marshall Hall"
+title: 'Thanks, Thanks'
+artist: Marshall Hall
 key: G
-tempo: 67
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '67'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "thanks"
+  - thanks
 genre: []
-energy: medium-slow
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "59C1CCFE-D24A-4C92-B4E4-A85629E7E001"
+id: 59C1CCFE-D24A-4C92-B4E4-A85629E7E001
 ---
-
 {artist: Marshall Hall}
 
 CHORUS:

@@ -1,23 +1,26 @@
 ---
-title: "Where I Belong"
-artist: "MercyMe"
+title: Where I Belong
+artist: MercyMe
 key: C
-tempo: 
-time: 
-ccli: "4770479"
-copyright: "2006 Simpleville Music / Wet As A Fish Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4770479'
+copyright: 2006 Simpleville Music / Wet As A Fish Music
+source: ''
+year: ''
 medley: []
-id: "CE8E8B30-904D-4341-B0D5-E0EF0553523B"
+id: CE8E8B30-904D-4341-B0D5-E0EF0553523B
 ---
-
 The key they play it in is G# or Ab whatever you want to call it. If you see any
 problem please email me otherwise this is a great song and I'm glad that I could
 help you play this. Enjoy!

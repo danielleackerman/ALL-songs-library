@@ -1,22 +1,25 @@
 ---
-title: "House of God"
-artist: "MercyMe"
+title: House of God
+artist: MercyMe
 key: E
-tempo: 
-time: 
-ccli: 
-copyright: "2001 Simpleville Music (Admin. by Fun Attic Music)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2001 Simpleville Music (Admin. by Fun Attic Music)
+source: ''
+year: ''
 medley: []
-id: "D82E2944-8DAE-4C34-93FA-890E8D2A71F6"
+id: D82E2944-8DAE-4C34-93FA-890E8D2A71F6
 ---
-
 INTRO:
 G|-------------------
 D|-2--7/6--7/6--4--5-

@@ -1,37 +1,41 @@
 ---
-title: "We Serve A Great Big God"
-artist: "Geron Davis"
+title: We Serve A Great Big God
+artist: Geron Davis
 key: F
-tempo: 
-time: 
-ccli: "921775"
-copyright: "1993 DaviSongs, Music Services Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "greatness"
-  - "power"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - greatness
+  - power
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-slow"
-keywords: "mod apo slow, greatness, power"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-slow
+keywords: 'mod apo slow, greatness, power'
+ccli: '921775'
+copyright: '1993 DaviSongs, Music Services Inc.'
+source: ''
+year: ''
 medley: []
-id: "441C55CC-6914-4F1E-BE28-C835C8BA4309"
+id: 441C55CC-6914-4F1E-BE28-C835C8BA4309
 ---
-
 {artist: Geron Davis}
 
 Original key f

@@ -1,22 +1,25 @@
 ---
-title: "If You Had Known Me"
-artist: "Murrel Ewing"
+title: If You Had Known Me
+artist: Murrel Ewing
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "FDC2D39E-BCCF-4EE8-BDC5-29F2D961E357"
+id: FDC2D39E-BCCF-4EE8-BDC5-29F2D961E357
 ---
-
 Verse:1
 
 Just an [C]old rejected [C9]relic, [F2]on the auction [Dm7]block

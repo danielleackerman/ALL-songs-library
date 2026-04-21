@@ -1,37 +1,41 @@
 ---
-title: "I Will Sing Unto the Lord"
-artist: "Gateway College"
+title: I Will Sing Unto the Lord
+artist: Gateway College
 key: Em
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "middle-eastern"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "his-name"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - middle-eastern
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - his-name
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-middle-eastern-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-middle-eastern-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F3E12230-A5AE-47BF-BC95-9B68F08CA320"
+id: 4959E199-3263-4AAE-92E1-4551D455FCBA
 ---
-
 Key of: Em
 
 Intro: Em - Em/D - CM7 - Bsus - Em - Em/D - CM7 - B7sus - B7 - Em

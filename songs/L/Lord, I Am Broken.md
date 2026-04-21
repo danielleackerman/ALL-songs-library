@@ -1,24 +1,27 @@
 ---
-title: "Lord, I Am Broken"
-artist: "Indiana Bible College"
+title: 'Lord, I Am Broken'
+artist: Indiana Bible College
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "calling"
+  - jesus
+  - calling
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "00BA357B-89EA-4AF4-AB11-C7A1C26821CD"
+id: 00BA357B-89EA-4AF4-AB11-C7A1C26821CD
 ---
-
 VERSE 1:
 [Bb/C]He'll do it a[F]gain
 Just like be[F/A]fore

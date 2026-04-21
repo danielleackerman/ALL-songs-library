@@ -1,22 +1,25 @@
 ---
-title: "May Your Wonders Never Cease"
-artist: "Third Day"
+title: May Your Wonders Never Cease
+artist: Third Day
 key: C
-tempo: 
-time: 
-ccli: "4027153"
-copyright: "2003 Provident Music Distribution Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4027153'
+copyright: 2003 Provident Music Distribution Inc.
+source: ''
+year: ''
 medley: []
-id: "CF3DC110-AD0D-43AA-A9A8-58BCBB2993B1"
+id: CF3DC110-AD0D-43AA-A9A8-58BCBB2993B1
 ---
-
 VERSE 1:
 Father in [Am7]heaven, [G]    [C]    Lord may Your [Am7]name be [G]glori - [C]fied.
 Above all [Am7]others,  [G]       above all [C]this world,

@@ -1,29 +1,32 @@
 ---
-title: "Shackles (Praise You)-version 2"
-artist: "Erica and Tina Campbell"
+title: Shackles (Praise You)-version 2
+artist: Erica and Tina Campbell
 key: Gm
-tempo: 105
-time: 
-ccli: 
-copyright: 
+bpm: '105'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "dance"
+  - praise
+  - dance
 genre: []
-energy: medium
 profile:
-  - "contemporary-gospel-med-fast"
-keywords: "contemporary gospel med fast"
-source: 
-year: 
+  - contemporary-gospel-med-fast
+keywords: contemporary gospel med fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "533B1303-77B7-42E8-B2C1-FACE2FCB0EE5"
+id: 533B1303-77B7-42E8-B2C1-FACE2FCB0EE5
 ---
-
 [Gm][Cm][D][Gm]
 
 (Chorus:)
-He took the [Gm]shackles off my feet so [Cm][(Eb)]I can [Gm]dance
+He took the [Gm]shackles off my feet so [Cm][Eb]I can [Gm]dance
 I just wanna [D]praise you, I just wanna [Gm]praise you
 He broke the [Gm]chains now I can lift my [Cm]hands
 And I wanna [D][or][F]praise you, I'm gonna [Gm]praise you

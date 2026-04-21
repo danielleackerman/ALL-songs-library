@@ -1,24 +1,27 @@
 ---
-title: "Give the Lord the Highest Praise"
-artist: ""
+title: Give the Lord the Highest Praise
+artist: ''
 key: G
-tempo: 130
-time: 
-ccli: 
-copyright: 
+bpm: '130'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "dance"
+  - praise
+  - dance
 genre: []
-energy: medium-fast
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A156A045-2363-4A1E-9F17-A5CF59F1AA94"
+id: A156A045-2363-4A1E-9F17-A5CF59F1AA94
 ---
-
 CHORUS:
 Come on and [Gm]give the Lord the highest praise; [F][F#][G]hallelujah, [F][F#][Gm]hallelujah
 Come on and [C7]give the Lord the highest praise; [F][F#][Gm]hallelujah, [F][F#][Gm]hallelujah

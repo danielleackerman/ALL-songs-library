@@ -1,24 +1,29 @@
 ---
-title: "Jesus Messiah"
-artist: "Chris Tomlin"
+title: Jesus Messiah
+artist: Chris Tomlin
 key: G
-tempo: 
-time: 
-ccli: "5183443"
-copyright: "2008 Vamos Publishing / worshiptogether.com songs / sixsteps Music / Alletrop Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
+  - love
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5183443'
+copyright: >-
+  2008 Vamos Publishing / worshiptogether.com songs / sixsteps Music / Alletrop
+  Music
+source: ''
+year: ''
 medley: []
-id: "A649C64B-E19F-4E5D-B6E5-767BEB625E44"
+id: A649C64B-E19F-4E5D-B6E5-767BEB625E44
 ---
-
 Capo 4
 
 VERSE 1:

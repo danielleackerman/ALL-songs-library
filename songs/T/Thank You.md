@@ -1,24 +1,27 @@
 ---
-title: "Thank You"
-artist: "Ray Boltz"
+title: Thank You
+artist: Ray Boltz
 key: C
-tempo: 
-time: 
-ccli: "31126"
-copyright: "1988 Gaither Music Company"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "giving"
+  - jesus
+  - giving
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '31126'
+copyright: 1988 Gaither Music Company
+source: ''
+year: ''
 medley: []
-id: "CDF3EFB5-71CC-4B93-A083-5F19E389A931"
+id: CDF3EFB5-71CC-4B93-A083-5F19E389A931
 ---
-
 [C]I dreamed I went to [G/B]heaven
 [Am]And you were there with [Am7]me;
 [F]We walked upon the [G]streets of gold

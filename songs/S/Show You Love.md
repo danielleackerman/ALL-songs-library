@@ -1,23 +1,26 @@
 ---
-title: "Show You Love"
-artist: "Jars Of Clay"
+title: Show You Love
+artist: Jars Of Clay
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "Played in Drop D"
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: Played in Drop D
+year: ''
 medley: []
-id: "0FB1E616-322F-4C73-86E0-C27AE676A3C6"
+id: 0FB1E616-322F-4C73-86E0-C27AE676A3C6
 ---
-
 (Intro – D/F#  D2/F# Gsus4 G)
 
 [D]Sp[D2]eak [Gsus4]       [G]    and [D]say the words that no one else will ever [G]say

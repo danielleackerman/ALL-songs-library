@@ -1,22 +1,25 @@
 ---
-title: "Your Train Fills This Temple"
-artist: "Clint Brown"
+title: Your Train Fills This Temple
+artist: Clint Brown
 key: G
-tempo: 
-time: 
-ccli: "1945427"
-copyright: "1995 New Spring Publishing, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '1945427'
+copyright: '1995 New Spring Publishing, Inc.'
+source: ''
+year: ''
 medley: []
-id: "C11506B9-FE65-4A3C-9A08-E82D8F47FC82"
+id: C11506B9-FE65-4A3C-9A08-E82D8F47FC82
 ---
-
 by Michael Young & Sion Alford
 
 [G]Your train fills this temple   [D/F#][Em]   Your glory fills this place

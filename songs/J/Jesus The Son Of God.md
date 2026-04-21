@@ -1,39 +1,43 @@
 ---
-title: "Jesus The Son Of God"
-artist: "G.T. Haywood - Sing Unto The Lord Songbook"
+title: Jesus The Son Of God
+artist: G.T. Haywood - Sing Unto The Lord Songbook
 key: Ab
-tempo: 
-time: "6/4"
-ccli: "2531335"
-copyright: "1998, 2000 Pilot Point Music, Admin. Music Services, Inc."
+bpm: ''
+time_sig: 6/4
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "son-of-god"
-  - "os-apo-med"
-keywords: "os apo med"
-source: "12"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - son-of-god
+  - os-apo-med
+keywords: os apo med
+ccli: '2531335'
+copyright: '1998, 2000 Pilot Point Music, Admin. Music Services, Inc.'
+source: '12'
+year: ''
 medley:
-  - "[[DO YOU KNOW HIM?]]"
-id: "3E30DFDF-37DE-46E3-9B32-1A13C412B52C"
+  - '[[DO YOU KNOW HIM?]]'
+id: 3E30DFDF-37DE-46E3-9B32-1A13C412B52C
 ---
-
 Medley: do You know Him?
 
 VERSE 1:

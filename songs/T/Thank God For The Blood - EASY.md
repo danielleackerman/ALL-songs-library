@@ -1,24 +1,27 @@
 ---
-title: "Thank God For The Blood - EASY"
-artist: "fast 4- 92 BPM"
+title: Thank God For The Blood - EASY
+artist: fast 4- 92 BPM
 key: F
-tempo: 92
-time: 
-ccli: 
-copyright: 
+bpm: '92'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "blood"
-  - "thank"
+  - blood
+  - thank
 genre: []
-energy: medium
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C860FF10-96C1-4B4A-AB0C-39FC6CEA10AE"
+id: C860FF10-96C1-4B4A-AB0C-39FC6CEA10AE
 ---
-
 Sutl 207
 [F]
 

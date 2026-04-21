@@ -1,36 +1,40 @@
 ---
-title: "Near The Cross"
-artist: ""
+title: Near The Cross
+artist: ''
 key: E
-tempo: 
-time: 
-ccli: "4533740"
-copyright: "Public Domain"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "cross"
-  - "sutl"
-  - "songbook"
+  - altar-songs
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - cross
+  - sutl
+  - songbook
 genre: []
-energy: slow
 profile:
-  - "altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-  - "os-apo-slow"
-keywords: "os apo slow, sutl, songbook"
-source: 
-year: 
+  - >-
+    altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+  - os-apo-slow
+keywords: 'os apo slow, sutl, songbook'
+ccli: '4533740'
+copyright: Public Domain
+source: ''
+year: ''
 medley: []
-id: "4B2C9651-A208-4E0C-9B7A-423321173667"
+id: 4B2C9651-A208-4E0C-9B7A-423321173667
 ---
-
 [E]1  Je[Esus4] - sus[E],  keep[E9]   me[A]   near the cross,
 2  Near the   cross, a    trembling soul,
 3  Near the   cross! O    Lamb of God,

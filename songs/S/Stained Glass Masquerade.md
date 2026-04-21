@@ -1,23 +1,26 @@
 ---
-title: "Stained Glass Masquerade"
-artist: "Casting Crowns"
+title: Stained Glass Masquerade
+artist: Casting Crowns
 key: C
-tempo: 
-time: 
-ccli: "4547918"
-copyright: "2005 SWECS Music / Club Zoo Music / Birdwing Music / Birdboy Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "invitation"
+  - invitation
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4547918'
+copyright: 2005 SWECS Music / Club Zoo Music / Birdwing Music / Birdboy Songs
+source: ''
+year: ''
 medley: []
-id: "FBF7B2BA-E5CD-4AD3-90CA-83B7A398FDAE"
+id: FBF7B2BA-E5CD-4AD3-90CA-83B7A398FDAE
 ---
-
 Capo 1 (to play with CD)
 Intro: F C  G  FMaj7 (repeat)
 

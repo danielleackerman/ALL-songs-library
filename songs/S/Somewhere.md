@@ -1,23 +1,26 @@
 ---
-title: "Somewhere"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Somewhere
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "baby"
+  - baby
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D78F2A39-7DF2-44E2-BBE3-E4C65B782201"
+id: D78F2A39-7DF2-44E2-BBE3-E4C65B782201
 ---
-
 Key:
 
 Somewhere

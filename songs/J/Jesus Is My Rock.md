@@ -1,38 +1,42 @@
 ---
-title: "Jesus Is My Rock"
-artist: "Rev. Gerald Thompson"
-key: 
-tempo: 114
-time: 
-ccli: 
-copyright: 
+title: Jesus Is My Rock
+artist: Rev. Gerald Thompson
+key: ''
+bpm: '114'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "rock"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - rock
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "cont-gospel-med"
-keywords: "cont gospel med"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - cont-gospel-med
+keywords: cont gospel med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F2FEB00A-0EBB-42D9-89A5-016BA0D63638"
+id: F2FEB00A-0EBB-42D9-89A5-016BA0D63638
 ---
-
 (Oh,I know Jesus)
 Jesus is my rock
 My rock, my sword, my shield

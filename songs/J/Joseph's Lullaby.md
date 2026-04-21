@@ -1,23 +1,26 @@
 ---
-title: "Joseph's Lullaby"
-artist: "MercyMe"
+title: Joseph's Lullaby
+artist: MercyMe
 key: D
-tempo: 
-time: 
-ccli: "4630337"
-copyright: "2005 Simpleville Music / Banistuci Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "lullaby"
+  - lullaby
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4630337'
+copyright: 2005 Simpleville Music / Banistuci Music
+source: ''
+year: ''
 medley: []
-id: "CED2C0AA-2C95-4BFA-838F-91338FCE11C4"
+id: CED2C0AA-2C95-4BFA-838F-91338FCE11C4
 ---
-
 Capo 1st
 
 Intro:	Bm	A/C#	D	D/F#	G

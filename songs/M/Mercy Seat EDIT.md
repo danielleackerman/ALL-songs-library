@@ -1,25 +1,28 @@
 ---
-title: "Mercy Seat EDIT"
-artist: "Vicki Yohe"
+title: Mercy Seat EDIT
+artist: Vicki Yohe
 key: Dm
-tempo: 
-time: 
-ccli: 
-copyright: "2003 EMI Gospel / Pure Springs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "mercy"
-  - "grace"
-  - "contemporary"
+  - mercy
+  - grace
+  - contemporary
 genre: []
-energy: 
 profile: []
-keywords: "contemporary"
-source: 
-year: 
+keywords: contemporary
+ccli: ''
+copyright: 2003 EMI Gospel / Pure Springs
+source: ''
+year: ''
 medley: []
-id: "0520DFE7-63E1-47BB-84A8-D14EC37B7752"
+id: 0520DFE7-63E1-47BB-84A8-D14EC37B7752
 ---
-
 [Dm]  In the darkness where every[Gm]thing is unknown
 [Asus]I face the p[A]ower of s[Dm]in on my own   [C]   [Bdim]
 [Dm]I did not know of a [Gm]place I could go

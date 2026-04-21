@@ -1,22 +1,25 @@
 ---
-title: "The Breaks"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: The Breaks
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B5716319-440B-4876-B6FF-C9376F981DDD"
+id: B5716319-440B-4876-B6FF-C9376F981DDD
 ---
-
 Key:
 
 The Breaks

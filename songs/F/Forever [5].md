@@ -1,22 +1,25 @@
 ---
-title: "Forever"
-artist: "James Fortune"
+title: Forever
+artist: James Fortune
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "277F8C14-E091-4F34-BFAC-E5B3B2041300"
+id: AFBD89F8-FE6A-4ACD-A5B6-54646AEF4B2A
 ---
-
 [Eb]With nails in His hands  with nails in His [Bb]feet  [Eb]
 A [Ab]crown of  [Eb]thorns on His [Ab]head
 [Gm]Not   a   mumbleing [Eb]word and You stayed [Bb]there

@@ -1,33 +1,37 @@
 ---
-title: "I Need Thee Every Hour"
-artist: "Jars Of Clay"
+title: I Need Thee Every Hour
+artist: Jars Of Clay
 key: G
-tempo: 
-time: 
-ccli: "78811"
-copyright: "2005 Bridge Building / Pogostick Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "altar-songs"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "savior"
+  - altar-songs
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - savior
 genre: []
-energy: slow
 profile:
-  - "altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    altar-songs-choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: '78811'
+copyright: 2005 Bridge Building / Pogostick Music
+source: ''
+year: ''
 medley: []
-id: "5A989681-E83F-44C4-AEC8-20DF85941E1F"
+id: 5A989681-E83F-44C4-AEC8-20DF85941E1F
 ---
-
 C | D | Em | D |   x4  (w/Riff 1)
 
 I [G]need Thee every hour, most [C]gracious [G]Lord

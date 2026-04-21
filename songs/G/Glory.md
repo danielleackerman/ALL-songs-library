@@ -1,24 +1,27 @@
 ---
-title: "Glory"
-artist: "Casting Crowns"
+title: Glory
+artist: Casting Crowns
 key: F
-tempo: 
-time: 
-ccli: "4196565"
-copyright: "SWECS Music / Club Zoo Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
-  - "worship"
+  - glory
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4196565'
+copyright: SWECS Music / Club Zoo Music
+source: ''
+year: ''
 medley: []
-id: "CF6D6F4C-6116-4387-8D74-1CCBABDE73FA"
+id: CF6D6F4C-6116-4387-8D74-1CCBABDE73FA
 ---
-
 Capo 1
 [F]   [Dm7]      [Ebsus2]         [F]    [Dm7]      [Ebsus2]       [(3Xs)]
 

@@ -1,24 +1,29 @@
 ---
-title: "Hope Of The Broken World"
-artist: "Selah"
+title: Hope Of The Broken World
+artist: Selah
 key: A
-tempo: 
-time: 
-ccli: "5935646"
-copyright: "2011 Integrity's Praise Music / Universal Music - Brentwood Benson Songs / Electra Car Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "hope"
-  - "light"
+  - hope
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5935646'
+copyright: >-
+  2011 Integrity's Praise Music / Universal Music - Brentwood Benson Songs /
+  Electra Car Publishing
+source: ''
+year: ''
 medley: []
-id: "8F2A6372-D50D-4034-A99F-129B51C7E87D"
+id: 8F2A6372-D50D-4034-A99F-129B51C7E87D
 ---
-
 Intro:  A    A2
 
 VERSE 1:

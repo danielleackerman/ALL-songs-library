@@ -1,41 +1,47 @@
 ---
-title: "JESUS ON THE INSIDE-my edit"
-artist: "Carol Cymbala, choir director Brooklyn Tabernacle Choir"
+title: JESUS ON THE INSIDE-my edit
+artist: 'Carol Cymbala, choir director Brooklyn Tabernacle Choir'
 key: C
-tempo: 97
-time: 
-ccli: "66713"
-copyright: "1988 Word Music, LLC, Carol Joy Music (Main). Admin. Word Music Group, Inc., ClearBox Rights, LLC"
+bpm: '97'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "jesus"
-  - "life"
-  - "os-christian"
-  - "santification"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - jesus
+  - life
+  - os-christian
+  - santification
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-  - "os-apo-med"
-keywords: "os apo med, os christian, santification"
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+  - os-apo-med
+keywords: 'os apo med, os christian, santification'
+ccli: '66713'
+copyright: >-
+  1988 Word Music, LLC, Carol Joy Music (Main). Admin. Word Music Group, Inc.,
+  ClearBox Rights, LLC
+source: ''
+year: ''
 medley:
-  - "[[JESUS]]"
-  - "[[I'LL NEVER FORGET]]"
-  - "[[HE'S DONE SO MUCH FOR ME]]"
-id: "A71BB05B-5029-439B-9D6F-05A9FF038583"
+  - '[[JESUS]]'
+  - '[[I''LL NEVER FORGET]]'
+  - '[[HE''S DONE SO MUCH FOR ME]]'
+id: A71BB05B-5029-439B-9D6F-05A9FF038583
 ---
-
 {artist: Carol Cymbala, choir director Brooklyn Tabernacle Choir}
 
 [F/G]     I've got [C]Jesus on the inside working on the outside

@@ -1,24 +1,27 @@
 ---
-title: "I Am"
-artist: "Bebo Norman"
+title: I Am
+artist: Bebo Norman
 key: G
-tempo: 
-time: 
-ccli: "3426418"
-copyright: "2000 New Spring / Appstreet Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "light"
+  - love
+  - light
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3426418'
+copyright: 2000 New Spring / Appstreet Music
+source: ''
+year: ''
 medley: []
-id: "907B7828-D6B6-49E6-9661-FA808CB493BE"
+id: 907B7828-D6B6-49E6-9661-FA808CB493BE
 ---
-
 Intro: (one guitar and Drums)
 [Em]   [C]  [G]  [D]  [Em]   [C]  [G]  [D]
 

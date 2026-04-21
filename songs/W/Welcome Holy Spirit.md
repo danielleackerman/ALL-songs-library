@@ -1,23 +1,26 @@
 ---
-title: "Welcome Holy Spirit"
-artist: ""
+title: Welcome Holy Spirit
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "holy-spirit"
+  - holy-spirit
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "03D9016B-D707-42E7-A5FA-D7700123E57D"
+id: 03D9016B-D707-42E7-A5FA-D7700123E57D
 ---
-
 CHORUS:
 [F/G]Welcome Holy [C]Spirit [F/G] [C]
 [D/C]We are in Your presence

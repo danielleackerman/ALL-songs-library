@@ -1,22 +1,25 @@
 ---
-title: "Sometimes By Step (Step By Step)"
-artist: "Rich Mullins"
+title: Sometimes By Step (Step By Step)
+artist: Rich Mullins
 key: G
-tempo: 
-time: 
-ccli: "915125"
-copyright: "1992 BMG Songs, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "G/     /     /     /"
-year: 
+keywords: ''
+ccli: '915125'
+copyright: '1992 BMG Songs, Inc.'
+source: G/     /     /     /
+year: ''
 medley: []
-id: "A9BBE9CA-5894-40FE-8F0A-FFF9F556EEDA"
+id: A9BBE9CA-5894-40FE-8F0A-FFF9F556EEDA
 ---
-
 [G]Sometimes the night wa[D/F#]s beautiful[G]
 Sometimes the [D/F#]sky was so far awa[Am7]y
                                      D

@@ -1,22 +1,25 @@
 ---
-title: "What It Means"
-artist: "Jeremy Camp"
+title: What It Means
+artist: Jeremy Camp
 key: Gb
-tempo: 
-time: 
-ccli: "4873644"
-copyright: "2006 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4873644'
+copyright: 2006 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "E91C78E4-3549-471A-B501-5415497FE01A"
+id: E91C78E4-3549-471A-B501-5415497FE01A
 ---
-
 Intro: F#  G#m  B  C# (2X)
 
 [Ebm]I’ve been here a t[C#]housand times b[G#/C]efore

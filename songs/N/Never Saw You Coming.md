@@ -1,22 +1,25 @@
 ---
-title: "Never Saw You Coming"
-artist: "Bebo Norman"
+title: Never Saw You Coming
+artist: Bebo Norman
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "2008"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: '2008'
+source: ''
+year: ''
 medley: []
-id: "E8C7F169-318B-4F21-8509-D3D98941D8D2"
+id: E8C7F169-318B-4F21-8509-D3D98941D8D2
 ---
-
 Capo 1
 
 INTRO:

@@ -1,34 +1,38 @@
 ---
-title: "Let Go And Let God Have His Way"
-artist: ""
+title: Let Go And Let God Have His Way
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C178B1C6-5CE0-4085-BF3B-8E73DC29864E"
+id: C178B1C6-5CE0-4085-BF3B-8E73DC29864E
 ---
-
 [Bb/C]Let [FM7]go and let [Eb/C]God have [A7+]His [BbM7]Wonderful [F]way
 [A7/Db]Let [Dm7]go And let [G9]God have His [Gm/C]way [C7] [Bb/D]
 [C/E]Your [FM7]sorrows will [Eb/C]vanish

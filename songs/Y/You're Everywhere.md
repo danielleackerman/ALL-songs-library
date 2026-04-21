@@ -1,22 +1,25 @@
 ---
-title: "You're Everywhere"
-artist: "Third Day"
+title: You're Everywhere
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "3119165"
-copyright: "2000 New Spring Publishing / Vandura 2500 Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3119165'
+copyright: 2000 New Spring Publishing / Vandura 2500 Songs
+source: ''
+year: ''
 medley: []
-id: "0B7EECF1-B1D3-4AB3-AFFC-966C646AF261"
+id: 0B7EECF1-B1D3-4AB3-AFFC-966C646AF261
 ---
-
 [Em]Like the rain that[D/F#] falls t[Em]o the earth bel[D/F#]ow,
 [Em]Watering the [D/F#]seed to g[G]row.
 [Em]So it is with [D/F#]Your pr[Em]ecious word, O[D/F#] Lord;

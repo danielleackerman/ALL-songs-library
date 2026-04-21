@@ -1,23 +1,26 @@
 ---
-title: "I Feel Like Praisin Him"
-artist: "Burbank"
+title: I Feel Like Praisin Him
+artist: Burbank
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E4920E94-E0FF-4E39-B048-E940EBF9E47E"
+id: E4920E94-E0FF-4E39-B048-E940EBF9E47E
 ---
-
 [F]
 
 [Bb/C]I [F]feel like praisin', praisin' Him,

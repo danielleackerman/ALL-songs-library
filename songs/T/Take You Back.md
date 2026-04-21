@@ -1,22 +1,25 @@
 ---
-title: "Take You Back"
-artist: "Jeremy Camp"
+title: Take You Back
+artist: Jeremy Camp
 key: G
-tempo: 
-time: 
-ccli: "4504250"
-copyright: "2004 Thirsty Moon River Publishing / Stolen Pride"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4504250'
+copyright: 2004 Thirsty Moon River Publishing / Stolen Pride
+source: ''
+year: ''
 medley: []
-id: "FB87E222-C8EC-4CA1-AA58-74F79D074FC5"
+id: FB87E222-C8EC-4CA1-AA58-74F79D074FC5
 ---
-
 Capo 2
 
 Intro 4x:  G  C  Em  C  G  C  Em  C,

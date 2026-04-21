@@ -1,23 +1,26 @@
 ---
-title: "Send the Rain -- LYRICS SHEET"
-artist: "WILLLIAM MCDOWELL"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Send the Rain -- LYRICS SHEET
+artist: WILLLIAM MCDOWELL
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "heaven"
+  - heaven
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5B26B126-25E9-4A23-BDAD-5DF5D80286F1"
+id: 5B26B126-25E9-4A23-BDAD-5DF5D80286F1
 ---
-
 Verse 1 (3x):
 I hear the sound of revival
 Deep in the hearts of your people

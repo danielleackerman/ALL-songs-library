@@ -1,35 +1,39 @@
 ---
-title: "I've Got A River Of Life"
-artist: "Easy"
+title: I've Got A River Of Life
+artist: Easy
 key: F
-tempo: 84
-time: "4/4"
-ccli: 
-copyright: 
+bpm: '84'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "life"
-  - "river"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - life
+  - river
 genre: []
-energy: medium-slow
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5F52906C-36B2-424D-9477-8604CD3EFD8C"
+id: 5F52906C-36B2-424D-9477-8604CD3EFD8C
 ---
-
 VERSE 1:
 [F]I've got a ri[/]ver of [F]life  flowing [Bb]out [/] of [F]me,  [/]
 [F]Makes the [/] lame to [F]walk  [/] and the [C]blind [/]to [C]see,

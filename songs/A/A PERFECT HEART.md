@@ -1,35 +1,41 @@
 ---
-title: "A Perfect Heart"
-artist: "Reba Rambo and Dony McGuire"
+title: A Perfect Heart
+artist: Reba Rambo and Dony McGuire
 key: F
-tempo: 74
-time: "4/4"
-ccli: "12860"
-copyright: "1981 Bud John Songs, Inc, Makanume Music, Oohs and Ahs Music, Admin. Capitol CMG Publishing"
+bpm: '74'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "old-school-southern-gospel"
-keywords: "old school southern gospel"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - old-school-southern-gospel
+keywords: old school southern gospel
+ccli: '12860'
+copyright: >-
+  1981 Bud John Songs, Inc, Makanume Music, Oohs and Ahs Music, Admin. Capitol
+  CMG Publishing
+source: ''
+year: ''
 medley: []
-id: "B887CB82-7376-4666-A147-716CE800F331"
+id: B887CB82-7376-4666-A147-716CE800F331
 ---
-
 VERSE 1:
 [F/G]Morning [C2]sun, light of [G2]creation;
 Grassy [Am]fields, a velvet [G2]floor;

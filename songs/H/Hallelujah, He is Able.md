@@ -1,22 +1,25 @@
 ---
-title: "Hallelujah, He is Able"
-artist: "Christy Ballestero"
+title: 'Hallelujah, He is Able'
+artist: Christy Ballestero
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A9924744-378B-42BF-A077-9541D9CCD1AF"
+id: A9924744-378B-42BF-A077-9541D9CCD1AF
 ---
-
 [Ab/Bb]Halle[Eb]lujah, [Eb7/G]He is [Ab]able,
 
 Halle[Eb/Bb]lujah, Jesus [Ab/Bb]can.

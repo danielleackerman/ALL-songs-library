@@ -1,22 +1,25 @@
 ---
-title: "My Soul Is Hungry"
-artist: ""
+title: My Soul Is Hungry
+artist: ''
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7FCE3203-7F91-4DE3-A0E0-64507F39DE15"
+id: 7FCE3203-7F91-4DE3-A0E0-64507F39DE15
 ---
-
 CHORUS:
 [F]My soul is [F/A]hungry
 For the [Bb]presence of the [Gm7]Lord

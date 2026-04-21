@@ -1,23 +1,26 @@
 ---
-title: "I Can Feel The Lord’s Presence In This Place"
-artist: ""
+title: I Can Feel The Lord’s Presence In This Place
+artist: ''
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "presence"
+  - presence
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E38498A0-EE8B-44A1-A192-6C1B92096D82"
+id: E38498A0-EE8B-44A1-A192-6C1B92096D82
 ---
-
 [Bb/C] I can [F]feel the Lord’s [Gm7]presence in this [F/A]place,   [BbM7]
 
 I can [F]feel the [C/E]Lord’s [Dm9]presence in this [EbM7]place.   [Bb/C]

@@ -1,23 +1,26 @@
 ---
-title: "With Every Breath"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: With Every Breath
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7C770C2A-E388-4088-8C0E-A21B16B87E2E"
+id: 7C770C2A-E388-4088-8C0E-A21B16B87E2E
 ---
-
 Key:
 Copyright: 2000 Storm Boy Music / BMI (adm. by The Loving Co)
 

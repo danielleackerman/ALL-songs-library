@@ -1,22 +1,25 @@
 ---
-title: "Flood (Advanced)"
-artist: "Jars Of Clay"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Flood (Advanced)
+artist: Jars Of Clay
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "6C3985EC-317A-4921-BC96-42104DC09373"
+id: 6C3985EC-317A-4921-BC96-42104DC09373
 ---
-
 Key:
 Copyright: 1995 Brentwood Music Inc.
 

@@ -1,23 +1,26 @@
 ---
-title: "Til The Day I Die"
-artist: "Third Day"
+title: Til The Day I Die
+artist: Third Day
 key: Gb
-tempo: 
-time: 
-ccli: "4292108"
-copyright: "2004 Consuming Fire Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
+  - love
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4292108'
+copyright: 2004 Consuming Fire Music
+source: ''
+year: ''
 medley: []
-id: "6E7B4D0D-8245-43A2-8D07-8AD777DFD35F"
+id: 6E7B4D0D-8245-43A2-8D07-8AD777DFD35F
 ---
-
 They may actually play this in F, instead of F#
 
 INTRO:

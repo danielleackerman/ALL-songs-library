@@ -1,23 +1,28 @@
 ---
-title: "Jesus, I Lift My Eyes"
-artist: "Jars Of Clay"
+title: 'Jesus, I Lift My Eyes'
+artist: Jars Of Clay
 key: D
-tempo: 
-time: 
-ccli: 
-copyright: "2005 Bridge Building, a division of Zomba Enterprises, Inc. (BMI)/ Pogostich Music (BMI)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
+  - jesus
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: >-
+  2005 Bridge Building, a division of Zomba Enterprises, Inc. (BMI)/ Pogostich
+  Music (BMI)
+source: ''
+year: ''
 medley: []
-id: "A2EC06FE-99DA-4666-87DF-33287BFEEEB6"
+id: A2EC06FE-99DA-4666-87DF-33287BFEEEB6
 ---
-
 Intro:  Em  Bm  D  G
 	[Em]  [Bm]  [G]
 

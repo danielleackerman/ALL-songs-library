@@ -1,24 +1,27 @@
 ---
-title: "Holy Spirit, Thou Art Welcome"
-artist: "Dottie Rambo"
+title: 'Holy Spirit, Thou Art Welcome'
+artist: Dottie Rambo
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "father"
-  - "holy-spirit"
+  - father
+  - holy-spirit
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "8082C4D0-4CB7-492C-A209-EA3A9F9D65A2"
+id: 8082C4D0-4CB7-492C-A209-EA3A9F9D65A2
 ---
-
 [Eb/G]Ho[F/A]ly [Bb]Spirit Thou art [Bb/D]welcome [Eb]In [F/D]this [Cm7]place
 Holy [F]Spirit Thou art [F7/A]welcome [Eb/Bb]in this [Bb]place
 [Eb/F]Om[Bb]nipotent [Bb7/D]Father of  [Eb]Mercy [F/D] and [Cm7]grace

@@ -1,35 +1,39 @@
 ---
-title: "Glorious Day (Living He Loved Me)"
-artist: "Casting Crowns"
+title: Glorious Day (Living He Loved Me)
+artist: Casting Crowns
 key: B
-tempo: 
-time: 
-ccli: "5638022"
-copyright: "2009 Word Music, LLC / Club Zoo Music / SWECS Music / My Refuge Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '5638022'
+copyright: '2009 Word Music, LLC / Club Zoo Music / SWECS Music / My Refuge Music'
+source: ''
+year: ''
 medley: []
-id: "8CF37370-7E01-4DA5-88EA-F135B6D26AC8"
+id: 8CF37370-7E01-4DA5-88EA-F135B6D26AC8
 ---
-
 INTRO:
 [B]  [E]  [B]
 

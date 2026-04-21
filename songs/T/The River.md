@@ -1,23 +1,26 @@
 ---
-title: "The River"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: The River
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "river"
+  - river
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "A1EC4835-E983-419E-9E34-BCC100D8DBB0"
+id: A1EC4835-E983-419E-9E34-BCC100D8DBB0
 ---
-
 Key:
 
 The River

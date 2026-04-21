@@ -1,23 +1,26 @@
 ---
-title: "Holy Life"
-artist: "Mark Condon"
+title: Holy Life
+artist: Mark Condon
 key: F
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "life"
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "34F0092A-EB14-4884-819D-289D37CAE523"
+id: 34F0092A-EB14-4884-819D-289D37CAE523
 ---
-
 [Bb/C]I     wanna    live    a    [F]holy    [F7/A]life
 
 I     wanna     walk    in    [Bb]truth     day     [Am7]and     [Gm7]night

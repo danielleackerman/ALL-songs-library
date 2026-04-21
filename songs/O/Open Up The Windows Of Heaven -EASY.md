@@ -1,23 +1,26 @@
 ---
-title: "Open Up The Windows Of Heaven -EASY"
-artist: "moderato- 92 BPM"
+title: Open Up The Windows Of Heaven -EASY
+artist: moderato- 92 BPM
 key: G
-tempo: 92
-time: 
-ccli: 
-copyright: 
+bpm: '92'
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "heaven"
+  - heaven
 genre: []
-energy: medium
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5BCC4965-1E41-41D2-8172-FBB8B7E38091"
+id: 5BCC4965-1E41-41D2-8172-FBB8B7E38091
 ---
-
 contemporary rhythm
 [G]
 

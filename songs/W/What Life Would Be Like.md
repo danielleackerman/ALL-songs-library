@@ -1,24 +1,29 @@
 ---
-title: "What Life Would Be Like"
-artist: "Big Daddy Weave"
+title: What Life Would Be Like
+artist: Big Daddy Weave
 key: E
-tempo: 
-time: 
-ccli: "5223114"
-copyright: "2007 Weave Country / Word Music, LLC / Gentleman Adventurer's Songs / Simple Tense Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "life"
+  - jesus
+  - life
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5223114'
+copyright: >-
+  2007 Weave Country / Word Music, LLC / Gentleman Adventurer's Songs / Simple
+  Tense Songs
+source: ''
+year: ''
 medley: []
-id: "5C4C09B0-4797-4442-BD39-670BDE20B595"
+id: 5C4C09B0-4797-4442-BD39-670BDE20B595
 ---
-
 Intro (Full)
 
 Cut Capo on 2

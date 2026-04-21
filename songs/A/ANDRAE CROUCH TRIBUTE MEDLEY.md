@@ -1,22 +1,25 @@
 ---
-title: "Andrae Crouch Tribute Medley"
-artist: "Mark Yandris"
+title: Andrae Crouch Tribute Medley
+artist: Mark Yandris
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "25B6E7B5-3ED2-469E-982D-59DD67B4580F"
+id: 25B6E7B5-3ED2-469E-982D-59DD67B4580F
 ---
-
 Song 1:
 [G]Take me back, [Abdim][Am]take me back, dear Lord  [D7]
 [D7]to the [Ebdim]place where I [Em]first received [Am7]you, [D7][G]

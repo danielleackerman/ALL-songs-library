@@ -1,22 +1,25 @@
 ---
-title: "I Just Started Livin'"
-artist: "Artist Name"
+title: I Just Started Livin'
+artist: Artist Name
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "83B65346-3295-4433-BC3D-BE632AC2395E"
+id: 83B65346-3295-4433-BC3D-BE632AC2395E
 ---
-
 VERSE 1:
 [C]Type your lines of the [F]song here
 Just [C]use line breaks to [G]make lines

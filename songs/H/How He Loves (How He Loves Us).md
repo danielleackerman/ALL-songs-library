@@ -1,22 +1,25 @@
 ---
-title: "How He Loves (How He Loves Us)"
-artist: ""
+title: How He Loves (How He Loves Us)
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: "5032549"
-copyright: "2005 Integrity's Hosanna! Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: "John Mark McMillan"
-year: 
+keywords: ''
+ccli: '5032549'
+copyright: 2005 Integrity's Hosanna! Music
+source: John Mark McMillan
+year: ''
 medley: []
-id: "2BEB2F8F-2EED-4DE9-A6CC-23A4BA7DAC4A"
+id: 2BEB2F8F-2EED-4DE9-A6CC-23A4BA7DAC4A
 ---
-
 VERSE 1:
 C
 He is jealous for me

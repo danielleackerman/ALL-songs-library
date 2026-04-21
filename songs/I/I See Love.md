@@ -1,24 +1,27 @@
 ---
-title: "I See Love"
-artist: "Third Day"
+title: I See Love
+artist: Third Day
 key: A
-tempo: 
-time: 
-ccli: "4462756"
-copyright: "2004 Sparrow Song"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "grace"
+  - love
+  - grace
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4462756'
+copyright: 2004 Sparrow Song
+source: ''
+year: ''
 medley: []
-id: "C4CBB536-FEBA-4407-921F-893B0FF21237"
+id: C4CBB536-FEBA-4407-921F-893B0FF21237
 ---
-
 Capo 2
 Intro:  E D E D E D
 

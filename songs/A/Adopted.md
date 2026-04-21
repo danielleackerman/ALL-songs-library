@@ -1,22 +1,25 @@
 ---
-title: "Adopted"
-artist: "MercyMe"
+title: Adopted
+artist: MercyMe
 key: E
-tempo: 
-time: 
-ccli: "2477695"
-copyright: "1996 Lmbsbro Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '2477695'
+copyright: 1996 Lmbsbro Music
+source: ''
+year: ''
 medley: []
-id: "6E518E36-2780-4242-8A16-4D035A3E44B5"
+id: 6E518E36-2780-4242-8A16-4D035A3E44B5
 ---
-
 VERSE:
 Hal[E]lelujah, God [C#m7]has spoken and I [D2]kn[A2]ow, This changes evey[E]thing
 Hal[E]lelujah, praise [C#m7]Him only, sing the [A2]sl[D2]aves, Adopted by the [E]King

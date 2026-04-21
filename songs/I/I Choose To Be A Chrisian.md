@@ -1,22 +1,25 @@
 ---
-title: "I Choose To Be A Chrisian"
-artist: ""
+title: I Choose To Be A Chrisian
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B0A33157-0531-434C-A25C-2E301CB4AD69"
+id: B0A33157-0531-434C-A25C-2E301CB4AD69
 ---
-
 VERSE 1:
 I met a man the other day
 He looked and me and said

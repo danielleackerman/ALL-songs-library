@@ -1,25 +1,28 @@
 ---
-title: "Satan the Blood of Jesus | LYRICS ONLY"
-artist: ""
+title: Satan the Blood of Jesus | LYRICS ONLY
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "blood"
+  - jesus
+  - blood
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[GIVE HIM THE GLORY]]"
-id: "141D11B8-8DDD-466D-9FA1-AE50E5647AE7"
+  - '[[GIVE HIM THE GLORY]]'
+id: 141D11B8-8DDD-466D-9FA1-AE50E5647AE7
 ---
-
 Medley: give Him the glory
 
 CHORUS:

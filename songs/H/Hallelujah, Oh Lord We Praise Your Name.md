@@ -1,24 +1,27 @@
 ---
-title: "Hallelujah, Oh Lord We Praise Your Name"
-artist: ""
+title: 'Hallelujah, Oh Lord We Praise Your Name'
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
+  - praise
 genre: []
-energy: 
 profile:
-  - "mod-apo-med"
-keywords: "mod apo med"
-source: 
-year: 
+  - mod-apo-med
+keywords: mod apo med
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "7899D84D-48C9-4DF2-BB9E-B8CE3FA48DDE"
+id: 7899D84D-48C9-4DF2-BB9E-B8CE3FA48DDE
 ---
-
 [Eb]Hallelu[Bb/D]jah, [Eb/Db]         Hallelu[Cm7] u[Abm/B]u[Eb/Bb]jah
 [Eb/Ab]Oh, [Fm9]Lord we [Fm9]praise Your [Bbsus]na[Bb]me[Ab/Bb]
 [Eb]All the [Bb/D]Glory [Eb/Db],        All the [Cm7]prai[Abm/B]ai[Eb/Bb]se

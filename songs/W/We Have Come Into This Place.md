@@ -1,22 +1,25 @@
 ---
-title: "We Have Come Into This Place"
-artist: ""
+title: We Have Come Into This Place
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "CC113FC9-3A1F-4350-B5C2-7502C3CE65C8"
+id: CC113FC9-3A1F-4350-B5C2-7502C3CE65C8
 ---
-
 CHORUS:
 [Ab/Bb] We  [Bb13]have  [Eb2]come into this place
 And [C7]gathered in His name to [Fm7]worship Him    [Bb7]

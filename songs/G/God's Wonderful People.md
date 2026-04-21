@@ -1,34 +1,38 @@
 ---
-title: "God's Wonderful People"
-artist: ""
+title: God's Wonderful People
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: medium
+feel: []
+theme: []
+function: []
 tags:
-  - "ccm"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "jesus-movement"
-  - "maranatha"
-  - "medium"
-  - "praise"
-  - "solo-songs"
-  - "worship"
-  - "love"
+  - ccm
+  - choir
+  - choruses
+  - congregational
+  - jesus-movement
+  - maranatha
+  - medium
+  - praise
+  - solo-songs
+  - worship
+  - love
 genre: []
-energy: medium
 profile:
-  - "ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    ccm-choir-choruses-congregational-jesus-movement-maranatha-medium-praise-solo-songs-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "F41A760C-1E92-4D07-AEDF-792847F05DAB"
+id: F41A760C-1E92-4D07-AEDF-792847F05DAB
 ---
-
 I love the [Eb]thrill that I [EbM7]feel
 When I [Eb6]get to[Eb]gether with God's wonderful [Fm7]people
 I love the thrill that I [Fm+7]feel

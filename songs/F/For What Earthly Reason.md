@@ -1,31 +1,35 @@
 ---
-title: "For What Earthly Reason"
-artist: "Dottie Rambo"
+title: For What Earthly Reason
+artist: Dottie Rambo
 key: B
-tempo: 
-time: "3/4"
-ccli: 
-copyright: 
+bpm: ''
+time_sig: 3/4
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "3761C13E-7750-4D8F-97AB-6198DFCF3BAA"
+id: 3761C13E-7750-4D8F-97AB-6198DFCF3BAA
 ---
-
 VERSE 1:
 For [B]what earthly [F#/A#]reason, would the [G#m7]King of kings, come [D#m/F#]down from His [E]throne.
 To [C#m]suffer re[E+/G#]jection, and [E/C#]pay for crimes, [F#9]He had not [B]done.  [E/F#]

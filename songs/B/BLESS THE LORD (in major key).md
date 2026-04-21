@@ -1,22 +1,25 @@
 ---
-title: "BLESS THE LORD (in major key)"
-artist: "Mark Condon"
+title: BLESS THE LORD (in major key)
+artist: Mark Condon
 key: Ab
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "98C5728A-604A-46A5-BB89-77D03C7C2722"
+id: 98C5728A-604A-46A5-BB89-77D03C7C2722
 ---
-
 [Ab]
 
 INTRO:

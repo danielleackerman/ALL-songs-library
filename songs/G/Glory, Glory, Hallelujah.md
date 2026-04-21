@@ -1,26 +1,29 @@
 ---
-title: "Glory, Glory, Hallelujah"
-artist: "J.M. Dixon, Rev J.W. Gladney -- Negro Spiritual"
+title: 'Glory, Glory, Hallelujah'
+artist: 'J.M. Dixon, Rev J.W. Gladney -- Negro Spiritual'
 key: F
-tempo: 
-time: 
-ccli: "1619808"
-copyright: "1947 James D. Vaughn, Music Publisher (Admin. by Music Services, Inc.)"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "glory"
-  - "breakthrough"
+  - glory
+  - breakthrough
 genre: []
-energy: 
 profile:
-  - "os-apo-med"
-  - "os-gospel-med"
-keywords: "os apo med, os gospel med, breakthrough,"
-source: 
-year: 
+  - os-apo-med
+  - os-gospel-med
+keywords: 'os apo med, os gospel med, breakthrough,'
+ccli: '1619808'
+copyright: '1947 James D. Vaughn, Music Publisher (Admin. by Music Services, Inc.)'
+source: ''
+year: ''
 medley: []
-id: "763BED95-1F97-4F7F-A6D3-21AA8A5F8E65"
+id: 763BED95-1F97-4F7F-A6D3-21AA8A5F8E65
 ---
-
 {artist: J.M. Dixon, Rev J.W. Gladney -- Negro Spiritual}
 
 original key Bb

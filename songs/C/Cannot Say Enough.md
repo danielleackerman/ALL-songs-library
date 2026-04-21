@@ -1,22 +1,25 @@
 ---
-title: "Cannot Say Enough"
-artist: "MercyMe"
+title: Cannot Say Enough
+artist: MercyMe
 key: E
-tempo: 
-time: 
-ccli: "3179363"
-copyright: "2001 Simpleville Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3179363'
+copyright: 2001 Simpleville Music
+source: ''
+year: ''
 medley: []
-id: "37F00A45-0254-41AE-AB74-6227410DDC66"
+id: 37F00A45-0254-41AE-AB74-6227410DDC66
 ---
-
 E
 What can we say to describe
                              A

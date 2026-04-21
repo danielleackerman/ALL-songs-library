@@ -1,23 +1,26 @@
 ---
-title: "I Feel The Joy"
-artist: "Page 164"
+title: I Feel The Joy
+artist: Page 164
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "joy"
+  - joy
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E7D9B1D1-955C-4F85-96C3-FF3E1E09A553"
+id: DEF659B5-EF66-4B9C-B7B6-E6B6D7F9BC7C
 ---
-
 I   feel   the   [Ebm]joy   of   the   Lord   falling   fresh   on   me
 
 I    feel   the   joy   of   the   Lord   delivering    [Eb7]me

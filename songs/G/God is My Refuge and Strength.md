@@ -1,24 +1,27 @@
 ---
-title: "God is My Refuge and Strength"
-artist: ""
+title: God is My Refuge and Strength
+artist: ''
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "refuge"
-  - "strength"
+  - refuge
+  - strength
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "DE3D1A66-4B77-4A0A-9721-9501204F8B98"
+id: DE3D1A66-4B77-4A0A-9721-9501204F8B98
 ---
-
 (Chorus)
 [G]God is my [C/G]refuge and [G]strength
 

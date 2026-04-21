@@ -1,36 +1,40 @@
 ---
-title: "More About Jesus"
-artist: "words by Eliza E. Hewitt, music by John R. Sweney"
+title: More About Jesus
+artist: 'words by Eliza E. Hewitt, music by John R. Sweney'
 key: Ab
-tempo: 
-time: "6/8"
-ccli: 
-copyright: "Public Domain"
+bpm: ''
+time_sig: 6/8
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-sl0w"
-keywords: "os apo sl0w"
-source: "Sing Unto The Lord Songbook -11"
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - os-apo-sl0w
+keywords: os apo sl0w
+ccli: ''
+copyright: Public Domain
+source: Sing Unto The Lord Songbook -11
 year: 1887
 medley: []
-id: "6FF9EE7D-A0F7-43AD-846D-14B2AD10B4F7"
+id: 6FF9EE7D-A0F7-43AD-846D-14B2AD10B4F7
 ---
-
 VERSE 1:
 [Ab]More about Je[Absus(add6)]sus would I know,
 [Eb]More of His grace [Eb6]to [Ab]others show;

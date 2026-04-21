@@ -1,38 +1,44 @@
 ---
-title: "I know God is God"
-artist: ""
+title: I know God is God
+artist: ''
 key: C
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "name"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - name
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med-slow"
-  - "os-apo-slow"
-keywords: "os apo med slow, os apo slow, name"
-source: "He's God on the platform; God back at the door; He's God in the amen corner; He's God all over the floor; And God don't ever change"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med-slow
+  - os-apo-slow
+keywords: 'os apo med slow, os apo slow, name'
+ccli: ''
+copyright: ''
+source: >-
+  He's God on the platform; God back at the door; He's God in the amen corner;
+  He's God all over the floor; And God don't ever change
+year: ''
 medley: []
-id: "7B7EF6FB-986C-4B80-A0D2-2010B9BA7903"
+id: 7B7EF6FB-986C-4B80-A0D2-2010B9BA7903
 ---
-
 and Jesus is his name (And he always will be God)
 
 He's God when the lightening flashes

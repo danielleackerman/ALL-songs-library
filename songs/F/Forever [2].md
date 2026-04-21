@@ -1,35 +1,34 @@
 ---
-title: "Forever"
-artist: "MercyMe"
-key: B
-tempo: 
-time: 
-ccli: 
-copyright: "2000 MercyMe Music"
+title: Forever
+artist: James Fortune
+key: Eb
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "B1D53625-0BC3-4984-A86D-FEC1645A743C"
+id: F636081E-8547-46B8-892B-B89662E0BF79
 ---
-
-VERSE:
-[B]Sing oh sing your adoration
-[E2/C#]To the King our King [E]
-He's coming again   [B]
-Li[B]ft Him high all you nations
-[E2/C#]Let the angel's rejoice   [E]
-He's coming again    [B]
-
-BRIDGE:
-[A#m]Lord you dance on the sea
-And the mounta[F#]ins sing your praise           [E]
-Foreve[E2/C#]r eternal the Lord of un[E]ending grace          [B]
+[Eb]With nails in His hands  with nails in His [Bb]feet  [Eb]
+A [Ab]crown of  [Eb]thorns on His [Ab]head
+[Gm]Not   a   mumbleing [Eb]word and You stayed [Bb]there
+[Eb]And I won't  [Ab]forget what You gave up for me
 
 CHORUS:
-[B]Forever, forever[B/G#]
-We will lift[F#] your name above all na[E]mes (repeat)
+[Cm]And    forever   [Db]You're my [Eb]Savior
+Forever my [Bb]Redeemer
+Forever   I'll [Cm]remember the [Bb]price that you [Ab]paid
+[Cm]Forever You are [Eb]holy
+Forever You are [Bb]worthy
+Forever I'll sing [Cm]glory    to   [Bb]Your [Ab]name

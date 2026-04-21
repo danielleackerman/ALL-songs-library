@@ -1,30 +1,35 @@
 ---
-title: "Falling In Love With Jesus LYRICS"
-artist: "Jonathon Butler/ Kirk Whalum"
+title: Falling In Love With Jesus LYRICS
+artist: Jonathon Butler/ Kirk Whalum
 key: Eb
-tempo: 75
-time: "4/4"
-ccli: "4476773"
-copyright: "2002 Doulos Publishing | Warner TamerLane Publishing Company ( Maranatha! Music Admin. by Music Services)|"
+bpm: '75'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "jesus"
-  - "med-slow"
-  - "jazz"
+  - love
+  - jesus
+  - med-slow
+  - jazz
 genre: []
-energy: medium-slow
 profile:
-  - "mod-apo-med"
-  - "mod-gospel-med"
-keywords: "mod apo med, mod gospel med, med slow, jazz"
-source: 
-year: 
+  - mod-apo-med
+  - mod-gospel-med
+keywords: 'mod apo med, mod gospel med, med slow, jazz'
+ccli: '4476773'
+copyright: >-
+  2002 Doulos Publishing | Warner TamerLane Publishing Company ( Maranatha!
+  Music Admin. by Music Services)|
+source: ''
+year: ''
 medley:
-  - "[[SET A FIRE]]"
-  - "[[NO PLACE I'D RATHER BE]]"
-id: "9625F07B-54B2-4D71-9E25-96C7233AEFE6"
+  - '[[SET A FIRE]]'
+  - '[[NO PLACE I''D RATHER BE]]'
+id: 9625F07B-54B2-4D71-9E25-96C7233AEFE6
 ---
-
 Medley: set a fire / no place I'd rather be
 
 VERSE 1:

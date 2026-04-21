@@ -1,22 +1,25 @@
 ---
-title: "Heart Cries Holy"
-artist: "Big Daddy Weave"
+title: Heart Cries Holy
+artist: Big Daddy Weave
 key: E
-tempo: 
-time: 
-ccli: "3504581"
-copyright: "2000 Open Worship Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3504581'
+copyright: '2000 Open Worship Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "A708E131-E0C0-4F85-AB28-DC3650F2B9C1"
+id: A708E131-E0C0-4F85-AB28-DC3650F2B9C1
 ---
-
 INTRO:
 [A2]    [B2]
 

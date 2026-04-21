@@ -1,24 +1,27 @@
 ---
-title: "Sacrifice"
-artist: "Big Daddy Weave"
+title: Sacrifice
+artist: Big Daddy Weave
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: "2001 Open Worship Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "praise"
-  - "sacrifice"
+  - praise
+  - sacrifice
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: 2001 Open Worship Music
+source: ''
+year: ''
 medley: []
-id: "3CDB5316-19C0-4A90-8EE5-3F4BDF632D88"
+id: 3CDB5316-19C0-4A90-8EE5-3F4BDF632D88
 ---
-
 G
 God of glory, God of might
 C

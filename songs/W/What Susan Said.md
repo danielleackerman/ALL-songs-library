@@ -1,24 +1,27 @@
 ---
-title: "What Susan Said"
-artist: "Rich Mullins"
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: What Susan Said
+artist: Rich Mullins
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "friend"
-  - "hope"
+  - friend
+  - hope
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "54966453-2B8A-475C-9679-57F1EAB91E75"
+id: 54966453-2B8A-475C-9679-57F1EAB91E75
 ---
-
 Key:
 
 What Susan Said

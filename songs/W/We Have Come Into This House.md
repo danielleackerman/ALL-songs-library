@@ -1,33 +1,37 @@
 ---
-title: "We Have Come Into This House"
-artist: ""
+title: We Have Come Into This House
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "christ"
-  - "righteousness"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - christ
+  - righteousness
 genre: []
-energy: slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "D9614878-1A9A-4C50-89F2-EF2965BD1EF7"
+id: D9614878-1A9A-4C50-89F2-EF2965BD1EF7
 ---
-
 VERSE 1:
 [Ab]We [Bb]have [Eb]come into this [Gm7]house
 [Cm7]Gathered in His [Ab]name

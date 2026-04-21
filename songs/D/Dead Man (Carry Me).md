@@ -1,22 +1,25 @@
 ---
-title: "Dead Man (Carry Me)"
-artist: "Jars Of Clay"
+title: Dead Man (Carry Me)
+artist: Jars Of Clay
 key: E
-tempo: 
-time: 
-ccli: "4797713"
-copyright: "2006 Bridge Building Music, Inc. / Pogostick Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4797713'
+copyright: '2006 Bridge Building Music, Inc. / Pogostick Music'
+source: ''
+year: ''
 medley: []
-id: "42804C80-E101-40D2-9417-7FBE89FF7D98"
+id: 42804C80-E101-40D2-9417-7FBE89FF7D98
 ---
-
 (Verse 1:)
 [C#m]January 1, I've got a lot of things on my mind    [G#m]
 [C#m]I'm looking at my body through a new spy satellite   [G#m]

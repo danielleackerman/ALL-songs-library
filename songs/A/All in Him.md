@@ -1,38 +1,42 @@
 ---
-title: "All in Him"
-artist: "George R. Farrow"
+title: All in Him
+artist: George R. Farrow
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "jesus"
-  - "sutl"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - jesus
+  - sutl
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-fast"
-keywords: "os apo fast, sutl"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-fast
+keywords: 'os apo fast, sutl'
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "57CAD92D-E772-40B5-89D5-870A7450AF04"
+id: 57CAD92D-E772-40B5-89D5-870A7450AF04
 ---
-
 VERSE 1:
 The [G]mighty God is Jesus, The [C]Prince of peace is [G]He,
 The everlasting [Em7]father, the [A7]King eternal[D7]ly

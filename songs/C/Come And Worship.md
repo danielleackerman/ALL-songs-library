@@ -1,23 +1,26 @@
 ---
-title: "Come And Worship"
-artist: "Bebo Norman"
+title: Come And Worship
+artist: Bebo Norman
 key: A
-tempo: 
-time: 
-ccli: "5100062"
-copyright: "2007 New Spring / Appstreet Music / Peertunes, Ltd."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "worship"
+  - worship
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5100062'
+copyright: '2007 New Spring / Appstreet Music / Peertunes, Ltd.'
+source: ''
+year: ''
 medley: []
-id: "FED35290-BEFE-42A1-A097-559DC017193A"
+id: FED35290-BEFE-42A1-A097-559DC017193A
 ---
-
 INTRO:
 [A]  [-]  [E]  [-]  [D]
 

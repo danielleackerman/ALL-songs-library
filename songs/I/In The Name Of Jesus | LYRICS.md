@@ -1,25 +1,28 @@
 ---
-title: "In The Name Of Jesus | LYRICS"
-artist: "Traditional Gospel"
+title: In The Name Of Jesus | LYRICS
+artist: Traditional Gospel
 key: F
-tempo: 121
-time: 
-ccli: 
-copyright: 
+bpm: '121'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "jesus"
-  - "bluegrass"
+  - jesus
+  - bluegrass
 genre: []
-energy: medium-fast
 profile:
-  - "os-apo-fast"
-keywords: "os apo fast, bluegrass"
-source: "In the Name of Jesus,"
-year: 
+  - os-apo-fast
+keywords: 'os apo fast, bluegrass'
+ccli: ''
+copyright: ''
+source: 'In the Name of Jesus,'
+year: ''
 medley: []
-id: "96A8982D-D4E6-40CE-B5CB-E4C111765F23"
+id: 96A8982D-D4E6-40CE-B5CB-E4C111765F23
 ---
-
 in the Name of Jesus,
 
 we have the victory

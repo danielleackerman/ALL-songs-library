@@ -1,20 +1,23 @@
 ---
-title: "It's for me, It's for you"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: 'It''s for me, It''s for you'
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "E5117BD0-CB0F-4032-B085-6DBCE442CB8D"
+id: E5117BD0-CB0F-4032-B085-6DBCE442CB8D
 ---
-
 

@@ -1,24 +1,27 @@
 ---
-title: "My Soul Says Yes To The Lord | LYRICS ONLY"
-artist: ""
+title: My Soul Says Yes To The Lord | LYRICS ONLY
+artist: ''
 key: Eb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "king"
+  - king
 genre: []
-energy: 
 profile:
-  - "mod-apo-fast"
-keywords: "mod apo fast"
-source: 
-year: 
+  - mod-apo-fast
+keywords: mod apo fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "9FFE8E1E-A518-4F17-882C-1D0DA0645DBE"
+id: 9FFE8E1E-A518-4F17-882C-1D0DA0645DBE
 ---
-
 CHORUS:
 My soul says yes to the Lord
 My soul says yes to the Lord

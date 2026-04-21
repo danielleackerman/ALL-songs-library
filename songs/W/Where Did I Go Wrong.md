@@ -1,22 +1,25 @@
 ---
-title: "Where Did I Go Wrong"
-artist: "Crowe Boys"
+title: Where Did I Go Wrong
+artist: Crowe Boys
 key: Bb
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "5DFFDE83-95B3-4D89-A0D5-F111C6004329"
+id: 5DFFDE83-95B3-4D89-A0D5-F111C6004329
 ---
-
 VERSE 1:
 
 First job at seventeen

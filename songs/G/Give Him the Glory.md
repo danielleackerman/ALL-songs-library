@@ -1,38 +1,42 @@
 ---
-title: "Give Him the Glory"
-artist: "Clint Brown"
+title: Give Him the Glory
+artist: Clint Brown
 key: G
-tempo: 
-time: 
-ccli: 
-copyright: 
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "glory"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - glory
 genre: []
-energy: high
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-fast"
-keywords: "mod apo fast"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-fast
+keywords: mod apo fast
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley:
-  - "[[Woke up this mornin' with my mind stayed on Jesus]]"
-id: "B6F15B2A-5383-4FB6-9860-9B723AEF1086"
+  - '[[Woke up this mornin'' with my mind stayed on Jesus]]'
+id: B6F15B2A-5383-4FB6-9860-9B723AEF1086
 ---
-
 MEDLEY: Woke up this mornin' with my mind stayed on Jesus
 
 [G]Give Him the glory, give Him pra[C]ise            [G]

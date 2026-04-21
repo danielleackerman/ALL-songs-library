@@ -1,23 +1,26 @@
 ---
-title: "I Turn To You"
-artist: "Selah"
+title: I Turn To You
+artist: Selah
 key: Db
-tempo: 
-time: 
-ccli: "438743"
-copyright: "2004 Curb Songs / Todd Smith Pub"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "contemp-christian-med-slow"
-keywords: "contemp christian med slow"
-source: "Original key Db"
+  - contemp-christian-med-slow
+keywords: contemp christian med slow
+ccli: '438743'
+copyright: 2004 Curb Songs / Todd Smith Pub
+source: Original key Db
 year: 2004
 medley: []
-id: "9CEC37C3-67D5-4DCD-B5EC-193F7FA1416E"
+id: 9CEC37C3-67D5-4DCD-B5EC-193F7FA1416E
 ---
-
 INTRO:
 [GbMaj6] [-] [Db2]
 

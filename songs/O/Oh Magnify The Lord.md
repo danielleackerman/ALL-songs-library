@@ -1,35 +1,39 @@
 ---
-title: "Oh Magnify The Lord"
-artist: "Clint Brown"
+title: Oh Magnify The Lord
+artist: Clint Brown
 key: Bb
-tempo: 55
-time: 
-ccli: "3040973"
-copyright: "1999 Brown, Clint (Admin. by CSB Ministries, Inc.)"
+bpm: '55'
+time_sig: ''
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-slow"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "his-name"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-slow
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - his-name
 genre: []
-energy: slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship"
-keywords: 
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-slow-solo-songs-southern-gospel-traditional-worship
+keywords: ''
+ccli: '3040973'
+copyright: '1999 Brown, Clint (Admin. by CSB Ministries, Inc.)'
+source: ''
+year: ''
 medley: []
-id: "573DA217-8435-48A4-B309-4EA0E8529360"
+id: 573DA217-8435-48A4-B309-4EA0E8529360
 ---
-
 {artist: Clint Brown}
 
 Original key bb

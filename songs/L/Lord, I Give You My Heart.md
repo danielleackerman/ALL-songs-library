@@ -1,24 +1,27 @@
 ---
-title: "Lord, I Give You My Heart"
-artist: "Reuben Morgan"
+title: 'Lord, I Give You My Heart'
+artist: Reuben Morgan
 key: G
-tempo: 
-time: 
-ccli: "1866132"
-copyright: "1995 Hillsong Publishing"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile:
-  - "contemp-christian-med"
-  - "mod-apo-med"
-keywords: "contemp christian med, mod apo med"
-source: "Hillsong, Micheal W. Smith"
-year: 
+  - contemp-christian-med
+  - mod-apo-med
+keywords: 'contemp christian med, mod apo med'
+ccli: '1866132'
+copyright: 1995 Hillsong Publishing
+source: 'Hillsong, Micheal W. Smith'
+year: ''
 medley: []
-id: "A3A324A0-FE08-40E3-92CD-DF82EED230AB"
+id: A3A324A0-FE08-40E3-92CD-DF82EED230AB
 ---
-
 [G]This is my d[Em]esire: to [C]ho[G]nor [D]You.
 [Em]Lord with [D]all my h[G]eart I worship [F]You[C]. [D]
 [G]All I have wi[Em]thin me, I [C]give [G]You pr[D]aise.

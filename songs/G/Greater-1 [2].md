@@ -1,20 +1,23 @@
 ---
-title: "Greater-1"
-artist: ""
-key: 
-tempo: 
-time: 
-ccli: 
-copyright: 
+title: Greater-1
+artist: ''
+key: ''
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "31B9629F-F2D5-4495-8BBA-E6E3428A108A"
+id: 8F6F921E-A811-4C9C-BA24-0171B073F0A7
 ---
-
 

@@ -1,23 +1,26 @@
 ---
-title: "I Can Feel Your Presence, Lord -EASY"
-artist: "Susan Triplett"
+title: 'I Can Feel Your Presence, Lord -EASY'
+artist: Susan Triplett
 key: C
-tempo: 80
-time: 
-ccli: 
-copyright: 
+bpm: '80'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "presence"
+  - presence
 genre: []
-energy: medium-slow
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: ''
+copyright: ''
+source: ''
+year: ''
 medley: []
-id: "C96E6205-A5CB-4CD6-B1AF-CBB466C77880"
+id: C96E6205-A5CB-4CD6-B1AF-CBB466C77880
 ---
-
 Slow 3
 80 bpm
 Key: [C]

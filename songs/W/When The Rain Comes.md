@@ -1,22 +1,25 @@
 ---
-title: "When The Rain Comes"
-artist: "Third Day"
+title: When The Rain Comes
+artist: Third Day
 key: G
-tempo: 
-time: 
-ccli: "3526325"
-copyright: "2001 New Spring / Vandura 2500 Songs"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '3526325'
+copyright: 2001 New Spring / Vandura 2500 Songs
+source: ''
+year: ''
 medley: []
-id: "868A8E35-35EC-4BF2-AF6E-5EAD37DF0663"
+id: 868A8E35-35EC-4BF2-AF6E-5EAD37DF0663
 ---
-
 VERSE 1:
 (Play intro in the first 2 lines)
 When the rain comes it seems that everyone has gone away

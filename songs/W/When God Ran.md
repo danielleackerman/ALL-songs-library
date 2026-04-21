@@ -1,25 +1,28 @@
 ---
-title: "When God Ran"
-artist: "Benny Hester"
+title: When God Ran
+artist: Benny Hester
 key: C
-tempo: 
-time: 
-ccli: "13670"
-copyright: "1985 Word Music, Inc."
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags:
-  - "love"
-  - "forgiveness"
+  - love
+  - forgiveness
 genre: []
-energy: 
 profile:
-  - "mod-apo-slow"
-keywords: "mod apo slow"
-source: 
-year: 
+  - mod-apo-slow
+keywords: mod apo slow
+ccli: '13670'
+copyright: '1985 Word Music, Inc.'
+source: ''
+year: ''
 medley: []
-id: "E58804B6-3CDF-42FA-9CB3-52DD993E5B16"
+id: E58804B6-3CDF-42FA-9CB3-52DD993E5B16
 ---
-
 VERSE 1:
 [C]Almighty God, the [G]Great I Am,
 I[F]mmovable Rock, [G]Omnipotent Powerful A[C]wesome Lord

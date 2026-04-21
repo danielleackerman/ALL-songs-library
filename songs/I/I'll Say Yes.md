@@ -1,26 +1,29 @@
 ---
-title: "I'll Say Yes"
-artist: "The Brooklyn Tabernacle Choir"
+title: I'll Say Yes
+artist: The Brooklyn Tabernacle Choir
 key: B
-tempo: 73
-time: "4/4"
-ccli: "5119833"
-copyright: "2008 Carol Joy Music, Admin. ClearBox Rights, LLC"
+bpm: '73'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "acceptance"
-  - "christian-life"
-  - "gods-word"
+  - acceptance
+  - christian-life
+  - gods-word
 genre: []
-energy: medium-slow
 profile:
-  - "contemp-christian-med-slow"
-keywords: "contemp christian med slow, acceptance, christian life, god's word"
-source: 
-year: 
+  - contemp-christian-med-slow
+keywords: 'contemp christian med slow, acceptance, christian life, god''s word'
+ccli: '5119833'
+copyright: '2008 Carol Joy Music, Admin. ClearBox Rights, LLC'
+source: ''
+year: ''
 medley: []
-id: "8A1B9CD3-6437-4471-9944-A03D07BDFDDD"
+id: 8A1B9CD3-6437-4471-9944-A03D07BDFDDD
 ---
-
 [Bmaj]I'll say yes lord [F#Maj], I'll say  yes
 To your will lord,[Bmaj] I'll say  [F#Maj]yes
 where you lead me, [Bmaj] I will [Ebm]go.

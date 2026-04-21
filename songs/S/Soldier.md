@@ -1,22 +1,25 @@
 ---
-title: "Soldier"
-artist: "Bebo Norman"
+title: Soldier
+artist: Bebo Norman
 key: C
-tempo: 
-time: 
-ccli: "4446789"
-copyright: "2004 New Spring / Capilano Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '4446789'
+copyright: 2004 New Spring / Capilano Music
+source: ''
+year: ''
 medley: []
-id: "79D08372-A4B4-49A3-8FCC-83A39490AEFC"
+id: 79D08372-A4B4-49A3-8FCC-83A39490AEFC
 ---
-
 Intro: C   G    C     G
 
 VERSE 1:

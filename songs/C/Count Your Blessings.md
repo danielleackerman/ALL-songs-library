@@ -1,37 +1,41 @@
 ---
-title: "Count Your Blessings"
-artist: "Edwin Othello Excell, Rev. Johnson Oatman, Jr."
+title: Count Your Blessings
+artist: 'Edwin Othello Excell, Rev. Johnson Oatman, Jr.'
 key: Eb
-tempo: 75
-time: "2/4"
-ccli: "40416"
-copyright: "Words and Music, Public Domain."
+bpm: '75'
+time_sig: 2/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "energetic"
-  - "medium-fast"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "sutl"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - energetic
+  - medium-fast
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - sutl
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-apo-med-slow"
-keywords: "os apo med slow, sutl"
-source: "Sing Unto The Lord Songbook-23"
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+  - os-apo-med-slow
+keywords: 'os apo med slow, sutl'
+ccli: '40416'
+copyright: 'Words and Music, Public Domain.'
+source: Sing Unto The Lord Songbook-23
+year: ''
 medley: []
-id: "53DB70D2-B20F-4F18-AB68-0E12E36710F0"
+id: 53DB70D2-B20F-4F18-AB68-0E12E36710F0
 ---
-
 VERSE 1:
 [Eb]When upon life’s billows, [Bb]you are tempest tossed,
 [Bb]When you are discouraged, [Eb]thinking all is lost,

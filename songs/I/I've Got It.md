@@ -1,39 +1,43 @@
 ---
-title: "I've Got It"
-artist: "Andrae Crouch"
+title: I've Got It
+artist: Andrae Crouch
 key: F
-tempo: 139
-time: 
-ccli: "654266"
-copyright: "1972 Manna Music, Inc. (Admin. by ClearBox Rights, LLC)"
+bpm: '139'
+time_sig: ''
+meter: ''
+tempo: medium-fast
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "high-energy"
-  - "medium-fast-shouting"
-  - "praise"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "holy-ghost"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - high-energy
+  - medium-fast-shouting
+  - praise
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - holy-ghost
 genre: []
-energy: medium-fast
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship"
-  - "os-gospel-fast"
-  - "the-holy-ghost"
-keywords: "os gospel fast, the holy ghost"
-source: 
-year: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-high-energy-medium-fast-shouting-praise-solo-songs-southern-gospel-traditional-worship
+  - os-gospel-fast
+  - the-holy-ghost
+keywords: 'os gospel fast, the holy ghost'
+ccli: '654266'
+copyright: '1972 Manna Music, Inc. (Admin. by ClearBox Rights, LLC)'
+source: ''
+year: ''
 medley:
-  - "[[GREATER IS HE THAT IS IN ME]]"
-id: "16DDAB6E-6F20-4C18-B068-5AB4D82E2590"
+  - '[[GREATER IS HE THAT IS IN ME]]'
+id: 16DDAB6E-6F20-4C18-B068-5AB4D82E2590
 ---
-
 {artist: Andrae Crouch}
 
 Original key f

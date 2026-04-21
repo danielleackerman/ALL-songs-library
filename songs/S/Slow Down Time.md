@@ -1,22 +1,25 @@
 ---
-title: "Slow Down Time"
-artist: "Jeremy Camp"
+title: Slow Down Time
+artist: Jeremy Camp
 key: A
-tempo: 
-time: 
-ccli: "5322091"
-copyright: "2008 Thirsty Moon River Publishing / Stolen Pride Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '5322091'
+copyright: 2008 Thirsty Moon River Publishing / Stolen Pride Music
+source: ''
+year: ''
 medley: []
-id: "AA0AB303-8E53-4979-9FA1-BC3001A3C334"
+id: AA0AB303-8E53-4979-9FA1-BC3001A3C334
 ---
-
 (intro):  A2 E Bm D
 
   (Verse 1):

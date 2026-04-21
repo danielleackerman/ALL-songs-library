@@ -1,33 +1,39 @@
 ---
-title: "Worthy Of It All"
-artist: "Cece Winans | written by David Brymer, Ryan Hall"
+title: Worthy Of It All
+artist: 'Cece Winans | written by David Brymer, Ryan Hall'
 key: Eb
-tempo: 71
-time: "4/4"
-ccli: "6280644"
-copyright: "2012 Innerland, Wayfinder Music, Common Hymnal Publishing, Underground Treasure, Admin. Capitol CMG Publishing, Integrity Music"
+bpm: '71'
+time_sig: 4/4
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "slow"
-  - "solo-songs"
-  - "traditional"
-  - "worship"
-  - "god-incarnate"
-  - "worthiness"
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - slow
+  - solo-songs
+  - traditional
+  - worship
+  - god-incarnate
+  - worthiness
 genre: []
-energy: medium-slow
 profile:
-  - "choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship"
-keywords: "god incarnate, worthiness"
-source: 
-year: 
+  - >-
+    choir-choruses-congregational-contemporary-slow-solo-songs-traditional-worship
+keywords: 'god incarnate, worthiness'
+ccli: '6280644'
+copyright: >-
+  2012 Innerland, Wayfinder Music, Common Hymnal Publishing, Underground
+  Treasure, Admin. Capitol CMG Publishing, Integrity Music
+source: ''
+year: ''
 medley: []
-id: "8BFB69C6-E0A9-4F56-B72C-1A2009B16E2A"
+id: 8BFB69C6-E0A9-4F56-B72C-1A2009B16E2A
 ---
-
 {artist: Cece Winans | written by David Brymer, Ryan Hall}
 
 Intro (4x):

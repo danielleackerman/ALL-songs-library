@@ -1,22 +1,25 @@
 ---
-title: "Magnificent"
-artist: "Matt Redman"
+title: Magnificent
+artist: Matt Redman
 key: D
-tempo: 
-time: 
-ccli: "6016526"
-copyright: "2011 Thankyou Music"
+bpm: ''
+time_sig: ''
+meter: ''
+tempo: ''
+feel: []
+theme: []
+function: []
 tags: []
 genre: []
-energy: 
 profile: []
-keywords: 
-source: 
-year: 
+keywords: ''
+ccli: '6016526'
+copyright: 2011 Thankyou Music
+source: ''
+year: ''
 medley: []
-id: "994C94AB-70BA-4FD0-BCE7-F53FEE6B110C"
+id: 994C94AB-70BA-4FD0-BCE7-F53FEE6B110C
 ---
-
 Capo 3 (key of F)
 
 VERSE 1:

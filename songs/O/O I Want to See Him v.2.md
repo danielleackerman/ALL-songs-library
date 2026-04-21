@@ -1,26 +1,29 @@
 ---
-title: "O I Want to See Him v.2"
-artist: "R.H. Cornelius 1916"
+title: O I Want to See Him v.2
+artist: R.H. Cornelius 1916
 key: G
-tempo: 50
-time: "12/8"
-ccli: "51687"
-copyright: "Public Domain"
+bpm: '50'
+time_sig: 12/8
+meter: ''
+tempo: slow
+feel: []
+theme: []
+function: []
 tags:
-  - "sutl"
-  - "anticipation"
+  - sutl
+  - anticipation
 genre: []
-energy: slow
 profile:
-  - "os-apo-med"
-keywords: "sutl, os apo med, anticipation"
-source: "SING UNTO THE LORD, 2"
-year: 
+  - os-apo-med
+keywords: 'sutl, os apo med, anticipation'
+ccli: '51687'
+copyright: Public Domain
+source: 'SING UNTO THE LORD, 2'
+year: ''
 medley:
-  - "[[AT THE CROSS]]"
-id: "882ED2EB-4A3A-40DF-9B79-D7E699DB374E"
+  - '[[AT THE CROSS]]'
+id: 882ED2EB-4A3A-40DF-9B79-D7E699DB374E
 ---
-
 original key Ab, Bb, G
 
 Medley: at the cross

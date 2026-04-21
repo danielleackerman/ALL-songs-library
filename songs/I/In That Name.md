@@ -1,37 +1,41 @@
 ---
-title: "In That Name"
-artist: "Mark Condon"
+title: In That Name
+artist: Mark Condon
 key: D
-tempo: 75
-time: 
-ccli: 
-copyright: 
+bpm: '75'
+time_sig: ''
+meter: ''
+tempo: medium-slow
+feel: []
+theme: []
+function: []
 tags:
-  - "black-gospel"
-  - "choir"
-  - "choruses"
-  - "congregational"
-  - "contemporary"
-  - "medium-slow"
-  - "reverential"
-  - "solo-songs"
-  - "southern-gospel"
-  - "traditional"
-  - "worship"
-  - "love"
-  - "jesus"
+  - black-gospel
+  - choir
+  - choruses
+  - congregational
+  - contemporary
+  - medium-slow
+  - reverential
+  - solo-songs
+  - southern-gospel
+  - traditional
+  - worship
+  - love
+  - jesus
 genre: []
-energy: medium-slow
 profile:
-  - "black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship"
-  - "mod-apo-med-slow"
-keywords: "mod apo med slow"
-source: 
+  - >-
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+  - mod-apo-med-slow
+keywords: mod apo med slow
+ccli: ''
+copyright: ''
+source: ''
 year: 2006
 medley: []
-id: "84D67681-EE4F-4DE4-B8BA-BA6D5A480B0A"
+id: 84D67681-EE4F-4DE4-B8BA-BA6D5A480B0A
 ---
-
 {artist: Mark Condon, 2006}
 
 [D2]Jesus,  [D2/F#]Jesus,  [GM7]Jesus
