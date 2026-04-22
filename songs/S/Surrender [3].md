@@ -46,3 +46,12 @@ end:
 For[F]ever unto You, I will[C] sing    For[Bb]ever unto You, I will sing  (2x)
 And I surre[F]nder, and I surre[C]nder, and I surre[Bb]nder, now  (4x)
 [F]Soften up this harden [Bb]clay, [F]to [Gm]be a servant t[F]his I pr[Bb]ay.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

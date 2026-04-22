@@ -68,3 +68,12 @@ I'm w[Am7]ait  -  [G]ing for the w[F]orld to fall
 I'm w[Am7]ait  -  [G]ing  for the [Fmaj7]scene to change
 I'm w[Am7]ait  -  [G]ing for the w[F]orld to fall
 I'm wa[Am7]it  -  [G]ing[F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

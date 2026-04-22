@@ -68,3 +68,12 @@ A little more today , And a whole lot more tomorrow
 
 Os southern gospel med, os gospel med, os apo med, praise
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

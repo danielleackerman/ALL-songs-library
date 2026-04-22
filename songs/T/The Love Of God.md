@@ -64,3 +64,12 @@ To write the [Gmaj7]love of God a[D]bove
 Would drain the [A]o  [A/G]-  ceans [D]dry
 Nor could the [Gmaj7]scroll contain the [Bm]whole
 Though stretched from [A]sky [A/G]   to [D/F#]sky[G][D/F#][G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -50,3 +50,12 @@ Said I'm wrapped up, hmm,
 Tied up, hmm,
 Tangled up in Jesus,
 He's all I need
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

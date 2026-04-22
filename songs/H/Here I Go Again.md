@@ -61,3 +61,12 @@ What[Bb] am I so afraid
 What am I so afraid
 What[Eb] am I so afraid of
 [Gm]Well h[Bb]ow t[F]han will he know, when he has never heard.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

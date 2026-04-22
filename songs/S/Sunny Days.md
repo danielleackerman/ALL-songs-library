@@ -54,3 +54,12 @@ if the [D]car won’t [Em7]start when you [D]turn the [Em7]key
 when the [D]music comes [Em7]on, all your [G]cold, cold heart can do
    C
 is skip a beat
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -81,3 +81,12 @@ I will [G2]listen and be[G]lieve;  Je[G2]sus, You a[G]re
 The voice of [D2]trut[D]h[Bm(add11)][Bm]
 And I will [G2]listen to You[G][G2][G]
 You [D2]are[D][Bm(add11)][Bm][G2][G][G2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

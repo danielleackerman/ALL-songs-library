@@ -36,3 +36,12 @@ Title: Shelter
 Though the [A]sea should [Bm]roar with all the [G]heartache;[D]
 Though our [A]hearts should [Bm]pound, though our [G]throats be dry,[D]
 [Bm]We will lift [Em]your [G]Name [A]on high.[D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -63,3 +63,12 @@ Child Your [Eb]cries have a[F]woken the [Bb]master
 Oh He knows Your voice
 Lift Your [Gm]hands it's time to rejoice
 Child Your [Eb]cries have a[F]woken the [Bb]master  [Bbm][Bb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

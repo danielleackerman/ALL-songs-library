@@ -71,3 +71,12 @@ le-lu-jah)                                (Hal-
 To [D]worship you         [A]
 le-lu-           le-lu-jah)
    You)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

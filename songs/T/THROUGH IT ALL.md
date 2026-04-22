@@ -56,3 +56,12 @@ I thank Him for the storms He brought me through.
 For if I'd never had a problem,
 I wouldn't know God could solve them,
 I'd never know what faith in God could do
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

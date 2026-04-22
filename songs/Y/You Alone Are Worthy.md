@@ -25,3 +25,12 @@ CHORUS:
 [Fm/D]       [Eb]You  a[Eb/Db]lone are [AbM7]wor[Bb2]thy
 [G7b9]Of all the [Cm7]praises we can give
 [Abm7]That [Eb/Bb]we [Fm/D]can [Eb]give  [Bbm/Gb]  [Fm7]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

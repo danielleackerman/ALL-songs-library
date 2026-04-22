@@ -40,3 +40,12 @@ BRIDGE:
 Nothing is[C/E] impos[Fsus]sible[F]
 [Dm7]Nothing is[C/E] impos[Fsus]sible[F/A] for You [Bb]
 You hold my world[Dm] in Your han[C]ds
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

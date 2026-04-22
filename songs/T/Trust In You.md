@@ -98,3 +98,12 @@ I will trust[C#m] in you
 
 INSTRUMENTAL:
 =>[E5]Chorus 2[C#m][A][B][E5]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

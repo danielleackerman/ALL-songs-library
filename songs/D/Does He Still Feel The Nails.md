@@ -38,3 +38,12 @@ It seems That I'm so good at breaking promises
 And I treat His precious blood so carelessly
 But each time He forgives, what if He relives
 The agony He felt on that tree.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

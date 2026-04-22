@@ -28,3 +28,12 @@ Holy is [Cm/Bb]the[Bb] Lamb [Gm/Bb]of[F] God [F7/A]
 BRIDGE:
 [Bb7/D]Sing[Eb]glory[Bb]glory[F]glory[F/G]to[F7/A]His[Bb]name[Bb-Bb/D]forever
 [Eb]Glory[Bb]glo[Gm7]ry[Bb/F]glory[F]to[Eb/Bb]His[Bb]name. [Eb/F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -48,3 +48,12 @@ I [A7]go to the [D]Rock.
 [G/A]When the [G/D]winds [D]of sorrow threaten
 Is there [D7]a [G]refuge, in the [D]time of [F#7/C#]tribu[Bm]lation
 [D7/A]when my [Em]soul needs [Em7]conso[A7]lation, I go to the [D]Rock.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

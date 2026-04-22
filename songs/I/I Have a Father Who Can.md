@@ -41,3 +41,12 @@ I cannot love humanity so much that I would die
 I cannot name the stars above or count the grains of sand
 But I have a father, I have a father who can
 I have a father who can
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -71,3 +71,12 @@ Oh be [Am]careful little eyes what [G/B]see
 Oh be [C]careful little eyes what you [F]see
 For the [Dm]Father up above is [F]looking down in love
 Oh be [G]careful little eyes what you [C]see
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

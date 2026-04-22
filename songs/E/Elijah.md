@@ -90,3 +90,12 @@ With a whirlwind to fuel my chariot of fire
 And when I look back on the stars
 It'll be like a candlelight in Central Park
 And it won't break my heart to say goodbye
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

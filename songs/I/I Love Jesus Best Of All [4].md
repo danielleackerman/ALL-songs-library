@@ -67,3 +67,12 @@ I [F]love to know He [F7]leads me [Bb]by His staff and [Bdim]rod,
 But I [F]love [C7]Jesus best of [F]all.
 
 OS APO FAST, SUTL, Songbook
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

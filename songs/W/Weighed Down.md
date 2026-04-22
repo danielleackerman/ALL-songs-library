@@ -57,3 +57,12 @@ Outro:  intro riff while Steve Mason plays an Ebow lead section
 
 Words and music by Dan Haseltine, Matt Odmark, Steve Mason, Charlie Lowell
 Copyright 1997 BridgeBuilding Music (BMI)/Pogostick Music (BMI). All rights reserved.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

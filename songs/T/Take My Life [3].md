@@ -81,3 +81,12 @@ I g[G#5]ive it [Bb5]all to [Cm5]You[Bb5][G#5]
 [G#5]Give i[Bb5]t all [Cm5]to Yo[Bb5]u[G#5]
 
 So take my life!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

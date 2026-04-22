@@ -49,3 +49,12 @@ No ocean can contain it
 No star can rise above
 Into our hearts is given
 The power of His love
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

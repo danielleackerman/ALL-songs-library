@@ -86,3 +86,12 @@ You can take what's wrong and make it [Bb]right. [Bb2] [Bbm] [Eb]
 
 [F]Jesus, Shine down on me, [C] [C7] [C]
 [C]Let your love shine through me in the [F]night.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

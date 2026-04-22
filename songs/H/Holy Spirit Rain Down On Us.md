@@ -37,3 +37,12 @@ R[Eb7]ain on u[Ab7]s fi[Eb7]ll us with Your power[Ab7]
 (ending)
 
 H[Ab]oly S[Eb]piri[C7#9]t  ra[Fm]in dow[Ab/Bb]n on us [Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

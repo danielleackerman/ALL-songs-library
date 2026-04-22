@@ -79,3 +79,12 @@ And I really may just grow up and be like You
 
 Words and music by Rich Mullins and Beaker
 © 1991 Edward Grant / Kid Brothers of St. Frank (ASCAP)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

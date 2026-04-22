@@ -35,3 +35,12 @@ Tod [A7#5]ay  I’m  in [Dm7]need    [D7#9]
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

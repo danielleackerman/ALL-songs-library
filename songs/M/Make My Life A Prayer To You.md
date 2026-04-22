@@ -70,3 +70,12 @@ You're [C]God the Son, You've [D]Risen from the [G]Dead.
 - Chorus -
 
 - Refrain -
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

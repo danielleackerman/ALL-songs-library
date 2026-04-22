@@ -34,3 +34,12 @@ The enemy is under our feet
 Shout for the victory,
 Shout if you've been set free
 Shout !!!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

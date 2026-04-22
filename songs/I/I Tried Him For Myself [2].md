@@ -68,3 +68,12 @@ My faith in [Bbmaj9]no one [Gb13]else
 I may not
 [Bb7sus/F]know what he's [Bb7+]done [Bdim7]for [Ebm7]you, but [Gb13/C]I can truly [Abm/F]say Jesus [Bb7+]brought me [Bb/D]through [Eb]
 [Gdim7]I'm so hap[Abm7]py, [Gb/Bb]I'm singing [Bmaj7]Glo[Db]ry [B/Eb]Hal[Db/F]le[B/Gb]lu[Gb2]jah :II
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

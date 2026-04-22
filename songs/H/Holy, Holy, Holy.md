@@ -35,3 +35,12 @@ Chorus (2x):
 [Db/Eb]Praise  [Ab/Eb]Him, [Db/Eb]exalt His name [Ab/Eb]forever.  [Eb]
 
 [G] [Ab] [A] [Bb] [C] [Db] [D] [Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

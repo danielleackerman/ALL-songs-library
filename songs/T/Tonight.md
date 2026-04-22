@@ -55,3 +55,12 @@ BRIDGE:
 [Bb]      [Dm]  Oh I will ta[C]ke this moment
 [Bb]      [Dm]  And I f[C]eel that it’s closer
 [Bb]      [Dm]  And I k[C]neel to show you this d[Gm]esperate heart of mi[Bb]ne
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

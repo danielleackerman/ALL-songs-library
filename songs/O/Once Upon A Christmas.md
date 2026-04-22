@@ -78,3 +78,12 @@ And the jo[Em7]yful news that [G]He was born spread [Em7]quickly far and wide
 Am//// G//// F//////////// Esus// E//
 
 [Am]Once upon a Christ[C2]mas far a[Am]way in Bethlehem
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

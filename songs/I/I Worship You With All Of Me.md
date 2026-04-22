@@ -43,3 +43,12 @@ To [Dm9]worship You[Fm9/G]with all of [C]me
 Each [Em7]song I sing   Each [Am7]breath I breathe
 I [Dm9]give to You my  heart and soul
 [Gm9]Take my life and [Gm7] [C7] [FM7] take control.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

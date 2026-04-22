@@ -70,3 +70,12 @@ La la la la la la
 C
 La la la la la la
 [G]La l[D]a la la [G]la la la la la
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

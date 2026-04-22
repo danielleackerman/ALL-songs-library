@@ -54,3 +54,12 @@ CHORUS 2:
 [E]Serving the [D]King of [A]Kings [A7]
 I [A]serve Him [A7]because I [D]love Him you [Bm]see
 Serving [E]God is [D]beauti[A]ful [D/E]to [A]me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

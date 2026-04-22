@@ -67,3 +67,12 @@ REFRAIN (repeat and fade)
 
 Words and music by Rich Mullins and Beaker
 © 1993 Edward Grant, Inc. (ASCAP) / Kid Brothers of St. Frank Publishing (ASCAP)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

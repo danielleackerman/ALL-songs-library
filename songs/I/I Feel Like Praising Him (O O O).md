@@ -27,3 +27,12 @@ I feel like praising Him
 [B]O O [Em]O the Lord has [D#+]been so [G]good [B Db G]to me
 
 I feel like prais[D]ing [G]Him
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

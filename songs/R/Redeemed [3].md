@@ -53,3 +53,12 @@ VERSE 4:
 [Ab/Eb]The [Eb]King in whose law [Ab/Eb]I de[Ab]light
 Who lovingly guardeth my [Ab]footsteps,
 And [Eb7]giveth me songs [Ab/Eb]in [Eb7]the [Ab]night.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

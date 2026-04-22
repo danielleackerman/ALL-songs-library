@@ -42,3 +42,12 @@ CHORUS:
 [A7+]I am [BbM7]His and he is [Bbm/Eb]mine,
 In the [F/C] presence [D7b9#5]of the [Gm7]Lord,
 There's [C7b9]fulness of [Fsus]  [F]joy!   [Bb/C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

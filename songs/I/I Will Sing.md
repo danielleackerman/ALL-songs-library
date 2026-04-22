@@ -49,3 +49,12 @@ I will sing.
 I will pra[F]ise even [Am]in my darkest [Em]time through the so[F]rrow and the p[G]ain.
 I will s[C]ing. I will p[F]raise.
 Lift my h[Am]ands to honor Y[Em]ou because Your w[F]ord is t[G]rue. I will s[C]ing. (x2)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

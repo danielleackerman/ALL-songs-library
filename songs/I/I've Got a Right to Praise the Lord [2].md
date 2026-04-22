@@ -47,3 +47,12 @@ VERSE:
 [F]I've got a right to [Dm7]shout Hallelujah[G7] when I think of how He [C7]set me free
 [F]I've got a right to [F/A]lift my voice,[Bb] got a right to [Bº7]sing and rejoice
 [F/C]I've got a right to [Dm7]tell the world. Let the [G7]children of the [C7]Lord re[F]joice [Bb/C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

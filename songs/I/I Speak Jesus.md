@@ -80,3 +80,12 @@ Shout [C]Jesus from the mountains, And [C]Jesus in the streets
 [Csus]Je[C]sus
 
 (chorus (2x) > verse 1)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

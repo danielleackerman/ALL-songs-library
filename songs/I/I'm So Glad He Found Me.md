@@ -67,3 +67,12 @@ He's the dearest friend I've ever known
 And when I see him  yonder
 My love will then grow fonder
 In that happy land (home) beyond the blue
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

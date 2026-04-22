@@ -55,3 +55,12 @@ When weve been there ten thousand years
 Bright shining as the sun
 Weve no less days to sing Gods praise
 Than when we first begun
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

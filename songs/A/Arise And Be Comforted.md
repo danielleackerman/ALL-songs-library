@@ -60,3 +60,12 @@ Let Him chart your way to [E]flight, Spread your wings and [G#m7]fly[F#]
 Spread your wings and [G#m7][F#]fly, Spread your wings and [C#m7][F#]fly
 For the [Em]Lord, He is [B]good
 [B][F#/A#][A][E][Em][B]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

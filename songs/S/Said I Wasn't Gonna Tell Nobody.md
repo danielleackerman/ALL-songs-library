@@ -61,3 +61,12 @@ VERSE 2:
 
 VERSE 3:
 *[D]I said I wasn't gonna sing my song, but I...
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

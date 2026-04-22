@@ -64,3 +64,12 @@ BRIDGE:  Gmaj7  Cmaj9 G/B  Am7  Em/G
 CHORUS:
         [C]Blind [B]     [Bm]words you call[Am2]
         [C]Blind [B]     [G/D]words w[Gmaj7/B]ill fall[C2][Em2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

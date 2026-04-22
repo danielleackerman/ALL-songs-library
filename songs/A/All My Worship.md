@@ -46,3 +46,12 @@ Lord I [Bbm/Gb]praise Your holy [Ab2sus-Ab2]name
 Lord I [Bbm]praise Your name,  Lord I [Bbm/Ab]praise Your name,
 
 Lord I [Bbm/Gb]praise Your Holy [Ab2sus-Ab2]name.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

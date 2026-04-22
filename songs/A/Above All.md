@@ -56,3 +56,12 @@ Like a [Fm]rose, [Fm/Eb]trampled on the [Db]ground[Ab/C]
 You took the [Bbm][Ab/C]fall and thought of [Db]me [Eb] above [Ab]all.
 
 Above All lyrics © Integrity's Hosanna Music
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

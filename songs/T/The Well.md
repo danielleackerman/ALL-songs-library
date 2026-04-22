@@ -84,3 +84,12 @@ Leave it all behind
 Leave it all behind (Costly chains of addiction)
 Leave it all behind (All the guilt the weighs you down)
 Just leave it all be[C2]hind[D] and come to the [G]well
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

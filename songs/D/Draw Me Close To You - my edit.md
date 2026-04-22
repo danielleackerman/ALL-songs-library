@@ -58,3 +58,12 @@ CHORUS:
 [Eb]Help me know [F]You are [Bb]near.
 
 MOD APO Slow, MOD Gospel Slow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

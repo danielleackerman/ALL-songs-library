@@ -47,3 +47,12 @@ Lord I [Bbm]praise Your name,  Lord I [Bbm/Ab]praise Your name,
 Lord I [Bbm/Gb]praise Your [Ab2sus]Holy [Ab2]name.[Ab]
 
 Mod apo slow, mod gospel slow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

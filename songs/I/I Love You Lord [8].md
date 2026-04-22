@@ -55,3 +55,12 @@ Let it be a sweet[Bb2], sweet [Am7]sound[Gm7(4)] in Your ear.              [F2] 
 I love you, Lord,   I love You, Lord
 I Lo[Dbmaj7]ve You because You first loved me.     [F2]       [F]      [Dm11]
 I lo[Dbmaj7]ve You, I love You, Lord.              [Fmaj9]         [Bb2]       [F]   [A]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

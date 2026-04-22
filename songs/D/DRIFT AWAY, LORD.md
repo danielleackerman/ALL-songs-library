@@ -36,3 +36,12 @@ Drift away
 You will surely drift away
 If Your soul's not anchored in Jesus
 You will surely drift away.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

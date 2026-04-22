@@ -68,3 +68,12 @@ More than [B]any[E]thing [F#m] [B]
 [F#m]More than [G#m]anything [C#m]
 I love You [F#m]Jesus
 [B] More than any[E]thing
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

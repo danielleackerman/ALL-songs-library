@@ -48,3 +48,12 @@ Oh, the love of Jesus,
 Oh, the love of Jesus,
 Oh, the love of Jesus,
 It makes His body whole. [Refrain]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

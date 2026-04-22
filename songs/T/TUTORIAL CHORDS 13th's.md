@@ -34,3 +34,12 @@ Contemporary:  6 minor/root,7th.                       Cheater's 13th
 [(F#13th)]          [D#m/F#,E]                                 [F#7add6]        [(Eb)]
 [(Ab13th)]          [Fm/G#,F#]                                 [G#7add6]        [(F)]
 [(Bb13th)]          [Gm/A#,Ab]                                 [A#7add6]        [(G)]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

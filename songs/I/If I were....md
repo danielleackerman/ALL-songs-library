@@ -36,3 +36,12 @@ If I were a wiggly worm, I'd thank the Lord that I could squirm.
 If I were a great big bear, I'd thank the Lord for all of my hair.
 And if I were a bumblebee, I'd thank the Lord for my tummy.
 I just want to thank you, Jesus, for making me, me, me, me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

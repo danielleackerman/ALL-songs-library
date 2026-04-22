@@ -87,3 +87,12 @@ OUTRO:
 Like You would again a [F#m]hundred billion[E] times
 But what measure could [A/C#]amount to Your de [D]- sire
 You're the [F#m]One who never [D]leaves the one be[A]hind
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

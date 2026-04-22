@@ -41,3 +41,12 @@ D		9	9	  2		2	4	4	O
 G		9	8	  1		2	4	2	2
 B		O	O	  O		O	O	O	3
 E		O	O	  O		O	O	O	2
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

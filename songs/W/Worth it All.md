@@ -56,3 +56,12 @@ That u[Cm]nderneath the hurt and the p[Gm7]ain
 Is a picture of me
 [Dm]O Child, where did you g[Gm7]o, Please don’t wa[C]lk away
 [Bb]I love you so, So here I come to say
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

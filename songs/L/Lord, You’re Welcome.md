@@ -28,3 +28,12 @@ Lord You’re [Bb2]welcome  in [F2]to this house of [Gm7]praise   [Gm/C]
 [F/C]Lord, [Gm/F]You’re [Dm7]welcome [Am/C]in[Gm7/C]to [F/C]this [Am/C]ho[Gm/C]ly [Bb/F]place.[F]
 
 Mod apo slow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

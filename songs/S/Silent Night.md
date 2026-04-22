@@ -54,3 +54,12 @@ Silent night, holy night
 [D]Jesus, L[A]ord, at Thy bi[D]rth
 
 INTERLUDE:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

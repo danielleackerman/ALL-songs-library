@@ -46,3 +46,12 @@ VERSE 3:
 Comfort I get from God's ow[B7]n Word
 [E]But when my soul needs [A]manna from [E]above
 [E]Where could I [B7]go but to the [E]Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -41,3 +41,12 @@ Bridge 2x:
 [E]    I love You,[B/D#]I need You,  [C#m]  Though my [E7/B]world may fall, I'll [Amaj7]never let You go
 
 [E]   My Savior, [B]  my closest friend[C#m]  I  will [E7/B]worship You un[Amaj7]til the very end.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

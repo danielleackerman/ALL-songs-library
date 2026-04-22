@@ -81,3 +81,12 @@ You are the st[Eb]art, You are the e[Bbm]nd, You are the Sa[Db]vior and my fri[A
 You are the li[Ebsus]fe, You are the bre[Eb]ath, You are lo[Bbm]ve that conquers de[Ab]ath
 You bring the s[Eb]un, You bring the ra[Bbm]in, You bring the pe[Eb]ace amidst the pa[Ab]in
 You're everyth[Bbm]ing that's good and [Eb]right, You are the cha[Db]nge in my li[Ab]fe
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

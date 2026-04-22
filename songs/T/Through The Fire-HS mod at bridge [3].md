@@ -59,3 +59,12 @@ Just hold [Bb]on, My Lord will show up
 And He will [Fm7]take you through the [Bb]fire a[Eb]gain (2x)
 
 [Abm6][Eb][Abm6/Eb][Eb][Abm6][Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

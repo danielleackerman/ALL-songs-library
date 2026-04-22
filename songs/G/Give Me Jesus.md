@@ -52,3 +52,12 @@ You can h[F/A]ave all this wo[C/G]rld, [Cmaj7/G]
 You can h[F2]ave all this wo[C/E]rld,
 You can h[Dm7]ave all this wo[C/E]rld,
 But give me Je[F2] [G]su[C]s.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

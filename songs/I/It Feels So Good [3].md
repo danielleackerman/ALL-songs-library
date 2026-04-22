@@ -47,3 +47,12 @@ So [G7]glad to [C9]be
 Walking in [G]grace and   [B7]liber[Em7]ty
 I'm  [Am7]here to tell the world that it
 [Gm7/B]feels [Am/C]so  [Gm/A]good to be [G7]free.   [C/D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

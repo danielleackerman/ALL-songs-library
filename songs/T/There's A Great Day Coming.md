@@ -59,3 +59,12 @@ There's a sad day coming, a sad day coming
 There's a sad day coming by and by
 When the sinner shall hear his doom, depart, I know ye not
 Are you ready for that day to come.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

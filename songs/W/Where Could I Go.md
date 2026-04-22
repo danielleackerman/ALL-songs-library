@@ -53,3 +53,12 @@ Life here is grand with friends I love so dear
 Comfort I get from God's own word
 Yet when Ai face the chilling hand of death
 Where could I go but to the Lord.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

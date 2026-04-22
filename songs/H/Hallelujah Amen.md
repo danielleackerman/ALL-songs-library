@@ -57,3 +57,12 @@ You had wanted to do some big things
 And you see how it all went wrong
 But I knew how to send him running
 I just started to sing my song.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -37,3 +37,12 @@ The S[Bm7]avior has been b[F#m]orn and all of He[C]aven smi[Asus]les   [A]
 TAG:
 Hall[G/B]elujah,[Bb] oooh[F]      [C] Halle[G/B]lujah, [Bb] oooh[F]
 Hall[G/B]elujah,[Bb] oooh[F]      [C] Halle[G/B]lujah, [Bb] oooh[F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

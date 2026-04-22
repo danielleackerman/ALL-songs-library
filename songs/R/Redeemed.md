@@ -46,3 +46,12 @@ BRIDGE:
 Cause h[B]is day is long dead and [B/E]gone; because
 [G#m7]I’ve got a new name, a[Eb7/G] new life, I’m not the same
 And a h[B]ope that will carry me [B/E]home
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

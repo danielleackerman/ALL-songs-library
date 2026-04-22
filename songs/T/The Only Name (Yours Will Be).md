@@ -48,3 +48,12 @@ la la la la....
 
 BRIDGE:
 J[C]esus, Je[F]sus, Je[Dm]sus, ju[G]st that N[C]ame!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

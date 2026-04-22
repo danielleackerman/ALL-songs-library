@@ -88,3 +88,12 @@ VERSE 1:
 [Dbm]Somebody he[Ab]re, Needs an an[Ebm]swer,[Eb] Somebody he[Cm]re[Fm], Is wanting [Db]to gi[Dbm]ve up
 Somebody he[Ab]re, You’ve been ready to [Eb]quit, But my God [Fm] says wait, [Bbm]Hold on
 This th[Db]ing [Dbm]it ain’t over yet [Ab]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

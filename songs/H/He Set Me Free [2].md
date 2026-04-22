@@ -58,3 +58,12 @@ VERSE 3:
 [Ab]Not all the world can [Ab7]turn me [Eb]around
 [Eb]Daily I'm working I'm praying [Cm]too
 [Eb]And glory to [Eb7]God I'm [Bb]going [Eb]through
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

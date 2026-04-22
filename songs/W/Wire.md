@@ -53,3 +53,12 @@ Your [Am]time at the top only [C]lasts [D]fifteen minutes
 (Go to Bridge)
 
 Will you c[Am]atch me[C]   If I [G]fall [D]  (2x)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

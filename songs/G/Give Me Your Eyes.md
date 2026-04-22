@@ -56,3 +56,12 @@ BRIDGE:
 Chorus 1st half only piano and acoustic 2nd half add drums with bass
 
 Chorus to end
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

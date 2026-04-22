@@ -55,3 +55,12 @@ the [D]blood that gives me [D#dim]strength from [A]day [G]to [F#7]day
 it will [Bm]ne[F#7/A#]v[Bm]er [A]lose [G#dim]its [A]power [D][A]
 
 Os apo med, os gospel med, med slow, andante
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

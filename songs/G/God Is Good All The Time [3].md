@@ -67,3 +67,12 @@ And His m[Em7]ercies, they will n[G]ever e[A]nd.
 (Bridge)  (½ time feel)
 Though I [Bm7]may not underst[A]and all the pl[C]ans you have for [G]me
 My l[A#]ife is in Your h[F]ands and through the [A/E]eyes of f[D/F#]aith I can c[G]learly s[A]ee
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

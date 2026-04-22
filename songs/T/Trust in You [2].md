@@ -40,3 +40,12 @@ I will [A]put [F#m7]my [E/B]trust [B]in
 VERSE 1:
 (Cut)
 You did not
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

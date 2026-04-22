@@ -65,3 +65,12 @@ said my [G]sons come home again, [C]lifted my face, wiped the [Am]tears from my 
 with for[F]giveness in His voice He said [Am]son, he said son, my son, do you k[G]now I still l[F]ove you
 
 oh he ran to me, god ran
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

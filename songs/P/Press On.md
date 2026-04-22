@@ -52,3 +52,12 @@ CHORUS 2:
 Dear [G]Lord, with the [Bm]prize [C]clear before our [Cm]eyes
 [G]We find the [D]strength to press [G]on     [Em]
 To [C]press [D]on   [C]   [D]   [D7]    [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

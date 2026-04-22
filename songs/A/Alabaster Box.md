@@ -70,3 +70,12 @@ You did not [Dmaj7]feel what I felt, When he wrapped his [Bm]loving arms a[B]rou
 [A]You don't know the cost of the [Em]oil,
 [A]You don't know the cost of my [Dm]pra[Em]ise,
 [A]You don't know the cost of the [Bm]oil In my [E]alabaster [F]box [Bbmaj7] [A]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

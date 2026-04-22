@@ -35,3 +35,12 @@ And  there’s   [F/C]no   [Dm7]other   [C9]name    [C7]I    [F]know.  [Bb/C]
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

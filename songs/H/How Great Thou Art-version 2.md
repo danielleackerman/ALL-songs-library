@@ -55,3 +55,12 @@ VERSE 3:
 And take me [G]home what [D]joy shall [C]fill my [G]heart
 Then [G]I [C]shall [G]bow in humble ado[C]ration
 And there [G]proclaim,"My [D]God, how [C]great Thou [G]Art!"
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

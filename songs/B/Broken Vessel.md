@@ -85,3 +85,12 @@ And cry, [Ab]Lord, You're the [Ao7]Potter
 [F7/A]and [Eb/Bb]I am [Db/Bb]the [C7b9]clay
 
 Make me [Fm/Ab]o[Gm6]ver [Fm7]a[Gm/Bb]gain [Bb7]today.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

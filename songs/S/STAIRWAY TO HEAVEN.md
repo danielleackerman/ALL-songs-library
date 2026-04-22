@@ -47,3 +47,12 @@ There's a stairway golden stairway a stairway that leads to heaven.
 That leads to a home so bright and fair.
 Step by step I'll climb till His hand touches mine.
 Then I'll rest at the top of the stairs.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -39,3 +39,12 @@ Who gladly ch[G]oose You now       [Asus]     [-]  [A]
 [G]Willingly our knees will b[D]ow
 [G]With all our heart soul mind a[Bm]nd strength
 We gladly ch[G]oose You n[Asus]ow   [-]  [A]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

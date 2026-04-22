@@ -45,3 +45,12 @@ might, not by power/But by the Spirit of God" part).  Unfortunately, you
 may have to listen to the CD (Simply Worship) to figure out the timing.
 The song on the CD is written in F-major, but I transposed it up one
 step because of the bellyaching of the guitarists at my church.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -47,3 +47,12 @@ Let  us  [F/C]go  to  the  [C]house  of  the  [F]Lord
 I Came Running when they said unto me.....
 
 I rejoiced when the said unto me.....
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

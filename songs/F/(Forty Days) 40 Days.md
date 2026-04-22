@@ -36,3 +36,12 @@ It's been [F]forty days and [C]forty nights, [G]Down the road of [Am]many trials
 VERSE 2:
 I have one more thing I've got to say, Before they try to take my life away
 Let it be known that I am not afraid, Let You will be done, Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

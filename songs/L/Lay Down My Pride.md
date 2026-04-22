@@ -66,3 +66,12 @@ D5   x577xx
 E5   022xxx  or x799xx
 F#5  244xxx
 G5   355xxx
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

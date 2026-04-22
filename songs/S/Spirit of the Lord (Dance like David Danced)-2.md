@@ -90,3 +90,12 @@ Will You dance
 Will You dance
 C'mon and wave Your hands with me
 Celebrate the victory
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

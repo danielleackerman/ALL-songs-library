@@ -60,3 +60,12 @@ We cannot know, we mat not tell
 How we are saved from death and hell
 Thru faith we know that all is well
 He took our sins away.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

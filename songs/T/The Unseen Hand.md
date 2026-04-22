@@ -57,3 +57,12 @@ His hand has led thru shadows drear
 And while it leads I have no fear
 I know't will lead me to that home
 Where sin nor sorrow e'er can come.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

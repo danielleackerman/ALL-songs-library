@@ -52,3 +52,12 @@ VERSE 4:
 Name above all names
 Worthy of all praise
 My heart will sing how great is our God
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -108,3 +108,12 @@ Your faithful[Dma7]ness, [F#m]my [E(4)]fortress
 Over and [Dma9]over
 
 © 2019 Capitol CMG Paragon, Songs By JSapp, Integrity's Alleluia! Music, Nordinary Music (Admin. by Capitol CMG Publishing) Beam and Post Music (Admin. by Moon & Musky Music) Crucial Music Entertainment, Songs By Jsapp, Be Essential Songs (Admin by Essential Music Publishing). CCLI Song No. 7096220. This chart is the property of GBFPC. Unauthorized distribution is prohibited. Words and music by Krissy Nordhoff/Chuck Butler/Jordan Sapp/Tauren Wells/Alexis Slifer.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

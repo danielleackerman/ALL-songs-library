@@ -26,3 +26,12 @@ We [Ab]give You all the [Eb]glory
 You have all [Ab]power You are [Bbsus]holy
 We [Eb]bow before [G7]Your throne today[Bbdim]
 [Ab]Jesus we [Bb7]bless Your [Eb]name
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

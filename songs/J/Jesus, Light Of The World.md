@@ -44,3 +44,12 @@ A [G]pre[A]cious offering
 
 [G]All the he[A]avens above and the earth below
 [Bm]Are filled w[A/C#]ith the light of Your love
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -65,3 +65,12 @@ VERSE 4:
 [Bb]Do not be discouraged, [Eb]God is over all,
 [Eb]Count your many blessings, [Ab]angels will attend,
 [Bb]Help and comfort give you to your [Eb]journey’s end.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

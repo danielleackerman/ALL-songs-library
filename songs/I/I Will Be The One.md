@@ -51,3 +51,12 @@ CHORUS:
 [Bbm7]My heart will [Ab/F]always sing, [Gb]glory and honor to the [Bbm/Ab]king
 When you [Db/Ab]look below, I want [Bbm7]you to know,
 [Ebm]I will [Db/Ab]be [Gb/Ab]the [Db]one.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

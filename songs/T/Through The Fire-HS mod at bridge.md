@@ -54,3 +54,12 @@ Just [Bb]remember when you’re standing in the valley of d[Cm]eci[-]si[Bb/D]on
 And the [Eb]adversary[Bb/D] says give[Cm] in
 Just hold[F] on, our Lord wil[Eb/F]l sho[-]w [F]up
 And He will [Eb]take you through the [F]fire a[Bb]gain
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -66,3 +66,12 @@ He's [F]everything that my Eb/F]soul ever [Dm/F]longed [F9]for
 [BbM7]Everything He's [F/A]promised and [Gm7]so much [Gm/Eb]more
 [Bbm/Eb]More than a[F2]mazing, more than [F+]marvelous, more than mir[Dm/F]aculous
 Could ever [Cm/A]be, [D7b9]He's more [Gm7]wonderful, that's what [Gm7]Je[F2/A]sus [Bb/C]is [C7b9]to  [F2]me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

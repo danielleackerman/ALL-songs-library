@@ -83,3 +83,12 @@ The wa[Db]ter I th[Ab]irst for
 And the g[Db]round beneath my f[Ab]eet
 You’re eve[Bb]rything   [Eb]
 [Db]Lord, You’re e[Eb]verything to m[F]e    [C]    [Bb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

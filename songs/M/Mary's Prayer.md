@@ -68,3 +68,12 @@ And [Em7]Your [G(no3)]heart has saved the [D]souls of men.[G(no3)]
 Your [Asus]hands now bear the [D2(no3)]scars.
 
 Ending: D2(no3)/C#  D2  G2  Gm  D  Em7  Asus  D2(no3)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

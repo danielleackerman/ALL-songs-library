@@ -59,3 +59,12 @@ But you never k[Dm7]now the miracle      the Father has i[Bb]n store
 Just watch and see, it will[Gm7] not be [Csus4]  [C]
 Just watch and see, it will [Gm7]not be     [Csus4] [C]
 Unredeemed  [F] [F/Bb] [F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

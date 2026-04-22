@@ -55,3 +55,12 @@ Just useless old pieces [F/C]of [C]clay
 
 But some[G2/B]how You saw more, something [F2/A]worth dying for
 You [Dm7]paid more than You should have [G7sus]paid.     [G7]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

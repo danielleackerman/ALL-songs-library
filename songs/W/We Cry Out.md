@@ -60,3 +60,12 @@ Into all the world we take the mystery of your saving grace
 [C]Shine the light [Am7]    into the d[G]arkness
 
 (Repeat Pre-Chorus & Chorus)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

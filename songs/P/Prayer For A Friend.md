@@ -57,3 +57,12 @@ And Lord I lift my friend up to You.
 Lord I lift my friend to You.
 I've done all that I know to do.
 I lift my friend, to You.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -49,3 +49,12 @@ CHORUS:
 [A]    He [E]knows my every [B]thought;[E]
 [A]    He [E]sees each tear  that f[B]alls [C#m7]
 And he[A]ars me when   [B7]I   call    [E]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

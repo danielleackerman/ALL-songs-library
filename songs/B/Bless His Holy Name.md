@@ -39,3 +39,12 @@ BRIDGE:
 [Fm]He has done [Ab]great [Eb]things [Ab/Bb]
 [Eb]He has [Eb/G]done great [Eb/Ab]thi[Fm/Ab]ngs
 [Fm]Bless His [Eb]ho[Bb]ly [Eb]name. [Ab/Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

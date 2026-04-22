@@ -49,3 +49,12 @@ BRIDGE:
 [D]If I [A]don't bring You g[G]lory [A]
 
 (to chorus)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

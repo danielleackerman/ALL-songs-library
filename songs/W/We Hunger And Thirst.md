@@ -56,3 +56,12 @@ Oh how great the price, Now our lives, Are Yours
 OUTRO:
 What love is this that You lay Your life down for us (Savior),
 Oh what love, oh what love, Jesus
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

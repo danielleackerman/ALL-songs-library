@@ -60,3 +60,12 @@ Well, I feel it now
 [B]Oh, I can feel it n[Db]ow everytime I turn aro[B]und
 Knowing I have been set f[Db]ree from the pain and mise[B]ry
 I will make the m[Db]ost of this hope I have[Bbm]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

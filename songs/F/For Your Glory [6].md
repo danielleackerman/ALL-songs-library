@@ -41,3 +41,12 @@ I wanna be [C2]where You [Bb2]are   I gotta be [C2/E]where You [Dm7]are
 Br2
 I wanna be [Bb2]where You [C2]are    Peace is [C2]where You [Dm7]are
 Joy is [C2]where You [Bb2]are      And love is [C2/E]who You [Dm7]are
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

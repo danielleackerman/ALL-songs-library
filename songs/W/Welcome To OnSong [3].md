@@ -51,3 +51,12 @@ Now you can use line formatting to...
 !or do both
 &red:or make it red
 >yellow:even highlight it in yellow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

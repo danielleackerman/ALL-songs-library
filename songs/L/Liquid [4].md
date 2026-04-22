@@ -72,3 +72,12 @@ throughout the verses. For example;
 It somewhat resembles the violin intro at the beggining.
 Great song.
 God bless...
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

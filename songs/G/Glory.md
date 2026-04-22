@@ -53,3 +53,12 @@ Bridge F x 4 measures
 Alle  [Bb/C]Allel[Ebsus]uia
 [F]Alle  [Dm7]Alleluia[Ebsus2]
 Alle  [Bb/C]Allel[Ebsus2]uia
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

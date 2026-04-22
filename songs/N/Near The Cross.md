@@ -60,3 +60,12 @@ CHORUS:
 [E]Be [Esus4]my    [E]glo-[C#m]ry e-v[B]er;
 [E]Till [Esus4]my    [E]rap-[E9]tured [A]soul shall find
 [E]Rest beyond [B]the riv-[E]er.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

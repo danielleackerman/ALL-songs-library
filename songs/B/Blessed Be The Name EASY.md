@@ -53,3 +53,12 @@ Of all Earth kingdom's Conquerer
 Whose reign shall never cease
 
 Os apo med, sutl
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -48,3 +48,12 @@ And there'll be no more race for me to run.
 I've got to stand before God's throne.
 All my heart aches will be gone.
 I'll hear my Savior say, "Welcome home!"
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

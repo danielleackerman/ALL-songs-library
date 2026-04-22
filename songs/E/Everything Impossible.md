@@ -73,3 +73,12 @@ You are[Dm7] everything impossible; And that's okay
 I know i[Dm7]t all seems so illogical; But that's okay
 [F]    You're the[C] love Y[G]ou give to me; You're the love I give away
 You are[Dm7] everything [F]imposs[C]ible; [G]And t[Dm7]hat's ok[F]ay; that’s okay
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -56,3 +56,12 @@ VERSE 1:
 [Bb/D]exalt His name [F7sus4]to[F7]gether[Eb/G] [F/A]
 [Bb]Oh [F2]magnify the [Gm7]Lord [F/A]a[G/B]nd [Cm7]give
 [Bb/D]Him [Fsus4]a [F7]ll the [Bb]praise
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

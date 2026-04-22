@@ -129,3 +129,12 @@ I give You [Ab2]everything, [Ab/C]that I am.
 [Eb]I put my trust in [Ab2]You
 [Eb]I put my trust in [Ab2]You
 [Eb]I put my trust in [Ab2]You
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

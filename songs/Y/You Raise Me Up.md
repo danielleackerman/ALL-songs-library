@@ -53,3 +53,12 @@ Final Refrain
 [D]You raise me [Em]up to [C]walk on stormy [D]seas.
 I am [G]strong when [D]I am on [C]your [G]shoulders
 [C]you raise me [G]up to [D]more than I can [Em]be
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

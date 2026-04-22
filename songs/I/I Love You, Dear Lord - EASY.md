@@ -48,3 +48,12 @@ I [Gm]love [Gm]You, [Bb/C]dear Lord   [C]
 I [F]praise Your [F]Holy [Am]name   [Am]
 
 FOR[Gm]E      [C] -VER [F]MORE    [F]  [Bb/C]to repeat
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

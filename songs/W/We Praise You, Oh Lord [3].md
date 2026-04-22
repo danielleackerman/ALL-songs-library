@@ -31,3 +31,12 @@ CHORUS:
 
 [Bb]We [Bb]praise You, [Cm6]Oh  [Cm6]Lord [Cm9], [Gm]Give [F]ho[Gm]nor [F]to [Eb]Thy na[Bbmaj7]me
 [Bb]For Thou alone [F7]art wor[Gm]thy, [Gm]Oh [F]Lord [Adim7]Most [Bb]High
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

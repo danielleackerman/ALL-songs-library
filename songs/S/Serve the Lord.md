@@ -117,3 +117,12 @@ I will serve the Lord
 
 Songwriters: Carman Licciardello
 Serve the Lord lyrics © Bravo And Encore Music
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

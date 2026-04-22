@@ -73,3 +73,12 @@ As Your [Bm7]Spirit flows free, Let it [G2]find within me, A [D/F#]heart that [G
 And now [G2]just to [D]know You [Asus]more, Has be[G2]come my [D]great re[Asus]ward
 To see [Bm7]Your kingdom come, And [G2]Your will be done,
 I [D/F#]only de[G2]sire to be [Asus]Yours [Bm7]Lo[G2]rd [D] Yours, O [Bm7]Lord, [G2][D]  [Bm] You a[G2]lone [D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

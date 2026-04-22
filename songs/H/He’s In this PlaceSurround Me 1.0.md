@@ -43,3 +43,12 @@ CHORUS:
 [Bb/D]Let [C/E]Your [Fm]presence [Eb/Bb]fi[Bb9]ll [Ab/Bb]this [Eb]place. [Ab/Bb]
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

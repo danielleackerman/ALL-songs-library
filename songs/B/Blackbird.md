@@ -104,3 +104,12 @@ If anyone knows the guitar solo, I am very interested in knowing what it
 is. But I am still a young musician, so I'm not really good at figuring
 that kind of stuff out. Well, God Bless!
 elpolloloco@hotmail.com
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

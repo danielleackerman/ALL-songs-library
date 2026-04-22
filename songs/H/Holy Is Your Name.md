@@ -51,3 +51,12 @@ Now I want to[A] say,[C#m] Holy [B]is Your name[A]
 B ------------12--9--------------12--12s14--9-------------12--9--------------7s12--||
 G -8h9--9-------------8h9--9--------------------8h9--9------------8h9--9-----------|| (x2)
 D ---------9------------------9-------------------------9-----------------9--------||
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

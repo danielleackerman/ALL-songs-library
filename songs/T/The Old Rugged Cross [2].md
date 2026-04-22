@@ -60,3 +60,12 @@ On a old rugged cross, I will ever be true
 It's shame and reproach gladly bear.
 Then He'll call me some day, to my home far away
 Where His glory forever I'll share.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

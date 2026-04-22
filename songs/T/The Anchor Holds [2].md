@@ -66,3 +66,12 @@ CHORUS:
 I had fallen on my knees, [Db]As I [Fm/C]faced the [Bbm]raging seas
 [Eb]The anchor holds, The anchor holds, The anchor holds,
 [Eb/G]In spite of the storm [Ab][Db][Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

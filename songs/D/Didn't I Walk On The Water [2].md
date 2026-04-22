@@ -62,3 +62,12 @@ I [Bb]searched until I found you, and I'd [Ab]do it all a---[Eb]gain.  (Mod: C)
 She said my [B]bills are coming due Lord, and six [A]days is not that [E]long.
 [A/B]She hears a [E]voice so still and low, it says I've [Gbm]moved like that before,
 And I'll [B]do this little thing, and I'll [A]give you so much [E]more.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -43,3 +43,12 @@ There [Eb/G]is no need He [Ab2]can't supply
 So [Eb/G]do not doubt,  He'll [Ab2]be on [Adim]time
 
 There's [Eb/G]nothing [Bb7]hard for the [Eb]Lord.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

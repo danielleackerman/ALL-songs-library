@@ -96,3 +96,12 @@ Three days later he [Am]rose! [F] [A] [Dm] [E], Three days later he [Am]rose! [F
 You see he [Dm]came, he [C]lived, and he [F]died, [Am] But that was the [E]end [Em]  of the beginning.  [A]
 
 End of the Beginning lyrics © Winkin Music, Soulwriter Music Co., Inc.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

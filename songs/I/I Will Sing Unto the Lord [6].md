@@ -58,3 +58,12 @@ BRIDGE:
 [CM7]Let everybody come and [Em/B]Bless His [B7]Name
 
 (Soprano 2x, Alto 2x, All)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

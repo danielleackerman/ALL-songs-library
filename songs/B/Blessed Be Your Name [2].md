@@ -34,3 +34,12 @@ Y[C]our name is high above all [E]others
 Y[C]our name has set the [D]captives fr[E]ee
 Y[C]our name delivers all the na[E]tions
 [F#m]Your name is life and breath to [B]me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

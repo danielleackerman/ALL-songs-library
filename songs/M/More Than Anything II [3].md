@@ -64,3 +64,12 @@ I love You [F#m]Jesus, [B] More than any[C#m]thing
 [A] [G#m] I love You [F#m]Jesus , [G#m] More than [B]any[E]thing
 
 [A] [F#m] [E] [A] [B] [E] [G#m] [E]  [A] [E] [G#m] [E]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

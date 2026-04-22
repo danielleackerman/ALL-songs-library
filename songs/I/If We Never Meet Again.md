@@ -64,3 +64,12 @@ Where the [Bb]charming roses bloom [F]forever
 and separations come no [C7]more.
 If we [F]never meet [F7]again this side of[Bb] Heave[Bbdim]n
 I will [F]meet you on that [C7]beautiful [F]shore.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

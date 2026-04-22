@@ -45,3 +45,12 @@ Let [F/C]go [Dm7]and let [Gm/C]God [Bb/C]have [C7]His [F]way
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

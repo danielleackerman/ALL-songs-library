@@ -117,3 +117,12 @@ ________________              _______________                 _____________
 [(A] [B)][E][A][C]	         [D#][G][A][D][(C)]            [D#][F#][G][B]
 ________________              _______________                 _____________
     [F#][E]	                  [B][A]                   [E]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

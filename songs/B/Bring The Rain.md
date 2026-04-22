@@ -52,3 +52,12 @@ So [Amaj7]tell me what's a little [D]rain
 BRIDGE:
 [A]Holy, holy, holy - [F#m]Holy, holy, holy
 Is the Lord God Alm[D]ighty - Is the Lord God Alm[A]ighty
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

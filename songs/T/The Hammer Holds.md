@@ -51,3 +51,12 @@ VERSE 3:
 CHORUS:
 
 [D9]This t[D/C#]ask befor[D/B]e me ma[D/A]y seem unclear   [G] But it, my[A] maker hold[D9]s
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

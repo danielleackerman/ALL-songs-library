@@ -73,3 +73,12 @@ I'm finding mys[C]elf at a[Csus4] loss for wo[C]rds
 And the fu[F]nny thing is it's [F4]O - [F]k
 The last thing I n[C]eed is to[Csus4] be hea[C]rd
 But to h[F]ear what y[F4]ou would s[F]ay
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

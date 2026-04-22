@@ -67,3 +67,12 @@ TAG:
 You're the Savior w[C#m]e have been praying for[A]
 In our humb[C#m]le hearts You will dwell[A]
 You are in us, [D]You are for us, You are w[A]ith us, Emmanuel[F#m7][E]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

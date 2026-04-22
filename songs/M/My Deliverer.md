@@ -71,3 +71,12 @@ My Deliverer is coming - my Deliverer is standing by
 [Ebm]My  De-[Cb]liv-erer is [Ebm]com-ing[Cb]
 
  Gb   Db      Cb          Gb  Db      Cb
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

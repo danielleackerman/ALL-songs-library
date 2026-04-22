@@ -49,3 +49,12 @@ Oh dr[F]aw m[G]e L[Am]ord,
 And I’ll r[F2]un after Y[G]ou.
 
 Contemporary christian med slow, altar, ccm
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

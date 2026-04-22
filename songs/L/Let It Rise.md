@@ -55,3 +55,12 @@ Let it r[G#]ise
 Let it ri[G#]se  (repeat)
 
 Let it r[G#]ise
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

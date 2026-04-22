@@ -44,3 +44,12 @@ Just [C]use line breaks to [G]make lines
 CHORUS:
 [C2]You can also [Csus4]repeat the chorus with [G]notes
 (Repeat 3x)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

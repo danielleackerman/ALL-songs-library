@@ -48,3 +48,12 @@ And T[Am7]hrougho[D]ut [G]eter[Am/G]ni - [Dm]ty,
 I[G]'ll [F/A]sing [G/B]your to pra[C]ises [C/B] [Am7]
 [C/E]And [Cm6/Eb]I'll reign [G/D]with you[Em7],
 [Am7]Throughout [C/D]et[D]er[G]inity.[C/G]     [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

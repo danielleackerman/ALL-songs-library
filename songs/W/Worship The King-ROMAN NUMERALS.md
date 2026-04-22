@@ -39,3 +39,12 @@ To [IV/V]magnify His [V7]name.     [V7/vii]
 
           [walk up]             [I]
 [V/vi]As [vi]we [ii7]wor[I/V]ship [V7]the [I]King. [IV/V]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

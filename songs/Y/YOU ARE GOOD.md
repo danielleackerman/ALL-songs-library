@@ -52,3 +52,12 @@ id: 884ADF6C-3811-4125-A4D0-4CFEE6B408A0
 Source: LyricFind
 Songwriters: Israel Houghton
 You Are Good lyrics © Capitol CMG Publishing, Integrity Music
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

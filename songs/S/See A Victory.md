@@ -82,3 +82,12 @@ You turn it [Gm]for [F]good
 
 ENDING:
 Eb - F - Gm - Eb - Gm - F - Eb
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -128,3 +128,12 @@ Take me to the [Db2]King   [Eb2/Db]   [Ebdim/Db]   [Db2]
 [Db2]I surrender [Ebm]all, [Ab]I surren[Gb/Ab]der [Db2]all   [Gb/Ab]  [Gbdim/Ab]
 [Db]All to [Gb/Db]thee [Db]my [Db7]blessed [Ab/Gb]Sav - [Gb]ior
 [Db]I sur - [Gb/Ab]ren - [Gbdim/Ab]der [Db2]all
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

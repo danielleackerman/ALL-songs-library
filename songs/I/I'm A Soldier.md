@@ -50,3 +50,12 @@ I will [F]not [Gm]give [F/A]up, I will [Gm/Bb]not [D/A]turn [Gm]around
 I'm a [F/C]soldier [Bb/C]Marching [F]heavenbound.
 
 Os apo med, service, warfare
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

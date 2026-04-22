@@ -44,3 +44,12 @@ As we [Ab]lift our [C]hands in [Fm]worship,   As we [Gm7]bow before Your [C7]pre
 
 [Fm]You  deserve  our  [Bb7]worship       [Gm7]You deserve our [C7]worship
 [Fm7]You deserve our [Bb7]worship  Oh [Eb]Lord [Bbm/Gb] [Fm7]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

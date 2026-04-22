@@ -90,3 +90,12 @@ ENDING:
 [G/B]    You've n[C]ever failed me yet
 [G/B]      I n[C]ever will forget
 G/B - C
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

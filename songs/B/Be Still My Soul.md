@@ -47,3 +47,12 @@ When disappointment, grief and fear are gone,
 Sorrow forgot, love's purest joys restored.
 Be still, my soul: when change and tears are past
 All safe and blessed we shall meet at last.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

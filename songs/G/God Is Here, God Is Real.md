@@ -50,3 +50,12 @@ To [Eb2]Heal the hopeless [Eb/G]heart and bless the [Bbm/Ab]bro[Ab2]ken.
 Come [Ab/C]and lay [Db2]down the [Eb/Db]burdens you have [Ab2/C]carried
 
 For [Eb/F]in the [Ab/F]Sant[Ab/Gb]ua[Db/F]ry, [Ab/Eb]God is [Db/Ab]her[Ab]e.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

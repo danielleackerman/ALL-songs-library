@@ -78,3 +78,12 @@ Go [C]quickly now before they close the [G]door, [C]That's what this [D]altar is
 Go [C]quickly now before they close the [G]door,
 You can give those burdens to the Lord
 [C]That's what this [D]altar is [G]for
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

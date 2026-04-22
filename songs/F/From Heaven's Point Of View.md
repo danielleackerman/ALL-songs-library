@@ -60,3 +60,12 @@ But I'm [G2]living in the promise I'll [G7]never leave you,
 I will [F/A]always [G7/B]see you [C2]through
 So what's a [D]mountain to an eagle flying [D7]high
 From heaven's [D7/F#]point of [G2]view.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

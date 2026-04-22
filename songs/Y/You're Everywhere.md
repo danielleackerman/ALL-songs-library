@@ -45,3 +45,12 @@ From the [D]lowest depths to the [Am]heavens
 You're always there.
 
 (back to the chorus)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -46,3 +46,12 @@ I'm on my way to Heaven shouting victory!
 I'm on my way to Heaven shouting victory!
 Singing "Glory, Hallelujah"
 Jesus set me free!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

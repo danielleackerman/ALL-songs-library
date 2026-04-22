@@ -53,3 +53,12 @@ There's a [C2]holy hush a[Em7]round us as God's [F2]glory Fills this [Dm7]place
 [F/G]I've touched the [C2]hem of His [Em7]garment, I can [F2]almost See His [G7]face
 and my [A7b9]heart is over[Dm7]flowing, with the [Em7]fullness Of His [A7b9]joy
 I [Dm7]know without a [G2]doubt, that I've [Dm7]been with the [G7]Lord.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

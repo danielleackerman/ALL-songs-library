@@ -63,3 +63,12 @@ You're gonna make it to the finish line.
 (Bridge:)
 
 [Gm7]Keep [Am]your [A#]eyes [C7]on the [F]pri----[G]ze,   (Repeat 1 x)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

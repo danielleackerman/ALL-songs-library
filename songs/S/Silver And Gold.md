@@ -69,3 +69,12 @@ I'd rather have Jesus, I'd rather have Jesus
 I'd rather have Jesus, I don't need nobody
 Hallelujah, Hallelujah, Hallelujah, Hallelujah
 Hail, He's the only One to save you
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

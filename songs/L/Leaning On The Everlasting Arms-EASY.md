@@ -38,3 +38,12 @@ VERSE 2:
 VERSE 3:
 W[A]hat have I to dread, w[D]hat have I to fear, l[A]eaning on the Everlasting [E]Arms?
 [A]I have blessed peace [D]with my Lord so near, [A]leaning on the Ev[E7]erlastin[A]g Arms.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

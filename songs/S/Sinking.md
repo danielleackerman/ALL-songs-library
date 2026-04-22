@@ -91,3 +91,12 @@ CONTACT ME @ ikrnboii@aol.com
 Hope these chords really help out a lot...
 Have a blessed day, and remember "GOD LOVES YOU"
 ~JaMeS
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -52,3 +52,12 @@ And once[C] more I will say on that[G] beautiful day
 When[Am7] your arms[G] take me[C] in
 Sweet[G] Jesus, my [Am7]shepherd, you[C] are my[D] faithful[G] friend
 Sweet[G] Jesus my[Am7] Savior you[C] are my[D] faithful[G] friend.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

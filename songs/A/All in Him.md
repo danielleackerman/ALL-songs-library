@@ -68,3 +68,12 @@ Lo! He will come and save us, Our King and Priest to be,
 For in Him dwells all fullness, and Lord of all is He.
 
 Os apo fast, sutl
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

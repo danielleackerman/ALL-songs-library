@@ -52,3 +52,12 @@ Oh, the place where I'm moving is lovely and new
 There's a river, flows like crystal and walls of jasper, too
 The street in front of my house is made of purest gold
 It's a place where we'll never grow old
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

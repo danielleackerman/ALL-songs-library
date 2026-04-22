@@ -63,3 +63,12 @@ I[Am7]'m running to the mercy [Dm]seat
 
 [Dm]I'm running [Dm/E]to the merc[Dm/F]y seat, I'm r[Dm/G]unning to[C] the me[Dm]rcy seat,
 [Dm]I'm running [Dm/E]to the merc[Dm/F]y seat       [Dm/G]Lord have[C] mer[Dm]cy
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

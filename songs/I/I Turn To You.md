@@ -61,3 +61,12 @@ And [Gb5]Father of my heart
 
 Help me turn to [Gb5]You         [Db]
 Help me turn to [Gb5]You         [Db]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

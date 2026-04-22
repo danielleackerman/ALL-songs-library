@@ -45,3 +45,12 @@ CHORUS:
 This is the day that the Lord hath made, I will rejoice and be glad in it
 This is the day that the Lord hath made, I will rejoice and be glad in it
 Rejoice  in the Lord, Rejoice in the Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

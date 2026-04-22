@@ -51,3 +51,12 @@ I just can't say thank You enough
 
 Songwriters: Geron La Ray Davis
 I Thank You lyrics © Integrity's Hosanna Music, Davishop Publishing
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -70,3 +70,12 @@ And with the prairies I am calling out Your name
 
 Words and music by Rich Mullins and Beaker
 © 1991 Edward Grant (ASCAP)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

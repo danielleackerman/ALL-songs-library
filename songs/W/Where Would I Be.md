@@ -39,3 +39,12 @@ M[Am7]y expression reveals the p[B7]ride in my a[Em]ccolades
 B[Am7]ut all these things wi[D]ll soon be lost
 I'll have[G] nothing to boast o[Em]f but the cross
 Please re[Am7]mind me oh Lord I p[D]ray
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

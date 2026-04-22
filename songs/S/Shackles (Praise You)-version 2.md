@@ -70,3 +70,12 @@ He put [D9]joy down in [D#]my soul[C#9]
 I'm gonna [C9]let the whole world [A#dim7/C#]know
 I'm gonna to [G]praise Him, [D9]Praise Him, [C/D]
 Praise the [G]Lord. [B][A][A#][B][C#][D][D#][E]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

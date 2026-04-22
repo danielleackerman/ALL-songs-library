@@ -34,3 +34,12 @@ how much you lov[Am]e me[D]
 [G]Forever my love, [Bm]forever my heart,
 for[C2]ever my life is yo[Dsus]urs
 It’s Your’[G]s[Bm][C2][Dsus]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

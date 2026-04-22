@@ -61,3 +61,12 @@ I'm living daily in His blessed word
 I want the world to know I'm saved
 And in the straight and narrow way
 I'm on the stairway to heaven tonight.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

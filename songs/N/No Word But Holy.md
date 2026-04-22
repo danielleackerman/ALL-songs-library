@@ -63,3 +63,12 @@ There's no rhyme, to help me per[Gm7]fectly describe you [F/A]like this way    [
 [F]There's one word above the [F/A]rest through out all times        [Bb]
 [F/A]Stood the test, though simple it [Gm7]remains the [F/A]best
 To describe You.   [Bb/C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

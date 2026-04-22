@@ -46,3 +46,12 @@ I can [Gb/Eb]feel it in my hands
 I can [Gb]feel it in my feet
 I can [Gb/Ab]feel it in my heart
 I can [F7b9]feel it all over [Bb9]me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

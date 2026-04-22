@@ -70,3 +70,12 @@ He walks in [C]silence
 On down the [G]highway
 God walks the dark hills
 Be[D7]cause He loves You and [G]me [C] [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

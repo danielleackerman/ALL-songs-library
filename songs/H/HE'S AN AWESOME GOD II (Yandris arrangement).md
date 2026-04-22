@@ -111,3 +111,12 @@ He [Eb]reigns. [Bb/D]He [C/E]reigns.
 He [Eb]reigns.[Bb/D]He's an awe[C/E]some [F]God.
 
 Repeat vamps to outro again optional:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

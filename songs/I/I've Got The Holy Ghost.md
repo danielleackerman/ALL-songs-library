@@ -49,3 +49,12 @@ I [G]wouldn't take nothing
 For my journey [Em]now
 [Am]Just like the [D]Bible, [Am]just like the [D]Bible
 [Am]Just like the [D]Bible [G]says
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

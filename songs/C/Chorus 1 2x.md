@@ -32,3 +32,12 @@ I give You [A2]everything, [A/Db]that I am.
 [Bm7]Let it be said [A2/Db]whenever life is [D2]through,
 [E]I put my trust in [A2]You
 [E]I put my trust in [A2]You
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

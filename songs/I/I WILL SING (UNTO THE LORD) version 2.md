@@ -47,3 +47,12 @@ I come to bless your [Dm]name
 BRIDGE:
 [Dm]Bless his name [C]Bless his name
 [Bb]Let everybody come and [A]bless his name
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

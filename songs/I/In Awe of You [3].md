@@ -49,3 +49,12 @@ Sometimes we can’t see you at all
 An as we humbly begin to pray
 And as our hands we raise
 Oh Lord,meet us in this place
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

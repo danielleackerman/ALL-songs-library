@@ -42,3 +42,12 @@ Lead me thro’ the vale of shadows, Bear me o’er life’s fitful sea
 Then the gate of life eternal May I enter, Lord, with Thee.
 Close to thee, close to thee, close to thee, close to thee
 Then the gate of life eternal May I enter, Lord, with Thee.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

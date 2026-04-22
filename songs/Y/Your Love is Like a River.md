@@ -90,3 +90,12 @@ Your [D]love is like a fire that will [A]light my way
 Your [D]love is like a rock that I am [A]standing on
      D                            A (arpeggio)
 Your love is like a river flowin’ from my heart
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

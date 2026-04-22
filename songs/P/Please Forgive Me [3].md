@@ -58,3 +58,12 @@ I can't believe the god of earth and glory
 Would take the time to care for one like me
 But I read in the Bible that old story
 How he plead for my forgiveness while he was dying on a tree
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -98,3 +98,12 @@ Somebody he[Am]re, Is wanting to gi[Cm]ve up
 Somebody he[G]re, You’ve been ready [Dm][D] to quit,
 
 But my [Am]God says wait, Hold [Cm]on  This thing it ain’t over yet  [D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -59,3 +59,12 @@ I will [G]seek to honor [C]His [G]commands
 I [G]pledge allegiance [Am7]to  [D]  the [G]Lamb
 
 Repeat Chorus as many tiems as you want to!!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

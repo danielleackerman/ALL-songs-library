@@ -59,3 +59,12 @@ Remember [Bbm9]on the cross He nailed all your [C/G]bitterness and [C/A]grief to
 i give you Jesus. he's the one you need.
 hes standing there and hes got his arms open wide for you
 theres nobody else that d give his life for you.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

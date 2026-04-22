@@ -53,3 +53,12 @@ Solo
 [Bm]     [F#m]     [E]   [Bm]    [D]   [A]   [E]   [E]   [D]   [A]   [E]   [Bm]    [D]   [A]   [E]
 
 Chorus x 2
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

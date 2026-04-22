@@ -49,3 +49,12 @@ Jesus whipped the devil, well He showed him who was boss
 Took keys of death, hell and the grave and said slue foot you've lost
 But the devil's not too smart, you know, showing up at every turn,
 But I just smile and go on by, seems the devil never learns.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

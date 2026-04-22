@@ -65,3 +65,12 @@ That I [D]cannot see, What flowed [A]down for me, At the [Bm7]foot [E]of the [A]
 
 Keep me [D]near the cross, [A]Near the cross, May I [Bm7]never [E]stray so [A]far
 That I [D]cannot see, What flowed [A]down for me, At the [Bm7]foot [E]of the [A]cross
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

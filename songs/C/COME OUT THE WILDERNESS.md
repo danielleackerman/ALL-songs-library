@@ -83,3 +83,12 @@ I told my mother
 I told my father
 I told my sister
 I told my brother
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

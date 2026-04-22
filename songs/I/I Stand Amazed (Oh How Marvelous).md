@@ -93,3 +93,12 @@ To sing of his love for me
 
 Keywords:
 Os apo med slow, swing ballad, adoration, aspiration, atomement, awesome, beauty, blood, cross, crucifixion, declaration, Easter, eternal life, Jesus, love, praise, presence, redemption, sacrifice, salvation, Savior, Saviour, sin, sorrow, will, worship
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

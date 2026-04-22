@@ -53,3 +53,12 @@ BRIDGE:
 [Eb]If I should slow my pace,[Bb] and finally subject me to grace
 [Eb]Love that shames the wise,[Bb] betrays the heart's deceit and lies,
 [Eb]Brakes the back of foolish pride[C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

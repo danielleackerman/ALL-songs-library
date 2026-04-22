@@ -65,3 +65,12 @@ All our[Am] hope is in[G/B] You
 All our[C2] hope is in[Dsus] You
 All the [Am]glory to [G/B]You, God[C2]
 The light of the wo[Dsus]rld
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

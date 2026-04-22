@@ -41,3 +41,12 @@ i'm a soldier (in the army)
 i got my war clothes on...
 if i die, let me die....
 i'm a soldier....
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

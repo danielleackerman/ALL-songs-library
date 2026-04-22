@@ -65,3 +65,12 @@ And in [Asus]him we have our be[A]ing
 [E]In Christ [F#m7]I have w[E/G#]hat I con[A]fess
 In [C#m]Christ I don'[G#m]t worry about a[A]ll the rest
 [F#m7]Cause every[E/G#]thing I n[A]eed to [B]be is In C[E]hrist
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

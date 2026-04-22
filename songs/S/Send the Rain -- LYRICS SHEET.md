@@ -59,3 +59,12 @@ We been praying, we've been sowing, Now we're crying, "Heaven send the rain, sen
 We've been praying, We've been sowing, Now we're crying, "Heaven, send the rain
 We've been praying, We've been sowing, Now we're crying, "Heaven, send the rain
 We've been praying, We've been sowing, Now we're crying, "Heaven, send the rain (slowly builds)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

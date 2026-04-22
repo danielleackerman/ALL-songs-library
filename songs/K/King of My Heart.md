@@ -56,3 +56,12 @@ Bridge 2 (4x):
 
 Ending (2x):
 When the[Gm] night is [F]holding[Eb] on to[Bb] me  [Cm] God is [Bb]holding[Eb] on   (x2)[Bb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

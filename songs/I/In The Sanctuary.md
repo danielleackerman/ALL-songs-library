@@ -38,3 +38,12 @@ J[Ab]esu[Eb]s, we g[Bb]ive you the pr[Eb]aise.
 E[Ab]mma[Eb]nuel, we l[Bb]ift up your n[Eb]ame.
 He[Db]avenly Fa[Ab]ther, coming Me[Bb]ssi[B]ah[Cm], we will p[Ab/F]raise you for the r[Bb]est of our d[Eb]ays.
 [Cm]Yes, we will pr[Ab/F]aise you for the re[Bb]st of our d[Eb]ays.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

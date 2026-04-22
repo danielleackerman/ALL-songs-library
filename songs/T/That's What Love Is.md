@@ -66,3 +66,12 @@ Love is in the not letting go
 	It can let you [E]down and lift yo[G#m]u up so high[C#m]
         Whe[E]n you find the [B]only reason l[C#m]eft to live
 	That’s [G#m]what love is[F#][B][Bsus][B][E][G#m][E]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

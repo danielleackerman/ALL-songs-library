@@ -68,3 +68,12 @@ And  all  of  the  [F/A]honor   and   all   of   the  [Gm7]praise.[F][Gm7][C][Bb
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

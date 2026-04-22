@@ -59,3 +59,12 @@ Any[C]thing,
 Hal[C]le, Hallelujah, Halle[F], Hallelujah, Halle[Dm], Halle[Fm]lujah, Halle, [F]Hal[C]lelujah
 Hal[C]le, Hallelujah, Halle[F], Hallelujah, Halle[Dm], Halle[Fm]lujah, Halle, [F]Hal[C]lelujah
 Hal[C]le, Hallelujah, Halle[F], Hallelujah, Halle[Dm], Halle[Fm]lujah, Halle, [F]Hal[C]lelujah
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

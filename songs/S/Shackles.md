@@ -46,3 +46,12 @@ He broke the [G]chains now I can [C7]dance
 He broke the [G]chains I've got to raise my [C13]hands
 He broke the [G]chains I've been set [C7]free
 He broke the [G]chains I've got the [C13]victory
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -70,3 +70,12 @@ ENDING:
 Oh your beauty Lord it captures me
 [G]  I can feel your [D/F#]touch, I can feel your [Em7]heart
 Oh your beauty Lord it [G]captures me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

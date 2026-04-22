@@ -62,3 +62,12 @@ BRIDGE 3:
 [Gm]satan, you're a liar.
 [Gm/Eb]Jesus has all power
 [Eb]You can't keep me [F]down I'm heaven [Gm]bound!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

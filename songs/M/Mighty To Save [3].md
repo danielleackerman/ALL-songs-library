@@ -46,3 +46,12 @@ CHORUS:
 Bridge  2x:
 [G] Shine your light and, [D] Let the whole world [A]see  [A]We're [Bm]singing
 [G] For the glory, [D] Of the risen [A]King, [A]Je[Bm]sus
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

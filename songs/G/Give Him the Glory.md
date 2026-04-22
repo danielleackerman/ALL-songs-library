@@ -50,3 +50,12 @@ Y[C]ou ought[C] to prais[D]e the Lord [C]               [Bb]       [A]     [G]
 y[C]ou ought[C] to prai[D]se the Lord     [C]      [Bb]       [A]     [G]
 
 Mod apo fast
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

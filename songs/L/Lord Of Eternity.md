@@ -46,3 +46,12 @@ Lord of Eternit[F]y, God of all mercy.[Am]
 Come to my troubled   [F] soul. [G]Keeper[Am] of all the stars[F]
 Friend of the poorest [Am]heart. Touch me and make me whole[F][G][C]
 (repeat first refrain)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -28,3 +28,12 @@ All my [Bb]debts were [Bb/D]paid
 By His [Eb]sacri[Bb]fice
 [Cm9]Hallelujah to the Lamb
 Who re[Eb/F]deems my [Bb]life
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

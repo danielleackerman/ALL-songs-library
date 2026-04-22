@@ -57,3 +57,12 @@ Once I call His name there's a flow within;
 it turns me from my day, makes Him Lord again.
 as my spirit burns, Satan cannot win.
 Calling,"Oh Lord Jesus,"keeps the flow within.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

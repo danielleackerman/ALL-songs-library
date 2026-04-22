@@ -46,3 +46,12 @@ BRIDGE:
 [B]Don't let him [Db/B]deceive you, cause [Bbm7]Jesus will [Eb7sus4]forgive [Eb7]you,  [Gm7]Oh,
 
 [Bb/C  C]  Modulate to Key of F
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

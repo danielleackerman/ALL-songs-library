@@ -31,3 +31,12 @@ Ho[F]ly, Holy, Holy is your [Asus]na[A]me
 Omnipo[D]tent, Omnipresent, [D/Gb] Soon Coming King
 Alpha, [Gm]Omega, [Bb]Lord of every[C]thing
 [F]Holy, Holy, Holy is your [A][Asus]na[A]me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

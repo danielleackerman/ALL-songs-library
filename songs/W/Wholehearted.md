@@ -87,3 +87,12 @@ With my [Eb]whole [Bb/G]life, I'm going to [Fm7]live it for [Bb/D]You. [B°7]
 [Ab]Wholehearted, in [Bb7]love with [Eb]You.
 
 Wholehearted lyrics © Color Me Blind Music
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

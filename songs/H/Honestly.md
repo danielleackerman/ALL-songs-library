@@ -70,3 +70,12 @@ Yes of a[Am]ll that I have
 Lord of [Am]all that I have
 [C]All that I [G]need is [F2]You
 Honest[Am]ly[(F2][C][G)]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

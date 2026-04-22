@@ -51,3 +51,12 @@ Medley: more than anything / I worship You almighty God / there is none like You
 [Eb7]More than [Cm]family
 [Fm7]I love You Jesus
 [Db]More than any[Ab]thing
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

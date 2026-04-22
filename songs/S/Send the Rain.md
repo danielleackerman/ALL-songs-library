@@ -55,3 +55,12 @@ VERSE 5 (4x):(2x Unison soflty)(2x Flip Soprano)
 [Eb2]We been praying, we've been sowing, Now we're crying, "Heaven [Cm9]send the [Bb2]rain, [Eb2]send the [Bb2]rain"
 
 [Eb2]We been praying, we've been sowing, Now we're crying, "Heaven [Cm9]send the [Bb2]rain, [Eb2]send the [Bb2]rain"
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -118,3 +118,12 @@ Burning (burning)
 
 https://www.letssingit.com/carlton-pearson-lyrics-catch-on-fire-rpddsx5
 LetsSingIt - The Internet Lyrics Database
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

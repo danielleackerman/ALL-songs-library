@@ -42,3 +42,12 @@ If you [Gm/C]have a need I know He has the [Gm/F]an[F]swer
 for we are [Dm/G]standing on [G7]Holy [C]ground
 
 Os apo slow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

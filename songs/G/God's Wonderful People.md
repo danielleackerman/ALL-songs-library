@@ -78,3 +78,12 @@ Love the thrill that I feel when I get together with God's wonderful people
 Source: Musixmatch
 Songwriters: Wolfe Lanny Lavon
 God's Wonderful Peope lyrics © Lanny Wolfe Music Co.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

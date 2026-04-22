@@ -75,3 +75,12 @@ The devil can't do me no harm
 I'm gonna keep on walkin' and talkin' with my God
 I'm gonna keep on walkin' and talkin' with my God
 I'm gonna keep on walkin' and talkin' with my God
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

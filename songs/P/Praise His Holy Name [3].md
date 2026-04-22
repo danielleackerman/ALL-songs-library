@@ -49,3 +49,12 @@ Our God is great, and greatly to be praised
 Above all others, Let his name be raised.
 Saints and angels, evermore proclaim.
 That he alone is worthy, praise his holy name.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

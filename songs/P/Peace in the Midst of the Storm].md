@@ -60,3 +60,12 @@ Even when the doctors shake their head and look forlorn.
 My Jesus knows how to make
 
 He brings peace in the midst of the storm. Song Title
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

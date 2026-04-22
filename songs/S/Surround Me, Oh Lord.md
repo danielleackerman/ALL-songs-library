@@ -35,3 +35,12 @@ Let Your [Bbm/Db]presence [Eb/Bb]fill [Cm7]this [Ab]Place.
 [Ddim/Bb]Let [Bbm]Your [Bbm9]prescence [Bbm]fill [Eb7add6]this [Ab2]Place.
 
 Mod apo med, prayer, presence
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

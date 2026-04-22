@@ -54,3 +54,12 @@ Lift me, ooh           (lift me up)
 As in [Cm]dry the [Ab]streams still [Bb]flowing[Fm]
 [Cm]Cast [Ab]down all the [Bb]waves of [Eb]sin
 And [Cm]guilt that [Ab]over[Bb]throw me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

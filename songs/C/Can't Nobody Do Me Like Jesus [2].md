@@ -47,3 +47,12 @@ VERSE 1:
 2. He healed my body and told me to run on home
 3. He filled me with the Holy Ghost
 4. He saved my soul, put my name upon the roll
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

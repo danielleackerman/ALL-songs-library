@@ -55,3 +55,12 @@ I won't rest until I see you again
 *Solo, (play ½ Chorus during solo)*
 
 *Chorus X2 end*
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

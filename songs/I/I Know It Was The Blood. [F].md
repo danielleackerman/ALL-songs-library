@@ -30,3 +30,12 @@ id: C86C462C-326D-45B3-B7C3-B76F23B915B2
 One [F]day when I was [F7/A]lost, He [Bb7]died upon the [Bdim]cross
 
 I [F/C]know it [D9#5]was the [G9]blood [C9#5]for [F]me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

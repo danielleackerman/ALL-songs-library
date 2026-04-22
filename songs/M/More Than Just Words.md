@@ -50,3 +50,12 @@ But love says it louder than I ever can
 BRIDGE:
 [G]Let me live, [A]and let me give
 [G]Let is be all of me, [A]let it be
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

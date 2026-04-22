@@ -61,3 +61,12 @@ I'll [B/D#]never [E/G#]know how [A2]much it cost
 To se[B/D#]e my   [E/G#]sin     [A2add4]upon that cross
 
 Mod apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -44,3 +44,12 @@ I need Your [Dm7]mercy, [F/G] I need Your [C]grace.
 
 Surely goodness and mercy will follow me all my life
 I know I can make it with you by my side
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

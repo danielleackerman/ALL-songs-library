@@ -41,3 +41,12 @@ Let [F#m]all the moons and [D]all the stars in [F#m]all the uni[D]verse
 Sing [A]praises to the [Em]living God, who [D]rules them by His [A]word.
 
 (chorus)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

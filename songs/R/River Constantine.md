@@ -87,3 +87,12 @@ Chords:
 G6              320030
 G6/F#           2x0030
 F#m7            244220 (use thumb to cover low E-string)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

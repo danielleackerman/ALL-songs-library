@@ -48,3 +48,12 @@ Key:
   Em / G / D (2x to fade)
   That's it!  You can play right along with the CD to get all the strumming
 paterns.  Have fun guys!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

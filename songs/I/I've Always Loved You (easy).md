@@ -36,3 +36,12 @@ CHORUS:
 Okay the descending progression heard in the bass line is done with the
 Dsus4 - D - Dadd9.
 Just listen to the song to get the progression.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

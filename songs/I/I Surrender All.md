@@ -38,3 +38,12 @@ id: CFE9D5A4-75D8-49D4-AED1-19FD97EF90F8
 [C]All    to   [F/G]Thee    [C]my   [C/E]blessed    [G/F]Sa   –[F]vior
 
 [C/G]I.    surrend –   [G7]er.    [Csus C]all.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

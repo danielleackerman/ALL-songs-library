@@ -90,3 +90,12 @@ BRIDGE 2:
 [F/Eb]With all power and authority
 [Dm7]He conquered my enemies
 [C]He put them under my feet
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

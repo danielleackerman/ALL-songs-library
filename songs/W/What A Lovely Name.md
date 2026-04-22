@@ -57,3 +57,12 @@ VERSE 3:
 Saints of [G7]every race shall behold his [C]face.
 With Him [F]enter heaven's [C]city
 Ever to [G7]proclaim, "What a lovely [C]name!"
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

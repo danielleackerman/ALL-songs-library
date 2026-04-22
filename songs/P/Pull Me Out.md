@@ -51,3 +51,12 @@ And now I feel, like I’m treading water, and I'm hardly real, I'm just trying 
 BRIDGE:
 [F#m]Not a mo[G]ment too soo[D]n, You will be my r[A]escue.
 [F#m]But tell [G]me how long will it[A] take, yeah?
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

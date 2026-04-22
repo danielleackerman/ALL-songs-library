@@ -50,3 +50,12 @@ and be [Eb]glad in it, and be glad in it
 [Eb]This is the day, this is the day
 
 That the [Eb/Bb]Lord [Bb]has [Eb]made
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

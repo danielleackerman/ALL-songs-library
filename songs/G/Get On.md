@@ -49,3 +49,12 @@ BRIDGE:
 [E]Give of me all of your [B]intentions
 [G]Well I've decided that [D]I won't listen
 [E]Because your words only [F#]bring division
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -51,3 +51,12 @@ My [F]father loved the savior
 What a soldier he had [C7]been
 But his s[F]teps will be more s[Bb]teady
 When the [F]saints go [C7]marching i[F]n
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

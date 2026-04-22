@@ -32,3 +32,12 @@ CHORUS:
 [Ab]Open up the windows of heaven
 [Fm7]I need the prom[Ebm7]ise you've [Ab13]given
 Let [Dbmaj7]it fall, [Ab2/C]let it fall, [Bbm7]fall on me [Db/Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

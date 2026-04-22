@@ -64,3 +64,12 @@ I may have doubts and fears, my eyes be filled with tears
 But Jesus is a frend who watches day and night
 I go to Him in pray'r, He knows my ev'ry care
 And just a little talk with Jesus makes it right.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

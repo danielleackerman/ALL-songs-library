@@ -48,3 +48,12 @@ Oh praise Him (when the day is done)
 Alleluia (praise the Lord of Love)
 Oh [Em]praise Him (alleluia)
 All[Em]eluia (Alleluia)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

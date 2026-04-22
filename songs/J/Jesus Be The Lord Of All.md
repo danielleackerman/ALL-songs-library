@@ -68,3 +68,12 @@ CHORUS 1:
 [D]Jesus be the [G]Lord of all,  [Em]Jesus [A]be the [D]Lord of all
 [D]Jesus be the [G]Lord of all, the [Em]kingdoms [A]of my [D]heart.
 For if [Em]you’re not Lord of everything then you’re [G]not [A]Lord at [D]all.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

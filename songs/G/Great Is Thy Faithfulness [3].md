@@ -64,3 +64,12 @@ Th[Em]ine o[F]wn dear presence to cheer and to guide
 Blessing[Dm]s al[F]l min[Csus]e, wit[C]h ten thousand beside
 
 Chorus x 2
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

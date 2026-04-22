@@ -68,3 +68,12 @@ When from this world I'll take my flight
 Leaving for my new home that's witing over the foam
 Home that the Lord said He'd prepare, I will find waiting for me there
 Walking by faith with Jesus the Lord, on my way home.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

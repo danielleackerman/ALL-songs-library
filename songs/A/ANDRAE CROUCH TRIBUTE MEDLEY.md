@@ -48,3 +48,12 @@ Song 4:
 [Eb]I don't know [Eb7/G]why he [Ab]cared [Db/Eb]
 [Ab]I don't know [Ab7/C]why he sac[Db]rificed [Ab/C]his [Bbm7]life
 [Bbm]Oh, [Ab/C]but [Bbm/Db]I'm [Ab/Eb]glad, [Eb]I'm [Fm]glad [Eb7/G]He [Ab]did
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -30,3 +30,12 @@ Ex[Fm7]alt [Eb/G]Your [Ab/Bb]name a[Eb/Bb]bove the [Bb7]earth
 Ex[Fm7]alt [Eb/G]Your [Ab/Bb]name [Bb7]with [Eb]praise.
 
 [Bbm/Gb]   [Fm7]  [Eb2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

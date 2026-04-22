@@ -44,3 +44,12 @@ CHORUS:
 [F]Let [C]this [Bb]temple be [C]a [F/A]place
 [F]Where [C/A]Your [Bb]glory  is em[C/A]braced  [Dm7]
 As we [Gm7]stand in awe [C11]and wor[C]ship [F]you
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

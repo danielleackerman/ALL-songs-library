@@ -27,3 +27,12 @@ M[Am]ercy [Dm9]waits ov[Am]er jo[Dm9]yed prospec[Am]ts of fin[F6]ding f[G6]reein
 CHORUS:
 Love[Cmaj7] is the thing this t[E7]ime I'm su[A]re and I couldn't need you m[G]ore now[A]
 The way that y[Cmaj7]ou saw things wer[E7]e so pur[F]e over[G] joyed
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

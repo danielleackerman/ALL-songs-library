@@ -29,3 +29,12 @@ As  we [iii7]bow  before Your [VI7]presence   [(][ii][iii][run][)]
 [ii]You  deserve  our  [V7]worship
 [iii7]You deserve our [VI7]worship  [(][ii][iii][run][)]
 [ii7]You deserve our [V7]worship  Oh [I]Lord [v7/iiib] [ii7] [IV/V]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

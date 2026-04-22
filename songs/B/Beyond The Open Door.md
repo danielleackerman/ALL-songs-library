@@ -59,3 +59,12 @@ BRIDGE:
 [Ab]Where [Bbm]he leads [Eb7]me I will follow
 [Ab]Where he [Bbm]leads [Eb7]me I will follow
 [Ab/C]Where he [Abmaj7/C]leads me [Db]I will follow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

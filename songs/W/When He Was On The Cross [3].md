@@ -69,3 +69,12 @@ They heard Him preach before
 I know I'll never be worthy, such love I'd never find
 But when He was on the cross
 I was on His mind.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

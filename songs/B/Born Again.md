@@ -59,3 +59,12 @@ Jesus opened blinded eyes and He made the lame to walk
 [C]Let Him fill your s[A7]oul within
 [G]He'll make you [Em]whole, fill your soul
 [A]Then you'll know you're[D] born [G]again [C](born [G]again)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

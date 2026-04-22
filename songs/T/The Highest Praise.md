@@ -29,3 +29,12 @@ Halle[Bb]lujah, hallelujah
 Come on and [Bb]give, the Lord, the Highest Praise
 Hallelujah, hallelujah[Gm]
 P[Bb]raise His [F]Holy [Bb]Name!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

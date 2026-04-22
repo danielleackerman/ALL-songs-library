@@ -81,3 +81,12 @@ Minor 11th Chords on the vii chord (b3, b7, 9, 11)
 [G] [/] [/] [/] [F#m11] [/] [B7b9] [/] [Em9] [/] [/] [/] [Dm9] [/] [G9] [/]
 
 [Cmaj9] [/] [/] [/] [D11] [/] [/] [/] [Gsus4] [/] [/] [/] [/] [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

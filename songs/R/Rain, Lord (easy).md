@@ -43,3 +43,12 @@ VERSE 4:
 [Ebm9]Baptize me     [Ebm9]with the Holy Ghost [Bb7b9]
 [Ebm9]Like a raging fire   [Ebm9]burn in my soul [Ebm9]
 [Ebm9]Baptize me     [Ebm9]with the Holy Ghost
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

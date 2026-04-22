@@ -47,3 +47,12 @@ You'll find deliverance in this place
 BRIDGE:
 I'm gonna dance, shout unto the Lord
 I'm gonna praise my Jesus like never before
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -58,3 +58,12 @@ Trusting in what no one else but [Am]You can [Amb5]see for me
 When I can't get beyond where I have [Am]been
 But then [Bm]again the silence doesn't [C]mean that I'm alone
 As [Am]long as I can [G/B]hear that [C]I am still Your [D]own  [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

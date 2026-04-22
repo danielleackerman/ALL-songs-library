@@ -40,3 +40,12 @@ The [Fm]Holy Ghost is [Eb]mov----[Bb/D]ing
 [F7]I can feel it in my hands
 [Ab7]I can feel it in my feet
 [Bb7]I  can  feel  it  all  [C9#5]over  [F]me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

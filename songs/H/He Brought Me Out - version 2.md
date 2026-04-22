@@ -75,3 +75,12 @@ VERSE 6:
 Then [Eb]join in the chorus [Adim]with [Adim7]the [Eb/Bb]saints [Bb7]a[Eb]bove.
 
 Sutl, os apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

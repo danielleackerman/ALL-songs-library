@@ -36,3 +36,12 @@ There's pow[Ab7]er all over this house
 [Gb]Power all [Db/F]over this hou[Ab7]se
 [Abm7]Strength for the [Abm7/B]weak, devil [Db9]under your [Db/Bb]feet
 There's [Gb]power all [Db/F]over this [Ab7]house
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

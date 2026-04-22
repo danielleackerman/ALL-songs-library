@@ -60,3 +60,12 @@ G
  C
  And I will trust you (I will trust you)
  [G]I will trust you alone ([Am7]trust you a[D]lone)[G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

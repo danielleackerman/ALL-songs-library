@@ -60,3 +60,12 @@ VERSE 2:
 So [G]why should I worry 'bout the highs and the lows.
 The ups and downs when [A][-][F][-][E][-][Eb][-][D][-][Db][-][C]by my faith
 I know. . .my God is..CHORUS
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

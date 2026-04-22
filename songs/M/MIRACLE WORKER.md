@@ -121,3 +121,12 @@ You’re a miracle [Gb7]work  [B/Gb][Abm7(b5)/Gb]
 
 You’re a miracle work [Gb] [Db/Gb]
 You’re a miracle [Gb7]work  [B/Gb][Abm7(b5)/Gb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -48,3 +48,12 @@ So I don’[D]t need bells to be ringing[E]
 [F#m]Glori[E]a[D]
 And I can feel Ch[E]ristmas like a child[A]
 I want to feel Christmas like a[E] child[A]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -84,3 +84,12 @@ I will [B]rise on [F#]eagles wings
 Be[G#m7]fore my God, [E2]fall on my knees
 And [B2]rise [E2]  I will [B/F#]rise[F#]
 I will r[B2]iii---[F#]ii----[B]ise
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -45,3 +45,12 @@ A[Eb]nd You heal me A[Cm]nd You heal me [Ab]And You heal m[D]e    [G]
 
 [Cm]Cause I feel Your [F]forearms around me
 [Eb]And I know that [F]I'll never[D] escape from Yo[G]u
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

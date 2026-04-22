@@ -83,3 +83,12 @@ VERSE 3:
 [Eb]I [Fm]will [Eb]find waiting [Bb]for me [Eb]there
 [Eb]Wal[Fm]king [Eb]by faith with Jesus [Bb]the [Ab7]Lord,
 [Bb7]on my way [Eb]home, yes [Ab]on my way [Eb]home.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

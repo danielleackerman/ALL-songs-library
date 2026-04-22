@@ -39,3 +39,12 @@ Key of: F
 [Bb/C]I [F]once [F/D]wa[E/Db]s [Eb/C]lost
 [A+/B]But [Bb]now [Ab7/B]I'm [F/C]found [Em7]
 [A+9]Was [Dm9]blind but [G9]now [C]I [F]see
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

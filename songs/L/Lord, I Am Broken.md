@@ -61,3 +61,12 @@ BRIDGE 3:
 But I'm still [CM7]willing
 Jesus, Jesus
 [Am/D]I'm cal[C/D]ling [G2]You
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

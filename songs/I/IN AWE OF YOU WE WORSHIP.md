@@ -33,3 +33,12 @@ Be e[Ab]xalted in our [Ebsus]praise [Eb]
 As we wor[Ab]ship I be[Db]lieve You are [Ab]here
 
 all unison
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

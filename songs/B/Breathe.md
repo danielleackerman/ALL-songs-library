@@ -42,3 +42,12 @@ I'm desp'rate[F] for Yo[Am]u.[G]
 I'm lost with[F]out You[Am]. ([G]2x)
 I'm lost with[F]out You[Am]. ([G]2x)
 I'm desp'rate[F] for Yo[Am]u.[G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

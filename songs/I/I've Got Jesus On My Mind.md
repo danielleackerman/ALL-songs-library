@@ -75,3 +75,12 @@ Jesus, Jesus, Jesus, I got him on my mind
 Jesus, Jesus, Jesus, I got him on my mind
 Jesus, Jesus, Jesus, I got him on my mind
 I've got Jesus on my mind
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

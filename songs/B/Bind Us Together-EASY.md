@@ -30,3 +30,12 @@ With [Am]cords that [D]cannot be [G]bro[C/D]ken
 [G]Bind us to[C/D]gether, Lord, [G]Bind us to[Em]gether, Lord,
 
 [Am]Bind us to[D]gether with [G]love.     [G]      [C/D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

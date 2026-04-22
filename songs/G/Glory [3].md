@@ -68,3 +68,12 @@ Every tongue offers You [G#]praise, with every hand [Fm]raised
 [D#]Singing Glory
 To You and[Gm7] unto You[Cm] only
 [Cm7]We’ll sing [G#]Glory [A#]to Your[Cm] name. [G#]       [D#]       [A#]        [D#]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

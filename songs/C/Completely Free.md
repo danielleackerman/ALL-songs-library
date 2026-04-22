@@ -42,3 +42,12 @@ He said[D] here's my body, [Em]It’s broken in[G] two         [D]
 
 Oh[Em] withou[D]t a doubt comp[Asus4]letely
 So [Em]that we[D] can be co[Asus4]mpletely f[D]ree
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

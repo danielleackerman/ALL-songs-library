@@ -55,3 +55,12 @@ The wild and [F]holy buckin[Bb]g wi[Eb]nd t[F]o [Bb]the sky
 
 Words and music by Rich Mullins, Lee Lundgren and Nicole Lundgren
 © 1995 Edward Grant (ASCAP)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

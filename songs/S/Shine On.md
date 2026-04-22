@@ -55,3 +55,12 @@ Won't you shine on?
 You can shine on[Dm]
          F
 Shine on   (Repeat and fade)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -49,3 +49,12 @@ Then the Holy Ghost will come so genuine.
 
 CHORUS:
 repeat final line 2X
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

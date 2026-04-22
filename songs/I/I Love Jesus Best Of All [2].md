@@ -62,3 +62,12 @@ But [F]I love [C7]Jesus best of [F]all.
 I love to hear the [Dm7]joy bells [G]ringing in my [C]soul,
 I love to [F]know He [F7]leads me by His [Bb]staff and [Bdim]rod,
 But I [F]love [C7]Jesus best of [F]all.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

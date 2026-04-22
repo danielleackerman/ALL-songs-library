@@ -73,3 +73,12 @@ repeat and fade
 
 Words and music by Rich Mullins
 © 1988 Edward Grant, Inc. (ASCAP)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

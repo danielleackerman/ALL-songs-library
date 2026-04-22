@@ -228,3 +228,12 @@ CHORUS (choir parts):
 [3]My [2]God, [1]that [2]is [3]who [1]You [6]are
 
 ([1]We [3]wor[2]ship [1]you, [1]Je[1]sus)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -42,3 +42,12 @@ I will [A]praise You w[B]ith a d[E]ance
 
 [E2](vers[B]e)[A][B]
 (chorus)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

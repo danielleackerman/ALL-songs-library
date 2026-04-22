@@ -42,3 +42,12 @@ For if I[D9]’d never had a problem[E] I wouldn’t know that[C#7] He could sol
 [F#m]   I’d never know what [B7]faith in God could [E]do[F#m7][B7]
 
 Chorus 2x
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

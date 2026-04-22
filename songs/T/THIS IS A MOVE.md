@@ -81,3 +81,12 @@ Come and [Ab]do what You [Eb]do
 We need a [Eb]move
 Cause we need a [Db]move
 We need a [Eb]move
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

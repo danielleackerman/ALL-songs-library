@@ -48,3 +48,12 @@ Of those faithful saints who really love their Saviour
 And even after all the trials they went through
 
 With a twinkling in their eye they will say.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

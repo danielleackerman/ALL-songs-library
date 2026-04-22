@@ -33,3 +33,12 @@ id: 47549663-A629-4592-B9F4-C950133599DC
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

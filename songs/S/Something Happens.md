@@ -63,3 +63,12 @@ By the [Fm]power of [Bb/D]your [Gb]Ho--[E7b5]ly [Bbm/Eb]name [Ebsus] [Db/F] [Eb/
 Jesus Je-[Abmaj7/Eb]sus Je-[Db2]sus
 
 [Ab/C]something [Bbm7]hap-[Db2/F]pens [Eb/G]when I call [Ab] you
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

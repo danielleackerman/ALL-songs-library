@@ -92,3 +92,12 @@ Take my[Bsus] world a[B]pa[A2]rt.  And I pray.  And I pray.  And I
 pray.      [C#m7]        [Bsus]  Take my world [B]apart.[A2]
 My     knees
 Wo[B]rl[A2/C#]ds apart.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -78,3 +78,12 @@ CHORUS:
 [A]Out [Bbm]of my [Gb7]life may Jesus [B7]shine; [B7] [A7] [B7] [A7]
 [E]Make [Em]me a [Gbm]blessing, O [B]Savior, [A]I [Ab7]pray [Ab7] [Gbm] [Ab7] [Gbm] [Ab7],
 [A7]Make [Db7]me [Gbm7]a blessing to [E]some[Gbm7]one [B]to[E]day. [Gbm] [B7] [E] [A]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

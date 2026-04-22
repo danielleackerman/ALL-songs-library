@@ -53,3 +53,12 @@ He gave me [BbM7]something, The [Eb/Bb]world couldn't give, And they can't [BbM7
 
 He put it [D7]way down in my [D/Gb]soul, And it's [Gm7]there to stay. [Eb]
 So I'm singing a [Bb/F]new song, for the [Cm/F]Lord has[Bb]brought me a mighty long way.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

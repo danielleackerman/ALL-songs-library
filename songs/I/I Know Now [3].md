@@ -62,3 +62,12 @@ VERSE 4:
 [Bm7]Before the Taker and the [D/G]Giver
 And I am finally fou[D/F#]nd[D/G]
 And I am finally foun[D/F#]d[D/G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

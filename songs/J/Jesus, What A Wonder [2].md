@@ -41,3 +41,12 @@ Healer of the Broken Hearted
 Born in a lonely manger
 
 Died but he rose on the third day
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

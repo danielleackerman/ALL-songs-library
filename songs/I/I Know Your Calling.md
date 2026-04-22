@@ -48,3 +48,12 @@ CHORUS:
 [C#m]And I [G#m]know I want [B]everything that You [F#]want for me
 [C#m]Help me to [G#m]understand Your [F#]ways
 [C#m]And I [G#m]know I want [B]everything that You [F#]want for me [E]today[Bsus]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

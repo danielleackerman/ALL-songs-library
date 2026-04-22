@@ -32,3 +32,12 @@ I give You my [Am]soul, I l[C]ive for Y[D]ou al[G]one.
 Every breath that I t[D]ake,
 Every moment I'm a[Am]wake,
 Lord h[C]ave Your w[D]ay in [Em]me.  [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

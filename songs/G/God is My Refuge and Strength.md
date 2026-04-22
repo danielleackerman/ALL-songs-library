@@ -39,3 +39,12 @@ And He will [C]hide me under the [G]Rock
 And He will [C]hide me [G]under the [E7]Rock
 
 Where I'll be [Am]safe in the [G/D]time of [D7] [G]trouble
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

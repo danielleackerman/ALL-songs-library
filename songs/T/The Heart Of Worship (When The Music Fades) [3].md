@@ -57,3 +57,12 @@ all I have is Y[Em7]ours
 Every single b[A7sus]reath	    [A7]
 
 (Pre-Chorus, Chorus)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

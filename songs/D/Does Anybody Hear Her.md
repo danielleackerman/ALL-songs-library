@@ -64,3 +64,12 @@ Never e[C]ven met her
 [F] He is running
 [C] A hundred miles an [Dm]hour
 [C]In the wrong di[Bb]rection
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

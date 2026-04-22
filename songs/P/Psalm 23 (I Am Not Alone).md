@@ -57,3 +57,12 @@ TAG:
 [Amaj9]My victory, my victory
 [E/G#]My victory, my victory
 [F#m]My victory, my victory   [B/D#]  [E7sus]  [E7]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

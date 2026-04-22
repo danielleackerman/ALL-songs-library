@@ -43,3 +43,12 @@ BRIDGE:
 Chorus: x2
 This is the bo[A]dy		thi[G]s is the blood               [D]
 This is the bo[A]dy		thi[G]s is the blood               [D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

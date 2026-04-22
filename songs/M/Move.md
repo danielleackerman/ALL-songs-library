@@ -52,3 +52,12 @@ BRIDGE:
 [Am]Gotta move to a different drum
 [F]No matter what life brings
 Gotta [Dm]move gotta move to a [E]different beat
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -45,3 +45,12 @@ Of when your love came down
 [A]It's foolishness I [B]know
 [F#m]But when the world has seen the l[E/G#]ight
 They will [A]dance with joy like we're d[B]ancing now
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

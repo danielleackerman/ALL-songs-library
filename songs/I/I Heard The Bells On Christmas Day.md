@@ -58,3 +58,12 @@ Open up your  heart and hear th[Eb]em, Peace o[F]n ea[Gm]rth, good will to[Bb] m
 
 TAG:
 [Eb]Peace on [Bb]earth, P[Eb]eace on e[Bb]arth, P[Eb]eace on [Gm]ea[F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

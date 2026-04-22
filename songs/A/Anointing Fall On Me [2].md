@@ -42,3 +42,12 @@ Fill my [Em]life [Am7]Lord [Dm7]every [G7]part
 Let the [C]power of the
 Holy ghost [F]fall on [Fm6]me
 A[C]nointing [G7]fall on [C]me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

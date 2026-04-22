@@ -137,3 +137,12 @@ OUTRO:
 [3]of [3]the [3]good[Eb][2]ness [1]of [1]God [Fm]
 >orange: soloist + ensemble
 [3]Oh, [3]I'm [2]go[1]nna [1]s[Db]ing [3]of [3]the [3]good[Eb][2]ness [1]of [1]G[Ab]od
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

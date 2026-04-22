@@ -50,3 +50,12 @@ CHORUS:
 [C]He has ma[/]de me [F]glad,  [/]   [C]He has ma[/]de me [Am]glad,
 
 [/]O I [Dm]will rejo[/]ice for [G]He has ma[/]de me [C]glad.   [/]     [C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

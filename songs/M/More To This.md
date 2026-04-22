@@ -48,3 +48,12 @@ Or mi[F]ss out on the [C]very thing that [D]God has made us for
 
 end:
 [Bb]la da da da da da da [C]da d[G]a da da                 repeat 3x
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

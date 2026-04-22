@@ -65,3 +65,12 @@ Just a few more weary days and then, I’ll fly away
 To a land where joy will never end, I’ll fly away
 
 *Chorus repeats until done
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

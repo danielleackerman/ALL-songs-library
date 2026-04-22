@@ -63,3 +63,12 @@ Run to the [Am]Mountain, [G]and the [F]Mountain [D7/F]stands by [G7sus]me
 On [C]Christ the [E7/B]Solid [E7]Rock I [Am]stand
 [F]When I need a [C]shelter, [A7]when ai need a [D7]friend,
 I [G7]go to the [C]Rock.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -41,3 +41,12 @@ You're [Bb/F]excel[F]lent
 [F/A]You [Am]for[C/Bb]gave [Bb]me  [C] [Bb] [C]
 [Bb/G]She[Edim/G]ed [F/G]Your [F]own [C7]blood,
 Even [F]gave Your [C7]life to [Gm/F]save [F]me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

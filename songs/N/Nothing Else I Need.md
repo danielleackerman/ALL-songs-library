@@ -50,3 +50,12 @@ To m[Am]ake you my only [C]desire, my des[F]ire
 CHORUS:
 
 There's nothing else I need...
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

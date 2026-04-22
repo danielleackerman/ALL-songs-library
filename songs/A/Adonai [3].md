@@ -48,3 +48,12 @@ For the [G#m7]world will [F#/A#]fade a[B]way [E][F#] Still my [G#m7]song [F#/A#]
 BRIDGE:
 Oh [B/D#]I love [E]You alw[F#]ays [G#m7]
 Oh [B/D#]I love [E]You alw[F#]ays [G#m7]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

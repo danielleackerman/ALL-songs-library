@@ -65,3 +65,12 @@ and [G]nail it to a [Am]tree
 You al[F]one hold the [G]power to [C]redeem.
 [Am]Oh you al[F]one, hold the [G]power to re[Am]deem
 Oh you al[F]one, hold the [G]power to re[C]deem
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

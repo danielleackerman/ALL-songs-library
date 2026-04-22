@@ -41,3 +41,12 @@ OUTRO:
 The [Fm]joy to know that [Gm]You are [Bb]in
 The [Gm]joy to know that [Ab]you've come [Eb/G]in
 The [Fm7]joy to know that [Gm7]You are in this [Eb]place
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

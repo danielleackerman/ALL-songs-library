@@ -83,3 +83,12 @@ V2: leaning on You
 V3: walking with You
 V4: working for You
 V5: living for You
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

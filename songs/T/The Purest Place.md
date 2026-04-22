@@ -59,3 +59,12 @@ The pures[Ebmaj7/Bb]t place    [Abmaj9]      It’s where you [Ebmaj7/Bb]are[Abm
 It’s whe[Ebmaj7/Bb]re    you a[Abmaj9]re     It’s where you [Ebmaj7/Bb]are[Abmaj9]
 [Ebmaj7/Bb]         It[Abmaj9]'s You my King[Ebmaj7/Bb],       It'[Abmaj9]s You my King[Ebmaj7/Bb]
 The [Abmaj9]purest place[Ebmaj7/Bb],        it's[Abmaj9] You my King
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

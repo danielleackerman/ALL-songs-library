@@ -40,3 +40,12 @@ id: 87CAAE10-BF5F-4EB3-92D8-045C964FF016
 It's a [F]soul [Dm]saving, a [F]aisle [Dm]running, a [F]hand [Dm]clapping
 A [F]foot [Dm]stomping, a [F]tongue [Dm]talking,
 an [F/C]Apo[D7]stolic [G9]Pente[C9#5]costal   [F]church.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

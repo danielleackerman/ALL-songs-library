@@ -38,3 +38,12 @@ VERSE 2:
 No [C/A]matter how [D2]great be the [Dm]cost  [G2]
 [G7/B]It [CM7]may be [C9]riches, [F2]fame or suc[C]cess
 With my all on the [C/A]altar, these [G2]things I [G7/B]pos[C]sess.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

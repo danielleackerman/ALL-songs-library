@@ -165,3 +165,12 @@ You never stop, you never stop working
 You never stop, you never stop working
 You never stop, you never stop working
 You never stop, you never stop working
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

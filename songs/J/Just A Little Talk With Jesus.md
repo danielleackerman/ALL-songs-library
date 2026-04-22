@@ -65,3 +65,12 @@ I go to Him in pray'r, He knows my ev'ry care
 And just a little talk with Jesus makes it right.
 
 Os apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

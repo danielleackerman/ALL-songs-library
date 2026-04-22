@@ -52,3 +52,12 @@ The God of the [D]day, is still God in the [G]night.
 Oh but the talk comes [D]easy, when life's at it's [G]best.
 [C/D]But it's down in the [G]valley, of [C]trials and temp[G]tation,
 That's when [D]faith is really, put to the [G]test.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

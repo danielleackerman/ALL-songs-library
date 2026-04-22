@@ -114,3 +114,12 @@ F#------244322 <computec@oberon.ark.com> Ab.. above)
 
 Written by Jars of Clay   Lyrics by Dan Hasletine
 (c)MCMXCV Brentwood Music, Inc.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

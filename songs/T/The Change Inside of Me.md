@@ -67,3 +67,12 @@ Your name I praise, because the change
 Inside of me is so beautiful
 
 Repeat chorus 2x
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

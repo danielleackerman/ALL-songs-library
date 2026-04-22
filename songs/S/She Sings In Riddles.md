@@ -43,3 +43,12 @@ Sayin everything and nothin, at the same time
 St[Em]ill there's something, to loose my m[Bb]ind
                Cad9   D            Em
 She sings in riddles, She sings in rhyme
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

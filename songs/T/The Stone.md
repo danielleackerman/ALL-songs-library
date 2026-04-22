@@ -47,3 +47,12 @@ BRIDGE:
   From the storm and the rain
 [A]  My Rock and fo[B]undation
   [C#m]You have bec[B]ome my sal[A]vation
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

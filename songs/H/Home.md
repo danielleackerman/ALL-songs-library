@@ -60,3 +60,12 @@ To my h[A2]ome,[D2] I'm going h[A2]ome[D2][A2][D2]
 
 Words and music by Rich Mullins
 © 1988 Edward Grant (ASCAP)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -195,3 +195,12 @@ CHORUS 2:
 >yellow:[1]This [6]is [5]a [6]move
 
 >yellow:[1]This [6]is [5]a [5]move
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

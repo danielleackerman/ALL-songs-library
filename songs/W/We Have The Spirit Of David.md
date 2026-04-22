@@ -84,3 +84,12 @@ We have the Spirit of [G#m]David
 Your banner of worship we [F#]raise
 We have the Spirit of [G#m]David
 [B]We have the Spirit of [F#]praise
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

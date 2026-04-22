@@ -86,3 +86,12 @@ And if we are the body
 Why aren't His [Dsus]feet going?
 Why is His [Em]love not showing [D]them there is a [C]way?
 [C]Jesus is the [Em]way
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

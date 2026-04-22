@@ -66,3 +66,12 @@ Auni Am2  Am/G Fmaj7  Dm2   Am2   F2 C2maj7/E Dm C2sus
 
 Words and music by Rich Mullins
 © 1993 Edward Grant, Inc. (ASCAP)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

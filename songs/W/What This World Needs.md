@@ -68,3 +68,12 @@ ENDING:
 Jesus is our Sav[G]ior, that's what this world ne[Am]eds
 Father's arms around y[G]ou, That's what this world [Am]needs
      That's what [Am]this world needs[G][Am]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

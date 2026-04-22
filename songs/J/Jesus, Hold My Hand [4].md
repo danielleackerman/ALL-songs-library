@@ -50,3 +50,12 @@ Lead me safely to a land of rest, if I a crown of life have won
 I have put my faith in Thee dear Lord, that I may reach the golden strand
 There's no other friend on whom I can depend
 Blessed Jesus, hold my hand.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

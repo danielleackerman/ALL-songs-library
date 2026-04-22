@@ -36,3 +36,12 @@ id: 958B779E-D8BB-4A1D-B6AC-F075F90D6F91
 [D]I love Your [Esus]presen[E]ce
 [D]I need You,[A] I want You
 [D]I love Your [Esus]presen[E]ce
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

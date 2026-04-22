@@ -57,3 +57,12 @@ For the children around the world without a home say a prayer tonight
 Chorus 2: x2
 Outro: C     F
 ([C]am   g[F]    f) x3
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

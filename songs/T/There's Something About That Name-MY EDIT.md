@@ -47,3 +47,12 @@ Like the frag[F7]rance after the [Bb7]rain
 Let all [AbM7]heaven and [Abm6]earth [F#]pro[G7]claim.
 [C]Kings [Cmaj7]and [C7]kingdoms shall [F9]all pass a[F7]way
 But there's [Fm7]something a[Bb7]bout  [Bb7/D]that [Eb]name.     [Ab/Bb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

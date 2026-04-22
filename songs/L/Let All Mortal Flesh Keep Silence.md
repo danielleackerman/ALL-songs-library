@@ -45,3 +45,12 @@ VERSE 4:
 [Dm]Al-le-lu-ia
 [Gm7]Al-le-[Bb]lu-i[C2]a
 [Gm7]Al-le-lu-ia   [C]Lord most h[Dm]igh.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

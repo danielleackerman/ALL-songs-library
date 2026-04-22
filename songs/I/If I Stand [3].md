@@ -67,3 +67,12 @@ And if I weep let it  be as a man who is longing for...     his home
 OUTRO:
 |  F/C   G/C  |  C  F/C  C  G  |  C
 |  / /   / /  |  /   /   /  /  |  /
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

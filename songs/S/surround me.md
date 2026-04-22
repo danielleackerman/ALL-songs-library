@@ -26,3 +26,12 @@ CHORUS:
 [F/A]Sur[Bb2]round [Dm7]me, oh [Gm2]Lord.  [Gm/F] [C] [D]
 Let Your [Cm/Eb]presence [F/C]fill [Dm7]this [Bb]Place.
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

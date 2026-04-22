@@ -45,3 +45,12 @@ can [D]dress like flowers and [A]eat like [D]birds.
 And it's [C]hard when your [G]soul has [D]been stripped [G]bare.  It's hard
 to [C]lift your [G]eyes towards [D]Heaven.  Lord it's [C]hard to [G]be a [D]man of
 [Em]prayer.  Lord it's [G]hard, it's [D]hard, it's [C]hard to [D]be like [G]Jesus...
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

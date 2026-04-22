@@ -127,3 +127,12 @@ BRIDGE 4:
 Let’s testify  [D]        [D]      [A/C#]
 [Bm]My [(cut)]past erased, my name He changed
 Let’s testify  [D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

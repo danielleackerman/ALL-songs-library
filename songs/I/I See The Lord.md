@@ -76,3 +76,12 @@ Forever and ever.
 Angels cry holy, holy is the Lord.
 Angels cry holy, holy is the Lord
 Angels cry holy, holy is the Lord.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -27,3 +27,12 @@ Oh glory, [C]glory, [C7]Christ is [F]mi----- [Gdim/Db]i------ [Dm7]ne
 All to Him, I now re---- si----- i------ ign
 
 [Bbm/Db]I have [F/C]been, [Dm]I have [G9]been [C9]re----[F]deemed.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

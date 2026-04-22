@@ -46,3 +46,12 @@ I see the lights, I hear the singing;
 A brand new song of joy divine.
 My soul rejoices just in knowing
 That soon these pleasures will be mine.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

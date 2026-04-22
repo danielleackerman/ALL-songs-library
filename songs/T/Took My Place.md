@@ -82,3 +82,12 @@ Solo chords:
 F   C   G   D   F   C   G   C   C(octave higher)
 
 Hope you enjoy. It's really fun to play!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -48,3 +48,12 @@ Your mercy flows like a river so wide
 And healing comes from your hand
 Suffering children are safe in your arms
 There is none like you
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

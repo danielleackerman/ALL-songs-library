@@ -32,3 +32,12 @@ spun
 me[A] aroun[E]d a[A]nd You lov[E]ed [A]me instead.  And I know I can turn to
 something    E  A  E     A   E
 other than You, cuz I don’t understand you and why You’re after me...
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

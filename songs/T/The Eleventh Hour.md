@@ -67,3 +67,12 @@ I've been [C#m]down without you
 In [C#m]time will I be [A]what
 
 You're thinking [B]of
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

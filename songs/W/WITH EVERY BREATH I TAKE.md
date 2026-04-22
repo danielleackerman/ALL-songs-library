@@ -37,3 +37,12 @@ Lord I will [F]give You praise [Dm9]
 With every [Gm9]song I sing [Bb/C]
 
 I will glorify Your [F]name
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

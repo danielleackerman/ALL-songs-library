@@ -64,3 +64,12 @@ He says I tell the truth
 And I [G]know that my [Bb]time is coming [Cm]soon
 And I [G]know that my [Bb]time is coming [Cm]soon
 And I [G]know that par[Bb]adise, [F]paradise is coming [Cm]soon.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

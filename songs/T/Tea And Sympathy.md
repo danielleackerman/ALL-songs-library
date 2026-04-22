@@ -70,3 +70,12 @@ and call the waitre[Em7]ss instead
 CHORUS:
 
 [A7sus]We can work [A7]it out[D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

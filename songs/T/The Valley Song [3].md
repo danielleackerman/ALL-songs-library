@@ -55,3 +55,12 @@ I will sing of Your mercy that
 Leads me through valleys of sorrow to rivers of joy.  Yeah
 
 Allel[C]u--[G/B]ia,   Alle[Am]lu--[F]ia,   Alle[C]lu[G/B]ia,   Alle[Am]lui[F]a.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

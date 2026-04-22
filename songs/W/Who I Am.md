@@ -44,3 +44,12 @@ CHORUS:
 [G]Do you Know, Who I [D]Am?
 [Bm]Have You seen the things I'[C]ve done?
 (repeat)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -54,3 +54,12 @@ and when this prisoner, finally touched, Jesus
 he set me free, praise the Lord, free indeed
 
 os apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

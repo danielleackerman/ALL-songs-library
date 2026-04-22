@@ -49,3 +49,12 @@ Medley:
 God is great and greatly to be praised
 This is the day
 Caught up to meet Him in the air
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

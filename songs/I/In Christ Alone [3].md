@@ -56,3 +56,12 @@ No power of [G]hell, no scheme of [A]man, Can [D]ever pluck me [B]from His [A]ha
 
 No power of [Em]hell, no scheme of [A]man, Can ever [G]pluck me from His [A]hand
 ‘Til [G]He re[D]turns or [G]calls me [A]home, [F#m]Here in the [G]power [E]of [Em]Christ [Am]I’ll [D]stand
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

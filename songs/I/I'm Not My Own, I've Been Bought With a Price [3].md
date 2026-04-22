@@ -27,3 +27,12 @@ I've been [Cm9]purchased by the precious blood of [Eb/F]Jesus Christ
 All my [Bb]debts were [Bb/D]paid by His [Eb]sacri[Bb]fice
 
 [Cm9]Hallelujah to the Lamb who re[Eb/F]deems my [Bb]life
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

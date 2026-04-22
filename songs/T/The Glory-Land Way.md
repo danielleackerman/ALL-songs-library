@@ -43,3 +43,12 @@ Onward I go, rejoicing in His love
 I'm in the glory-land way
 Soon I shall see Him in that home above
 Oh, I'm in the gloryland way.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

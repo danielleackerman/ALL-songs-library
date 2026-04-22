@@ -55,3 +55,12 @@ He's the same yesterday and today and for aye,
 This healer of men to-day.
 
 Repeat chorus:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

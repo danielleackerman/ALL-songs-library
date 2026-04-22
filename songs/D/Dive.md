@@ -57,3 +57,12 @@ Until we let ourselves get swept away into this holy
 Flood, so if you’ll take my hand, we’ll close our
 Eyes and count to 3, and take the leap of faith, come
 On let’s go!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

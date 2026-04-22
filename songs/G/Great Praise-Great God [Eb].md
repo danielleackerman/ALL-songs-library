@@ -35,3 +35,12 @@ A [G/D]mighty worship for the [D]mighty [Em/D]One.   [C/E].    [D/Gb]
 [G]We bring You [G7/B]worship and [C]we bring You [Am7]praise
 [G/B]We [Am]bring [G/D]great praise, [D7]great [G/D]praise
 [G/D]For [Am/D]a [Am/G]great [G]God.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

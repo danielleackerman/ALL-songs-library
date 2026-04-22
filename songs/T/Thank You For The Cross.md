@@ -33,3 +33,12 @@ We’re [G]so amazed, and we [C]give you praise
 That [Am]you would save us at [D]such a cost   [G]
 And we’re [Em]so amazed and we give [C]you praise
 For the [Am]power [D]of the cross  [Em] [A], For the [Am]power [D]of the cross  [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

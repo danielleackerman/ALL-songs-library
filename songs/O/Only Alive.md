@@ -49,3 +49,12 @@ I tremble inside when you walk in the room
 You hold my affections and will
 
 CHORUS:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

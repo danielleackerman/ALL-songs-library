@@ -51,3 +51,12 @@ Even in the midnight hour
 I'm just one shout away
 From the place where God says, "Child, hold on."
 Take a ride on the wings of praise.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

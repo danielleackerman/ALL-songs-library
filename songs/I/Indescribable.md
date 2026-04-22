@@ -57,3 +57,12 @@ End:
 [G]Incomparable, [D]  unchangeable,
 Y[C]ou see the depths of my heart and you love me the s[Em]ame
 [G/B]You are amazing G[C]od
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

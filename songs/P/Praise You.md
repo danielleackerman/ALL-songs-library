@@ -27,3 +27,12 @@ I'll [Fm7]praise You  every[Ab/Bb]where I  [Bb7]go
 [Eb2]Praise [Bb/D]You, [G7+] [Cm9]Praise Db/Bb]You.    [Eb7]
 And [AbM7]I'll forever [Eb/G]sing Your praise,
 To [Fm7]You Lord, [Ab/Bb] You are [Bb7]my [Eb]joy.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

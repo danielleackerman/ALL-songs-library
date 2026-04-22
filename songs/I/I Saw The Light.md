@@ -80,3 +80,12 @@ I saw the light, I saw the light
 
 Now I'm so happy, no sorrow in sight
 Praise the Lord, I [D]saw the [G]light
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

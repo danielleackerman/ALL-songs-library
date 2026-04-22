@@ -55,3 +55,12 @@ And I will [Asus2]sing,  sing a [E]new song, cause You c[D]are[Dsus2][D]
 And I will [Asus2]sing,  sing a [E]new song,    cause Yo[D]ur the[Dsus2]re[D]
 
 I have tons of tab, hollar at me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -44,3 +44,12 @@ Old Satan said my Lord was gone,
 and would not hear my pray'r
 But praise the Lord the work is done,
 and Christ, the Lord is here.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

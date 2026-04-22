@@ -46,3 +46,12 @@ To shake[G] t[–]he[F] f[–]ou[E]nd[–]at[Eb]ion[–] w[D]ith praise [C/D]   
 I gotta praise
 [G]I,  I [G7]gotta [C#]praise,  I [G/D]gotta praise[C/E]
   and I gotta [F]get [F#]it [G]out   (cut)   I gotta praise!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

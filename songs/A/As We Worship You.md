@@ -89,3 +89,12 @@ As we [Eb]worship You, oh [Bb]yes, As we [Cm]worship You, [Ab]
 
 ©1998, 2000 We Mobile Music / Integrity's Praise! Music
 Words and Music by Tommy Walker
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

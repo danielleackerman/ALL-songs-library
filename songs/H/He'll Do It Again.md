@@ -85,3 +85,12 @@ You may not know [F]how
 You may not know w[C]hen
 But I know that He'll do it a[F]gai[-]n  [Bb]
 He'll do it ag[F]ain[-],  [Bb]     He'll do it a[F]gain
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

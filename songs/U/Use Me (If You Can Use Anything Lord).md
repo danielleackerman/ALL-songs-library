@@ -79,3 +79,12 @@ Chorus 2x:
 
 Outro chorus 1x:
 a capella, rubato
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

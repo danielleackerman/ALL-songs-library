@@ -66,3 +66,12 @@ the [Ab/Bb]ho[Bb7]ly [Eb]place [Ab/C] [Bb/D] [Eb]
 In the [Fm7]presence of a [Ab/C]Ho[Bb/D]ly [Eb]God  [Bb/C] [Cm7]
 
 Mod apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

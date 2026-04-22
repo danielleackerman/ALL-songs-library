@@ -33,3 +33,12 @@ And   [Eb2]all   that   [Fm]is   [Eb/G]with[Eb/Ab]in   [Fm/Ab]me
 [Eb]He   has   [Eb7/G]done   great   [Ab]things
 
 [Fdim/Ab]Bless    His.   [Eb/Bb]ho[Bb7]ly.   [Eb]name.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

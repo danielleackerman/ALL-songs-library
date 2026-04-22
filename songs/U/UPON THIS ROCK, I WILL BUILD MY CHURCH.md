@@ -52,3 +52,12 @@ Bridge 2x:
 [G]It will stand through the rain,
 [G]It will stand [D/E][E7]victorious
 [Am]Through the [G/B]power [C]in God’s [D7]name
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

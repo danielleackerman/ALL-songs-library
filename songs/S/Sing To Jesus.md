@@ -63,3 +63,12 @@ He is our great redeemer.
 [G]Sing to Jesus, honor His [D]name.
 Sing of His [Em]faithfulness,
 Pouring His [C]life out unto [D]death.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

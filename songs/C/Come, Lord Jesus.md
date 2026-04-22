@@ -36,3 +36,12 @@ We   are  [Eb/G]watching,   [Ab]waiting  [Eb/Bb]ready  [Bb7]For   [Bb7/D]that   
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

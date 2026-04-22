@@ -32,3 +32,12 @@ CHORUS:
 BRIDGE:
 [EM7]Holy Spirit come ag[D]ain w[EM7]ash away all our si[D]ns
 [EM7]Holy Spirit come ag[D]ain w[EM7]ash away all our si[D]ns
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

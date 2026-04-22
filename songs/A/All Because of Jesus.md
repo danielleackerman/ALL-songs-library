@@ -43,3 +43,12 @@ BRIDGE:
 [C]Ev'ry sunrise [D]sings Your [Em7]praise
 The [C]universe cries [D]out Your [Am]praise
 I'm [C]singing freedom [D]all my [Em7]days, [F2]now that I'm [Dsus]a[D]live
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

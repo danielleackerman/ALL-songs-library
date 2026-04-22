@@ -61,3 +61,12 @@ worship Christ the Lord
 
 VERSE 4:
 Let us lift up holy hands, magnify his name, and worship him
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

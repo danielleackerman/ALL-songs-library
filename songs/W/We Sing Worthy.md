@@ -54,3 +54,12 @@ We sing glory
 We sing holy, our God is holy
 
 Praise and Glory
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

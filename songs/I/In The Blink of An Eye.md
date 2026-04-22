@@ -70,3 +70,12 @@ I'll be cl[Em]oser to You than I've ever been[G]
 Time will fly, b[D]ut until then[A]
 I'll embra[Em]ce every moment I'm given[G]
 There's a reason [Em]I'm alive for a[G] blink of an eye[D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

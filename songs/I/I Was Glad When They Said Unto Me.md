@@ -43,3 +43,12 @@ id: 1AEA0D6E-4D93-41EC-BE81-98947085B529
 [Ab/Bb]I   was  [Eb]glad  when  they  [Eb7/Db]said  unto  [Ab Abm/B]me
 
 Let  us  [Eb/Bb]go  to  the  [Bb]house  of  the  [Eb]Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

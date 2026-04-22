@@ -57,3 +57,12 @@ I want to h[G]ear your voice[A]
 OUTRO:
 [D]I ran aw[G]ay from your lov[Bm]e
 But y[A]ou waited fo[D]r me, Yes y[G]ou waited fo[Bm]r me[A][D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

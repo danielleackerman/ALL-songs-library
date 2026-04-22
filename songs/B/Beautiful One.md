@@ -64,3 +64,12 @@ BRIDGE:
 [D/A]You [G/B]o[G2]pened my eyes [G/F#]to your [A/F#]won[A/E]ders anew
 [Asus]You [G/B]cap[G2]tured my heart [G/F#]with [G2]this [A]love
 [A/F#]Be[A]cause [G/B]no[G2]thing on earth [G/F#]is as [A/E]beautiful [Asus]as [D]You
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

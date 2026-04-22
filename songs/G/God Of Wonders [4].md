@@ -135,3 +135,12 @@ Hallelujah,
 To the [Dsus]Lord of heaven and e[D]arth.
 
                                 Matthew 22:37
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

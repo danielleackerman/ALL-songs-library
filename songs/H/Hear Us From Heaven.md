@@ -75,3 +75,12 @@ Open the bl[G]ind eyes, unlock the [G/F#]deaf ears
 Come to Your pe[Am7]ople, as we dra[G/B]w nea[C2]r
 Hear us from[Dsus]   heave[G]n, touch our gene[G/F#]ration
 We are Your pe[Am7]ople, crying out i[G/B]n despe[C2]ration.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -67,3 +67,12 @@ I'll be a witness in the s[Bb]ilences when w[C]ords are not en[F]ough
 With every breath I t[C]ake,         I will give thanks to God a[Dm]bove
                         Bb                C         `F
 For as long as I shall live,      I will testify to love  (Skip Love first time)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

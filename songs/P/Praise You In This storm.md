@@ -62,3 +62,12 @@ CHORUS:
 OUTRO:
 And [Gb]though my heart is to[Abm]rn, [B] I'll praise You in this st[Gb]orm
 [Bbm] [Abm] [Cb] [Gb] [Bbm] [Abm] [Cb] [Gb] [Bbm] [Ebm]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

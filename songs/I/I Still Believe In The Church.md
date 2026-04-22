@@ -65,3 +65,12 @@ She [D/E]stands for what I am on this [E7sus]earth.   (Modulate).    [F7sus] [cu
 Cho: I still [Bb/D]believe in the [Eb9]church I still believe in her [Bb7]word
 I believe she can [F7]stand cause she's upheld by His [Bb7]hand
 You know she's built [Db]on a [Eb9]rock and her work it never [Bb7]stops [W/down G7].  And the [Cm7]gates of [Bb/D]hell shall [Eb]not pre[C7/E] [Eb/F]vail. (G7#5#9) I still believe in the [Bb7]church.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

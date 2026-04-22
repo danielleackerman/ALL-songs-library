@@ -70,3 +70,12 @@ then the other acoustic, capoed on the 1st fret (played in G) comes in on the ch
 There are two guitar parts. One playing in G
 with no capo and one playing in D on capo 5. You don't have to play with both
 guitar parts it just sounds better.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

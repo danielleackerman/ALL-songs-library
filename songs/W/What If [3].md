@@ -65,3 +65,12 @@ T[D]he way you [Dmaj7]love me, t[D7]he way you [G]do
 T[D]he way you do , the way you l[Dmaj7]ove me, you l[D7]ove me, you lo[G]ve me
 T[D]he way you do the way you[Dmaj7] do    [D7]   the way you lo[G]ve me
 t[D]he way you [Dmaj7]love you l[D7]ove you lov[G]e
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

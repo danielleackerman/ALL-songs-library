@@ -56,3 +56,12 @@ when you [D/F#]call. Fr[Fm6]iends are there to c[C/E]atch you when yo[Cdim/Eb]u 
 can l[F/G]ean on [C]me.[C/B]     [Am7]     [C/G]     He[F]re's my sh[C/E]oulder, [Dm9]you can l[F/G]ean on [C]me.[C/B]     [Am7]     [C/G]
 He[F]re's my sh[C/E]oulder, [Dm7]you can l[F/G]ean on [C]me.[C/B]   Sp[Am7]oken:[C/G] You're my friend, but you're also
 my brother.  H[F]ere's my sh[C/E]oulder, [Dm7]you can l[F/G]ean on m[C]e.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

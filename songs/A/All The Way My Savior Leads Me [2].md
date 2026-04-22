@@ -55,3 +55,12 @@ VERSE 2:
 CHORUS:
 You [C]lead [G/B]me and [Dsus]keep me from falling, You [C]carry [G/B]me [Dsus]close to your heart
 And [Am]sure[G]ly your [Dsus]goodness and mercy will [Am]follow [Dsus]me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

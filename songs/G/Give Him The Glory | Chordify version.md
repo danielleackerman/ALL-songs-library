@@ -138,3 +138,12 @@ Give Him the [Gm7]glory  [Am7] [D7]
 Give Him the [G7]glory
 Give Him the [G7]glory  [C7] [F7] [Bb7] [Am7]
 [D7]Give  Him  [G7]praise.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

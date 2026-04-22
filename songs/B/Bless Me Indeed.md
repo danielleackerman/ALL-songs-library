@@ -76,3 +76,12 @@ Let Your hand keep [F/G]me (echoes) from harm and pain
 Bless [Cadd9]me oh bless [F/G]me bless [Cadd9]me bless [F/G]me
 Bless [Cadd9]me bless [F/G]me bless [Cadd9]me bless [F/G]me bless [Cadd9]me
 F/G
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

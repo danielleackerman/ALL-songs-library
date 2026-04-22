@@ -58,3 +58,12 @@ VERSE 3:
 [F]O [Gm/F]we [F]long for that [Bb/F]morning bright [F/A]and [C9]fair!
 [F]When [Gm/F]the [F]days of our [Bb/F]so[F]journing [C7]and [Dm]our [Gm/Bb]pil[A7]gri[Bb]mage [Dm]shall [Dm7]end,
 [Dm]We’ll be [F/C]caught up to [C7]meet Him in the [F]air.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

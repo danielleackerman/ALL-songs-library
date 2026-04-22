@@ -57,3 +57,12 @@ Than to [G7]be the King of a v[Am]ast d[F]om[C]ain
 and be h[G7]eld in sin's dread [F/C]sway. [C]
 I'd rather have J[C7]esus than a[F]nyth[C]ing
 this [C/G]world aff[G7]ords to[F/C]day    [C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

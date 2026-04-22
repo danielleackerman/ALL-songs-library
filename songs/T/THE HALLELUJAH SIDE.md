@@ -73,3 +73,12 @@ And upon the street of Glory, when we reach the other shore,
 And have safely crossed the Jordan's rolling tide,
 You will find me shouting,"Glory" just outside my mansion door,
 Where I'm living on the Hallelujah side.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -38,3 +38,12 @@ Is the [F/C]sweetest [G9]part of the [Gm9]day.    [C9]
 [F]Coming [F/A]into Your [Bb]pre[Gm7]sence,
 
 My doubts and [F/C]fears all [C9]vanish a[F]way.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

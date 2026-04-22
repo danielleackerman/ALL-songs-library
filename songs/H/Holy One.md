@@ -65,3 +65,12 @@ Better than life
 (riff 1)
 (chorus)
 (riff 1 x 4 to end)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

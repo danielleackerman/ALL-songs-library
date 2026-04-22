@@ -63,3 +63,12 @@ Why don't you believe in
 Chorus x 2
 
 [A-G-D-A]                [x2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

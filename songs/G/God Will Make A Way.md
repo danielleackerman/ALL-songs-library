@@ -35,3 +35,12 @@ By a r[Eb]oadway in the wil[F]derness He'll [Eb]lead me[Bb],
 And [C]He will do [D]something new t[E]oday.
 
 (Repeat 1st stanza)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

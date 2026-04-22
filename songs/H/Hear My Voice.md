@@ -46,3 +46,12 @@ BRIDGE:
 [C]And to You [G/B]I give my [A]heart[A/C#]
 
 CHORUS:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

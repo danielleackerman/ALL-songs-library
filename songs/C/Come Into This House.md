@@ -37,3 +37,12 @@ ENDING:
 [F] Cone into this [C/E] house and [C/E] bless [D/F#]His [G] Name
 
 Copyright Words/Music: Christy Ballastero: "Enter In" Vol.1
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -37,3 +37,12 @@ Jesus my rock
 Oh Jesus my rock
 Jesus, Jesus precious Jesus
 I call Him Jesus my rock
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

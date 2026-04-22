@@ -52,3 +52,12 @@ One thi[F]ng I know f[Em]or sure is that I love Y[Am]ou    [G/B]
 And You[C] love me Lord
 
 Tag: (G/B - C D - D/F# - G) 2x
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

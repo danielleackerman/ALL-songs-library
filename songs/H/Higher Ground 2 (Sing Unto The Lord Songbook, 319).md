@@ -54,3 +54,12 @@ VERSE 4:
 And catch a [Ab]gleam of glory [Eb]bright
 [Eb7]But [Ab]still I'll pray till [Eb7]Heav'n [Ab/Eb]I've [Db]found
 Lord. lead me [Ab/Eb]on to high[Eb7]er [Ab]ground.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

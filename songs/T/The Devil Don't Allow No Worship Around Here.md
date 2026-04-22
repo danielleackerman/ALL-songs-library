@@ -51,3 +51,12 @@ i dont care what the devil dont allow
 im gonna think about God anyhow
 
 the devil dont want no joy goin on here
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

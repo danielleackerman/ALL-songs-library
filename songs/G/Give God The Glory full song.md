@@ -90,3 +90,12 @@ So let us [F]give God[Bb]
 So let us [F]give God[Bb]
 So let us [F]give God[Bb]
 [Bb/C]All of our [F]praise
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

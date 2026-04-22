@@ -64,3 +64,12 @@ VERSE 3:
 He's the [Abmaj9]best [Eb/G]thing I've [Fm7]Ever [Ab/Bb]ever [Eb]Known [Ab/Bb]
 
 Mod apo med, mod gospel med, med slow, jazz
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

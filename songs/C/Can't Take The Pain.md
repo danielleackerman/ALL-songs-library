@@ -63,3 +63,12 @@ And you [D/F#]took the sh[Em]ame and You made it[D/F#] all your o[G]wn
 Why'd You take the p[C]ain for everything that I'[G]ve done?
 Lord, you t[D/F#]ook the p[Em]ain, you and[D/F#] you al[C]one.
 You and you a[G]lone.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

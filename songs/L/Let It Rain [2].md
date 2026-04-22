@@ -40,3 +40,12 @@ We want to[Amaj7] see You, show us Your glor[Bsus4]y
 We want t[C#m7]o know You [Bsus4]more
 We want t[Amaj7]o see You, show us Your glo[Bsus4]ry
 We want to[C#m7] know You m[B/D#]ore
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

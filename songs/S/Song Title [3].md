@@ -25,3 +25,12 @@ id: 22E56EBB-B2C7-472E-87C0-96D32D79D9E5
 Every[BbM9]thing that He said is [C/Bb]true,
 What He [A7b9]said in His word He will [D7#5#9]do for you,
 [Gm9]God is about to [F/C]do [Bb/C]marvelous [F]things.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -44,3 +44,12 @@ I'll [A/C#]never [D/F#]know how [G]much it cost, to [A/C#]see my [D/F#]sin upon 
 tag: (from recording)
 [D]Call upon the name of[A] the Lord and be[G] saved
 [D]CALL UPON THE NAME OF[A] THE LORD AND BE[G] SAVED      (repeat several times, building, then to chorus) to end)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

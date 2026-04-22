@@ -76,3 +76,12 @@ But [Am]glori[Bb]fying [C]your [Dm]name[Bb]
 [Bb]I’m unaware that I still br[Bb]eathe
 [Bb]Unaware of every[F]thing
 Knowing [Dm]You’re a[Bb]ware of [F]me[Dm][Bb][F][Dm][Bb][F][Dm][Bb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

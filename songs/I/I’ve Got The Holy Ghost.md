@@ -85,3 +85,12 @@ they said neither not the rock as she supposed
 but its just like the bible says
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

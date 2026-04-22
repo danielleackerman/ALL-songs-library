@@ -53,3 +53,12 @@ Intro: A    Asus    A    Asus (2X)
 [F#m]Here in our weak[F#m/E] - ness You [D]find us
 [A]Falling be[E]fore Your [F#m]throne,
 [D]Oh we're [A]falling be[E]fore Your [A2]throne [E/G#] - TO CHORUS (ACAPELLA FIRST 2 LINES)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

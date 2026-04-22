@@ -53,3 +53,12 @@ If[C#m] eve[A]r [G#m]I lov[A]ed Thee, my[A] je[B]sus ‘tis [E]now.
 I’[E]ll ev[A]er [E]adore Thee, in heav[F#m]en s[B]O brigh[E]t.
 And sin[E]g wi[A]th the[E] glitte[F#m]ring[B], cr[E]own [A]on my brow [E]   [B]
 I[C#m]f ev[A]er [G#m]I lov[A]ed Thee, my [A]jes[B]us ‘tis no[E]w.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

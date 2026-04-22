@@ -50,3 +50,12 @@ power all [G]po[D]wer [D7]surely is [G]Thine
 [A7]hold o'er my being abs[A7*]olute s[D]way!
 fill wth Thy [G]Spir[D]it, [D7]till all shall [G]see
 [Dmaj]Christ only [D]always [A]living in[D] me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

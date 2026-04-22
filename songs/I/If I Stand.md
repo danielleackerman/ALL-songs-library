@@ -51,3 +51,12 @@ There's a lo[G]yalty that's de[D]eper than mere s[G]entiment[G]
 [D/F#]A music h[Em]igher than the s[Em]ongs that [D]I can s[C]ing
 [Am]  The stuff of e[Dsus]arth compe[D]tes for the al[G]le[D/F#]gianc[Em]e
 I owe [Asus]only to the g[A]iver of all good t[Dsus]hings[D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

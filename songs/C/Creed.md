@@ -82,3 +82,12 @@ D(2 measures)	                        Em(2 measures)    D(2 measures)
 
 Ending: (1 measure-each)
 Am - Bm - C - D - Em
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

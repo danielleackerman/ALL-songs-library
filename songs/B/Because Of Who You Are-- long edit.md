@@ -64,3 +64,12 @@ and I wor[Bbm9]ship you bec[Ab/C]ause of who you are[Db2/Eb]
 [Fm9][Fm7/Eb][Bb/D]Lord, I [Bbm7]worship you be[Db/Eb]cause of who [Eb]you are
 [Db][Eb/Db][Db][Db/Eb] [Ab2]
 ,
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

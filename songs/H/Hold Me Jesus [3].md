@@ -62,3 +62,12 @@ I'm singing
 [C#/F#]hold me Je[F#]sus 'cause I'm[G#m7] shaking [F#/A#]like a l[B2]eaf
 You have [G#m7]been King of m[F#/A#]y glory[B2], won't You be my [C#7sus]Prince of[C#] Peace       [F#2]
 You have [G#m7]been [F#/A#]King of my [B2]glory, won't You be my [C#7sus]Prince of[C#] Peace  [F#2]   [B]   [F#2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

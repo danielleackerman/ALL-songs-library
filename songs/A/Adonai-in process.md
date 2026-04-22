@@ -49,3 +49,12 @@ And to -  [Dbm6]day      You're making miracles in[Bbm7] me.[Eb]
 	Ad [Bb]- on - [Eb(add2)]ai          I [Bb]lift up my [Gm]heart [Eb]     and [Bb]I   cry   [Cm7]     "My [D2]Adonai"
 	You are [Gm]Maker of each [Dm]mo - ment, [Gm]Father of my [C9]hope and [Bb]freedom[Dm][Eb]
 	Oh, my Ad - on - ai[Bb][Bbsus][Bb(add2)][Eb][Bb][Bbsus][Bb][Ebsus2][Bb2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

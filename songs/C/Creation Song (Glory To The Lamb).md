@@ -67,3 +67,12 @@ Singing [A]glory, [D]hallelujah!
 All [A]prai[E7sus4]ses and [F#m]honor [E]forever, forever, [A]amen! [A]  [Asus4]      [A]  [Asus2]      [A]
 
 [A]  [Asus4]      [A]  [Asus2]      [A]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

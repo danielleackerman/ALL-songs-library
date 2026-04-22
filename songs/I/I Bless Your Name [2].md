@@ -62,3 +62,12 @@ You [A/G]are the life[D/F#] [Bm/G] the truth the way [D/A]
 
 ENDING:
 I [G6/B]bless Your name [D/A] I [G6/A] bless Your Name [D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

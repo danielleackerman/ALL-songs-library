@@ -28,3 +28,12 @@ Bless that wonderful name of Jesus
 [Bb]Bless that wonderful name of Je[F]sus
 [F]Bless that wonderful name of Je[Dm]sus
 There’s no  [Ab] other [Bb]name [F/C]  I   kn[C]ow[F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

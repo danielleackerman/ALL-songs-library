@@ -64,3 +64,12 @@ id: AA0AB303-8E53-4979-9FA1-BC3001A3C334
 
   (Chorus):
         -End on A2-
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

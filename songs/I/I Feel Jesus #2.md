@@ -34,3 +34,12 @@ I feel [Am]Jesus[D7], [G/B]I [Em7]feel [Am7]Jesus[D7],
 [E]I [E7/G#]feel [Am]Jesus[Am7/D][D][D6]in  [D7]this [Eb]place[Cm6][G]
 
 mod apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -32,3 +32,12 @@ There is no [F/C]tell[F/Eb]ing, [D7]
 What God can [G9]do, If [C9]you be[F]lieve. [Bb7]  [F]
 
 He’ll pick you up when you’re down
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

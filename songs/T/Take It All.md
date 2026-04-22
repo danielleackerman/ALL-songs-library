@@ -74,3 +74,12 @@ Well here I [C]am, all I [G]have, Take it [C]all.
 
 End:
        C    G   C
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

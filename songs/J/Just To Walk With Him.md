@@ -70,3 +70,12 @@ Just to [Eb]feel His hand in [C7]mine, leading [F]me [F7]
 Go a[Eb2]head  and  [BbM7/D]let  me  [Cm7]be
 Just to [F7]walk [Dm]with [E/Db]Him
 Means [Cm7]every[F7]thing to [Bb]me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

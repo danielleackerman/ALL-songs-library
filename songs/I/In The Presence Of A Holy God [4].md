@@ -58,3 +58,12 @@ In Your [Fm7]presence so [Bb2]sweet
 Lord, I [Eb/G]kneel at [Eb7]Your [Ab2]feet
 [Fm7]Take me [Eb/Bb]to the [Fm/D]holy [G7(#5)]place, [Cm7]my [Fmaug]Lord
 Take me [Eb/Bb]to the [Fm7/Bb]holy [Bb7]place. [Eb2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

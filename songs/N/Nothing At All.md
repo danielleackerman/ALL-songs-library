@@ -43,3 +43,12 @@ CHORUS:
  I[A5]f you can't say nothin' good don't say nothin' at all.
  That's it, except for the part we're he reads James 3:5-10, which goes
 like this-E5-D5
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -30,3 +30,12 @@ CHORUS:
 [Fm7]He has [Bb7]done great [EbM7]things. [Ab/Bb]
 [Eb]He has [Eb7/G]done great [Ab]things
 [Fdim/Ab]Bless His [Eb/Bb]ho[Bb7]ly [Eb]name.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

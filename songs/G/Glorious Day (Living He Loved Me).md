@@ -86,3 +86,12 @@ And buried he carried, my sins far away
 Rising he justified, freely forever
 One day He’s [G#m]coming, oh glorious [E]day, oh glorious [B]da-[E]ay,
 oh glorious [B]da-[E]ay, oh glorious [B]day
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

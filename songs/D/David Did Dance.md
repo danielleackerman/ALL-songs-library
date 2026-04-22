@@ -76,3 +76,12 @@ David did dance, David did sing
 David did dance, brother, David did swing
 David did dance and I know why
 David did dance, dance, dance and so can I
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

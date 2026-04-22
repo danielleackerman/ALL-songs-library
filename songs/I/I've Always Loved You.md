@@ -57,3 +57,12 @@ For Gadd4 it's just G with the b string 1st fret added
 Other then that listen to the song and match the chord changes up with it.I'm
 sorry if I'm confusing if you have any questions go ahead and e-mail me at
 Tymen@hotmail.com This is an awesome song, God bless.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -44,3 +44,12 @@ To [AbM7/Bb]magnify.   [Ab/Bb]His [Fm7/Ab]Name [Bb/D]
 As we [Ab/F]wors[Fm7/Bb]hip    the [Eb]King [Ab/Bb] [Bb/D]
 
 Modulate to F
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -56,3 +56,12 @@ You are my tre[F]asure a[C]nd my re[G]ward
 Let nothing e[F]ver c[C]ome be[G]fore
 
 I seek You
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

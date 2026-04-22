@@ -66,3 +66,12 @@ CHORUS  (4 Times)     1. Pretty, Synth + Vocals only
                                        2. Add Bass, Drums + Acoustic Guitar
                                    3, 4. Add Lead Guitar
 Song-ends on f
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

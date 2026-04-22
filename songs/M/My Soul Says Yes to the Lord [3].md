@@ -62,3 +62,12 @@ VERSE 3:
 [Db][D] I've [Eb]been to the water and I've [Eb]been baptized!
 Hes a [Ab7]great King doing great things,
 My soul says [Eb9/G]Yes, [Ab]Yes, [B7]Yes [Bb7]to the [Eb]Lord.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

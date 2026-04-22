@@ -53,3 +53,12 @@ VERSE 3:
 [Am]David had only a sling [Em]shot in hand
 But [C]worship was present in [D]their battle plan
 [C]Praising the Lord as the enemy [Bsus]ran [B] He ran
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

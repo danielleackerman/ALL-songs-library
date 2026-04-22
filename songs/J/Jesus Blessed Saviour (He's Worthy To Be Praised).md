@@ -56,3 +56,12 @@ From the rising of the sun,
 Unto the going down of the same
 He's worthy, Jesus is worthy,
 He's worthy to be praised.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

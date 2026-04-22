@@ -56,3 +56,12 @@ VERSE 4:
 [Gm]There was nothing left for me, But to [Dm]cry, "Have mercy!",
 And when I doubted that He heard, He [Gm]answered me with His Holy Word,
 “Lift [Fm6]up your hands and sing and [A7]shout, I'm gonna bring you [Dm]out.”
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

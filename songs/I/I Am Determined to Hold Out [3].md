@@ -64,3 +64,12 @@ When I hear the trumpet sounding in the sky
 And see the mountains trembling, to heaven I will fly
 For Jesus will be calling, there'll be no time to mend
 With joy I'll go up singing, "I've held out to the end"
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

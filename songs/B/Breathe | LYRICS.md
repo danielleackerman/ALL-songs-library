@@ -46,3 +46,12 @@ And I, I'm lost with out you
 Open the floodgates of heaven
 
 Let it rain
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

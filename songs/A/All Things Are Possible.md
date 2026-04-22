@@ -49,3 +49,12 @@ For in the [Bm7]power [A]of Your [G]name, [A]All things are possible [G]
 CHORUS:
 
 BRIDGE:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -56,3 +56,12 @@ BRIDGE:
 Than the [F]cross of Christ where He [G]gave His life to [Em7]ease my suffer[Asus]ing   [A]
 
 (chorus)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

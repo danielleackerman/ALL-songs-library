@@ -48,3 +48,12 @@ BRIDGE:
 [D]You knew my name be[Gmaj7]fore there was time
 All [D]this is just [A/C#]part of Your [Bm]glorious de[A/C#]sign
 Hallel[G]ujah, Hallel[A]ujah
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

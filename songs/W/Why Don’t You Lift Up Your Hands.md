@@ -32,3 +32,12 @@ Why don’t you [D]lift up your [D7]hands, And [D7/F#]praise the [G]Lord.
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

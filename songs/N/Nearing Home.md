@@ -50,3 +50,12 @@ My [Bb13]love, [Bb7]my [Eb]fair [Ao7]one [Eb]come [Ab/Eb]away, [Eb7] [Eb11] [Eb7
 This [Eb9]is [Ab]your long a[Ab2]waited [Ab]day,
 You’ve done your [Bbsus]best, It’s [C7]time to rest  [F9]
 I’m [Bb7]tak[Bb13]ing [Bb7]you [Eb]home.  [Fm] [Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

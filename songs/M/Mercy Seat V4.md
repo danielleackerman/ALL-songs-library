@@ -99,3 +99,12 @@ Thank you for the mercy seat
 I Thank you for the mercy seat
 Somebody thank Him for the mercy seat
 Thank you, Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -41,3 +41,12 @@ time signature: 3/4
 [G]Glory and [Em]honor to [A7]Je[D7]sus
 
 [G]Glory.   [C]Ho[Cm]nor.   [G/D]Glory and [D7]honor to [G]Him.  [C/D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

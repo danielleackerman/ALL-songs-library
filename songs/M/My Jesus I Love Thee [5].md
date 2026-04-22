@@ -58,3 +58,12 @@ If ever I loved Thee, my Jesus, ‘tis now.
 [Bsus] 024400
 [C#m] 046650
 F#m/E 044200
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

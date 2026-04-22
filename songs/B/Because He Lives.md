@@ -39,3 +39,12 @@ Key of: G
 Who holds the [C]future [Cm/A]
 Life is [G/D]worth the living
 [Am]Just [C]because [B/D]He [G]lives
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -55,3 +55,12 @@ the [Eb7]highs and the l[Eb7sus]ows,
 the [Eb7]ups and the [Bb13][C13][Db13][D13]downs
 [Eb7sus]when by [OCTAVES] [F]my  [F]faith
 [E]I  [Eb]know  [D]that  [Db]He    [C]is  [B]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

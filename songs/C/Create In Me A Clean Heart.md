@@ -27,3 +27,12 @@ id: 981107FB-430A-49BB-B2CB-D6DAAF4607DD
 And [C]Take not Thy [D]Holy Spi[D7]rit from [G]me.[G7]
 Re[C]store unto [D]me the [G]Joy of Thy Sal[Em]vation,
 And [C]Renew a Right [D]Spirit w[D7]ithin [G]me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -53,3 +53,12 @@ No pow'r of hell, no scheme of man, Can ever pluck me from His hand
 [D/F#]Here in the p[G]ow'r [D/F#]of   C[Em7]hrist [G/A]   I'll st[Bm]and.
 [D/F#]Here in the p[G]ow'r [D/F#]of   C[Em7]hrist [G/A]   I'll st[D]and.
 [G] [A] [D/F#] [Em7] [G] [D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

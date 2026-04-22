@@ -52,3 +52,12 @@ Lifting holy hands to You
 Here we are praising Jesus
 For the things He's brought us through.
 For the things He's brought us through.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -35,3 +35,12 @@ CHORUS:
 VERSE 2:
 [D]How great the love[G] lavishe[D]d on us all         [G]
 [D]That we can be the[G] childre[D]n of God              [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

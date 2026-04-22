@@ -74,3 +74,12 @@ Oh, if You say go
 We will go
 Step out on the water
 Step out on the water
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -41,3 +41,12 @@ let [G]all your [G/B]people say "[C]amen."
 
 (Tag)
 [G]Amen, a[C]men, am[Em]en..etc[D].
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

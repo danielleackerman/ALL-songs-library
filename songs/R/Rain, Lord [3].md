@@ -41,3 +41,12 @@ Out:
 VERSE 2:
 [Gm]Like a raging fire, [Gm]burn in my soul
 [Gm]Baptize me with the Holy [Gm]Ghost
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

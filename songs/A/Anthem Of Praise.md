@@ -40,3 +40,12 @@ When all the people sing, Hallelujah! Jesus is risen!
 
 BRIDGE:
 [Em]Prais[C]e, [G]glory to our savior, [Em]Prais[C]e, [Am]forever and [G/B]ever he [C]reigns
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

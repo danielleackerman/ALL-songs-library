@@ -67,3 +67,12 @@ On the day, t[D]he day that You came                [A]
 [D]Glo- r - i[A]a  and  glo-[D/F#]  ri -  a  [G]
 [D]       Hallelu[A]ja   Halleluja [D] Hallelujah yeah…  [G]
 [D]      [Em7]       [Bm7]       [G]     [D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

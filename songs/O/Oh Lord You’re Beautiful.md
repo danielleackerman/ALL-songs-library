@@ -50,3 +50,12 @@ Re[F#m]place the [C#m]lamp of [D]my [A]first [F#m]love that [D]fueled with [E]ho
 VERSE 1:
 Oh [A]Lord you’re [D]beauti[E]ful, your [A]face is [D]all I [E]seek,
 For [F#m]when your [C#m7]eyes are [D]on [A]this [F#m]child your [D]faith a[E]bounds to [D]me[A]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

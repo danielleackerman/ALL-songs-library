@@ -56,3 +56,12 @@ Who was and is and soon will come 4x
 you were and youre coming again
 
 And i will
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

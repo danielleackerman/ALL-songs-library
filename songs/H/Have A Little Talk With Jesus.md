@@ -37,3 +37,12 @@ You will [F/C]find a little [D7]talk with [G7]Jesus
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

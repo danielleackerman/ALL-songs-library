@@ -61,3 +61,12 @@ Took some time to re[Am]alize I've fa[C]llen
 Written by Dan Haseltine, Stephen Mason, Mark Hudson, Greg Wells
 (C) 1999 Bridge Building Music Inc./Pogostick Music (BMI) both adm. by
 Brentwood-Benson Music Publishing, Inc. All rights reserved.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

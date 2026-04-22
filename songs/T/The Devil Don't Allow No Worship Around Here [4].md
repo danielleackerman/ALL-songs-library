@@ -43,3 +43,12 @@ id: A69467C5-5B9E-4ED3-8BFE-A378297474FB
 I'm gonna [Ab7]worship God [Adim]anyhow
 
 The [Eb/Bb]devil don't al----[C7]low no [F7]wor---[Bb7]ship around [Eb]here.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

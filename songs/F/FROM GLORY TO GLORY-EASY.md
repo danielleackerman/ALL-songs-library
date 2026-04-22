@@ -39,3 +39,12 @@ From [Am]earthly t[D]hings to the [G]heaven[/]ly
 His [G]likeness and [C]image to [Bm]perfect in [Em]me,
 
 The [Am]love of God [D]shown to the [G]world![G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

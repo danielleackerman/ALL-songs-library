@@ -56,3 +56,12 @@ We have to [Bb]fight the good fight,  We [Asus]have to keep the [A7]faith.
 BRIDGE:
 I [Dm]won't turn back,    I [BbM7]won't turn back
 I [Gm7]won't [A]turn back,    [Dm]Now
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

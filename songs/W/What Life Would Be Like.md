@@ -107,3 +107,12 @@ If we let Jesus live through you and [C#m]me
 ENDING:
 4-7-11-12-14-12-11-7-11-9-7-6-2
 4-7-11-12-14-12-11-7-14-9-7-6-2-4
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

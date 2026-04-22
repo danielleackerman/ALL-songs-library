@@ -47,3 +47,12 @@ Despite all your tendencies, God sees it differently
 Your struggle's a time to grow
 And you, you're a miracle, anything but typical
 It's time for the whole wide world to know
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

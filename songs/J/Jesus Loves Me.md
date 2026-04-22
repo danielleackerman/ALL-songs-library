@@ -52,3 +52,12 @@ He will wash away my sin
 Let His little child come in.
 
 Os apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -55,3 +55,12 @@ And think that I've been cheated, by not doing all those things, that you call f
 Oh, sometime when you're gettin' down, on the darker side of town
 This choice I've made will be lifting me out of here!
 (REPEAT CHORUS then END)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -63,3 +63,12 @@ How do ya get to h[D]eaven? Through Jesus C[G]hrist
 You get to [C]heaven through Jesus Christ,
 He is the [G]Way, the Truth, the Life
 All my s[D]ins are washed away I've been [G]redeemed.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

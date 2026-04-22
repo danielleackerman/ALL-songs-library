@@ -62,3 +62,12 @@ Crown Him with many crowns
 Crown Him with many crowns
 
 Crown Him With Many Crowns lyrics © Deer Valley Music
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

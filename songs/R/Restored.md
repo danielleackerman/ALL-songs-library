@@ -88,3 +88,12 @@ To see the precious beauty that You've shown
 [Em]You've given all these[Bm] open doors
 [C]I'm humbled at Your [D]feet
 [C]To show me what You've [Dsus2]done for me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

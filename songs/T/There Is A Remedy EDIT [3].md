@@ -47,3 +47,12 @@ There's an [Db]answer to the questions,
 There is [Ab/C]love for all the hate  [Ab]
 There's a [Fm7]healer for the [Eb/G]dying
 He's the [Ab]Light the Truth the [Bbsus]Way.... mod
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

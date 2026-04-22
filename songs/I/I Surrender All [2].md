@@ -53,3 +53,12 @@ All to Jesus I surrender
 Lord I give myself to Thee
 Fill me with Thy love and power
 Let Thy blessing fall on me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

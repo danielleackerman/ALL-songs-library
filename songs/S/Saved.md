@@ -70,3 +70,12 @@ A
 You will here the progression from A bared up the neck to D
 and back down again by the base. I like to play along and I
 get so into it I break an E sting now and then. Enjoy!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

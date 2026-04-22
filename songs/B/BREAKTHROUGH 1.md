@@ -115,3 +115,12 @@ ENDING:
 Br[G2]eakth[Bm7]rough,[A] bre[D/F#]akthrough, breakthrough, breakthrough.
 | [G2] | [Bm7] | [A/C#] | [D/F#] |
 [G2]Breakthrough, breakthrough, You are the God, You are the God of the breakthrough.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

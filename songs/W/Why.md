@@ -68,3 +68,12 @@ Let me w[G5]alk with [D2]you in t[Am7]he new life
 When I [G]want to do w[D]hat is right[C2]
 [Am7]  Change my h[Em7]eart, renew my mi[D]nd[C2]
 Let me wa[G5]lk with y[D2]ou in th[Am7]e new life
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

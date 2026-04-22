@@ -58,3 +58,12 @@ CHORUS:
 But [Eb7]Jesus will outshine them [Ab]all! [Db] [Ab]
 
 OS APO SLOW, SUTL, Songbook
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

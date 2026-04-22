@@ -49,3 +49,12 @@ CHORUS:
 BRIDGE:
 I, I gotta praise and I gotta get it out
 I gotta praise
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

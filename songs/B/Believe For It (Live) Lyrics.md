@@ -118,3 +118,12 @@ God we believe for it
 God we believe for it
 (Solo)
 Yes Lord, Yes Lord, God we believe for it
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

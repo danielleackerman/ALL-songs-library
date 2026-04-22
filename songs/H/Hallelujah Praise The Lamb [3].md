@@ -81,3 +81,12 @@ my heart s[G]ings[C] his praise a[G]gain[Em][Eb] hallel[G]u[C]jah praise the [Em
 hallel[G]ujah praise the [A7]lamb my heart [Ab]sings [Db]his praise [Ab]again [Fm][E]
 hallelu[Ab]jah [Ab+5][Db]praise[Eb] the [Ab]lamb[Ab7]
 [Db]praise [Db/Eb]the [Ab]amb
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

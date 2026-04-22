@@ -62,3 +62,12 @@ When he shall come with trumpet sound
 [F]Oh may I then in [G]Him be found
 [Am]Dressed in His righteous[Am/G]ness alone
 [F]Faultless, [G]stand before[C] the throne
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

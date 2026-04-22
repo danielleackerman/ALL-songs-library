@@ -64,3 +64,12 @@ Because You gave Your life 	for me
 Piano Ending:
 [F#m]    [E]    [Asus2]   [Dsus2]  [F#m]   [E]
 F#m    E    Asus2   D/F#
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

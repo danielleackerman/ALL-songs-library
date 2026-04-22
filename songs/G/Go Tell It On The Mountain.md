@@ -56,3 +56,12 @@ Chorus  - X2
 BRIDGE:
 [C]Halleluja[G]h!    [D]   [Em]   [G]  [C]   [D]Jes[Em]us Christ the Lord is born
 [C]Halleluja[G]h!    [D]   [Em]   [G]  [C]  [D] Jesus Christ is born   (Repeat)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

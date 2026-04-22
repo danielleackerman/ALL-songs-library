@@ -35,3 +35,12 @@ Medley: in the presence of Jehovah / Holy ground
 [F]There's [Dm7]nothing like [Dm11]the [F]presence [G13]of [G11]the [C]Lord.
 
 Mod apo slow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

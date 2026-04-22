@@ -208,3 +208,12 @@ Way maker, miracle worker, promise keeper, light in the darkness,
 My God, that is who You are
 
 (We worship you, Jesus)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

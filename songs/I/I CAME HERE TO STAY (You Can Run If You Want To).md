@@ -77,3 +77,12 @@ Who aren't ashamed to say,
 "And I'm gonna stay that way."
 
 CHORUS:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

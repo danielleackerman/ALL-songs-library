@@ -77,3 +77,12 @@ Bridge 3x:
 Vamp 4x:
 [G2]Breakthrough, [Bm7]Breakthrough, [A]Breakthrough, [D/F#]Breakthrough
 [G2]Breakthrough, [Bm7]Breakthrough, [A/C#]Breakthrough, [D/F#]You are the God
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

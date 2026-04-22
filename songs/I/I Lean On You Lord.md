@@ -62,3 +62,12 @@ Leaning, leaning, but in the good times or the bad times, Lord,
 I learned to lean on You.
 
 CHORUS:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

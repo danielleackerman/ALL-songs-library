@@ -55,3 +55,12 @@ Your Blood, your blood has gave me, new Life, new life eternally.
 That is why I...
 
 Medley: give God the glory
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

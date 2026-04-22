@@ -88,3 +88,12 @@ CHORUS:
 [G]Thank You, Lord   [G] [D] [C2]  [D]  [C2]
 
 Contemporary christian med, ccm
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

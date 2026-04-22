@@ -63,3 +63,12 @@ Take my [D(no3)]time here on this [Asus]earth
 And let it [Bm]glorify all that You are [G2(no3)]worth
 For I am [D2(no3)]nothing
 I am [Asus]nothing without [D(no3)]You
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

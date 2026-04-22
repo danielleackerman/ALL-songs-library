@@ -51,3 +51,12 @@ If you want to find me in that city Over in the gloryland
 I'll be singing there around the throne With the eternal glory band.
 
 Sutl, os apo fast
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

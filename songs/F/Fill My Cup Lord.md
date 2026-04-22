@@ -44,3 +44,12 @@ So, my brother, if the things this world gave you
 Leave hungers that won't pass away,
 My blessed Lord will come and save you,
 If you kneel to Him and humbly pray:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

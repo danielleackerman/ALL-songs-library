@@ -43,3 +43,12 @@ For thou hast redeemed us, hast ransomed and cleaned us,
 For Thy blood setting us free,
 In white robes arrayed us, kings and priests made us
 We are reigning in thee!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

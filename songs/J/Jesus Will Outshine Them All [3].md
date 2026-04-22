@@ -57,3 +57,12 @@ Land of [Eb]splendor where night never [Ab]falls,
 But [Eb]Jesus will outshine them [Ab]all!
 
 OS APO SLOW, SUTL, Songbook
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

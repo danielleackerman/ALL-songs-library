@@ -68,3 +68,12 @@ Woh, e-yeah, woh ho oh oh oh...etc.
 
 Written by Jars of Clay
 Copyright 1995 BridgeBuilding Music (BMI)/Pogostick Music (BMI). All rights reserved.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

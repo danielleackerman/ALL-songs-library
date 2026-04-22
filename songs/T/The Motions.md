@@ -70,3 +70,12 @@ ENDING:
             through the motions
 [F#m](Take me a[A9]ll the wa[E]y)[B]
 [C#m]I don't wanna go th[E]rough the motions.[B]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

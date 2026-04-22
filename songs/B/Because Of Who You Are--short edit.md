@@ -39,3 +39,12 @@ BRIDGE:
 [Dm7/F]Jehovah [Gm9]Nissi, [BbM7/C] [C]Lord, You [Eb/F]reign vic[Cm9]tory
 Je[B7(b5)]hovah Sha[BbM9]lom, You are my [Em7(b5)]Prince [A7(#5)]of [Dm9]Peace
 [Dm]And I [Gm7]worship You Because [F/A] of who You are [Bb (b5)/C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

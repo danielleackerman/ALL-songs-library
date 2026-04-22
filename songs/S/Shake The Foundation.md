@@ -46,3 +46,12 @@ OUTRO:
 [C] Tonight, [Bb]we got a right
 [C] Tonight, [Bb]we got a right
 To [F]shake [Eb]the [D]founda[Db]tion [C]with praise [Bb/C]  [Fm]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

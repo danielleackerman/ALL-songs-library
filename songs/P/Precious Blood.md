@@ -43,3 +43,12 @@ TAG:
 And [Gm]I'm so  [F/A]glad [Bb6]His  [F/C]pre   [Bb/C]cious  [F/C]blood   [Cdim7/D]ooooh
 And [Gm]I'm so  [F/A]glad  [Bb6]His  [F/C]pre   [Bb/C]cious  [F/C]blood,   [Cdim7/D]yes
 [Gm]I'm  so  [F/A]glad  [Bb6]His  [F/C]pre   [Bb/C]cious  [F/C]blood still  [Gm]flows  from  [Bb/C]Cal      [C]va    [F]ry.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

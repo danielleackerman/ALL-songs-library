@@ -66,3 +66,12 @@ Till the [F]setting of [F7/A]sun, and my [Bb7]work here is [Bo7]done
 Let me [F/C]walk [D7#5]in the [G9]gos[C9]pel [F]light.
 
 Sutl, os apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

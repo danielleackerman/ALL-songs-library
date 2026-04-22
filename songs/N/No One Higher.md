@@ -94,3 +94,12 @@ BRIDGE:
 [F2]There is no one [Gsus]higher than You  [C]
 
 No One Higher lyrics © Worship Together Music, Sixsteps Songs, Levibear Music Publishing
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

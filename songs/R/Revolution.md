@@ -37,3 +37,12 @@ You got to begin With who you know you are
 To be a revolution
 
 [F#5]Cuz the ti[A5]me is right T[D5]o cross tha[B5]t line  To let love find a way
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

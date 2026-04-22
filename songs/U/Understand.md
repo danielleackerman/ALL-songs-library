@@ -42,3 +42,12 @@ I know You understand it all so why don’t I get back on my feet again
 OH Yea Well Yo[G]u hear me when I call Yo[A]u hear me when I call I am[Bm] Yours
 [Bm]So why don’t I get back on my feet again
 [G]I know You [A]understand it [Bm]all so why don’t I get back on my feet again
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

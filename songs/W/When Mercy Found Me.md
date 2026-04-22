@@ -49,3 +49,12 @@ Solo: G F C G Am F C G
 [C]when mercy found [Am]me, my [F]Saviors arms were o[C]pen wide and [G]i felt love for the
 [Dm]very first time,  [F]   [C]when mercy fo[G]und m[Am]e,  [F]  wh[C]en mercy foun[G]d m[F]e , [C]  wh[G]en
 mercy fo[F]und  me  [C]     [G]when mercy fo[F]und m[C]e   [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

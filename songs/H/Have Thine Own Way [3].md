@@ -59,3 +59,12 @@ VERSE 4:
 Hold o'er my [Gm/Bb]be[Gm/Bb]ing Absolute sway!
 Fill wth Thy [Ab/Eb]Spi[Eb]rit [Eb7]Till all shall [Ab]see
 Christ only, [Eb/Bb]always, [Bb7]Living in [Eb]me!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

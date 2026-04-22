@@ -61,3 +61,12 @@ VERSE 3:
 He's the fairest of ten thousand to my [A]soul.
 He's the [D]beautiful Rose of Sharon, He's [G]all the world to me,
 But [D]best of All, He is my [A]coming [D]King.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

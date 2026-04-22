@@ -69,3 +69,12 @@ For an angel to l[F]ove me,
 OUTRO:
 For the rest of my l[C]ife,[Em] the rest of my l[Dm]ife  [F]
 The rest of my l[C]ife,[Em] the rest of my [Am]life [F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

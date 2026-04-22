@@ -70,3 +70,12 @@ BRIDGE:
 [Cmaj9]  In You there's f[G]reedom f[D]or my soul
 [Cmaj9]  In You there's j[G]oy, une[D]nding[Cmaj9]     joy
 [G]  and I will f[D]ollow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -52,3 +52,12 @@ CHORUS:
 [G]My love I've [Em]never left your [D]side, I have seen you through the darkest [C]night,
 [Em]And I'm the [D]one that who's loved you all your [C]life,
 All of your [G]life[Em][C][D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

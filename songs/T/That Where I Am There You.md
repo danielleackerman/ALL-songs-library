@@ -71,3 +71,12 @@ And I've come down from the Father
 It's time for me to go back up (x2)
 One command I leave you: Love as I have loved
 That where I am, there you may also be
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

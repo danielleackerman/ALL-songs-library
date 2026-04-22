@@ -68,3 +68,12 @@ Now my soul will rejoice since I've made him my choice
 I've got Joy, peace, everything I need
 Now my name's been written down in the Lamb's book of life
 Can't you see what God has done for me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

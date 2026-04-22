@@ -44,3 +44,12 @@ End:
 [D]    Tonight, we g[C]ot a right
 [D]    Tonight, we g[C]ot a right
 To shake[G] t[–]he[F] f[–]ou[E]nd[–]at[Eb]ion[–] w[D]ith praise [C/D]               [-]           [Gm]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

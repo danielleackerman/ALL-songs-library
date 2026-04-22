@@ -57,3 +57,12 @@ I[Em] tell ya those t[Am]hings make me [G]sick.   [D]       (chorus 2x)
 In[A] my ooh[E] oo[F#]h oo[D/F#]h goo[A]d coffee, strong coff[E]ee,[F#] eeh e[D]eh
 I[A] need to h[E]ave some, o[F#]oh oo[D]h good coff[A]ee strong c[E]off[F#]ee ee[D][A]
 -------------------------------------------------------------
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

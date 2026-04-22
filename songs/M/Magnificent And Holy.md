@@ -38,3 +38,12 @@ Hall[G/C]elu - [Am/C]jah  [G/C]to  [Am/C]the  [Am]Lamb that was [E/G#]slain
    Am     C        D7sus B7/D# Em  D#aug  Em/D C#m7(b5)
 Magnifi - cent and Holy  is   Your name
 Mag[Am]nifi - [C]cent and [D7sus]Holy  [D7]is [C/G]Your name[G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -51,3 +51,12 @@ You are my [Bb/C]all [C9]in [F]all
 [F[When I fall [C/E]down You [Am7]pick me [Dm7]up
 When I am [Am7]dry You fill my [Bb2]cup
 You are my [Bb/C]all [C9]in [F]all.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

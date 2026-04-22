@@ -67,3 +67,12 @@ VERSE 4:
 [C]We shall [G2]tread the [G7/B]streets of [C]gold.
 
 Os apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -56,3 +56,12 @@ I believe I can [Am]fly.  [FMAJ9/G]
 [C]Sometimes the silence can seem so lo[Dm7(b5)/C]ud
 [C]There are miracles in life I must ac[Dm7(b5)/C]hieve
 [C]But first I know I                  [Dm7(b5)/C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

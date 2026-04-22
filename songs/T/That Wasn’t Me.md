@@ -68,3 +68,12 @@ On your [E]feet  [E7]
 Do I spend [D]time with my [A]family?
 Did it [F#m]show when I was [E]weak?
 When that's what you [D]see, t            [A]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

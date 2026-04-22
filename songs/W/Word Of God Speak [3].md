@@ -54,3 +54,12 @@ I'm finding myself at a loss for words
 [Cadd9]And the fu[Fmaj7]nny thing is it's[F] okay[Fmaj7]
 
 C=x32010  CaddF=x32011 Cadd9=x32030 Fmaj7=xx3210 F=xx3211 G=320001 Bb=xx3331
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

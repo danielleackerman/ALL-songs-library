@@ -68,3 +68,12 @@ Every move that I [Fm]make, Every [G#/D#]tear that I cr[C#]y
 And can't see the light of [Fm]day, [G#/D#]I know I’ll be just [C#]fine
 ‘Cause [C#/D#]he knows my [G#]name, Every step that I [D#/G]take
 Every move that I [Fm]make, Every [G#/D#]tear that I cr[C#]y
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

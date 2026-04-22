@@ -41,3 +41,12 @@ id: A21D6017-6FCF-47FD-BC0C-2091FC2B91EE
 I feel the spirit moving and that's alright
 
 That's alright, that's [C]alright, that's [F]alright
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

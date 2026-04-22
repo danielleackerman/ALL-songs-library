@@ -72,3 +72,12 @@ I [Eb]searched until I found you, and I'd [Db]do it all a[Ab]gain.
 Just [Eb]take a look behind you and [Db]see how far you've [Ab]come.
 [Db/Eb]And every [Ab]time that you asked me, didn't [Bbm]I deliver you,
 So [Eb]why would you be thinking that I [Db]wouldn't see you [Ab]through.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -53,3 +53,12 @@ take it [FM7]all,
 [A7+]It won't [BbM7]matter any[Gdim]how,
 What the [F/C]world can [D7b9]offer [Gm]me,
 [C7]take it [F]all.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

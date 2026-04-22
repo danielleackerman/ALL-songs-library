@@ -75,3 +75,12 @@ If I [Em]run to you, w[C]ill you hold me
 OUTRO:
 [Em]      [C]       [Em]       [C]
 Em      C       G        B7 (4x)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

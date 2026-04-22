@@ -53,3 +53,12 @@ A nation needing mercy fighting for her life
 A church that needs revival, a broken man and wife
 Oh but in the name of Jesus all the chains of bondage fall
 Prayers are heard and answered when God's children call
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -37,3 +37,12 @@ He [EbM7]see's it [Bbm/Eb]all, He see's you [AbM7]through eyes [Eb/G]of [Fm7]gra
 He [Bb2]see's it all, He see's you [Ab]winning [Bb7]this [EbM7]race
 [Ab/Bb]He [EbM7]see's it [Bbm/Eb]all, when your [AbM7]vision [Eb/G]is [Fm7]blurred
 So let Him [Bb2]see for you, [Bb]He [Ab/C]see's [Bb/D]it [Eb]all.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

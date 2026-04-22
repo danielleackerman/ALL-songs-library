@@ -55,3 +55,12 @@ VERSE 3:
 [Bb]To a land where joys shall never [Gm7]end, [Bb/F]I'll [F7]fly a[Bb]way.
 
 Os apo fast
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -70,3 +70,12 @@ Leave me astound[E]ed leave me amazed[A]
 Show us Your gl[C#m]ory let heaven invad[Bsus]e
 We're waiting with wors[E]hip we're waiting with pr[A]aise
 For the almighty pr[C#m]esence of God to inv[Bsus]ade
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

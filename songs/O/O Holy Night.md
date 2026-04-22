@@ -57,3 +57,12 @@ O [D]night  divin[C]e, o [G]nig[D]ht, o night di[G]vine[C]
 [G]    [C]O night divi[G]ne
 
 G    C  out
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

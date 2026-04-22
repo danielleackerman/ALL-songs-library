@@ -61,3 +61,12 @@ I give up my ambitions for the cause I found in you
 I willingly lay down my life for what you'd have me do
 So with all my heart I say do what only you can do
 Take this life and make me more like you
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

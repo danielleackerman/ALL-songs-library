@@ -81,3 +81,12 @@ Whenever I am afraid (In the strength of the Lord)
 I will trust in You
 
 You Are My Hiding Place lyrics © Universal Music - Brentwood Benson Publ., Cccm Music, Carol Joy Music, Word Music, Llc
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

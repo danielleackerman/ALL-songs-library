@@ -65,3 +65,12 @@ Acts 7:33 (hymns)
 Hebrews 12:22 (hymns)
 
 Os apo slow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

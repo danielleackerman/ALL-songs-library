@@ -30,3 +30,12 @@ With a heart of thanksgiving      I will bless Thee, O Lord
 With my hands lifted up        and my mouth filled with praise
 
 With a heart of thanksgiving        I will bless Thee, O Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

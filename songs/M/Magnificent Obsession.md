@@ -78,3 +78,12 @@ That's the whole song that I know, the Bridge chords are probably the same
 chords that we have used already, I just haven't bothered to figure out the
 order.  It will take some listeing and playing with the song to get it right
 because of his chord timings, but I know this is right.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -94,3 +94,12 @@ F#m(Em)-E(D)/G#-A(G)-Bm(Am)-C#m(Bm)-D(C)
 today
 
 Transcription by Joseph Farrar tjfarrar@aol.com
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

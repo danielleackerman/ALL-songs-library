@@ -28,3 +28,12 @@ id: 9C97C713-9A43-488D-B820-9830CC58B760
 [Bbm]He whom the Son sets free is [Ab]free indeed
 [Db]He whom the Son sets free is [Gb]free indeed
 [Ab]   [Bbm]He whom the Son sets free [Ab] is free indeed
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

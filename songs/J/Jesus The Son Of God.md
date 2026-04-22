@@ -74,3 +74,12 @@ VERSE 5:
 Jesus the [Ab]Son [Ab/C]of [Eb7]God
 Will [C7]come for His [Fm]jewels, [Co7]Most [Db]precious and ho[Ab]ly,
 [Fm]Jesus the [Ebsus]Son [Eb7]of [Ab]God.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

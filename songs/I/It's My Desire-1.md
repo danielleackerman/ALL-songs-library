@@ -43,3 +43,12 @@ It's my desire,  To help someone today
 Someone who may have failed, to see the way
 I too was once so lost, but I found my way to God
 It's my desire To live for Him.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

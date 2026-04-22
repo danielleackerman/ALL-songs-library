@@ -79,3 +79,12 @@ and these days mercy cuts so deep,
 [Am]All the cries of thirsty children, [G]this is our inheritance,
 [C]All the rage of watching mothers, [F]this is our greatest offense
 [Am]Oh my God, [G]Oh my God, [C]Oh my God.   [F]    (Let the last chord resound and fade)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -82,3 +82,12 @@ In the ar[A]ms of Your mercy I find [E/G#]rest (mercy I find rest)
 From [F#m]one s[E]carred hand to the other
 
 [F#m]      [D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

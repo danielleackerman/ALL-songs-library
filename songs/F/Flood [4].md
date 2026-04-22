@@ -52,3 +52,12 @@ Lift me up - [Am]and keep me[F] from droning again   [G]                [Esus]
 And dry t[Am]he stream[G]s still flowing      [Esus]
 [Am]Cast d[G]own all waves of s[Esus]in
 [Am]And guilt that overt[G]hrow me    [Esus]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

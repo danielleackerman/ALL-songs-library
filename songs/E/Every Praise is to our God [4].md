@@ -49,3 +49,12 @@ CHORUS:
 [Bm7]God my Healer
 [G]God my Deliver
 [Em7]Yes He is. [A11]Yes He is
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

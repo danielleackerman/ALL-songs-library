@@ -29,3 +29,12 @@ CHORUS:
 [E]For [A]I met Him and I can[A2]not be the [E]same
 [E]When [A]in [B2]bondage, to [A2]Jesus I [C#m7]came
 He [A]took my place and He [C]chang[D]ed my [E]name.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

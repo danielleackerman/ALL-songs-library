@@ -89,3 +89,12 @@ INSTRUMENTAL:
 | Bm7    /    -E9    /     | Bm7    /   -E9 |   <to CHORUS>
                                        *STOP*
 ------------------------------------------------------------
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

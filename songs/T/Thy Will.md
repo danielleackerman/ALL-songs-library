@@ -73,3 +73,12 @@ Thy [A]Will be [Bm]done like a child on my [F#m]knees all that comes to me [G]is
 Thy [A]Will be [Bm]done… Thy [F#m]Will be [G]done    Thy [A]will be [Bm]do_[F#m]ne
 [G]   [A]   [Bm]    [F#m]    I know You…
 ... [G]see me [A]  I know You [Bm]hear [D/F#]me   [Dmaj7]Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

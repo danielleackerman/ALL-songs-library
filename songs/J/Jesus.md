@@ -50,3 +50,12 @@ VERSE 4:
 [Em]Rolled a [D/F]stone to seal Your [A]grave.
 [Em]Feels like the [D/F]devil’s rolled a stone [A]onto my heart,
 [Em]Can You [D/F]roll that stone [A]away?
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

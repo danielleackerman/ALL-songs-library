@@ -66,3 +66,12 @@ Raise a [F#]shout to let [G#m]all the world know that [E]Jesus sa[B]ves
 (end)
 Sing it [F#]out and shout till the [G#m]whole world knows His [E]name[B]
 Sing it [F#]out and shout for [G#m]we will know Your [E]name[E][B/D#][B]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

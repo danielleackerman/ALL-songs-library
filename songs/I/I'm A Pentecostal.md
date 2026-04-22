@@ -54,3 +54,12 @@ If you're [Eb9]tired of tradition, religion's done you wrong
 [Ab]They're leaving their dead churches for this Pentecostal faith
 There's a [Eb9]hunger in the world, that gets bigger everyday
 They're [Db9]crying out for Pentecost, that is why I say....
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

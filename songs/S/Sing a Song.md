@@ -89,3 +89,12 @@ Are[D] You Lord Alm[A]ighty. (Yes You are, Lord)
 (repeat END 4x's)
 
 N.C.= No Chords
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

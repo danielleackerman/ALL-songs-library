@@ -56,3 +56,12 @@ And you make[(C] me[Dm] wa[F]nn[G]a [G)]dance yeah
 
 (C Dm F G G, last time_end on F)
 Just the way I am (4x) ……… oh just the way I am
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

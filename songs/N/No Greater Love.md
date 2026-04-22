@@ -54,3 +54,12 @@ Ending chords:
 
 *This is such a beautiful song. Our band plays it at every performance and gets great feedback*
 Enjoy :o)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -51,3 +51,12 @@ VERSE 2:
 [Am]And I re[Em/A]member that Your [Am]body was [Em/A]broken
 [Am]And I remember [Em/A]how they [Am]pierced Your side[Em/A]
 [Am]Then You de[Em/A]fied death [Am]and You a[Em/A]scend - [Am]ed [Em/A]in - [FM7]to t[G]he [Am]sky
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

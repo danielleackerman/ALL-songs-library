@@ -42,3 +42,12 @@ Push a[Eb]way from the [Eb7]table, Look out [Ab]thro' the window [Eb]pane
 [Bb7]Just be[Eb]yond the house of [Cm7]plenty Lies a [F7]field Of golden [Bb9]grain.    [Bb7]
 And it's [Eb]white unto [Eb7]harvest, But the [Ab]reapers Where [Gm]are [Fm7]they
 [Bb9]In the [Eb]house can't the [Cm7]children [B7]Hear the [Eb/Bb]Father [Bb9]sad[Bb7]ly [Eb]say
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

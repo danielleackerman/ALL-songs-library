@@ -47,3 +47,12 @@ CHORUS:
 [Dm7]adore [F/G]Thee,for You're [BbM7/C]Ho     [C7]ly.
 Lord we [FM7]praise You, [C/E]magnify [Am7]You
 Lord we [Dm7]come and [G7b9]worship [C]You.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

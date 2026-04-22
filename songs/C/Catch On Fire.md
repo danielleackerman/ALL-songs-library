@@ -48,3 +48,12 @@ BRIDGE:
 Bass run: [Gb][Gb] [Bb] [Bb] [B] [B] [Eb] [Eb] [E] [E] [C] [C] [Db] [Db]
 
 Note: [G+9] = eb, g, a, c / f
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

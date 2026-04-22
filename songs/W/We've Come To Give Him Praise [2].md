@@ -74,3 +74,12 @@ The [F13]praise
 
 We've come to give Him
 [D7b5b9]All of our praise [G7b5b9] [C13]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

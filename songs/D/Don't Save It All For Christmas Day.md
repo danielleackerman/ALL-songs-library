@@ -68,3 +68,12 @@ D[Asus]on’t save it all[D] for Christmas day,        [E2/C#]find a[F#7] way (t
                      A7sus – D - Bmin
 We’ve gotta give love,
 [E7]        Gi[A7sus]ve love[D2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

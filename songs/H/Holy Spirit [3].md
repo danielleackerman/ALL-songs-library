@@ -56,3 +56,12 @@ Let us experience the Glory of Your Goodness
 Bridge (version 2):
 [D]Let us be[A/C#]come more a[Bm]ware of Your [A/C#]Presence
 [D]Let us [A/C#]experience the [Bm]Glory of Your G[A/C#]oodness
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

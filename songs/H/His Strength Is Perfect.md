@@ -58,3 +58,12 @@ CHORUS:
 OUTRO:
 [C7]Raised in His [Fm2]power,    the [Bb/D]weak [G/B]become [Cm]strong[Eb/Bb]. [F/A]
 His strength is [Fm2]per[Fm/Eb]fect,[Bb/D]      His strength is [Abm6/Eb]per[Eb]fect.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

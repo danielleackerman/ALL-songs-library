@@ -44,3 +44,12 @@ id: F3D32A90-CDA4-4839-90B4-3D957A192E8C
 4.[F]He's [/]  coming [C]soon. [/]  [C]He's   coming [F]soon! [Bb/C]
 
 [F]He's coming [Bb]soon, [Bb]He's so [F]good [C]to [F]me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

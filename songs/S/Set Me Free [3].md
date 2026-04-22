@@ -65,3 +65,12 @@ There'll [G]never be a day when You won't come an[A]d
 BRIDGE:
 [B]You are the [F#]author and the fi[G]nisher of the fai[G]th[F#] in[E] m[F#]e
 [B]I know I can [F#]trust in You to [G]come and s[A]et me free
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

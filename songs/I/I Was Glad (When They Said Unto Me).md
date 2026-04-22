@@ -61,3 +61,12 @@ I came [Eb]runnin" when they [F7]said unto [Bb7]me
 I came [Eb]runnin’ when they [Eb7/Db]said unto [Ab]me  [Abm/B]
 
 Let us [Am]go to [Cm7]the [F7]house [Bb7]of the [Eb]Lord  [Ab]  [Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -40,3 +40,12 @@ And by [Am7]His good [G/B]grace I will [D]praise Him [G]still.
 
 Note: The last G on each of the first lines of the verses (those on "hill," "filled," and "will"
 may be replaced by Em. Either way it sounds cool.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

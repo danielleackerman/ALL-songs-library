@@ -102,3 +102,12 @@ Fadd9		|-1-0-3-0-1-1-|
 Cadd9		|---3-2-0-3-3-|
 
 Any questions, comments, corrections, etc, please email me at MusicMan0@aol.com
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

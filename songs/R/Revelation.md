@@ -60,3 +60,12 @@ Oh…[D]. give me a reve[A]lation...
 Oh…[G].   Oh….. [Bm]
 I've got nothing without [D]You
 I've got nothing without [A]You[(hold)]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

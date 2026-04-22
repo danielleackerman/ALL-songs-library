@@ -78,3 +78,12 @@ It's [Bb]all because of [F/A]Jesus
 
 And it's all[C] because of Je[Dm7]sus I'm a[F2]live
 And it's all[C] because of Je[Dm7]sus I'm a[F]live[C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

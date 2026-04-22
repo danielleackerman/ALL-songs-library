@@ -33,3 +33,12 @@ Medley: heavenly Father / I love You, Lord
 [Cm/D#]Heavenly [G/D]Father I ap[Am7]preci[D7]ate [G]You.
 
 Os apo slow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

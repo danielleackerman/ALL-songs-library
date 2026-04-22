@@ -69,3 +69,12 @@ C#m9  X 4 2 4 4 0
 B/c#  x 4 4 4 0 0
 C#m   X 4 6 6 5 0
 Amaj9 X 0 7 6 0 7
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -58,3 +58,12 @@ praise the father praise the [C]son, and the spirit in one
 OUTRO:
 And every knee will [Em]bow (oh) and every [F]tongue
 Praise the father praise the [C]son and the spirit in[G] one.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

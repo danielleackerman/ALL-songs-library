@@ -78,3 +78,12 @@ In His arms I [F]feel [G]protected
 Theres [C]no place that [G]I'd rath[Am7]er [D]Rather [Em]be  [D]
 There is [Am]no place that [G]I'd [C]rather [D]Rather [Em]be  [F]
 There is [Am]no place that [G]I'd [C]rather [D]Rather [G]be
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

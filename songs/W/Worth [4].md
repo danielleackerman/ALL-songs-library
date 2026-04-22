@@ -56,3 +56,12 @@ that changed [Bm]my life
 Because I am [D]free
 Be[A/C#]cause I am [Bm]whole
 And [A]I will tell [Em]everyone [D]I [A/C#]know.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

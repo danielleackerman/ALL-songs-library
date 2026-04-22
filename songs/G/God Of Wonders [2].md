@@ -63,3 +63,12 @@ Precious Lord, reveal Your heart to me
 Father, hold me, hold me
 [G]The universe declares Your maj[Dsus4]esty[D]
 You are [Em7]holy, [C2]holy[G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

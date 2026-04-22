@@ -35,3 +35,12 @@ Take my life and let it [D]be, [C]all that you would h[D]ave for m[G]e.
 chorus - bridge (improvised) - chorus
 don't let me g[C]o... take my heart take all of m[G]e...
 [D]  [/]  [G]  [/]  [G]  [/]  [D]  [/]  [C]  [/]  [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

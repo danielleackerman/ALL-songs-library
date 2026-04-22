@@ -71,3 +71,12 @@ and I worship you because of who you are
 Lord, I worship you because of who you are
 
 Lord, I worship you because of who you are
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

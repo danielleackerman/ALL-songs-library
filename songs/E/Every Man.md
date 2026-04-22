@@ -69,3 +69,12 @@ Will we help them under[Cm]stand? Jesus is hope for every[(Cm)] man
 CHORUS 2:
 
 Intro: x1
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

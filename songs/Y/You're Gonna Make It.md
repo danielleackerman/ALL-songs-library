@@ -47,3 +47,12 @@ CHORUS 2x mod 3x:
 [G]You're gonna make it, [G]You're gonna make it, [C]You've got what it [A7]takes to [D7]win
 [D7/B]And I know that  [Em7]you're gonna [G+/D#]make it, [G/D]You're gonna [A7/C#]make it
 Just as [G/D]long as [Em]you and [A7]Je[D7]sus stay [G]friends.   [C/D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

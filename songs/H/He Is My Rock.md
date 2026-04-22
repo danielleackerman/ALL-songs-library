@@ -46,3 +46,12 @@ And whatever you ask He's more than willing
 To give to us than we are to receive
 For His strength is made perfect in our weakness
 And by His grace you'll find the faith to just believe.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

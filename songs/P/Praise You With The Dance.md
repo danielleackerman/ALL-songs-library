@@ -45,3 +45,12 @@ I Will p[A2]raise You w[B]ith the [E]dance[Bsus][A2][B]
 | E / / / | A / B / | E / / / | A / F#m7 B | Repeat 3X
 
 Outro (: E  Bsus A2   B  :)   E
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

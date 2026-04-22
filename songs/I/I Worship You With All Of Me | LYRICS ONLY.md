@@ -40,3 +40,12 @@ Each song I sing   Each breath I breathe
 I give to You my  heart and soul
 
 Take my life and take control
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

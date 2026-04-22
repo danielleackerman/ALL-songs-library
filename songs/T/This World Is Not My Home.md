@@ -65,3 +65,12 @@ Just up in glory land we'll live eternally
 The saints on ev'ry hand, are shouting victory
 Their songs of sweetest praise, drift back from heaven's shore
 And I can't feel at home in this world anymore.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -45,3 +45,12 @@ All[Em] I saw were bones break[Em/C]ing in the darkness
 The[Am]n I walke[D]d into the li[Em]ght
 [Em]There I saw an army c[Em/C]oming from the river
 Wi[Am]th five s[D]tones ready to f[Em]ight
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

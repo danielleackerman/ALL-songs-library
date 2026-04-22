@@ -40,3 +40,12 @@ Cause I [Bm]don't know what [D]tomorrow's gonna [E]bring[Esus][E]
 So no [Bm]matter if I [D]rise or fall I'll [A]never be a[E]lone  Woah [G]no....
 
 CHORUS:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -82,3 +82,12 @@ ENDING:
 B
    The heart longs for a little bit of hope
 O [Ebm]come, O [B]come Emmanu[Gb]el
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

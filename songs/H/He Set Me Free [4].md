@@ -61,3 +61,12 @@ Goodbye to sin and things that confound
 Naught of the world shall turn me around
 Daily I'm working, I'm praying too
 And glory to God, I'm going thru.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

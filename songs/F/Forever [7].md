@@ -36,3 +36,12 @@ Foreve[E2/C#]r eternal the Lord of un[E]ending grace          [B]
 CHORUS:
 [B]Forever, forever[B/G#]
 We will lift[F#] your name above all na[E]mes (repeat)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

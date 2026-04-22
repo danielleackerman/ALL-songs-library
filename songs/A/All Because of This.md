@@ -34,3 +34,12 @@ We've [D/F#]tasted love, tasted hope, [G]tasted holiness
 It's all because of [D]this, It's all because of [Em]this
 We've [D/F#]tasted love, tasted hope, [G]tasted holiness
 [G]And they won[A]der why, we [F#m]do the things we [G]do
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

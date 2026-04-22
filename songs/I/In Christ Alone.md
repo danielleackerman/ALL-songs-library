@@ -27,3 +27,12 @@ In every v[C]ictory let it be said of me[Bm][Em]
 My source [C]of strength, my source of hope[Am7][D]
                    G
   Is Christ alone
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

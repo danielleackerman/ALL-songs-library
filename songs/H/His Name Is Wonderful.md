@@ -43,3 +43,12 @@ CHORUS:
 [G7]Almighty [F/G]God [G7]is [C]He.  [C7]    [Bb/C].    [C7/E]
 [F]Bow down be[Gm/F]fore [F]Him, [D+5]love and a[Dm7/G]dore [Gm]Him
 [C]His name is [F]wonderful, [C7]Jesus my [F]Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

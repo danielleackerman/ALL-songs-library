@@ -28,3 +28,12 @@ worthy to be praised,
 I [Gm]have the [Am/D]victo[G]ry,
 For You [C]loosed my shackles and You [C#dim7]set me free,  I know,   [G/D]
 [G9/B]Jesus, [C]You're [A7b9]worthy,  [D7]to  be [G]praised. [A#9]   [D#M9]  [D7#9]    [G6]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

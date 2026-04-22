@@ -36,3 +36,12 @@ id: 34C74DED-AA4C-435D-8809-B87AC315A298
 [Bm7]      [D/B]                        [BM7]      [Ebm/B]
 
 To make a min. or Major 9 th, add the 2
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

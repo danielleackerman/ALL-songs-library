@@ -68,3 +68,12 @@ I [Gm7/F]give You [Fmaj9]praise [Dm9]
 for You are my [Gm9] righteous[Gm7]ness.   [Bb/C][C][Bb/C][C]
 [Bb/C]I [C/F]worship [F]You Al[C/D]mighty [Dm7] God  [Am7][Gm7]
 [Bb/C]There [C]is [Bb/C]none [C]like [F]You. [Bbm7]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

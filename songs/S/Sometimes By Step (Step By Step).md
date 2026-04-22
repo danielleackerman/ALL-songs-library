@@ -60,3 +60,12 @@ and ste[G]p by step You'll lead me[D/F#]
 and I will follow[C] You all of my da[C/D]ys[G]
 
    [G]     [D/F#]               and I will [C/G]follow You all[C/D] of my days  [G]   (repeat & ad lib)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

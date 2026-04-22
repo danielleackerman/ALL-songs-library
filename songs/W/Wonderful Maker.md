@@ -51,3 +51,12 @@ No eye has fully seen how beautiful the cross
 And [Em]we have only heard
 The [Em]faintest whispers
 Of how [D]great you [C]are[D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

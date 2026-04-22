@@ -32,3 +32,12 @@ id: 64E0296F-726B-4361-8268-DC1F5D446ACE
 [A7#5#9]           [C#,F,G,C/A]
 [A#7#5#9]           [D,F#,Ab,Db/A#]
 [B7#5#9]           [D#,G,A,D/B]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

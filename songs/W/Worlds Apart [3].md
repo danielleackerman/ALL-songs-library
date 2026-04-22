@@ -112,3 +112,12 @@ And [A(9)]I pray, and I pray
 
 [C#m7]     [Bsus]Take my w[B]orld ap[A(9)]art
 My worlds ap[A(9)]art[B][F#sus]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

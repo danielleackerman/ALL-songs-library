@@ -70,3 +70,12 @@ Give God, (we're gonna give God) the glory (give Him the glory)
 And He will give you, (said He will give you)
 And He will give you (said He would give you)
 And He will give you (I know He'll give you) the victory
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

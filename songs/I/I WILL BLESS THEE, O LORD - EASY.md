@@ -30,3 +30,12 @@ With a He[/]art of thanks[Gm]giving [/]     [C]I will [C]bless Thee, O [F]Lord  
 With my [Bb/C]hands lifted [F]up [/]      [F] and my mo[/]uth filled with [Gm]praise [/]    [C]
 
 With a He[/]art of thanks[Gm]giving [/]     [C]  I will [C]bless Thee, O [F]Lord  [Bb]    [F]    [Bb/C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

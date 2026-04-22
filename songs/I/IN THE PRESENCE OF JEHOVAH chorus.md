@@ -29,3 +29,12 @@ CHORUS:
        [vamp][C2][G][C][G]
 [G]Trou[F/G]bles [C]vanish,                [Am7]hearts [G7]are [Em7]mended [A7/C#]
 [Dm]In the [Dm7]presence [Bdim sus]of [Bdim]the [C]King  [F/G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -49,3 +49,12 @@ With all my [G/B]soul, with all my [C]strength, I [Em/C#]love You [Dsus]Lord. [D
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

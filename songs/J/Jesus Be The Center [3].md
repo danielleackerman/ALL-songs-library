@@ -41,3 +41,12 @@ at the center of it all
 [Eb]Jesus be the [Bb/D]center of Your [Cm7]church.   [Eb/F].    [F]
 And [Eb]every knee will [Gm7]bow, and [Cm9]every tongue [Eb]shall con---[Bb/D]fess You
 [Cm9]Jesus,   [Eb/F]Jesus.     [F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

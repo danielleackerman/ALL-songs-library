@@ -56,3 +56,12 @@ A  [C7/Bb] –    [Fm]men,[/Ab]   A     [C7/E]–      [Fm]    [/D]men [C]
 A  [C7/Bb] –    [Fm]men,[/Ab]   A     [C7/E]–      [Fm]    [/D]men [C]
 
 I play the Aaug/C# like this:   x043221   or   x04322x
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -70,3 +70,12 @@ Cry out to J[F]esus, cry out t[C]o Jesus [F]
 TAG:
 [C]    [F]  Oh, cry out to [Am]Jesu[G/B]s,   [F/C]    cry out to [Am]Jesu[G]s  [F]
 [Am]   [-]  [G]  [-]  [F](hold)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

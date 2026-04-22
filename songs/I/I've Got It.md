@@ -77,3 +77,12 @@ I've got it, I've got it, way down in my soul.
 2.  You need it....
 3.  You can have it....
 4.  I feel it.....
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

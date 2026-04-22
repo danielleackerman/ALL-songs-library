@@ -55,3 +55,12 @@ BRIDGE:
 [Dm]Let Your river [Bb]flow
 [Gm7]Come flood our [F/A]hearts again
 [Gm7]Quench our thirsty [C13]souls
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

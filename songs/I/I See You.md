@@ -55,3 +55,12 @@ And every[Abm7]where I go I see [Abm2]You[Cb/Gb]
 And every[Db/F]where I go I see [Ebm7]You[Db7sus][Db7]
 
 (into reprise of Step by Step in Gb)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

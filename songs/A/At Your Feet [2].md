@@ -53,3 +53,12 @@ At Your feet at Your feet
 There is no place
 That I'd rather be
 Than at Your feet
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

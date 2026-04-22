@@ -55,3 +55,12 @@ Medley: victory is mine
 [F]Victory  [Dm7]today  is  [C7]mine.
 [Gm7]I  told   [C7]Satan,   [Gm7]Get  thee   be[C7]hind,
 [F/C]Victory    [Gm/Bb]to   [F/C]day   [C7]is    [F]mine.    [Bb/C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

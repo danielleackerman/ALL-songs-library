@@ -74,3 +74,12 @@ What if He's mo[Bm]re than enough?[Em7add2]      What if it's love?[Bm][Em7add2]
 
           All Band                                             Acoustic,Bass,Keys
 -End:  Bm / / / |  Em7add2/ / / | Bm / / / |  Em7add2/ / / |  Bm / / / | Em7add2 / / / | Bm / / /
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

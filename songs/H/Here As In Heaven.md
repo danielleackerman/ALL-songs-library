@@ -79,3 +79,12 @@ VERSE 3:
 [G]  The evidence is [D/A]all a[A/C#]round
 G/B                        D/A  A  G2 (sustain)
     That the Spirit of the Lord is here
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

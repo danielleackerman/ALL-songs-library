@@ -84,3 +84,12 @@ In every[G/D]thing [G] [E+5]give [E7]the [Am7]King of Kings [C/D]all the [G]than
 In my trials, and in my test
 When I've tried and I know I've done my best
 In everything I'll give the King of Kings all the thanks
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

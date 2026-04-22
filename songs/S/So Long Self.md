@@ -95,3 +95,12 @@ Oh well, Goodbye, don't cry I I[Gb]    O[Db]H oh Oh
 So Long [Ab]Self
 
 Farewell good [Bbm]bye ([Gb]OH oh Oh so long s[Ab]elf) Repeat to fade…
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

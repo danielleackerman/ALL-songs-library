@@ -76,3 +76,12 @@ G[Em]od w[G]ill lift [A]up Your [Bm]head               [Em]God [G]will lift [D]u
         [E]---------5------2-----5------2------0------2----------
 
 (NOTE:  Tablature will not transpose using transpose feature of this site)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

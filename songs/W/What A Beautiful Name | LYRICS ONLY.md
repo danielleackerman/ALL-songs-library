@@ -83,3 +83,12 @@ What a powerful Name it is
 The Name of Jesus
 What a powerful Name it is
 The Name of Jesus
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

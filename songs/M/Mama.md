@@ -48,3 +48,12 @@ CHORUS:
  No,[Bb] I ain't got the time[Bb].
 
  thats prety much it except for the bridge, which goes F-Ab.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

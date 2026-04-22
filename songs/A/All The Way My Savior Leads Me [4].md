@@ -50,3 +50,12 @@ And all the [G2]way my Savior leads me, oh the [A2sus]fullness of His [F#m7]love
 Perfect [D]rest in me is [Gmaj7]promised in my [G/A]Father's [A]house ab[D]ove
 When my [G2]spirit clothed immortal wings its [A2sus]flight to realms of day [F#m7][Em7]
 This my [D]song through endless [Gmaj7]ages, Jesus [Asus]led me [D/A]all the [D]way
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -101,3 +101,12 @@ I can’t live[C]… I [G]can’t live without you[Am][F]
 I can’t live[C]… I [G]can’t live without you[Am][F]
 
 C / / / G / / /  Am / / /  F / / /
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

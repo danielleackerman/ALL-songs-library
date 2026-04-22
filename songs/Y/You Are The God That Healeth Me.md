@@ -27,3 +27,12 @@ You are the [Bb9]Lord my [Ebm7]healer.   [G+9]
 [Cm9]You sent Your word and You [Fm9]healed my disease,   [Ab/Bb]
 
 You are the Lord my [Eb]healer.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

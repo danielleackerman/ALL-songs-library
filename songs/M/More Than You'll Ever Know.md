@@ -63,3 +63,12 @@ You have taken upon a [C]burden that wasn't your [F]own[G7]
                                G
 And may the blessing return to you . . .
 A hundred [C]fold[F], oh [G]yeah [F]. . . A hundred [C]fold[F], oh [G]yeah [F]. . .
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

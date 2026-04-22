@@ -69,3 +69,12 @@ so[G2]journ    an[C2/E]d I will [D]sing h[C2/E]is so[D]ng,      in the land of m
 
 Words and music by Rich Mullins and Beaker
 © 1993 Edward Grant, Inc. (ASCAP) / Kid Brothers of St. Frank Publishing (ASCAP)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

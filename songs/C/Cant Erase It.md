@@ -35,3 +35,12 @@ Chorus:  (N.C.) A, G
 
 That’s about it Kids!  If you want the words (www.jarsofclay.com)  If
 not, have fun   play these chords...Toodles!!   (theflor@hotmail.com)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

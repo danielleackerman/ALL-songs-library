@@ -53,3 +53,12 @@ CHORUS:
 
 The capo is to match the key on the cd...
 If this is too high, just take the capo off
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

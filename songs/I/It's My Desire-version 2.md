@@ -62,3 +62,12 @@ VERSE 2:
 [F2]Someone who may [F]have [F7]failed to see [Eb/F]the [Bb]way
 [F7]I too was once so [Bb]lost, but I found my way to [Eb]God
 [Gb]It's my de[Bb]sire [F]to [Eb/F]live [F]for [Bb]Him.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

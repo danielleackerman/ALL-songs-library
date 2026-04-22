@@ -46,3 +46,12 @@ Hal[G]lelu, Halle[D7]lu, Halle[C]luj[G]ah
 VERSE 1:
 Some folks came just to sit and look
 But I came to praise the Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

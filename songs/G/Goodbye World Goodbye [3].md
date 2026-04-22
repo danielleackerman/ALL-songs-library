@@ -67,3 +67,12 @@ A day maybe two then good-----bye
 Tomorrow I'll rise up and fly
 Heaven is near, and I can't stay here
 Goodbye world,  good-----bye.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

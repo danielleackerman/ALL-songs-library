@@ -68,3 +68,12 @@ Let [G/F]us [C/E]praise[G7/D][C/E] [F]Jesus [C/E]now[G/F][C/E]
 ENDING:
 Let us praise Jesus now
 We are standing in His presence on holy ground
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

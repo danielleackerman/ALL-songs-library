@@ -50,3 +50,12 @@ VERSE 3:
 
 [G]Just a few more [G7/B]weary days and then, [C7]I'll fly a[G]way
 [G]To a land where joys shall never [Em7]end, [G/D]I'll [D7]fly a[G]way.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -56,3 +56,12 @@ copyright 1991 BMG Songs Inc.
 also the recorded version of this song is in the key of "G"
 but it is much harder to sing that high - this version is in
 "d")
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

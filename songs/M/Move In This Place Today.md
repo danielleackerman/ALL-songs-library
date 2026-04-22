@@ -72,3 +72,12 @@ Anoint in this place
 Bless in this place
 We need You in this place
 [Abm/F]Move [Eb/G]in this [Ab/Bb]place [Bb/D]to[Eb]day [Gb] [Ab] [Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

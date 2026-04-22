@@ -80,3 +80,12 @@ Keep holding on now
 
 [F#m]You got your disappointments and sorr[A]ows
 [Bm]Im gonna try and give a little hope to[D] you
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

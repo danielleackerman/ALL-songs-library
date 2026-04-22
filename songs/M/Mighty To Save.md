@@ -66,3 +66,12 @@ BRIDGE:
 
 [D] Shine your light and [A] let the whole world [E] see, [F#m]singing
 [D] For the glory [A] of the risen [E] King
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

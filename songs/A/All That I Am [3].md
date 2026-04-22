@@ -35,3 +35,12 @@ You carr[G/D]y me on[D]
 When Your voice see[C]ms so silent[D]
 I s[Em]til[G7]l know Your pr[C]esence
 For You[Am7] Lord are all that[D] I am[G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

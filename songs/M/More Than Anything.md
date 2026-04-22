@@ -48,3 +48,12 @@ I love You [Fm7]Jesus [Ab/Bb]more than an[Bb7b9]y [EbM7]thing
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

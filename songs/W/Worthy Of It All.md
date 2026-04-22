@@ -90,3 +90,12 @@ You’re worthy of it [Bbsus]all  [Bb]
 For from You [Eb/G]are all [Ab]things
 And to You are all [Bb]things
 You deserve the [Eb]glory
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

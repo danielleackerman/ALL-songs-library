@@ -45,3 +45,12 @@ BRIDGE:
 [Bm]Did you [D]really try let it [A]burn,  let it burn, let it [E]burn
 
 [E]  [-]  [G]  [-]  [A]   [(2x)]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

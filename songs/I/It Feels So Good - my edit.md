@@ -49,3 +49,12 @@ and I'm a [G7]child of the King.
 Walking in [G]grace and   [B7]liber[Em7]ty
 I'm  [Am7]here to tell the world that it
 [G/B]feels so good [Am/C]to [Am7]be [G]free.   [C/D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

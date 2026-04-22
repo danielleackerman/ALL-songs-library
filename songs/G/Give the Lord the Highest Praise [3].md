@@ -37,3 +37,12 @@ VERSE:
 When I think of His goodness and I think of His grace
 When I think about Mt. Calv'ry and how He took my place
 I could dance, dance, dance, dance, dance all night
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

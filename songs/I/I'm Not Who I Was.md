@@ -68,3 +68,12 @@ I wish you could see me now
 A
 I wish I could show you how
 [C]I'm not who I was[G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

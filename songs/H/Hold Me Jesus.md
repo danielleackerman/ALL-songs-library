@@ -62,3 +62,12 @@ You have [C]been king[G/B] of my [Am]glory…… come and [D]be my prince of….
 (like intro)
 
 [G]        [C]    Lord you are the prince of [G]peace.          [C]    Come and be my prince of [G]peace.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

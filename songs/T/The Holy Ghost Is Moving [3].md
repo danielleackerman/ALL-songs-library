@@ -31,3 +31,12 @@ BRIDGE:
 [Fm]Makes me want to clap my hands.   [F7]   [Eb7].  [E7]
 [Fm]Makes me want to run,  [Fm]makes me want to dance
 [Fm]Praise Him while I have a chance.         [Eb]Oh    [Bb/D]The
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

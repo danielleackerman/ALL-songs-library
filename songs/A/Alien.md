@@ -42,3 +42,12 @@ BRIDGE:
 [A]Just like the widow I need you right now to [D]understand and
 
 save me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -32,3 +32,12 @@ CHORUS:
 VERSE:
 The [C]Lord is gracious and [Bm7]merci[Em7]ful, [Am7]Great in [D7]kindness and [G]good to [G7]all
 The [C]Lord is righteous in [Bm7]all his [E7]ways, [Am7]Bless the [Bm7]Lord and [C]give him [D]praise
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

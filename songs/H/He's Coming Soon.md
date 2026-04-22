@@ -37,3 +37,12 @@ id: F017888F-479C-4C6D-BD06-E2D2B417E3F3
 With [C7]joy we'll welcome His re----[F]turn----[F7/A]ing
 It [Bb2]may be morn, it may be night or noon
 But we know He's coming soon.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

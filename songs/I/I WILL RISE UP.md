@@ -36,3 +36,12 @@ To me n[A]ever ceases[G]
 
 [D]You are wonde[A]rful O Lord[G]
 [D]You are beau[A]tiful o Lord[G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

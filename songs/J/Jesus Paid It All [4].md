@@ -63,3 +63,12 @@ And when before the throne
 I stand in Him complete
 Jesus died my soul to save
 My lips shall still repeat
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -40,3 +40,12 @@ id: 89A3B614-366D-4461-A299-7D26F6106C0E
 [Ab]Soon and very soon, we are going to see the [C7/G]King [Fm]
 Halle[Adim]lu[Bbm]jah, halle[Ab/Eb]lu[Gb9]jah
 we are go[Ab/Eb]ing to [Eb7]see the [Ab]King
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -63,3 +63,12 @@ But [C2]if You ask of [G/B]me to give the [F]very thing that I [Fm/A#]love the b
 
 CHORUS:
 Chorus: mod whole step
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

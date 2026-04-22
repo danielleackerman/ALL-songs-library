@@ -70,3 +70,12 @@ You are the li[G]fe  t[C]he truth  the w[G]ay[Em]
                 G
 We bless your name
 We bl[D]ess your n[G]ame
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

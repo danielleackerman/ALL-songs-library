@@ -49,3 +49,12 @@ You’ll [D]die for [A]all our [F#m]sins
 Don’t [Em]be afraid, for [Bm]in three days
 Y[G]ou will [A]rise ag[D]ain
 Y[G]ou will [A]rise ag[D]ain
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

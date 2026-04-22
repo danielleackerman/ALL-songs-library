@@ -58,3 +58,12 @@ Well he's your best fr[G]iend , Well his name is J[D]esus
 I'm talkin' about Jesus , We all need Jesus, I hope you love Jesus
    D
 Cause sometimes we need a friend
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

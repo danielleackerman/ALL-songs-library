@@ -86,3 +86,12 @@ The Lord came through   [E]
 The Lord came through
 
 Yeah!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

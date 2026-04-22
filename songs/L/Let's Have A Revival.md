@@ -69,3 +69,12 @@ Let's have a [Em]revival that starts with me [A9]and [D7]you,
 It [G]reaches out to a [D7]lost and hungry [G]world to [G7/B]bring them [C]in,
 This [Cm]is our [G][A7/B]joy, [C]it's our sur-[G]vival, [G7/B] [C]
 Let's pray for a [G]Holy [E7]Ghost [A7]arrival, Let's [D7]have a [G]revival!  [C/D] [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

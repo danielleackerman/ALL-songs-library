@@ -44,3 +44,12 @@ Can you feel it  can you feel it   can you feel the fire
 Do you want it   do you want it    do you want the fire
 Yes, I want it   Yes, I want it    Yes, I want the fire
 Yes, I want it   Yes, I want it    Yes, I want the fire
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

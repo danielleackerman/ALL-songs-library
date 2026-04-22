@@ -74,3 +74,12 @@ Cm7-6  Ebno3add4  Bbno3add2  Cm7-6  Bb2/6no3  Abmaj7   F
 
 Words and music by Rich Mullins
 © 1989 Edward Grant (ASCAP)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

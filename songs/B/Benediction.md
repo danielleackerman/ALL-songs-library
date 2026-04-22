@@ -52,3 +52,12 @@ D/F#     2x0232
 [Em7]      020000
 [A/C#]     x4222x
 A7sus    x02030
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

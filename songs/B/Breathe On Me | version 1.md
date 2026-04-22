@@ -40,3 +40,12 @@ VERSE 3:
 Burn in me, Holy ghost fire...
 
 Mod apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

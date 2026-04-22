@@ -63,3 +63,12 @@ I cry, Holy, Holy, Holy, As your glory is revealed
 
 Medley: welcome into this place
 Original key c
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -50,3 +50,12 @@ Let all [AbM7]heaven and [Abm6]earth pro[G7sus]claim. [G7]
 But there's [Fm7]something a[Bb7]bout  [Bb7/D]that [Eb]name.     [Ab/Bb]
 
 Os apo med, os southern gospel med, adoration, His name, worship
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -43,3 +43,12 @@ wife and I had it played at our wedding.  I think it's really cool that
 Third Day could take secular music like that, combine it with a hymn,
 and make it so anointed.  I saw them perform it in concert and it really
 gets to you.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

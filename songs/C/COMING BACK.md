@@ -90,3 +90,12 @@ Jesus I [Fsus2]love You, I [Am7]love Y[G]ou
 Jesus I [Fsus2]love You, I [Am7]love Y[G]ou
 Jesus I [Fsus2]love You, I [Am7]love Y[G]ou
 Jesus I [Fsus2]love You, I [Am7]love Y[Gsus4]ou
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

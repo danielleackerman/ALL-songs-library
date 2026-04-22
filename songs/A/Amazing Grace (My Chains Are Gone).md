@@ -52,3 +52,12 @@ But G[D]od who c[D/F#]alled me h[G]ere be[D]low
 Will [D]be for-[A/D]ever mine
 Will [D]be for-[A/D]ever mine
 You a[D]re for-[A/D]ever mine   (Chorus)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

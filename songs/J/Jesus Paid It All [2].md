@@ -87,3 +87,12 @@ Oh, praise the one who paid my debt
 And raises life up from the dead
 Oh, praise the one who paid my debt
 And raises life up from the dead
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

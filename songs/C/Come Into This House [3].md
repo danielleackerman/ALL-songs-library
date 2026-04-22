@@ -29,3 +29,12 @@ He's [Cm]worthy of [Bb/D]honor and g[Eb]lory
 [Cm]Worthy of p[Bb/D]ower and p[Eb]raise
 [Cm]Worship and [Bb/D]bow down bef[Eb]ore Him
 Ex[Fm]halt [Eb/G]His   [Fm/Ab]name    [Adim]to-  [Bb]day
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -65,3 +65,12 @@ VERSE MOD:
 Prechorus:
 So I [Eb]give to [Bb/D]you, [Cm7][Bb/D] I [Eb]give to [Bb/D]you,
 [Cm7]I [Bb/D]give [Eb/F]you [Bb]me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

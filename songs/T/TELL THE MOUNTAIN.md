@@ -54,3 +54,12 @@ Go on and climb
 CCLI Song # 5919301
 Kenna West, Lee Black, Sue Smith
 2011 CCTB Music, House Of Blacks, Universal Music - Brentwood Benson Publishing (Admin. by Brentwood-Benson Music Publishing, Inc.) Christian Taylor Music (Admin. by ClearBox Rights, LLC)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

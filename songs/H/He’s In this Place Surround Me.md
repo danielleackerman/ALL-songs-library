@@ -44,3 +44,12 @@ Let Your [Fm/Ab]presence [Bb/F]fill [Gm7]this [Eb]Place.
 
 alternate ending:
 [Adim/F]Let [Fm]Your [Fm9]prescence [Fm]fill [Bb7add6]this [Eb2]Place.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

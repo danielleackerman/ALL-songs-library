@@ -44,3 +44,12 @@ Just [G]slip a[C]way and [D7]breathe His name, He will surely [G7]meet you [G]th
 CHORUS:
 [G]In the [C]presence, Of Je[Em7]ho[A7]vah, God Al[Dm7]mighty, [G] Prince [Cmaj7]of Pe[G7]ace
 [F]Troubles [C]vanish, Hearts [Em]are men[A7]ded, In the [Dm7]pres[G7]ence [F7]of the [C]King
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -54,3 +54,12 @@ I'll be al---[D/A]right, as soon as [A7]I touch [A7/C#]Calvar--[D2]y.
 And touch the [D2]cross that was [D/B]fashioned from a [A2]tree.
 And [A7]if [A7/C#]just [D2]one precious drop of [D7/F#]His blood [G2]touches me,  [Em7]
 I'll be al---[D/A]right, as soon as [A7]I touch [A7/C#]Calvar---[D2]y.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -62,3 +62,12 @@ All power on Heav'n and Earth belong to Me
 (repeat)
           C#5 End
 You are free
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -45,3 +45,12 @@ I have [G/D]nothing but [Am7]praise [Am/D]for [Gsus][G]You.
 OUTRO:
 [C/D]When I [G2]see all the [F/G]beauty, [B7+/C#]in  [CM7]this  world
 You've cre[Cm/D#]ated,   I have [G/D]nothing but [Am7]praise for [GsusF]You.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

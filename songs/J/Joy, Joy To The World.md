@@ -60,3 +60,12 @@ Oh let it [F]ring [C]Joy joy to the [G]world worship and [Bb2]sing
 [F]Jesus has [G]come to bring[F][Ebm7]
 [F]Jesus has [G]come to bring,
 [Ab]Jesus has [Bb]come to bring [C]joy!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -59,3 +59,12 @@ BRIDGE 2:
 [B]Hall[F#]elujah, He l[G#m]ives in m[E]e (4x)
 
 (End with Chorus)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

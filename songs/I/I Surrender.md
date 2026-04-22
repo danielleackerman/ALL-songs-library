@@ -49,3 +49,12 @@ Like a [F]rushing [C]wind ~ Jesus [G]breathe again
 Lord have your [F]way ~ Lord have your [C]way in [G]me
 Like a [F]mighty [C]storm ~ Stir [G]within my soul
 Lord have your [F]way ~ Lord have your [C]way in [G]me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

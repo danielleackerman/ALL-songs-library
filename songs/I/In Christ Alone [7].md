@@ -59,3 +59,12 @@ I sing this song, to Christ alone
 
 The King of kings, the Lord of all
 All heaven sings, to Christ alone
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

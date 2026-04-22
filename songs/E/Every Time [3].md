@@ -39,3 +39,12 @@ CHORUS:
 BRIDGE:
 [G]Oh Lor[C]d here I a[G/B]m, raise my [C]hands I sur[Em]render
 Oh Lord[C] here I a[G/B]m at you [Am7]throne sweet a[Dsus4]bandon[D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

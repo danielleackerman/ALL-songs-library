@@ -42,3 +42,12 @@ Out of sin and darkness, Jesus lited me.
 Satan had me bound, but Jesus lited me
 When I was in trouble, Jesus lited me.
 Out of sin and darkness, Jesus lited me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

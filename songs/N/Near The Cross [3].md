@@ -78,3 +78,12 @@ CHORUS:
 [FM7]be my[Fsus/Db] glory e[Dm7]ver.[Gm7][C9]
 [FM7]Till  my  [F9/A]raptured  [BbM7]soul  [F/A]shall  [Gm7]find,
 [F/C]Rest  [Fsus/Db]beyond  [Dm7]the  river.[C9][F2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

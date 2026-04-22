@@ -29,3 +29,12 @@ Lift your [Eb/Bb]praises [Bb]to the [Eb]Lord. ( 2x )
 To re[Bb]ceive all [Ab/Bb] praise and [Eb]glory
 [Eb/G]Lift Him [Ab]higher [Ab/F]in one ac[Eb]co[Cm]ord
 Lift your [Eb/Bb]praises [Bb]to the [Eb]Lord.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -28,3 +28,12 @@ Since I met [F]Jesus [/]Christ, I can [C]say, "I have [/]no re[Dm]grets."[/]  [G
 The only [C]thing that I [/]would have done [C]different
 Is made my de[F]cision just a [/]little bit [C]sooner,
 For [/]since I've met [Am]Jesus [/]Christ I can [G]say, "I have no [C]regrets."[/] [C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

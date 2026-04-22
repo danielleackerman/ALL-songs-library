@@ -31,3 +31,12 @@ I will [Dsus]lift my voice and [D/F#]sing
 Raise my [C/G]hands and praise Your [G]name
 
 [Dsus]Bow down and [D/F#]worship the an[C/G]cient of days
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -69,3 +69,12 @@ And calm all my [Ab]fears, Now I'm safe from all [Eb]harm
 Since [Cm]I met the [Fm7]One who came [Bb7]looking for [Eb]me. [Ab] [Eb]
 Now I'm safe from all [Eb]harm
 Since [Cm]I met the [Fm7]One who came [Bb7]looking for [Ab]me. [Eb7]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

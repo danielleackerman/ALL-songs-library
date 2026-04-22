@@ -57,3 +57,12 @@ CHORUS:
 TAG:
 I know You’re [E]there, I [B/D#]know You’re [C#m]there[A]
 I know You’re [E]there, [B/D#]You’re [C#m]there[A][E]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

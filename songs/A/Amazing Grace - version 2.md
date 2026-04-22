@@ -38,3 +38,12 @@ id: F9D560A8-1951-4685-B89D-5085C189A268
 That [Am]saved a [D/F#]wretch like [G]me!
 I [C]once was [C7/E]lost, but [F]now I'm [C]found;
 Was [Am]blind, but [G]now I [C]see.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

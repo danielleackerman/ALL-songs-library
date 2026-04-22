@@ -63,3 +63,12 @@ O c[Am]ome let [Bm7]us    ad[D]ore H[Em]im
 [G/C]Chris[D]t the L[Em]ord
 [G/C]Christ, O C[Dsus]hrist the [Gmaj7]Lord[Dadd4][Em]
 [C]  (Chr[D]ist the L[Gmaj7]ord)[Dadd4][Em][C][D][G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

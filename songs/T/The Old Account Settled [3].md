@@ -60,3 +60,12 @@ O sinner seek the Lord, repent of all your sin
 For thus He hath commanded, if you would enter in
 And then if you should live, a hundred years below
 Up there you'll not regret it, you settled long ago.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

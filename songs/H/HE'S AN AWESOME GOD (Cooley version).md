@@ -125,3 +125,12 @@ Vamp 2(CHORUS 5):
 OUTRO:
 [Eb]He reigns. [Bb2]He reigns. [Cm7]He reigns. ([Bb2/D]He [Eb]reigns.)
 [F] [Eb/G]He's an [Bb/D]awe [C/E]some God. [F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

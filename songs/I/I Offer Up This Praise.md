@@ -29,3 +29,12 @@ Hal[G]le [Am]lu [E7/G#]jah.
 Halle[Am/G]lu [Am/F#]jah
 Halle[Dm/Bb]lu[A7sus]jah      [A7/C#]
 [F/D] Lord I [F/G]offer up this [C]praise
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -49,3 +49,12 @@ G7b9      G7 add Ab      G + B dim7
 Ab79      Ab7 add A      Ab + C dim7
 
 A7b9      A7 add Bb      A + C# dim7
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

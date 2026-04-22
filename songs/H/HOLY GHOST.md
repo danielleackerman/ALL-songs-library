@@ -85,3 +85,12 @@ VAMP:
 [Ab](The Holy Ghost), [Ab]The Holy Ghost
 
 Paul Anthony Ryder / Gary Kenneth Whelan / Mark Philip Day / Paul Richard Davis / Shaun William Ryder
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

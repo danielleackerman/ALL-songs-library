@@ -32,3 +32,12 @@ VERSE 1:
 From the [Eb]bottom of my heart,
 [Ab/Bb]To the [Eb]depths of my [Db7]soul, [Ab]I love [Ab/F]You,
 [Eb]I really [C7]do, [Fm7]My [Bb]soul loves [Eb]You.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

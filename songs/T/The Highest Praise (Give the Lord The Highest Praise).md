@@ -57,3 +57,12 @@ hallelujah hallelujah 3x
 (aint gonna let no rock take my place)
 
 Mod apo fast, contemp christian fast
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

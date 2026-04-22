@@ -68,3 +68,12 @@ You are Maker [Gm]of each mo[Dm]ment, Father [Gm]of my hope [C9]and freedom [Bb]
 Oh, my Adonai
 
 [Bb] [Bbsus] [Bb2] [Eb] [Bb] [Bbsus] [Bb] [Ebsus2] [Bb2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -31,3 +31,12 @@ He that over[F7]cometh Over[Bb]cometh in the name of the [F]Lord
 [A]His arm is not short [Dm]His promise is not slack
 
 [Bb]He that over[F]comes Over[Gm]comes in the [C]name of the [F]Lord.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

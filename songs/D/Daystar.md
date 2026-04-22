@@ -59,3 +59,12 @@ To verse:  [Eb/F]
 Lord, I see a world that's dying, wounded by the master of deceit.
 Groping in the darkness, haunted by the years of past defeat.
 But then I see you standing near me, Lord, shining with compassion in your eyes.  (I pray) Jesus, shine down on me, let your love shine through me in the night.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

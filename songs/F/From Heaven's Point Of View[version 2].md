@@ -63,3 +63,12 @@ From heaven's [Bb]point of view [Gm]
 
 [G]What [Cm]once looked like a mountain’s  [G]Just a [F]hill
 From hea[F]ven's [F/A]point of [Bb]view [Bbm]  [Bb]  [Eb] [Ebm]  [Bb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

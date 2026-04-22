@@ -89,3 +89,12 @@ I'm loving You more each day. 3x
 CHORUS:
 
 BRIDGE: piano / rubato
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

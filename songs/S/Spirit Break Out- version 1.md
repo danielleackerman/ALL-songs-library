@@ -55,3 +55,12 @@ King Jesus, you're the name we're lifting high
 Your glory, shaking up the earth and skies
 Revival, we want to see Your kingdom here
 We want to see Your kingdom here
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

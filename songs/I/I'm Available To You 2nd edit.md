@@ -91,3 +91,12 @@ And [C#m]I am  a[A]v[E]ailable to [C#m]You
 Ny [F#m]storage is [E]empty and [A]I am a[B]vailable to [E]you
 To [Am]you you you [B]you
 To [E]you
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

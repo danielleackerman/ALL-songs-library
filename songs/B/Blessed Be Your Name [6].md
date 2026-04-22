@@ -69,3 +69,12 @@ Blessed be the [Db]name of the [Ab]Lord, Blessed be Your [Bbm7]glorious [Gb]name
 BRIDGE:
 You [Db]give and take a[Ab]way, You [Bbm7]give and take a[Gb]way
 My [Db]heart will choose to [Ab]say, Lord, [Bbm7]blessed be Your [Gb]name [Db]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

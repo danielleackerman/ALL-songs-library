@@ -94,3 +94,12 @@ To [G]praise You [C]with my [F]song
 My [G]dream's at [C]hand
 I've [G]found my [C]place
 The [G]place where[C] I be[Bb]long
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

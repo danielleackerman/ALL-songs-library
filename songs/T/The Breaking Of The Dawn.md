@@ -64,3 +64,12 @@ In   the   still, sweet air of the desert
     We will ride through the breaking of the dawn
 
 OUTRO: (B) (12 measures total)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -32,3 +32,12 @@ He [Eb/Bb]didn't have to [F7]do it [Bb7]but He [Eb]did.
 
 MEDLEY: I'm So Glad That The Lord Saved Me /I Feel Like Praisin',
 Praisin' Him
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

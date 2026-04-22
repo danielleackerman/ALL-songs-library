@@ -53,3 +53,12 @@ id: C4BB5044-1100-4AE3-AE05-58FB2C8B9253
 (Bridge:)
 
 [Fm]I feel a stirring, [Bb9]yes I feel a st[Cm/Bb]irr[Bb]ing
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -73,3 +73,12 @@ D   =   xx0232
 D/F#=   200232 (hold down bottom string with thumb)
 [Em7] =   020000
 G   =   320003
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

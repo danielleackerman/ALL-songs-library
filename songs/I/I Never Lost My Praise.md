@@ -57,3 +57,12 @@ In the time of my crisis they were never there
 But in my disappointment, in my season of pain
 One thing never waivered
 One thing never changed.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

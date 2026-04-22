@@ -68,3 +68,12 @@ Undone[C2][C2/F]
 [C2]To the cross I run[C/F]
 To be what I've become[C2][C/F]
 And I'm undone[C2][C/F][C2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

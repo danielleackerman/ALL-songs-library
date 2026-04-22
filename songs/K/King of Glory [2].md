@@ -84,3 +84,12 @@ We will  sing [F]hallelujah till You come again   [Gm]
 Yes we’ll [Dm]dance in Your presence, dance in Your presence
 
 [A#]dance in Your presence,  dance in Your presence
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

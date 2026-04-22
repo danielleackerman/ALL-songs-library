@@ -42,3 +42,12 @@ Rain on us fill us with Your power
 (ending)
 
 Holy Spirit  rain down on us
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

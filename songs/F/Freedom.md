@@ -46,3 +46,12 @@ V. 3
 I wanna love you more than before
 I wanna worship deeper than before
 I've gotta scream louder
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

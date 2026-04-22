@@ -54,3 +54,12 @@ BRIDGE:
 [F#m]how i love you
 [A]ho[B]w i love you
 [C#m]Jesu[(B)]s
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

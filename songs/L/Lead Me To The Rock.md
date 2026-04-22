@@ -72,3 +72,12 @@ Lead me to the rock that is higher than I, oh
 
 Songwriters: Stuart Garrard / Steven Curtis Chapman / Tim Hughes / Martin Smith / Michael Whitaker Smith / Paul Baloche / Chris Tomlin / Matt Redman / Israel Houghton / Graham Kendrick / Darlene Zschech / Andy Park
 Lead Me To The Rock lyrics © Integrity's Hosanna Music, Integrity's Hosanna! Music, Gloworks Ltd.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

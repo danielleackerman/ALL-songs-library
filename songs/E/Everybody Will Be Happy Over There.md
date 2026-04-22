@@ -54,3 +54,12 @@ There we'll meet the one who saved us and who kept us by His grace
 And who brought us to that land so bright and fair
 We will praise His name forever as we look upon His face
 Everybody will be happy over there.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

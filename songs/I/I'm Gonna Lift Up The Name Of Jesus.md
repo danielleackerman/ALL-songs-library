@@ -33,3 +33,12 @@ I'm   gonna  [F/C]lift   up   that   wonder[C7]ful  [F]name.
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

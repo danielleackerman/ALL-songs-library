@@ -65,3 +65,12 @@ Yes  I'[G/B]m on my[C2] way to you[C/G]
           I'm on my way[Am][Em7][C/G]
           I'm on my way[Am][Em7][C/G]
           I'm on my way   [Am]      [Em7]     to you[C6]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

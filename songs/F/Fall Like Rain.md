@@ -53,3 +53,12 @@ So if You woul[C2]d.       [F]
 
 TAG (4x)
 [G]Fall_[Bbm7]__________ [C]fall like [G]rain.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

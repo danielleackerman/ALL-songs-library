@@ -39,3 +39,12 @@ You’re   gonna   [A7/Db]see   me   [Dm7]through,
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

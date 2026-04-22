@@ -60,3 +60,12 @@ And I will find my[D] strength, in the [C2]shadow of your [Am7]wings.[D]
 (Chorus 2)
 [G]Your love, oh Lord,[C2] reaches to the [G]heavens.[D2/F#]
 [Em7]Your faithfulness [C2]stretches to the [G]sky.[D2/F#]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

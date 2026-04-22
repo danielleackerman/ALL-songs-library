@@ -56,3 +56,12 @@ When the [Eb]Master [Ab]says [Eb]enough they [Fm7]just [Bb]go [Eb]away
 When the [Eb]Master [Ab]says [Eb]enough they [Fm7]just [Bb]go [Eb]away
 
 [Db]     | [Fm] [Cm] | [Bb7]     |        | [Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

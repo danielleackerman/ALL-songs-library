@@ -52,3 +52,12 @@ C'mon and
 [Gm7]Holy Ghost [F/A]power, (5x), [Bb/C]Breathe  on [F]me.
 
 Mod apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -41,3 +41,12 @@ For the [A]nations that gather b[E]efore You
 [A]Who de[E]scended to hell yet was raised up to reign at His [D]Father's [E]side
 
 To chorus
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

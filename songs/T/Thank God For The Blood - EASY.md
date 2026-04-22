@@ -36,3 +36,12 @@ CHORUS:
 [/]Thank [Gm]God   [/]  [C]   [/]for the [F]cleans[/]ing [C]flood
 Thank [F]God  [/]  [C]  [/]for the [F]blood [/][Dm]
 [/]That [Gm]was[/]hes [C]white as [F]snow. [/]  [F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

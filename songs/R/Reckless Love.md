@@ -60,3 +60,12 @@ Oh the [Em]overwhelming, [D]never ending, [C]reckless love of [G]God
 Oh, it [Em]chases me down, [D]fights 'till I'm found, [C]leaves the ninety [G]nine
 I couldn't [Em]earn it  I don't [D]deserve it  Still, You [C]give yourself [G]away
 Oh the [Em]overwhelming, [D]never ending, [C]reckless love of [G]God
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

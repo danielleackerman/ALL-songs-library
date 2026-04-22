@@ -56,3 +56,12 @@ Since I met the blessed Savior
 Since He cleansed and made me whole
 I will never cease to praise Him
 I'll shout it while eternity rolls
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

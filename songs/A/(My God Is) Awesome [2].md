@@ -57,3 +57,12 @@ CHORUS:
 [Ab/Bb]My God is [Eb]Awesome,  [Bb]Awesome,  [Cm9]Awesome, [Ab]Awesome,
 
 Mod gospel med slow, cont black gospel
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

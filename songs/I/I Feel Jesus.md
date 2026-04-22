@@ -46,3 +46,12 @@ I   [B7b9]feel   [Em7]Jesus   [D/A]i   [A]n   [A7b9]this     [D]place.
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

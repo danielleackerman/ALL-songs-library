@@ -70,3 +70,12 @@ I want my life to pr[G]aise You             [D]     [A/C#]        [Bm]      [G]
 I want my life to pr[G]aise You             [D]     [A/C#]        [Bm]      [G]
 I want my life to pr[G]aise You             [D]     [A/C#]        [Bm]      [G]
 [D]    [A/C#]    [Bm]    [G]    [D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

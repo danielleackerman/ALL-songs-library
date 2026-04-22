@@ -53,3 +53,12 @@ And [F]I,[C]  [Dm]    I[Am]'m lost with out[Bb] yo[Dm]u     [C]
 
 [F]open the [C]floodgates of [Dm]heaven
 [Bb/F]let it [Csus]ra[C]in
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

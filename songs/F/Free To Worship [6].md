@@ -28,3 +28,12 @@ id: 3BED489B-2473-4046-883C-9F15C3CC521E
 [Cm]He whom the Son sets free is [Bb]free indeed
 [Eb]He whom the Son sets free is [Ab]free indeed
 [Bb]   [Cm]He whom the Son sets free [Bb] is free indeed
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

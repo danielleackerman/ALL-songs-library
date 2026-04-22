@@ -28,3 +28,12 @@ id: DAEA0419-C843-4A86-9DAC-4B9383C4952A
 [A]  Everlasting [Dm]Father
 [A]  Never changing [Dm]p--[C]O [Bb]wer
 [Bb/G]  Unmistakeably [Bb/C]  awesome God[F][Bb/C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

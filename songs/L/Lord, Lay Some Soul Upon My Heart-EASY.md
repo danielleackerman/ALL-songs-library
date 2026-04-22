@@ -31,3 +31,12 @@ And [Em]love that [F/G]soul thro[G]ugh [C]me  [C]
 And [F]may I [F]ever [Em]do my [Am]part
 
 To [C/G]win that [G]soul to [C]Thee  [C] or [F/G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

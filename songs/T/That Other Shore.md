@@ -64,3 +64,12 @@ Mortal [Eb/Bb]tongue, [Bb]cannot por[Eb]tray
 God shall [Eb/Bb]wipe, [Bb]all [Bb7]tears a[Eb]way.
 
 CHORUS:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

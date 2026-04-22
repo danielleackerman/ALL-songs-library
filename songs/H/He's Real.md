@@ -73,3 +73,12 @@ He's got a[C]ll the p[D7]ow'r you need [G7]    [(4]   [BEAT)]
 He's got a[C]ll the p[D7]ow'r you need [G7]
 
 [C]all the [D7]pow'r you need[G7]     (REPEAT 3X)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

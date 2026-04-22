@@ -76,3 +76,12 @@ Original chorus:
 With [Eb]joy we’ll [Eb7/G]welcome His re[Ab]turn[Ab7]ing
 It [Db]may be [Bbm7]morn, it may be [Ab]night or [Fm]noon
 We [Eb]know, He’s co[Eb7]ming [Ab]soon.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

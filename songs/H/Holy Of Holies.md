@@ -52,3 +52,12 @@ And al[Fm7]though I'm just a [Eb/G]common man
 Be[Ab]cause of God's re[Eb/G]demption [Cm]plan
 I can [Fm7]bold[Eb/G]ly [Fm/Ab]ap[Eb/Bb]proach [Bb7b9]the [Eb]throne.
 I can boldly approach the throne.(second time)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

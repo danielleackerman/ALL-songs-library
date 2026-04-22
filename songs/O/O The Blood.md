@@ -82,3 +82,12 @@ Yes, the [D/F#]blood, it [C2/E]is my victo[G]ry
 TAG:
 What a [Am]sacri[Em]fice that [C]saved my [Am7]life
 Yes, the [D/F#]blood, it [C/E]is my victo[G]ry
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

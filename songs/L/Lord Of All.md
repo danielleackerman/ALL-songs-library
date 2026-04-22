@@ -37,3 +37,12 @@ E[Eb6]very knee shall bow, and every t[F]ongue confess
 That Jes[F7]us Christ is L[C]ord of all
 L[Eb6]ift up your eyes, l[F]et the church arise
 J[F7]esus Christ is L[C]ord of all
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -38,3 +38,12 @@ For when we go in the name of Jesus
 Tell me who can stand before us
 In the name of Jesus Jesus
 We have the victory
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

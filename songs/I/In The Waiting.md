@@ -68,3 +68,12 @@ And I'll s[C]ee wh[Bm]at was ga[Am]ined
 By his own [Em]hand He lead[G]eth [D]me
 [G]His faithful [D]follower [C]I would [G]be
 For by his [Em]hand He [D]leadeth [G]me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

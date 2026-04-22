@@ -65,3 +65,12 @@ And with this lov[E]e that's gone bef[A2]ore you and these [Bsus]people at[B] yo
 [E]If you offe[A]r up your b[Bsus]roken cu[E]p
 F#m7                  Bsus       Asus2          (: E / A / | Bsus / / :)
 You will taste the meaning of this life     hey,    hey
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

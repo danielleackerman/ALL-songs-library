@@ -65,3 +65,12 @@ Your letter said that you were leaving
 But you didn't know how long
 I will never stop believing
 I know one day you will return
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

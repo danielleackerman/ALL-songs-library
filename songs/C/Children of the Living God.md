@@ -40,3 +40,12 @@ Sing[E] of the mercy t[A]hat He g[E]ives,  S[B]ing to the living [E]God     (Cho
 
 Si[E]ng for the morning w[A]hen He co[E]mes,  In the clouds g[A]lorious [E]Son
 Sin[E]g for the morning w[A]hen He co[E]mes,  S[B]ing to the living G[E]od    (chorus)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

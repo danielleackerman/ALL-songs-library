@@ -103,3 +103,12 @@ He l[G]oves you, He sees you, He k[C2]nows you, pro[D]tects you
 He n[G]eeds you, He holds you, He l[C2]oves you, He s[D]ees you
     G
 He knows you
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

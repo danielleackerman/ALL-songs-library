@@ -57,3 +57,12 @@ You can borrow [Bbm]mine, [Gb] [Bbm] [Gb] You can [Bbm] bor[Gb]row [Bbm]mine  [G
 
 [Bb]Take my [Bbm]hand, [Db] [Ab] [Gb] [Ebm]Take my [Eb]lo[Bbm]ve, [Db] [Ab] [Gb]
 [Ebm]Don't [Db]give [Bbm]in, [Db] [Ab] [Gb]  [Ebm]Don't [Db]give [Bbm]up [Db] [Bbm] [Gb] [Db]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

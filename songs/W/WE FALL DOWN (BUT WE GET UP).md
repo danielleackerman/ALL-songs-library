@@ -26,3 +26,12 @@ we fall down but we get up
 
 for a saint is just a sinner
 who fell down and got up
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

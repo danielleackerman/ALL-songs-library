@@ -88,3 +88,12 @@ Come and [E/A]fill [A/C#] me, [B] fill me, Oh
 ENDING:
 [E/A] - [B] - [E/A] - [B] - [E/A] - [B] - [E/A] - [B]
 E/A - B - E/A - B - E/A - B - E/A - B(add4)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

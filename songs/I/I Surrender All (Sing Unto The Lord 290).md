@@ -53,3 +53,12 @@ O the joy of full salvation, Glory, glory to His name.
 CHORUS:
 [C]I surren[A7/Db]der [Dm7]all, [G2]I surren[G7]der [CM7]all. [F/G] [G7b9]
 [C]All to [F/G]Thee [C]my [C/E]blessed [G/F]Sa[F]vior, [C/G]I sur[G]rend[G7/B]er [C]all.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -40,3 +40,12 @@ I [Em7]love, I love that [G]precious [A]name of
 4. Salvation in that...
 
 Lead in single notes:   ( [D],[E], [F#], [G] )
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

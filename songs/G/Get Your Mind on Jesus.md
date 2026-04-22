@@ -63,3 +63,12 @@ VERSE 3:
 [Eb-E] [F]But when they get the Holy Ghost, [Eb-E] [F]they too will speak in tongues.
 [Eb-E] [F]Somebody help me sing, [Eb-E] [F]somebody help me shout.
 [Eb-E] [F]Somebody help me sing, [F]somebody help me shout.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

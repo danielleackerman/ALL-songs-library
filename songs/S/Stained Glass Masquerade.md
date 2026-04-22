@@ -70,3 +70,12 @@ Maybe then we close the cur[G]tain on our stained glass masque[F]rade
 Is there anyone that f[F]ails Is there anyone that f[C]alls
                        G                       FMaj7
 Am I the only one in church today feelin’ so small
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -51,3 +51,12 @@ Search my [D]heart, O God, and [C]know my anxious [G]thoughts
 and [C]save me from my [Am]every hurtful [D]way, for
 It's [G]by Your grace I seek [Em]You, and [C]by Your grace I [G]find
 And [C]only by Your [D]grace that I can say... [G]   [C]   [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

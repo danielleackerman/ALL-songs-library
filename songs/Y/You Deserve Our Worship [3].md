@@ -48,3 +48,12 @@ As  we [Gm7]bow  before Your [C7/F]presence   [(][E][F][G][run][)]
 [Fm7]You deserve our [Bb7]worship  Oh [Eb]Lord [Bbm/Gb] [Fm7] [Ab/Bb]
 
 Mod apo slow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

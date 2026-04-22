@@ -60,3 +60,12 @@ Repeat chorus
 
 ~If you have any questions, comments, or other info email me at
 katia.b@juno.com~ *Romans 1:16*
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -58,3 +58,12 @@ VERSE 3:
 He’s the [Eb7]Holy [Eb]Ghost, [Eb7]the [Ab]spirit [Eb]pour’d from [Ab]glo[Eb7]ry,
 [Fm]He’s [Db]the [Ab]sacred One of all the gospel sto[Eb]ry,
 [Ab]He’s the great, [Ab]He’s [Db]the [Ebsus]great [Eb7]I [Ab]Am.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

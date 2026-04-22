@@ -58,3 +58,12 @@ id: 1E248388-E03C-4227-9C49-931AC86985C8
  Have Your way[C][Am]
 
 * this song is in "Opensong" format
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -44,3 +44,12 @@ V1:
 I [F6/G]bless Your name[C]
 
 Ending:  You [G/F]are the    [C/E]life        [Am/F] the truth the            [C/G]way
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

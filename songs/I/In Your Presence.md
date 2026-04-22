@@ -58,3 +58,12 @@ You are [Em7]wort[D]hy, You are wor[C2]thy
 You are [Em7]migh[D]ty, You are mig[C2]hty
 You are [Em7]migh[D]ty, You are h[C2]oly
 You are [Em7]migh[D]ty, You are h[C2]oly
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -46,3 +46,12 @@ And our hearts are made to bleed for ev'ry [Bb]thoughtless [F7]word or [Bb]deed;
 [Eb/Bb]But [Ab6]we’ll [Eb/Bb]understand it [Bb7]better by and [Eb]by.
 
 Os apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

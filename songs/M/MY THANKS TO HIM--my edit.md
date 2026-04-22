@@ -45,3 +45,12 @@ Tho' I should live a thousand years below,
 and praise the Lord from dawn till set of sun;
 Still that would not be time enough to show
 My thanks to Him for all that He has done.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

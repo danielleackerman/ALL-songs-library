@@ -76,3 +76,12 @@ At the [Bb/F]midnight cry[Eb/F]
 At the [Bb/F]midnight cry[Eb/F]
 At the [Bb/F]midnight cry[Eb/F]
 We'll be going [Gb]home    [Ab]     [Bb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

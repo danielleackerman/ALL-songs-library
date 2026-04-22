@@ -42,3 +42,12 @@ Medley: change me Lord
 [G]I    [Bm7]wanna be more like   [C]You.   [D/C]
 I   [Bm7]wanna be a vessel   [Em7]You work through
 [Am7]I        [C/D]wanna  be  more [D7]like  [G]You
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

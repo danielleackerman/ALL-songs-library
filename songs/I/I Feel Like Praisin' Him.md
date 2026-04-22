@@ -33,3 +33,12 @@ T[Dm]he Lord has been so good to me[G7]
 I f[Bb/C]eel like dancing my dance[C]
 
 [F]  [E]  [Eb]        [Dm]Praise Him, P[G7]raise Him, Prais[Bb/C]e Him  [F](repeat)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

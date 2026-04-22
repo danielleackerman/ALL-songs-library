@@ -40,3 +40,12 @@ Your [Eb/Bb]presence is [Ab6/Bb]all [Ab/C]that [Bb7/D]we [Eb]need [Ab/C]   [Bb/D
 Mod apo slow, mod gospel slow, holiness, presence, righteousness
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

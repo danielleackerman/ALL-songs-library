@@ -45,3 +45,12 @@ I[D] played my drum for Him;  I played my best for Christ[Bm]
 I played my best for C[G]hrist[D]
 
 [D]Then He smil[D]ed at me[G][D][A][D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

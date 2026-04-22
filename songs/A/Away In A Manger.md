@@ -57,3 +57,12 @@ The Lord of all creation
 lay down His sweet head
 The Savior of the nations
 lay down His sweet head
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

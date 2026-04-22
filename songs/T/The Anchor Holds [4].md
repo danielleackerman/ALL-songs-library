@@ -73,3 +73,12 @@ I had fallen on my [Ab7]knees, As I [Db]faced [Abm]the raging [Bbm7]seas
 The anchor [Eb]holds, In spite of the st[Ab]orm [Ab][Db][Eb]
 I had fallen on my [Ab7]knees, As I [Db]faced [Ab] the raging [Bbm7]seas
 The anchor [Eb]holds, [Fm][Eb] In spite of the [Db]storm [Ab][Db][Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

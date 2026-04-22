@@ -39,3 +39,12 @@ CHORUS:
 [Eb]Worship, [C7] [Fm7]worship the Lord, [Fm/Bb]praise [Bb7]Him,
 The [Ab/C]one that [Bb/D]we [Eb]adore [Bb/D]Hos[Cm7]anna [Fm7]to the Lord of Lords
 He's the [Fm/Bb]Great [Bb/D]I [Eb]Am
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

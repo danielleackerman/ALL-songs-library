@@ -43,3 +43,12 @@ the blessings will come down as the Praises will go up
 the blessings will come down as the praises will go up
 the blessings will come down as the prices will go up
 so build your house on the Lord Jesus Christ
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

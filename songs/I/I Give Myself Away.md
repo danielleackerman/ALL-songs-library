@@ -64,3 +64,12 @@ BRIDGE:
 My [Bb]life is not my own
 To [F/A]you I belong
 I [Bb2/G]give myself, I [Bb2/F]give myself to you[Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

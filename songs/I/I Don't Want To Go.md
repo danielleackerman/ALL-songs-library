@@ -89,3 +89,12 @@ I don’t want to [G]go some[D/F#]where              if I know that [Em]You’re
 'Cause my [C]heart needs to [G/B]be                where You [Am]are[D]
                    G
 So I don’t want to go
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

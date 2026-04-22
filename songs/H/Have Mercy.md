@@ -34,3 +34,12 @@ Have [A]mercy[G] on [D]me a sinning [C]man[G]   repeat
 
 [D]Oh[A] I don't [G]think I can [A]take this further
 [D]Oh[A] if i[G]t's [F#m]not [E]one thing it's a[F#m]noth[G]er[A]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

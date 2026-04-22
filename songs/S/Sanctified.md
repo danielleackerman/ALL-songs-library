@@ -42,3 +42,12 @@ VERSE 2:
 [Cm] than He who [Eb]laid upon the [Ab]cross
 let [Ab]all c[Bb]reation [Cm]sing
 for He has come and He's [Ab]changed [Eb]everyt[Cm]hing.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

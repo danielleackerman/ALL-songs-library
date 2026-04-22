@@ -41,3 +41,12 @@ I [Bm/G]give you every part of me,
 Each [D/F#]song I sing, Each [D/B]breath I breathe
 I [Gmaj7/E]give You my [D/F#]heart and soul
 [***][Am9]Take my life [D9]and take control  [***][instrumental to chorus]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

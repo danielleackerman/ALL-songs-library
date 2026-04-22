@@ -54,3 +54,12 @@ Dance and shout like those who've been set free
 It's about you Jesus and all of Your Glory
 
 Chorus: x3
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

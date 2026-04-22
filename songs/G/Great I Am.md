@@ -74,3 +74,12 @@ God Alm[D]ighty
 Great I [A]Am
 
 He's [A]the [Bm]Great[G] I Am Great I Am
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

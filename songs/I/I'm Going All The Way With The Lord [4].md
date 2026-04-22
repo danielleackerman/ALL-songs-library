@@ -46,3 +46,12 @@ I’m [Gm/D]going  all  the  [Gm7]way.   [C7]with  the  [F]Lord.
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -183,3 +183,12 @@ CHORUS 2:
 
 (solo/duet/unison)
 VERSE 1:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

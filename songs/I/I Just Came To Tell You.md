@@ -43,3 +43,12 @@ id: 73CC8EC4-7F51-4A55-B1DD-122E89184227
 (chorus)
 I l[Dm]ove you,  You’re h[F/C]oly,  You’re w[F/Bb]orthy of my pr[Cm]aise[F]
 I l[Bb]ove you,  You’re h[F/A]oly,  [Gm] I just[F/A] came to[Csus] say     Y[C]ou’re worthy of my p[Db]raise[Db/Bb][F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

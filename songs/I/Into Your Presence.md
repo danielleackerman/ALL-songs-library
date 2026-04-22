@@ -42,3 +42,12 @@ id: 38034F07-95EE-447C-AB20-5AC7908F4353
 [Eb]Renew my [Ab]mind
 My [Eb/G]joy is [Ab/F]full when I [Ab/Bb]come
 [Bb]In[Ab/Bb]to [Bb]Your [Ebsus2]pre[Eb]sence.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

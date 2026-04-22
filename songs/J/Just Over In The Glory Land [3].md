@@ -57,3 +57,12 @@ With the blood washed throng I will shout and sing
 Just over in the glory land
 Glad hosannas to Christ, the Lord and King
 Just over in the glory land.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

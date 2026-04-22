@@ -27,3 +27,12 @@ faith faith faith
 just a little bit of faith
 you don’t need a whole lot
 just use what you got
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

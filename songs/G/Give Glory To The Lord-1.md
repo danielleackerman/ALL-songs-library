@@ -30,3 +30,12 @@ Give [Eb]glory [Db9]to the [Cm7b9#5]Lord in the [F b9]house [Bb7/D]of [Eb]praise
 
 VERSE 2:
 Lift the Savior up in the sanctuary
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

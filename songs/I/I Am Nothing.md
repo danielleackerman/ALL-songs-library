@@ -72,3 +72,12 @@ You are ev[Fm]erything
 So I t[F#dim7]hank you. I t[F]hank you
 Lord I th[F#dim7]ank you
 I t[F]hank you[C(add2)]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

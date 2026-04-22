@@ -72,3 +72,12 @@ Repeat four x:
 
 OUTRO:
 [Eb/F]God’s got the power [Bb/F]  [F]Yes, He’s got the power
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

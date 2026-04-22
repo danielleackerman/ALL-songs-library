@@ -46,3 +46,12 @@ Who fully blesses ever
 I am his, Thank God, and He is mine
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -63,3 +63,12 @@ CHORUS:
 It's a [Em]mystery [G]I agree, I [C]never could explain
 But it [Am]happens every [D]time I speak His [Em]na[D]me[G] [C]  [G]
 It [Am]happens every [D]time I speak His [G]name.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

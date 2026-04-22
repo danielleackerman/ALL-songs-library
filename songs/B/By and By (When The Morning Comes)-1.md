@@ -56,3 +56,12 @@ We are tossed and driven on the restless sea of time
 Somber skies and howling tempests oft succeed a bright sunshine
 In that land of perfect day when the mists are rolled away
 We will understand it better by and by
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

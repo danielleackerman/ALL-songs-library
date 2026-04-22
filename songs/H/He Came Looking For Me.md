@@ -48,3 +48,12 @@ I knew my destruction was a matter of time
 But Jesus appeared and said " This one is mine "
 Now I'm safe with no harm, for He walked thru the storm
 He came looking for me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -47,3 +47,12 @@ BRIDGE:
 When temptation [G/B]comes my [C2]way
 And when I [C]cannot [G/B]stand I'll [Dsus]fall on [Em7]You
 [C2]Jesus, You're my [Dsus]hope and [G]stay
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

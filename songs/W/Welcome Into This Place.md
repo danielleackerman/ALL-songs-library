@@ -69,3 +69,12 @@ As we [Fm]offer up this [Bb7]praise to Your [Eb]name  repeat
 As we [Fm]offer up [Bb7]this praise to Your [Eb]name  repeat
 
 original key G
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

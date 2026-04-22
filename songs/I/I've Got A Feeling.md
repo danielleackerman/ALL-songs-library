@@ -77,3 +77,12 @@ On the first day of the week, the sun woke up the earth,
 The caverns of the deep opened up as to give birth,
 To a resurrected Saviour with healing in His wings,
 And now the host of children rise and sing;
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

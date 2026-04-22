@@ -74,3 +74,12 @@ And my will be lost in Thine.(**)
 Draw me [A]near[E]er. [B]
 Draw me [A]near[E]er, [B]
 Draw me [A]near[E]er. [B]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

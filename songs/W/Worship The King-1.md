@@ -33,3 +33,12 @@ To [Ab/Bb]magnify His [Bb7]name.     [Bb7/D]
 [Bb/C]As [Cm]we [Fm7]wor---[Eb/Bb]ship [Bb7]the [Eb]King.
 
 [Bbm/Gb].        [Fm7].        [Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

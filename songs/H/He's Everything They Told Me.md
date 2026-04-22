@@ -43,3 +43,12 @@ He's [FM7]every[Dm7]thing and He's [Gm7]more.  [C7]. [Bb/D]. [C7/E]
 [FM7]Mortal tongue could [Eb/C]never [A7+/B]tell the [BbM9]story. [Gm7]
 
 [Bbm/Db]Of [F/C]Jesus, the [Gm7]Savior [C7]I a[Fsus][F]dore.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

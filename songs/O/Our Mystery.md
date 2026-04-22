@@ -69,3 +69,12 @@ Cause love will be….our mystery
 Gadd9     or   G2
 
 A/C# x 4 2 2 2x
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -62,3 +62,12 @@ I never lost [C7]my [F]praise.
 (Bridge:)
 [Bb]Praise,   [A7]Praise,   [Dm]Praise,    [D7/Gb]Praise
 But [F/A]most [Gm/Bb]of [F/C]all, [C7sus]I never lost my [F]praise.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

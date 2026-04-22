@@ -60,3 +60,12 @@ Fill me up (repeat)
 BRIDGE:
 Love of[F] God ove[C]rflow
 Perm[F]eate all my[C] soul
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

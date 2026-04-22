@@ -70,3 +70,12 @@ But [C#m9]those ar[A]e t[Bno5/A]he break[A]s[Bno5/A]
 
 Words and music by Rich Mullins
 © 1995 Edward Grant (ASCAP)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -31,3 +31,12 @@ There is [Fm9]more [Bb9]than e[Eb]nough.
 When your [F]well has run [Eb/C]dry, [F7]  [BbM9]He will [Bbm6/Eb]supply,
 When the [Gm9]road seems long and [C9]rough,
 There is [Gm9]more [C9]than e[F]nough.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

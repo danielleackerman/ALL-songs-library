@@ -91,3 +91,12 @@ I see love
 I see love
 When I see
 [F#m]Some see Him wal[D]king from [A]an empty grave
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

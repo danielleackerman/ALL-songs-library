@@ -77,3 +77,12 @@ I will sing again
 You [G]are my Father in Hea[C2]ven
 You [G]are the Spirit ins[C2]ide me
 You [G]are my Jesus who lo[C2]ves me[G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

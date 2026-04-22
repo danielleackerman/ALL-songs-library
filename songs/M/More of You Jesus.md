@@ -32,3 +32,12 @@ More of You [G]Jesus, more of Your [D/Gb]face
 More of Your [G/E]glory in this [Cm9]place
 More of You [G]Jesus, more of Your [D/Gb]face
 More of Your [G/E]glory in this [Cm9]place
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -52,3 +52,12 @@ If we've ever needed [F#m]You,        Lord, it's n[G]ow,           Lord, it's n[
 We are desperate for Your[F#m] hand,        we're reachin' [G]out,              we're reachin' ou[A]t.
 
 We need[G] You now         [A]            Revive us[G] now         [A]            We need[G] You now
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

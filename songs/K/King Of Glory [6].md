@@ -106,3 +106,12 @@ I’ll [E]dance in Your pr[B/E]esence;  /   [A/E]dance in Your pr[E]esence  /
 ENDING:
 [E]King  /  /  [B/E]of   /   /   [A/E]glo  /  -  /  [E]ry  /  /  [C#m7]fill    /   /    [B/C#]this  /   /  [A/C#]place  /  /
 [C#m7]Just wanna b[B]e with You;  /  /  /      /  /  /   just wanna b[Amaj9]e with You
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

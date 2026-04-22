@@ -51,3 +51,12 @@ It giveth comfort, to those in sorrow
 It bringeth peace to, a troubled soul
 The love of Jesus, goes in the by-ways,
 To seek the sin-sick, and make them whole.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

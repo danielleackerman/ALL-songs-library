@@ -39,3 +39,12 @@ Even then You [C]chose to giv[D]e us life[G]
 
 [Aadd4/C#]Everyone [C]of us deser[G/B]ves to die[C]
 [Aadd4/C#]But You save all[C] who hope in Y[G/B]our great lov[C]e
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

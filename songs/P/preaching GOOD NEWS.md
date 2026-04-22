@@ -216,3 +216,12 @@ Fight the good fight
 Let god write something on your heart
 
 Write you gospel on my heart and on my mind
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

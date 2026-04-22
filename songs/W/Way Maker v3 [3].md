@@ -92,3 +92,12 @@ VERSE 2:
 [1]You [7]are [6]here [6]touch[6]ing [6]ev[5]ery [3]li[5]fe, [1]I [5]wor[1]ship [2]you, [1]I [1]wor[7]ship [6]you.
 
 [1]You [7]are [6]here [6]meet[6]ing [6]eve[5]ry [3]need, [1]I [5]wor[1]ship [2]you, [1]I [3]wo[2]r[1]ship [1]you,
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

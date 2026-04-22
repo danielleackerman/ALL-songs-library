@@ -32,3 +32,12 @@ You're the [Em]Living [F]Water [Em] [Dm]
 [F/G]Never Drying [C]Fountain [G/B] [C]
 [Em]Comforter and [F]Counselor [Em] [Dsus]
 [D7]Take complete [F/G]control! [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

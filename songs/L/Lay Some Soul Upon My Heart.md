@@ -37,3 +37,12 @@ id: 8A6A1CA1-DEA0-4E32-A672-81E34E7A5157
 And [Bb]love that [Bb7]soul [Bb7/D]through [Eb]me.  [Eb7/G]
 And [Ab]may I ever [Eb/Bb]do my [Cm7]part
 To [Eb/Bb]win that [Bb]soul [Bb7/D]for [Eb]Thee.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

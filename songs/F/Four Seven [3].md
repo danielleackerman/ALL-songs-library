@@ -61,3 +61,12 @@ The rest of the song:  D    E    A   B  (for 2nd guitar, see chords
 above)
 
 Woh, e-yeah, woh ho oh oh oh...
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

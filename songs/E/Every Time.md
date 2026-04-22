@@ -85,3 +85,12 @@ VAMP:
 
 ENDING:
 [Eb13]Eve[G13]ry [Ab13]time [A13]I [Bb13]come [C13]into this [Db13]place, I [D13]feel the [Eb13]power.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

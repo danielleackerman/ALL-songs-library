@@ -57,3 +57,12 @@ VERSE 2:
 CHORUS:
 [F/G]In the p[C]resence, Of [Em]Jehov[A/Db]ah, God A[Dm]lmighty, [F/G]Prince of [Em]Peace [Am] [Dm]
 [F/G]Troubles v[C]anish, Hearts are [Em]mend[A/Db]ed, [Dm]In the [F/G]presence of the [C]King
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

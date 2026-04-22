@@ -58,3 +58,12 @@ VERSE 3:
 VERSE 4:
 [G]The Lord has been so good to me, I feel like trav[D/F#]el[C#dim]ing [D]on,
 [G]Until that blessed home I see, I [G/D]feel like travel[D7]ing [G]on.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

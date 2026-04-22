@@ -75,3 +75,12 @@ For[Bm]ever[E]
 
 OUTRO:
 D  E7/D  Gm6/Bb  D
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

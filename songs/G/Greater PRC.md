@@ -75,3 +75,12 @@ Page 1
 [Dm7]
 [BbM9]And if our God is with us, then what can stand against ----
  Page 2
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

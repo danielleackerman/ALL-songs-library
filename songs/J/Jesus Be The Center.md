@@ -63,3 +63,12 @@ And [Bb]every knee will [Dm7]bow
 And [Gm9]every tounge
 [Bb]Shall con[F/A]fess You
 [Gm9]Jesus, Jesus[C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

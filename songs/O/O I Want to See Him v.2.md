@@ -62,3 +62,12 @@ VERSE 4:
 Then my Lord directs my bark; He doth [A7]safely [D]keep,
 [G]And He leads me gently on through this world below;
 He's a real friend to [Em/C#]me, oh, I [D]love Him [G]so.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

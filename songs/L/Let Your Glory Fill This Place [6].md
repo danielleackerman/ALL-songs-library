@@ -69,3 +69,12 @@ And Your [Bb/C]love we have embraced.
 Holy [Bbm/F]Spirit take [F]control
 And let this [C/D]place be Your [Dm]abode
 And let Your [Gm7]glory [C7]fill this [F]place
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

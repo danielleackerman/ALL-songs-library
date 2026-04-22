@@ -51,3 +51,12 @@ When e[F#m]verybody else has gone
 I’ll be the one that’s holding you
 
 Instrumental: A  G  Bm  D  A
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

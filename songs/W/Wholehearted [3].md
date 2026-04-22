@@ -41,3 +41,12 @@ With my [Eb]whole [Bb/G]life, I'm going to [Fm7]live it for [Bb/D]You. [B°7]
 
 [Cm]Take my [Bb/C]heart, every [Cm]secret [Bb/G]part.
 [Ab]Wholehearted, in [Bb7]love with [Eb]You.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

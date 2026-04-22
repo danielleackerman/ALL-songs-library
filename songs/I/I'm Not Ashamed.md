@@ -66,3 +66,12 @@ BRIDGE:
 
 [G]  [F/Bb]  [C2]  [F]  [G]  [F/Bb]  [C]
 [Bm7]  [Bb2]  [Am7]  [F]  [G/D]  [Bb/D]  [C]  [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -63,3 +63,12 @@ As a na[F]tion wit[C]h no room fo[Dm]r it[Bb]s King
 
 [F]Unit[C]ed States [Dm]of America
 Looks like an[Bb]other silent ni[F]ght[C][Dm][Bb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

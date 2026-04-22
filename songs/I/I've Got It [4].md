@@ -41,3 +41,12 @@ Key of: G
 [D7]Somethin bout the power of the Holy Ghost,
 [(Db7  C7)]I cant explain it but
 I've [G]got it, I've [C]got it, I've [G]got it.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

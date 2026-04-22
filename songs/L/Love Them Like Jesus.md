@@ -61,3 +61,12 @@ Jus[Am]t know th[F]at He loves them, and stay by their side,
 And[C] love[G] the[C/E]m like[F] Jesus.     (love them like Jesus)
 		  C       Em  			Am   C/E - F (let ring)
 Love them like Jesus!        Love them like Jesus
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

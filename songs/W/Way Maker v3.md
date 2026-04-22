@@ -70,3 +70,12 @@ light in the darkness, My God, that is who you are
 VERSE 2:
 You are here touching every life, I worship you, I worship you.
 You are here meeting every need, I worship you, I worship you,
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

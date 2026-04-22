@@ -52,3 +52,12 @@ We worship, we worship, and praise the God of Israel
 Alternate Vamp:
 We worship no other, we praise the God of Israel
 We worship no other, we praise the God of Israel
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

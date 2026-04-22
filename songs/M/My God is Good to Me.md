@@ -57,3 +57,12 @@ Final chorus:
 More than this [Dm]world could be, He's [Dm7/G]so good to [CM7]me [A7b9][Dm7]
 His [C]Spirit [G/F]came to [F]me, and [G7]gave me [F/C]victo[C]ry. [A7b9]
 My God is [Dm]good to [Dm7/G]me. I can't [Csus][C]complain. [Gdim][A] (2x)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

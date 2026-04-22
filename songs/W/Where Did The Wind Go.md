@@ -65,3 +65,12 @@ When the [Eb/Bb]Master says [Cm]enough, they [Fm]just [Bb7]go [Eb]away
 
 The [Ab]storms don't [G]de[G7]cide how [Cm]long they may [Ab]stay [Ebdim7/A]
 When the [Eb/Bb]Master says [Cm]enough, they [Fm]just [Bb7]go [Eb]away
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

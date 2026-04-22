@@ -80,3 +80,12 @@ Noth[Fm]ing in the world that I can stand upon
 Apart from you, apart from you
 [Ab]There’s nothing in my life, nothing in my life
 That you[Fm] haven’t given to [Eb]me[Bb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

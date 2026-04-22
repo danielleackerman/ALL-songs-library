@@ -71,3 +71,12 @@ Where I'm [Am]lost enough to [G/B]let myself be [C]led
 And [Am]so You've been here [G/B]all along I [C]guess
 It's [G/B]just Your [Am]ways and You are [Dsus]just plain [D]hard to [G]get
 [D/G]     [G]   [C/G]     [G]   [D/G]     [G]   [C/G]     [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

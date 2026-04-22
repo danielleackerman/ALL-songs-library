@@ -39,3 +39,12 @@ And it's d[C7]eep down [B7]in my h[E7]eart.
 - I've got the joy
 - I've got the peace
 - I've got the power
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

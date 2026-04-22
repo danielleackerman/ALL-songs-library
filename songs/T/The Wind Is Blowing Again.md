@@ -58,3 +58,12 @@ So open up your heart and let the wind blow in
 You'll never be the same again
 For the wind that blew at Pentecost
 Praise God it's blowing again.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

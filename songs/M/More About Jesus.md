@@ -64,3 +64,12 @@ CHORUS:
 [Eb]More, more a[Eb7]bout [Ab]Jesus,
 [Ab]More of His sa[Absus2&4]ving [Ab]fulness see,
 [Eb7]More [Ab/C]of [Eb7/Bb]His [Ab/C]love [Db6]who [Ab/Eb]died [Eb7]for [Ab]me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -35,3 +35,12 @@ Heh – heh – give the Lord a shout of praise
 [Em]God is most[C] h[B7]igh over all the earth
 [Em]Jesus has [Em]conquered, satan’s defeated,
 T[Em]he enemy i[B7]s under my feet   (so I will…)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

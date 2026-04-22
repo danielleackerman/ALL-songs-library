@@ -48,3 +48,12 @@ Even in death He remembered,
 the thief hanging by His side
 He spoke with love and compassion
 Then He took him to Paradise.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

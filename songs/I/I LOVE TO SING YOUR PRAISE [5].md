@@ -47,3 +47,12 @@ It brings the [C9]vic[D2] to [Em] y [G/B] [C]
 [Em7]  No matter  what I [Am7]face
 Through all [/B] of [/C] my [D2] days
 I love to [C/D]sing Your [G2] praise [C/D] [G2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

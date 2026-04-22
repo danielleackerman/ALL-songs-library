@@ -54,3 +54,12 @@ So I p[C]ray to God not hol[G]ding on to thin[Asus4]gs you left undone
 [D]You were there when I ne[Cadd9]eded you   [G]
 You were there when the sky broke [D]wide wide open
                                            (wide wide open)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

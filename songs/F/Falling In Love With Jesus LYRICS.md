@@ -58,3 +58,12 @@ Knowing that He'll never leave me
 
 Trusting that He'll always keep me
 He's the best thing I've ever ever known
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

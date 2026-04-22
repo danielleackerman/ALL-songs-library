@@ -54,3 +54,12 @@ CHORUS:
 [C7/E]I was the [F]tak[C/E]er,[Dm7]   [F/G]He was the [F/C]giv[C]er [A#]
 [A7]Dying while [C/D]I go [Dm7]free,[G7]    [Dm7]His only [G7]reason was [Am7]me [C/G][F][C#dim]
 That [Dm7]one earthly [G7]reason, that [Dm7]one earthly [G7]reason was [C]me [F/C] [C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

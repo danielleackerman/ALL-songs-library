@@ -48,3 +48,12 @@ BRIDGE:
 Guide me in Your truth and t[Db]each me my [Db/F]Savior.[Db/F]
 
 Chorus  x  2                            end
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

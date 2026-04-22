@@ -32,3 +32,12 @@ Key: [C]
 [C]As I worship [Em]You and [F]lift You [Dm]higher
 
 [Dm]I can feel Your [G]presence, [C]Lord  [F/G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

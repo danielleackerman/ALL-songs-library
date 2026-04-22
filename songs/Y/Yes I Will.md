@@ -55,3 +55,12 @@ To the [E]cross where the [B]river runs [F#m]Crimson even still, yes I will
 
 (spoken – no chord)
 Help me Jesus, when I feel afraid
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

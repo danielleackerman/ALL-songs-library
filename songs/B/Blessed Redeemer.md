@@ -53,3 +53,12 @@ VERSE 3:
 How can my [Am7]praises ever find e[Em7]nd
 Through years unn[G]umbered on Heaven’s s[D]hore
 My songs shall praise [Am7]Him forevermor[C]e (Album has Chorus repeating...)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

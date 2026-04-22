@@ -49,3 +49,12 @@ For [F]Thou hast cre---[F7]ated, hast [Bb2]all things [Eb/Bb]creat---[Bb]ed
 [Bb2]And for Thy [Bb7/D]pleasure, [Eb2]they are cre----[Cm7]ated
 
 [Bb/F]Thou [Gm7]art [Cm7]worthy [F7]o [Bb]Lord.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

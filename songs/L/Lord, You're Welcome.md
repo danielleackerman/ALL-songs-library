@@ -30,3 +30,12 @@ Key of: Ab
 [Db/F]Worthy of our [Dbm/Fb]praise
 Lord, You're [Ab/Eb]welcome
 [Bbm7/Eb]Into this [Cm/Eb]ho[Bbm/Eb]ly [Db/Ab]pla[Ab]ce
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

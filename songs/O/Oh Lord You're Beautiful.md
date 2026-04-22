@@ -34,3 +34,12 @@ Oh [G]Lord, please [C]light the f[D2]ire [D]   [DsUs]      [D]
 That [G]once burned [C]bright and [D]clear [DsUs]      [D]
 Re-[Em]place the lamp of [C]my  f[D]irst l[Em]ove
 That b[C]urns with h[D]oly f[G]ear
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

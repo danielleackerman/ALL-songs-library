@@ -40,3 +40,12 @@ He is all my righteousness I stand complete in Him and worship Him
 He is all my righteousness I stand complete in Him and worship Him
 He is all my righteousness I stand complete in Him and worship Him
 worship Him Christ the Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -88,3 +88,12 @@ His [Bm]blood[G](never failing)
 He presents our souls to God
 
 Great Song!  Any questions let me know.  God Bless!!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

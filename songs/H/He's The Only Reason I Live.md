@@ -85,3 +85,12 @@ It only leaves you empty and longing for more
 Oh, He's the only reason I live, but oh, what a reason
 He's the only reason I live, but oh, what a reason!
 He's the only reason I live, but oh, what a reason!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

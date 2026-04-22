@@ -49,3 +49,12 @@ What a [Fm]day, glorious [Bb]day that will [Eb]be
 No more [Bb]sickness, no pain, no more [Eb]parting over there;
 And for[Ab]ever I will be with the [Eb]One who [Bb/D]died for [Cm]me,
 What a [Fm]day, glorious [Bb]day that will [Eb]be.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -32,3 +32,12 @@ Forever   I'll [Cm]remember the [Bb]price that you [Ab]paid
 [Cm]Forever You are [Eb]holy
 Forever You are [Bb]worthy
 Forever I'll sing [Cm]glory    to   [Bb]Your [Ab]name
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

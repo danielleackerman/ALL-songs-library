@@ -38,3 +38,12 @@ id: 29D36F0A-1E30-4D68-99BC-8EC2B3BAE66A
 To [Ab]God be the [Ab/Gb]glory, [Db/F]now and for---[Dbm6/E]ever,
 
 [Db/Bb]Praise His [Db/Eb]holy [Ab]name.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

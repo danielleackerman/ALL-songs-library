@@ -92,3 +92,12 @@ He's my Comfort, Always holds me close
 Hallelujah, I am not alone,
 
 He's my Comfort, Always holds me close
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

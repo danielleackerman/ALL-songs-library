@@ -60,3 +60,12 @@ Lift him [Bbm]up! [Ab7][Eb/G] Lift him up! [Bbm][Ab7][Eb/G]
 Lift him [Bbm]up! [Ab7][Eb/G] Lift him up! [Bbm][Ab7][Eb/G]
 Lift him [Bbm][bass run]up! Lift him [Bbm]up!
 Lift him [Bbm][bass run]up! Lift him [Bbm]up! [drum hit][Bbm9]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

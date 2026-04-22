@@ -29,3 +29,12 @@ We are [Gm9]standing in the pre[C/E]sence of the [Bb/F]King [F]
 [Bb/C]Let us bow [F]down [F/A]and offer [Dm/Bb]praises [D7b9]
 
 To the [Gm9]Lamb of God who [C/E]reigns forever[F]more
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

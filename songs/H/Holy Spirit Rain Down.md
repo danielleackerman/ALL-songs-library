@@ -51,3 +51,12 @@ BRIDGE:
 [G]So o[C]pen up heaven, [B7]open it wide,
 [Em7]Over Your church, and [Dm]over our lives.
 [G/D]Holy [D]Spi[C/G]r-it [G]rain down.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

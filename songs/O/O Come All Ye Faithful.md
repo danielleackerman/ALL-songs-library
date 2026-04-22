@@ -40,3 +40,12 @@ O [Em]sing all ye [D]bright     Hosts of[D/A] heaven[A]          a[D]bove
 [G]Yea Lord we [D]greet Thee     [Em]Born this happy [C]morn  -  [D]ing
 [Em]Jesus to [D]Thee  be  all  [D/A]glo   -[A]    ry   [D]giv'n
 [G]Word  of  the  [C]Fa  -  [G]ther     [Am]Now   in   [Em]flesh   ap[D]pearing
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -57,3 +57,12 @@ t[D]ry??.Yeah,[Cadd9] Yeah.  Yeah I want to [Em]get inside the [D]you you're
 hiding [Cadd9]from.  Yeah I want to [Em]get inside the [D]you you're
 hiding [Cadd9]from.  I want to [Em]get inside the y[D]ou that you are
 hiding [Cadd9]from.      [G](Outro)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

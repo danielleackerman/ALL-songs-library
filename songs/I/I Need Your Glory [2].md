@@ -49,3 +49,12 @@ I [F2]need your glory [C/E], I want your glory[Bb/D]
 [F/A]Less of [Bbmaj7]me and more of [Dm9]you is [Bb2]what I [Csus]need [C7b9]
 Show [F2]me your glory [C/E], Show me your power[Bb/D]
 [F/A]Less of [Bbmaj7]me and more of [Dm9]you is [Bb2]what I [Csus]need [C7b9]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

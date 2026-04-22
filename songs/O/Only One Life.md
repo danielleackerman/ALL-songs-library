@@ -52,3 +52,12 @@ When    [Dm7]you    recall    you    [F/G]have   but   [G/B]one  [C]life.
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

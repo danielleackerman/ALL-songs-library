@@ -40,3 +40,12 @@ Medley: there is power in the blood / nothing but the blood / how I got over
 Jesus is gone away but he's coming back again 4x
 
 Os apo slow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

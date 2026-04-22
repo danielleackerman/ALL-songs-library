@@ -51,3 +51,12 @@ I [Am9]give to You my  heart and soul
 [Dm9]Take my life and [Dm7]take control
                                            [G7] [CM7]to End
                                             I'll pay the price...
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

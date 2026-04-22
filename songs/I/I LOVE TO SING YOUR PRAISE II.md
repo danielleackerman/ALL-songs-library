@@ -56,3 +56,12 @@ With all my brothers snd sisters
 Singing praise to the King
 
 Mod apo med, adoration, praise, love
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

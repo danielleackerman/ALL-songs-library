@@ -33,3 +33,12 @@ BRIDGE:
 [Db/F]Not [Ebm]just prayers I [Db] pray
 Lord [Gb]I [Db/F]have Ebm]come [Bb/D]to [Eb7sus4]worship You
 And [Gb/Ab]give You [Ab]praise
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

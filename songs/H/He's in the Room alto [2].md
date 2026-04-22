@@ -162,3 +162,12 @@ ENDING:
 
 Writers: David Jennings, Bethany Jennings, Savannah McKee
 © 2022
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -48,3 +48,12 @@ He's going to fly away[C][G]
 A (4 measures)   				7
 A  G  E  G  D  E  F#  G  (-Bass 4 Times-)
 			      (-Band 8 Times-)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

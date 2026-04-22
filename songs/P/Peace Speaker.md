@@ -75,3 +75,12 @@ Yes I [Gm/C]know Him [Bb/C]by [Fsus][F]name.
 
 I'm glad I know the [F/G]Peace [Gm]Speaker,     [Bb/C]
 Yes I [Gm/C]know Him [Bb/C]by [Fsus][F]name.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

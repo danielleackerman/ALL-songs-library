@@ -93,3 +93,12 @@ He is calling out your name
                  C
 A new light is shining
 Sal[G]vations o[D]n its w[E]ay
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

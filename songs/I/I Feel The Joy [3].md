@@ -49,3 +49,12 @@ I   feel   the   [Ab7]joy   of   the   Holy   [Bb13]Ghost
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

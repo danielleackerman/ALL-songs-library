@@ -26,3 +26,12 @@ Lord, I [Ab]come to [Bb/Ab]give You [Gm7]praise   [Cm7]
 For [AbM7]You alone are [Bb/Ab]worthy
 Of all the [Gm7]honor and the [Csus]glo[C7]ry
 Lord, I [Fm7]come to [Ab/Bb]lift up Your [EbsusEb]name.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

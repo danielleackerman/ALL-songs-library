@@ -51,3 +51,12 @@ CHORUS MOD:
 [Dm]In [Fm]Christ a[Bb]lone, I place my [F]trust, And find my [Gm7]glory in the [C]power of the [F]cross
 [Dm7]In every [Bbmaj7]vic[C]tory, Let it be [F]said of [Dm7]me,
 My [Gm7]source of strength, [Gm] my [C]source of hope, Is Christ a[F]lone [Dm] [Bb] [F] [Dm] [Bb] [F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

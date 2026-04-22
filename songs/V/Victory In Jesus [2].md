@@ -73,3 +73,12 @@ About the angels singing,
 And the old redemption story,
 And some sweet day I'll sing up there
 The song of victory.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

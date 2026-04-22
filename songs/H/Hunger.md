@@ -83,3 +83,12 @@ CHORUS:
 I'm not [C2]waiting, not any[D]more, I [Em]need You, Lord, [G]I need You, Lord
 
 Hunger lyrics © Integrity Worship Music, Integrity's Praise Musi
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -38,3 +38,12 @@ Lord I [G]seek Your face in this [D/F#]Holy place
 You [Am9]alone deserve my [C/D]highest [G]praise
 
 matchless, eternal lovely name
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

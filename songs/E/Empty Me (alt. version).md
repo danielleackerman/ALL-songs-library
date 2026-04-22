@@ -59,3 +59,12 @@ CHORUS:
 'cause I want [F#]more, ‘cause I want more[C#sus],
 'cause I want [D#m]more, ‘cause I want m[B2]ore of You Jesus
 [F#]   Thank You[C#sus]      Je[D#m]sus  [B2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

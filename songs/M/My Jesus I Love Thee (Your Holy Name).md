@@ -58,3 +58,12 @@ In [G]mansions of glory and[D] endless delig[G]ht
 I'll[G] ever adore Thee in[D] Heaven so[G] bright
 I'll[G] sing with the glittering[D] crown[G/B] on  [C/G] my   [G] bro[D]w
 If[G] ever I loved Thee, My [D/F#]Jesus [D]'tis[G] now
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

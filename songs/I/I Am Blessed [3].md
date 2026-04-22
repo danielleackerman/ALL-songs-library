@@ -81,3 +81,12 @@ I will lift my heart to praise hime
 For He's brought me thru my test
 I will praise His name forever
 I am blessed
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -65,3 +65,12 @@ The trump shall resound and the Lord shall descend!
 [E]Even[B] so, it [E]is well with my soul!
 
 Chorus: (2X)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

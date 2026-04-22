@@ -29,3 +29,12 @@ CHORUS:
 	[Bb]Fix my [C]mind and thoughts on e[A7sus]ternity.[A7]
 	[Bb]Come em[C]power me with Your [Am7]truth and [Dm]life.
 	[Bb]Holy [Am7]Spirit move in[Dm]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

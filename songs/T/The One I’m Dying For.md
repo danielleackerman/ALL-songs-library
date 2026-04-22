@@ -66,3 +66,12 @@ You're the one, You're the one
 You're the one, You're the one I'm dying for
 
 The One I'm Dying For lyrics © R.i. Bowman Music, Makem Smile Music
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

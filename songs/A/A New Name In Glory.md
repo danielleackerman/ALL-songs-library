@@ -54,3 +54,12 @@ When the heavens opened and I saw, That my name was written down.
 VERSE 3:
 In the Book ’tis written, “Saved by Grace,” O the joy that came to my soul!
 Now I am forgiven, and I know, By the blood I am made whole.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

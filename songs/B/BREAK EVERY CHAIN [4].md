@@ -47,3 +47,12 @@ BRIDGE:
 [Fm]I [Fm/Ab]hear the [Db]chains [Db/F] fallin' [Ab]  [Eb]I hear the chains fallin'
 
 Mod apo slow, mod gospel slow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -54,3 +54,12 @@ VERSE 3:
 
 TAG:
 And [Am7]take us to [G]Heaven to [Am7]live with [D/F#]Thee [G]there
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

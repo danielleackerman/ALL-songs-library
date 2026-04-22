@@ -30,3 +30,12 @@ To see You [B]high and lifted [C#m]up, [A]shining in the light of Your [B]glory
 
 TAG:
 [E]Holy, Holy, Holy, [B]Holy, Holy, Holy, [C#m]Holy, Holy, [A]Holy, I want to [E]see You  [A] [B] [E]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

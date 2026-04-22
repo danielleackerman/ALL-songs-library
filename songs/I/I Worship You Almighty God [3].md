@@ -138,3 +138,12 @@ Stayed on Jesus
 The devil dont like it cause my mind, is
 Stayed on Jesus
 Hallelu, Hallelu, Hallelujah
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

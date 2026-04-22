@@ -81,3 +81,12 @@ I'm over[C]whelmed, I'm over[G]whelmed by [C]You.[Am]
 There is [F]no one more beautiful[C]
 God You [Dm]are the most [Am]beautiful[F]
 C - Dm Am - F C
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

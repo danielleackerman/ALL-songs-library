@@ -50,3 +50,12 @@ There are depths of love that I yet may know
 Ere Thee face to face I see
 There are heights of joy that I yet may reach
 Ere I rest in peace with Thee.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

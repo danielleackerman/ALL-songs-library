@@ -56,3 +56,12 @@ id: 7EEA5DCC-940C-413A-AABF-B4625247F353
 [G7]To bring to us redemption [C2]story
 [A7]Then He died but He rose again, [Dm7]just for you and me
 [Bb2]Oh, but I'm [F/C]glad,  [C2]I'm glad [C2/E]He [F]did.    (Repeat Verse:1)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

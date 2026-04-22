@@ -44,3 +44,12 @@ id: 997E3551-7B88-4FDA-9A7A-73B5DF6316BE
 
 I feel like clapping my hands...
 I feel like leaping for joy...
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

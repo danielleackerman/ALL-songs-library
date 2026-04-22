@@ -58,3 +58,12 @@ There are no [F]orphans
 [Gm]  There are no [Gm]strangers[Eb], There are no [Bb]outcasts [F]
 There are no [Gm]orphans[Eb] of [F]God, So many [Gm]fallen [Eb], but Halle[Bb/D]lujah  [Eb]
 There are no [F]orphans [Bb]of G[Eb]od  [Bb] [F] [Gm] [Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

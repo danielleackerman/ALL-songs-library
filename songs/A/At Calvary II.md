@@ -70,3 +70,12 @@ O the grace that brought it down to man!
 O the mighty gulf that God did span
 
 At Calvary!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

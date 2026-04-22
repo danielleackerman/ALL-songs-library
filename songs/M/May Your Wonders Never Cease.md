@@ -56,3 +56,12 @@ Dm  = xxx231
 Am  = xx221x
 E   = x221xx
 F   = 133211
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

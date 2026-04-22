@@ -50,3 +50,12 @@ OUTRO:
 [Dm]Just to [C/G]know [Dm7/G]You [Am]Lord
 [Dm]Just to [C/G]know [Dm7/G]You [Am]Lord
 [Dm]Just to [C/G]know [Dm7/G]You [C]Lord [F/G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

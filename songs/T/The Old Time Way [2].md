@@ -62,3 +62,12 @@ Only through His blood there’s salvation
 Not of works but by grace through faith
 Standing firm on the solid foundation,
 I’ll stay in the old time way
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

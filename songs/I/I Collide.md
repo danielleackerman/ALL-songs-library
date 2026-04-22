@@ -35,3 +35,12 @@ www.jarsofclay.com
 The whole thing: F# - B (then occaisonally to D)
 
 That’s it...thank you...(theflor@hotmail.com)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

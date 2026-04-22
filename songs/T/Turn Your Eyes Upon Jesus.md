@@ -57,3 +57,12 @@ His [F]word shall not fail [Bb]you [F7]He [Bbm7]prom[Gm]ised
 Bel[F]ieve [C]Him [F]and [C7]all will [C]be [F]well
 Then go to a [Bb]world [F]that is [G7]dy[C]ing
 His [F]per[G7]fect [Eb]sal[C]va[Dm]tion [G7]to [C]tell
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

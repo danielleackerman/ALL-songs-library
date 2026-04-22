@@ -28,3 +28,12 @@ Key of: C
 [Gm7]O, [C7(b9)]how I love [FM7]Je[Gm7 - C7(b9)]sus,
 [FM7]O, [A7]how I love [Dm7]Je[F7/C]sus,
 [Gm]Becau[F/A]se [Bb]He [F/C]first [C7(b9)]loved [F]me!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

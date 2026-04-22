@@ -67,3 +67,12 @@ VERSE 4:
 When the re[G]deemed (when the redeemed) are gather[C#dim]ing [D]in; (are [A]gathering [D]in;)
 [G]And we’ll hear His in[C/G]vi[G]tation, "Come, [Am/C]ye [C]blessed of the [G]Lord,"
 When the re[G]deemed (when the re[Em]deemed) [G/B]are [D7]gath[D6]er[D7]ing [G]in; (are [C]gathering [G]in;)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

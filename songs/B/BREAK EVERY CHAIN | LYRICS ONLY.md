@@ -47,3 +47,12 @@ VERSE 3:
 SAT(Soprano-lead)
 
 I hear the chains fallin'
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

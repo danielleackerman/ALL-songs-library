@@ -63,3 +63,12 @@ CHORUS:
 [G]    [G/B]      [D]    [Bm]     But [A]here [G]goes[G/B][D]
 [Bm]      And God [A]only knows[G][G/B][D]
 [Bm]      But [A]here [G]goes[G/B][D][Bm][A][G][D][Bm][A][D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

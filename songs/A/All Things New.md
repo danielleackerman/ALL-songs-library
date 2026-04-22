@@ -52,3 +52,12 @@ CHORUS:
 OUTRO:
 [G] [Dsus]All things [C]new, [G]all things [A7sus4]new [C]in [G]me
 [C] [Dsus]All things [C]new, [G]all things [A7sus4]new [C]in [G]me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

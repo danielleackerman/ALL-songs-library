@@ -37,3 +37,12 @@ id: FE5F7622-C62A-4815-8652-5608CACE5452
 4. I call You Savior....          8. I call You awesome......
 
 5. I call You all that...
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

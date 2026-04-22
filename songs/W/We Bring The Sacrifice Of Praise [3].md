@@ -60,3 +60,12 @@ Jesus [G]fills my [F]heart with a [C]song
 It's a[C]mazing what [F]praising can [C]do
 Halle[G]lu  [C]jah
 Medley: standing on the promises
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

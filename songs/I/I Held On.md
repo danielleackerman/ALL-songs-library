@@ -63,3 +63,12 @@ I don't [Cm]claim to be a [Cm/A#]hero, I [G#]don't have all the [G#/A#]answers.
 I held [D#]on, 'til the storm was [A#/D]over,
 Not be--[Cm]cause I'm great,  or be--[Cm/A#]cause I'm good,
 Or be--[G#]cause I'm strong,  I held [D#]on, [A#]   I held [G#]on.  [D#]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

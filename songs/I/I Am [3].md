@@ -58,3 +58,12 @@ BRIDGE:
 [Gm]I am your comfort and [F]relief from your stress
 [Bb]I am Strength, [Bb]I am Faith, [Eb]I am Love, [Eb]I am Power
 [Gm]I am your freedom [F]this very hour  (TO CHORUS)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

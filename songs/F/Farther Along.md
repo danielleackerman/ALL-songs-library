@@ -83,3 +83,12 @@ So put your voice up to the[Em7] test
 Sing Lord, come[D] soon
 
 (Chorus)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

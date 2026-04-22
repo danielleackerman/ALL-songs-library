@@ -59,3 +59,12 @@ I have found the joy no tongue can tell, how it's waves of glory roll
 It is like a great o'er flowing well, springing up within my soul.
 
 Os apo fast
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

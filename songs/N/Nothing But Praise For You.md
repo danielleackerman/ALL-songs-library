@@ -52,3 +52,12 @@ And life more abundantly
 When you filled me with your spirit
 It's priceless and cannot be purchased with money
 I have nothing but praise for you
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

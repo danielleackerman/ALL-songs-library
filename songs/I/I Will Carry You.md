@@ -68,3 +68,12 @@ While your [Db]heart [Eb]beats [Ab]here
 [Ab]I will praise the [Eb]One Who's chosen [Db]me
 To [Eb]carry [Ab]you   [Db]
 [Ab]  [Db]  [Ab]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

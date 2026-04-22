@@ -62,3 +62,12 @@ She says "Especially for the moon"
 
 Words and music by Rich Mullins
 © 1991 Edward Grant (ASCAP)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

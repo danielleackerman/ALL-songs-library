@@ -117,3 +117,12 @@ There's a place for me
 I'm a [Em]child [D]of [C]God
        G
 Yes, I am
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

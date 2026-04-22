@@ -60,3 +60,12 @@ VERSE 4:
 I’ll ev[Bb/F]er a[F]dore Thee [F]in [C7]heav[C]en so [F]bright.
 I’ll sing [Bb]with [F]the [C7/G]glit[C/E]tering [F]crown [Gm/Bb]on my [F/C]brow;
 [F]If ev[Bb/F]er I [F]loved Thee, my [F/C]Je[Am/C]sus, [C7]‘tis [F]now.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

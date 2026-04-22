@@ -27,3 +27,12 @@ Hallelu[Am]jah, He’s a pr[D]ayer answering [G]God  [G/B]
 We p[C]rayed in Jesus n[B]ame and by f[Em]aith the answer c[A/C#]ame
 
 Ha[G/D]llelujah[Em], He’s a pra[Am]yer answ[C/D]ering G[G]od
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

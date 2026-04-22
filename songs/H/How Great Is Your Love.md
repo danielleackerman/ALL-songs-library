@@ -57,3 +57,12 @@ C#  Eb  F  C# ...last "reign" is on Dm; then play Bb
 and go to chorus)
 
 CHORUS:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

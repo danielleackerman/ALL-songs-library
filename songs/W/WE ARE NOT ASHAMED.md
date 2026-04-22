@@ -76,3 +76,12 @@ Let the redeemed of the Lord say so
 Stand up and tell it everywhere You go
 The gospel
 We are not ashamed
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

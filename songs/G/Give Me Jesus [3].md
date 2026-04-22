@@ -53,3 +53,12 @@ Give me [F9]Jes[C]us
 [D------2-----------2---------2----------2]
 [A------3-----------3---------0----------0]
 [E------0-----------0---------0----------0]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

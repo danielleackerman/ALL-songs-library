@@ -69,3 +69,12 @@ I'll tell of the pit with it's gloom and despair
 I'll praise the dear Father, who answered my pray'r
 I'll sing my new song, the glad story of love
 Then join in the chorus with the saints above.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

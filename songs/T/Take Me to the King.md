@@ -129,3 +129,12 @@ Take me to the [C2]King   [D2/C]   [Ddim/C]   [C2]
 [C2]I surrender [Dm]all, [G]I surren[F/G]der [C2]all   [F/G]  [Fdim/G]
 [C]All to [F/C]thee [C]my [C7]blessed [G/F]Sav - [F]ior
 [C]I sur - [F/G]ren - [Fdim/G]der [C2]all
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

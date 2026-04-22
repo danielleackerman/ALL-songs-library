@@ -31,3 +31,12 @@ id: 7B233889-1C71-4DA9-BAEE-ACFB68435BA4
 And   I   [BbM7]won’t   [Am7]turn   [Gm7]back
 
 [Bb/C]Cause   I   [F/C]want    see    [C7]Jesus    [Bb/C]some – [F]day.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

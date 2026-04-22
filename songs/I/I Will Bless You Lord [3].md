@@ -46,3 +46,12 @@ I will [Bb]bless [Gm]You, [C]Lord.[Am]
 How my [Bb]soul cries [Dm]out
 for [C]You my [Dm]God.
 [C]I  [F]will [Gm]bless [Bb]You, [F]Lord.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

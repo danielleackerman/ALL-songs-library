@@ -62,3 +62,12 @@ VAMP:
 [D/F#]     And I wi[C2/E]ll follow You[D/F#] all of[G] my days
 
 repeat VAMP ad lib and fade
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

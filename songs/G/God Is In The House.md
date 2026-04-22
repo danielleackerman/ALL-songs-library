@@ -48,3 +48,12 @@ TAG:
 [Gsus/E]We're gonna serve the [Gsus/F]Lord (3x)
 As for [G/D]me and my [Em7]house
 [Gsus/A]We're gonna serve the mighty [Gsus/E]Lord   [C/D]    [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

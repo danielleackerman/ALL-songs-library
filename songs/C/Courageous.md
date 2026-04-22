@@ -71,3 +71,12 @@ BRIDGE 1:
 BRIDGE 2:
 In the [C]war of the [G]mind I will [Em7]make my [D]stand
 In the [C]battle of the [G]heart and the [Em7]battle of the [D]hand
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

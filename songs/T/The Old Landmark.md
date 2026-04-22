@@ -63,3 +63,12 @@ And whatever the sacrifice,
 My first love to restore
 My soul cries out just To be renewed,
 Like never before.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

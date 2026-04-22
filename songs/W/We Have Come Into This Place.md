@@ -37,3 +37,12 @@ And [Eb7]gathered in His [Eb7/G]name to [Ab2]worship
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

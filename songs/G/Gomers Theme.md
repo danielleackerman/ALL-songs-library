@@ -49,3 +49,12 @@ BRIDGE:
 There will come a t[A]ime, when she will fi[F#]nd; that he's not[B] there to
 give                                      B
 Her love and he'll be gone away from her forever
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

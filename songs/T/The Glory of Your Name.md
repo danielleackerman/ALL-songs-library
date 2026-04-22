@@ -50,3 +50,12 @@ And there is nothing in this life[Bb2]    that could take the place of [Gm7]   o
 and one love[Bb2]    one power to save us all   [Gm7]   one hope  and one truth   [Bb2]
 and one glory in it all.[F/A]......[Bb2]......[Dm7]..........
 and one glory in it all.[F/A]......[Bb2]......[Dm7]......[Csus]....    (repeat chorus)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

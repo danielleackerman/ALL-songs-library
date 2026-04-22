@@ -59,3 +59,12 @@ More than [Gm7]ever be[C7(b9)]fore, Lord I [Bb/F]need [F]You [Bb/C]
 More than [Eb/C]ever [F7]before, I've [A+/B]got to [Bb2]tell You, [Gaug]
 I love You [F/C]now [Dm7]more than [Gm7]e[C7(b9)]ver be[fore. [Bb/C]
 I love You [F/C]now [Dm7]more than [Gm7]e[C7(b9)]ver be[fore. [Bb/C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

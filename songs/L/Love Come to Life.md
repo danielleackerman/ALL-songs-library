@@ -62,3 +62,12 @@ Love come to life, love come to life, bring love to life inside of me
 CHORUS:
 
 BRIDGE (1st line x4)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

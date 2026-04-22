@@ -42,3 +42,12 @@ id: ABD5CC83-7075-4518-8DB2-A899EF2A9398
 
 [Ebsus4]There's an [Fm7]army [DbM7]rising [Ab]up  (Repeat 2x's)
 [Ebsus4]To break ev'ry [Fm7]chain, Break ev'ry [DbM7]chain, Break ev'ry [Ab]chain.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

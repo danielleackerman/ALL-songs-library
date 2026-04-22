@@ -39,3 +39,12 @@ You're rich in love and your slow to anger and your name is great and your heart
 
 VERSE 3:
 And on that day when my strength is failing the end draws near and my time has come still missile will sing your praise on ending 10,000 years and then forevermore I will worship your holy name yes I will worship your holy name
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

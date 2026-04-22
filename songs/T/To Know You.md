@@ -71,3 +71,12 @@ CHORUS:
 
 End
 F#m    C#m   |   E   B  |  F#m    C#m   |   E	     B |  E
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

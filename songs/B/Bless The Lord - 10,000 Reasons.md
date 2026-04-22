@@ -53,3 +53,12 @@ W[C]e will overcome[G], By the [Em7]blood of the Lamb
 And the wor[D]d of our testimony,[C]Ev’ry[G]one overcom[Dsus4]e   (x4)
 
 10,000 Reasons (Bless the Lord) lyrics © Worshiptogether.com Songs, Sixsteps Music, Thank You Music Ltd., Atlas Mountain Songs
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

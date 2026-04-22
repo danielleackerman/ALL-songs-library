@@ -51,3 +51,12 @@ Though it makes no sense to [D]me, you make me wanna s[E]ing
 Make me wanna s[A2]ing[E][F#m][D]
 Sing another l[A2]ove song, sing another l[E]ove song
 Sing another [F#m]love song, I just wanna t[D]rust someone
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -63,3 +63,12 @@ More than[Am] you'll eve[Fmaj7]r know   [C]       [Fmaj7]           [G]Yeah yeah
 More than y[C]ou'll [Fmaj7]ever kno[C]w      [Fmaj7]           ([G]yea yea yea)
 More than you'l[Am]l eve[Fmaj7]r know[C][Fmaj7]
 [Gsus]More than y[C]ou'll ever know
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

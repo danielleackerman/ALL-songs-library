@@ -62,3 +62,12 @@ You're beauti[G]ful [Bm7][C], You are [Em7]treasured, you are [Bm]sacred, you ar
 
 You're beauti[G]ful,[Bm7] You're beaut[C]ifulYou were [Em7]meant for so much [Bm]more than all of [C]this
 You're beauti[G]ful, [Bm7] You're beauti[C]ful You are [Em7]treasured, [Gm]You are sacred, [D]You are [C]His
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

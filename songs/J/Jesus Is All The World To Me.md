@@ -50,3 +50,12 @@ VERSE 4:
 I [Eb]trust Him now, I’ll [Ab]trust Him when Life’s [Eb/Bb]fleet[Bb]ing [Bb7]days shall [Eb]end,
 [Ab]Beautiful life [Ab/Eb]with [Ab]such a friend, Beautiful life [Ab/Eb]that has [Ab6]no [Ab]end,
 [Fm]Eternal [E]life, [Ab/Eb]eternal [Ab/C]joy, [Ab/Eb]He’s [Bb7]my [Ab]friend.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

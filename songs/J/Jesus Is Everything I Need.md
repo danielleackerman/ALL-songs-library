@@ -91,3 +91,12 @@ CHORUS:
 His name is Jesus, my Lord.
 hes all i need
 hes all i need
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

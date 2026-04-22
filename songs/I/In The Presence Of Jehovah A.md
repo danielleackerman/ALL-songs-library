@@ -49,3 +49,12 @@ In hours [C/E]of distr[F2]ess [F]   [F/C]
 He will [C/D]come and [D6]meet [D]you [Dm/G]there [Dm7/G]       [G7]
 
 Mod apo slow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

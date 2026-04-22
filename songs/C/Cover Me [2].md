@@ -61,3 +61,12 @@ Cover me, cover me,
 With your Spirit, holy one, cover me
 Jesus loves me, this I know, for the bible tells me so,
 Hey, hey, oh
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -57,3 +57,12 @@ Still all my prayer shall be:
 More love, O Christ, to Thee
 More love to Thee, more love to Thee
 More love to Thee, more love to Thee
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

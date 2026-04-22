@@ -35,3 +35,12 @@ Until [Em]every[Am]one on [C]earth has heard[D]
 CHORUS:
 
 Until [EmEVERY[Am]one on [C]earth has heard[D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

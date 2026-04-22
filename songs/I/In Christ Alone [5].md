@@ -38,3 +38,12 @@ In Christ alone will I glory, For only by His grace I am redeemed
 For only His tender mercy, Could reach beyond my weakness to my need
 And now I seek no greater honor in just to know Him more
 And to count my gains but losses to the glory of my Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

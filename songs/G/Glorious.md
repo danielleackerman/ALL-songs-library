@@ -81,3 +81,12 @@ I was created to make Your praise glorious
 Glorious, yes, I was, yes, I was
 
 I was created to make Your praise glorious
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

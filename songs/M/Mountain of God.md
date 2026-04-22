@@ -85,3 +85,12 @@ To [A]stand upon the [B]mountain of [E]God
 [A]broken and af[Asus4]raid
 But You were [Em]there with [Em7]me,
 You were [G]there with [A]me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

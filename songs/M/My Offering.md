@@ -45,3 +45,12 @@ BRIDGE:
 [A2(no3)]My soul, my[E/G#] mind, my tho[F#m7]ughts, my t[E]ime
 My[A2(no3)] will, my breath, my [E/G#]very best
 [F#m7]Pouring out [B]at Your f[C#m]eet
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

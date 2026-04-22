@@ -50,3 +50,12 @@ VERSE 2:
 [Esus4]To break ev'ry [F#m7]chain, Break ev'ry [DM7]chain, Break ev'ry [A]chain.
 
 Mod gospel slow, mod apo slow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

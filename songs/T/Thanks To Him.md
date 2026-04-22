@@ -29,3 +29,12 @@ Medley: nearing home
 CHORUS:
 [F]Thanks [F6]to [F7]Him, [Bb]Thanks to Him,
 I’ll [C]never be [Cm(maj7)]the [C7]Same thanks [C+]to [F]Him
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

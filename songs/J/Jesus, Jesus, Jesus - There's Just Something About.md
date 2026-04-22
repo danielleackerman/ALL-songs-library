@@ -30,3 +30,12 @@ Like the [G9]fragrance after the [Gm7]rain. [C7]
 Let all [Bb]Heaven and earth [A7]proclaim
 [D7]Kings and Kingdoms will [G9]all pass away
 But there's [Gm7]something [C7]a[C13]bout that [F]Name.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

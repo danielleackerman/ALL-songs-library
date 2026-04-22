@@ -88,3 +88,12 @@ I[Cmaj7] live for You, nev[D]er looking back to w[B7]hat life used to be[Emin]
 I[Cmaj7] live for You and every[D]thing I ever thoug[B7]ht was mine[Amin7]
 I’d give it al[B/F#]l away to have Yo[B]u in my life[(Emin)]
 (Repeat)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

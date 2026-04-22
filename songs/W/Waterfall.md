@@ -77,3 +77,12 @@ ENDING:
 [Em7]   Raining [C2]down on me[G]
 [Em7]   Raining [C2]down on me[G]
 [Em7]   Your love is like [C2]a waterfall, waterfall[G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

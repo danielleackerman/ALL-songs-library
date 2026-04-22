@@ -80,3 +80,12 @@ We’re at Your [A]feet, We’re [E]at Your [B]feet, We’re at Your [A]feet, We
 
 OUTRO:
 [C#m7]Here at Your [A]feet, I l[E]ay my life [B]down
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

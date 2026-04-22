@@ -79,3 +79,12 @@ ENDING:
 [D/F#]Trust and Ob[G]ey[EM]
 [Em]Lord I love you[Am], please help me to
 [D/F#]Trust and Ob[G]ey[Em]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -53,3 +53,12 @@ It [F]soothes my doubts [Bb]and [Bdim]calms [F]my [A7]fears
 and it dries [Dm]all my [Fdim]tears
 the [Bb]blood that gives me [Bdim]strength from [F]day [Eb]to [D7]day
 it will [Gm]ne[D7/Gb]v[Gm]er [F]lose [Edim]its [F]power [Bb][F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

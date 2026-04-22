@@ -78,3 +78,12 @@ Just to be with you,
 Oh, j[C9]ust to [G]be with you,
 [C9]Oh, jus[G]t to be with you,
 [C9]Oh, jus[G]t to be with you (fades out…)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

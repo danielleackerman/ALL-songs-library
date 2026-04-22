@@ -94,3 +94,12 @@ You are there to help me realize
 
 Repeat Chorus 2x
 Play intro and fade out.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -64,3 +64,12 @@ There are no orphans (2nd time only)(of God)
 
 OUTRO:
 [|] [Bb/D] [/] [Eb] [/] [|] [Gm] [F]  [/] [Eb] [|] [(-End] [holding] [Eb-)]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

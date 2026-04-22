@@ -79,3 +79,12 @@ CHORUS:
 [F]Jesu[Dm7]s  More[Am7] of the[C]e
 
 [C]La la [Am7]la la l[C]a la [Am7]La la [C]la la 2x
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

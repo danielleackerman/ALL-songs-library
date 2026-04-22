@@ -57,3 +57,12 @@ To break every [F#m7]chain, break every [D]chain, break every [A]chain [E]
 
 Verse 3: SAT(Soprano-lead)
 [F#m7] I hear the [D]chains [A]fallin' [E]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

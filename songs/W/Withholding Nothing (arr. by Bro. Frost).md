@@ -51,3 +51,12 @@ I give you [Ebmaj7]all of me [Gm7]  I give you [F2]all of me
 I give you all of me [Cm7][Ebmaj7]  I give you [F2]all of me [Bb/D]
 I give you [Ebmaj7]all of me [Gm7]  I give you [F2]all of me [Bb/D]
 Withholding nothing [Cm7][Ebmaj7]   Withholding [F2]nothing
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

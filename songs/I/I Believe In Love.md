@@ -37,3 +37,12 @@ If I had the strength to move a mountain
 Would you be amazed by all of my abilities
 I guess it would not mean much if I didn't have love
 And this is what I really want you all to see
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

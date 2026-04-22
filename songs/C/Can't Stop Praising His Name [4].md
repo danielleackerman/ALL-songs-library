@@ -64,3 +64,12 @@ VERSE 3:
 [Cm]satan, you're a liar.
 [Cm/Ab]Jesus has all power
 [Ab]You can't keep me [Bb]down I'm heaven [Cm]bound! [G/F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

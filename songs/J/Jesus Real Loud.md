@@ -48,3 +48,12 @@ the wa[Ab]y we a[A]ct can anybody tell
 
 Lift your voice a little higher, smell the smoke and feel the fire
 ain't it ti[Ab]me somebod[A]y started to y[B]ell
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -58,3 +58,12 @@ I have [F/C]nothing but [Gm7]praise [Gm/C]for [FsusF]You.
 [Bb/C]When I [F2]see all the [Eb/F]beauty, [A7+/B]in  [BbM7]this  world
 
 You've cre-----[Bbm/Db]ated,   I have [F/C]nothing but [Gm7]praise for [FsusF]You.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

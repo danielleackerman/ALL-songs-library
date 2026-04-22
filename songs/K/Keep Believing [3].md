@@ -66,3 +66,12 @@ And his [A]word is [Db]tr[Cb]ue
 Everything he’s [Ebm7]promised
 [Cb]You [Gbm7]know he’s got to do
 [E]You’ll be [Gb]fine if you just [A]keep be[G]lieving [Cb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

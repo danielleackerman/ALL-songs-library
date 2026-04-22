@@ -53,3 +53,12 @@ I can hear the chariots rumble, I can see the marching throng
 The flurry of God's trumpets, spell the end of sin and wrong
 Regal robes are now unfolding, Heaven's grandstands all in place
 Heaven's choir is now assembled, to sing " Amazing Grace "
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

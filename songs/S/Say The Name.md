@@ -64,3 +64,12 @@ When you [Ab/F]don't know what [Eb/G]else to [Ab6/Bb]pray,
 When you [Ab/F]can't find the [Eb/G]words to [F/A]say,  [Ab/Bb]
 When you can’t make it through another day,
 Say the [Eb]name.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

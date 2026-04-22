@@ -63,3 +63,12 @@ Oh, [Bm]Jesus,[A/C#] I have because You give
 Transpose up to B
 
 Chorus 2x
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

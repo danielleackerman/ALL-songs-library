@@ -48,3 +48,12 @@ Solo:  c - f - g (4x)
 3.
 [C]Everyt[F]hing, L[G]ord I bring you [C]everything, [F]All I [G]want is f[C]or you to be,
 [F]To be my [G]everyt[C]hing...[F]To be my [G]everyt[C]hing.....[F]To be my [G]everyt[C]hing  [F]  [-]  [C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

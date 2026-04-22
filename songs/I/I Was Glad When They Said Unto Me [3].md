@@ -40,3 +40,12 @@ id: E32E285E-CE4A-4C2C-951D-6EAD03BDEA3F
 [Bb/C]I was [F]glad when they [G7]said unto me[C7]
 [Bb/C]I was [F]glad when they [F7/Eb]said unto [Bb Abm/Db]me
 Let us [F/C]go to the [C]house of the [F]Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -42,3 +42,12 @@ With Your wo[D]rds of li[A]fe
 [Bm]You took my e[D]yes, And you op[G]ened them
               A
 And gave me sight
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

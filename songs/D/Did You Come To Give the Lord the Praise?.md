@@ -54,3 +54,12 @@ Did you really come to praise the Lord
 
 VERSE 3:
 I just came to praise His Name
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

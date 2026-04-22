@@ -96,3 +96,12 @@ the little bird (yes lord)
 (Oh,I tell you Jesus)
 Jesus is my rock
 My rock, my sword, my shield
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

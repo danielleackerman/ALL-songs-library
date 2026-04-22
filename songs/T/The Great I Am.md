@@ -59,3 +59,12 @@ He’s the strong Rophi, the healing One of Heaven,
 He’s the Holy Ghost, the spirit pour’d from glory,
 He’s the sacred One of all the gospel story,
 He’s the great, He’s the great I Am.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

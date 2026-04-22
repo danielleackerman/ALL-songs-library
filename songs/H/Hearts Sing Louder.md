@@ -35,3 +35,12 @@ And we lift ou[C]r hearts and say[Bb/A][Bb]
                     C
 Holy, holy, holy
 Is the Lord[F] our God[C][(Bb/A][Bb)]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

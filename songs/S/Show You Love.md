@@ -48,3 +48,12 @@ This is the cost of being fr[D/F#]ee[D/F#][D2/F#][Gsus4][G]
 [D]I'm gonna show you love, [G]love in every language
 [D]I'm gonna show you love y[G]ou never had before
 [D]I'm gonna show you love[G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

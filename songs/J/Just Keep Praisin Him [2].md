@@ -51,3 +51,12 @@ BRIDGE:
 [B]Praise Him in the evening, [Bbsus]when the sun goes [Bb]down
 [Ebm]Praise Him in the good times, and [Ebm/B]when bad times come around
 [Abm]Just keep right on Praisin Him, til you [Bbsus]hear the victory [Bb]sound
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

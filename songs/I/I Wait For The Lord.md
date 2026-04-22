@@ -41,3 +41,12 @@ Em  (Music Pause)                    D       Dsus
 [Em]    I[D] wait for the [C2]Lord[G][G/F#]
 [Em]    I[D] wait for the [C2]Lord ...  My soul [D]waits[Dsus]
 [Em]    I[D] wait for the [C2]Lord[G][G/F#]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

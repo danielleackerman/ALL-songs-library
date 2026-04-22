@@ -39,3 +39,12 @@ I started living when I started giving to [F C]God
 [F]Pressed down, shaken toget[D]her
 Running [G]over He's blessing me
 [Gm]I started living when [C]I started giving to [F]God.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -40,3 +40,12 @@ CHORUS:
 I'm so glad that the [D7]Lord saved [G7]me.[G#dim] [G9]
 If it [C]had not been for [C7/E]Jesus, [F7]where would I [F#dim]be,
 I'm so [C/G]glad that the [D7]Lord [G7]saved [C]me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

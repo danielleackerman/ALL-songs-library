@@ -63,3 +63,12 @@ When it seems no one [A]really cares, He is there by Your [E]side
 Ohh He'll make [A]a way when You feel Satan [D]close in
 Don't give up don't [A]give in [E]  He'll make a way right on [A]time [E] [A]
 [D]No don't You [E]give up don't [A]give in [E] He'll make a way right on [A]time [Am] [A]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

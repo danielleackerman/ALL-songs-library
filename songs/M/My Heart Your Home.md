@@ -31,3 +31,12 @@ id: F95291E9-79D7-4C18-BA7D-27F9558D2CAB
 
 [D]Let everything I [C]do, open up the [Bm]door for You to c[G]ome through
 that m[A]y heart would be a pl[A7]ace where you want to be
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

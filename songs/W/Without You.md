@@ -59,3 +59,12 @@ ENDING:
     [C]I can’t [C2]live without You
     [F]I don’t [F2]want to try to
     [Dm]Live one more [Dm2]moment without [C]You[C2][C][C2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

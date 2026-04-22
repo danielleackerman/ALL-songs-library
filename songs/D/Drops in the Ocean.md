@@ -77,3 +77,12 @@ It's more than the drops in the ocean
 Ending tag:
 I am[G] for you [D] ... I'm not[Asus] against[A] you
 I am [G]for you .[D].. I'm not [Asus]against [A]you .. Hey!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

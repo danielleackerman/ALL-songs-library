@@ -45,3 +45,12 @@ The [G]sky [C/G]is the [G]limit to [G]what [Am/G]I [F#/G]can [G]have
 The [G]sky [C/G]is the [G]limit to [G]what [Am/G]I [F#/G]can [G]have
 Be[C9]lieve and receive it, God will perform it to[G]day[F][E7][E7/G#]
 Be[Am7]lieve and receive it, [D7]God will perform it to[G]day [C/D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -54,3 +54,12 @@ My ca[D7]stles all crumbled
 My f[G]ortune turned to l[Em]oss
 So I w[Bm]rapped it a[E7]ll in the r[Bm7]ags of my li[E7]fe
 And [Em7/A]laid  [A6]it [Em/A]at  t[D/A]he  c[A7]ross
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

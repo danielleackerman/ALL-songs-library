@@ -54,3 +54,12 @@ Guitar solo  f em am (3x)  f em g
 For al[F]l of these things,[C] love will atone
 For all of those n[F]ights, that you cried all al[C]one
 All of your tear[F]s, love will a[C]tone
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

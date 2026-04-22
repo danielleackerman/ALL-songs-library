@@ -65,3 +65,12 @@ INTRO:
 [C]	x3555x
 [Bb]Am	xo221x
 G	3x000x
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

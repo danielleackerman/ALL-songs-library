@@ -57,3 +57,12 @@ And He will [Bb]take you through the [C]fire a[F]gain
 BRIDGE:
 I [Bb]know within myself tha[F/A]t I would surely [Gm]perish
 But if I t[C]rust the hand of God, He’ll s[Bb]hield the flames a[C]gain
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

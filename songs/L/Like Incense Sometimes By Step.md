@@ -58,3 +58,12 @@ INTERLUDE:
 I will l[C]ook to walk in Your [Am]ways
 [A]And step by step You'll l[D]ead me
 And I will f[C]ollow You all of my d[Am]ays
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

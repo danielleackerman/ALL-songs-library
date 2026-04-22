@@ -57,3 +57,12 @@ Em		   C!
 He didn't die for nothing... HE DIDN'T DIE FOR NOTHING!!
 
 (Ending guitar solo)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -33,3 +33,12 @@ I'm gonna dance right under the blood
 because the devil can't do me no harm
 
 (The Devil Don’t Allow)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

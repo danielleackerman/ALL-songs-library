@@ -64,3 +64,12 @@ All the earth is Yours
 Everything is Yours
 You have created all things
 And made it good
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

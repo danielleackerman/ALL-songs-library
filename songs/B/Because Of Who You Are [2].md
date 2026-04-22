@@ -56,3 +56,12 @@ Jehovah [AbM7]Sha[AbM7]lom[Bb][AbM7], You are my [G7+]Prince [G7+/Cb]of [Cm]Peac
 [mod][B/Gb]
 
 Mod apo slow, gospel/ccli, ccli
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

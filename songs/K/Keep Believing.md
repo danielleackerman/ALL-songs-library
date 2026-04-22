@@ -26,3 +26,12 @@ Keep bel[Dm]ieving, you know the L[F7]ord will see you through
 When troubles r[Bb]ise in your li[A]fe
 And you d[Dm]on't know what to do
 You'll be f[Bb]ine if you'll ju[C]st keep be[F]lieving
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

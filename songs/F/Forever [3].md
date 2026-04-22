@@ -76,3 +76,12 @@ Instrumental: Chorus
 BRIDGE:
 [E]We sing ha[B]llelujah, We sing h[C#m]allelujah
 We sing [A]hallelujah, the Lamb has overc[E]ome
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

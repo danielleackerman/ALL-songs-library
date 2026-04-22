@@ -66,3 +66,12 @@ BRIDGE:
 my rock and my [B/D#]fortress [Adim/G#] In w[C#m7]hom I tru[B/D#]st.
 [E6]In [B/F#]times of the storm and in tri[F#/E]bulation,
 He is my[B/D#] help  [Adim/G#] And my [C#m7]  sa[Em/C#][B/D#]lva[Em]ti[B/F#]on.                   Oh breath [F#sus]of God[], [F#] [E2] restor[F#sus][F#]e my s
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

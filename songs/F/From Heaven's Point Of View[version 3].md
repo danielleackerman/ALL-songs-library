@@ -77,3 +77,12 @@ But I'm [Ab]living in the [Ab6]pro[Ab]mise, I'll never leave you,
 I will always [Db]see you through [Eb7]
 So what's a [Bbm7]mountain to an eagle flying [Eb7]high
 From heaven's point of [Ab]view.  [Db] [Ab]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

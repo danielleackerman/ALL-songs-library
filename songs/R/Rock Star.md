@@ -72,3 +72,12 @@ No, I ain't got nothing
 But, to you I'm [F#m]something
                  B
 Something so much more
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

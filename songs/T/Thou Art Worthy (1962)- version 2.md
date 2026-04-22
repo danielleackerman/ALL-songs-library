@@ -31,3 +31,12 @@ Hast [F]all things created,
 [C7]For thou hast created all [F]things.
 And for Thy [F7]pleasure, [Bb]they are [Bbm]created
 [F]Thou art [C]worthy, O [F]Lord.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -47,3 +47,12 @@ Sweep [G/D]Spir[G/E]it, Sweep [Am7]over [D7b9]my [Gsus]so[G]ul.
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

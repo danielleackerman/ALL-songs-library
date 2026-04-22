@@ -70,3 +70,12 @@ Jesus I [Bbm7]love You I love You, because You [Eb]care
 
 I love [E2]You,  I love [Gb2]You,  I love [E2]You,  I love [Gb2]You,
 I. love. [Ab2]You because you care
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

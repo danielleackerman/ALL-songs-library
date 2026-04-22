@@ -55,3 +55,12 @@ There is no sickness too great, He cannot heal it.
 When life is bringing you down, you need an answer,
 Well, yoy've been facing a storm, it seems you can't take it
 Oh, I know He will bring you hope, I know that you'll make it.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

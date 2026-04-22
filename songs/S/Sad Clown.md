@@ -43,3 +43,12 @@ The rest is exactly like this...
 If you don’t have this CD yet...GET IT!!!
 No corrections needed but if you think you found one:
 theflor@hotmail.com
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

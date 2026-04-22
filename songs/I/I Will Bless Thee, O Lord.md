@@ -32,3 +32,12 @@ With a [C9]heart of thanks[Gm]giving [Gm(maj7)][Gm7][C7],
 [C7]I will bless Thee, O [F]Lord [Bb][F]
 
 Os apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

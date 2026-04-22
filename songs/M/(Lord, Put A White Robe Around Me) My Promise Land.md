@@ -38,3 +38,12 @@ And so if I stumble on life's shifting sand
 Just Reach out, Lord and let me take a hold of Your hand
 Though the mountains seem so tall and the way is rough
 Just one glimpse of my promise land will be enough.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

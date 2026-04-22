@@ -91,3 +91,12 @@ BRIDGE 3:
 [G#m7]Our God is Healer
 [E]Awesome in Power
 Our [B/D#]God! Our [F#]God!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

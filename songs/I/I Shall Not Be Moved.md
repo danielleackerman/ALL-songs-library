@@ -54,3 +54,12 @@ Tho' the tempest rages, I shall not be moved
 On the Rock of Ages, I shall not be moved
 Just like a tree that's planted by the wa---a----ters
 I shall not be moved.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

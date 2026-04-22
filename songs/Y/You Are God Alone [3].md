@@ -81,3 +81,12 @@ You're unchangeable, You're unshakable
 Unstoppable, That's who You are
 
 You Are God Alone lyrics © Integrity's Hosanna! Music, Billy Foote Songs
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

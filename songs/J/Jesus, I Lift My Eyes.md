@@ -68,3 +68,12 @@ To [Em]Thee I [A]breathe my [F#m]soul’s [G]desires
 
 [Em]Jesu[A]s,     I[F#m] lift my [G]eyes
 [Em]To Thee I l[A]ift my [D]eyes
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

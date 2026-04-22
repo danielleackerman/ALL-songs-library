@@ -50,3 +50,12 @@ It's [Eb]because of You that I [Bb]worship and bow [Cm]down to Your name every [
 It's [Eb]because of You that I [Bb]dance
 It's [Cm]because of You that I [Ab]shout
 It's [Eb]because of You that I [Bb]leap for joy with a [Cm]heart that has no [Ab]doubt
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

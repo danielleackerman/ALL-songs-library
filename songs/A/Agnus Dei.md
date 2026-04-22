@@ -36,3 +36,12 @@ Worthy is the [F]Lamb, Worthy is the [F]Lamb [Fm/G#]
 You are Ho[C]ly, Ho[C]ly, [C]Are you Lord [G]God Almighty
 Worthy is the [F]Lamb, Worthy is the [F]Lamb [Fm/G#]
 You are Ho[C]ly [Ab] [Bb] [C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

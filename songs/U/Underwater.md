@@ -55,3 +55,12 @@ A
 Will you make me a believer
 [G]Take me by the hand, [F]Hold me as I'm fall[E]in in
 [F]Cleanse me and w[E]ash my sins aw[D]ay
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

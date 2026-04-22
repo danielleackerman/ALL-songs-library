@@ -85,3 +85,12 @@ C-chord
 This is a powerful song that is sure to be as big as Who am I?,
 voice of truth, and If we are the body.  If you haven't bought their
 CD, immediately go out and do it now.  God bless.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

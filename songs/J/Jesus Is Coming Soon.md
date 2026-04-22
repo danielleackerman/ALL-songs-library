@@ -58,3 +58,12 @@ Troubles will soon be o'er, happy forevermore
 When we meet on that shore, free from all care.
 Rising up in the sky, telling this world good-bye
 Homeward we then will fly, glory to share.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

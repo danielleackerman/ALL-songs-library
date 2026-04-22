@@ -70,3 +70,12 @@ chorus parts at " We want to see your kingdom here"
 chorus parts 2nd time
 seems like it goes from unison on " We want to see your kingdom here"
 to parts at the repeat.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

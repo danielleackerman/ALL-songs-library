@@ -48,3 +48,12 @@ Welcome[Am] to my worl[F]d, and the life that I have made
 Where one[C] day you'[G]re a prince, the next day you’re a slave
 
 CHORUS:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

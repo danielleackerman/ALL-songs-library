@@ -83,3 +83,12 @@ From [Em7]now until the[A7/C#] end of time, say the Name
 [D]   [/C#]    [/B]   [/A]   [G]
 [D] [/C#] [/B] [/A]  [A/G]    [G]
 [A7sus]   [D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

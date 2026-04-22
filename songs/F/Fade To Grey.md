@@ -63,3 +63,12 @@ Fade to grey, yeah
 
 Submitted by Paul Neitzel of The Ben Thomas Band
 for info on The Ben Thomas Band E-mail  jesuspal1@aol.com
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

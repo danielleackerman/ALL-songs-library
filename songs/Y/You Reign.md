@@ -82,3 +82,12 @@ Your name
 every knee will bow and
 every [F]tongue p[G]ro-cl[Am7]aim  tag 3x
 that Je[F]su[C]s reigns
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

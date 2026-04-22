@@ -112,3 +112,12 @@ That is who You [A2]are
 That is who You [E/G#]are
 That is who You [B4]are
 That is who You [C#m]are    (repeat)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

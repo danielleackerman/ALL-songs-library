@@ -48,3 +48,12 @@ All for love's sake became poor
 BRIDGE:
 I'll [C/E]never [F2]know how [Bb2]much it cost
 To [C/E]see my [F2]sin [Bb2]upon that cross
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

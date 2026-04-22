@@ -67,3 +67,12 @@ To [Ab/Bb]magnify His [Bb7]name.     [Bb7/D]
 [Cm][Bb/G][Bb/C]
 
 Mod apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

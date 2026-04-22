@@ -85,3 +85,12 @@ Though no one join me still I will follow
 No turning back, I won't turn back.
 
 Os apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

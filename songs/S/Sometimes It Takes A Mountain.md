@@ -90,3 +90,12 @@ Oh, Lord I believe
 
 Songwriters: Gloria L. Gaither / Mark Mathes
 Sometimes It Takes a Mountain lyrics © Life Gate Music, Hanna Street Music
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

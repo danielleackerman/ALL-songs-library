@@ -82,3 +82,12 @@ And the [Em]voices of the [F]nations sing
 [G]Worthy, Worthy, [Em]Worthy [F]Beautiful, [G]Beautiful One,
 Jesus, You are [Em]Worthy [F]Beautiful, Beautiful [G]One
 Jesus You’re [Em]Worthy [F]Beautiful, Beautiful [G]One
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

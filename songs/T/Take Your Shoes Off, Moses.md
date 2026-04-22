@@ -45,3 +45,12 @@ For I am the L[D]ord thy G[G]od.
 [C]Salvation work. See s[G]alvation work.
 Stand still Moses. See s[C]alvation w[G]ork.
 For I am the L[D]ord thy G[G]od.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

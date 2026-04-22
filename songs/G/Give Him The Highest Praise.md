@@ -41,3 +41,12 @@ BRIDGE 1:
 BRIDGE 2:
 [Eb]Lift Him up, lift Him [Ab/Eb]up, lift [Eb]Him [Db/Eb]up,
 lift Him [Eb]up, we lift you up, we lift you up, we lift you up
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

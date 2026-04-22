@@ -62,3 +62,12 @@ I love to see the signs that follow Saints of God,
 I love to hear the joy bells ringing in my soul,
 I love to know He leads me by His staff and rod,
 But I love Jesus best of all.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

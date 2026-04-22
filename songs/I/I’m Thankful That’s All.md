@@ -57,3 +57,12 @@ Of all the [Dm]friends I [G7]know there’s [C7]noone like you.
 All my [F]needs you'll supply.
 OH it [Bb]makes me want to cry.
 Just want to [F]tell you I'm [C7]thankful thats [Bbm7]all. [F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

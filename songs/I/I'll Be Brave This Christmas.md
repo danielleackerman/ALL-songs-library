@@ -55,3 +55,12 @@ BRIDGE:
 [Em]It takes [G/D]sacrifice [C2]from us all
 (chorus)
 Ooh, this [Em9]Christmas, [G/B]I'll be [C]brave
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

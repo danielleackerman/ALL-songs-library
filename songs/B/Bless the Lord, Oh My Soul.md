@@ -33,3 +33,12 @@ And bless the Lord (bless the lord)
 Oh my soul (oh my soul)
 Bless the Lord oh my soul
 Bless the Lord oh my soul
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

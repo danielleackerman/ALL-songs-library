@@ -32,3 +32,12 @@ CHORUS:
 My heart is filled with de[C7aug]sire
 [Fm7]For a touch of your heaven[Ebm7]ly [Ab7]fire [Dbmaj7]
 [Ab2/C]Fresh a[Bbm7]nointing [Db/Eb]fall on me  [Ab2]  [Db/Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

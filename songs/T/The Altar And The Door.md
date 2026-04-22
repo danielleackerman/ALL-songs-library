@@ -61,3 +61,12 @@ I’m [Db2]trying so hard, [Ab2]to stop [Fm7]trying so [Eb]hard.
 Just let you [Db2]be who you are, [Ab2]Lord, [Fm7]who you are in [Eb]me. Jesus
 
 CHORUS:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -54,3 +54,12 @@ CHORUS:
 I'll never let You go.
 [G] My Savior,[D/F#]    my closest friend,
 [Em7] I will worship You u[C]ntil the very end.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

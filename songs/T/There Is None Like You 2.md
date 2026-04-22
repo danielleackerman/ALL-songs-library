@@ -41,3 +41,12 @@ VERSE:
 And [Em7]healing comes [A/C#] from your hand [D]
 [F#m7] [GM7]Suffering chil[G/A]dren are safe [D] in your arms [Bm7]
 [Em7] There is [G/D] none like [A/C#]you  [G/B] [A/C#]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

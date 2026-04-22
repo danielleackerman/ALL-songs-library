@@ -60,3 +60,12 @@ But on the hottest days I'd cry
 Oh Lord, isn't it about time
 
 S© Bridge Building Music, Upright Grand Music, Marcia Henry Music
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -61,3 +61,12 @@ So he arose and followed Jesus as he passed by
 
 *wrote the original chorus*
 *Verses authored later*
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

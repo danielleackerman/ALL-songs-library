@@ -47,3 +47,12 @@ All I [G]want is [C]You  [Em]
 (He is the prize)
 
 All I [G]want is [C]You  [Em]  [repeat]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

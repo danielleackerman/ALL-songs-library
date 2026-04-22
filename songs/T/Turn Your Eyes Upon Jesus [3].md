@@ -66,3 +66,12 @@ His [F]perfect sal[C]vation to [F]tell
 Look [Bb]full in His [Gm]wonderful [C7]face
 And the [F]things of [F7]earth will grow [Bb]strangely [Bbm]dim
 In the [F]light of His g[C]lory and [F]grace
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

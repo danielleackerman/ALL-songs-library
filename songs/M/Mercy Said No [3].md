@@ -72,3 +72,12 @@ Mercy said [Bb]no [Gm]sin will never [F]take con[Eb]trol[Dm]
 [Cm]Life and death stood face to face
 When [Bb/F]darkness tried to [Bb/E]steal my heart a[Cm]way
 Thank You [F]Jesus [Eb/F]mercy said [Bb]no (repeat to 'life and death...')
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

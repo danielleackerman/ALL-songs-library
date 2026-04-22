@@ -60,3 +60,12 @@ I know that you will find you've really been blessed
 Oh...God has been good to you
 
 Do you believe that God will open...?
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

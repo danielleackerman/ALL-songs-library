@@ -51,3 +51,12 @@ It [G]soothes my [G7/B]doubts and it [C]calms my [G]fears,
 [B+/Db]Oh the [CM7]blood that gives me [C#]strength,
 from [G/D]day to [E7(b9)]day,
 It will [Am]n[G/B]e[Am/C]ver [G/D]lose [D7]its [G]power!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

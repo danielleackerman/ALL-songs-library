@@ -72,3 +72,12 @@ I re[Bb/D]joice for my Sa[Eb]vior reigns, I re[F]joice for He [Eb]lives in me
 
 VERSE 1:
 [Gm7]In a [Fsus]dry and [Bb]weary [Eb]land, [Gm]Lord, You [Fsus]are the [Bb]rain  [Bb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

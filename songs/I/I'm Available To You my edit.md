@@ -77,3 +77,12 @@ My [Cm]storage is empty [C]yeah
 And [Eb]I [Bb]am  a[F]vailable to [Bb]You
 
 [Bb] [Eb] [C] [G] [Bb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

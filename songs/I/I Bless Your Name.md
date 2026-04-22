@@ -50,3 +50,12 @@ I bless Your [Bb/F]name, [F]I bless Your [Bb]name.
 Your in a [C]prison in your [FsusF]mind
 [Eb/F]Reach out and [BbsusBb]praise Him [Eb]for those [Bb2]chains [F/A] [Gm7]
 And they will [Bb/F]fall,   [F]in Jesus [Bb]name.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

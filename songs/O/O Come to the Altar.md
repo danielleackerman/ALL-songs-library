@@ -88,3 +88,12 @@ Tell the[E] world of the treasure you[B] found
 
 OUTRO:
 B - Bma7 - E - E2 - B - Bma7 - E - B
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

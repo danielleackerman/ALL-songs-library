@@ -33,3 +33,12 @@ You ought to praise the Lord while you have a chance
 
 VERSE 2:
 If you don't want to praise Him, don't you hinder me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

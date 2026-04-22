@@ -55,3 +55,12 @@ VERSE 2:
 I've [Gbm7]touched the [Gb7]hem of His [Bm7]garment, I can [Em7]almost See [A7sus]His [A7]face
 [Dbm7]and my heart [Gb7]is over[Bm7]flowing, [Em7]with the full[A7]ness of [Dmaj7]His joy
 [Em7]I know without a [E7]doubt, that [Cmaj7]I've been with [Am7]the [A]Lord.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

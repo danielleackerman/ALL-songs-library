@@ -32,3 +32,12 @@ VERSE 2:
 What the [Gm7]world can offer [C7]me, take it [FM7]all,
 [Bb/C]For [C7b9]one [FM7]hundred years from [Eb/C]now [A7+]It won't [BbM7]matter any[Gdim]how,
 What the [F/C]world can [D7b9]offer [Gm]me, [C7]take it [F]all.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -97,3 +97,12 @@ TAG:
 And [E/G#]He’s [A]mine, yes, [D/F#]He’s [G]mine
 And [E/G#]He’s [A]mine, yes, [D/F#]He’s [G]mine
 And [E/G#]He’s [A]mine, yes, [D/F#]He’s [G]mine
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

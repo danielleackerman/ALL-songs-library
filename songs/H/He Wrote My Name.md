@@ -63,3 +63,12 @@ If I should live a thousand years upon this earth below
 I never could, forget the day
 That Jesus wrote my name within the blessed Book of Life
 And took my many sins away.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

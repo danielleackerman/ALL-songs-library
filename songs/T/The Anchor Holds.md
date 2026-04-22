@@ -84,3 +84,12 @@ his love to me
 [D]The anchor holds[D/f#]
    (backvocs:        The anchor holds)
 in spite of the storm[G][C][D][C/e][C/g][G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

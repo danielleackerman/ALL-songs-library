@@ -31,3 +31,11 @@ medley: []
 id: 5FBD1644-E045-4581-A3CF-751C8D356EA9
 ---
 
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

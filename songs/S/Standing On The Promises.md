@@ -68,3 +68,12 @@ Standing on the promises that cannot fail,
 List’ning every moment to the Spirit’s call;
 Resting in my Saviour as my All-in-All,
 Standing on the promises of God.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

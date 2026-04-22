@@ -74,3 +74,12 @@ for when the vocals come back in)
 [Am] [Fm][a]j7 [G6] [Esus7] (2x)
 
 Am2 Am2 ...
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

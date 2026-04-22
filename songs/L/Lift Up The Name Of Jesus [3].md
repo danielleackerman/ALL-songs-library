@@ -75,3 +75,12 @@ He said if I be lifted up
 I will draw all men unto Me
 Come on and lift Him up
 Lift Him up
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

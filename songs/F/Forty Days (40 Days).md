@@ -45,3 +45,12 @@ Where springs of living water drown and refresh you,
 And as the Jordan pours out change, Your true self is all that remains,
 Where springs of living water bind and break you, Bind and break you
 Bind and break you, Bind and break you
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

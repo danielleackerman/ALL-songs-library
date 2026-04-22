@@ -47,3 +47,12 @@ We've [C]no less [C]days to [F]sing God's [C]praise
 Than [C]when we [G]first [C]begun. [C]
 
 Os apo slow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

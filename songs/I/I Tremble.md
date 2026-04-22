@@ -88,3 +88,12 @@ At the [Eb7/Db]way I'm undeserving of the [AbM7]love You came to [Eb/G]give
 And Your [Fm7]blood that makes me [Ab6/Bb]worthy
 I [Db]trem[B]ble [Ab/Bb]
 [Bb7sus]Lord I [Bb7sus2/Eb]trem[Eb]ble
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -29,3 +29,12 @@ I [Dm7]shall [G7]for[C]ever [F]lift mine [Em]eyes [Dm7]to [C]Calvary,
 To( [Dm7]view [G7]the [Am]cross, [F]where [C]Jesus [D7/A]died [G7]for me
 How [Em]mar[G/D]vel[C]ous [Caug]the [F]grace that caught my [C]falling [Am]soul
 He [Fm/Ab]looked [C/G]beyond my [F/G]fault and [G7]saw my [C]need.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -58,3 +58,12 @@ There is [Eb/C]no one [F7]else like [Eb/C]You, There is [Eb/F]no [F]one [Eb/F]el
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

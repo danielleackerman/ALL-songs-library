@@ -40,3 +40,12 @@ And   when [C7/Bb]troubles   on   the   way
 [F/A]I   will   always   say    no  [Dm7/Ab]matter   come   what   may
 
 I will  [C/G]always   give   You  [F/G]praise     [F/A]    [G/B]    [C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

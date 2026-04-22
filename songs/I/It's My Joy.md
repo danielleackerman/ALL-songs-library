@@ -35,3 +35,12 @@ I will sing h[C]alleluiah to my King[G]
 I will lay my[C] heart down at your feet[G][D]
 And I pray to[C] what you hear and what you see[Em]
 Brings joy to thee, [F]brings joy to thee, It is my joy[D][G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

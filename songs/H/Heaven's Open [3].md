@@ -46,3 +46,12 @@ Heaven's [Ab/Eb]op[Eb]en
 [Db][Db/Eb][Db/F]o[Ab]pen [Ab/Bb] [Ab/C]
 o[Ab][Db/Bb][Ab/C][Ab][Eb/G]pen
 [Eb/G]receive  [Bb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -55,3 +55,12 @@ Reme[D/F#]mber your ch[G]ains
 Oh, re[D/F#]member your chai[G]ns
 When you r[Em]emember your ch[D/F#]ains
 Rem[G]ember your ch[A]ains are g[D]one
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

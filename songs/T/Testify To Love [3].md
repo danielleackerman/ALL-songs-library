@@ -126,3 +126,12 @@ CHORUS 4:
 (Give thanks and testify, testify)
 [D]your love and m[E]ercy[A]
 (All my life I'll testify)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

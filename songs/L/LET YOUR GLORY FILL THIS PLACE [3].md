@@ -75,3 +75,12 @@ Let Your [Ebm7]glo  [Db/F]     [Ebm/Gb]       [Eb/G]ry   [Absus]fill  [A7]   [Gb
 Outro hook:
 [treble:] [Db] [Gb] [F] [Gb] [Db] [Gb] [Ab] [Bb] [Bb] [B] [Gb]
 [bassline:] [Db]      [Db/B]     [Gb/Bb]      [Gbm/A] [2x]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

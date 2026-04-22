@@ -75,3 +75,12 @@ Knowing God is
 Working for my good,
 And I'll wait just like a rosebud in the garden,
 For only God can unfold the rose.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

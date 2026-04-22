@@ -73,3 +73,12 @@ They say that hope can make you see
 They say that faith can find a Savior
 If you would follow and believe
 with faith like a child
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

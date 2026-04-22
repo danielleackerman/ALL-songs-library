@@ -39,3 +39,12 @@ VERSE 2:
 To [Eb/Bb]pay [Eb+/B]the great [Eb/C]debt that I [Fm7]owe   [Bb7]
 [Ab/Bb]But just [EbM7]let it be [Eb7/G]said, when my [Ab2]record is [Fm7]read
 That I [Eb/Bb]bro't at least one [Bb13]sheep to the [Eb]fold.   [Eb7/G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

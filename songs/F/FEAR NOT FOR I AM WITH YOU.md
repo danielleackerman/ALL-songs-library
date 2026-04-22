@@ -51,3 +51,12 @@ You'll [Am]not no way be [G/E]burned for [F]I [G]am with [C]You  [E7]
 
 To chorus: [E7]
 To verse  [G7]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

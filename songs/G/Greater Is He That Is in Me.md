@@ -68,3 +68,12 @@ He's [F]greater, (greater) [C]greater, (greater) [F]greater,
 [F]Greater is He that is in [Bb]me than [C]he that is in the [F]world
 
 Os apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

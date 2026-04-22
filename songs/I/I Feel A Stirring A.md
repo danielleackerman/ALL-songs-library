@@ -43,3 +43,12 @@ BRIDGE:
 [Fm]I feel a stirring, [Bb9]yes I feel a st[Cm/Bb]irr[Bb]ing
 
 Mod apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

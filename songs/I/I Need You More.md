@@ -50,3 +50,12 @@ BRIDGE:
 [Bm]Right here in your [A]presence is where I [G6]belong
 [Bm]now my broken [A]heart has finally [G6]found a home
 And i'll [D]never be [Asus]alone
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

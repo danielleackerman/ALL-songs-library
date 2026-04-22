@@ -55,3 +55,12 @@ BRIDGE:
 Note: If you would rather have these chords in A capo 2,
 feel free to email me and I'll be glad to send them to you.
 ------------------------------------------------------------
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

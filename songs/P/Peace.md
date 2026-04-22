@@ -48,3 +48,12 @@ F#  db          b       db
 oh, I just can't get over this
 
 (Play intro)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

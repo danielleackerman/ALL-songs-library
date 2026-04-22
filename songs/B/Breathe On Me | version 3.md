@@ -51,3 +51,12 @@ Rain on me, Rain on me, Holy Ghost Showers...
 
 VERSE 3:
 Burn in me, Burn in me, Holy Ghost Fire...
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

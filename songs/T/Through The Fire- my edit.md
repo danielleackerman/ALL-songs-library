@@ -72,3 +72,12 @@ And the [[A]]adversary[E/G#]says give [A/F#]in,   just hold [B]on
 The Lord will [E/B]show[B] up,
 And He will[A/F#] take you through the [E/B]fire [B]a---[E]gain.
 yes he will I know he will again
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

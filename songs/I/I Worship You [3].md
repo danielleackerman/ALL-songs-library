@@ -57,3 +57,12 @@ BRIDGE:
 [Gb]Holy [Ab2]Holy is the [Eb]Lord,
 
 [Gb]You  are  to  be  [Ab2]worshiped  and  a---[Bbsus]dored  [Bb7] [Ab/Bb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

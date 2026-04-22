@@ -74,3 +74,12 @@ And when I doubted that He heard
 He answered me back with His Holy Word
 Lift up your hands and sing and shout
 I'm gonna bring you out, and now
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

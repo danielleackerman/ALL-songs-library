@@ -76,3 +76,12 @@ It [G7]fills me with [C]peace, Washes over [C7]me, Like a sweet gentle [F]rain
 
 [Gb7]I love sing your [B]praise Lord, It brings the victo[Ebm]ry
 [B]No matter  what I [Abm7]face, Through all of my [Db]days, I love to sing Your [Gb]praise [Gb7]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

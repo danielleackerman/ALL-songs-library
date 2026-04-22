@@ -86,3 +86,12 @@ Thank you for giving to the Lord.
 I am a life that was changed.
 Thank you for giving to the Lord.
 I am so glad you gave.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

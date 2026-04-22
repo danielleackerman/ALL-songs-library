@@ -62,3 +62,12 @@ And you will never ever be the same
 BRIDGE:
 Hear the rushing mighty wind
 Fill the house we’re sitting in
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

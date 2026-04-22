@@ -42,3 +42,12 @@ Keywords: MOD APO MED
 [C/D]       Let there be [G]glory and [G7]honor and [C]pra[C/A]ises
 [G]Glory and [Em]hon[Emsus]or to [A7]Je[D7]sus
 [G]Glory,   [C]Ho[Cm][(Adim)]nor,   [G/D]Glory and [D7]honor to [G]Him.  [C/D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

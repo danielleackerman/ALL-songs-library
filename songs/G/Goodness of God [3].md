@@ -165,3 +165,12 @@ Oh, I will sin[Db]g
 of the good[Eb]ness of God[Ab]
 >orange: soloist + ensemble
 Oh, I'm gonna si[Db]ng of the goodn[Eb]ess of God[Fm]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

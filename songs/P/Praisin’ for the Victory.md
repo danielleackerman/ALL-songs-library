@@ -70,3 +70,12 @@ Praisin’ the Lord as the enemy ran
 BRIDGE:
 Lift up your voice and sing for joy
 Sing a little louder
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

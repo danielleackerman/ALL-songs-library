@@ -88,3 +88,12 @@ As the [Bb]light begins to [F]fade, in the city on the [C]hill
 The city on the [Dm]hill    [F]   (Come [C]home)
 And the [Gm]Father's calling [Dm]still .[F].. Come [C]home
 To the [Gm]city on the [Dm]hill .[F].. Come [C]home
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -64,3 +64,12 @@ VERSE 3:
 [Db]Naught of the [Db7]world shall [Ab]turn me around
 Daily I'm working, I'm pray[Fdim/Ab]ing [Ab]too
 [Fm]An[Gdim7]d [Ab]glory to God, I'm go[Ab7][Ab]ing thru. [Ab7]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

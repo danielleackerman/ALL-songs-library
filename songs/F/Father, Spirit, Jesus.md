@@ -71,3 +71,12 @@ Chorus: 3
 [G]   [D]Father, Spirit, [A]Jesus
 [G]   [D]Father, Spirit, [A]Jesus
 [G]   [D]Father, Spirit, [A]Jesus
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

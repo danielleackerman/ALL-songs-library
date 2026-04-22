@@ -87,3 +87,12 @@ It feels like I'm [D]moving
 For the very [Em]first time
 I'm living for the [C]first time
 In my [G]life
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

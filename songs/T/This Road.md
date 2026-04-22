@@ -57,3 +57,12 @@ still higher
 God give us p[C#m]eace a[B]nd g[C#M]race f[B]rom [C#M]you
 [B]all the day through[E]
 (repeat)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -133,3 +133,12 @@ BRIDGE 2:
 
 Songwriters: Davide Rossi / Jack Savoretti / Pedro De Souza / Sebastian Sternberg
 Love Is on the Line lyrics © BMG Rights Management, Peermusic Publishing
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

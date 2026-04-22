@@ -68,3 +68,12 @@ Here we have our disappointments all the while
 And our fondest hopes but meet with bitter blight
 Tho' by night we weep, the morning brings a smile
 In that city where the Lamb is the Light.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -44,3 +44,12 @@ He put [Eb9]joy down in [E]my soul[D9]
 I'm gonna [Db9]let the whole world [Bdim7/D]know
 I'm gonna to [Ab]praise Him, [Eb9]Praise Him, [Db/Eb]
 Praise the [Ab]Lord. [C][Bb][B][C][D][Eb][E][F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

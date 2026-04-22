@@ -42,3 +42,12 @@ You've [C]given me joy,  You've [G]given me love
 [C]You give me strength when I [G]want to give up
 [C]You came from Heaven to [G]rescue my soul
 [Em]This is the reason I k[F]now, [C]   I k[D]now
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

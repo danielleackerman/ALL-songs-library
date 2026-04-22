@@ -50,3 +50,12 @@ BRIDGE:
 You are [Em]higher than we ever could ima[A]gine,
 And [D/F#]closer than our eyes could ever [G]see.
 [D/F#]We are [Em7]pouring out our hearts here in Your pre[A]sence
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

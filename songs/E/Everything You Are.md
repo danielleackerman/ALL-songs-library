@@ -49,3 +49,12 @@ Lord that’s what You are to[E] m[(Esus,]e      [E,]   [D/F#)]
 Just what You want me to be
 [E/G#]     [A2]     [E]You are Jesus
 [E/G#]     [A2]     [E]And I love You
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

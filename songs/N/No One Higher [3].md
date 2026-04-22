@@ -91,3 +91,12 @@ Our [C]hands are lifted [G/B]high in surrend[Am7]er, Your [F2]grace for me is al
 [F2]There is no one [Gsus]higher than [C]you
 
 No One Higher lyrics © Worship Together Music, Sixsteps Songs, Levibear Music Publishing
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

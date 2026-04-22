@@ -83,3 +83,12 @@ repeat CODA ad lib and fade
 
 Words and music by Rich Mullins and Beaker
 © 1992 Edward Grant, Inc. (ASCAP)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

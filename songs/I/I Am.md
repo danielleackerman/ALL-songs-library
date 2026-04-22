@@ -64,3 +64,12 @@ I am [Em]in the sun, I am in the s[C]hade, I am in the[G] light that love has ma
 I am in the cold, I[Em] am in the warm, I am in [C]the center of your sto[G]rm                    [D]
 I am in the fire, I[Em] am in the flood, I am in[C] the marrow and the [G]blood                [D]
 When you cann[Am]ot stand...[C]I am  [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

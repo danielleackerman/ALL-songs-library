@@ -41,3 +41,12 @@ Take [A]joy, [Bm7]My [D]King,  [A]In [E]what [A]You [C#m7]hear,
 [A]May it be a [D]sweet, [C#m7]sweet [Bm]sound [E]in Your [A]ear.
 [A]May it be a [D]sweet, [C#m7]sweet [Bm]sound
 [C#m7]May it [A]be a [D]sweet, [A]sweet [Bm]sound [E]in Your [A]ear.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

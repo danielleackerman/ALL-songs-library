@@ -60,3 +60,12 @@ BRIDGE 2:
 [F2]And if our God is with us, [C/E]then what could stand against
 [Dm7]And if our God is for us, [BbM9]then who could ever stop us
 [F2]And if our God is with us, [C/E]then what can stand [Dm7]against [BbM9][F2][C2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

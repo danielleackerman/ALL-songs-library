@@ -39,3 +39,12 @@ And I [F/C]feel, [C7]I feel, I feel al[F]right.
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

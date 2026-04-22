@@ -52,3 +52,12 @@ EbMaj7 – Dm7 – Cm7 BbMaj7 – Am7 – Gm7
 Dm7 – Am7 – Cm7 – Gm7
 
 (repeat chorus 2x)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

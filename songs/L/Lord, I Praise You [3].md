@@ -45,3 +45,12 @@ I will [C/G]always give you [F/G]praise   [F/A][G/B][C]
 Bridge 8x:
 Praise, Praise
 Praise, Praise
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

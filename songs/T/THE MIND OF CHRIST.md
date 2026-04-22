@@ -65,3 +65,12 @@ If I will [Bb/F]have in [Gm7]me the [Eb/C]mind [F/A]of [Eb]Christ  [F][Eb [F]
 
 OUTRO:
 [Bb] [Gb] [Ab] [Bb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

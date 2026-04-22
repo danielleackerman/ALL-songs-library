@@ -89,3 +89,12 @@ x    3    x      5
 
 This is 100% correct. Have fun, God bless, dont stop listening to Third Day :-)
 Ben
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

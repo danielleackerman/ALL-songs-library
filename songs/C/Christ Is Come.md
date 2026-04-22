@@ -59,3 +59,12 @@ The Word[F#m] made flesh now dwells among us    [E/G#]                          
      Christ is come
 [E]     [E/G#]      [|]  [A]  [|]   [D]   [|]  [/]  [A]  [A,]   [B]  [|]  [E]
 Christ is come
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

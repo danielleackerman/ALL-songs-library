@@ -70,3 +70,12 @@ His name is [A]Yahweh, The Lord is [Dm]one
 [D]Alpha and Omega, Be[Gm]ginning and the end
 
 The [A]word who reigns forever, Yahweh redeemer [Dm]friend
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

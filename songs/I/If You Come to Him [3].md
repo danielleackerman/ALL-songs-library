@@ -96,3 +96,12 @@ come to Jesus, come to Jesus, right now.
 He will pick you up and turn you around,
 place your feet on, on solid ground;
 come to Jesus, come to Jesus, right now.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

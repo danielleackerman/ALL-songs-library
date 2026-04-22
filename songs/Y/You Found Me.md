@@ -85,3 +85,12 @@ To be he[A]ld so tight, I’ve never felt so fr[D/F#]ee
 
 Outro - D D G Em D D G Em
 D D G Em D D G Em
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

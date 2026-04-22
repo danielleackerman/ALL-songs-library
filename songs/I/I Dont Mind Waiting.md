@@ -29,3 +29,12 @@ I don't mind [C2]waiting on You [Gsus]Lord[G]
 [C]I don't mind wait[F/C]ting  I don't mind [F]wa. [G]aa [Am]ting
 
 [F]I don't mind [F]wa [F/G]ting on you [C]Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -64,3 +64,12 @@ Tho' my friends turn me down, and the world on me frown
 Let me walk in the gospel light
 Till the setting of sun, and my work here is done
 Let me walk in the gospel light.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

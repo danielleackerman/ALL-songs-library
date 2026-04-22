@@ -53,3 +53,12 @@ CHORUS:
  [B/D#]  As thirst and [E]hunger [E/D#]die
    The [C#m]Lamb becomes [C#m/B]our   [A]Shepherd King[A/G#]
  [F#m]  We'll reign with [B]Him
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

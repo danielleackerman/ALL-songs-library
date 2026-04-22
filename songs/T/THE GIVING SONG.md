@@ -46,3 +46,12 @@ Give [F]more than you can [D7]afford,
 And you'll [G7]find your cup will overflow,
 
 You just [G7]can't outgive the [C]Lord.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

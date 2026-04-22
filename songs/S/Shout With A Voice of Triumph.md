@@ -60,3 +60,12 @@ The [Gm]enemy is under our [A]feet
 [Dm]Shout for the victory,[C-Db-Dm]             Shout if you've been set free[C-Db-Dm]
 
 Dm]Shout !!!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

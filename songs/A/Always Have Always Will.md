@@ -94,3 +94,12 @@ Repeat Chorus
 ***I'm not exactly sure what chord this is, on the piano it is D minor
 with 2 substitutes
 --G instead of F   and B instead of A-- sorry for the inconvenience******
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

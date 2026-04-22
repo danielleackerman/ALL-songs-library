@@ -68,3 +68,12 @@ He's worthy of [Abm/F]all [Eb/F]my [Abm/F]praise
 (repeat)
 
 (To exit bridge, go to second half of chorus "I just came to…")
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

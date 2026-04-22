@@ -61,3 +61,12 @@ Don't worry about that wayward child,
 'cause He heard you call his name
 He'll put food in your kitchen when you don't have a dime
 He's not good just now and then, He's good all the time
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

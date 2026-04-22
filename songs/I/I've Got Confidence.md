@@ -59,3 +59,12 @@ God has never failed me yet
 Troubles come from time to time,
 But that's all right
 I'm not the worrying kind, 'cause.....
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

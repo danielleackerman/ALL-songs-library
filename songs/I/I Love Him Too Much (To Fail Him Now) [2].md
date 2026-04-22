@@ -49,3 +49,12 @@ And I'm just too close to [F7]Heaven to [Bb]turn back [Bb7]now,
 His [C]grace will be [C7]sufficient, I'm gonna [Gm7]make it [F]somehow!
 
 OS APO Slow, SUTL, Songbook
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

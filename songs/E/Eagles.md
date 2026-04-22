@@ -35,3 +35,12 @@ I tremble with this heavy weight
 and I'm buried underneath my grief
 I'll run to You and not grow faint
 And I'll lay my burdens at Your feet
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

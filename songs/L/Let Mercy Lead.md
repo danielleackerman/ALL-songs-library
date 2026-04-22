@@ -71,3 +71,12 @@ repeat VAMP and fade
 
 Words and Music by Rich Mullins and Beaker
 © 1995 Edward Grant / Kid Brothers of St. Frank Publishing (ASCAP)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

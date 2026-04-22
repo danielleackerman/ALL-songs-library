@@ -26,3 +26,12 @@ i’m rejoicing because
 i’m not what i was
 thanks to calvary’s tree
 i’m free
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

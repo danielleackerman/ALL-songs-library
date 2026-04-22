@@ -62,3 +62,12 @@ CHORUS:
 
 Oh gently lay your head upon my chest
 And I will comfort you like a mother while you rest
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

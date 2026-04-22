@@ -67,3 +67,12 @@ id: 01F3C01B-2AE5-4B30-8065-A39ACF42249A
 
 [Gm]
 [Gm] [F] [Eb] [D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

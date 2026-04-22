@@ -65,3 +65,12 @@ CHORUS:
 His t[Cm]ruth is [Bb]mar[F7]ching [Bb]on.
 
 Os apo med, sutl
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

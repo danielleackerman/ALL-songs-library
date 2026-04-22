@@ -61,3 +61,12 @@ VERSE 3:
 [A]leaning [F#m]on the Ever[Bm]lasting [E]Arms?
 [A]I have blessed [A/F#]peace [D]with my [Bm]Lord so [D]near,
 [A]leaning [F#m]on the Ever[A/E]last [E]ing [A]Arms.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

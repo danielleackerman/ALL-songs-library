@@ -71,3 +71,12 @@ I can’t get enough of your presence
 The Lord has given us freedom
 given us freedom
 given us joy
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

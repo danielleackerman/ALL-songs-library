@@ -42,3 +42,12 @@ Take [D]joy, my King, in [G]what You [D]hear, May it be a [G]sweet, [D]sweet [A]
 VERSE 2:
 I [D]love You Lord and I [G]lift my [D]life, [Em] [D]To [G]give [D]to [Em]You as a [D]sacri[A]fice,
 Take [D]joy my King in [G]what you [D]see, Let Your [G]spirit of [A]love reign in [D]me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

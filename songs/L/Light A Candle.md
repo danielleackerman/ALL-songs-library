@@ -73,3 +73,12 @@ light [G/d]candle for me,[Cmaj9]       I'll light a [G/D]candle [D9]for you
 (i will)
 [Em]light a [G/D]candle for me[Cmaj9]
 [C]I'll light a candle [D5]for [G(add2)]you
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

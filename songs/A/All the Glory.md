@@ -55,3 +55,12 @@ VERSE 2:
 [AbÆ9]To God be [Eb2/G]the glory [Fm11]for He has done[Bb/D] great[Cm7] things[A9#11]
 [AbÆ9]To God be [Eb2/G]the glory [Fm11]for He has [Eb]done [Ebsus/F]great [Eb/G]things[G7#5#9]
 For [Gb/B]all the mighty things[Ab/Db] that He has [Eb]done
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

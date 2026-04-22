@@ -82,3 +82,12 @@ But [EbM7]they don't [Eb7]know. [AbM9] just what time it is.
 [F713b9][F7#9#5]But while you're [Bbm7]talking, [Abm9]I'm gonna [Db9]keep on [Gb]walking, [Db/F]
 Cause [Bbm7]I've got [Ebm7]heaven [Fm7]on [GbM7]my [GbM7/Ab]mind,
 I've got heaven,  I've got heaven on my mind.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

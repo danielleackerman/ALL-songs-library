@@ -52,3 +52,12 @@ Teach us how [B]to love each other, lift u[A]s to the[E] joy [(B)]divine
 ENDING:
 God our Father, Christ our Brother, All who live in love are thine
 Teach us how to love each other
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

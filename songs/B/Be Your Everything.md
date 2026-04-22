@@ -61,3 +61,12 @@ Let Me [C]be your every[Em]thing    [C] [G] [D] [Em] [C] [G] [D]
 So bring your [Em]sorrow br[C]ing your sh[G]ame, [D]  All your [Em]suffering a[C]nd your [G]pain
 [D]Don't you [Em]know the pr[C]ice is [G]paid,  If [D]only you'll [A]let Me [Am]be [C]
 If [D]only you'll [A]let Me [Am]be [C], [C]Be your [D]every[G]thing, [C] [G] , Your [D]every[Em]thing [C] [G] [D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

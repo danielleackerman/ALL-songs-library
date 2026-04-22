@@ -53,3 +53,12 @@ Lord I have to say, I'm not satified today
 I want to be closer to You
 So if somehow You see that there's a change I need in me
 Then Lord change me, to be more like You.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

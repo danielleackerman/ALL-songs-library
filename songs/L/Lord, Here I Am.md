@@ -32,3 +32,12 @@ That brings [Eb/F]glory [F/A]unto [Bb7sus]You
 [Eb/G]part of [AbM9]me, [Abm6/Db]use me [Eb/Bb]Lord,
 
 [C7b9]I'm a---[Fm9]vaila---[Bb9]ble to [Eb]You.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

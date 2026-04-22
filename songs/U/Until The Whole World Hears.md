@@ -94,3 +94,12 @@ We'll sing until the whole world hears…whoa  whoa
 Congregation sings (a cappella):
 We'll sing until the whole world hears…whoa  whoa
 We'll sing until the whole world hears (end)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

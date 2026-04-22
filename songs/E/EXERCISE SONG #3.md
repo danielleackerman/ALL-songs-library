@@ -81,3 +81,12 @@ Minor 11th Chords on the ii chord (b3, b7, 9, 11)
 [G2] [/] [/] [/] [E7b9] [/] [/] [/] [Am11] [/] [/] [D7b9] [/] [/] [/]
 
 [G2] [/] [/] [/]  [G#dim7] [/] [/] [/] [Am9] [/] [/] [/] [D11] [/] [/] [/] [Gmaj7]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -32,3 +32,12 @@ I (Dm7)shall (G7)for(C)ever (F)lift mine (Em)eyes (Dm7)to (C)Calvary,
 To(Dm7) view(G7) the(Am) cross, wh(F)ere J(C)esus di(D7/AG7)ed for me
 How (Em)mar(G/D)vel(C)ous (Caug)the (F)grace that caught my (C)falling (Am)soul
 He(Fm/Ab) Looked (C/G)beyond my faul(F/G)t and(G7C) saw my need.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

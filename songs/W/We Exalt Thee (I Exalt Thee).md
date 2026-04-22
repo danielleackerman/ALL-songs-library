@@ -29,3 +29,12 @@ We [A]exalt Thee
 We [G]exalt The[Em]e, O [D]Lord. [A]                (2x)
 
 (I exalt Thee...)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

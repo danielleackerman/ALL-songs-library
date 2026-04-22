@@ -50,3 +50,12 @@ I searched for peace among the shadows dark and lonely.
 Gave up on finding that strong and lasting love.
 I tasted all the things that sin could think to offer me.
 But today I feast on manna from above.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

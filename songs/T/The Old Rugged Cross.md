@@ -65,3 +65,12 @@ Then He'll call me some day, to my home far away
 Where His glory forever I'll share.
 
 Os apo slow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

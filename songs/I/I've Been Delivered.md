@@ -58,3 +58,12 @@ You free. Cause You know when He sets You free
 You know You're free indeed
 
 [I'VE] [BEEN] [DELIVERED]   [C-D-Eb-F-G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

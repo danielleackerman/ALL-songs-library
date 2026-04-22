@@ -67,3 +67,12 @@ We [E]stand in awe Almighty Father,
 [E/Ab]Glory and honor [Dbm]to [B]You.     (to Chor:) [A/B]
 
 To End:    [B/Eb]to  [E]You
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

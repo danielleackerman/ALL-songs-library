@@ -77,3 +77,12 @@ ENDING:
 [F]We[G] c[Am]all out to dry bones come alive, yeah
 [F]We[G] c[C]all out to dry bones come alive
 [Am]Oh,[C] come alive
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

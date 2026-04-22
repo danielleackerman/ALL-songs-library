@@ -113,3 +113,12 @@ BRIDGE:
 [C/Bb]Lay down lay down your troubles now.
 [F7/A]  Lay down lay down your [F7]troubles now,
 [Gsus]Oh
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

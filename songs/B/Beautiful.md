@@ -32,3 +32,12 @@ CHORUS:
 BRIDGE:
 [G]Giver of grace, [Bm7]filler of souls, a[C]nointed one, Bringing healing upon [G]us
 [G]Giver of grace, [G/B]filler of souls, a[C]nointed one, Coming [Am]soon [G]again
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

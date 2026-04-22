@@ -54,3 +54,12 @@ The[F7]Sweetest [Cm/F]name [F7]I [Bb]know [Eb/F]
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

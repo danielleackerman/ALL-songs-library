@@ -38,3 +38,12 @@ For You are my [Eb/G]Lord.  [Dm/F] You are my [Gm]Lord
 VERSE 2:
 [Gm]More faith,  [Gm/Eb]more passion,  [F]more of You in [Dm]my [Gm]life
 [Gm]More faith,  [Gm/Eb]more passion,  [F]more of You in my [Gm]life
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

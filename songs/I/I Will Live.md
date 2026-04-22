@@ -54,3 +54,12 @@ Cho:SAT
 Sat
 [Bb/D]I will [Eb2]live [F/A]I will [Bb2] live (REPEAT 3x)
 [Bb/D]I will [Eb/G]live [F/A]I will [Bb2] live
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

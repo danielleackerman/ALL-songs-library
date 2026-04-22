@@ -80,3 +80,12 @@ Our [Bm7]God is an [C#m]Awesome [F#]God
 Our [Bm7]God is an [C#m]Awesome [F#]God
 
 [F#m7][F#][Bm7][C#m7][F#][F#m]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

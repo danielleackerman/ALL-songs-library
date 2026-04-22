@@ -59,3 +59,12 @@ Bridge (3x):
 [D/G]Washed in the blood of Your [A]sacrifice [D]Your blood flowed red and [A/B]made me white
 [D/G]My dirty rags are [A]purified, I am [D]clean[A/B]
 I am [D]clean[A/B], I am [D]clean[A/B]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

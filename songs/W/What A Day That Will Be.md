@@ -65,3 +65,12 @@ And forever I will be with the One who died for me,
 What a day, glorious day that will be.
 
 Os apo slow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

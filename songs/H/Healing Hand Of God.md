@@ -74,3 +74,12 @@ Our sp[C#m]irit is renewed.
 [E]And h[F#m]old on to w[E]hat's being[A] held out (x2)
 The he[B]aling [C#m]hand of G[A]od[E][B]
 [C#m]Oh      [A]Oh              [E]Oh      [B]Oh
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

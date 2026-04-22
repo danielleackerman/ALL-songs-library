@@ -37,3 +37,12 @@ Ho[Eb]san[Eb7/G]na, [Ab]blessed be the [Eb]rock   [Eb7/G]
 And   may   the  [Ab]God  of  my  sal   [Eb]vation  be  ex  [Bb]alt  [Eb]ed.
 
 mod apo med, ccli
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

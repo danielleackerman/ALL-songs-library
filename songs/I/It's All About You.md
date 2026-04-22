@@ -43,3 +43,12 @@ this may very well be the most important!
 If you want to play with the CD capo2 all chords are relative. I couldn't seem
 to find this anywhere so just did it myself. May God Bless You all and continue
 to praise and worship His name, cause it really is all about Him.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

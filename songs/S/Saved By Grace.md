@@ -57,3 +57,12 @@ VERSE 2:
 [D/Gb]the [Gm7]gates swing open [C7]wide
 I'm gonna [Gm7]sing redemption [C7]story,
 Of how He [Gm7]brought me from the [C7]other [F]side.     [Bb/C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

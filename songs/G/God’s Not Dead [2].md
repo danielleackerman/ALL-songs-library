@@ -59,3 +59,12 @@ I  [F]feel  Him  in  my  [Dm]heart,  I   [F]feel  Him  all  over   [Dm]me
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

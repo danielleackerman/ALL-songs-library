@@ -65,3 +65,12 @@ I [A#m7]love you, with a[C#/D#]ll of my [G#]life.  [D#/G] [Fm]
 
 I [A#m7]love you, with a[C#/D#]ll of my [G#]life.  [D#/G] [Fm]
 I [A#m7]love you, with a[C#/D#]ll of my [G#]life.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

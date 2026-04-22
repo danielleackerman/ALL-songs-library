@@ -55,3 +55,12 @@ Oh Lord, You're beautiful
 Your face is all I seek
 For when your eyes are on this child
 Your faith abounds to me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -95,3 +95,12 @@ I know (I know), I know (I know)
 You never will (You never will)
 I know (never lost), I know
 You never will
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

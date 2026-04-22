@@ -55,3 +55,12 @@ id: 0F42E263-B534-4A9F-97DC-FB6F85E97E26
 
 [G]
 [F][A][B][D][/][G]       [Gb][Bb][C][Eb][/][Ab]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

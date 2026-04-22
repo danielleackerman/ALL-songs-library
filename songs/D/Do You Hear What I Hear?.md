@@ -63,3 +63,12 @@ He will br[F]ing us go[G7]odness and l[E7]ight
 He will br[F]ing us go[G7]odness and l[C]ight
 
 [C]     [-]    [Cadd9]         [-]     [C]     [-]     [Cadd9]         [-]     [C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

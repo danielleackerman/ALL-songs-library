@@ -45,3 +45,12 @@ Give [Eb]glory to the [Eb7/G]Lord in the [Ab]sanctu[A7dim]ary
 Give [Eb]glory [Db9]to the [C7b9#5]Lord in the [F9]house [Bb7]of [Eb]praise.
 
 2.  Lift the Savior up.....
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

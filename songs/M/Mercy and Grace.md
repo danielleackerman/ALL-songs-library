@@ -57,3 +57,12 @@ I need your g[Db]race
 [Db/B]Mercy, Mercy
 [Db/Bb]Mercy, Mercy,
 [Gb/Ab]Grace, [Db]Grace
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

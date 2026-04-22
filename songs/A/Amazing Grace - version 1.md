@@ -40,3 +40,12 @@ id: F6624A5D-C800-40A4-BF8B-82AE6B892A54
 [B+9]Was [Em7]blind [Cm/D#]but [G/D]now [D9]I [G]see
 
 OS Gospel Slow, OS APO Slow
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

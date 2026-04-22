@@ -45,3 +45,12 @@ before the Lord of all the earth.
 6 The Heavens proclaim his righteouness,
 and all the peoples see his Glory.
 (let it rain)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

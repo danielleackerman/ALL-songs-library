@@ -61,3 +61,12 @@ Instumental:
 TAG:
 The [C]Babe, the [Bm]Son of [Em]Mary.
 The [C]Babe, the [Bm]Son of [Em]Mary.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

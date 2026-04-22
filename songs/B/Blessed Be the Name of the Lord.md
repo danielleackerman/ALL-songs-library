@@ -44,3 +44,12 @@ Jesus reigns on high above the earth
 Jesus reigns on high above the earth
 The universe is in the hands of the Lord
 The universe is in the hands of the Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -70,3 +70,12 @@ And [D2]that's the [D/G]reason [G]why I [A/F#]love [Em7]Him [D]so, [C#][C]
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

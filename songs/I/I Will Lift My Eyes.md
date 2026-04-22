@@ -61,3 +61,12 @@ So hold me [Esus]now   [E]  (to chorus)
 
 OUTRO:
 [A]   God, my[F#m7(4)] God,   I cry [E]out, Your be-[D2]loved needs You now
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

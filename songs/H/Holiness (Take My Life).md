@@ -42,3 +42,12 @@ VERSE 3:
 [G]Righteous-[C]ness, righteous-[D]ness is what [C]You want fr[G]om [C]me.[D]   [C]
 
 Repeat Verse 1
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -65,3 +65,12 @@ Oh [G]I wanna be [D]caught up in the middle of [A]You[A]
 A (all the way out)
 Caught up in the middle
 Caught up
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

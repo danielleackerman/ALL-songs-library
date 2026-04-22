@@ -51,3 +51,12 @@ G6* - e|--|--|--|
 A great song...
 that is basically it, there is some picking and some random notes
 you'll have to work out.Good luck! And if you see any problems let me know
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

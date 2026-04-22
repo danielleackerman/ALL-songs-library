@@ -45,3 +45,12 @@ It's no secret that we don't belong here
 Those set apart by the grace of You
 And we look for the day when we go to a place
 Where the old becomes brand knew
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

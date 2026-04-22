@@ -49,3 +49,12 @@ To [A]You our [E/G#]lives we [F#m]raise
 You are [B7]awesome in this [B]place [E/B]Migh[B]ty [E]God
 
 Mod apo slow, ccli,
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

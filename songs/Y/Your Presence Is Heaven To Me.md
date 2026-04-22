@@ -62,3 +62,12 @@ VERSE 2:
 (repeat, repeat, repeat, repeat, repeat...........last time)
 
 [Db]Oh Jesus [Bbm7]Oh Jesus [Ab]    [Gb]Your presence is heaven to me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

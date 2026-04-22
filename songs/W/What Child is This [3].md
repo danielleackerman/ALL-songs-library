@@ -78,3 +78,12 @@ Whom s[C]hepherds [Am7]guard and [B7]angels sing.
 [G]Haste, haste to [D]bring Him [Bm]laud,
     C         B7      Em-add9  (hold, -backwards strum-end)
 The Babe, the Son of Mary.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

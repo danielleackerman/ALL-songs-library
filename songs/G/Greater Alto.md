@@ -72,3 +72,12 @@ BRIDGE 2:
 
 [Gb2][ti]And [ti]if [ti]our [ti]God [do]is [ti]with [la]us,
 [Db/F][fa]then [fa]what [fa]can [fa]stand [Ebm7][mi]aga[fa]inst [BM9][Gb2][Db2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

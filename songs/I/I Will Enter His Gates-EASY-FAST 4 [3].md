@@ -42,3 +42,12 @@ CHORUS:
 [Gm7]He has [/]made me [Ab]glad,  [/],  [Gm7]He has [/][Ab]made [Bb]me [Cm7]glad,
 
 [/][Eb]I [Fm7]will rejo[/]ice [Eb]for [Bb]He has [Ab/Bb]ma[/]de [Bb7]me [Eb]glad   [/]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

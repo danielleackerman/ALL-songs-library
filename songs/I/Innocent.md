@@ -50,3 +50,12 @@ Repeat chorus
 [Bb] [Bb] [Bb] [Bb]   [C] [C] [C] [C]       [C] [C] [C] [C]
 
 Repeat chorus twice
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

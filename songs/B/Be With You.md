@@ -63,3 +63,12 @@ As they [Am]crash into the sea, Can I [C]be with [Em]you? [C] [D] Can I be with 
 Philippians 1:9-11
 II Thessalonians 1:3
 Revelation 6:12-14
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

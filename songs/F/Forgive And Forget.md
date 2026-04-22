@@ -54,3 +54,12 @@ Where all my shame is gone I'm living in the freedom
 Of forgiveness and grace It's all I am counting on
 
 Chorus 2x
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

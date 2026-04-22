@@ -59,3 +59,12 @@ The Word is al[E]ive  (His [F#]truth, it will not pass a[G#m]way)[B]
 His Word is a[E]live  (His word is a[F#]live, His word is a[G#m]live)[B]
 
 E
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

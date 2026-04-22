@@ -64,3 +64,12 @@ You are here[F] touching every life[C]
 I worship You[G], I worship You[Am]
 You are here[F] meeting every need[C]
 I worship You[G], I worship You[Am]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

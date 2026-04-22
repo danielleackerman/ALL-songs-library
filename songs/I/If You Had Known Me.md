@@ -42,3 +42,12 @@ Well I hadn't much to offer, just heartache and pain
 And a life that was filled with despair
 But for my rags He traded riches, for my fears He traded peace
 And for my old life He gave me such a blessed release.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

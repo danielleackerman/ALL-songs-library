@@ -37,3 +37,12 @@ id: F7E2A8B4-56E4-4EFC-BC5B-F408E2EECC96
 [F]Just [C/A]be[Bb]cause You're [C/E]coming back for [F]me,
 
 [F]I [C/A]will [Bb]praise You e[C/E]ternal[F]ly.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

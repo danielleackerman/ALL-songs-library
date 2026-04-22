@@ -63,3 +63,12 @@ And I will make your glory known
 Let your excellence be shown
 Worshipping before your throne
 Forever and ever
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

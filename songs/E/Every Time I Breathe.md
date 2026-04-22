@@ -50,3 +50,12 @@ You are ma[D]rvelous God and knowing [Asus]You is everything
 
 CHORUS:
 [Outro:]        [D]  [-]  [G]  [-]  [Bm]   [-]  [D/F#]     [-] I[G]’m so in love with Y[D]ou!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -43,3 +43,12 @@ His Joy is my strenth, The Word is my sword
 The battle's not mine, it belongs to the Lord
 
 [Bb#9#5] [=] [D] [Gb] [Bb] [Db] [/] [Bb] [Ab]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

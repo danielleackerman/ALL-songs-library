@@ -25,3 +25,12 @@ id: B38A5EAD-B740-408E-BFB3-439E28D8F8CD
 [A7/Db]Heavenly [Dm7]Father I ap[G9]preciate [Gm\C]You. [C7]
 [Bb/D]I [FM7]love You, I a[Eb/F]dore You, [A7+]I [Bb2]bow down be[Bdim]fore You
 [Bbm/Db]Heavenly [F/C]Father I ap[Gm7]preci[C7]ate [F]You.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

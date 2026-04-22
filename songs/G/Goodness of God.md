@@ -131,3 +131,12 @@ Oh, I will sin[Db]g of the good[Eb]ness of G[Fm]od [Ab]
 >yellow: soloist of the goodness of God
 >yellow: soloist Oh, I will sin[Db]g of the good[Eb]ness of God [Ab]
 Oh, I will sin[Db]g of the good[Eb]ness of G[Fm]od [Ab]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

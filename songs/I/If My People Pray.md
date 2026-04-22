@@ -70,3 +70,12 @@ Inst. Tag:
 [E] - [C#m7] - [G#m7] - [F#m7] - [Bsus]
 
 E - C#m7 - G#m7 - F#m7 - Bsus – B – E
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

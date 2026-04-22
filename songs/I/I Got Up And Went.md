@@ -74,3 +74,12 @@ I remember the [Bb]time that the [Bb]spirit said come
 I got up [Eb]and [Ab]went
 I remember the [Bb]time that the [Bb]spirit said come
 I got up [Eb]and [Gb]went [Ab] [Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -33,3 +33,12 @@ one little stone went in the sling
 and the [C]sling went round and [F]round
 [Bb]round and round and round and round and round and round and [Eb]round
 [Bb]one little stone went up and that you know the [F]giant came tumbling [Bb]down
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

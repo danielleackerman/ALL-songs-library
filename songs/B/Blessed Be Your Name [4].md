@@ -45,3 +45,12 @@ Though there's [C#2]pain in the [G#]offering, [F#]blessed be Your name
 
 [C#2]You give and take [G#]away, You [Bbm7]give and take [F#]away
 [C#2]My heart will choose to [G#]say Lord [Bbm7]blessed be Your name[F#]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -63,3 +63,12 @@ OUTRO:
 [Bbm7]Jesus [Eb9sus]is the [Ab]way [Fm7]
 [Bbm7]Jesus [Ab/Eb]is [Db/Eb]the [Ab]way [Ab/C]
 [Bbm7]Jesus [Eb9sus]is the [Eb]way
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

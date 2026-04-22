@@ -34,3 +34,12 @@ You paid the price for me, way back on Calvary
 That's why I praise You, I lift You up
 I magnify Your name
 That's why my heart is filled with praise.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

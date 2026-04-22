@@ -72,3 +72,12 @@ Darling we have both been sheltered in the arms of God
 The arms of God
 
 Sheltered in the Arms of God lyrics © Peermusic Ltd., Songs Of Rambo Mcguire, Peertunes Ltd
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -46,3 +46,12 @@ An[Am]d may my heart truly s[D]ay
 [G]Yes [Em]Lor[C]d, you a[G]re, you [Em]are my o[C]ne and onl[D]y
 [G]Yes [Em]Lor[C]d, you a[G]re, you [Em]are my [C]one and on[D]ly
 [G]Yes [Em]Lor[C]d, you a[G]re, you [Em]are my [C]one and only G[D]od[G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

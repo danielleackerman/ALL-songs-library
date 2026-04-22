@@ -46,3 +46,12 @@ Mary, did you [Cm]know that your [Bb]baby boy, Is [Ab]Lord of all cre[G7]ation?
 Mary, did you [Cm]know that your [Bb]baby boy, Will [Fm]one day rule the [Gsus]na[G]tions?
 Did you [Fm7]know that your [Bb]baby boy, Is [Eb]heaven's [Bb]perfect [Cm]lamb?
 This [Fm7]sleeping child you're [F]holding, Is the [G]great [G7]I [Cm]Am. [Fm] [Dm] [G] [Cm] [Ab] [G] [Cm]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

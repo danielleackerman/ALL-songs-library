@@ -62,3 +62,12 @@ If you're ashamed of me, you have no cause to be
 For with Christ I am an heir
 If too much fault you find, you will sure be left behind
 While I go sailing thru the air.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

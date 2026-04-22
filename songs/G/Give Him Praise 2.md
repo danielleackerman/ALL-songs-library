@@ -111,3 +111,12 @@ You are worthy, Nobody but - Nobody but
 OUTRO:
 [Bb13]Halle[Db13]lujah, Hallelujah
 [Eb13]Hallelujah, [Gb13]You’re worthy of the [Ab]praise
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

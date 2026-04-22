@@ -51,3 +51,12 @@ BRIDGE:
 [Em7]You deliver [Cadd9]me, You [D/F#]deliver m[G]e.
 
 End on G
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

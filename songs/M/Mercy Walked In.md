@@ -96,3 +96,12 @@ Forgiven when mercy walked in
 
 The blood was presented that covered my sin
 forgiven when mercy walked in
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

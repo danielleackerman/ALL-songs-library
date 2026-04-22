@@ -53,3 +53,12 @@ we will worship and adore you
 
 as we offer you this praise
 let your glory fill this place
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

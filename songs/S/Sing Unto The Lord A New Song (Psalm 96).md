@@ -51,3 +51,12 @@ Medley: I will sing (unto the Lord)/ dance like David danced / yahweh the Lord i
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

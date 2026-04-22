@@ -50,3 +50,12 @@ I.  [G]feel  Him  in  my.  [Em]heart,  I   [G]feel  Him  all  over   [Em]me
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

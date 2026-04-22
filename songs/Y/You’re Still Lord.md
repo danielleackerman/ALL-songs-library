@@ -61,3 +61,12 @@ In little or [DbM7]much, I still feel [F7+/A]Your [Bbm7]touch, You’re still [A
 [Gb/Bb]You’re [Ab/C]still [DbM7]Lord, [B/Ab] You’re [F7+]still my [GbM7]Father  [Fm7] [Ebm7]
 You’ll [Gbm/A]always be [Db/Ab]mine, [Bbm7]for all of [Ebm7]time, You’re still [Ab/Ebm]Lord [Gb/Ab]to    [Dbsus][Db]me.
 You’ll [Gbm/A]always be [Db/Ab]mine, [Bbm7]for all of [Ebm7]time, You’re still [Ab/Ebm]Lord [Gb/Ab]to    [Dbsus][Db]me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

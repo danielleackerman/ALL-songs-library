@@ -57,3 +57,12 @@ When my feeble life is o'er
 Time for me will be no more
 Guide me gently, safely o'er
 To Thy kingdom shore, to Thy shore.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

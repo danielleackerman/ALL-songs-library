@@ -29,3 +29,12 @@ VERSE 1:
   [F]          [Fm][a]j7  [F]      [C]          [C2]  [C]
   [C2]                    [C]
   C2                    C                     C
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

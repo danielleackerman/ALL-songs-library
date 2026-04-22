@@ -49,3 +49,12 @@ VERSE 2:
 [G7]I [C]thought I could make it all a[G]lone
 I thought of my[C/G]self [G]as a [G]mighty [B7/D#]big [Em7]man
 But [Cm/Eb]I [G]can't e[C/G]ven walk without You [D7]holding my [G]hand.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

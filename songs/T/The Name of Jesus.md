@@ -86,3 +86,12 @@ There's healing in the name of [Abm7]Jesus, There's peace in the name of [Dbsus]
 
 BRIDGE:
 His name is [Gb]Jesus, His [Bb]name [Ebm7]is Jesus [Abm7] [Db7] [Gb] [Db] [Gb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

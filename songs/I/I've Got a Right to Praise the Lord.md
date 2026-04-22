@@ -62,3 +62,12 @@ I've got a right to lift my hands and shout when I think of how he died for me
 [F/C]I've got a right to [Dm7]tell the world so Let the [G7]children of the [C7]Lord re[F]joice [Bb/C]
 
 Os apo med, os gospel med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

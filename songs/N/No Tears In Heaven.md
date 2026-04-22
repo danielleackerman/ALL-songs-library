@@ -48,3 +48,12 @@ VERSE 3:
 O’er things this life has [C/E]bro’t [Bo]to [C]view;  [Bo] [C]
 [F]All will be clearer, looved ones be dearer,
 In [F7]Heav’n [Gm]where [F]all [Dm]will [C]be made [F]new.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

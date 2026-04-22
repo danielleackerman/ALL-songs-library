@@ -48,3 +48,12 @@ And I Jesus Christ His only begotten [Gsus] 		son [G]our Lor[Gsus]d[G][Gsus][C][
 [C]I believe in the Holy S[F/C]pirit, one Holy [C]Church	the c[F/C]ommunion of Saints[F/C]
 The forgiveness[C] of sin      I bel[F/C]ieve i[C]n the resurrection[F/C][C][F/C]
 I believe in a[C] life that never en[F/C]ds
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

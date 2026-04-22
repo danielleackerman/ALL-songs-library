@@ -51,3 +51,12 @@ We  [C/E]serve   [D/Gb]a   [Gm7]great   [C7]big   [Bb/F]Go   -[F]d.
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

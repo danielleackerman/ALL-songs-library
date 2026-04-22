@@ -62,3 +62,12 @@ CHORUS 3:
 [G#]Jesus, Lord of [B/C#]every[C#]thing[C#m7/F#]         [F#]
 [B]Oh,[Bmaj7/D#]  the    [E]love that [B]bought [G#m7]sal -[F#sus] va - [F#]tion
 [B]Christ[B7/D#] my   [E]All [E/G#]will [B/F#]ev - [F#]er [B]be
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

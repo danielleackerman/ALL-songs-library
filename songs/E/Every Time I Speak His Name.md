@@ -60,3 +60,12 @@ BRIDGE:
 It's a [Gm7]mystery, [Gbdim]I agree, I [Bb/F]never could ex[Gm/E]plain
 But it [Cm9]happens every [F13]time I speak [Gm7]Je[Gm/F]e[Gm7/Eb]sus
 It [Cm9]happens every [F13]time I [F7/A]speak His [Bbsus][Bb]name.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

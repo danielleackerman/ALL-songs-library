@@ -75,3 +75,12 @@ Thank [Ab]God that [Fm]yesterday's [Eb]gone
 Source: LyricFind
 Songwriters: David Crowder / Ed Cash
 All My Hope lyrics © Capitol Christian Music Group, Music Services, Inc
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

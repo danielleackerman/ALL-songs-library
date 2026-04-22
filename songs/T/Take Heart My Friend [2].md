@@ -52,3 +52,12 @@ When we [E#m]wander, He is our [D/F#]Shepherd
 He who [Am]watches over us never [D]sleeps
 
 Repeat Chorus 2X
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

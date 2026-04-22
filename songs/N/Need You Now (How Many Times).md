@@ -62,3 +62,12 @@ I need you now[Bb][Dm]
 Oh I nee[Gm]d you God I ne[Cm]ed you now[Bb][Dm]
  I need you now[Bb][Dm]
 I need you now[Bb]........
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -47,3 +47,12 @@ You just call My na[D]me[A]  [E]
 [A]Call My name s[E]ay it now
 [B]I want you to n[F#m]ever doubt
 The lo[A]ve I have for yo[E]u is so ali[B]ve
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

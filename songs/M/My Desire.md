@@ -85,3 +85,12 @@ There's not [C#m]much I can do to repa[B]y all you've done
 so I give my hands to use
 
 CHORUS:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

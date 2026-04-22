@@ -63,3 +63,12 @@ And take[G] just a little time a[D/F#]nd try to understand,[C]
 That there’s more goin[Bm7]g on,[F#m7][D2]
                                               |  a   |  e/g#   d2|
   Than what these eyes can see.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

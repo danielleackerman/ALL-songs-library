@@ -110,3 +110,12 @@ For the battle belongs to you, Lord
 I'm gonna see a victory
 I'm gonna see a victory
 For the battle belongs to you, Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

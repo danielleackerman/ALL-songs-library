@@ -70,3 +70,12 @@ He's God in California
 He's God in Tennessee
 He's God in Grants Pass Oregon
 And He's God all over me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

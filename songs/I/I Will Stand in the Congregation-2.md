@@ -44,3 +44,12 @@ You are worthy of my worship,  I'll exalt Your name,
 You are worthy of my worship,  I'll exalt Your name,  Hallelujah,
 
 Os apo med slow, os christian med, praise, exaltation, declaration worship
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

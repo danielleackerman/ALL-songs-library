@@ -27,3 +27,12 @@ Halle[Eb/Bb]lujah, Jesus [Ab/Bb]can.
 He [Bb7/Ab]is [Eb7/G]willing, and He is [Ab]able,
 
 [Fm7]Halle[Eb/Bb]lujah, [Ab/Bb]Jesus [Eb]can.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

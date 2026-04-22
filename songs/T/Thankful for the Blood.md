@@ -73,3 +73,12 @@ For the blood, For your love, From above, Lord I'm thankful
 
 OUTRO:
 [Bm]Thank[A]ful
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

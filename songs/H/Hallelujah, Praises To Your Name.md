@@ -24,3 +24,12 @@ id: FC9CC827-F553-40D6-8A94-833D6A31004B
 [Fm7]Holy, [Eb/G]Holy [Ab/Eb]let every tongue [Bb]proclaim
 Ho[Ab]o[Bb][Eb]aann[Bbm]a, [Fm/Eb]joyfully we [Eb]raise
 And [Ab]lift to [Eb/G]You our [Fm7]sacri[Bb7]fice of [Eb]praise.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

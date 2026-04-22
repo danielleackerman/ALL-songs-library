@@ -65,3 +65,12 @@ Le[Em7]t this ol[D/F#]d life crumble,[Asus] let it fade….
 
 Have you been [Dno3]standing [Dmaj7no3]on your o[Dno3]wn fee[Dmaj7no3]t too long?
 Have you been [Dno3]looking f[Dno3/B]or a place wher[G2]e you belong?
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

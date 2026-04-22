@@ -33,3 +33,12 @@ I'm thankful for the blood of Jesus
 
 VERSE 3:
 There's power in the blood of Jesus
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

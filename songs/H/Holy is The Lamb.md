@@ -32,3 +32,12 @@ BRIDGE:
 [Ab7/C]Sing[Db],"Glory [Ab]Glory [Eb]Glory
 [Eb/F]to [Eb7/G]His [Ab]name [Ab][Ab/C]forever
 [Db]Glory [Ab]Glo[Fm7]ry [Ab/Eb]Glory [Eb]to [Db/Ab]His [Ab]name. [Db/Eb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

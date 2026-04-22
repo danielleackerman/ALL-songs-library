@@ -45,3 +45,12 @@ Whose [Em]Glory goes [D]on for e[A]ternity[G]
 BRIDGE:
 [C]Lord I tremble with the [G]truth that You think of [F]me
 [C]There’s no end to what You’ll [G]do for Your [F]glory
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

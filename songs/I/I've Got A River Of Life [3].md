@@ -58,3 +58,12 @@ VERSE 3:
 It [F]turns me from my [Dm]day, makes Him [G7]Lord a[C7]gain.
 [F]As my spirit [F7/A]burns, Satan [Bb]cannot [F]win.
 [F]Calling,"Oh Lord Jesus," [Bb]keeps the [F/C]flow [C7]with[F]in.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

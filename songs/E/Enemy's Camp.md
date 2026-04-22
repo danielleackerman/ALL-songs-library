@@ -72,3 +72,12 @@ Set my feet up on the solid ground
 Can you believe what the Lord has done in me
 
 Look what the Lord has done
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

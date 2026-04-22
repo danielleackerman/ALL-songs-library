@@ -29,3 +29,12 @@ I [Am7]want to be a vess[A]el You    [D2sus] work t[Dm]hroug[Dm/C]h
 [G]I  [Bm7] want to be mor[C]e like[C/D] You[D/C]
 I [Bm7]want to be a vess[B]el You    [E2sus] work t[Em]hroug[Em/D]h
 [Am7]I   [G/B]     [C]        want to b[C/D]e more  [D]like [G]You[C/D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

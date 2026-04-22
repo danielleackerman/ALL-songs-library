@@ -88,3 +88,12 @@ Great is the measure
 Great is the measure of our Father's love
 So great, so great
 So great is the measure of our Father's love
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

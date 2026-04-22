@@ -113,3 +113,12 @@ C                                   f2,6
 Am7(4)                 Am7(4)       F2,6
                                   G
        My heart is spo  - ken for
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

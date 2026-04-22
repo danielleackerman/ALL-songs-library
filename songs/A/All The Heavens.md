@@ -39,3 +39,12 @@ I can [F]only make my one [G]de[Am]sire, [F]Holding [G]on to [G7]The[C]e
 
 I will [F]always make my one [G]de[Am]sire, [F]Holding [G]on to [G7]The[C]e
 [F]Holding [G]on to [G7]The[C]e
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

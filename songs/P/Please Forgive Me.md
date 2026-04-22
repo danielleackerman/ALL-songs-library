@@ -56,3 +56,12 @@ Would [C]take the time to [C/E]care for one like [F]me
 But I read in the [F/A]bible that old [Bb]story.   [Gm]
 How He [F]pled for [C2/E]my for----[Dm]giveness
 While He was [C]dying on a [F]tree.      [Bb/C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

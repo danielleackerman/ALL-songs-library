@@ -40,3 +40,12 @@ The  [Ab/A]glory  [Gm/Bb]of   the  [Bdim]Lord Is  [C9#5]coming   [F]down.
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

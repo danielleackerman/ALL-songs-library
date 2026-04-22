@@ -44,3 +44,12 @@ VERSE 3:
 [Eb]Waiting on the Lord, having [Bb]great de[Bb7]sire,
 [Eb]Waiting on the Lord, for the [Ab]heave’nly fire
 [Bb]Waiting in the up[Bb7]per [Eb]room.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

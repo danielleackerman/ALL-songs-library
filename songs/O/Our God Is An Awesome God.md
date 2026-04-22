@@ -48,3 +48,12 @@ Out of Eden. It wasn't for no reason that He
 [Em]Shed His blood. His [C]return is very soon and
 So You [Am]better be believing
 That our [C]God is and [D]awesome [Em]God
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

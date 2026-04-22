@@ -68,3 +68,12 @@ Pre[E]cious [G]Jes[E]us.  P[G]reciuos Jesus.
 Note: This is a simplified version.  It is not to be played
 	with the CD.  I think capoing up one fret will
 	solve this.  This is for private or preformance use.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

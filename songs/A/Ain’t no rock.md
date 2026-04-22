@@ -45,3 +45,12 @@ Just [E]use line breaks to [B]make lines
 CHORUS:
 [E2]You can also [Esus4]repeat the chorus with [B]notes
 (Repeat 3x)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

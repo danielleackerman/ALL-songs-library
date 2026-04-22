@@ -63,3 +63,12 @@ I want to scale the upmost height
 And catch a gleam of glory bright
 But still I'll pray till Heav'n I've found
 Lord. lead me on to higher ground.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

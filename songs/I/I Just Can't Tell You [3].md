@@ -29,3 +29,12 @@ He's [Eb]proven to [Eb/G]me time and [Bbm/Ab]time a[Fm7]gain,
 [Eb/Bb]I just can't [Eb/C]tell you how [Fm7]good [Ab/Bb]He's [Eb]been.
 
 I just can't tell you how faithful He's been.....
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

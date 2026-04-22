@@ -81,3 +81,12 @@ Minor 11th Chords on the iii chord (b3, b7, 9, 11)
 [Gmaj7] [/] [/] [/] [C2] [/] [/] [/] [Bm11] [/] [/] [E7b9] [/] [/] [/]
 
 [Am9] [/] [/] [/]  [D7b9] [/] [/] [/] [Gsus4] [/] [/] [/] [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

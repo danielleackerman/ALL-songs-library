@@ -82,3 +82,12 @@ Why should we ever faint? [Refrain]
 Lo, even to the end!
 Look up, take courage and go forward,
 All needed grace He’ll send! [Refrain]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

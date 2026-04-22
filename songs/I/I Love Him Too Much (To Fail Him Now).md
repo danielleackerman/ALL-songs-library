@@ -46,3 +46,12 @@ Oh the years have drawn us closer, My love for Him has grown;
 Each step has brought me nearer to my eternal home,
 And I'm just too close to Heaven to turn back now,
 His grace will be sufficient, I'm gonna make it somehow!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

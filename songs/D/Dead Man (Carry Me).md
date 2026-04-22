@@ -43,3 +43,12 @@ Can you fin[E]d a beat inside o[D]f me?
 Any pul[E]se? Getting worse? [E]
 Any pu[D2]lse? Getting worse?[D2]
 [E]Inside of me, can you find [D2]a beat?
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -63,3 +63,12 @@ Praise the Lord (praise the Lord) 3x
 
 Praise the Lord everbody (say, said) (praise the Lord) 4x
 Everybody ought to praise the Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

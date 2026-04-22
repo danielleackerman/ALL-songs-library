@@ -61,3 +61,12 @@ I fear no foe, with thee at hand to bless
 Ills have no weight and tears no bitterness,
 Where is death’s sting? Where grave thy victory?
 I triumph still if thou abide with me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

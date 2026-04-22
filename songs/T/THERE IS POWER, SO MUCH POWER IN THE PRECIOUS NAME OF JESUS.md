@@ -39,3 +39,12 @@ Precious [F]Jesus precious Jesus
 Every [Bb9]tongue con[F]fess
 Precious [F]Jesus precious [F/C]je[C#dim7][Dm9]sus
 Bless the [F/C]Holy [Dm9][C#dim7]name[C9] of [Bb/F]je[F]sus
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

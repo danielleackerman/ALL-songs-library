@@ -62,3 +62,12 @@ Medley: we bring the sacrifice of praise
 [Bb]praising can
 [F]do, Halle
 [C7]lu[F]jah
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

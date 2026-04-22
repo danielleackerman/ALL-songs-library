@@ -67,3 +67,12 @@ I will [A]live, I will not die[G]
 I will dec[D]lare and lift You [Bm]high, Christ re[C]vealed
 And I am [G]healed in Jesus Name[D], in Je[C]sus Name[D]
 In Je[C]sus Name[D], in Je[C]sus Name[D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

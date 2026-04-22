@@ -73,3 +73,12 @@ One glimpse [D7/E] of [G2]His dear face  [DM7/F#][Em7]
 All [A] sorrow [G/A] will e[D2]rase  [A/C#]  [Bm7]
 So bravely [Em7]run this race [A2]
 Till [A7]we see [Dsus][D] Christ.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

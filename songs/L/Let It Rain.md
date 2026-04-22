@@ -33,3 +33,12 @@ Let it r[Em7]ain, let it r[C9]ain
 O[G]pen the floodgates of h[D]eaven
 Let it r[Em7]ain, let it r[C9]ain
 O[G]pen the floodgates of h[D]eaven
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

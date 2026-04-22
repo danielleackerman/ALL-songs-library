@@ -49,3 +49,12 @@ I can fix my gaze up through the clouds
 Where I'm gonna be, where I'm gonna be...my heavenly
 My, my heavenly
 My heavenly
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

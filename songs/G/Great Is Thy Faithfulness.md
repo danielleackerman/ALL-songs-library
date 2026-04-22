@@ -57,3 +57,12 @@ id: 80E7D3AD-09BC-4819-BD82-548977FFFF75
 [A7]All I have [D]needed [G]thy h[D]and has pro[Em]vided
 [G]Great is thy [D]faithfulness, [G]Great is thy [D]faithfulness, [G]Great is thy [D]faithfulness!
 [G]Lord [Asus7]   un   -[A7]  to  [D]me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

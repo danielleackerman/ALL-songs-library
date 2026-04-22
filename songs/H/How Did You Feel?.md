@@ -55,3 +55,12 @@ Medley: I'm leanin on Jesus
 
 Did you love everybody when you come out of the wilderness?
 Did you feel like shoutin when you comme out of the wilderness?
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

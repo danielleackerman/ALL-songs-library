@@ -81,3 +81,12 @@ id: 6BBF1509-B025-4C7C-81BC-9D84A0C040EE
 [G] [/] [/] [/] [G11] [/] [/] [/] [Cmaj9] [/] [/] [G] [/] [B7#9] [/]
 
 [Em9] [/] [/] [/]  [A9] [/] [/] [/] [D9] [/] [/] [/] [D11] [/] [/] [/] [G2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

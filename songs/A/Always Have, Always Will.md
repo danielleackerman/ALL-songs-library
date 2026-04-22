@@ -69,3 +69,12 @@ I [G]still slip.   I [Am]still fall.   But [Bb]I'll always run back to you.
      Enjoy!!!!!
 
      If you have questions write me: ccbarkley@hotmail.com
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

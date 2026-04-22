@@ -39,3 +39,12 @@ The [F]righteous run [C]into it and [C11]they are [F]safe.   [C11]
 [F/A]Blessed be the name of the [Bb]Lord    [C11]Most  [F]High
 
 Os christian
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

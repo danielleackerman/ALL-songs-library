@@ -57,3 +57,12 @@ Only [Ab]Jesus, can [Abm]satisfy your [Eb]soul
 He'll give you [Eb]peace you never [Eb7]knew
 Sweet love and [Ab]joy, and heaven [Abm/Db]too
 For only [Eb/Bb]Je----[Cm7]sus, can [Fm]satis----[Bb13]fy [Bb7]your [Eb]soul.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

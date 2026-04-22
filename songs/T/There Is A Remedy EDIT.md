@@ -57,3 +57,12 @@ There is a so[A2]lution, for all the problems deep inside
 There is a [C2]remedy, and His [D]name is Jesus [E]Christ.
 There is a [C2]remedy, and His [D]name is Jesus [E]Christ.
 There is a [C2]remedy, and His [D]name is Jesus [E]Christ.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

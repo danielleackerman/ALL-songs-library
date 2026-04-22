@@ -94,3 +94,12 @@ The family of God
 Source: Musixmatch
 Songwriters: Bill Gaither / William J. Gaither / Gloria L Gaither
 The Family Of God lyrics © Hanna Street Music
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

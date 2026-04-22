@@ -53,3 +53,12 @@ Not the priest or the prophet
 Not the angel or the elder
 Not the cherubim or the seraphim
 Only you alone
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

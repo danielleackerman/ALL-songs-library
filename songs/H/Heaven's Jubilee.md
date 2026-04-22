@@ -63,3 +63,12 @@ When with all that hea'nly host, we begin to sing
 Singing in the Holy Ghost, how the heav'ns will ring
 Millions there will join the song, with them we shall be
 Praising Christ thru ages long, heaven's jubilee.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

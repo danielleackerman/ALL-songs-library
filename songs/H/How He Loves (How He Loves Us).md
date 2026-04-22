@@ -81,3 +81,12 @@ Oh how he [Fmaj7]loves.
 
 [C]ti[Am7]ll e[G]nd[Fmaj7] on
 C
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

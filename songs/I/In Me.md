@@ -65,3 +65,12 @@ So I’ll [C]stand on Your [G/B]truth, and I’ll [Am]fight with Your [G]strengt
 Until [D/F#]You bring the victor[F]y,     by the [F]power of Christ in me,[C]
     F                       Am------ F ---ring out the  F until the_end-------
 the power of Christ in me,       the power of Christ in me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

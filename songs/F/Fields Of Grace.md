@@ -56,3 +56,12 @@ And [A]nothing, nothing, nothing can take that [B]away from me
 CHORUS:
 [B]Dancin' with my Father G[A]od in fields of grac[E]e [Esus]     [E]  [Esus]
 [B]Dancin' with my Father G[A]od in fields of grace [E]  [Esus]     [E]  [Esus]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

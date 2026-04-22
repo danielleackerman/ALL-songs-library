@@ -61,3 +61,12 @@ If you want to find me in that city
 Over in the glorylang
 I'll be singing there a--round the throne
 With the etern---al glory band.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -81,3 +81,12 @@ My children stood there weeping.  I heard the oldest say
 There's so much that we don't understand."
 So I took them in my arms, and we turned and faced the cross
 And then I said, "Dear children, Watch The Lamb."
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

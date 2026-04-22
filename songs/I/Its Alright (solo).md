@@ -39,3 +39,12 @@ E---------------------------------------------------------------------------
 
 [G]---------------------9-10-9----------------------------------------------------
 B-----------------------------8-9---------------------------------------------
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

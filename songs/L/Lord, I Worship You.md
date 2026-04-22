@@ -30,3 +30,12 @@ I worship [D7sus]You [D7]
 Lord, I [F]worship You [Bb13] [A+7(#9)] [Dm9]
 With all my life, [Gm11]my [Gm7]everything[C9]
 I worship [F]You.   [Am7]  [Dm7]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

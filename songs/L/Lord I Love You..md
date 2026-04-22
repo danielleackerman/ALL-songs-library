@@ -43,3 +43,12 @@ Now I'm con----fessing,       it's just Your blessings
 That has brought me safe this far
 Should I know some bad days, You'll be my joy my strength
 You brought me thru, and that's why I still sing Your praise.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

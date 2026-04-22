@@ -60,3 +60,12 @@ VERSE 3:
 [Bb]Won’t it [Gm/D]be [C]wonder[C9]ful [F]there?
 [Bb]Sure that forever the [Eb]Lord will be [Eb/Bb]keeping us,
 [Bb/F]Won’t [F7]it [Bb/F]be [F7]won[Bb/F]der[F]ful [Bb]there?
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

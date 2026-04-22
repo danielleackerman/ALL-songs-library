@@ -70,3 +70,12 @@ I have never been more thrilled about tomorrow
 Sunshine is always bursting through skies of gray
 I just feel like something good is about to happen
 And brother, this could be that very day
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

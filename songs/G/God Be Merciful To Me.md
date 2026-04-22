@@ -65,3 +65,12 @@ Let my contrite heart rejoice
 And in gladness hear Thy voice
 From my sins, oh, hide Thy face
 Blot them out in boundless grace
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

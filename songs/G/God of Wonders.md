@@ -69,3 +69,12 @@ The [G]universe declares Your maje[Dsus]sty[D]
 You are[Am9] ho -[Am7] ly,[Cmaj9] ho – [C]ly[G]
 
 (Chorus)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

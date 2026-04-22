@@ -36,3 +36,12 @@ BRIDGE:
 2. If you don't praise the Lord, it don't hinder me
 
 3. Come on and praise the Lord while you have a chance
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -58,3 +58,12 @@ And all at once the great physician steps into the room
 TAG:
 [Adim]For there’s [Eb/Bb]power, so much [Cm]power,
 There’s [Fm]po[Gm]wer [Bb7]in [Eb]prayer.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

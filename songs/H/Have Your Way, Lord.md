@@ -40,3 +40,12 @@ We're   [Gm7]here   [Bb]right   [F/C]now,   [C7]Have   Your   [F]way.
 
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

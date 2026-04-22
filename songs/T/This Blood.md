@@ -92,3 +92,12 @@ this life, This price, This blood, This wine
 Thank you, Jesus
 
 This Blood lyrics © Music Services, Inc
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

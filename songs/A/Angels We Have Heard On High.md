@@ -41,3 +41,12 @@ Which inspire your h[B4]eav'nly s[E]ong
 Him whose birth the [B4]angels [E]sing
 Come adore on [B4]bended [E]knee
 Christ the Lord the [B4]newborn [E]King
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

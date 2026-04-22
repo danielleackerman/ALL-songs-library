@@ -57,3 +57,12 @@ watching the years fade away
 And when the laughing done...we'll watch the trees stand still
 Everday ..where the trees stand still
 We will make a home.... where the trees stand still
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -48,3 +48,12 @@ i need thee evry hour,
 in joy or in pain;
 come quickly and abide,
 or life is in vain.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

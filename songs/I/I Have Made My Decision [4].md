@@ -58,3 +58,12 @@ With the [G] world be- [G/B] hind  me, and the [F/C] cross be-[C]fore
 [E7/B]By  the  [Am7]grace  of [G] God,
 
 [F]I   will  [G] serve   the  [C] Lord..
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

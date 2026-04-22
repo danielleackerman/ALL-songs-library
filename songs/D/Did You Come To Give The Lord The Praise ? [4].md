@@ -31,3 +31,12 @@ Did you come to sing for joy
 Did you come to lift Him up
 Did you come to shout and dance
 Did you come to clap your hands
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

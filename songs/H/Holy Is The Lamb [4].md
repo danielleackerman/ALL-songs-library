@@ -45,3 +45,12 @@ VERSE 2:
 [A]I hear the [Asus]Spirit saying C[A]ome![E/G#]
 [F#m7]The time is now, the Bride is r[Bsus]eady[B]
 [D2]The marriage [Bm7]supper has begun[Esus][E]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

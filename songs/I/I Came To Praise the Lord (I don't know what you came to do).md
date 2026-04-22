@@ -67,3 +67,12 @@ You can walk around with your nose in the air
 And even criticize the way I wear my hair
 I dont know what you came to do
 But I came to praise the Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

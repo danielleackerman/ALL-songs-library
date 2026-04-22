@@ -59,3 +59,12 @@ We're not looking to the left or the right,
 Our eyes are spirit led,
 We are going back to true or false,
 Church, we've got to go back to Calvary's cross.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

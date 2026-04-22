@@ -59,3 +59,12 @@ i was weary, i was worn, and so so sad
 but i found in him
 a sweet ol resting place
 and he has made me glad
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

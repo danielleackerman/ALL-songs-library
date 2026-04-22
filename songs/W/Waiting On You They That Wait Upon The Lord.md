@@ -36,3 +36,12 @@ They shall [Gm7]mount up with [C7]wings just like [Eb/F]ea[F]gles
 They shall [BbM7]run and not grow [C/Bb]weary
 They shall [Am7]walk and not [D7]faint.   [Gm7]
 That's why I will [C7]choose to [Fsus][F]wait.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

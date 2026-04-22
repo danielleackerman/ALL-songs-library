@@ -119,3 +119,12 @@ All the gl[C]ory and honor be[F]longs to you
 All the gl[Am]ory and honor be[G]longs to you
 All the gl[C]ory and honor be[F]longs to you
           Am              G
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

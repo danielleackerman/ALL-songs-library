@@ -49,3 +49,12 @@ I would never know how rich my life could be;
 Lord, my willingness to serve is the least that you deserve,
 For the blessing You have showered over me.
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

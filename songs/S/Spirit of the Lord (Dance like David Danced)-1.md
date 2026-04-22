@@ -41,3 +41,12 @@ CHORUS:
 [A7]Sing like David [Dm]sang
 
 ** I WILL [A]SING LIKE [Dm]DA[Gm]VID [A]SANG
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

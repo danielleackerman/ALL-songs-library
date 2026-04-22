@@ -34,3 +34,12 @@ We've got to [G]talk about it
 [C#dim]Shout about it
 
 [G]Don't let that [D]name go [G]down
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

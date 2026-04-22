@@ -45,3 +45,12 @@ there is power in prayer
 
 Amber Eppinette, Don Poythress, Donnie Skaggs, Kenna West; recorded by 11th Hour (Silence The Stones)
 Used under gospel chapel ccli broadcasting license
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

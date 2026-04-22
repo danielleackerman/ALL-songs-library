@@ -68,3 +68,12 @@ For m[A]ore than mys[D]elf
 [D]It's about [A]time
 [A]That I t[G]ry to live my l[Bb]ife
 For J[G]esus and w[Bb]alk [A]in his st[D]eps
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

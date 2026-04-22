@@ -61,3 +61,12 @@ VERSE 3:
 [Abmaj9]Knowing [Eb/G]that He'll [Fm7]never [Ab/Bb]leave me[Bdim]
 [Cm7]Trusting that He'll [Bbm7]always [Eb7]keep me
 He's the [Abmaj9]best [Eb/G]thing I've [Fm7]Ever [Ab/Bb]ever [Eb]Known [Ab/Bb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

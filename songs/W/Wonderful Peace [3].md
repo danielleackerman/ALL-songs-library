@@ -44,3 +44,12 @@ Sutl 203
 Coming [C]down from the [C]Father a [G]bove
 Sweep [C]over my [C]spirit for[F]ever I [F]pray
 In [C]fathomless [G]billows of [C]love  [C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

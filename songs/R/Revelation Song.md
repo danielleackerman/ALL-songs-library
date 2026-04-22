@@ -63,3 +63,12 @@ CHORUS:
 [D]   Holy, Holy, Holy, [Am] Is the Lord G[Am7]od Almighty  [C] Who was and is and is to [G]come
 [D]  With all creation I sing, [Am] Praise to the King of Kings, [C]  You are my everything,
 And [G]I will adore You [D] [Am] [C] [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

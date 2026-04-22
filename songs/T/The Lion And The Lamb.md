@@ -53,3 +53,12 @@ for the o[C]nes who'd gone as[Dm7]tray,
 His name is J[G]esu[F]s.
 
 (Chorus)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

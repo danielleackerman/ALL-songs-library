@@ -63,3 +63,12 @@ BRIDGE:
 He's [Eb]greater, (greater) [Bb]greater, (greater) [Eb]greater,
 (Greater) [Ab]greater, (greater)
 [Eb]Greater is He that is in [Ab]me than [Bb]he that is in the [Eb]world
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

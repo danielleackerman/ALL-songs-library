@@ -29,3 +29,12 @@ Of the [Bb]Spirit and the [F]Word
 Where the [Bb]blessings are [Gm7]stored
 My soul is [C7]hungry
 For the presense of the [F]Lord
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

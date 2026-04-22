@@ -64,3 +64,12 @@ I am Y[Em]our[D/F#]s...[C][D]
 
 [G]Whom shall I f[C]ear, whom shall I f[Em]ear[D]
 Cause I am Yo[G]urs,[C] I am Yo[Em]urs[D][G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

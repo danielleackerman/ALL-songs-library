@@ -81,3 +81,12 @@ I'm not going to [Db]let you [Ebm7]slip away, You don't have to [Gb]be a[Abm]fra
 Thank You Je[Eb7]sus, [Eb] [Ebm] [Ab]Mercy said [Db]no  [Bb] [Db] [Gb] [Abm] [Db]
 
 Mercy Said No lyrics © Warner Chappell Music, Inc, Universal Music Publishing Group
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

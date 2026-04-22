@@ -73,3 +73,12 @@ A2: 002200
 Bsus:  024400
 C#m7:  046600
 E : 022100
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

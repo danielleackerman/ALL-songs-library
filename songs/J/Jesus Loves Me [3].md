@@ -81,3 +81,12 @@ He lov[Am7]es me, He loves me
 [F2]   He loves me, He is [Gsus]for   [G]   [C]me
 My God[Am7], it's amazing, o[F2]h
 Jesus [Gsus]loves [G]   [C]me
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

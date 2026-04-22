@@ -66,3 +66,12 @@ To prepare a mansion, Jesus said, I'll go.
 If it were not true, I would have told you so
 Just a little while to linger here below
 I'm getting ready to leave this world
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

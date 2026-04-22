@@ -27,3 +27,12 @@ For [C]all that [G/B]You have [Am]done   [C/D]
 [Am]Oh   [G/D]Lord, [D]I give You [G]thanks   [G]     [C/D]
 
 Ccm
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

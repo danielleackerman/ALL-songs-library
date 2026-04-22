@@ -101,3 +101,12 @@ Out of these a[G6]shes rise
 From this[A7sus4] trouble I have found
 And this rubble on the ground
 I will[Asus4] rise[Asus4/E]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

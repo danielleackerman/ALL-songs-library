@@ -37,3 +37,12 @@ If I could just [G]sit with You aw[C]hile
               G
 I need You to hold me
 Moment by mo[D]ment till for[C]ever passes [G]by
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

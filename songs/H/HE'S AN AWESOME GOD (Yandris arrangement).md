@@ -115,3 +115,12 @@ OUTRO:
 [Eb]He reigns.[Bb2]  [C/E]He's an awesome God. [F]
 
 Repeat vamps to outro again optional:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

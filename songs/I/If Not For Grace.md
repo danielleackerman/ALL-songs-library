@@ -52,3 +52,12 @@ Precious Lord please take my hand
 Lead me on let me stand
 A hopeless case, an empty place
 If not for Grace
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

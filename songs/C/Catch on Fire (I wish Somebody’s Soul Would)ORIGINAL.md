@@ -89,3 +89,12 @@ It’s just like fire
 [(F] [F]  [A] [A]  [Bb] [Bb]  [D] [D]  [Eb] [Eb]       [B]   [B]        [C)] [Fm] [Eb]   [Fm]
 
 Burn-ing              with the Ho-ly Ghost        Burn-ing
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

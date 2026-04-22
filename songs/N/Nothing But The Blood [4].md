@@ -47,3 +47,12 @@ Now boldly we app[D]roach
 Not earthly confiden[C2]ce
 It's only by Your [G]blood
 Y[Em7]our Bl[D]ood
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

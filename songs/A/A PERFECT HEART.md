@@ -59,3 +59,12 @@ CHORUS 2:
 [Dm/G]And [C2]all [C]that [Dm]is [C/E]with[C/F]in [Dm/F]me [C/Bb]bless [Bb9]His [C/G]ho[G]ly [C2]name. [F/C][C2]
 
 *Between the [C] and the [E] in the verse walk octaves: [C, G, Ab, A]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

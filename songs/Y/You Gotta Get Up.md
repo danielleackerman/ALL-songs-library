@@ -57,3 +57,12 @@ And you [Em7]gotta get up, you[D/F#] gotta ge[Gmaj9]t up, you gotta get up
 
 Words and music by Rich Mullins
 © 1993 Edward Grant, Inc. (ASCAP)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

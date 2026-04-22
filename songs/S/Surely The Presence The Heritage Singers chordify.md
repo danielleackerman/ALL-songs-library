@@ -64,3 +64,12 @@ I see [G#maj7]glory on each [Fm7]face.
 [A#7]Surely the presence of the [Fm7]Lord is [Gm7]in this [Cm7]place. [G#/A#]
 
 [Fm7]Surely the [A#7]presence of the [G#7]Lord is [A#]in [D#]this [G#]place. [C#] [D#]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

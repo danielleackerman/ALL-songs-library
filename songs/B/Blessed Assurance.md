@@ -61,3 +61,12 @@ E on the second verse, but it can be done either way.
 Also, the song is written in two time signatures: for a more traditional way it
 can be played in 9/8 (having three pulses per measure), or for a more
 contemporary version it can be played in 12/8 (four pulses per measure).
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -40,3 +40,12 @@ We nee[Em]d your help oh this world can't[D] wait
 [Am]Show us your grace [G/B]and your mercy[C]
 
 Jesus come quickly (repeat)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -57,3 +57,12 @@ You raise me up, to walk on stormy seas.
 I am strong---when I am on—your—shoulders.—
 
 You raised me up to more than I can be.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

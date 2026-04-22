@@ -52,3 +52,12 @@ And the [Bsus]sweetest sound these ears have yet[A2] to hear the voices of the [
 [Bsus]      [A2]    [E]
 
 CHORUS:
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -56,3 +56,12 @@ the [D]blood that gives me [Adim]strength from [A]day [A7]to [G]day
 it will [Bm]ne[A/D]v[D]er [A/E]lose [E]its [A]power
 
 Os apo med, os gospel med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

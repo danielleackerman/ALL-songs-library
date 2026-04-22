@@ -59,3 +59,12 @@ By the way called straight, I'll reach the golden gate
 Of the soul's eternal home.
 
 Os apo fast, sutl
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

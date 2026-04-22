@@ -50,3 +50,12 @@ A [G/D]mighty worship for the [D]mighty [Em/D]One.   [C/E].    [D/Gb]
 [G/D]For [Am/D]a [Am/G]great [G]God.
 
 Mod apo med
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

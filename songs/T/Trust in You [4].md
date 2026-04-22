@@ -64,3 +64,12 @@ CHORUS 3:
 [A5]  When You don't give the answers[E]   as I cry out to You,
 [F#m7]  I will trust, I will t[Dsus2]rust, I will trust in[A5] You[E],   I will trust in[F#m7] You[Dsus2]
 I will trust in[A5] You[E],   I will trust in[F#m7] You[Dsus2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

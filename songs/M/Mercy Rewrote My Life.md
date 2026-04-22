@@ -50,3 +50,12 @@ My mis[Eb]takes God [Bbm/Eb]turned into [Ab2]miracles.    [Fm7]
 all my [Bb]tears He [Bb7]turned [Bb7/D]into [Eb]joy.    [Ab/Bb]
 My [EbM7]past was for[Bbm/Eb]given, my [Ab]new name was [Fm7]written
 [Eb/G]Whe[Fm/Ab]en [Eb/Bb]mercy [Bb]re[Ab/C]wrote [Bb7/D]my [Eb]life.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

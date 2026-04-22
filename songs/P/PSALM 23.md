@@ -73,3 +73,12 @@ Chorus outro:
 >yellow:(softly piano)
 [B]Hallelujah, [C#m]I am not a[A]lone,
 [B]He's my Comfort, [C#m]Always holds me [A]close
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

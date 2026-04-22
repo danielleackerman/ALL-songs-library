@@ -61,3 +61,12 @@ I'm going to a city, the New Jerusa----lem
 When all the storms of life I've braved
 There I shall see my Savior and ever be with Him
 Rejoicing just to know I'm saved.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

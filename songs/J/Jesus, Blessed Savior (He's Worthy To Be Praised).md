@@ -34,3 +34,12 @@ Jesus,  blessed Savior He's worthy to be praised
 God is my rock, and my salvation
 A strong de liverer
 In Him will I always trust.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

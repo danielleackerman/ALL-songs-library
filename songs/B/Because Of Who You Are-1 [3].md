@@ -36,3 +36,12 @@ Jehovah [AbM7]Shalom, You are my [G7+]Prince [G7+/Cb]of [Cm]Peace
 Be[Eb/G]cause of who You [Bb2]are [Bb7]
 
 Mod. [B/Gb]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

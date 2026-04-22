@@ -41,3 +41,12 @@ And [Bm]now let the [Em7]weak say, "I am s[Am]trong"
 Let the p[D7]oor say, "I am [Gmaj7]rich
 Because of [Em]what the Lord has d[F]one for u[D7]s"
 Give th[G]anks
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

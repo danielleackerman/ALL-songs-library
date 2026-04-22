@@ -29,3 +29,12 @@ contemporary rhythm
 [G]let us feel your [/]heavenly [G]blessings [/]
 [G]Riding on the winds of re[C]freshing
 [/]Won't you [D]open up the [/]windows of [D]Heaven, shower us, [G]Lord. [/][C/D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

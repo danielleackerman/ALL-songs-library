@@ -39,3 +39,12 @@ Beautiful Jesus, how may I bless Your heart
 Knees to the earth I bow down to everything You are
 Beautiful Jesus, You are my only worth
 So I will embrace You always as I walk this earth
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

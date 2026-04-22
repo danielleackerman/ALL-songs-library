@@ -30,3 +30,12 @@ id: F12AD699-8594-4377-9042-9997C7EC7417
 [A7+]I [Bb2]bow down be----[Bdim]fore You
 
 [Bbm/Db]Heavenly [F/C]Father I ap---[Gm7]preci---[C7]ate [F]You.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

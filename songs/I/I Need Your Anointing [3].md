@@ -91,3 +91,12 @@ My [Ab]heart is filled with de[Gb13]sire
 [Ab/C]Fresh anoint[Bbm7]ing fall [C7(b9)]on me  [Fm7][Bb9][Ebm7][Ab9][Dbmaj7]
 [Ab/C]Fresh anoint[Bbm7]ing fall [C7(b9)]on me  [Fm7][Bb9][Ebm7][Ab9][Dbmaj7]
 [Ab/C]Fresh anointing [Bbm7]fall [Db/Eb]on me [Ab2]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

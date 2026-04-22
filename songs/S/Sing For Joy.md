@@ -61,3 +61,12 @@ Modulate
 [G]Give Him your love, [D]He's in love with us
 [G]He will heal our hearts, [C]He will cleanse our hands
 [G]If we rend our hearts, [D]He will heal our land       [G]   [C]    [G]   [C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

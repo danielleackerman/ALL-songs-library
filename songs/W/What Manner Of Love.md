@@ -64,3 +64,12 @@ chil-dren?
 
 Be-ho[C]ld,  what man-ner of      grace  that[Gm]    we could * s[Bb2]ee Your
 face?[Eb2][G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

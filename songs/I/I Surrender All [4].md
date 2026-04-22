@@ -54,3 +54,12 @@ id: 60989543-09CA-4D6B-93DB-CE78FB715DA5
 
 	[G]All to Thee my blessed [C]Savior,
 	[G]I [D]surrender [G]all
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

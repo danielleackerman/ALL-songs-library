@@ -67,3 +67,12 @@ D    		           G               Em                    C2 (beat 4)
 [D]    Where You lea[G]d me,    [Em]I will foll[C2]ow
        D          g       em  c2,d	   d          g      d  c2
 Forever and a day, 		Forever and a day
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -38,3 +38,12 @@ A fool I was to ever leave You, Please take me now, Oh God You know I need You
 
 BRIDGE:
 Oh the blood of Je-e-sus; Oh the blood of Je-e-sus
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

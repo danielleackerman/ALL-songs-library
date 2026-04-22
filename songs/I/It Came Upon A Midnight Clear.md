@@ -87,3 +87,12 @@ The world   in sol  -  emn   still   -   - ness  lay
 To h[D]ear the a[E]ngels s[F#m7]ong.                                       2nd Time: rit…
   | D      | E   ||: A5      | E(no5)/A  | F#m7(no 5)/A     | E(no 5)/A      :|| A…
 To hear the angels song.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

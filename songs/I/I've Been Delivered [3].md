@@ -67,3 +67,12 @@ I've been [Ab]delivered by the hand, I've been [Db7]delivered by the man
 I've been [E]delivered by the [Gb]hand of the [Ab]Lord
 
 [I'VE] [BEEN] [DELIVERED]   [Db][Eb][E][Gb][Ab]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

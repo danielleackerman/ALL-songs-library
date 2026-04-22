@@ -71,3 +71,12 @@ You, You, You.
 My storage is empty
 And I am  available to You
 To You.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

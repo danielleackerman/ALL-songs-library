@@ -51,3 +51,12 @@ It's be[D]cause You've shown me mercy and [A]You believed in [A/G]me
 
 It's bec[D]ause You are my Savior, It's be[G]cause You are my friend
 And Your [Bm7]love, it lifts me [A]higher than I've [G]ever been
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

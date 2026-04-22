@@ -49,3 +49,12 @@ Until the day when Jesus came to me
 And healed my soul with the wonder of his touch
 So now i'm giving back to him all the praise he's worthy of
 I've been forgiven and that's why I love him so much
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

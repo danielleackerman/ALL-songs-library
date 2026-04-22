@@ -44,3 +44,12 @@ VERSE 2:
 [/]It won't[F] matter any[Dm]how, What the [Dm]world can offer [Gm]me,
 
 [C]take it [F]all.   [/]  [Bb/C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

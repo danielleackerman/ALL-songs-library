@@ -73,3 +73,12 @@ livin he loved me /SEND IT ON DOWN MEDLEY/power, lord, / yes, lord
 Os apo fast, os gospel fast
 
 
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

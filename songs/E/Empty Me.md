@@ -39,3 +39,12 @@ with [D/F#]You, [A]with Y[Bm]ou  o[G2]h empty me now
 [D/F#]     [A]    [Bm]     [G2]Thank You Jesus  [D/F#]      [A]   [Bm]    [G2] Thank You Jesus
 [D/F#]     [A]    [Bm]     [G2]Thank You Jesus   [D/F#]      [A]    [Bm]    [G2]Holy Fire
 [D/F#]     [A]    [Bm]     [G2]Holy Fire
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

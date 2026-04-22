@@ -49,3 +49,12 @@ He ne[D]ver s[DM7]aid you'd only see suns[Em]hine
 H[A7sus]e never sa[A7]id there'd be no[D] rain
 He only promised a heart full of singing[Em]
 About[A7sus] the very th[A7]ings that once brought pain   [D]     [G]   [A]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -40,3 +40,12 @@ Can  turn  [Bb/F]you  [Gbdim7]a---[Gm]way  [C7]from  [F]sin.   [C7/G]
 He'll  [Bb/F]be  a  [F]con----[F9]stant  [Bb]friend.    [F7]
 [Bb]He  will  bring  you  peace  and  [Fm6/D]com---[Eb]fort,
 And  go  [Bb/F]with  [C7/G]you  [F7sus]]to  [F7]the  [Bb]end.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

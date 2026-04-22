@@ -51,3 +51,12 @@ Halle[Gb]lu[Db/F]jah, Halle[Bbm]lu[Ab]jah, Let my [Gb]life[Ab]song [Bbm]sing to 
 
 OUTRO:
 [Gb][Ab][|][Bbm][/][Absus][/][|][Ab]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

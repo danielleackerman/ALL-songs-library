@@ -54,3 +54,12 @@ Still my God, He was faithful to me
 The days I spent so selfishly, reaching out for what pleased me
 Even then He was faithful to me  Every time I come back to Him
 He was waiting with open arms, And I see once again.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

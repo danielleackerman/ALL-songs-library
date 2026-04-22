@@ -65,3 +65,12 @@ No one [Bb2]else has ever [Bb]cared for [C/Bb]me like you, Lord
 [Fdim/Ab]Other friends could never [Ebm/Gb]be as close to [Bb/F]me
 I'm [Dm7]not [Gm]afraid to face the [Bb/F]problems of [C/E]tomorrow  [C]
 [C/Bb]Knowing [Ab]you are every[Ab/Gb]thing I'll ever [Eb/F]need
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -67,3 +67,12 @@ And soon our pieces will scatter in a world of anger the only thing to free us
 Is the part of man that we don't understand that found a place between us
 
 Repeat chorus
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

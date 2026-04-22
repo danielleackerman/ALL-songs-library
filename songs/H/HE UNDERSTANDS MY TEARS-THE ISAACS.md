@@ -53,3 +53,12 @@ Oh and when the [G]words get in the [A]way
 I [D]know He still [G]hears
 For [Em7]He under[A]stands when [D]no one else [G]can
 [Em7]He under[A]stands my [D]tears [G]    [D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -52,3 +52,12 @@ Use Barre Chords on electric and open chords on acoustic
 3-g-------4--------5--------3----------7------------8
 2-b-------3--------5--------3----------6------------8
 1-e-------3--------3--------1----------6------------6
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

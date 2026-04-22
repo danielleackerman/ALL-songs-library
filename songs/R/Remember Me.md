@@ -45,3 +45,12 @@ Go to verse 2
 Tag (2X):
 {:[F]Age to [C/E]Age and Heart to [Bb/D]Heart, child of [F/A]wonder child of [Bb]God[F/A][Bb][Csus][C]
 [C7]Remember [F]Me  :} [C7]    Remem[F]ber Me………..
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

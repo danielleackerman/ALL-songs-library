@@ -50,3 +50,12 @@ CHORUS:
 So why [Eb7]should I [Eb7sus]worry ‘bout the [Eb7]highs and the l[Eb7sus]ows, the [Eb7]ups and the
    Eb7sus (OCTAVES - F    F    E      Eb  D    Dd   C  B
 Downs,          when by   my   faith  I   know that he is (BACK TO BEGINNING)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

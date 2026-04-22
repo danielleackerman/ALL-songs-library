@@ -40,3 +40,12 @@ I must be saved for jesus saves
 Forgive me lord
 Hide all my sins
 I must be saved for him
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -30,3 +30,12 @@ where you lead me, [Bmaj] I will [Ebm]go.
 I'll say yes lord, [Bmaj]I'll say [F#maj]yes...
 
 (Repeat)
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

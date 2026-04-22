@@ -44,3 +44,12 @@ Holy Spirit Thou art welcome in this place
 
 Songwriters: Dottie Rambo
 Holy Spirit Thou Art Welcome lyrics © Bridge Building Music, Designer Music, New Spring Publishing, Inc., Bridge Building Music Inc.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

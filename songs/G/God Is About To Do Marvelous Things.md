@@ -51,3 +51,12 @@ What He [A7b9]said in His word He will [D7#5#9]do for you,
 [Gm9]God is about to [F/C]do [Bb/C]marvelous [F]things.
 
 Mod apo fast, mod apo med fast
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

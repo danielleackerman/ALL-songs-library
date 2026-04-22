@@ -74,3 +74,12 @@ I'm [Dm7]going up yonder.    [Dm]         [C]
 I'm [F/Bb]going up yonder.   [BbM7]       [Am7]
 I'm [Gm7]going up yonder,    [Bb/C]
 To be with my [C/F]Lord.     [Bb/C]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

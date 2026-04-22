@@ -70,3 +70,12 @@ CHORUS:
 Outro with Vocal Vamp
 F# / / /  b / / / (4 times)
 'Til I die….
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

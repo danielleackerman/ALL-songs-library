@@ -59,3 +59,12 @@ Troubles he had some
 But wasn’t forgotten
 He send him His love
 On the wings of a dove
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

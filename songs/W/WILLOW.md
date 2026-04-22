@@ -109,3 +109,12 @@ OUTRO:
 [Em]man [/] [G][,]I'm [/]begging for [|]
 [D]you to [Am]take my hand [/][,]Wreck my [|]
 [Em]plans [,][/]that's [/]my man [/] [|]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

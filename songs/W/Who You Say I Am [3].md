@@ -66,3 +66,12 @@ INSTRUMENTAL:
 Tag 1b:
 Oh I[D#m] am who You[C#/E#] say   I   [B]am
 Oh I[D#m] am who You[C#/E#] say   I   [B]am
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

@@ -42,3 +42,12 @@ My [G]trophies and crowns,  my [C]robe stained with sin
 'Twas [G]all [G/B]that [C]I [G/D]had,  [G/B]to [A7]lay at His [D7]feet
 Un----[G]worthy to [G7/B]eat ,  from the [C]table of [Cm]Life
 'Til [G/D]love made pro----[D7]vision for [G]me.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

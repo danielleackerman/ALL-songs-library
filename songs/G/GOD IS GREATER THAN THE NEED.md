@@ -71,3 +71,12 @@ For [D]GOD IS [A]GREATER, He’s [D]greater
 He’s [A]GREATER, He’s so much [D]greater
 He’s [A]greater, He’s [Em]grea[F#m]ter [A]than the [D]need
 [F#m] [G] [A] [D]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

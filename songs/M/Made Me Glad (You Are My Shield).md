@@ -47,3 +47,12 @@ My [Bb2]shelter, strong [Bb/D]tower, My [Eb2]very present [F]help (repeat chorus
 
 BRIDGE:
 [Cm]   [Bb/D]  [Gm]  [F]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

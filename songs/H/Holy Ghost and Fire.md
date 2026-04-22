@@ -66,3 +66,12 @@ Keeping me alive, keeping me alive
 It's that Holy Ghost and Fire and it's keeping me alive
 
 Jesus is keeping me alive
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

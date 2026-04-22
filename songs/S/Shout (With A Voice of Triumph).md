@@ -66,3 +66,12 @@ So I will
 [A]Praise!!!
 
 Contemporary christian med fast, ccm
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

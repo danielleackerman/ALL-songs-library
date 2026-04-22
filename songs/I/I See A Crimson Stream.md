@@ -46,3 +46,12 @@ I look away to Jesus, and He tells me to say.
 
 And when we reach tht portal, where life forever reigns
 The ransomed hosts grand final, will be this glad refrain.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

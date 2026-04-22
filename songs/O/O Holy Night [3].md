@@ -47,3 +47,12 @@ Acoustic only                  Begin to build
 O night   divine, o night    when Christ was born
      G       c    f      c      g          (: c |  c/b | c/a  | c/b  :)
 O night   divine,     o night    O night   divine
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

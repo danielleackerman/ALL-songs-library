@@ -60,3 +60,12 @@ That [C2]find me, sur[Em/B]round me[G/B], and b[Em7/A]ind me . . . .
 [Em/D]Hold my hand and keep[A] me through this ni[D]ght.[Dmaj7][D6][Dmaj7]
 
 D  Dmaj7  D6  Dmaj7  D  Dmaj7  D6  Dmaj7  D
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

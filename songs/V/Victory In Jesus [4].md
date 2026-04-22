@@ -62,3 +62,12 @@ I heard about a mansion, He has built for me in glory
 And I heard about the streets of gold, beyond the crystal see
 About the angels singing, and the old redemption story
 And some sweet day I'll sing up there the song of victory.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

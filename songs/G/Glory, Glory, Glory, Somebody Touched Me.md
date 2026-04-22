@@ -47,3 +47,12 @@ While I was kneeling, somebody touched me ...
 4. He touched me and I spoke in tongues....
 
 5. He touched me and I ran the aisles....
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

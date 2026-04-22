@@ -50,3 +50,12 @@ VERSE 1:
 [D]Let the [A/C#m]words [Bm]of [D/A]my mo[G]uth,[D] b[Em]e pleasi[A]ng to You – pleasing to You
 
 Outro:	 D – D – D – D
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

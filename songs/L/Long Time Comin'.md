@@ -50,3 +50,12 @@ It's been a[Cadd9]long time comin[D]'
 And I am w[G]illing and a[D]ble
 To give you som[Cadd9]ething, that you can believe o[G]n
 It's been a[Cadd9]long time comin[D]'
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

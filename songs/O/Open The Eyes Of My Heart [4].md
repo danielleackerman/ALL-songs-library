@@ -61,3 +61,12 @@ As we sing [A2/F#]Holy, Holy, ho[Bsus]-ly
 [Bsus/D#]Holy, Holy, Holy
 [A2/C#]Holy, Holy, h[A2]O-ly
 [A2]I want to [E]see yo[Esus]u
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

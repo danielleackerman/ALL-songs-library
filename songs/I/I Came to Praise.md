@@ -32,3 +32,12 @@ Clap your[Bb9] hands, lift your voice
 Help me make[F7] a joyful noise[F7][Gm7][Ab°7]
 [A7]Lift Him [Bb9]high in this place
 Make this [F]house a [F/A]house [Gm/Bb]of [F/C]praise[C7]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

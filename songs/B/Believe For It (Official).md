@@ -77,3 +77,12 @@ CHORUS:
 [G] Move the immova[D]ble, [Em] Break the unbreaka[D]ble, [C] God we believe, [Em] [D] God we believe for [G]it
 [G] From the impossi[D]ble, [Em] We'll see a mira[G]cle, [C] God we believe, [Em] [D] God we believe for it
 [C] God we believe, [Em] [D] God we believe for [Dsus]it [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

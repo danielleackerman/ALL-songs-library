@@ -74,3 +74,12 @@ Repeat last line x2
 
 Ending: Verse chords (similar to intro)
 Note: the chord (G) in parentheses is for the last line.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

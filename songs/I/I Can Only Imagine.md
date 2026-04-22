@@ -76,3 +76,12 @@ When all I will do
 Is [C#m7]forever, forever worship y[E/G#]ou[A2][B]
                  E
 I can only imagine
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

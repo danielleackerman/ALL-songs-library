@@ -47,3 +47,12 @@ id: 10EF0C92-5CDD-47A4-8BBE-B15303CBB7B6
 [C7]Oh what a change in my [F]life,
 
 [F]Oh [Gbdim]what a [C/G]chan -[A]ge [D7]in [G7]my [C]life!
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

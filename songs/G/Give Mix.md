@@ -71,3 +71,12 @@ Your just[G]ice flows like the [C]oceans tide             [G]    [D]
 
 [D]I will lift my voice to worship y[C]ou my king               [G]
 I will find my stren[D]gth  In the shadows of you[C]r wings                  [Am]        [Dsus]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

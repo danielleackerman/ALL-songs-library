@@ -73,3 +73,12 @@ Every [E2]moment in my history
 For[E]ever I will h[B]ide mys[D]elf in T[F#]hee
 Oh, Gloria, Glory excelsis deo
 Gloria, Gloria, Gloria
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

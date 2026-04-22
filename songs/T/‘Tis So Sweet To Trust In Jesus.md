@@ -51,3 +51,12 @@ I’m so glad I learned to trust Thee,
 Precious Jesus, Savior, friend;
 And I know that Thou art with me,
 Wilt be with me to the end.
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

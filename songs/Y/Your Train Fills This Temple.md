@@ -31,3 +31,12 @@ My [D]heart [D/F#]cries with [C/G]gratitude and [G]praise
 
 [C]Holy, [G]holy, [D]holy is the [G]Lord, [C]Honor and [G/B]glory to [D]Him
 We sing [C]holy, [G/B]holy, [D]Is the [B/D#]Lamb of G[Em]od, That [Am]takes away the [D]sin of the [C/G]world [G]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

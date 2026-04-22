@@ -53,3 +53,12 @@ I the Lord of wind and flame I will tend the poor and lame
 I will set a feast for them, my hand will same
 Finest bread I will provide, Till their hearts be satisfied
 I will give my life to them , whom shall I send?
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

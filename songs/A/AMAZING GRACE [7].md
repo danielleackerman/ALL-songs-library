@@ -45,3 +45,12 @@ Bright s[Fm]hin  [Fm/Eb] [Fm/Eb] ing  [Bb9/D]as     [Bb7/D]the    [Db/Eb]sun,   
 We've [Ab]no less d[Ab]ays to s[Db]ing God's [Ab/C]praise [Ab]than [Fm]when[Fm/Eb] we   [Fm/D]first [Eb]be [Db][Ab]gun.
 
 ending Eb/Ab   Db/Ab   Ab
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```

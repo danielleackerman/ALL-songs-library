@@ -77,3 +77,12 @@ Should the[F#m] world re[A2]ly on [E]faith tonight,
 T[F#m]onight[A2], to[E]night
 [F#m]Toni[A2]ght[E], T[F#m]onig[A2]ht,[E]
 [F#m]Toni[A2]ght[E]
+
+## Sets Using This Song
+
+```dataview
+TABLE WITHOUT ID file.link AS set, date, service
+FROM "sets"
+WHERE contains(string(songs), this.file.name)
+SORT date DESC
+```
