@@ -8,16 +8,20 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-fast
 keywords: mod apo fast
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[SINCE I LAID MY BURDENS DOWN]]'

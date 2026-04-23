@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - peace
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: F3D32A90-CDA4-4839-90B4-3D957A192E8C

@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -17,7 +22,6 @@ profile:
 keywords: 'os apo med, os gospel med'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: C7B0DCFA-D34F-4B59-BBAF-FA60C7088EFD

@@ -8,16 +8,20 @@ meter: ''
 tempo: slow
 feel: []
 theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
+function:
   - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -28,7 +32,6 @@ ccli: '14181'
 copyright: >-
   1941, 1953, 1955 Stuart K. Hine, Renewed 1981 Manna Music, Inc. ARR UBP of
   Manna Music, Inc.
-source: ''
 year: ''
 medley: []
 id: 659A3E64-C89B-421E-A169-551BCD04608C

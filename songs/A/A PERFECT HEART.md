@@ -6,21 +6,25 @@ bpm: '74'
 time_sig: 4/4
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +35,6 @@ ccli: '12860'
 copyright: >-
   1981 Bud John Songs, Inc, Makanume Music, Oohs and Ahs Music, Admin. Capitol
   CMG Publishing
-source: ''
 year: ''
 medley: []
 id: B887CB82-7376-4666-A147-716CE800F331

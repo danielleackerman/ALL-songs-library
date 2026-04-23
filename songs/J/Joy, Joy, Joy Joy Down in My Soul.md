@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - joy
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: EF3678E5-A54C-470D-B2F4-63C0E3F25BAC

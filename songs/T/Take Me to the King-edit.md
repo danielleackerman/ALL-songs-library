@@ -7,12 +7,18 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
   - king
+function: []
+context:
   - altar
+style: []
+tradition: []
+use: []
+source:
+  - ORIGINAL KEY Db
+tags: []
 genre: []
 profile:
   - contemporary-gospel-slow
@@ -21,7 +27,6 @@ ccli: '6363389'
 copyright: >-
   2012 Aunt Gertrude Music Publishing LLC, Admin. Brentwood-Benson Music
   Publishing, Inc.
-source: ORIGINAL KEY Db
 year: ''
 medley: []
 id: 7B76A67A-162A-4BB1-817D-88D3E44021A4

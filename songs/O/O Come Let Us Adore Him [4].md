@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - christ
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: DCF1EDE4-426C-491F-B7C5-4B440ADB5E3F

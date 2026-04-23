@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - heaven
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 4072BF50-A2BA-4656-A7D9-7B89D2E4BA0F

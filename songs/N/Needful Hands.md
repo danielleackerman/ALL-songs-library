@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - strength
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 11A05D7D-0C2E-4509-9240-4D1555AF4A87

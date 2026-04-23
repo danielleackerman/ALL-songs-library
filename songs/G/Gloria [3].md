@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - angels
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4630368'
 copyright: 2005 Simpleville Music / Wet As A Fish Music / Banistuci Music
-source: ''
 year: ''
 medley: []
 id: 633A4D9F-D321-4A40-9804-25AF3AB943AD

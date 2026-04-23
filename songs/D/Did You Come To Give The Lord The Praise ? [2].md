@@ -8,15 +8,19 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 906A2716-7B9A-4094-B27F-150462F70B30

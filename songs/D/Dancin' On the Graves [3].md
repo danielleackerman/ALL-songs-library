@@ -9,6 +9,11 @@ tempo: fast
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -17,7 +22,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 760F2C5A-25ED-45A6-90B2-8B66DBDD1B08

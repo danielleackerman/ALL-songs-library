@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - heaven
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '6136138'
 copyright: 2011 Sony/ATV Tree Publishing
-source: ''
 year: ''
 medley: []
 id: 1660F653-AA20-40E5-ADDA-7FEA7E3C37E6

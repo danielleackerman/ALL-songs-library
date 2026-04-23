@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4578884'
 copyright: 2005 My Refuge Music / Sony/ATV Tree Publishing
-source: ''
 year: ''
 medley: []
 id: 2B8F14B3-40F8-4A8E-8C24-D4F637232A7F

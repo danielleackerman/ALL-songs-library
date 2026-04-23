@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -16,7 +21,6 @@ profile:
 keywords: os apo med
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 5778F224-8287-4361-922F-1170437D513B

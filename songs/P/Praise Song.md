@@ -8,15 +8,19 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2045175'
 copyright: '1996 New Spring Publishing, Inc.'
-source: ''
 year: ''
 medley: []
 id: 054FE395-2E96-4BD9-8007-E9B4022A075B

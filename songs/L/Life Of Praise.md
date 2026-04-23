@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - life
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4196596'
 copyright: 2003 SWECS Music
-source: ''
 year: ''
 medley: []
 id: 2BC45947-CA85-452B-A6B8-AFBEAFB6EE5B

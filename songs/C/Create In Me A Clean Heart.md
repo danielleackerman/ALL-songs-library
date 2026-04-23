@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 1984 Last Days Ministries
-source: ''
 year: ''
 medley: []
 id: 981107FB-430A-49BB-B2CB-D6DAAF4607DD

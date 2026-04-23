@@ -9,13 +9,18 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - This song is off Casting Crowns' new record Lifesong.
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4578839'
 copyright: 2005 Club Zoo Music / SWECS Music
-source: This song is off Casting Crowns' new record Lifesong.
 year: ''
 medley: []
 id: 803C44CA-D495-4AF6-930E-80303BC3D586

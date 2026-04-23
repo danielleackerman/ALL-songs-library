@@ -5,27 +5,31 @@ key: F
 bpm: '64'
 time_sig: ''
 meter: ''
-tempo: slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+tempo: medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - life
   - sacrifice
   - faith
   - salvation
   - surrender
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -35,7 +39,6 @@ profile:
 keywords: 'mod gospel slow, cont gospel slow, sacrifice, faith, salvation, surrender'
 ccli: '5873382'
 copyright: '2008 Delivery Room Publishing, Admin. Fun Attic Music'
-source: ''
 year: ''
 medley: []
 id: 1529E1E2-6DB6-43B8-8273-CC83CD8FC3DB

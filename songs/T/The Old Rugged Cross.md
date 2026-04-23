@@ -7,19 +7,23 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - altar-songs
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - cross
+function:
+  - worship
+context:
+  - altar
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -28,7 +32,6 @@ profile:
 keywords: os apo slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 57D3829F-6D62-4855-BF67-48F1A010C16D

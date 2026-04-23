@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-med
 keywords: mod apo med
 ccli: '1198817'
 copyright: 1992 Hillsong Publishing
-source: ''
 year: ''
 medley: []
 id: 510A9B75-2F1E-460C-B93B-DE14C3F8E352

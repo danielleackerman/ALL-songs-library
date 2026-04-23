@@ -9,15 +9,19 @@ tempo: medium
 feel: []
 theme: []
 function: []
-tags:
-  - altar-songs
+context:
+  - altar
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - o-s-apo-fast
 keywords: o. s. apo. fast
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: E8B35639-64B7-41C6-9110-4C854D3A9086

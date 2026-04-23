@@ -7,18 +7,22 @@ time_sig: 2/4
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-gospel-slow
 keywords: mod gospel slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 90B3070A-0477-4D43-93BF-0492DC03392F

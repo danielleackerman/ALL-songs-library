@@ -7,17 +7,21 @@ time_sig: 4/4
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - awesome
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-med
 keywords: mod apo med
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 99882A89-13B9-4888-B80D-6E9D8B437CBF

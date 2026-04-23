@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3546635'
 copyright: 1999 Simpleville Music
-source: ''
 year: ''
 medley: []
 id: FFBF2DF4-E3F0-4425-B511-2254FE491776

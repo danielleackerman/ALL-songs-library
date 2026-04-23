@@ -6,24 +6,28 @@ bpm: '110'
 time_sig: ''
 meter: ''
 tempo: medium-fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - energetic
-  - medium-fast
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - conversion
   - baptism
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -35,7 +39,6 @@ ccli: '59036'
 copyright: >-
   1959 Mosie Lister Songs (Admin. by Music Services, Inc.) Southern Faith Songs
   (Admin. by Music Services, Inc.)
-source: ''
 year: 1959
 medley:
   - '[[I''VE ALREADY BEEN TO THE WATER]]'

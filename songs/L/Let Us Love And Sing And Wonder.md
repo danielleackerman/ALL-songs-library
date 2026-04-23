@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - grace
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '458211'
 copyright: Public Domain
-source: ''
 year: ''
 medley: []
 id: 945493C8-A292-4959-8711-9C6E16009EFB

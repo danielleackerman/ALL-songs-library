@@ -7,17 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Artist Name
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: Artist Name
 year: ''
 medley: []
 id: 1ADE00EA-13B8-42FD-991C-A84D985FA06E

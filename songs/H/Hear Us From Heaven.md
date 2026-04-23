@@ -6,23 +6,27 @@ bpm: '72'
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - energetic
-  - medium-slow
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - desperation
   - heaven
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +35,6 @@ profile:
 keywords: ''
 ccli: '4455392'
 copyright: 2004 Vertical Worship Songs
-source: ''
 year: ''
 medley: []
 id: 45E08E4C-BBBC-4342-91B7-472571E7722C

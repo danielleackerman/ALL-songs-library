@@ -1,8 +1,8 @@
-# Fast (Openers / Praise)
+# Fast 
 ```dataview
 TABLE artist, key, tempo
 FROM "songs"
 WHERE tempo = "fast"
 SORT title ASC
-LIMIT 15
+LIMIT 50
 ```

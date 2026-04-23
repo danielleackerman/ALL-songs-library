@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - mercy
+function:
+  - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -26,7 +30,6 @@ profile:
 keywords: ''
 ccli: '3423923'
 copyright: '2001 New Spring Publishing, Inc.'
-source: ''
 year: ''
 medley: []
 id: 688B4704-B2B7-4AE9-B504-266BA2ADC3E0

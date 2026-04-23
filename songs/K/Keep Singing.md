@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4312284'
 copyright: 2004 Simpleville Music
-source: ''
 year: ''
 medley: []
 id: 65E84284-F4F7-47A1-BBD6-42120F7BE1CD

@@ -7,19 +7,23 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - altar-songs
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - jesus
+function:
+  - worship
+context:
+  - altar
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -27,7 +31,6 @@ profile:
 keywords: ''
 ccli: '2741651'
 copyright: Public Domain
-source: ''
 year: ''
 medley: []
 id: 60989543-09CA-4D6B-93DB-CE78FB715DA5

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3604254'
 copyright: '2002 Bridge Building Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: 25EF9977-31B9-45ED-8EE4-C3F29C32AB91

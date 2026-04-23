@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - light
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4787383'
 copyright: '2005 Word Music, LLC / Sweater Weather Music / Rocketown Music, LLC.'
-source: ''
 year: ''
 medley: []
 id: 1358185A-6385-4038-9AD8-FA948AAC3510

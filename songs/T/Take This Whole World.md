@@ -6,21 +6,25 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -29,7 +33,6 @@ profile:
 keywords: os apo med
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 696A4E24-E254-4C23-B67E-27BB7EE72878

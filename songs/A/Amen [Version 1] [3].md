@@ -9,11 +9,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - blessing
   - glory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -24,7 +29,6 @@ copyright: >-
   BMI (Admin. Music Services) Kaleb: The Emerging Sound Publishing, BMI (Admin.
   Music Services) ES: The Emerging Sound Publishing, BMI (Admin. Music Services)
   All Rights Reserved hello@peopleandsongs.com
-source: ''
 year: ''
 medley: []
 id: ABD4A7DE-019B-4964-859B-D7FC5E1F49EA

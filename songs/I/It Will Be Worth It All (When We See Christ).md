@@ -7,16 +7,20 @@ time_sig: 2/2
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - christ
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: 1940
 medley: []
 id: C119018C-5A75-47BE-9B7B-6464143155EB

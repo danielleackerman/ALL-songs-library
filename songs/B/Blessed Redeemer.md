@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - calvary
   - redeemer
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -19,7 +24,6 @@ ccli: '5632671'
 copyright: >-
   2009 BanaHama Tunes / Word Music, LLC / My Refuge Music / Sony/ATV Tree
   Publishing
-source: ''
 year: ''
 medley: []
 id: DDF03D36-3992-45BB-A76E-CFA3829DDBBB

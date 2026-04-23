@@ -8,22 +8,26 @@ meter: ''
 tempo: medium
 feel: []
 theme: []
-function: []
-tags:
+function:
+  - praise
+  - worship
+context: []
+style:
   - black-gospel
   - ccm
-  - choir
-  - choruses
-  - congregational
-  - contemporary
   - jesus-movement
   - maranatha
-  - medium
-  - praise
-  - solo-songs
   - southern-gospel
+tradition:
+  - contemporary
   - traditional
-  - worship
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +35,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 228EF6EC-6911-4FE3-A066-50DA936FD99F

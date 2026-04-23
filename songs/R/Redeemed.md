@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '6219086'
 copyright: '2011 Word Music, LLC'
-source: ''
 year: ''
 medley: []
 id: E74E5DF9-35AA-487D-A18F-159BD04423C9

@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 'Bridge Building Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: 5685B1C4-1A84-4D29-A0C3-C484A3A46612

@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1773799'
 copyright: 1994 Sparrow Song / Peach Hill Songs
-source: ''
 year: ''
 medley: []
 id: FCA65AD3-6AB6-4D2B-9375-29A729433353

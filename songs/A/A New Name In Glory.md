@@ -5,24 +5,28 @@ key: G
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - glory
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +35,6 @@ profile:
 keywords: o.s. apo. med. sutl
 ccli: '71904'
 copyright: Public Domain
-source: ''
 year: 1910
 medley: []
 id: 26340856-5368-40C6-8AD0-58FAD2062051

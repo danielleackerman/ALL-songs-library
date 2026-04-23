@@ -7,21 +7,25 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - ccm
-  - choir
-  - choruses
-  - congregational
-  - jesus-movement
-  - maranatha
-  - medium
-  - praise
-  - solo-songs
-  - worship
+theme:
   - love
   - father
+function:
+  - praise
+  - worship
+context: []
+style:
+  - ccm
+  - jesus-movement
+  - maranatha
+tradition: []
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -29,7 +33,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 46DBB5AD-F64F-43F0-9F90-A32A53975A89

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '507234'
 copyright: 1985 Meadowgreen Music Company / Songchannel Music
-source: ''
 year: ''
 medley: []
 id: 53CDAF1A-A091-4D80-9C2E-BD1E4FE757F1

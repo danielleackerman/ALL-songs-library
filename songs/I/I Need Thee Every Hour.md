@@ -7,19 +7,23 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - altar-songs
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - savior
+function:
+  - worship
+context:
+  - altar
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -27,7 +31,6 @@ profile:
 keywords: ''
 ccli: '78811'
 copyright: 2005 Bridge Building / Pogostick Music
-source: ''
 year: ''
 medley: []
 id: 5A989681-E83F-44C4-AEC8-20DF85941E1F

@@ -6,22 +6,26 @@ bpm: '66'
 time_sig: 4/4
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - energetic
-  - medium-slow
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - trust
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +34,6 @@ profile:
 keywords: contemp christian slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 4C3EEB56-F554-4DC2-9A24-F80F89A2B01D

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3120381'
 copyright: '2000 Word Music, LLC / Above The Rim Music / BMG Songs, Inc.'
-source: ''
 year: ''
 medley: []
 id: 984E4445-C563-46BF-A0CC-D0A3E6936A74

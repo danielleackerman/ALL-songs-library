@@ -5,21 +5,25 @@ key: C
 bpm: '69'
 time_sig: 4/4
 meter: ''
-tempo: medium-slow
+tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - jesus
   - life
+function:
+  - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -29,7 +33,6 @@ profile:
 keywords: 'os apo med, mod apo med'
 ccli: ''
 copyright: ''
-source: ''
 year: 1978
 medley: []
 id: 44799C2C-A2CA-4815-B113-7B7359579053

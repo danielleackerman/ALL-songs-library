@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - men
   - peace
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4646417'
 copyright: 2005 Simpleville Music / Wet As A Fish Music / Banistuci Music
-source: ''
 year: ''
 medley: []
 id: 998281BE-9C4F-41A0-A2F4-85288D954D1F

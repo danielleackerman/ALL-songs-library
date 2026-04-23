@@ -5,22 +5,26 @@ key: G
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -28,7 +32,6 @@ profile:
 keywords: ''
 ccli: '1453277'
 copyright: '1994 Word Music, LLC / Shepard Boy Music'
-source: ''
 year: ''
 medley: []
 id: 05B6F898-725B-4FF6-AD13-0BE6152C8112

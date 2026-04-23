@@ -7,17 +7,21 @@ time_sig: 4/4
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-med
 keywords: os apo med
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 794D248C-FFD8-4EAA-B7B5-B2D783677213

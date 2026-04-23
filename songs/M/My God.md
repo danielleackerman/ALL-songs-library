@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 137B90EF-88D9-46C0-A835-DEB41AC9A802

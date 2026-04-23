@@ -7,12 +7,17 @@ time_sig: 4/4
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - shelter
+function: []
+context: []
+style:
   - ccm
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ccm
@@ -20,7 +25,6 @@ ccli: '7099946'
 copyright: >-
   2017 CentricSongs, Songs Unseen, Centricity Songs, goodbye 99, Centricity
   Music Publishing (Admin. by Music Services)
-source: ''
 year: ''
 medley:
   - '[[JESUS I LOVE YOU]]'

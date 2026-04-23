@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4067467'
 copyright: 2003 Thirsty Moon River Publishing / 50 Miles / Gene Way Designee
-source: ''
 year: ''
 medley: []
 id: 5E87C061-E4A8-4739-9080-B03D72DE12AB

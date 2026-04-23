@@ -8,16 +8,20 @@ meter: ''
 tempo: medium-slow
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-southern-gospel-med-slow
 keywords: os southern gospel med slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 5AFC6725-10AF-4C7B-BFC5-A07C7B38C920

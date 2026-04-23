@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
+theme:
+  - thanksgiving
 function: []
-tags:
-  - thanks
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: AF1CA9F1-C7FC-4945-B758-D0B58E8CC5F7

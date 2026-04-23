@@ -7,17 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - witness
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - 'Well, I''ve already been to the water'
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: 'Well, I''ve already been to the water'
 year: ''
 medley: []
 id: 89EA5EE8-DF91-44A8-8859-A2B0146CB8DE

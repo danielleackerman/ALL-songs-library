@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: '4780335'
 copyright: >-
   2006 Word Music, LLC / Songs For Lulu / Wyzell Music / Simplex Songs / Songs
   Of Extreme
-source: ''
 year: ''
 medley: []
 id: 67C7CDE7-CE15-4967-8D63-1A817BC4202D

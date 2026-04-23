@@ -7,12 +7,17 @@ time_sig: ''
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - jesus
+function:
+  - praise
   - worship
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-christian-slow
@@ -20,7 +25,6 @@ profile:
 keywords: 'os christian slow, os apo slow, praise, jesus, worship'
 ccli: '17061'
 copyright: '1989 Integrity''s Hosanna! Music [Admin. Capitol CMG Publishing (IMI)]'
-source: ''
 year: ''
 medley:
   - '[[I EXALT THEE]]'

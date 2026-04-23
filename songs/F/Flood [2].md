@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1848741'
 copyright: 1995 Brentwood Music Inc.
-source: ''
 year: ''
 medley: []
 id: 8BF868BD-6246-43A5-AAB7-4FD5CBFF6521

@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - rock
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-med
@@ -19,7 +24,6 @@ profile:
 keywords: 'os apo med, os gospel med'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: FC522E7B-6978-4C3D-B079-293A228BA8E6

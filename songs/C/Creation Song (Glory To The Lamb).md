@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
   - honor
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2694870'
 copyright: 1998 John Andrew Schreiner Music / Long Lake Music
-source: ''
 year: ''
 medley: []
 id: 5B01825F-DA0E-4174-95F2-F53DF0067A99

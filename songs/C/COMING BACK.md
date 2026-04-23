@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 9D70F45A-E87E-470F-B48B-5EA98AFACBF8

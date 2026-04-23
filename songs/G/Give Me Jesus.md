@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2907237'
 copyright: 1996 Izzy Sol Songs
-source: ''
 year: ''
 medley: []
 id: EFECE160-1C49-4E52-9E0C-6D0106B6F364

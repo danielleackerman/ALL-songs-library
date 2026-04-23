@@ -6,22 +6,27 @@ bpm: '145'
 time_sig: ''
 meter: ''
 tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - high-energy
-  - medium-fast-shouting
+  - shouting
+theme: []
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +35,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[HE TOOK THE SHACKLES OFF MY FEET SO I CAN DANCE]]'

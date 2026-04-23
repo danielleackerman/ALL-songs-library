@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - grace
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2848190'
 copyright: 1999 River Oaks Music Company / Matt Huesmann Music / Kent Hooper Music
-source: ''
 year: ''
 medley: []
 id: 1613C226-97C1-48AD-A1EE-9186F3653410

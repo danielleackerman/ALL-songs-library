@@ -7,17 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style:
+  - black-gospel-opera
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - black-gospel-opera
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 9042DEE1-95E1-4DD3-9B1F-A8B00E3497DF

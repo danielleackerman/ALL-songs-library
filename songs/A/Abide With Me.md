@@ -5,21 +5,26 @@ key: E
 bpm: '90'
 time_sig: 2/2
 meter: ''
-tempo: medium
+tempo: slow
 feel: []
 theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
+function:
   - worship
-  - os-slow
-  - sutl
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+  - old-school
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - 'Sing Unto The Lord Songbook, 16'
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - >-
@@ -27,7 +32,6 @@ profile:
 keywords: 'os slow, sutl'
 ccli: '43190'
 copyright: Public Domain
-source: 'Sing Unto The Lord Songbook, 16'
 year: ''
 medley: []
 id: DF36B863-DCA0-42CB-8077-159DC08AE317

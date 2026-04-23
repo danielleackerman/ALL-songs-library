@@ -6,23 +6,27 @@ bpm: ''
 time_sig: 3/4
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - love
   - comfort
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +35,6 @@ profile:
 keywords: os apo slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[oh how i love jesus]]'

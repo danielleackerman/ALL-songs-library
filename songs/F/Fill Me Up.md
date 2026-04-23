@@ -5,23 +5,27 @@ key: C
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +34,6 @@ profile:
 keywords: contemp christian slow
 ccli: '5910898'
 copyright: 2008 United Pursuit Music / Will Reagan Music
-source: ''
 year: ''
 medley:
   - '[[SET A FIRE]]'

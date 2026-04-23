@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1874117'
 copyright: 1995 Mercy/Vineyard Publishing (ASCAP)
-source: ''
 year: ''
 medley: []
 id: 45C38E15-FEFF-46B8-B10D-2CB04914F9D4

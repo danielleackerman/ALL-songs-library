@@ -7,21 +7,25 @@ time_sig: ''
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-fast
-  - middle-eastern
-  - praise
-  - solo-songs
-  - traditional
+theme:
   - life
   - service
+function:
+  - praise
+context: []
+style:
+  - black-gospel
+  - middle-eastern
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +35,6 @@ profile:
 keywords: 'os apo fast, os gospel fast, life, service'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[LIVING HE LOVED ME]]'

@@ -5,24 +5,28 @@ key: Db
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - jesus
   - almighty
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +34,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 87316117-56B3-42D2-86A0-BF9BCCFFD78C

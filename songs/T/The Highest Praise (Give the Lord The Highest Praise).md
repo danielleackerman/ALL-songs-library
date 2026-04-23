@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - dance
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-fast
@@ -19,7 +24,6 @@ profile:
 keywords: 'mod apo fast, contemp christian fast'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[Can''t nobody do me like Jesus]]'

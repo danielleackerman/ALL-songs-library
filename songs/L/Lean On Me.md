@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
+theme:
+  - friendship
 function: []
-tags:
-  - friend
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-gospel-slow
 keywords: mod gospel slow
 ccli: '2809892'
 copyright: 1998 Lilly Mack Music / Kerrion Publishing
-source: ''
 year: ''
 medley: []
 id: C289E105-1A59-4C6B-8458-C07BA85829DB

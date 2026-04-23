@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
-  - alive
+  - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 85E9902A-7F22-4194-981C-A4B7EEAB9E3D

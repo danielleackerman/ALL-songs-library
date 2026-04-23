@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3493094'
 copyright: '2002 New Spring Publishing, Inc.'
-source: ''
 year: ''
 medley: []
 id: 3F182EEC-E1AD-4177-B3E3-6408E60CC13A

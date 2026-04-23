@@ -6,22 +6,26 @@ bpm: '74'
 time_sig: 4/4
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - jesus
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +36,6 @@ copyright: >-
   ©2019 Integrity's Praise! Music, Here Be Lions Publishing (Admin by Integrity
   Music) WriterWrong Music, BEC Worship, Raina Pratt Designee (Admin by Music
   Services) Abby Benton Designee.
-source: ''
 year: ''
 medley: []
 id: 6F291021-9F40-447A-9654-CEF8696B6543

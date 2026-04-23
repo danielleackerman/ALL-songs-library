@@ -8,18 +8,22 @@ meter: ''
 tempo: medium
 feel: []
 theme: []
-function: []
-tags:
+function:
+  - praise
+  - worship
+context: []
+style:
   - ccm
-  - choir
-  - choruses
-  - congregational
   - jesus-movement
   - maranatha
-  - medium
-  - praise
-  - solo-songs
-  - worship
+tradition: []
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -27,7 +31,6 @@ profile:
 keywords: ''
 ccli: '2151368'
 copyright: 1996 Doulos Publishing (Maranatha!)
-source: ''
 year: ''
 medley: []
 id: 298C7348-F9D1-4D4A-83A8-BF03A9A320EB

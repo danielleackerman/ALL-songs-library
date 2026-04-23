@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - grace
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-slow
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 91F6E35B-9CDA-4012-8372-5D4B78C5DA4A

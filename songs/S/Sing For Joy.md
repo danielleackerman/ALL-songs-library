@@ -7,21 +7,25 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - ccm
-  - choir
-  - choruses
-  - congregational
-  - jesus-movement
-  - maranatha
-  - medium
-  - praise
-  - solo-songs
-  - worship
+theme:
   - love
   - joy
+function:
+  - praise
+  - worship
+context: []
+style:
+  - ccm
+  - jesus-movement
+  - maranatha
+tradition: []
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -29,7 +33,6 @@ profile:
 keywords: ''
 ccli: '1861357'
 copyright: '1996 Integrity''s Hosanna! Music (c/o Integrity Music, Inc.)'
-source: ''
 year: ''
 medley: []
 id: EEFFE0CE-18E1-4177-B85A-5D586EF0C67C

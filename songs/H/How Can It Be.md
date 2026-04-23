@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2014 Centricity Music
-source: ''
 year: ''
 medley: []
 id: A5E018E4-3E67-40C6-8640-1DE03021A553

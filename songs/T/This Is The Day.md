@@ -8,18 +8,22 @@ meter: ''
 tempo: medium
 feel: []
 theme: []
-function: []
-tags:
+function:
+  - praise
+  - worship
+context: []
+style:
   - ccm
-  - choir
-  - choruses
-  - congregational
   - jesus-movement
   - maranatha
-  - medium
-  - praise
-  - solo-songs
-  - worship
+tradition: []
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -28,7 +32,6 @@ profile:
 keywords: os gospel med
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 3AFE7CF2-C486-43D5-9A77-A71FB0585794

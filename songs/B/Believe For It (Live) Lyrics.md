@@ -7,17 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - believe
+theme:
+  - belief
   - power
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Cece Winans; Solos and Choir
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: Cece Winans; Solos and Choir
 year: ''
 medley: []
 id: AA67F758-0B64-46E0-9DB6-BA9D3E225F75

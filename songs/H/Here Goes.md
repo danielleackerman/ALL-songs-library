@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5855025'
 copyright: 2010 Brentwood Benson
-source: ''
 year: ''
 medley: []
 id: 75810A47-6EFF-4065-8629-F1321CF078A0

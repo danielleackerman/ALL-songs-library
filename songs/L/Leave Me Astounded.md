@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - glory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '7000099'
 copyright: 2013 Planetshakers Ministries Int. Inc.
-source: ''
 year: ''
 medley: []
 id: 101FCDD8-D50A-4EC5-A47F-8CBBC978A509

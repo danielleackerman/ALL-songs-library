@@ -9,13 +9,18 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Turnaround & Outro
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: Turnaround & Outro
 year: ''
 medley: []
 id: 72421B46-26F9-4E61-8D1A-9F20F4DF1614

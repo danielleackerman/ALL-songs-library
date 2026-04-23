@@ -8,16 +8,20 @@ meter: ''
 tempo: slow
 feel: []
 theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
+function:
   - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -25,12 +29,10 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 3C61F947-5EBC-4C1D-A160-23488DD591B6
 ---
-
 ## Sets Using This Song
 
 ```dataview

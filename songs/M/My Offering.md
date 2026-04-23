@@ -9,8 +9,13 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
+context:
   - offering
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: '4495699'
 copyright: >-
   2005 Willow Branch Publishing / All For The King Music / Postage Stamp
   Publishing
-source: ''
 year: ''
 medley: []
 id: 248837A2-568E-49BE-A463-FC40286C387D

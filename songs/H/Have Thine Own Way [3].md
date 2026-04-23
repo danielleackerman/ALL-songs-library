@@ -6,22 +6,26 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - slow
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - 'Sing Unto The Lord Songbook, 20'
+tags: []
 genre: []
 profile:
   - >-
@@ -29,7 +33,6 @@ profile:
 keywords: ''
 ccli: '28225'
 copyright: Public Domain
-source: 'Sing Unto The Lord Songbook, 20'
 year: ''
 medley: []
 id: 4E34B8E0-BB04-447E-917D-6DA473AD606D

@@ -5,25 +5,29 @@ key: Eb
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - cross
-  - sutl
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +36,6 @@ profile:
 keywords: 'o. s. apo. med., sutl'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: B009B35C-80CE-418B-ACB9-25BED15019A8

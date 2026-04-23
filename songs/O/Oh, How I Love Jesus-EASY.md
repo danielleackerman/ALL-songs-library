@@ -7,19 +7,23 @@ time_sig: 6/8
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
-  - sutl
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - os-apo-med
 keywords: 'os apo med, sutl'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: D8A4A462-A029-4B65-A3E2-21B20C7B127B

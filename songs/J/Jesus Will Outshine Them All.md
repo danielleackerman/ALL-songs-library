@@ -5,26 +5,28 @@ key: C
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
-  - slow
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - jesus
-  - sutl
-  - songbook
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - >-
@@ -33,7 +35,6 @@ profile:
 keywords: 'os apo slow, sutl, songbook'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: B20B96A0-2504-4F7F-97BC-48983D20B9D5

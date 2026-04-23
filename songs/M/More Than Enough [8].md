@@ -5,24 +5,28 @@ key: Dm
 bpm: '100'
 time_sig: ''
 meter: ''
-tempo: medium
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - provision
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags:
   - sufficiency
 genre: []
 profile:
@@ -32,7 +36,6 @@ profile:
 keywords: 'mod apo med fast, provision, sufficiency'
 ccli: '3305852'
 copyright: '2000 Integrity''s Hosanna! Music, Revilo (Admin. Capitol CMG Publishing (IMI))'
-source: ''
 year: ''
 medley: []
 id: 80792EBD-467F-4082-A79A-B866755E5018

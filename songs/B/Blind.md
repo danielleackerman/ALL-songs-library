@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4292081'
 copyright: 2004 Consuming Fire Music
-source: ''
 year: ''
 medley: []
 id: 5DB6F362-6994-4AD1-879D-56335606C571

@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - cornerstone
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '6158927'
 copyright: 2011 Hillsong Music Publishing
-source: ''
 year: ''
 medley: []
 id: 2EDADE15-9C62-4DB3-804F-C180AAB913BE

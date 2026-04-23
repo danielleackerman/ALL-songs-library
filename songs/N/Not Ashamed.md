@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5818000'
 copyright: 2010 Thirsty Moon River Publishing
-source: ''
 year: ''
 medley: []
 id: 164A9BD2-D4F1-444D-8262-AE878DB05C5F

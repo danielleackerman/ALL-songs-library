@@ -8,16 +8,20 @@ meter: ''
 tempo: slow
 feel: []
 theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
+function:
   - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -25,7 +29,6 @@ profile:
 keywords: ''
 ccli: '248885'
 copyright: '1988 Birdwing Music Tim Miner Music, Administrators Capitol CMG Publishing'
-source: ''
 year: ''
 medley: []
 id: F93DDC47-43E1-4F33-9AFF-199C3434E1B9

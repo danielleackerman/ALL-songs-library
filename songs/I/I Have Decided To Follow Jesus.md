@@ -7,26 +7,30 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - ccm
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - jesus-movement
-  - maranatha
-  - medium
-  - medium-fast
-  - middle-eastern
-  - praise
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - jesus
   - cross
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - ccm
+  - jesus-movement
+  - maranatha
+  - middle-eastern
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - 'C,*C 4/4 Fast by Paul B. Smith'
+tags: []
 genre: []
 profile:
   - >-
@@ -34,7 +38,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: 'C,*C 4/4 Fast by Paul B. Smith'
 year: ''
 medley: []
 id: 8FF39342-DD38-4C03-8897-AA9E6402D79E

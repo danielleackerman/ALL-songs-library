@@ -7,18 +7,22 @@ time_sig: 4/4
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - hope
   - trust
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - contemp-christian-slow
 keywords: contemp christian slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 4F4675A5-23C6-4296-B40C-BB341AE3791C

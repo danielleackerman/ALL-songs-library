@@ -5,22 +5,26 @@ key: F
 bpm: '77'
 time_sig: ''
 meter: ''
-tempo: medium-slow
+tempo: medium
 feel: []
 theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -29,7 +33,6 @@ profile:
 keywords: os apo med slow
 ccli: ''
 copyright: ''
-source: ''
 year: 1984
 medley: []
 id: B54DA05B-CA66-4424-B035-67091EFB7905

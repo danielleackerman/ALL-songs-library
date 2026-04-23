@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4403076'
 copyright: 2004 worshiptogether.com songs / sixsteps Music / Gleaning Publishing
-source: ''
 year: ''
 medley: []
 id: A8775C47-BA1E-4F45-BCE4-A3461AE66365

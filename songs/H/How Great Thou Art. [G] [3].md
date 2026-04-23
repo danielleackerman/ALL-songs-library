@@ -9,18 +9,21 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 6203E2FE-D48C-43AC-9045-CBB604E6F688
 ---
-
 ## Sets Using This Song
 
 ```dataview

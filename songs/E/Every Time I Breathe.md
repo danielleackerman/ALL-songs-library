@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: '4807971'
 copyright: >-
   2006 Word Music, LLC / Weave Country / Pocket Full Of Rocks Publishing / Dog
   Named David Music
-source: ''
 year: ''
 medley: []
 id: F5F174DB-B3A8-4231-83BD-24029449BACC

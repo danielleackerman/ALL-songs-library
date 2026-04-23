@@ -6,23 +6,28 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - high-energy
-  - medium-fast-shouting
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+  - shouting
+theme:
   - joy
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +35,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: E09915AD-F1F1-4FF0-AF8E-C4C09D4C7727

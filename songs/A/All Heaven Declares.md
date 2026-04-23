@@ -7,24 +7,27 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - ccm
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - jesus-movement
-  - maranatha
-  - medium
-  - praise
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - heaven
   - beauty
+function:
+  - praise
+  - worship
+context: []
+style:
+  - ccm
+  - jesus-movement
+  - maranatha
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +35,6 @@ profile:
 keywords: ''
 ccli: '120556'
 copyright: '1987 Thankyou Music, Admin. Capitol CMG Publishing'
-source: ''
 year: ''
 medley: []
 id: 7DAEB08E-0F5B-4B30-A08B-918FD0BA768E

@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -17,7 +22,6 @@ profile:
 keywords: 'mod apo slow, mod gospel slow'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: CDD3025A-6907-4BD3-862E-9D0D7851D9DB

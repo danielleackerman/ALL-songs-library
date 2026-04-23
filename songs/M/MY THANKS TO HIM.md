@@ -6,27 +6,31 @@ bpm: ''
 time_sig: 4/4
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - slow
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - love
-  - thanks
+  - thanksgiving
   - friendship
   - thankfulness
-  - sutl
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - '1'
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - >-
@@ -35,7 +39,6 @@ profile:
 keywords: 'os apo slow, friendship, thankfulness, sutl'
 ccli: '748907'
 copyright: '1954. Renewed 1982 Stamps Quartet Music, Admin. ClearBox Rights, LLC.'
-source: '1'
 year: ''
 medley: []
 id: 30CE79BD-DAE9-42BA-8D62-45B134BCB2CD

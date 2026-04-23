@@ -5,24 +5,26 @@ key: E
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - love
+function:
+  - praise
+  - worship
+context: []
+style:
+  - southern-gospel
+tradition:
+  - contemporary
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +33,6 @@ profile:
 keywords: mod apo med
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 48E0EA2D-513C-4557-8098-4EBCE3CE3BA3

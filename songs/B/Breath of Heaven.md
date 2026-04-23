@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - heaven
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: '1992 Age To Age Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: ECA36FC4-F9A5-434D-94C5-46D7F24B3119

@@ -7,22 +7,25 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function:
   - worship
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 1310DD80-D261-4E99-BA81-97FCDEBBEC78
 ---
-
 ## Sets Using This Song
 
 ```dataview

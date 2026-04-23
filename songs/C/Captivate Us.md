@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - presence
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4348021'
 copyright: '2004 Word Music, Inc. / worshiptogether.com songs / sixsteps Music'
-source: ''
 year: ''
 medley: []
 id: CDA693E2-CB41-4154-9F96-510ADBEC3749

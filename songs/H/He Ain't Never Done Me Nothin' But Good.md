@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1935183'
 copyright: 1968 John T. Benson Publishing Company
-source: ''
 year: ''
 medley: []
 id: 8C54D592-3813-41C2-BEA9-20053638BF62

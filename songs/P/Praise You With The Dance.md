@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - dance
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4196606'
 copyright: 2003 SWECS Music / Club Zoo Music
-source: ''
 year: ''
 medley: []
 id: AA8CEE04-E697-4A2E-93BA-952DD49BFB03

@@ -7,20 +7,24 @@ time_sig: ''
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-fast
-  - middle-eastern
-  - praise
-  - solo-songs
-  - traditional
+theme:
   - jesus
+function:
+  - praise
+context: []
+style:
+  - black-gospel
+  - middle-eastern
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +34,6 @@ profile:
 keywords: 'mod apo fast, mod gospel fast'
 ccli: '1947858'
 copyright: 1995 LionSong Praise! (Admin. LionSong Praise!)
-source: ''
 year: 1995
 medley: []
 id: 3AFE3AB4-4B24-4BB5-9410-778E051C99F0

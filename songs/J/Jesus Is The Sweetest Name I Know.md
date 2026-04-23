@@ -6,22 +6,27 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - jesus
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+  - black-gospel-opera
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - black-gospel-opera
@@ -31,7 +36,6 @@ profile:
 keywords: os apo slow
 ccli: ''
 copyright: ''
-source: ''
 year: 1930
 medley: []
 id: 52C8A82C-2190-430A-9DEC-254B9B25E315

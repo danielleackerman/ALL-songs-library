@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '7123436'
 copyright: 2018 Every Square Inch
-source: ''
 year: ''
 medley: []
 id: B61238E2-3D66-4FEB-B408-17DD8AAB6E45

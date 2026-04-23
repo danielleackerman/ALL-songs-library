@@ -7,17 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - 1905-1977
+tags: []
 genre: []
 profile:
   - os-apo-fast
 keywords: os apo fast
 ccli: ''
 copyright: ''
-source: 1905-1977
 year: ''
 medley:
   - '[[VICTORY IN JESUS]]'

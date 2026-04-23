@@ -8,17 +8,21 @@ meter: ''
 tempo: slow
 feel: []
 theme: []
-function: []
-tags:
-  - altar-songs
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
+function:
   - worship
+context:
+  - altar
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -27,7 +31,6 @@ profile:
 keywords: os apo med
 ccli: ''
 copyright: ''
-source: ''
 year: 1927
 medley: []
 id: 7B7C68E2-4FFA-4C67-9850-ECA290173B33

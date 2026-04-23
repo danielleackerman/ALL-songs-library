@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - presence
   - blessing
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 6496D474-B179-4680-8265-F3E4EDEF6C7C

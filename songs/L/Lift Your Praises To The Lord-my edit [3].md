@@ -5,21 +5,25 @@ key: Eb
 bpm: '58'
 time_sig: 4/4
 meter: ''
-tempo: slow
+tempo: medium
 feel: []
 theme: []
-function: []
-tags:
+function:
+  - praise
+  - worship
+context: []
+style:
   - ccm
-  - choir
-  - choruses
-  - congregational
   - jesus-movement
   - maranatha
-  - medium
-  - praise
-  - solo-songs
-  - worship
+tradition: []
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -28,7 +32,6 @@ profile:
 keywords: mod. apo. slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: D14FB16B-5A2E-437E-B389-CB7C555BDA5C

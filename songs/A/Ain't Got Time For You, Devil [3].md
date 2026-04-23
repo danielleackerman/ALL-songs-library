@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-southern-gospel-fast
 keywords: os southern gospel fast
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: E2598AB2-11DD-4CD1-8E2A-F81BDE33D9A8

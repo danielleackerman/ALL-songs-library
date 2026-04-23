@@ -5,25 +5,29 @@ key: G
 bpm: '95'
 time_sig: ''
 meter: ''
-tempo: medium
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - joy
   - revival
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -34,7 +38,6 @@ ccli: '3350'
 copyright: >-
   1987 Bridge Building Music, Inc., Family & Friends Music, Larry Goss Music
   (Brentwood-Benson Music Publishing, Inc., ClearBox Rights, LLC
-source: ''
 year: ''
 medley: []
 id: BC7994A1-1FB2-4503-83C4-193223D9181D

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2851280'
 copyright: '1998 Word Music, LLC / Liturgy Legacy Music'
-source: ''
 year: ''
 medley: []
 id: 0BE9F10F-0468-46A1-9A93-D8C98498CFF5

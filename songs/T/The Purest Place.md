@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - king
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4347998'
 copyright: '2004 Word Music, LLC / Sweater Weather Music / Rocketown Music, LLC.'
-source: ''
 year: ''
 medley: []
 id: 3647DCEB-AA2D-408B-8283-519B50FAC706

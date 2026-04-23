@@ -9,14 +9,18 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
-  - os-slow
+context: []
+style: []
+tradition:
+  - old-school
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: os slow
 ccli: '17803'
 copyright: ''
-source: ''
 year: 1983
 medley: []
 id: C863EA37-E3F6-48F7-BE51-171BC44CA102

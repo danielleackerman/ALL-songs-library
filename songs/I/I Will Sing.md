@@ -8,15 +8,19 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3166266'
 copyright: 2000 Integrity's Hosanna! Music
-source: ''
 year: ''
 medley: []
 id: BE557968-191C-46B4-92D0-145EEAA7D619

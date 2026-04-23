@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - father
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-slow
 keywords: os apo slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[HEAVENLY FATHER]]'

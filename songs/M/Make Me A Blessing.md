@@ -5,26 +5,29 @@ key: Eb
 bpm: ''
 time_sig: 6/4
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium
+feel:
   - energetic
-  - medium
-  - medium-slow
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - blessing
   - life
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +35,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: 1924
 medley: []
 id: F82EA4E9-F730-429E-9993-0E6973D852DB

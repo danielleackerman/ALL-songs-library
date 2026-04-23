@@ -5,28 +5,32 @@ key: G
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - altar-songs
+tempo: medium-fast
+feel:
+  - cheeky
+  - energetic
+  - novelty
+theme:
+  - light
+function:
+  - praise
+  - worship
+context:
+  - altar
+style:
   - black-gospel
   - bluegrass
-  - cheeky
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - energetic
-  - medium-fast
-  - novel
-  - praise
-  - solo-songs
   - southern-gospel
+tradition:
+  - contemporary
   - traditional
-  - worship
-  - light
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -34,7 +38,6 @@ profile:
 keywords: ''
 ccli: '45064'
 copyright: '1948. Renewed 1975 Acuff Rose Music / Hiriam Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: B641695C-3A63-4E6E-912F-DB9B33A80C5D

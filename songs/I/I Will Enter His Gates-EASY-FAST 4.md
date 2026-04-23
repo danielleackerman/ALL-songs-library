@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
+theme:
+  - rejoicing
 function: []
-tags:
-  - rejoice
+context: []
+style:
   - maranatha
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-christian-med-slow
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[WE BRING THE SACRIFICE OF PRAISE]]'

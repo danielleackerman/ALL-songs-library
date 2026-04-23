@@ -5,22 +5,26 @@ key: Ab
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -28,7 +32,6 @@ profile:
 keywords: ''
 ccli: '228025'
 copyright: '1986 Bridge Building Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: 2B57E810-1339-4D8E-9F6B-A7A36C7021CC

@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -19,7 +24,6 @@ ccli: '3457607'
 copyright: >-
   2001 Bridge Building Music, Inc. / Matt Huesmann Music / Soulwriter Music
   Company, Inc. / Winkin' Music
-source: ''
 year: ''
 medley: []
 id: DE70708B-6375-49FA-8EA6-86D35DE0D093

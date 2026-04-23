@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - shelter
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3601594'
 copyright: 2002 Bridge Building Music / Pogostick Music
-source: ''
 year: ''
 medley: []
 id: F5076DE5-85E9-45E7-8162-3813C68EDC20

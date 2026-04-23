@@ -5,24 +5,29 @@ key: Eb
 bpm: '118'
 time_sig: 4/4
 meter: ''
-tempo: medium-fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: fast
+feel:
   - high-energy
-  - medium-fast-shouting
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+  - shouting
+theme:
   - king
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +35,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 88EF6DBA-492C-4062-BEDB-18B91F58CE48

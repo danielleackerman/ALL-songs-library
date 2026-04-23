@@ -6,22 +6,26 @@ bpm: '72'
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - energetic
-  - medium-slow
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme:
+  - belief
+function:
   - worship
-  - believe
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +35,6 @@ profile:
 keywords: 'cont gospel slow, mod gospel slow'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 719909B5-A340-4A6F-8F9F-D31794D1D78C

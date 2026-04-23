@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2000 MercyMe Music
-source: ''
 year: ''
 medley: []
 id: B1D53625-0BC3-4984-A86D-FEC1645A743C

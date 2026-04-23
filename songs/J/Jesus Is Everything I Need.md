@@ -6,23 +6,27 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - jesus
   - life
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +36,6 @@ profile:
 keywords: 'mod apo slow, mod gospel slow'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 2C26D9EA-55E1-41D8-92F9-94394333EDB8

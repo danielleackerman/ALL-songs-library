@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - heaven
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3591817'
 copyright: 2001 This Is Your Time Music
-source: ''
 year: ''
 medley: []
 id: ABFBCA1E-C2BD-4EDC-AD54-9C8A7026A94A

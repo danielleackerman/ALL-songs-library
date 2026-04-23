@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - alleluia
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3493025'
 copyright: 2002 New Spring / Never Say Never Songs / Meaux Mercy / Blue Raft Music
-source: ''
 year: ''
 medley: []
 id: 2D2D3146-93B3-4738-9738-F21F89A71A83

@@ -6,23 +6,28 @@ bpm: '124'
 time_sig: 4/4
 meter: ''
 tempo: medium-fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - energetic
-  - medium-fast
+theme:
+  - heaven-home
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
-  - home
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - Sing Unto The Lord Songbook - 24
+tags: []
 genre: []
 profile:
   - >-
@@ -33,7 +38,6 @@ ccli: '6203827'
 copyright: >-
   Words: Public Domain, Music: 1987, 1994 Penny Annie Music (Admin. by Words &
   Music, a Division of Big Deal Music, LLC)
-source: Sing Unto The Lord Songbook - 24
 year: ''
 medley: []
 id: FA934E19-5A87-4ABE-B994-5F94089654A0

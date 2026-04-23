@@ -6,24 +6,31 @@ bpm: '75'
 time_sig: 4/4
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - energetic
-  - medium-slow
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - love
   - glory
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - >-
+    The essence of your presence; Manifested love; Shekinah in my temple; Things
+    below are like things above
+tags: []
 genre: []
 profile:
   - >-
@@ -31,9 +38,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: >-
-  The essence of your presence; Manifested love; Shekinah in my temple; Things
-  below are like things above
 year: ''
 medley: []
 id: FD90218B-1D14-4FFE-B6C6-9C2FCB2D8ECD

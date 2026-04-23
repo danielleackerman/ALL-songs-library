@@ -5,25 +5,28 @@ key: G
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium
+feel:
   - energetic
-  - medium
-  - medium-slow
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - holy-ghost
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +35,6 @@ profile:
 keywords: mod apo med
 ccli: '1149622'
 copyright: '1996 Dayspring Music, LLC'
-source: ''
 year: ''
 medley:
   - '[[WORSHIP THE KING]]'

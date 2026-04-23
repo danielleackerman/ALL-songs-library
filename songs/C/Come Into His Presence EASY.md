@@ -7,13 +7,18 @@ time_sig: ''
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - presence
-  - os-presbyterian
-  - childrens
+  - children
+function: []
+context: []
+style: []
+tradition:
+  - old-school
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-med
@@ -21,7 +26,6 @@ profile:
 keywords: 'os apo med, os presbyterian, childrens, os christian med'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: E8563CC0-D8D7-4836-9C8D-EF4E7D5F9616

@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - faith
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1848590'
 copyright: '1995 Pogostick Music / Bridge Building Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: C6C70047-7D82-4C37-B1A5-B55411D9ADB3

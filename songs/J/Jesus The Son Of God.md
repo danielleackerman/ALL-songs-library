@@ -5,24 +5,29 @@ key: Ab
 bpm: ''
 time_sig: 6/4
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - jesus
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - '12'
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +37,6 @@ profile:
 keywords: os apo med
 ccli: '2531335'
 copyright: '1998, 2000 Pilot Point Music, Admin. Music Services, Inc.'
-source: '12'
 year: ''
 medley:
   - '[[DO YOU KNOW HIM?]]'

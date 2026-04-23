@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3605909'
 copyright: '2002 Bridge Building Music, Inc. / Pogostick Music'
-source: ''
 year: ''
 medley: []
 id: F67AAE80-15A5-46CB-8E48-2F98D628D95D

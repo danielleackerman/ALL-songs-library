@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5074325'
 copyright: 2006 SPIN Three-Sixty Music
-source: ''
 year: ''
 medley: []
 id: 469877C1-0333-4172-8DF8-AD3C87DB814D

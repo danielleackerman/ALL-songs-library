@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - trust
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '106659'
 copyright: 1987 Mercy / Vineyard Publishing
-source: ''
 year: ''
 medley: []
 id: CEB98569-73B0-446C-ABA8-3357DB4FA2C1

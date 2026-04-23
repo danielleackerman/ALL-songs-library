@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1366797'
 copyright: '1994 Word Music, LLC / Shepherd Boy Music'
-source: ''
 year: ''
 medley: []
 id: F42FE6F6-0DC1-45EF-AB15-403A32F668EE

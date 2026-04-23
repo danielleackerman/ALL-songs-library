@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2006 Provident Label Group LLC
-source: ''
 year: ''
 medley: []
 id: B91DAC8C-3B57-4193-B2AC-28F3036E2DE0

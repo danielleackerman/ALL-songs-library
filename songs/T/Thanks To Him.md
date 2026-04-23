@@ -7,18 +7,23 @@ time_sig: 3/4
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - thanksgiving
 function: []
-tags:
-  - thanks
-  - sutl
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - '10'
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - os-apo-slow
 keywords: 'os apo slow, sutl'
 ccli: '128493'
 copyright: '1977 Word Music, Inc. (a div. of Word Music Group, Inc.)'
-source: '10'
 year: ''
 medley:
   - '[[NEARING HOME]]'

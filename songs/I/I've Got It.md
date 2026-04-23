@@ -5,24 +5,29 @@ key: F
 bpm: '139'
 time_sig: ''
 meter: ''
-tempo: medium-fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: fast
+feel:
   - high-energy
-  - medium-fast-shouting
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+  - shouting
+theme:
   - holy-ghost
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +37,6 @@ profile:
 keywords: 'os gospel fast, the holy ghost'
 ccli: '654266'
 copyright: '1972 Manna Music, Inc. (Admin. by ClearBox Rights, LLC)'
-source: ''
 year: ''
 medley:
   - '[[GREATER IS HE THAT IS IN ME]]'

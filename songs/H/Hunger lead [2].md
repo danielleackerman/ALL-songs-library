@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - hunger
-  - immerse
+  - immersion
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '7112600'
 copyright: Integrity Worship Music Integrity's Praise! Music
-source: ''
 year: ''
 medley: []
 id: DE6A2D56-4921-421F-9934-730B1798AA26

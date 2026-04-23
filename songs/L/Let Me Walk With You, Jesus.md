@@ -7,17 +7,21 @@ time_sig: 6/8
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-med
 keywords: os apo med
 ccli: ''
 copyright: ''
-source: ''
 year: 1966
 medley: []
 id: C30B426B-A6FD-4210-A41A-87A6BDE935B7

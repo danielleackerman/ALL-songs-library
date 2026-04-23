@@ -5,23 +5,27 @@ key: F
 bpm: '54'
 time_sig: ''
 meter: ''
-tempo: slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
   - praise
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +34,6 @@ profile:
 keywords: contemporary gospel slow
 ccli: '3397815'
 copyright: '2001 Lilly Mack Music, M3M Music (Admin. Capitol CMG Publishing)'
-source: ''
 year: ''
 medley: []
 id: C6A57A63-08E8-4ECA-9C44-F13302F9CBA5

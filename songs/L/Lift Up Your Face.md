@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - calling
   - salvation
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2010 Consuming Fire Music / Walter Ego Music / Needtobreathe Music
-source: ''
 year: ''
 medley: []
 id: AAEE1D83-F487-47B9-91C4-1E68AC685C26

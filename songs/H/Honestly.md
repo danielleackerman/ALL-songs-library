@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
@@ -17,7 +22,6 @@ ccli: '4710635'
 copyright: >-
   2005 All For The King Music / Lakeside Media / Autotunes / Postage Stamp
   Publishing / Willow Branch Publishing
-source: ''
 year: ''
 medley: []
 id: 671AC17C-1B4F-4E4D-9FB3-0224B8626D13

@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
@@ -17,7 +22,6 @@ ccli: ''
 copyright: >-
   2006 Simpleville Music / Wet As A Fish Music / Songs From The Indigo Room /
   Wordspring Music, LLC
-source: ''
 year: ''
 medley: []
 id: 457F09FD-0EE0-4787-9903-8DE32AFB38E5

@@ -8,15 +8,20 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Burbank
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: Burbank
 year: ''
 medley: []
 id: E03781B0-E07B-4753-8FA5-EBCB9DDEBE3A

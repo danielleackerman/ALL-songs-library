@@ -5,25 +5,30 @@ key: Db
 bpm: '80'
 time_sig: ''
 meter: ''
-tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: fast
+feel:
   - high-energy
-  - medium-fast-shouting
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+  - shouting
+theme:
   - jesus
   - men
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +37,6 @@ profile:
 keywords: contemp christian med
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 8F776651-4DB8-4DFB-A2CE-51CEBFBE4F86

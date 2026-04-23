@@ -7,22 +7,25 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - rock
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 24DAAE42-5F6D-4F42-9002-5C47AA1A45CD
 ---
-
 ## Sets Using This Song
 
 ```dataview

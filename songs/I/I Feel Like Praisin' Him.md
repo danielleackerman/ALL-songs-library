@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1801939'
 copyright: '1995 Dayspring Music, LLC'
-source: ''
 year: ''
 medley: []
 id: 43D06B13-66C5-4F57-9346-451AFE22A607

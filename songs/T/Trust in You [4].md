@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - trust
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: '7025522'
 copyright: >-
   2014 Farren Love And War Publishing (Admin. by Capitol CMG Publishing (IMI)),
   Integrity's Alleluia! Music (Admin. by Capitol CMG Publishing IMI), Cent
-source: ''
 year: ''
 medley: []
 id: C1F1C791-F290-482D-851F-D5130AA283CD

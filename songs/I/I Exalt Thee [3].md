@@ -8,17 +8,21 @@ meter: ''
 tempo: slow
 feel: []
 theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
+function:
   - worship
-  - os-slow
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+  - old-school
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -26,7 +30,6 @@ profile:
 keywords: os slow
 ccli: '17803'
 copyright: ''
-source: ''
 year: 1983
 medley: []
 id: 9F1E9DDD-0E96-4749-8AC8-97B9C2612325

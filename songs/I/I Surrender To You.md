@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4249711'
 copyright: 2004 Thirsty Moon Publishing / Dodd Music / Dying Ego Music / Ganologiks
-source: ''
 year: ''
 medley: []
 id: 48DAA2B5-4A0E-4287-91C9-FDD39FE7379B

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3486764'
 copyright: 2001 New Spring / Never Say Never Songs / Storm Boy Music / Meaux Mercy
-source: ''
 year: ''
 medley: []
 id: 8825AB64-AAA8-458E-B6DA-DDC3B4F58871

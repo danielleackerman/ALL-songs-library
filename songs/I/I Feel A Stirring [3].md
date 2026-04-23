@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -16,7 +21,6 @@ profile:
 keywords: mod apo med
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: CC1AB475-8A41-4041-BEFC-57A7D2E45305

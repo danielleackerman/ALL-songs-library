@@ -8,18 +8,22 @@ meter: ''
 tempo: medium
 feel: []
 theme: []
-function: []
-tags:
+function:
+  - praise
+  - worship
+context: []
+style:
   - ccm
-  - choir
-  - choruses
-  - congregational
   - jesus-movement
   - maranatha
-  - medium
-  - praise
-  - solo-songs
-  - worship
+tradition: []
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -28,7 +32,6 @@ profile:
 keywords: mod apo slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 18985DDC-F51E-42DA-ACEA-5FFC3213EA0E

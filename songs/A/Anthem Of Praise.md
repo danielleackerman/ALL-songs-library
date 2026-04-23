@@ -8,15 +8,19 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4576604'
 copyright: 2004 Electra Car Publishing / Bracy Train Publishing
-source: ''
 year: ''
 medley: []
 id: 81442263-EC41-4927-BECE-EA40CA5AE7AF

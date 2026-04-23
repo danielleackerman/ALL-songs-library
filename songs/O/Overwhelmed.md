@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - mercy
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '6219031'
 copyright: '2011 Word Music, LLC, Phil Wickham Music,  Seems Like Music, Weave County'
-source: ''
 year: ''
 medley: []
 id: C39857FE-C7E9-4B6F-88E9-24B1D82ED803

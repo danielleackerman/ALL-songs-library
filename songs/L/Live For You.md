@@ -7,11 +7,17 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Rachael Lampa
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -19,7 +25,6 @@ ccli: '525436'
 copyright: >-
   2000 Dayspring Music, LLC / SGO Music Publishing Ltd. / Still Working For The
   Man Music, Inc.
-source: Rachael Lampa
 year: ''
 medley: []
 id: DC53CDFD-5D06-485A-A722-D73F95DD8FDC

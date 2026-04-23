@@ -7,18 +7,22 @@ time_sig: 2/4
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - prayer
   - presence
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-med
 keywords: 'mod apo med, prayer, presence'
 ccli: '931965'
 copyright: '1996 Dayspring Music, LLC, Admin. Word Entertainment, LLC'
-source: ''
 year: ''
 medley: []
 id: D70F636B-82C2-4FD8-975C-16AFF7EA762F

@@ -8,20 +8,24 @@ meter: ''
 tempo: medium
 feel: []
 theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
-  - sutl
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +34,6 @@ profile:
 keywords: 'os apo med, sutl'
 ccli: ''
 copyright: ''
-source: ''
 year: 1953
 medley: []
 id: 3D6C0A7F-DCC4-4C6D-B6FA-241D475CB3A6

@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - redeemer
   - savior
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4572079'
 copyright: 2005 Crazy Romaine Music
-source: ''
 year: ''
 medley: []
 id: 31A6BD96-97F5-4AD1-A122-DF82BCB8A967

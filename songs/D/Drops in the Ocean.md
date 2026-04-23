@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: '7034172'
 copyright: >-
   2014 Forest For The Trees Music, Open Hands, Atlantis Underwater Music, Fair
   Trade Tunes, Sony/ATV Timber Publishing
-source: ''
 year: ''
 medley: []
 id: 5DE473DC-2A33-4998-83BD-FB5D1AB39927

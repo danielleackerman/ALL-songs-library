@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - temptation
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-gospel-slow
 keywords: 'os gospel slow, temptation'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: E1E6E57C-5ADD-4256-8A48-10C82EE8AB9B

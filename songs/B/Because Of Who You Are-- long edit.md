@@ -7,20 +7,23 @@ time_sig: 4/4
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - peace
   - victory
-  - gospel-ccli
-  - ccli
+function: []
+context: []
+style:
+  - ccm-gospel
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-slow
 keywords: 'mod. apo. slow, gospel/ccli, ccli'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 4983A47C-DFD7-41D1-BB2C-7DF40362066C

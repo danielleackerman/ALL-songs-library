@@ -5,29 +5,31 @@ key: G
 bpm: '53'
 time_sig: ''
 meter: ''
-tempo: slow
-feel: []
-theme: []
-function: []
-tags:
+tempo: medium
+feel:
+  - reverential
+theme:
+  - strength
+function:
+  - praise
+  - worship
+context: []
+style:
   - black-gospel
   - ccm
-  - choir
-  - choruses
-  - congregational
-  - contemporary
   - jesus-movement
   - maranatha
-  - medium
-  - medium-slow
-  - praise
-  - reverential
-  - solo-songs
   - southern-gospel
+tradition:
+  - contemporary
   - traditional
-  - worship
-  - strength
-  - maranatha-medium
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -35,7 +37,6 @@ profile:
 keywords: maranatha medium
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 9BF091D5-2ED7-43BA-B627-0042F66B7BA0

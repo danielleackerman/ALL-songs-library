@@ -7,18 +7,22 @@ time_sig: 3/4
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - life
-  - sutl
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - os-apo-slow
 keywords: 'os apo slow, sutl'
 ccli: '12545'
 copyright: Public Domain
-source: ''
 year: ''
 medley: []
 id: 3274C8EE-A1D3-47F0-A890-28E2F6EA503D

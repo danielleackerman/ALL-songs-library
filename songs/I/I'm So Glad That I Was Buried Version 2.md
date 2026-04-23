@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: fast
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-fast
 keywords: os apo fast
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: D161AA28-AA5E-41DF-AFDD-7FAF8A6FF197

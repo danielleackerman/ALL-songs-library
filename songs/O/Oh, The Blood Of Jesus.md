@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - blood
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-slow
 keywords: os apo slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[THERE IS POWER IN THE BLOOD]]'

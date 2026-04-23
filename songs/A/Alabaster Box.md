@@ -7,11 +7,17 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
+function: []
+context: []
+style:
+  - black-gospel-opera
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - black-gospel-opera
@@ -19,7 +25,6 @@ profile:
 keywords: cont. gospel slow
 ccli: '2825962'
 copyright: '2004 Little Pooky’s Music, Admin. Pure Psalms Music'
-source: ''
 year: ''
 medley:
   - '[[At Your Feet]]'

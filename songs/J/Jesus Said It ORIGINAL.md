@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: fast
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
-  - believe
+  - belief
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-gospel-fast
@@ -19,7 +24,6 @@ profile:
 keywords: 'mod gospel fast, cont gospel fast'
 ccli: '5539066'
 copyright: 2005 Maize Music / Productive Rhythm Publishing
-source: ''
 year: ''
 medley:
   - '[[I''VE ALREADY BEEN TO THE WATER]]'

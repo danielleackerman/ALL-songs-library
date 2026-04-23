@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - faith
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-gospel-slow
@@ -20,7 +25,6 @@ ccli: '4706656'
 copyright: >-
   2007 KCartunes Music (Admin. by Capitol CMG Publishing) Lilly Mack Music 
   (Admin. by Capitol CMG Publishing)
-source: ''
 year: ''
 medley: []
 id: 5DBAE621-F21D-4CF7-B903-B274A5BA4B83

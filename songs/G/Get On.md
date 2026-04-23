@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: '2001 New Spring Publishing, Inc'
-source: ''
 year: ''
 medley: []
 id: 43497537-8A25-4718-937B-8985CC27930D

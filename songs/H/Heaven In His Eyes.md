@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - heaven
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2851273'
 copyright: '1998 Word Music, LLC'
-source: ''
 year: ''
 medley: []
 id: F3F30A4E-4CD0-4673-AA0F-0911E36EE53E

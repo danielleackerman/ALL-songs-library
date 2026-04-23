@@ -7,21 +7,24 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: AA8CCA58-054F-4EB7-9B06-41CCD12CB2DA
 ---
-
 ## Sets Using This Song
 
 ```dataview

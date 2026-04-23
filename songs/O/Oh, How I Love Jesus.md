@@ -7,18 +7,22 @@ time_sig: 6/8
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - o-s-apo-med
 keywords: o. s. apo. med.
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 12B67493-DB07-428D-B42F-FD59644D686F

@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - savior
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2008 Warner-Tamerlane Publishing Corp. / Sell The Cow Music
-source: ''
 year: ''
 medley: []
 id: 917B4225-4869-46EC-9267-00053DE0044A

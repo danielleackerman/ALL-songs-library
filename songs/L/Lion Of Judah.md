@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2002 Jason Upton & Key of David Ministries
-source: ''
 year: ''
 medley: []
 id: A643430B-C69D-41ED-81B3-F5B43E698549

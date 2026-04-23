@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '775190'
 copyright: '1990 BMG Songs, Inc.'
-source: ''
 year: ''
 medley: []
 id: 7655CA14-653F-4F6D-A20F-33FC824B02F6

@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - sin
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-med
 keywords: os apo med
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 3CA992A0-1088-4E26-BCD0-6A73333CE682

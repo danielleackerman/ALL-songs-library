@@ -5,25 +5,29 @@ key: Em
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
-  - middle-eastern
+theme:
+  - the-name
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
-  - his-name
+context: []
+style:
+  - black-gospel
+  - middle-eastern
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +35,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 395CCE57-933C-4A5D-96F0-B1B69D3CA017

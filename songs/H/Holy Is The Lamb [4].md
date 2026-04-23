@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3674813'
 copyright: 2002 CFN Music
-source: ''
 year: ''
 medley: []
 id: 6750EB71-4F49-4A4F-9081-0D39BDA47529

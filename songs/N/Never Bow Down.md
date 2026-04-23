@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3013333'
 copyright: 1999 New Spring / Gray Dot Songs / Vandura 2500 Songs
-source: ''
 year: ''
 medley: []
 id: 96FBF9F7-9B07-4E14-AD0B-FBE1A478C027

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2325613'
 copyright: 1997 River Oaks Music Company / Field Of Themes Music
-source: ''
 year: ''
 medley: []
 id: 5BE7453F-F373-4BA8-84BA-08012CC64439

@@ -5,23 +5,28 @@ key: Bb
 bpm: '60'
 time_sig: ''
 meter: ''
-tempo: slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - change
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - Original key Bb
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +36,6 @@ profile:
 keywords: 'mod apo slow, mod gospel slow, change'
 ccli: '6203315'
 copyright: '2011 Delivery Room Publishing, Admin. by Fun Attic Music, LLC'
-source: Original key Bb
 year: 2011
 medley: []
 id: 1FF8F93F-D78D-4393-8FAC-8E240A88DF94

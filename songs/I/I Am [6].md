@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3042122'
 copyright: '1999 Word Music, LLC / Juvintud Music'
-source: ''
 year: ''
 medley: []
 id: 242C0B2D-B8C0-4F3E-BBAE-B8A7728726AB

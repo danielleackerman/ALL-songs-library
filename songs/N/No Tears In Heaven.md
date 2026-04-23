@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - heaven
-  - sutl
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - os-apo-slow
 keywords: 'os apo slow, sutl'
 ccli: '41752'
 copyright: '1935. Renewed 1972 Texas Legendary Music, Admin. Zukoski Publishing Group, LLC'
-source: ''
 year: ''
 medley: []
 id: 82DB8D29-99AB-428C-ABED-B26A381A3DB6

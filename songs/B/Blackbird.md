@@ -9,13 +9,18 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Drop D Tuning; Ok...now the song...
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 1995 Class Reunion Music / Little Man Big Man Music / gray dot songs
-source: Drop D Tuning; Ok...now the song...
 year: ''
 medley: []
 id: F5CEB876-5AA3-4758-BB9A-07A8AACCD653

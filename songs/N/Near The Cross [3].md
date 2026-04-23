@@ -5,23 +5,26 @@ key: F
 bpm: '86'
 time_sig: 6/8
 meter: ''
-tempo: medium
+tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - altar-songs
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - cross
-  - sutl
-  - songbook
+function:
+  - worship
+context:
+  - altar
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +33,6 @@ profile:
 keywords: 'os apo slow, sutl, songbook'
 ccli: '36736'
 copyright: Public Domain
-source: ''
 year: ''
 medley: []
 id: 4DA7468B-7369-4BA2-9841-B2717B91E018

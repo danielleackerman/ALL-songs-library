@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4594325'
 copyright: '2005 Banahama Tunes / Word Music, LLC / Club Zoo Music / SWECS Music'
-source: ''
 year: ''
 medley: []
 id: E09F0BE9-4553-4032-AFEA-4BE2C0BB9754

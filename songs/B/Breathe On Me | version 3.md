@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - holy-ghost
   - power
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-med
 keywords: mod apo med
 ccli: '1149622'
 copyright: '1996 Dayspring Music, LLC'
-source: ''
 year: ''
 medley:
   - '[[WORSHIP THE KING]]'

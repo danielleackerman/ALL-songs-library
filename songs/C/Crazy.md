@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2002 Simpleville Music
-source: ''
 year: ''
 medley: []
 id: 3072AFFE-DE94-4B7A-8997-0B1003E95F69

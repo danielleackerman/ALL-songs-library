@@ -6,27 +6,30 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: medium
-feel: []
-theme: []
-function: []
-tags:
+feel:
+  - reverential
+theme:
+  - almighty
+function:
+  - praise
+  - worship
+context: []
+style:
   - black-gospel
   - ccm
-  - choir
-  - choruses
-  - congregational
-  - contemporary
   - jesus-movement
   - maranatha
-  - medium
-  - medium-slow
-  - praise
-  - reverential
-  - solo-songs
   - southern-gospel
+tradition:
+  - contemporary
   - traditional
-  - worship
-  - almighty
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -35,7 +38,6 @@ profile:
 keywords: mod apo slow
 ccli: '224347'
 copyright: 1983 Integrity’s Hosanna Music
-source: ''
 year: ''
 medley:
   - '[[MORE THAN ANYTHING]]'

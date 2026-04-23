@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: '2016 EKT Publishing, WB Music Corp., Thankful for this Music and Co-Publisher'
-source: ''
 year: ''
 medley: []
 id: B53570E3-10B5-4CAF-B24C-8D9C16A2C3EA

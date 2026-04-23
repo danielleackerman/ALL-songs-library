@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4292153'
 copyright: 2004 Consuming Fire Music (Admin. by EMI Christian Music Publishing)
-source: ''
 year: ''
 medley: []
 id: 5DA336C3-B0C5-49C2-A91A-F5D998DD612F

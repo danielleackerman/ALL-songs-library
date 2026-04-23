@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - glory
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -19,7 +24,6 @@ ccli: '5760756'
 copyright: >-
   © 2010 Simpleville Music (Admin. by Music Services, Inc.)Wet As A Fish Music
   (Admin. by Music Services, Inc.)Banistuci Music (Admin. by The Loving Com
-source: ''
 year: ''
 medley: []
 id: 53FE30AF-21F6-40E1-A82D-CEACF66CBB06

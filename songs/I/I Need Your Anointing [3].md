@@ -5,27 +5,30 @@ key: F
 bpm: '67'
 time_sig: ''
 meter: ''
-tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium
-  - medium-slow
-  - praise
+tempo: medium
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - desire
   - anointing
   - blessing
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -35,7 +38,6 @@ profile:
 keywords: 'mod apo med slow, mod gospel med slow, anointing, blessing'
 ccli: '5626113'
 copyright: '2009 DaviShop (Admin. by Brentwood-Benson Music Publishing, Inc.'
-source: ''
 year: ''
 medley:
   - '[[I NEED YOUR MERCY]]'

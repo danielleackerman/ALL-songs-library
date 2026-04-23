@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4586106'
 copyright: 2005 Consuming Fire Publishing
-source: ''
 year: ''
 medley: []
 id: 658264A3-0F08-4019-B76F-0FC00B22FBF3

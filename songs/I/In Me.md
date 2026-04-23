@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - christ
   - light
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4578877'
 copyright: 2005 Club Zoo Music / SWECS Music
-source: ''
 year: ''
 medley: []
 id: 60518629-0D62-4002-A966-4D3E8C086220

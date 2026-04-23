@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - wonder
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3178072'
 copyright: 2000 Mark Schultz Music
-source: ''
 year: ''
 medley: []
 id: BFF3D04A-99D9-4E2A-BA66-D45AEA33BE60

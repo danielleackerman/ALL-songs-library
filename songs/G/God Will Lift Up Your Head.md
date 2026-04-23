@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - joy
-  - wise
+  - wisdom
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2410607'
 copyright: '1996 Triune Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: 0959E6BC-A956-4946-9B5C-10904B343DFD

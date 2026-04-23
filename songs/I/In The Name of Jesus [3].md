@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - the-name
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-fast
 keywords: 'os apo fast, the name'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 94965CD1-1B45-4E76-9139-D18299998800

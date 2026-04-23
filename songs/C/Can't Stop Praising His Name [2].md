@@ -7,20 +7,24 @@ time_sig: ''
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-fast
-  - middle-eastern
+theme:
+  - the-name
+function:
   - praise
-  - solo-songs
+context: []
+style:
+  - black-gospel
+  - middle-eastern
+tradition:
+  - contemporary
   - traditional
-  - his-name
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -28,7 +32,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 10BAF33F-9148-4555-B600-32D598FC00C7

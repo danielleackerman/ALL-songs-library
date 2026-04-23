@@ -7,18 +7,23 @@ time_sig: 12/8
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - sutl
+theme:
   - anticipation
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - 'SING UNTO THE LORD, 2'
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - os-apo-med
 keywords: 'sutl, os apo med, anticipation'
 ccli: '51687'
 copyright: Public Domain
-source: 'SING UNTO THE LORD, 2'
 year: ''
 medley:
   - '[[AT THE CROSS]]'

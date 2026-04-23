@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - presence
-  - believe
+  - belief
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1839963'
 copyright: 1995 Hillsong Publishing
-source: ''
 year: ''
 medley: []
 id: AD1603BA-ADDF-4D12-B246-2C807726641F

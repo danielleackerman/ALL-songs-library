@@ -7,20 +7,24 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - love
   - jesus
-  - sutl
+function:
+  - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - >-
@@ -29,7 +33,6 @@ profile:
 keywords: 'os apo slow, sutl'
 ccli: ''
 copyright: (Traditional Hymn) Public Domain
-source: ''
 year: ''
 medley: []
 id: E6202700-F7F8-4FDF-910F-A71BC4C32549

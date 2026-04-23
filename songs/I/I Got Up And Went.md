@@ -6,14 +6,19 @@ bpm: ''
 time_sig: 3/4
 meter: ''
 tempo: ''
-feel: []
+feel:
+  - cheeky
+  - novelty
 theme: []
 function: []
-tags:
+context: []
+style:
   - bluegrass
-  - cheeky
-  - novel
   - southern-gospel
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - bluegrass-cheeky-novel-southern-gospel
@@ -21,7 +26,6 @@ profile:
 keywords: os southern gospel med
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: AC4BF856-49B6-47E1-8D94-E9C805C6D4DB

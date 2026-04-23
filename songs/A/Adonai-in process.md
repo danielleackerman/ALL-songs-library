@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - father
   - hope
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: '1997 Dayspring Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: 295D9442-EF8A-4997-B96C-E52EA40DF629

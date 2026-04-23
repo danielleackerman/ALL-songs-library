@@ -8,15 +8,19 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - worship
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5100062'
 copyright: '2007 New Spring / Appstreet Music / Peertunes, Ltd.'
-source: ''
 year: ''
 medley: []
 id: FED35290-BEFE-42A1-A097-559DC017193A

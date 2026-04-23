@@ -5,33 +5,34 @@ key: G
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - love
+function:
+  - praise
+  - worship
+context: []
+style:
+  - southern-gospel
+tradition:
+  - contemporary
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
-    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-traditional-worship
+    black-gospel-choir-choruses-congregational-contemporary-energetic-medium-fast-praise-solo-songs-southern-gospel-worship
   - mod-apo-med
 keywords: mod. apo. med
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 00E4599D-B293-4201-B4D4-23FD0F9DF083

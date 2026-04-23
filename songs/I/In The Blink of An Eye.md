@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - life
 function: []
-tags:
-  - alive
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: '4312167'
 copyright: >-
   2004 Simpleville Music / Wet As A Fish Music / Songs From The Indigo Room /
   Wordspring Music, LLC
-source: ''
 year: ''
 medley: []
 id: 3510C92F-6576-43AF-BF05-44FB3B6B4E2B

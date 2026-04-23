@@ -6,23 +6,28 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - high-energy
-  - medium-fast-shouting
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+  - shouting
+theme:
   - temptation
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +36,6 @@ profile:
 keywords: 'os gospel slow, temptation'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 28362415-248A-4158-86C7-1AAA1A03DCC2

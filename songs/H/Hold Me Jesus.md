@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - glory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1263917'
 copyright: '1993 BMG Songs, Inc.'
-source: ''
 year: ''
 medley: []
 id: 2E66A77E-303D-4590-9CD9-456FD4A4892A

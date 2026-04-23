@@ -9,8 +9,12 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
-  - benediction
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +22,6 @@ ccli: '5840676'
 copyright: >-
   2010 Bridge Building, a division of Brentwood-Benson Music Publishing /
   Pogostick Music
-source: ''
 year: ''
 medley: []
 id: B2A90A43-D277-48F4-8096-47D26305F98B

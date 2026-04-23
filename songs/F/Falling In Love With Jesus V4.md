@@ -7,13 +7,16 @@ time_sig: 4/4
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
-  - med-slow
-  - jazz
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-med
@@ -23,7 +26,6 @@ ccli: '4476773'
 copyright: >-
   2002 Doulos Publishing | Warner TamerLane Publishing Company ( Maranatha!
   Music [Bdmin. by Music Services])|
-source: ''
 year: ''
 medley:
   - '[[SET A FIRE]]'

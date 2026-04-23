@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: fast
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - children
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-fast
@@ -19,7 +24,6 @@ profile:
 keywords: 'os apo fast, os christian fast'
 ccli: '16794'
 copyright: '1989 Sounds III, Inc. (Admin. by Lorenz Corporation)'
-source: ''
 year: ''
 medley: []
 id: FE25A706-3557-4955-AF6C-404ABE9B2CEB

@@ -6,13 +6,17 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: ''
-feel: []
-theme: []
-function: []
-tags:
-  - anointed
-  - presence
+feel:
   - anthemic
+theme:
+  - presence
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-slow
@@ -22,7 +26,6 @@ ccli: '41855969'
 copyright: >-
   2003 Integrity's Praise Music, Sound of the New Breed, Martha Munizzi Music,
   Admin. Capitol CMG Publishing (IMI), Say The Name Publishing
-source: ''
 year: ''
 medley: []
 id: 87506A28-642D-41CF-BAA4-A3BCFA58EF48

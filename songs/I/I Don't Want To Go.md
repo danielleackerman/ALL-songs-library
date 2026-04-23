@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - heaven-home
 function: []
-tags:
-  - home
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3426597'
 copyright: 2000 New Spring / Jess Cates Music / Dried Rose Music
-source: ''
 year: ''
 medley: []
 id: E54D7805-1EEC-4911-A27A-54E39441703D

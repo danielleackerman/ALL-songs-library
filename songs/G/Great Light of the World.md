@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - light
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3920158'
 copyright: '2002 New Spring Publishing, Inc. / Appstreet Music'
-source: ''
 year: ''
 medley: []
 id: A0D38C92-ED26-43BD-8E8C-F2FB0DE64922

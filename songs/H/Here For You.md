@@ -8,15 +8,19 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 1999 Simpleville Music
-source: ''
 year: ''
 medley: []
 id: 7BF6A0D8-4D34-4102-B318-B0BADE0E07BB

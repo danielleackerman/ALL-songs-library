@@ -7,16 +7,20 @@ time_sig: 3/4
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: D8106134-BD8D-4246-AE42-76BF69C89ADB

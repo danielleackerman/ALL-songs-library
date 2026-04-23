@@ -7,19 +7,23 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function:
   - praise
+context: []
+style:
   - black-gospel
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-gospel-slow
 keywords: 'os gospel slow, black gospel'
 ccli: '684779'
 copyright: '1987 Bud John Tunes, Inc.'
-source: ''
 year: ''
 medley: []
 id: 38A58BA7-DEC4-40D4-B5C9-2BA3162B75C4

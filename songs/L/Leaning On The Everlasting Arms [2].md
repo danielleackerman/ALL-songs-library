@@ -5,23 +5,28 @@ key: A
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
+theme: []
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - 1839-1929
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +35,6 @@ profile:
 keywords: os apo med
 ccli: '31779'
 copyright: Public Domain
-source: 1839-1929
 year: ''
 medley: []
 id: 62719A88-5D89-406E-8613-083A67763335

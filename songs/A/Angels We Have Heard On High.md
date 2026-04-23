@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - angels
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4867980'
 copyright: Consuming Fire Music
-source: ''
 year: ''
 medley: []
 id: E1D29AF1-CEDE-4BCF-B838-AD25094B5AB0

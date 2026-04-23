@@ -8,10 +8,15 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
   - worship
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-southern-gospel-med
@@ -19,7 +24,6 @@ profile:
 keywords: 'os southern gospel med, os apo med, praise, worship'
 ccli: '57423'
 copyright: '1973 Wiiliam J. Gaither, Inc., Admin. Gaither Copyright Management'
-source: ''
 year: 1973
 medley:
   - '[[HOW DID YOU FEEL?]]'

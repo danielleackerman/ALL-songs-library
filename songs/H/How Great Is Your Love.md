@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - glory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3479850'
 copyright: 2001 Simpleville Music
-source: ''
 year: ''
 medley: []
 id: 2066E493-BD0F-4EF5-BE05-B2F022428402

@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - grace
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2795638'
 copyright: 2002 Integrity's Hosanna! Music
-source: ''
 year: ''
 medley: []
 id: EBE3B6C9-E6E7-43D9-9817-B4B46D86F87E

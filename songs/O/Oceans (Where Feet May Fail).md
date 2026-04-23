@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - rest
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '6428767'
 copyright: 2012 Hillsong Music Publishing (Admin. by EMI Christian Music Publishing)
-source: ''
 year: ''
 medley: []
 id: A8D9EED6-B464-4A54-BFC6-F7E4D6772F09

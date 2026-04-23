@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3479843'
 copyright: 2001 Simpleville Music
-source: ''
 year: ''
 medley: []
 id: FA63B97C-8F2E-4A8D-82FE-501EA9E5C4A1

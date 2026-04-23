@@ -7,21 +7,25 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - ccm
-  - choir
-  - choruses
-  - congregational
-  - jesus-movement
-  - maranatha
-  - medium
-  - praise
-  - solo-songs
-  - worship
+theme:
   - life
   - river
+function:
+  - praise
+  - worship
+context: []
+style:
+  - ccm
+  - jesus-movement
+  - maranatha
+tradition: []
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +34,6 @@ profile:
 keywords: o. s. apo. fast
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 9D16B037-8418-4A52-A2A1-E6CB6A05C65A

@@ -8,16 +8,20 @@ meter: ''
 tempo: slow
 feel: []
 theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
+function:
   - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -25,7 +29,6 @@ profile:
 keywords: ''
 ccli: '468658'
 copyright: Kirk Talley Music
-source: ''
 year: ''
 medley: []
 id: EED9C720-9440-45B6-AC73-0AADD0BF4E2D

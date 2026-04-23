@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - blood
   - power
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-med
@@ -19,7 +24,6 @@ profile:
 keywords: 'os apo med, os gospel med'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[THEY THAT WAIT UPON THE LORD]]'

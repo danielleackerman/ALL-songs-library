@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - heaven-home
 function: []
-tags:
-  - home
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2982726'
 copyright: '1997 Rocketown Music. LLC. / Word Music, LLC / Sweater Weather Music'
-source: ''
 year: ''
 medley: []
 id: F95291E9-79D7-4C18-BA7D-27F9558D2CAB

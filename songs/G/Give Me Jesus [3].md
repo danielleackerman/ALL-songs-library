@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '144491'
 copyright: Public Domain
-source: ''
 year: ''
 medley: []
 id: 2E5917CE-DD81-41B1-84EE-C46E0D80D692

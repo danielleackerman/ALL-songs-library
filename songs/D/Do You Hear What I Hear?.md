@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - goodness
   - light
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '556656'
 copyright: 1990 Birdwing Music
-source: ''
 year: ''
 medley: []
 id: 976DF323-967C-4A01-AB87-6ECCD422B043

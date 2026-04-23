@@ -5,23 +5,27 @@ key: Bb
 bpm: '55'
 time_sig: ''
 meter: ''
-tempo: slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme:
+  - the-name
+function:
   - worship
-  - his-name
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -29,7 +33,6 @@ profile:
 keywords: ''
 ccli: '3040973'
 copyright: '1999 Brown, Clint (Admin. by CSB Ministries, Inc.)'
-source: ''
 year: ''
 medley: []
 id: 573DA217-8435-48A4-B309-4EA0E8529360

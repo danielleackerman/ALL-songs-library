@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: '1999 New Spring Publishing, Inc./'
-source: ''
 year: ''
 medley: []
 id: 96014D85-590E-4495-9AF3-1C3B37CA3D9D

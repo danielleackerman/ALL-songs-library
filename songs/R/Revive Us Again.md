@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - glory
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5223107'
 copyright: '2007 Weave Country / Word Music, LLC'
-source: ''
 year: ''
 medley: []
 id: 9D04128D-CC86-4D5A-864F-C63B6B71102C

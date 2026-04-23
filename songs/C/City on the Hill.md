@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - home
+theme:
+  - heaven-home
   - light
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2011 My Refuge Music
-source: ''
 year: ''
 medley: []
 id: 5FEA5E2D-21A0-435B-8D01-0A29144D4825

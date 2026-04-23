@@ -8,16 +8,20 @@ meter: ''
 tempo: slow
 feel: []
 theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
+function:
   - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -25,7 +29,6 @@ profile:
 keywords: ''
 ccli: '18723'
 copyright: 1923; Renewed 1951 Hope Publishing Company
-source: ''
 year: ''
 medley: []
 id: 80E7D3AD-09BC-4819-BD82-548977FFFF75

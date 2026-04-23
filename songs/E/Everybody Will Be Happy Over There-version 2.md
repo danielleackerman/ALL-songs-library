@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
-  - sutl
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - os-apo-fast
 keywords: 'os apo fast, sutl'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 8AE589BE-7731-4D4B-A4D8-5A3C28AE5D5D

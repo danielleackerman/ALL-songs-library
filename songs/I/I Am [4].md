@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '7011538'
 copyright: 2014 worshiptogether.com Songs
-source: ''
 year: ''
 medley: []
 id: 8A3BB65D-584A-4E04-A1DC-6CC85375F033

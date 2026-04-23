@@ -9,6 +9,11 @@ tempo: medium-fast
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -17,7 +22,6 @@ profile:
 keywords: 'os apo fast, os gospel fast'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[I''VE BEEN CHANGED]]'

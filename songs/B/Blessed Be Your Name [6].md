@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - blessing
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3798438'
 copyright: 2002 Thankyou Music
-source: ''
 year: ''
 medley: []
 id: A5D2B3DE-5575-4F92-A5CC-C6E598B1170C

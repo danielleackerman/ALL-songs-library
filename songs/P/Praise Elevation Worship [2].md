@@ -8,21 +8,24 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
   - worship
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: BC2F3890-2DD5-4794-A580-FFF651DAE394
 ---
-
 ## Sets Using This Song
 
 ```dataview

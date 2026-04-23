@@ -5,24 +5,29 @@ key: F
 bpm: '132'
 time_sig: 4/4
 meter: ''
-tempo: medium-fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: fast
+feel:
   - high-energy
-  - medium-fast-shouting
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+  - shouting
+theme:
   - jesus
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +37,6 @@ profile:
 keywords: 'os apo fast, os gospel fast'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 3F475BA0-B075-4DE0-96D6-F4BB86418ADF

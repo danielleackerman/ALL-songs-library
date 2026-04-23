@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -19,7 +24,6 @@ ccli: '4578901'
 copyright: >-
   2005 Club Zoo Music / SWECS Music / New Spring Publishing, Inc. / Modine Gunch
   Music
-source: ''
 year: ''
 medley: []
 id: 004166E0-7FB3-43F8-BD31-A51AE3B63E6D

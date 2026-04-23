@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-med
 keywords: mod apo med
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 6D68C780-5574-4ECA-9CE9-0D3B6DF1B5A9

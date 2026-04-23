@@ -5,25 +5,29 @@ key: Eb
 bpm: '160'
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - jesus
-  - believe
+  - belief
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -33,7 +37,6 @@ profile:
 keywords: 'mod gospel fast, cont gospel fast'
 ccli: '5539066'
 copyright: 2005 Maize Music / Productive Rhythm Publishing
-source: ''
 year: ''
 medley:
   - '[[I''VE ALREADY BEEN TO THE WATER]]'

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '25376'
 copyright: Public Domain
-source: ''
 year: ''
 medley: []
 id: 986320A5-D8E0-4EAF-B514-46DAE197671A

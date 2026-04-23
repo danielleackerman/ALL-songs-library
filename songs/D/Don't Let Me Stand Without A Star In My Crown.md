@@ -9,15 +9,19 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
-  - altar-songs
+context:
+  - altar
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-slow
 keywords: os apo slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 8B695189-41BD-4035-A741-FBF83B665035

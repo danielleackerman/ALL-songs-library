@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1935884'
 copyright: 1996 Hillsong Publishing
-source: ''
 year: ''
 medley: []
 id: 87740E46-712C-452F-AE16-4F57B210BB8D

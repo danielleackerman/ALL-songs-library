@@ -7,21 +7,25 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - help
   - strength
   - comfort
   - petition
+function:
+  - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +34,6 @@ profile:
 keywords: o.s. apo. slow
 ccli: '6618'
 copyright: '1977 Lanny Wolfe Music, Admin. Capitol CMG Publishing'
-source: ''
 year: ''
 medley: []
 id: FD21514D-312A-4257-822A-8E4FEC284FFD

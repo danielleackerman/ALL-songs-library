@@ -6,22 +6,27 @@ bpm: '68'
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - sacrifice
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - ORIGINAL KEY Bb
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +36,6 @@ profile:
 keywords: 'os apo slow, os gospel slow, sacrifice'
 ccli: '16165'
 copyright: '1971 Bud John Songs, Inc. (Admin. by Capitol CMG Publishing)'
-source: ORIGINAL KEY Bb
 year: ''
 medley: []
 id: 7EEA5DCC-940C-413A-AABF-B4625247F353

@@ -7,14 +7,11 @@ time_sig: 4/4
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
-  - swing-ballad
   - adoration
   - aspiration
-  - atomement
+  - atonement
   - awesome
   - beauty
   - blood
@@ -24,17 +21,24 @@ tags:
   - easter
   - eternal-life
   - jesus
-  - praise
   - presence
   - redemption
   - sacrifice
   - salvation
   - savior
-  - saviour
   - sin
   - sorrow
   - will
+function:
+  - praise
   - worship
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - '1905'
+tags: []
 genre: []
 profile:
   - os-apo-med-slow
@@ -47,7 +51,6 @@ ccli: '17000449'
 copyright: >-
   Words: Public Domain, Music: 1993 Lorenz Publishing Company, Admin. Lorenz
   Corp., Public Domain
-source: '1905'
 year: ''
 medley:
   - '[[LIVING HE LOVED ME]]'

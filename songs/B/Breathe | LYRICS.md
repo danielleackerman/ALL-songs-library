@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1874117'
 copyright: 1995 Mercy/Vineyard Publishing
-source: ''
 year: ''
 medley:
   - '[[SEND THE RAIN]]'

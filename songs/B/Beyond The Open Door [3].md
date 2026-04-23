@@ -8,17 +8,21 @@ meter: ''
 tempo: slow
 feel: []
 theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
+function:
   - worship
+context: []
+style:
   - ccm
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -27,7 +31,6 @@ profile:
 keywords: 'mod apo med, ccm'
 ccli: '382129'
 copyright: '1990 Ariose Music, Admin. Capitol CMG Publishing'
-source: ''
 year: ''
 medley:
   - '[[WHERE HE LEADS ME I WILL FOLLOW]]'

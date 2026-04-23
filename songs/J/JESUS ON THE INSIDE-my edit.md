@@ -7,23 +7,27 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - ccm
-  - choir
-  - choruses
-  - congregational
-  - jesus-movement
-  - maranatha
-  - medium
-  - praise
-  - solo-songs
-  - worship
+theme:
   - jesus
   - life
-  - os-christian
-  - santification
+  - sanctification
+function:
+  - praise
+  - worship
+context: []
+style:
+  - ccm
+  - jesus-movement
+  - maranatha
+tradition:
+  - old-school
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -34,7 +38,6 @@ ccli: '66713'
 copyright: >-
   1988 Word Music, LLC, Carol Joy Music (Main). Admin. Word Music Group, Inc.,
   ClearBox Rights, LLC
-source: ''
 year: ''
 medley:
   - '[[JESUS]]'

@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - awesome
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '41099'
 copyright: '1988 BMG Songs, Inc.'
-source: ''
 year: ''
 medley: []
 id: AECDAD18-379B-4AE2-B082-19BC3A91FC27

@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - christ
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -19,7 +24,6 @@ ccli: '4611497'
 copyright: >-
   2005 Yada Yada Yada Music / Rick Cua Music / Willow Branch Publishing / Skin
   Horse, Inc.
-source: ''
 year: ''
 medley: []
 id: 26A0702F-1C9C-4787-9645-5AAF822192FC

@@ -6,21 +6,26 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - Carman
+tags: []
 genre: []
 profile:
   - >-
@@ -28,7 +33,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: Carman
 year: ''
 medley: []
 id: 0B8548DF-EFBE-480C-AF05-D581ECC6FD49

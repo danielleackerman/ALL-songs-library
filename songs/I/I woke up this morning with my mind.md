@@ -9,8 +9,12 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
-  - gospel
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-med
@@ -18,7 +22,6 @@ profile:
 keywords: 'os apo med, os gospel med'
 ccli: '1760719'
 copyright: 'Words: Public Domain, Music: 1981 Abington Press'
-source: ''
 year: ''
 medley: []
 id: A22EF555-5480-4E1E-8C70-A609E006027C

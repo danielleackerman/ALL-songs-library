@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - lullaby
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - contemp-christian-med-slow
 keywords: 'contemp christian med slow, lullaby'
 ccli: ''
 copyright: '2008'
-source: ''
 year: ''
 medley: []
 id: 7825489A-148E-4119-9FE1-61BEBBD7A852

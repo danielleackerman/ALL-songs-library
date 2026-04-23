@@ -7,21 +7,24 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - belief
 function: []
-tags:
-  - believe
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 77929B0F-B69E-4BDC-85A0-F730F9189C6B
 ---
-
 ## Sets Using This Song
 
 ```dataview

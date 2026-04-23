@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - joy
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-med
@@ -19,7 +24,6 @@ ccli: '3999488'
 copyright: >-
   2002 Bridge Building Music, Inc. (Admin. Brentwood-Benson Music Publishing,
   Inc.)
-source: ''
 year: ''
 medley:
   - '[[I FEEL LIKE SOMETHING GOOD IS ABOUT TO HAPPEN]]'

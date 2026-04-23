@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '62858'
 copyright: Public Domain / 1991 Integrity's Hosanna! Music
-source: ''
 year: ''
 medley: []
 id: AE5BB22A-CDA0-4832-990C-E774E7C47568

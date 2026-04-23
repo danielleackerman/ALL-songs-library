@@ -9,13 +9,18 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - John Mark McMillan
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5032549'
 copyright: 2005 Integrity's Hosanna! Music
-source: John Mark McMillan
 year: ''
 medley: []
 id: 2BEB2F8F-2EED-4DE9-A6CC-23A4BA7DAC4A

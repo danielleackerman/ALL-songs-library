@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - calling
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3902963'
 copyright: 2002 Thirsty Moon River Publishing / Stolen Pride
-source: ''
 year: ''
 medley: []
 id: C4316D62-BEBF-4FE0-B002-A65E502A0DFB

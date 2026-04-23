@@ -7,19 +7,23 @@ time_sig: 4/4
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - acceptance
   - christian-life
   - gods-word
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - contemp-christian-med-slow
 keywords: 'contemp christian med slow, acceptance, christian life, god''s word'
 ccli: '5119833'
 copyright: '2008 Carol Joy Music, Admin. ClearBox Rights, LLC'
-source: ''
 year: ''
 medley: []
 id: 8A1B9CD3-6437-4471-9944-A03D07BDFDDD

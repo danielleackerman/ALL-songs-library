@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4408741'
 copyright: 2002 Shepherd Boy Music
-source: ''
 year: ''
 medley: []
 id: 3987B8F8-A1D4-42E8-B3CF-F138D24C458B

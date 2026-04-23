@@ -5,22 +5,26 @@ key: F
 bpm: '58'
 time_sig: 4/4
 meter: ''
-tempo: slow
+tempo: medium
 feel: []
 theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +34,6 @@ profile:
 keywords: 'os apo med, os gospel med'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 2E672C8D-F2AA-4CC0-A022-46FEE65C066E

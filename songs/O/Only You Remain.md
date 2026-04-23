@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
@@ -17,7 +22,6 @@ ccli: '5760770'
 copyright: >-
   2010 Simpleville Music (Admin. by Simpleville Music, Inc.) Wet As A Fish Music
   (Admin. by Simpleville Music, Inc.) Sony/ATV Timber Publishing (Admin.
-source: ''
 year: ''
 medley: []
 id: B1A88895-0FB3-4D47-8585-3759761CB196

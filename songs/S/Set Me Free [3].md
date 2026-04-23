@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - sin
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4313410'
 copyright: '2003 Open Worship Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: 19D0EF16-E405-4AD9-840A-639EFA237FB5

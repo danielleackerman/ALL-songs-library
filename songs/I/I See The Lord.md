@@ -7,22 +7,37 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - angels
   - glory
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - >-
+    I see the Lord, and His train fills the temple; I see the Lord, He is high
+    and lifted up.; I see the Lord, and His train fills the temple; I see the
+    Lord, He is high and lifted up.; Angels cry holy, holy is the Lord; Angels
+    cry holy, holy is the Lord; I see the Lord, and His eyes are flaming like
+    fire; I see the Lord, and His hair is white as snow.; Angels cry holy, holy
+    is the Lord; Angels cry holy, holy is the Lord.; The angel came and touched
+    the coal to my lips.; My guilt is gone and my sin has been forgiven.; And I
+    cry holy, holy is the Lord.; And I cry holy, holy is the Lord.; And the
+    temple is filled, With the glory of God.; And the whole earth is filled,
+    With the glory of God
+tags: []
 genre: []
 profile:
   - >-
@@ -30,16 +45,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: >-
-  I see the Lord, and His train fills the temple; I see the Lord, He is high and
-  lifted up.; I see the Lord, and His train fills the temple; I see the Lord, He
-  is high and lifted up.; Angels cry holy, holy is the Lord; Angels cry holy,
-  holy is the Lord; I see the Lord, and His eyes are flaming like fire; I see
-  the Lord, and His hair is white as snow.; Angels cry holy, holy is the Lord;
-  Angels cry holy, holy is the Lord.; The angel came and touched the coal to my
-  lips.; My guilt is gone and my sin has been forgiven.; And I cry holy, holy is
-  the Lord.; And I cry holy, holy is the Lord.; And the temple is filled, With
-  the glory of God.; And the whole earth is filled, With the glory of God
 year: ''
 medley: []
 id: DDC27862-00C8-4776-B350-B653212DDC02

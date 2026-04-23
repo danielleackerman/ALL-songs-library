@@ -7,17 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - blood
   - dance
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - When I Think About the Lord
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: When I Think About the Lord
 year: ''
 medley: []
 id: 6085B82C-6998-4C38-AF50-D21EFACF9FBC

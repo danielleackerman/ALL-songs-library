@@ -9,18 +9,21 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: BB7D7FF7-C2B1-4E67-8B8F-C217BCBD1F79
 ---
-
 ## Sets Using This Song
 
 ```dataview

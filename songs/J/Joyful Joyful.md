@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: '5574629'
 copyright: >-
   2009 BanaHama Tunes / Word Music, LLC / My Refuge Music / Sony/ATV Tree
   Publishing
-source: ''
 year: ''
 medley: []
 id: FD961D75-9260-4BCB-9D5B-DCAB1AA78F07

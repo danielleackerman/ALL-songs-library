@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - hope
   - shelter
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5701234'
 copyright: '2010 Bridge Building Music, Inc. / Pogostick Music'
-source: ''
 year: ''
 medley: []
 id: 11962CFE-02E1-49F5-8DA6-02C55614332E

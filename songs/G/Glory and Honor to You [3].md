@@ -7,22 +7,27 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - glory
   - honor
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - Cooley Choruses
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +35,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: Cooley Choruses
 year: ''
 medley: []
 id: 6D9920EC-DE10-4DBA-A243-CF30D3AD6670

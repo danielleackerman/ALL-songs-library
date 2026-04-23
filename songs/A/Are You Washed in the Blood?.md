@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: fast
 feel: []
-theme: []
-function: []
-tags:
-  - altar-songs
+theme:
   - blood
+function: []
+context:
+  - altar
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '21105'
 copyright: Public Domain
-source: ''
 year: ''
 medley: []
 id: 1F1CE4E1-49B2-4A79-9AF7-8FF47E0AE0AF

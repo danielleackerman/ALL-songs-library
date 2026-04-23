@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
-  - friend
+  - friendship
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2013341'
 copyright: '1995 Dayspring Music, LLC'
-source: ''
 year: ''
 medley: []
 id: 38861DFD-E978-4174-A3FF-6401F4E30E61

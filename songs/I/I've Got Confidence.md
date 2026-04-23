@@ -7,10 +7,17 @@ time_sig: ''
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - confidence
+function: []
+context: []
+style:
+  - black-gospel-opera
+tradition: []
+use: []
+source:
+  - ORIGINAL KEY Bb
+tags: []
 genre: []
 profile:
   - black-gospel-opera
@@ -18,7 +25,6 @@ profile:
 keywords: os gospel med
 ccli: '58707'
 copyright: '1969 Bud John Songs, Inc. (Admin. by Capitol CMG Publishing)'
-source: ORIGINAL KEY Bb
 year: ''
 medley: []
 id: D5BF763C-B5D1-43AB-9E1E-0BCE21F2C4F2

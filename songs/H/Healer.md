@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
+theme:
+  - belief
 function: []
-tags:
-  - believe
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: B362A657-3A3F-432C-A8C3-D1ECD403062B

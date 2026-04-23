@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - freedom
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-fast
@@ -20,7 +25,6 @@ ccli: '2969543'
 copyright: >-
   2000 City Bible Music, Universal Music (Admin. Brentwood Benson Music
   Publishing, Inc.)
-source: ''
 year: ''
 medley: []
 id: DCD2246A-03A0-4DFD-9E97-72B50D359EE3

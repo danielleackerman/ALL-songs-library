@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4504308'
 copyright: 2004 Thirsty Moon River Publishing / Stolen Pride
-source: ''
 year: ''
 medley: []
 id: 8538967D-4887-4729-A00D-A06337A5186B

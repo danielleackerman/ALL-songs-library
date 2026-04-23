@@ -8,16 +8,21 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - written by Joy Anderson
+tags: []
 genre: []
 profile:
   - os-apo-med
 keywords: os apo med
 ccli: ''
 copyright: ''
-source: written by Joy Anderson
 year: ''
 medley: []
 id: D40C1BB8-82B6-4B5F-9224-708A65E45B4C

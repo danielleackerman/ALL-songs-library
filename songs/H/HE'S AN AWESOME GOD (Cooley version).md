@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: fast
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - angels
   - awesome
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 0871403F-65F6-4705-94A2-77ACBA9FE585

@@ -9,14 +9,18 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
-  - altar-songs
+context:
+  - altar
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 1378F82D-EEAA-43B9-8D06-289F86920B74

@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-med-apo
 keywords: o.s. med. apo.
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 46E98A4B-043D-4119-B2A6-E333593E641D

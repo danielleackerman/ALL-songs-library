@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - hope
   - light
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -19,7 +24,6 @@ ccli: '5935646'
 copyright: >-
   2011 Integrity's Praise Music / Universal Music - Brentwood Benson Songs /
   Electra Car Publishing
-source: ''
 year: ''
 medley: []
 id: 8F2A6372-D50D-4034-A99F-129B51C7E87D

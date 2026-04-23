@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2566197'
 copyright: '1997 Ariose Music / Dayspring Music, LLC / Hits In Progress, Inc.'
-source: ''
 year: ''
 medley: []
 id: F2D98F09-9FBE-4706-81FB-DD08F3F17E32

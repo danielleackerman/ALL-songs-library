@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - glory
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2587860'
 copyright: '1997 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music'
-source: ''
 year: ''
 medley: []
 id: F67FEB4C-6A55-4CBC-867C-153F7196EB63

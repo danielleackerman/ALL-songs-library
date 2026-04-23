@@ -7,10 +7,15 @@ time_sig: 4/4
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - dance
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-fast
@@ -18,7 +23,6 @@ profile:
 keywords: 'mod apo fast , mod gospel fast'
 ccli: ''
 copyright: 2004 GYOM Publishing Company
-source: ''
 year: ''
 medley:
   - '[[YAHWEH]]'

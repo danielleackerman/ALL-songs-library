@@ -7,17 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - 3 times
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: 3 times
 year: ''
 medley: []
 id: B11D3F96-8F47-41BA-8A67-43B7E15711BF

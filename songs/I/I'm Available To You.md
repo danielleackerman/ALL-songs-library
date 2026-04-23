@@ -11,6 +11,12 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style:
+  - black-gospel-opera
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -21,7 +27,6 @@ ccli: '64595'
 copyright: >-
   1988 Word Music, LLC, Moodeasy Music, Admin. Word Music Group, Inc., Conexion
   Media Group, Inc.
-source: ''
 year: 1988
 medley:
   - '[[CENTER OF MY JOY]]'

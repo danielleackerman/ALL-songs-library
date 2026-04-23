@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - glory
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -19,7 +24,6 @@ ccli: '5643220'
 copyright: >-
   2009 My Refuge Music / Integrity's Hosanna! Music / Sony/ATV Tree Publishing /
   Sony/ATV Timber Publishing / Windsor Hill Music / Music Of Windswept
-source: ''
 year: ''
 medley: []
 id: 4045E741-6017-4E5F-9665-734D27110527

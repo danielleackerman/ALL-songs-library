@@ -9,14 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
-  - communion
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4586072'
 copyright: 2005 Consuming Fire Music
-source: ''
 year: ''
 medley: []
 id: DE12FA3C-1F47-4205-8B0F-B28BDA0D39C7

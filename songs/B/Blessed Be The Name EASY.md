@@ -9,15 +9,19 @@ tempo: medium-slow
 feel: []
 theme: []
 function: []
-tags:
-  - sutl
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - os-apo-med
 keywords: 'os apo med, sutl'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: B4221A23-9FD6-482D-8D0F-5BE219B17E95

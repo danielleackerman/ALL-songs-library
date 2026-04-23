@@ -7,12 +7,19 @@ time_sig: 6/8
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
-  - friend
-  - sutl
+  - friendship
+function: []
+context: []
+style:
+  - black-gospel-opera
+tradition: []
+use: []
+source:
+  - Sing Unto The Lord - 17
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - black-gospel-opera
@@ -20,7 +27,6 @@ profile:
 keywords: 'os apo slow, sutl'
 ccli: '138830'
 copyright: Public Domain
-source: Sing Unto The Lord - 17
 year: ''
 medley: []
 id: DF175D14-61E1-4B76-9A8B-CA876F0B477E

@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: '7089641'
 copyright: >-
   Heritage Worship Music Publishing Richmond Park Publishing Watershed
   Publishing Group Bethel Music Publishing
-source: ''
 year: ''
 medley: []
 id: 88242F30-076B-4186-98BF-37484C513D73

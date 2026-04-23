@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - angels
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2677914'
 copyright: '1998 MargeeDays Music / Dayspring Music, LLC'
-source: ''
 year: ''
 medley: []
 id: E45905D7-FB02-40C2-ADF9-551DC3E92040

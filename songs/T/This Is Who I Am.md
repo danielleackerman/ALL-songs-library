@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5208452'
 copyright: 2008 Consuming Fire Music
-source: ''
 year: ''
 medley: []
 id: C689916E-32E5-4FAE-8386-8E06D82C4E82

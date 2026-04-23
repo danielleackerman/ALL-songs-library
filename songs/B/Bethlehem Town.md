@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - king
   - men
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3902028'
 copyright: 2002 Bridge Building Music / Pogostick Music
-source: ''
 year: ''
 medley: []
 id: D2025547-B57F-4C3C-AA63-8D046127989D

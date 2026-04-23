@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - life
+function: []
+context:
   - offering
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4027184'
 copyright: 2003 Consuming Fire Music
-source: ''
 year: ''
 medley: []
 id: FFD4370E-5143-4681-9B2B-F406C37FEB1C

@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - savior
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4591782'
 copyright: 2006 Hillsong Publishing
-source: ''
 year: ''
 medley: []
 id: F4C570C3-B5E0-4495-AA5E-D8FFED0053F3

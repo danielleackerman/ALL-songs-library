@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - light
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3426418'
 copyright: 2000 New Spring / Appstreet Music
-source: ''
 year: ''
 medley: []
 id: 907B7828-D6B6-49E6-9661-FA808CB493BE

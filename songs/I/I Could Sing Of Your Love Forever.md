@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 1996 Mercy Vineyard
-source: ''
 year: ''
 medley: []
 id: E2E7DE3F-9F14-45C0-BCC5-DA95DC313F6C

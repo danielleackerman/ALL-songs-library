@@ -5,24 +5,29 @@ key: Eb
 bpm: '75'
 time_sig: 2/4
 meter: ''
-tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
+theme: []
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
-  - sutl
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - Sing Unto The Lord Songbook-23
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +36,6 @@ profile:
 keywords: 'os apo med slow, sutl'
 ccli: '40416'
 copyright: 'Words and Music, Public Domain.'
-source: Sing Unto The Lord Songbook-23
 year: ''
 medley: []
 id: 53DB70D2-B20F-4F18-AB68-0E12E36710F0

@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - life
   - thirst
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4054267'
 copyright: 2003 New Spring
-source: ''
 year: ''
 medley: []
 id: 459E2430-DB5A-43C3-94D3-82AC6955B29D

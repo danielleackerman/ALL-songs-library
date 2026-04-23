@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4407955'
 copyright: 2004 JG Songs / Dwell Ministries / Shawn Craig Publishing Designee
-source: ''
 year: ''
 medley: []
 id: 60E2899A-C3AA-404E-9BA5-D269F2FD81D6

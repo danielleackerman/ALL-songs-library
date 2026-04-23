@@ -5,25 +5,29 @@ key: G
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - altar-songs
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - heaven
+function:
+  - praise
+  - worship
+context:
+  - altar
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -34,7 +38,6 @@ ccli: '138184'
 copyright: >-
   1937. Renewed 1965 Bridge Building Music, Inc. (Admin. by Brentwood-Benson
   Music Publishing, Inc.)
-source: ''
 year: ''
 medley: []
 id: 2414629B-85A5-4A51-987C-CFA5F1588278

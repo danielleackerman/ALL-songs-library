@@ -5,26 +5,31 @@ key: C
 bpm: '50'
 time_sig: ''
 meter: ''
-tempo: slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - glory
   - holy-spirit
   - power
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - '1991'
+tags: []
 genre: []
 profile:
   - >-
@@ -37,7 +42,6 @@ keywords: >-
   spirit, power
 ccli: '902482'
 copyright: '1991 CMI-HP Publishing (Word Music Group, Inc.)'
-source: '1991'
 year: ''
 medley:
   - '[[WELCOME INTO THIS PLACE]]'

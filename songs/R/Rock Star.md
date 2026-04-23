@@ -7,16 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - rock
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Chords Used
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4292287'
 copyright: 2004 Consuming Fire Music
-source: Chords Used
 year: ''
 medley: []
 id: 16F6C40C-F581-4A00-928E-9781DD1FA923

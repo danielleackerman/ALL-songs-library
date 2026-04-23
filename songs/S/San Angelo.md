@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - heaven-home
 function: []
-tags:
-  - home
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4292294'
 copyright: 2004 Consuming Fire Music
-source: ''
 year: ''
 medley: []
 id: 07FC5B07-0DE7-4116-ACF0-DF4D2A4BE107

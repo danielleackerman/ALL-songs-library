@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4312143'
 copyright: '2004 Wordspring Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: 067C817F-7DE2-45BB-B82C-B56ECA03CBD1

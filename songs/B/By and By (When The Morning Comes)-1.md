@@ -9,6 +9,12 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - '1905'
 tags: []
 genre: []
 profile:
@@ -16,7 +22,6 @@ profile:
 keywords: os apo med
 ccli: ''
 copyright: ''
-source: '1905'
 year: ''
 medley: []
 id: 5B171F95-ABF7-4442-A094-BF8ECAC86468

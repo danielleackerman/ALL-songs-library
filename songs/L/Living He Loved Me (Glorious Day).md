@@ -9,6 +9,12 @@ tempo: medium-fast
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - '2009'
 tags: []
 genre: []
 profile:
@@ -17,7 +23,6 @@ profile:
 keywords: 'os apo fast, os gospel fast'
 ccli: ''
 copyright: ''
-source: '2009'
 year: ''
 medley:
   - '[[VICTORY IN JESUS]]'

@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
-  - friend
+  - friendship
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4196572'
 copyright: SWECS Music / Club Zoo Music
-source: ''
 year: ''
 medley: []
 id: 0BBE1D45-7CE0-427F-8B56-3B282AC0AEEA

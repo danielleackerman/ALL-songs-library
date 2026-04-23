@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - blood
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4329411'
 copyright: 2004 ThankYou Music
-source: ''
 year: ''
 medley: []
 id: 01184F29-0620-4385-B7CB-D294E9A0FE48

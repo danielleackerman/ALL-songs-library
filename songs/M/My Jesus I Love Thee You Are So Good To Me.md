@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '27817'
 copyright: Public Domain / 1999 Blue Renaissance Music / Hey Ruth Music / Squint Songs
-source: ''
 year: ''
 medley: []
 id: 8871C831-5A57-4F46-8582-509EA3E381D8

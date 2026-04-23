@@ -7,17 +7,21 @@ time_sig: 4/4
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
+theme:
+  - thanksgiving
 function: []
-tags:
-  - thanks
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-med
 keywords: mod apo med
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 59C1CCFE-D24A-4C92-B4E4-A85629E7E001

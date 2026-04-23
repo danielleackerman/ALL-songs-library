@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4278328'
 copyright: '2003 Open Worship Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: 42704334-44FE-4A11-ADCD-0AF2D6631514

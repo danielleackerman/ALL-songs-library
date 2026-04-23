@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - holiness
   - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - contemporary-gospel-slow
 keywords: contemporary gospel slow
 ccli: '1617154'
 copyright: 1995 Mercy / Vineyard Publishing
-source: ''
 year: ''
 medley: []
 id: B341141C-5D28-4FE9-8681-D6B4AEDAEFBD

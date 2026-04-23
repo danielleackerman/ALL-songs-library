@@ -7,17 +7,21 @@ time_sig: 3/4
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - blood
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3216745'
 copyright: 2003 Bridge Building
-source: ''
 year: ''
 medley: []
 id: 5D0011D6-E7AA-420B-9287-B8226488F5E6

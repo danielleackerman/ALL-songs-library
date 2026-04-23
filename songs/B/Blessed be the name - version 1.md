@@ -9,20 +9,23 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
-  - sutl
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - o-s-apo-med
 keywords: 'o. s. apo. med., sutl'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 68A25F31-D3D1-45E1-BE1D-49485B3FA338
 ---
-
 ## Sets Using This Song
 
 ```dataview

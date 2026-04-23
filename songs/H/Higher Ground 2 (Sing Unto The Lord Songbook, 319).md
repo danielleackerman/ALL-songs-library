@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -16,7 +21,6 @@ profile:
 keywords: os apo fast
 ccli: '21844'
 copyright: Public Domain
-source: ''
 year: ''
 medley: []
 id: C578A157-B2CF-4498-A3B2-E972A9D0873F

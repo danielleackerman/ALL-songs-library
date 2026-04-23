@@ -9,14 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
-  - gospel
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 2761FD2C-882F-4F92-971B-8D987FD35302

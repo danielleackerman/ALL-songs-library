@@ -9,6 +9,11 @@ tempo: fast
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -16,7 +21,6 @@ profile:
 keywords: os apo med
 ccli: ''
 copyright: ''
-source: ''
 year: 1970
 medley: []
 id: 518F3C9E-6346-41C0-B947-BA430FADDD74

@@ -5,24 +5,27 @@ key: C
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - heaven
-  - touching
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +33,6 @@ profile:
 keywords: ''
 ccli: '5833975'
 copyright: 2010 Thankyou Music
-source: ''
 year: ''
 medley: []
 id: 03C4B531-ED23-4719-B9FB-BC3FC353A338

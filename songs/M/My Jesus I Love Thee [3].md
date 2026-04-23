@@ -5,22 +5,26 @@ key: F
 bpm: '70'
 time_sig: 4/4
 meter: ''
-tempo: medium-slow
+tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - love
   - jesus
-  - sutl
+function:
+  - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - >-
@@ -29,7 +33,6 @@ profile:
 keywords: 'os apo slow, sutl'
 ccli: '27817'
 copyright: 'Words and Music: Public Domain'
-source: ''
 year: ''
 medley:
   - '[[TURN YOUR EYES UPON JESUS]]'

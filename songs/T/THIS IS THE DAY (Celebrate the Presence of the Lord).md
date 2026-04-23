@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - presence
-  - rejoice
+  - rejoicing
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-fast
@@ -19,7 +24,6 @@ profile:
 keywords: 'mod apo fast, contemp christian fast'
 ccli: ''
 copyright: ''
-source: ''
 year: 1990
 medley: []
 id: 4465806A-0226-454B-A4E8-EC07538DA567

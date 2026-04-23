@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - blood
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -19,7 +24,6 @@ ccli: '7051511'
 copyright: >-
   2015 Music by Elevation Worship Publishing (Admin. by Essential Music
   Publishing LLC)
-source: ''
 year: ''
 medley:
   - '[[OH LORD YOU’RE BEAUTIFUL]]'

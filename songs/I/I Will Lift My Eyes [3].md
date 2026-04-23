@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
@@ -17,7 +22,6 @@ ccli: '4793171'
 copyright: >-
   2006 New Spring / Appstreet Music / Peertunes, Ltd. / GrangeHill Music / J
   Ingram Music
-source: ''
 year: ''
 medley: []
 id: 4D34E7E2-716E-4EDF-BEAA-1166C6FA4E30

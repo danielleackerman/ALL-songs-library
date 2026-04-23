@@ -5,22 +5,26 @@ key: ''
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -30,12 +34,10 @@ profile:
 keywords: 'mod apo med, mod gospel med'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: F433FAC2-50B4-4979-953D-BB1E97948273
 ---
-
 ## Sets Using This Song
 
 ```dataview

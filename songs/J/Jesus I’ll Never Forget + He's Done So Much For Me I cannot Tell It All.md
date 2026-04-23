@@ -7,13 +7,18 @@ time_sig: 4/4
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - deliverance
   - freedom
   - unity
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-fast
@@ -21,7 +26,6 @@ profile:
 keywords: 'os apo fast, os gospel fast, deliverance, freedom, unity'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 1D4605FB-FEF2-4BB7-8B06-AD7C910C11FD

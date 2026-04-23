@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3994672'
 copyright: 2002 Thankyou Music (Admin. by EMI Christian Music Publishing)
-source: ''
 year: ''
 medley: []
 id: 5FCF7A00-CED4-4F03-A6BA-863EA8211EE3

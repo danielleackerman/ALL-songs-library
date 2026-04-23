@@ -5,24 +5,28 @@ key: Db
 bpm: '96'
 time_sig: 4/4
 meter: ''
-tempo: medium
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme:
+  - glory
+function:
   - worship
   - praise
-  - glory
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -34,7 +38,6 @@ ccli: '6623483'
 copyright: >-
   2013 L'il Eva Music, Luv Ki Publishing, Dave Pavo Music / Admin. Capitol CMG
   Publishing, Ole Media Management LP
-source: ''
 year: ''
 medley: []
 id: 8D00A26D-2BF9-4745-8441-A3A89366B372

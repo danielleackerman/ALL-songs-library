@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: '5806878'
 copyright: >-
   2010 SHOUT! Publishing / sixsteps Music / worshiptogether.com songs / Vamos
   Publishing / Sony/ATV Timber Publishing
-source: ''
 year: ''
 medley: []
 id: 6F695515-8E4D-4688-9DF4-838B546CD6F8

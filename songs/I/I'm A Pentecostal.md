@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - pentecost
   - one-god
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-med
 keywords: 'mod apo med, pentecost, one god'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: D983F4A7-A91B-4DD4-938B-3B1D4DAEEF11

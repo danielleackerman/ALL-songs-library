@@ -5,25 +5,29 @@ key: F
 bpm: '121'
 time_sig: ''
 meter: ''
-tempo: medium-fast
+tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - altar-songs
-  - ccm
-  - choir
-  - choruses
-  - congregational
-  - jesus-movement
-  - maranatha
-  - medium
-  - praise
-  - solo-songs
-  - worship
+theme:
   - jesus
   - victory
+function:
+  - praise
+  - worship
+context:
+  - altar
+style:
+  - ccm
+  - jesus-movement
+  - maranatha
   - bluegrass
+tradition: []
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +36,6 @@ profile:
 keywords: 'os apo fast, bluegrass'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[VICTORY IS MINE]]'

@@ -9,13 +9,18 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Artist Name
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: Artist Name
 year: ''
 medley: []
 id: 4EFC58B5-B77D-4362-B042-43D4576358B8

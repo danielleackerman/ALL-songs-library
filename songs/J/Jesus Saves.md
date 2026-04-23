@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5322950'
 copyright: 2008 Thankyou Music
-source: ''
 year: ''
 medley: []
 id: DDBB982B-99EA-46A4-8911-AF0774D8BD7A

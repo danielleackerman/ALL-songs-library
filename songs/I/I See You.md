@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '701951'
 copyright: '1991 BMG Songs, Inc.'
-source: ''
 year: ''
 medley: []
 id: AB629205-B3A4-471A-8AEE-4155BD6019B8

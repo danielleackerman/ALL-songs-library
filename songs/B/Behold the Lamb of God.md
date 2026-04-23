@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -16,7 +21,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: 1988 - Angel Band Music
-source: ''
 year: ''
 medley: []
 id: 8C09E320-63D6-4BA9-84CD-5537F77E9C92

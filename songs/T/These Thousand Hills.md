@@ -9,13 +9,18 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Originally Written by Jacob's Trouble
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '788534'
 copyright: 1990 Broken Songs
-source: Originally Written by Jacob's Trouble
 year: ''
 medley: []
 id: 4F69AAE5-CC92-49EF-A7DC-88167150E2BB

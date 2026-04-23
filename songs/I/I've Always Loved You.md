@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3013144'
 copyright: 1999 New Spring / Vandura 2500 Songs
-source: ''
 year: ''
 medley: []
 id: 1FF3ADF2-2F3E-44F8-9A36-C7FAAD57EA48

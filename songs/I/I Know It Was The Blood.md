@@ -6,25 +6,30 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - altar-songs
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - high-energy
-  - medium-fast-shouting
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+  - shouting
+theme:
   - blood
   - crucifixion
+function:
+  - praise
+  - worship
+context:
+  - altar
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -34,7 +39,6 @@ profile:
 keywords: 'os apo med slow, os gospel med slow, blood, crucifixion'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 06C7E215-AA1D-4C0F-A760-5D4869BD7870

@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - joy
   - comfort
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4630399'
 copyright: 2005 Simpleville Music / Wet As A Fish Music / Banistuci Music
-source: ''
 year: ''
 medley: []
 id: 0A394389-F8B2-4111-B04E-0DC032F5EDDE

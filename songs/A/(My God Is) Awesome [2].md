@@ -7,10 +7,15 @@ time_sig: 4/4
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - awesome
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-gospel-med-slow
@@ -18,7 +23,6 @@ profile:
 keywords: 'mod gospel med slow, cont black gospel'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 3FD26DE6-6441-4BAB-812E-BCF292871596

@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - death
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: '7001228'
 copyright: >-
   2013 Bethel Music Publishing (ASCAP)/Worship Together Music (BMI) (Adm. at
   CapitolCMGPublishing.com)
-source: ''
 year: ''
 medley:
   - '[[I AM NOT ALONE]]'

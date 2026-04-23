@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3798438'
 copyright: 2002 Thankyou Music
-source: ''
 year: ''
 medley: []
 id: A46509DC-48B5-40C9-9CEC-2EA22B39A715

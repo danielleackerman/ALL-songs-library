@@ -7,13 +7,19 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - glory
   - joy
   - gladness
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - 'Original Key Ab, G'
+tags: []
 genre: []
 profile:
   - os-apo-med
@@ -21,7 +27,6 @@ profile:
 keywords: 'os apo med, os christian med, joy, gladness'
 ccli: '111046'
 copyright: ''
-source: 'Original Key Ab, G'
 year: ''
 medley: []
 id: F31DCF86-574D-4630-A41F-E7E18FFE99DB

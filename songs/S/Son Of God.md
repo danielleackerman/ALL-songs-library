@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4768948'
 copyright: 2006 Birdwing Music / Fieldstar Music / Left Koast Publishing / Alletrop Music
-source: ''
 year: ''
 medley: []
 id: 7653D9F2-B37C-4DFF-B981-1A6118E12E7C

@@ -6,22 +6,32 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - high-energy
-  - medium-fast-shouting
+  - shouting
+theme: []
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - >-
+    Glory hallelu,  this what we've come to do; Tear down strong holds break
+    chains; Bind the devil in Jesus name; Tonight we got a right to shake the
+    foundations with praise; Praise Him,   Praise him.  The Lord is worthy; The
+    Lord is worthy; Tonight we got a right to shake the foundations with praise
+tags: []
 genre: []
 profile:
   - >-
@@ -29,16 +39,10 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: >-
-  Glory hallelu,  this what we've come to do; Tear down strong holds break
-  chains; Bind the devil in Jesus name; Tonight we got a right to shake the
-  foundations with praise; Praise Him,   Praise him.  The Lord is worthy; The
-  Lord is worthy; Tonight we got a right to shake the foundations with praise
 year: ''
 medley: []
 id: A9A1F7CD-EDB7-455E-8BCC-FAC8A7A9156D
 ---
-
 ## Sets Using This Song
 
 ```dataview

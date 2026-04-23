@@ -7,16 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - blood
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - This is the live version from Front Yard Luge
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1848239'
 copyright: 1995 Pogostick/BMI Music
-source: This is the live version from Front Yard Luge
 year: ''
 medley: []
 id: 6FDAC1E3-9A7E-45B2-8597-063E0381A95D

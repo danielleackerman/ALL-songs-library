@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - heaven-home
 function: []
-tags:
-  - home
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5152670'
 copyright: 2007 Simpleville Music / Wet As A Fish Music
-source: ''
 year: ''
 medley: []
 id: 05C0EFC1-41CB-4221-99FE-69643274674C

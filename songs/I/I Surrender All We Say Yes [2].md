@@ -7,16 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - J.W. Van de Venter
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: J.W. Van de Venter
 year: ''
 medley: []
 id: 5500DFC2-7DB7-4577-9355-374EF1D464A1

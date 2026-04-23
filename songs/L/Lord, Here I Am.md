@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -16,7 +21,6 @@ profile:
 keywords: mod apo slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 55F97505-6D15-4E51-A904-C65CE4C7D5CC

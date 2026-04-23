@@ -5,24 +5,29 @@ key: C
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - glory
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - written by Guy Robinson
+tags: []
 genre: []
 profile:
   - >-
@@ -30,12 +35,10 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: written by Guy Robinson
 year: ''
 medley: []
 id: 59DE9397-D5F9-47E5-90B9-95AB92D90BE8
 ---
-
 ## Sets Using This Song
 
 ```dataview

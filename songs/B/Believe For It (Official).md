@@ -7,17 +7,21 @@ time_sig: 4/4
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
-  - believe
+theme:
+  - belief
   - power
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '7169164'
 copyright: 2021 Fair Trade Tunes
-source: ''
 year: ''
 medley: []
 id: CC5B3C76-AE79-41B9-B1CF-3A2CCE33841E

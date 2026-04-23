@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -16,7 +21,6 @@ profile:
 keywords: mod. contemp. fast
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 55A56475-2908-449F-9791-CCEA2065FD38

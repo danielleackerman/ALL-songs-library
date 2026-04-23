@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - life
+function:
   - worship
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - contemp-christian-slow
@@ -20,7 +25,6 @@ ccli: '4534710'
 copyright: >-
   2004 Martha Munizzi Music, Miami Life Sounds Publishing, Inc. ( Admin. Say the
   Name Publishing, Miami Life Sounds Publishing)
-source: ''
 year: 2004
 medley: []
 id: 820E5FB4-4D9F-4534-B4EB-03B94B80F5CC

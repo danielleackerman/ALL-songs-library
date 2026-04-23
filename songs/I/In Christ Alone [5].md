@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - christ
   - glory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '841440'
 copyright: 1990 Paragon Music Corporation
-source: ''
 year: ''
 medley: []
 id: B27319F2-0BDC-4B5A-B9BE-5969F6591984

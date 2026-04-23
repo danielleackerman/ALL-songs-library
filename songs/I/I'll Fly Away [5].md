@@ -5,23 +5,27 @@ key: G
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
+theme: []
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +35,6 @@ ccli: '26399'
 copyright: >-
   1932 Hartford Music Company. Renewed 1960 Albert E. Brumley And Sons (Admin.
   by Integrated Copyright Group, Inc.)
-source: ''
 year: ''
 medley: []
 id: 7947E3E3-E2AD-4A68-B0B6-6DBAFE545F77

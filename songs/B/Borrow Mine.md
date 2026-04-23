@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - faith
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4440118'
 copyright: '2004 New Spring Publishing, Inc. / Appstreet Music'
-source: ''
 year: ''
 medley: []
 id: 977252D3-D57A-4D02-B07A-902304944B2F

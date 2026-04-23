@@ -1,0 +1,153 @@
+FILE: A/All My Praise.md
+LEFTOVER TAGS: ccli
+
+FILE: A/Anointing Fall On Me [2].md
+LEFTOVER TAGS: classic
+
+FILE: A/Anointing Fall On Me [4].md
+LEFTOVER TAGS: classic
+
+FILE: A/Anointing Fall On Me.md
+LEFTOVER TAGS: classic
+
+FILE: B/Because Of Who You Are [2].md
+LEFTOVER TAGS: ccli
+
+FILE: B/Because Of Who You Are [4].md
+LEFTOVER TAGS: ccli
+
+FILE: B/Because Of Who You Are | LYRICS.md
+LEFTOVER TAGS: ccli
+
+FILE: B/Because Of Who You Are-- long edit.md
+LEFTOVER TAGS: ccli
+
+FILE: B/Because Of Who You Are--long edit II.md
+LEFTOVER TAGS: ccli
+
+FILE: B/Because Of Who You Are--short edit.md
+LEFTOVER TAGS: ccli
+
+FILE: E/Enemy's Camp.md
+LEFTOVER TAGS: mod-apo
+
+FILE: G/God Is Here, God Is Real.md
+LEFTOVER TAGS: anointed
+
+FILE: H/How Great Is Our God.md
+LEFTOVER TAGS: ccli
+
+FILE: I/I Love Him Too Much (To Fail Him Now) [2].md
+LEFTOVER TAGS: songbook
+
+FILE: I/I Love Him Too Much (To Fail Him Now) [4].md
+LEFTOVER TAGS: songbook
+
+FILE: I/I Love Him Too Much (To Fail Him Now)-my edit.md
+LEFTOVER TAGS: songbook
+
+FILE: I/I Love Him Too Much (To Fail Him Now).md
+LEFTOVER TAGS: songbook
+
+FILE: I/I Love Jesus Best Of All - version 2.md
+LEFTOVER TAGS: songbook
+
+FILE: I/I Love Jesus Best Of All [2].md
+LEFTOVER TAGS: songbook
+
+FILE: I/I Love Jesus Best Of All [4].md
+LEFTOVER TAGS: songbook
+
+FILE: I/I Love Jesus Best Of All.md
+LEFTOVER TAGS: songbook
+
+FILE: I/I Need Thee (110).md
+LEFTOVER TAGS: songbook
+
+FILE: I/I'm On The Winning Side.md
+LEFTOVER TAGS: my-edit
+
+FILE: I/If We Are The Body.md
+LEFTOVER TAGS: teaching
+
+FILE: I/It's My Desire-1.md
+LEFTOVER TAGS: songbook
+
+FILE: I/It's My Desire-version 2.md
+LEFTOVER TAGS: songbook
+
+FILE: J/Jesus Will Outshine Them All [3].md
+LEFTOVER TAGS: songbook
+
+FILE: J/Jesus Will Outshine Them All.md
+LEFTOVER TAGS: songbook
+
+FILE: J/Jesus Will Outshine Them AllSwaggart 1972.md
+LEFTOVER TAGS: songbook
+
+FILE: M/Make Me In Your Image [3].md
+LEFTOVER TAGS: image
+
+FILE: M/Make Me In Your Image.md
+LEFTOVER TAGS: image
+
+FILE: M/Mary Did You Know.md
+LEFTOVER TAGS: baby
+
+FILE: M/Mary's Prayer.md
+LEFTOVER TAGS: baby
+
+FILE: M/More Than Enough [8].md
+LEFTOVER TAGS: sufficiency
+
+FILE: M/More Than Just Words.md
+LEFTOVER TAGS: teach
+
+FILE: M/More than Enough.md
+LEFTOVER TAGS: sufficiency
+
+FILE: N/Near The Cross [3].md
+LEFTOVER TAGS: songbook
+
+FILE: N/Near The Cross.md
+LEFTOVER TAGS: songbook
+
+FILE: O/Oh, Magnify The Lord.md
+LEFTOVER TAGS: ccli
+
+FILE: O/On My Way To You.md
+LEFTOVER TAGS: teach
+
+FILE: O/One Thing I Know.md
+LEFTOVER TAGS: contemporary-christian-slow
+
+FILE: P/Praise The Lord.md
+LEFTOVER TAGS: anointed
+
+FILE: R/Redeemed [3].md
+LEFTOVER TAGS: stl
+
+FILE: S/Somewhere.md
+LEFTOVER TAGS: baby
+
+FILE: S/Spirit Break Out II.md
+LEFTOVER TAGS: touching
+
+FILE: S/Spirit Break Out--2.md
+LEFTOVER TAGS: touching
+
+FILE: S/Spirit Break Out.md
+LEFTOVER TAGS: touching
+
+FILE: T/THE BLOOD WILL NEVER LOSE ITS POWER.md
+LEFTOVER TAGS: andante
+
+FILE: T/The Blood Will Never Lose Its Power [6].md
+LEFTOVER TAGS: andante
+
+FILE: T/Touching Jesus-version 2.md
+LEFTOVER TAGS: touching
+
+FILE: T/Touching Jesus.md
+LEFTOVER TAGS: touching
+

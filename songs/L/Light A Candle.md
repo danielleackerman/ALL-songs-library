@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - light
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3067918'
 copyright: 2000 Christian Taylor Music / Paragon Music Corporation / Vacation Boy Music
-source: ''
 year: ''
 medley: []
 id: 75801774-8FC5-40D0-8202-55B1D580F357

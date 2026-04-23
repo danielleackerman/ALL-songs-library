@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '702118'
 copyright: '1987 BMG Songs, Inc. / River Oaks Music Company'
-source: ''
 year: ''
 medley: []
 id: EBCE3C34-9847-4B5D-A9C4-C1D4ECD47ABD

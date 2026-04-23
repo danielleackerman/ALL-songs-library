@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '245503'
 copyright: '1989 Sound III, Inc. / Universal - MCA Music Publishing'
-source: ''
 year: ''
 medley: []
 id: 1952D513-BD6B-414F-BE14-8BFA97F670AF

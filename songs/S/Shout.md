@@ -8,15 +8,19 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2793915'
 copyright: 1999 Martha Munizzi Music
-source: ''
 year: ''
 medley: []
 id: 240FD387-4D86-4144-BB93-009A627B629D

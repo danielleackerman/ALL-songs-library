@@ -7,19 +7,23 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
   - truth
-  - sutl
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - os-apo-med
 keywords: 'os apo med, sutl'
 ccli: '24133'
 copyright: Public Domain
-source: ''
 year: ''
 medley: []
 id: E4B1FF82-8401-4826-A630-AB3E981F6620

@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - thanksgiving
 function: []
-tags:
-  - thank
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 1980 Special Rider Music
-source: ''
 year: ''
 medley: []
 id: 0CA0F998-B0ED-4E22-8CEE-C5EFB4085E6A

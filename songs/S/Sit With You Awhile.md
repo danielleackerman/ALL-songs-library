@@ -9,13 +9,18 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - As performed by MercyMe
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '818026'
 copyright: '1992 Shepherd''s Heart Music, Inc.'
-source: As performed by MercyMe
 year: ''
 medley: []
 id: AB0867E6-D5E3-467E-BE0B-04FE42DB1540

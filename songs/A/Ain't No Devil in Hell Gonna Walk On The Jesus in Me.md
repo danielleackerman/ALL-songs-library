@@ -5,22 +5,26 @@ key: ''
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: ''
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - fast-funky
+tempo: fast
+feel:
+  - funky
+theme:
   - jesus
   - hell
+function: []
+context: []
+style:
+  - black-gospel
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - black-gospel-fast-funky
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: D710618A-CF39-402F-814D-43D61F33C8B3

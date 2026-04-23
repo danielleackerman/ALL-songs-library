@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '112588'
 copyright: '1988 Ariose Music, Administrators Capitol CMG Publishing'
-source: ''
 year: ''
 medley: []
 id: 09A1BC0F-C6E8-47B5-A625-A22390BE9D88

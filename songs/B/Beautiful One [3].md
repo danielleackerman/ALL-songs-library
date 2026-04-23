@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3915912'
 copyright: 2002 Thankyou Music
-source: ''
 year: ''
 medley: []
 id: 9D9BFF51-B87F-47A3-9A8D-59CACBA8F48A

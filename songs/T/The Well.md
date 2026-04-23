@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '6093707'
 copyright: 2011 My Refuge Music
-source: ''
 year: ''
 medley: []
 id: B4949969-4496-44C2-B708-7707E4451549

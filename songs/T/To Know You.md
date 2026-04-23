@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: '5638194'
 copyright: >-
   2009 BanaHama Tunes / Word Music, LLC / My Refuge Music / Sony/ATV Tree
   Publishing / GrangeHill Music / Peertunes Ltd. / Windsor Way Music
-source: ''
 year: ''
 medley: []
 id: 5C57481D-A5A2-4156-B9D7-95BC8872CB51

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 1997 Rocketown Music/Sweater Weather Music
-source: ''
 year: ''
 medley: []
 id: 75923A8F-77ED-4D76-9C15-616B602F0945

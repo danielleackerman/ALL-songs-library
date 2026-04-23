@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - foundation
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '6500159'
 copyright: 2013 Stolen Pride
-source: ''
 year: ''
 medley: []
 id: 91BDECF3-1E41-4208-99C6-B338F29F1FBD

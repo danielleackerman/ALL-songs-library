@@ -8,15 +8,19 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '931525'
 copyright: '1996 Dayspring Music, LLC'
-source: ''
 year: ''
 medley: []
 id: 9E996FD1-4D10-480B-B629-E5D4B64B3798

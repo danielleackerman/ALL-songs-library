@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
@@ -17,7 +22,6 @@ ccli: '5818017'
 copyright: >-
   2010 Thirsty Moon River Publishing / Stolen Pride Music, Bluke Music
   Publishing (Admin by EMI CMG Publishing))
-source: ''
 year: ''
 medley: []
 id: F98B0EB7-C042-4B28-B736-7F7E2425195B

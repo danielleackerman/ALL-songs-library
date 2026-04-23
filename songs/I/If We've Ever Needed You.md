@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
@@ -17,7 +22,6 @@ ccli: '5631995'
 copyright: >-
   2009 Word Music, LLC / BanaHama Tunes / My Refuge Music / Sony/ATV Tree
   Publishing
-source: ''
 year: ''
 medley: []
 id: 8D40A12E-99E9-46EB-8F3D-D11C2C6F7A5D

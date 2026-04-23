@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '6221050'
 copyright: '2011 Word Music, LLC / Weave Country'
-source: ''
 year: ''
 medley: []
 id: C02DB870-8161-4EFC-9088-8186155B1099

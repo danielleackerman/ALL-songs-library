@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - light
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1914616'
 copyright: 1975. Renewed 2003 Tessa Music Publishing
-source: ''
 year: ''
 medley: []
 id: 9C1E15DD-7DFA-4C25-A3EA-000B9E35FC01

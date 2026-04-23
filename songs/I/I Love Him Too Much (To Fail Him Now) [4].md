@@ -7,19 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
-  - sutl
-  - songbook
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - o-s-apo-slow
 keywords: 'o. s. apo. slow, sutl, songbook'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 6392B0AD-C847-480A-8CDC-C46EF4C79956

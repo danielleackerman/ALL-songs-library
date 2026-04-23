@@ -5,24 +5,27 @@ key: Eb
 bpm: '55'
 time_sig: 4/4
 meter: ''
-tempo: slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+tempo: medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
-  - gospel-ccli
-  - ccli
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+  - ccm-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +34,6 @@ profile:
 keywords: 'mod apo slow, gospel/ccli, ccli'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 9FE460EF-7F63-4DAA-8F3B-436CD7EFCA8C

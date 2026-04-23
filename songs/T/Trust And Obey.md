@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - help
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4807902'
 copyright: '2006 Word Music, LLC / Weave Country'
-source: ''
 year: ''
 medley: []
 id: 81C2BE35-3900-4707-96E1-B40587449D5B

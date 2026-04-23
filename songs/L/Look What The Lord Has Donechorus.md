@@ -8,16 +8,21 @@ meter: ''
 tempo: medium-fast
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - '1974'
+tags: []
 genre: []
 profile:
   - os-apo-fast
 keywords: os apo fast
 ccli: '97861'
 copyright: '1974 Exaltation Music, Admin. Ministry Management Associates'
-source: '1974'
 year: ''
 medley: []
 id: 40008F5D-75B1-4EFC-8973-0BBF0A84AE7C

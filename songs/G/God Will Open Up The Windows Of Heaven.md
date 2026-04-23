@@ -7,12 +7,18 @@ time_sig: 4/4
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - blessing
   - heaven
   - provision
+function: []
+context: []
+style:
+  - black-gospel-opera
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - black-gospel-opera
@@ -20,7 +26,6 @@ profile:
 keywords: 'os gospel med, blessing, provision'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[GIVE UP]]'

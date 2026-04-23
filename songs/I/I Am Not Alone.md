@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
@@ -17,7 +22,6 @@ ccli: '7007821'
 copyright: >-
   © KAJE Songs (Admin. by EMI Christian Music Publishing)SHOUT! Music Publishing
   (Admin. by EMI Christian Music Publishing)Worship Together Music (Admin
-source: ''
 year: ''
 medley: []
 id: 5E0EC4C2-C76E-4B54-9C86-CC9CEB56FC9D

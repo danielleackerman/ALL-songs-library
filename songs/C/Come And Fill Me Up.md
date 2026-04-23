@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - presence
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '630307'
 copyright: 1990 Vineyard Songs Canada / ION Publishing
-source: ''
 year: ''
 medley: []
 id: 958B779E-D8BB-4A1D-B6AC-F075F90D6F91

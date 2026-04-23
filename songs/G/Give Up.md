@@ -9,8 +9,12 @@ tempo: slow
 feel: []
 theme: []
 function: []
-tags:
-  - bluesy
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-slow
@@ -18,7 +22,6 @@ profile:
 keywords: 'os apo slow, os southern gospel slow, bluesy'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 81E0EC8B-7978-4E0E-A834-A68906B458D4

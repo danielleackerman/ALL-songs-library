@@ -6,37 +6,37 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
+context: []
+style:
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
-    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+    choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[CHANGE ME LORD]]'
 id: 2369FFED-B172-46FB-8D0F-56A4A866532A
 ---
 Key : [G]
-
-Medley: change me Lord
 
 [G]I     [Bm] wanna be more like   [C]You,   [C/E]Je   [D/F#]sus
 [G]I    [Bm7]wanna be more like   [C]You.   [D/C]

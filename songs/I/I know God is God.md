@@ -6,23 +6,31 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - high-energy
-  - medium-fast-shouting
+  - shouting
+theme:
+  - the-name
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
-  - name
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - >-
+    He's God on the platform; God back at the door; He's God in the amen corner;
+    He's God all over the floor; And God don't ever change
+tags: []
 genre: []
 profile:
   - >-
@@ -32,9 +40,6 @@ profile:
 keywords: 'os apo med slow, os apo slow, name'
 ccli: ''
 copyright: ''
-source: >-
-  He's God on the platform; God back at the door; He's God in the amen corner;
-  He's God all over the floor; And God don't ever change
 year: ''
 medley: []
 id: 7B7EF6FB-986C-4B80-A0D2-2010B9BA7903

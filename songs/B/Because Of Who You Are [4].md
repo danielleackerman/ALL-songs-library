@@ -5,26 +5,30 @@ key: F
 bpm: '55'
 time_sig: 4/4
 meter: ''
-tempo: slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+tempo: medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - peace
   - victory
-  - gospel-ccli
-  - ccli
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+  - ccm-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - version 2-sheet music
+tags: []
 genre: []
 profile:
   - >-
@@ -33,7 +37,6 @@ profile:
 keywords: 'mod gospel slow, gospel/ccli, ccli'
 ccli: ''
 copyright: ''
-source: version 2-sheet music
 year: ''
 medley: []
 id: 84017391-D881-421E-B342-8E1D685D052C

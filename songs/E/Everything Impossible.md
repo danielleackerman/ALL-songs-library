@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4312129'
 copyright: 2004 by Simpleville Music
-source: ''
 year: ''
 medley: []
 id: 886D8DE5-579C-415A-A08A-07130033753F

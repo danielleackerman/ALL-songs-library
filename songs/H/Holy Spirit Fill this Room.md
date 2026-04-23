@@ -6,33 +6,33 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - presence
   - holy-spirit
+function:
+  - worship
+context: []
+style: []
+tradition:
+  - contemporary
+use:
+  - choir
+  - chorus
+  - congregational
+source: []
+tags: []
 genre: []
 profile:
   - >-
-    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-solo-songs-southern-gospel-traditional-worship
+    black-gospel-choir-choruses-congregational-contemporary-medium-slow-reverential-worship
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
-medley: []
+medley:
+  - '[[In His Presence]]'
 id: 1CFD5230-3FBA-4A80-ABEC-3D451465D40E
 ---
 Key : [C]

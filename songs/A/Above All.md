@@ -6,21 +6,26 @@ bpm: '72'
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - Leonard J Le Blanc/ Paul Joseph Baloche
+tags: []
 genre: []
 profile:
   - >-
@@ -29,7 +34,6 @@ profile:
 keywords: mod. contemp. slow
 ccli: ''
 copyright: ''
-source: Leonard J Le Blanc/ Paul Joseph Baloche
 year: ''
 medley: []
 id: 9E329776-67BE-4BC6-852D-9E51E0EE4A37

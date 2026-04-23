@@ -6,22 +6,28 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - high-energy
-  - medium-fast-shouting
+  - shouting
+theme: []
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - Very Blue's feel
+tags: []
 genre: []
 profile:
   - >-
@@ -29,7 +35,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: Very Blue's feel
 year: ''
 medley: []
 id: 66CF1291-BDC3-476E-9976-64286E0AF1A8

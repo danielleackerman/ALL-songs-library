@@ -7,23 +7,27 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - altar-songs
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - jesus
-  - os-slow
+function:
+  - praise
+  - worship
+context:
+  - altar
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+  - old-school
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +35,6 @@ profile:
 keywords: os slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 36ED02AF-92F8-4C7D-8919-0B6F82551512

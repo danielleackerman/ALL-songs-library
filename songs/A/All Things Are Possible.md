@@ -8,15 +8,19 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2245140'
 copyright: 1997 Darlene Zschech (Hillsong)
-source: ''
 year: ''
 medley: []
 id: C2F41F5F-7E47-46EA-82FF-F5D2C62A16F7
