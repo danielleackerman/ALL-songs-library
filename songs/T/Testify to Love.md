@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: © 1996 Windswept Music
-source: ''
 year: ''
 medley: []
 id: 1EB33DBA-EDBE-4FBC-B70B-657CE3E2D4E4

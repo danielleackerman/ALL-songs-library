@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
   - honor
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-slow
 keywords: os apo slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 3B1B9CD6-E910-445E-8F67-7E492795202B

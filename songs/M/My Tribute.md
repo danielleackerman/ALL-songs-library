@@ -5,22 +5,26 @@ key: F
 bpm: '85'
 time_sig: ''
 meter: ''
-tempo: medium
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+tempo: medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +34,6 @@ profile:
 keywords: 'os apo slow, os gospel slow, black gospel'
 ccli: '11218'
 copyright: '1971 Bud John Songs, Inc. (Admin. by Capitol CMG Publishing)'
-source: ''
 year: ''
 medley:
   - '[[I KNOW MY REDEEMER LIVES]]'

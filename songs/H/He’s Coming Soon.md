@@ -10,20 +10,24 @@ meter: ''
 tempo: medium
 feel: []
 theme: []
-function: []
-tags:
-  - altar-songs
+function:
+  - praise
+  - worship
+context:
+  - altar
+style:
   - ccm
-  - choir
-  - choruses
-  - congregational
   - jesus-movement
   - maranatha
-  - medium
-  - praise
-  - solo-songs
-  - worship
-  - sutl
+tradition: []
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +36,6 @@ profile:
 keywords: 'os apo med slow, sutl'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 21E5A35E-5151-41C9-90F4-F4A544F5645A

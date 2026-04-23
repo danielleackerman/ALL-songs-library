@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
-  - alive
+  - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4362148'
 copyright: 2004 Flicker USA Publishing
-source: ''
 year: ''
 medley: []
 id: 61319D9A-9937-4764-A809-6EACF67462C2

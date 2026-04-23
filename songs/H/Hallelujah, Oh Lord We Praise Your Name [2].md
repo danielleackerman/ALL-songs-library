@@ -8,16 +8,20 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-slow
 keywords: mod. apo. slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 10AEF492-3C35-4E12-8822-C814DF915A85

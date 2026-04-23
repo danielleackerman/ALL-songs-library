@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 1993  Dave Morrow
-source: ''
 year: ''
 medley: []
 id: A938B0BE-DBAC-4106-A638-EDD7391A1455

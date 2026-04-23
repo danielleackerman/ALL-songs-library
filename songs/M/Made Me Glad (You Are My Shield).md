@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - shield
+function: []
+context: []
+style:
   - ccm
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - contemporary-christian-med-slow
 keywords: 'contemporary christian med slow, ccm'
 ccli: '3290709'
 copyright: '2001 Wonder Down Under Music (Admin. by Music Services, Inc.)'
-source: ''
 year: ''
 medley: []
 id: B1CD4ED2-D850-4FF3-89F2-147D2E39753D

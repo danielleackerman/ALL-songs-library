@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - mercy
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4586106'
 copyright: 2005 Consuming Fire Publishing
-source: ''
 year: ''
 medley: []
 id: 3F170422-71E8-405B-8F33-EFDDB9B14AEE

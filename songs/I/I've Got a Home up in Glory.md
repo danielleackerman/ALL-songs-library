@@ -7,17 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
-  - home
+  - heaven-home
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Artist Name
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: Artist Name
 year: ''
 medley: []
 id: 68C80C72-8997-4FEC-8B94-0494F12A281C

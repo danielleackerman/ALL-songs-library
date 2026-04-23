@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - friendship
 function: []
-tags:
-  - friend
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5077339'
 copyright: 2007 My Refuge Music / Club Zoo Music / SWECS Music
-source: ''
 year: ''
 medley: []
 id: ACC34522-8DD6-4367-A45C-D68E50BA68E3

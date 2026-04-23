@@ -6,23 +6,27 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
+context:
   - altar
+style:
+  - black-gospel
+  - southern-gospel
   - ccm
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +35,6 @@ profile:
 keywords: 'contemporary christian med slow, altar, ccm'
 ccli: '2241591'
 copyright: 1997 Integrity's Praise! Music
-source: ''
 year: ''
 medley:
   - '[[SET A FIRE]]'

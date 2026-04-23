@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4543613'
 copyright: '2005 Word Music, LLC / BanaHama Tunes / SWECS Music / Club Zoo Music'
-source: ''
 year: ''
 medley: []
 id: 532C97D1-0735-4343-91E5-16CDE462B639

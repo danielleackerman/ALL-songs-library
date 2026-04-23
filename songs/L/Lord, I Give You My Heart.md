@@ -9,6 +9,12 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - 'Hillsong, Micheal W. Smith'
 tags: []
 genre: []
 profile:
@@ -17,7 +23,6 @@ profile:
 keywords: 'contemp christian med, mod apo med'
 ccli: '1866132'
 copyright: 1995 Hillsong Publishing
-source: 'Hillsong, Micheal W. Smith'
 year: ''
 medley: []
 id: A3A324A0-FE08-40E3-92CD-DF82EED230AB

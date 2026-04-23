@@ -9,13 +9,18 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Solo Intro
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4292263'
 copyright: 2004 Consuming Fire Music (Admin. by EMI Christian Music Publishing)
-source: Solo Intro
 year: ''
 medley: []
 id: A384C5FE-F90D-4716-92CE-3C918C2C3F17

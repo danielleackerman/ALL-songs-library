@@ -7,19 +7,23 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
-  - his-name
+  - the-name
+function: []
+context: []
+style:
   - traditional-gospel
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-med
 keywords: 'os apo med, traditional gospel'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[SEND IT ON DOWN]]'

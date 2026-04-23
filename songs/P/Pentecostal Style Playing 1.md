@@ -9,13 +9,18 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - To the vim Chord
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: To the vim Chord
 year: ''
 medley: []
 id: 0A8BF381-125D-4E6B-B462-FBA83DB21986

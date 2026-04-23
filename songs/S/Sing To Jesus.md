@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3469389'
 copyright: '2002 Word Music, LLC / Dejamesolo Music / Rich Nibbe Songs'
-source: ''
 year: ''
 medley: []
 id: C628B0C2-FA8E-42FF-81FA-89CA186EA61A

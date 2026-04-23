@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '14514'
 copyright: 1980 Birdwing Music
-source: ''
 year: ''
 medley: []
 id: 356E3BDE-17DF-475A-A069-E48511F7BDB9

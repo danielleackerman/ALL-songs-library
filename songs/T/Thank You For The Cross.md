@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - cross
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 1990 Integrity's Praise! Music
-source: ''
 year: ''
 medley: []
 id: CACF5320-4D94-46A3-8EFB-67DCE14ADE0B

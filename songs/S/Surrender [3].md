@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5324233'
 copyright: 2008 Thirsty Moon River Publishing / Stolen Pride Music
-source: ''
 year: ''
 medley: []
 id: 9EFAA4CD-D0A8-445E-ACCF-81F44B3C3B53

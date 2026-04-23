@@ -5,22 +5,27 @@ key: Ab
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - Ray Boltz
+tags: []
 genre: []
 profile:
   - >-
@@ -28,7 +33,6 @@ profile:
 keywords: ''
 ccli: '1453277'
 copyright: '1994 Word Music, LLC / Shepard Boy Music'
-source: Ray Boltz
 year: ''
 medley: []
 id: F41C384B-A6C6-42D0-9F49-722AA9DF4F5D

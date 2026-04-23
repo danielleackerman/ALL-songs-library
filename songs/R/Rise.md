@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2011 Sparrow Records
-source: ''
 year: ''
 medley: []
 id: 3C6FA364-DDD7-4E3B-B975-5DC628523530

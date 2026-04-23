@@ -5,25 +5,29 @@ key: F
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
   - high-energy
-  - medium-fast
-  - medium-fast-shouting
+  - shouting
+theme: []
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -36,7 +40,6 @@ ccli: '288649'
 copyright: >-
   1977 Jeffrey W. Robinson. Assigned to Rex Nelon Music Company. Admin. ClearBox
   Rights, LLC.
-source: ''
 year: ''
 medley: []
 id: 52086C0A-FFE7-4D01-B053-3A60062C6A28

@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - holy-spirit
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: '3065563'
 copyright: >-
   © 1999 Bridge Building Music, Inc. (Admin. by Brentwood-Benson Music
   Publishing, Inc., 741 Cool Springs Blvd., Franklin TN 37067)
-source: ''
 year: ''
 medley: []
 id: 8CA66ADD-933C-4CEC-98B8-32A8FB3343C0

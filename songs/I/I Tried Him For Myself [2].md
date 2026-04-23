@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - glory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-gospel-med-slow
 keywords: mod gospel med slow
 ccli: ''
 copyright: ''
-source: ''
 year: 2011
 medley: []
 id: A5D8128A-6313-407E-A5D5-F589A4CD0849

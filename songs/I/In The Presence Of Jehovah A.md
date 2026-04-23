@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - presence
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-slow
 keywords: mod apo slow
 ccli: '162040'
 copyright: '1983, 1985 Meadowgreen Music Company / Songchannel Music'
-source: ''
 year: ''
 medley: []
 id: 54D12A73-4A32-4D7A-A675-42043F35AA96

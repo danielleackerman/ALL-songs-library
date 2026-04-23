@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3189339'
 copyright: 2000 Hillsong Publishing
-source: ''
 year: ''
 medley: []
 id: 5F732F30-C222-47C0-9105-EBD821193C93

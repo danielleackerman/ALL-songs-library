@@ -7,21 +7,24 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 743DDD6A-CB89-4F66-9AB3-BF61B96C0EDA
 ---
-
 ## Sets Using This Song
 
 ```dataview

@@ -7,19 +7,23 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - heaven
+function: []
+context: []
+style: []
+tradition:
   - roots
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-southern-gospel
 keywords: 'os southern gospel, roots'
 ccli: ''
 copyright: 1949 by Thompson Music Co. in "Perfect Melodies".
-source: ''
 year: ''
 medley: []
 id: 4998EF28-3F5E-4002-AEFC-01608E72687F

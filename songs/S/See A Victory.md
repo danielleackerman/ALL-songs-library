@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - victory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '7129060'
 copyright: '2019 Fellow Ships Music, Elevation Worship Publishing'
-source: ''
 year: ''
 medley: []
 id: 9627EA87-770C-4149-B220-C1DFA06CE90C

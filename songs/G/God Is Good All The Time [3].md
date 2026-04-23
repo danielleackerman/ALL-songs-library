@@ -5,27 +5,30 @@ key: D
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
+tempo: medium
+feel:
+  - energetic
 theme: []
-function: []
-tags:
+function:
+  - praise
+  - worship
+context: []
+style:
   - black-gospel
   - ccm
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - energetic
   - jesus-movement
   - maranatha
-  - medium
-  - medium-fast
-  - praise
-  - solo-songs
   - southern-gospel
+tradition:
+  - contemporary
   - traditional
-  - worship
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -33,7 +36,6 @@ profile:
 keywords: ''
 ccli: '1729073'
 copyright: 1995 Integrity's Hosanna! Music / Scarlet Moon Music
-source: ''
 year: ''
 medley: []
 id: 7B69D26C-A35F-48E9-9094-D6B726A77CEC

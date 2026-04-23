@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - mercy
   - grace
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4579838'
 copyright: '2005 Clint Brown (Admin. by CSB Ministries, Inc.)'
-source: ''
 year: ''
 medley: []
 id: 17298329-678A-4EC8-ACE3-879E919CD8F6

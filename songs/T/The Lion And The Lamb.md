@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
-  - his-name
+  - the-name
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - contemp-christian-med
 keywords: contemp christian med
 ccli: '477986'
 copyright: '1990 Maranatha Praise, Inc.'
-source: ''
 year: ''
 medley: []
 id: 951E428A-0B39-4A11-A3B8-2F6E21FAC1F1

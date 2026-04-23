@@ -7,20 +7,25 @@ time_sig: 3/4
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - jesus
   - adoration
-  - his-name
+  - the-name
+function:
+  - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - ORIGINAL KEY-Eb
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +35,6 @@ profile:
 keywords: 'os apo med, os southern gospel med, adoration, his name, worship'
 ccli: '14064'
 copyright: '1970 William J Gaither, Inc, Admin. Gaither Copyright Management'
-source: ORIGINAL KEY-Eb
 year: ''
 medley:
   - '[[Falling in Love With Jesus]]'

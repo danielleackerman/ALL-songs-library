@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - desire
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1866132'
 copyright: 1995 Hillsong Publishing
-source: ''
 year: ''
 medley: []
 id: 7FAB20BA-B0F6-41E9-A71F-9DCA309839EF

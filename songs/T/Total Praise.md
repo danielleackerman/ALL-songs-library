@@ -5,24 +5,29 @@ key: C
 bpm: '48'
 time_sig: 4/4
 meter: ''
-tempo: slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+tempo: medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme:
+  - men
+function:
   - worship
   - praise
-  - men
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - Michael W. Smith
+tags: []
 genre: []
 profile:
   - >-
@@ -33,7 +38,6 @@ ccli: '2110330'
 copyright: >-
   1996 Bridge Building Music, Inc. / T. Autumn Music,Admin. Brentwood-Benson
   Music Publishing
-source: Michael W. Smith
 year: ''
 medley: []
 id: 1053FD75-84E0-4B5F-B55E-46976BFE1D41

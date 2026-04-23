@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3011304'
 copyright: '2000 Word Music, LLC / Dejamesolo Music / John Andrew Schreiner Music'
-source: ''
 year: ''
 medley: []
 id: CFA16288-AE5C-4C35-89C4-9F588849C23C

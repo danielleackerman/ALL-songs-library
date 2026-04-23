@@ -8,19 +8,24 @@ meter: ''
 tempo: medium
 feel: []
 theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - Chris Tomlin
+tags: []
 genre: []
 profile:
   - >-
@@ -28,7 +33,6 @@ profile:
 keywords: ''
 ccli: '4556538'
 copyright: 2005 Thankyou Music
-source: Chris Tomlin
 year: ''
 medley: []
 id: 6381B258-47A8-4216-B8A4-2B64D2DE7FDC

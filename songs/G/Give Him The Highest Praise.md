@@ -8,10 +8,14 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
-  - jazzy
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-med
@@ -19,7 +23,6 @@ profile:
 keywords: 'mod apo med, comtemp christian med, jazzy'
 ccli: '2442321'
 copyright: 1998 Martha Munizzi Music (Admin. by Say the Name Publishing)
-source: ''
 year: ''
 medley:
   - '[[I LOVE TO SING YOUR PRAISE LORD]]'

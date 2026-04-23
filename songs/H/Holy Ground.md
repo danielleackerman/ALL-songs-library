@@ -5,26 +5,30 @@ key: Eb
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - jesus
-  - praise
   - holiness
+function:
+  - worship
+  - praise
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -33,7 +37,6 @@ profile:
 keywords: 'holiness, mod apo slow'
 ccli: ''
 copyright: '1983 by Meadowgreen Music Company/Songchannel Music Co, admin. by Capital CMG'
-source: ''
 year: ''
 medley: []
 id: 20A26C9E-D329-4457-BA4A-A706ED443F41

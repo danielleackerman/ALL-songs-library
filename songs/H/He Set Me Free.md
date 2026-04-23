@@ -5,25 +5,30 @@ key: Ab
 bpm: ''
 time_sig: 4/4
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - glory
-  - sutl
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - Sing Unto The Lord 175
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - >-
@@ -34,7 +39,6 @@ ccli: '61062'
 copyright: >-
   1939. Copyright 1967 Bridge Building Music, Inc. (Admin. by Brentwood-Benson
   Music Publishing, Inc.)
-source: Sing Unto The Lord 175
 year: ''
 medley: []
 id: A4A9AD30-C4B4-46A3-A60C-760434AA620B

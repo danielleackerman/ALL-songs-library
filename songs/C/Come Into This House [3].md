@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '815335'
 copyright: '1991 Lehsem Music, LLC dba Lehsem Songs'
-source: ''
 year: ''
 medley: []
 id: C48AA6C5-A2D3-4D22-B848-B7A362FF48F3

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3194946'
 copyright: '1999 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music'
-source: ''
 year: ''
 medley: []
 id: FC01B6E2-2161-41EB-8FAF-3EA297D84BA0

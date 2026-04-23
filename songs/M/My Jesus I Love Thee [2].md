@@ -7,20 +7,24 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - love
   - jesus
-  - sutl
+function:
+  - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - >-
@@ -29,7 +33,6 @@ profile:
 keywords: 'os apo slow, sutl'
 ccli: '6467247'
 copyright: 2013 Integrity Worship Music & This Is Your Time Music
-source: ''
 year: ''
 medley: []
 id: 643DB251-627A-4088-9FC4-E02A23B3AD68

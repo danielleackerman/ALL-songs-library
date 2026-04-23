@@ -7,18 +7,23 @@ time_sig: 4/4
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
-  - os-apo
-  - sutl
+function: []
+context: []
+style: []
+tradition:
+  - old-school
+use: []
+source:
+  - '14'
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile: []
 keywords: 'os apo , sutl'
 ccli: ''
 copyright: ''
-source: '14'
 year: ''
 medley: []
 id: 9E021955-5FC6-491D-89B4-093EF33E553A

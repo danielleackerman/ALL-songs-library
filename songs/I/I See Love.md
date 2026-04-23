@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - grace
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4462756'
 copyright: 2004 Sparrow Song
-source: ''
 year: ''
 medley: []
 id: C4CBB536-FEBA-4407-921F-893B0FF21237

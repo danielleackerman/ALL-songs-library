@@ -6,23 +6,28 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - high-energy
-  - medium-fast-shouting
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+  - shouting
+theme:
   - love
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,12 +36,10 @@ profile:
 keywords: 'os gospel fast, praise'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: F0C222AA-4A21-4AC7-A05B-66A3476506E1
 ---
-
 ## Sets Using This Song
 
 ```dataview

@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-fast
 keywords: os apo fast
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 18CFE220-4D7A-4C57-8392-E7EB3E58B8B1

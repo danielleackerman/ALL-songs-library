@@ -7,19 +7,24 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - triumph
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - >-
+    Shout with a voice of triumph; Shout with a voice of  praise; Shout with a
+    voice of triumph; Shout with a voice of praise; Shout to the Lord for the
+    victory; Hey, Hey Give the Lord a shout of praise
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: >-
-  Shout with a voice of triumph; Shout with a voice of  praise; Shout with a
-  voice of triumph; Shout with a voice of praise; Shout to the Lord for the
-  victory; Hey, Hey Give the Lord a shout of praise
 year: ''
 medley: []
 id: A5918073-A6D6-4170-ADA8-436A0D737ABA

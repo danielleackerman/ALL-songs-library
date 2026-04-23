@@ -5,27 +5,30 @@ key: F
 bpm: '91'
 time_sig: ''
 meter: ''
-tempo: medium
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme:
+  - thanksgiving
+function:
   - worship
   - praise
-  - thank
-  - contemporary-christian-med
+context: []
+style:
+  - black-gospel
+  - southern-gospel
   - ccm
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -33,7 +36,6 @@ profile:
 keywords: 'contemporary christian med, ccm'
 ccli: '4220833'
 copyright: 2004 Integrity's Hosanna! Music
-source: ''
 year: ''
 medley: []
 id: 5EDE49D1-D7EF-4ED9-9DAA-61640EF133AB

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '429525'
 copyright: 1989 Sonworshipers Music / Shepherd Boy Music
-source: ''
 year: ''
 medley: []
 id: 59F7A05F-9DB0-473B-A3F9-38A3F1DFE618

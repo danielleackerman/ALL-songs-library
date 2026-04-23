@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4610474'
 copyright: 2005 New Spring / Capilano Music
-source: ''
 year: ''
 medley: []
 id: 593699CD-F43F-47D3-BDE8-5B991E60A8BC

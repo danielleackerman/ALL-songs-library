@@ -9,14 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
-  - invitation
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4547918'
 copyright: 2005 SWECS Music / Club Zoo Music / Birdwing Music / Birdboy Songs
-source: ''
 year: ''
 medley: []
 id: FBF7B2BA-E5CD-4AD3-90CA-83B7A398FDAE

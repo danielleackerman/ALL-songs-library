@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - thanksgiving
 function: []
-tags:
-  - thank
+context:
   - offering
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-gospel-slow
 keywords: 'os gospel slow, offering'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: B49658AD-D27B-4546-A458-38EC498A3AF6

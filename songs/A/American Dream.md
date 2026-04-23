@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4196558'
 copyright: SWECS Music / Club Zoo Music
-source: ''
 year: ''
 medley: []
 id: 7AB0CCD1-6E64-4441-9A94-9D34C9CF5F71

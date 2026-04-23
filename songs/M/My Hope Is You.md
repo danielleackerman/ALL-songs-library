@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - hope
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2373672'
 copyright: 1997 New Spring publishing
-source: ''
 year: ''
 medley: []
 id: CDA34323-9A85-44DC-9258-7BC64FF0774B

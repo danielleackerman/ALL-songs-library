@@ -7,13 +7,18 @@ time_sig: ''
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
+  - exaltation
+  - declaration
+function:
   - praise
   - worship
-  - exaltation
-  - declaration-worship
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-med-slow
@@ -23,7 +28,6 @@ ccli: '11930'
 copyright: >-
   1988 Universal Music-Brentwood Benson Publishing, Admin. Brentwood Benson
   Publishing
-source: ''
 year: ''
 medley: []
 id: 944CBD63-9676-42F9-A19F-EF7A90A0A993

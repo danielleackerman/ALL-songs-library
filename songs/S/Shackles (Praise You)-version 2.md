@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - dance
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - contemporary-gospel-med-fast
 keywords: contemporary gospel med fast
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 533B1303-77B7-42E8-B2C1-FACE2FCB0EE5

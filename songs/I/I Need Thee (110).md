@@ -9,16 +9,19 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
-  - sutl
-  - songbook
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - os-apo-slow
 keywords: 'os apo slow, sutl, songbook'
 ccli: ''
 copyright: ''
-source: ''
 year: 1872
 medley: []
 id: B1B2A346-3D60-48D6-B8E7-3044B7AEC6EB

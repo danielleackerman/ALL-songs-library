@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: Brentwood Benson Music Publishing
-source: ''
 year: ''
 medley: []
 id: 6A67EA64-CB04-4013-8F53-F452E84A9C82

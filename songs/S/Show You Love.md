@@ -7,16 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Played in Drop D
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: Played in Drop D
 year: ''
 medley: []
 id: 0FB1E616-322F-4C73-86E0-C27AE676A3C6

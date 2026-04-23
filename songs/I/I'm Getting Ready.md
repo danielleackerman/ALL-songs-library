@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -16,7 +21,6 @@ profile:
 keywords: os apo fast
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: CC3B6911-C4CF-4A7D-90D3-7100C8CA6CF7

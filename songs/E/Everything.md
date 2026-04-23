@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 1998 Rocketown Records
-source: ''
 year: ''
 medley: []
 id: 1FF571B1-96D7-4521-A8CD-3595570CE516

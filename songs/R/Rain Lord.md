@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
@@ -17,7 +22,6 @@ ccli: '3065563'
 copyright: >-
   © 1999 Bridge Building Music, Inc. (Admin. by Brentwood-Benson Music
   Publishing, Inc., 741 Cool Springs Blvd., Franklin TN 37067)
-source: ''
 year: ''
 medley: []
 id: BDB555CB-43F6-4FC7-BEEB-C1F763EDC57C

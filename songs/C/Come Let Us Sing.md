@@ -8,18 +8,22 @@ meter: ''
 tempo: medium-fast
 feel: []
 theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-fast
-  - middle-eastern
+function:
   - praise
-  - solo-songs
+context: []
+style:
+  - black-gospel
+  - middle-eastern
+tradition:
+  - contemporary
   - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -29,7 +33,6 @@ profile:
 keywords: 'os apo fast, os gospel fast'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 304D69CF-003B-47EE-826D-96EA92FFCC2C

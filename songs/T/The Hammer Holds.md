@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2894230'
 copyright: 1999 New Spring / Appstreet Music
-source: ''
 year: ''
 medley: []
 id: ED314F7D-530E-4E75-8B32-8A877621F307

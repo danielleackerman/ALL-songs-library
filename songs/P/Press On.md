@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - strength
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '91410'
 copyright: '1983 Good Life Publications, Inc.'
-source: ''
 year: ''
 medley: []
 id: 91EA1BF7-23E6-4F98-B14E-854E4D0CEBB9

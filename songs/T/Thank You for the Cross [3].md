@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - cross
-  - thank
+  - thanksgiving
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3447356'
 copyright: 2001 Vineyard Songs
-source: ''
 year: ''
 medley: []
 id: 8C647114-266B-42FD-AB94-FBFA7BC9E56C

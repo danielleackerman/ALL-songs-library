@@ -7,18 +7,23 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - love
+function:
+  - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - With Much Expression
+tags: []
 genre: []
 profile:
   - >-
@@ -26,7 +31,6 @@ profile:
 keywords: ''
 ccli: '25266'
 copyright: '1978, 1980 House Of Mercy Music'
-source: With Much Expression
 year: ''
 medley: []
 id: DFF01181-BD29-4D76-8F8D-A8C22E933720

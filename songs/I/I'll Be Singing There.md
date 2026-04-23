@@ -7,19 +7,23 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - eternal
+theme:
+  - eternal-life
   - glory
-  - sutl
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - os-apo-fast
 keywords: 'sutl, os apo fast'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: F3B2810F-24CD-4D36-839F-92760BD9E6CE

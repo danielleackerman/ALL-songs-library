@@ -8,15 +8,19 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - worship
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2430948'
 copyright: 1998 Vineyard Songs (UK/Eire)
-source: ''
 year: ''
 medley: []
 id: 66438FD9-18C9-4847-880F-BA8A0A24E271

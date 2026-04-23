@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - redeemer
   - strength
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4854711'
 copyright: 2006 Curb Songs / Cerdo Verde Music / John Andrew Schreiner Music
-source: ''
 year: ''
 medley: []
 id: CA40FEB7-E9B3-4CE8-B657-00480713D713

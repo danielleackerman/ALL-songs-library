@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: ''
 copyright: >-
   2005 Bridge Building, a division of Zomba Enterprises, Inc. (BMI)/ Pogostich
   Music (BMI)
-source: ''
 year: ''
 medley: []
 id: A2EC06FE-99DA-4666-87DF-33287BFEEEB6

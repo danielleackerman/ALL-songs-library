@@ -9,14 +9,19 @@ time_sig: 6/8
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - faithfulness
   - miracles
   - trust
   - power
   - victory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: 'faithfulness, miracles, trust, power, victory'
@@ -24,7 +29,6 @@ ccli: '71347788'
 copyright: >-
   2019 Music by Elevation Worship Publishing, Admin. Essential Music Publishing
   LLC
-source: ''
 year: ''
 medley: []
 id: 92D2558E-2230-4D49-953C-26F926CCD709

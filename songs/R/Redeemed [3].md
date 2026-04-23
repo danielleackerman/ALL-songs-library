@@ -9,8 +9,13 @@ tempo: slow
 feel: []
 theme: []
 function: []
-tags:
-  - stl
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - 'Sing Unto The Lord, 21'
+tags: []
 genre: []
 profile:
   - os-apo-med
@@ -19,7 +24,6 @@ ccli: '7013330'
 copyright: >-
   Words: Public Domain, Music: Chappytunes, Admin: Public Domain, The Loving
   Company
-source: 'Sing Unto The Lord, 21'
 year: ''
 medley: []
 id: DFE8F6BD-BB5C-47DA-BF56-73457EBEF0FC

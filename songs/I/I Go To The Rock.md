@@ -7,23 +7,27 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - rock
   - protection
   - provision
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -36,7 +40,6 @@ keywords: >-
   provision
 ccli: ''
 copyright: 1977 John T. Benson Publishing
-source: ''
 year: ''
 medley: []
 id: 507C368F-C79D-44B9-AF46-EA0018FC7767

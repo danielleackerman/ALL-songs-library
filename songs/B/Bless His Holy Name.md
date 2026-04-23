@@ -7,13 +7,18 @@ time_sig: 4/4
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - greatness
   - adoration
   - faithfulness
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-med
@@ -21,7 +26,6 @@ profile:
 keywords: 'os apo med, os gospel med, greatness, adoration, faithfulness, praise'
 ccli: '17566'
 copyright: '1973 Bud John Songs, Inc., Admin. Capitol CMG Publishing'
-source: ''
 year: 1973
 medley: []
 id: 42015FA4-7BCB-4D97-AE44-5637689B9DDB

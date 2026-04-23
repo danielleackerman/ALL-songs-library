@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '6454274'
 copyright: Stolen Pride (Admin. by EMI Christian Music Publishing)
-source: ''
 year: ''
 medley: []
 id: 278D4026-5E66-459F-9D8D-3F7A4B6D9E89

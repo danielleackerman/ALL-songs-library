@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3458613'
 copyright: 2001 Sparrow Records
-source: ''
 year: ''
 medley: []
 id: E3582F17-78C4-480D-8CD6-A8108AAA2B2A

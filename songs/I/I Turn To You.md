@@ -9,6 +9,12 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Original key Db
 tags: []
 genre: []
 profile:
@@ -16,7 +22,6 @@ profile:
 keywords: contemp christian med slow
 ccli: '438743'
 copyright: 2004 Curb Songs / Todd Smith Pub
-source: Original key Db
 year: 2004
 medley: []
 id: 9CEC37C3-67D5-4DCD-B5EC-193F7FA1416E

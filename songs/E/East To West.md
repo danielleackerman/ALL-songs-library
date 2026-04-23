@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - mercy
   - rest
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -19,7 +24,6 @@ ccli: '4991313'
 copyright: >-
   2007 BanaHama Tunes / Word Music, LLC / SWECS Music / Club Zoo Music / My
   Refuge Music
-source: ''
 year: ''
 medley: []
 id: 61A0E16E-DCE4-462A-AE59-02CB4A981028

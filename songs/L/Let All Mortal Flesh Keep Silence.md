@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3476145'
 copyright: '2002 Word Music, LLC / Dejamesolo Music / John Andrew Schreiner Music'
-source: ''
 year: ''
 medley: []
 id: 009AFFE7-1C0A-43F3-94C6-1CFFB40652E4

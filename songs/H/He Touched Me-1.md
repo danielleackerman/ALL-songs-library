@@ -7,12 +7,17 @@ time_sig: 3/4
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - cleansing
   - healing
   - testimony
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-slow
@@ -20,7 +25,6 @@ profile:
 keywords: 'os apo slow, cleansing, healing, testimony, os southern gospel slow'
 ccli: '13072'
 copyright: '1964 William J. Gaither, Inc. ARR UBP of Gaither Copyright Management'
-source: ''
 year: ''
 medley:
   - '[[There''s Something About That Name]]'

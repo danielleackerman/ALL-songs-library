@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - hope
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2373672'
 copyright: 1997 New Spring / Vandura 2500 Songs / Gray Dot Songs
-source: ''
 year: ''
 medley: []
 id: 15DBECCC-9DE1-47C8-89AA-F8FF7DDE11FE

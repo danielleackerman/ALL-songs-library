@@ -7,17 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - angels
   - christ
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - 'This was a pretty quick try at the chart,'
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2648015'
 copyright: Public Domain
-source: 'This was a pretty quick try at the chart,'
 year: ''
 medley: []
 id: 5B679AAB-82CF-4EE0-A1E7-1BDF5EDA3EC3

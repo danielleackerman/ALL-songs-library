@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4027153'
 copyright: 2003 Provident Music Distribution Inc.
-source: ''
 year: ''
 medley: []
 id: CF3DC110-AD0D-43AA-A9A8-58BCBB2993B1

@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4831480'
 copyright: 2006 Consuming Fire Music
-source: ''
 year: ''
 medley: []
 id: 788C2F2A-09B8-4320-94AF-5F926C347AB3

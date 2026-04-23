@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
@@ -17,7 +22,6 @@ ccli: '4504339'
 copyright: >-
   2004 Thirsty Moon River Publishing / Stolen Pride / Spinning Audio Vortex,
   Inc. / L'Etoile Du Matin Music
-source: ''
 year: ''
 medley: []
 id: BEA1DB5A-988C-4673-87CE-36852EF07C69

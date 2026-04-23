@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - christ
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4867966'
 copyright: Consuming Fire Music
-source: ''
 year: ''
 medley: []
 id: 65F66E29-138D-47AC-9057-6CBD957C91B8

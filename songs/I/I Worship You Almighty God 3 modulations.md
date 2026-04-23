@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - almighty
+function:
   - worship
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-slow
 keywords: mod apo slow
 ccli: '224347'
 copyright: 1983 Integrity’s Hosanna Music
-source: ''
 year: ''
 medley:
   - '[[MORE THAN ANYTHING]]'

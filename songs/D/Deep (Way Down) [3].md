@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4337472'
 copyright: 2001 Curb Songs / Okapi One Music / Littleberace Music / Toolguy Music
-source: ''
 year: ''
 medley: []
 id: 54A69410-4050-4004-9711-5306A926056E

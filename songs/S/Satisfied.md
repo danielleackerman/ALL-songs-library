@@ -9,6 +9,11 @@ tempo: medium-slow
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -16,7 +21,6 @@ profile:
 keywords: os apo med slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 5FA5E765-9279-4E18-93C4-815EBFB17D90

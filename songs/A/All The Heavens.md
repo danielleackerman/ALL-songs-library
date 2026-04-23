@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - desire
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3118520'
 copyright: '2000 New Spring Publishing, Inc.'
-source: ''
 year: ''
 medley: []
 id: BBB4D167-4065-44A6-BD2F-4FBB880B6AF6

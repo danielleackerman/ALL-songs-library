@@ -7,17 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - grace
   - christ
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - 'Galatians 2:20'
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: 'Galatians 2:20'
 year: ''
 medley: []
 id: CFC3C4C4-6472-4518-87E8-5405A5AD7EB4

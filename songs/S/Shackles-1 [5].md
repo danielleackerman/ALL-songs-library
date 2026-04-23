@@ -8,16 +8,20 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-fast
 keywords: mod apo fast
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 131501B9-C0C0-4D8A-B8F1-BBBBA06E2B42

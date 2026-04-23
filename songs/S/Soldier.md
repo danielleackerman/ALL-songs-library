@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4446789'
 copyright: 2004 New Spring / Capilano Music
-source: ''
 year: ''
 medley: []
 id: 79D08372-A4B4-49A3-8FCC-83A39490AEFC

@@ -8,9 +8,14 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - worship
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -22,7 +27,6 @@ copyright: >-
   Publishing (BMI) / Tony Brown Music Designee (BMI) (admin by Bethel Worship
   Publishing) / Mouth of the River Music (BMI) (admin by Bethel Worship
   Publishing). All Rights Reserved. Used by Permission.
-source: ''
 year: ''
 medley: []
 id: 05BF71B9-BA22-402C-86F1-0ACAF413C4CA

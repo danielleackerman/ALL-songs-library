@@ -7,17 +7,21 @@ time_sig: 6/8
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - mercy
   - joy
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4012106'
 copyright: '2003 Bridge Building Music, Inc. / Pogostick Music / Innocent Smith'
-source: ''
 year: ''
 medley:
   - '[[THE BLOOD WILL NEVER LOSE ITS POWER]]'

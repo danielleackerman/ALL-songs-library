@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3591817'
 copyright: 2001 This Is Your Time Music
-source: ''
 year: ''
 medley: []
 id: CEC90B27-3E9C-4D5B-B0E3-22FBA3D7C74E

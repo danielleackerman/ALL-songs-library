@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - mercy
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5208562'
 copyright: 2008 Consuming Fire Music
-source: ''
 year: ''
 medley: []
 id: 47D1815F-835A-4141-8C72-67486A65002F

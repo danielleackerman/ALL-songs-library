@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - faith
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5631139'
 copyright: 2009 Alletrop Music / My Refuge Music
-source: ''
 year: ''
 medley: []
 id: 5C1A9D81-4663-40F2-A89A-85FCDF3C3850

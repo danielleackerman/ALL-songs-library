@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2000 40 Psalms Music
-source: ''
 year: ''
 medley: []
 id: 1A211A18-D9FA-4B12-9987-38AA96FAE8B4

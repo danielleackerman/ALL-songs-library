@@ -5,22 +5,27 @@ key: Bb
 bpm: '62'
 time_sig: 4/4
 meter: ''
-tempo: slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+tempo: medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+  - black-gospel-opera
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - black-gospel-opera
@@ -31,7 +36,6 @@ profile:
 keywords: 'mod apo slow, mod gospel slow'
 ccli: '14594484'
 copyright: 1994 Mercy / Vineyard Publishing (Admin. by Vineyard Music USA)
-source: ''
 year: ''
 medley:
   - '[[DRAW ME LORD]]'

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3912575'
 copyright: '2002 Simpleville Music / Songs From The Indigo Room / Wordspring Music, LLC'
-source: ''
 year: ''
 medley: []
 id: E6401C04-CE49-42B9-BB6B-2A758D6E67EE

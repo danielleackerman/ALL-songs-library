@@ -5,20 +5,23 @@ key: D
 bpm: '65'
 time_sig: ''
 meter: ''
-tempo: medium-slow
+tempo: medium
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
-  - ccli
-  - contemp-med
+context: []
+style: []
+tradition:
+  - contemporary
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: 'ccli, contemp med'
 ccli: '4437217'
 copyright: '2002 BMG Songs, Inc.'
-source: ''
 year: ''
 medley: []
 id: 3ADBFDD4-3552-4DE4-B6BD-31AD64CADE16

@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - heaven
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3118757'
 copyright: 2000 New Spring / Storm Boy Music / Meaux Mercy
-source: ''
 year: ''
 medley: []
 id: 9CB6808F-0414-4F55-B4CD-26D30953A17F

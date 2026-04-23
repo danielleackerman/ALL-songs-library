@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - father
   - truth
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2587468'
 copyright: '1998 Liturgy Legacy Music / Word Music, LLC'
-source: ''
 year: ''
 medley: []
 id: 5A3FD49A-5591-4D5C-8FC7-A04636CA5EEE

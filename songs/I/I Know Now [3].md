@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4733904'
 copyright: 2006 New Spring / Appstreet Music / Upper Cates Music
-source: ''
 year: ''
 medley: []
 id: 48B02DE7-B816-40FE-BE0E-EE929DB511C2

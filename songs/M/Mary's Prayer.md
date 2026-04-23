@@ -7,17 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
-  - baby
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3482366'
 copyright: 2005 New Sring / Appstreet Music
-source: ''
 year: ''
 medley: []
 id: F4BA23E9-6817-456B-87DD-0537ACCA9982

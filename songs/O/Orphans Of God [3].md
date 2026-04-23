@@ -7,10 +7,16 @@ time_sig: 4/4
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - grace
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Avalon / Lauren Talley
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +24,6 @@ ccli: '4675732'
 copyright: >-
   2006 Bridge Building Music, Inc. / Upright Grand Music / New Spring / Vacation
   Boy Music
-source: Avalon / Lauren Talley
 year: ''
 medley: []
 id: E58AF3D0-A579-433D-9B1A-78E435C2503D

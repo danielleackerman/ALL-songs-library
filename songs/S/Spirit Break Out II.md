@@ -7,17 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - heaven
-  - touching
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5833975'
 copyright: 2010 Thankyou Music
-source: ''
 year: ''
 medley: []
 id: BF90AF2F-E193-4563-9BC0-0AB43931ED4F

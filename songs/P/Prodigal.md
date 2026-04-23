@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - prodigal
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4578853'
 copyright: 2005 Club Zoo Music / SWECS Music
-source: ''
 year: ''
 medley: []
 id: EBE9A08E-26C3-4D4D-8DB4-80B4BAE0C477

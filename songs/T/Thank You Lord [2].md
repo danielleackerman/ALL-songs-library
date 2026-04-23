@@ -5,25 +5,29 @@ key: F
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme:
+  - thanksgiving
+function:
   - worship
-  - thank
+context:
   - offering
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +36,6 @@ profile:
 keywords: 'o. apo. slow, offering'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: C6CF0543-7871-461C-A0F1-919ADC438146

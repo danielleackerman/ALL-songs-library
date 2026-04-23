@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2007 Simpleville Music
-source: ''
 year: ''
 medley: []
 id: ECB8E94A-E0FC-4EAE-A884-CF491152913E

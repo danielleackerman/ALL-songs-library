@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
   - king
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2240585'
 copyright: '1997, 1999 Maranatha Praise, Inc.'
-source: ''
 year: ''
 medley: []
 id: A5905057-9B7B-48F7-8A99-9F772392C045

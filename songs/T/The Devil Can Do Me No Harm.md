@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style:
   - black-gospel
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-gospel-med-fast
 keywords: 'os gospel med fast, black gospel'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[UNDER THE BLOOD (NO HARM]]'

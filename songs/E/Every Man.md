@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - hope
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: '4991306'
 copyright: >-
   2007 BanaHama Tunes / Word Music, LLC / SWECS Music / Club Zoo Music / Birdboy
   Songs / Birdwing Music / My Refuge Music
-source: ''
 year: ''
 medley: []
 id: 787C53DB-5E64-4A06-8919-17023B5B7128

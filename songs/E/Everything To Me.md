@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3367577'
 copyright: 2001 Hillsong Publishing
-source: ''
 year: ''
 medley: []
 id: D29129A6-959C-40CE-8FF4-A499AACD67BD

@@ -7,19 +7,24 @@ time_sig: 3/4
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - heaven-home
 function: []
-tags:
-  - altar-songs
-  - home
-  - sutl
+context:
+  - altar
+style: []
+tradition: []
+use: []
+source:
+  - '9'
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - os-apo-slow
 keywords: 'os apo slow, sutl'
 ccli: '1161088'
 copyright: '1978 Word Music, LLC. (Admin. by Word Entertainment, LLC)'
-source: '9'
 year: ''
 medley:
   - '[[IF THAT ISN’T LOVE]]'

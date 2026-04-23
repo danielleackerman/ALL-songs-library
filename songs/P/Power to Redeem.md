@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - light
   - power
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -19,7 +24,6 @@ ccli: '7023313'
 copyright: >-
   © 2014 Wordspring Music, LLC (a div. of Word Music Group, Inc.)    
   CentricSongs (Admin. by Music Services, Inc.)     Flychild Publishing (Admin.
-source: ''
 year: ''
 medley: []
 id: 433FFA55-4B1B-467B-8FD6-E8F597CE4ED9

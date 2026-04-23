@@ -6,24 +6,28 @@ bpm: '66'
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - energetic
-  - medium-slow
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - jesus
-  - contemp-christian
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+  - ccm
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +35,6 @@ profile:
 keywords: contemp christian
 ccli: '6115180'
 copyright: 2011 Integrity's Praise! Music
-source: ''
 year: ''
 medley: []
 id: 9B491903-954A-4508-9345-B633AAAEBEA7

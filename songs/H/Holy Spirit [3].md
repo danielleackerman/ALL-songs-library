@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - presence
   - glory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '6087919'
 copyright: 2011 Jesus Culture
-source: ''
 year: ''
 medley: []
 id: DA68B6BC-50B6-47A9-B000-197319B85282

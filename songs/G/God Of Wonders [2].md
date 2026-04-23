@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - heaven
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3118757'
 copyright: Storm Boy Music (BMI) and Never Say Never Song
-source: ''
 year: ''
 medley: []
 id: CDEE9D8A-7DC4-4609-BCCF-A616206CF616

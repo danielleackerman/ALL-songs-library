@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - foundation
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-fast
 keywords: mod apo fast
 ccli: '3715112'
 copyright: '2002 Integrity''s Praise! Music / Pace''s Vision Music / Zomba Songs, Inc.'
-source: ''
 year: ''
 medley: []
 id: CBA6EAD5-B709-4C22-9880-BF68E910D71D

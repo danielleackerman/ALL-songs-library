@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - awesome
   - power
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5064359'
 copyright: 2007 Vertical Worship Songs
-source: ''
 year: ''
 medley: []
 id: 6186D261-B521-4F74-9DDE-2FFCAAA8B092

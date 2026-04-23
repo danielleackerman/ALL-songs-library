@@ -9,15 +9,19 @@ tempo: slow
 feel: []
 theme: []
 function: []
-tags:
+context: []
+style:
   - jesus-movement
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-christian-slow
 keywords: 'jesus movement, os christian slow'
 ccli: '14514'
 copyright: 1980 Birdwing Music/BMG Songs
-source: ''
 year: ''
 medley: []
 id: 35FDB4B6-8207-4783-99EE-95BB8DC5A977

@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - desire
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3504512'
 copyright: '2002 Word Music, LLC'
-source: ''
 year: ''
 medley: []
 id: 40686875-0FD7-4814-BCF3-6E2F6091F237

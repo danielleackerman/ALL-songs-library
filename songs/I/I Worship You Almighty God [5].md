@@ -6,27 +6,30 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: medium
-feel: []
-theme: []
-function: []
-tags:
+feel:
+  - reverential
+theme:
+  - almighty
+function:
+  - praise
+  - worship
+context: []
+style:
   - black-gospel
   - ccm
-  - choir
-  - choruses
-  - congregational
-  - contemporary
   - jesus-movement
   - maranatha
-  - medium
-  - medium-slow
-  - praise
-  - reverential
-  - solo-songs
   - southern-gospel
+tradition:
+  - contemporary
   - traditional
-  - worship
-  - almighty
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -34,7 +37,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 0FD05CEE-BA2A-4C82-91C6-477583DAB23B

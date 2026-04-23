@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - help
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '14514'
 copyright: '1980 Birdwing Music / BMG Songs, Inc.'
-source: ''
 year: ''
 medley: []
 id: 2C5F2F74-185F-4BF3-B122-F0767A29CDAC

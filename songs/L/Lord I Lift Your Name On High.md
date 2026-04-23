@@ -9,13 +9,18 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Capo on First Fret; All chords relative to capo
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '117947'
 copyright: '1989 Marantha Praise, Inc.'
-source: Capo on First Fret; All chords relative to capo
 year: ''
 medley: []
 id: C9ECA33D-9BD8-497A-935A-D2D8F14E0848

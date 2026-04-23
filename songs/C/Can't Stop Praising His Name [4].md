@@ -7,20 +7,25 @@ time_sig: ''
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-fast
-  - middle-eastern
+theme:
+  - the-name
+function:
   - praise
-  - solo-songs
+context: []
+style:
+  - black-gospel
+  - middle-eastern
+tradition:
+  - contemporary
   - traditional
-  - his-name
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - Praisin for the Victory
+tags: []
 genre: []
 profile:
   - >-
@@ -28,7 +33,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: Praisin for the Victory
 year: ''
 medley: []
 id: 67F9107E-94BB-4091-A2EF-295A7F9C124B

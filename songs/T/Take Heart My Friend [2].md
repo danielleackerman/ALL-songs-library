@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - friendship
 function: []
-tags:
-  - friend
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4407106'
 copyright: 2004 Curb Songs / Cerdo Verde Music / John Andrew Schreiner Music
-source: ''
 year: ''
 medley: []
 id: 927A8CDD-D4F4-453A-A08F-F43BDE320B16

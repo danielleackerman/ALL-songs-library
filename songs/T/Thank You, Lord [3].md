@@ -7,22 +7,25 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - thanksgiving
 function: []
-tags:
-  - thank
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-gospel-slow
 keywords: os gospel slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: CD2636BD-0A07-4F50-A489-C81BBE705611
 ---
-
 ## Sets Using This Song
 
 ```dataview

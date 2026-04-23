@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - river
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2758448'
 copyright: 1999 Sparrow Songs / Peach Hill Songs
-source: ''
 year: ''
 medley: []
 id: 1347023B-8EE2-4B65-8FDF-CC642BA08184

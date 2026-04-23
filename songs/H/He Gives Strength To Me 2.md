@@ -5,19 +5,23 @@ key: Gb
 bpm: '53'
 time_sig: ''
 meter: ''
-tempo: slow
+tempo: medium
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - strength
-  - maranatha-medium
+function: []
+context: []
+style:
+  - maranatha
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: maranatha medium
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 74009E03-B23F-46DF-B904-F575CD50E1ED

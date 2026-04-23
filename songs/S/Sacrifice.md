@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - sacrifice
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2001 Open Worship Music
-source: ''
 year: ''
 medley: []
 id: 3CDB5316-19C0-4A90-8EE5-3F4BDF632D88

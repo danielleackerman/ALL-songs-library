@@ -6,25 +6,27 @@ bpm: '75'
 time_sig: 4/4
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - energetic
-  - medium-slow
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - love
   - jesus
-  - med-slow
-  - jazz
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -36,7 +38,6 @@ ccli: '4476773'
 copyright: >-
   2002 Doulos Publishing | Warner TamerLane Publishing Company ( Maranatha!
   Music [Admin. by Music Services])|
-source: ''
 year: ''
 medley:
   - '[[SET A FIRE]]'

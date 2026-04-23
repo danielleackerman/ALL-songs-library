@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4194828'
 copyright: 2002 Integrity's Praise! Music
-source: ''
 year: ''
 medley: []
 id: 49768587-18BE-4627-B1BE-8C2E88EC0B31

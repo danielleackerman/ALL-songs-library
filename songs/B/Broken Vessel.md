@@ -6,25 +6,29 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - vessel
   - renewal
   - redemption
-  - med-slow
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - 'Original Key Eb, F'
+tags: []
 genre: []
 profile:
   - >-
@@ -34,7 +38,6 @@ profile:
 keywords: 'os apo slow, os gospel slow, renewal, redemption, med slow'
 ccli: '617148'
 copyright: '1968 Manna Music, Inc (Admin. by ClearBox Rights, LLC)'
-source: 'Original Key Eb, F'
 year: ''
 medley: []
 id: FFBA0D0D-85C4-4698-A89B-86F125E750A1

@@ -6,20 +6,24 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - cross
-  - traditional
-  - sutl
+feel:
   - energetic
+theme:
+  - cross
+function: []
+context: []
+style: []
+tradition:
+  - traditional
+use: []
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile: []
 keywords: 'traditional, sutl, energetic'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: A04217B6-74CF-42B6-ABE6-D9B6B50DD11E

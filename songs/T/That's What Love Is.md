@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: '4466824'
 copyright: >-
   2004 Word Music, LLC / TT Bloom Music Publishing / Wordspring Music, LLC /
   Soulwriter Music Company, Inc. / Bieck Music Publishing
-source: ''
 year: ''
 medley: []
 id: AA256FE5-EDF3-498B-B468-BD9A83144E64

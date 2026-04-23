@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - thanksgiving
 function: []
-tags:
-  - thank
+context:
   - offering
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-gospel-med
 keywords: 'os gospel med, offering'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 45AA0C74-463A-4ED5-A492-971112C3D0DF

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '6016351'
 copyright: 2011 Thankyou Music
-source: ''
 year: ''
 medley: []
 id: B808C26A-B6C8-4B47-AA51-9BAA24FE3906

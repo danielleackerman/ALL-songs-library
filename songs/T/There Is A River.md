@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - river
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4798516'
 copyright: '2006 Bridge Building Music, Inc. / Pogostick Music / Aniello Music'
-source: ''
 year: ''
 medley: []
 id: 584DC52D-734C-4197-AE7B-19B8A9268D01

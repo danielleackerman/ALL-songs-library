@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - christ
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '6454638'
 copyright: 2013 EWI
-source: ''
 year: ''
 medley: []
 id: 3AEFC1AE-9AE4-45C3-BBB6-D8928D59644B

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '125843'
 copyright: 1987 Mercy Publishing
-source: ''
 year: ''
 medley: []
 id: 9068FD66-AFD2-4A01-8E5F-6E4A0C9E8A6B

@@ -9,14 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
-  - baby
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '839225'
 copyright: '1991, 1993 Word Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: FA5BCFF4-1CB2-4568-B98C-537A55E5D8F3

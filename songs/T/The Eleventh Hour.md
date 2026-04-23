@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: '2002 Bridge Building Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: 42376400-ADD4-442A-B35D-16E63B61D86B

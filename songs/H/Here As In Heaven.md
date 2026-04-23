@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - heaven
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -19,7 +24,6 @@ ccli: '7051506'
 copyright: >-
   2015 Music by Elevation Worship Publishing (Admin. by Essential Music
   Publishing LLC)
-source: ''
 year: ''
 medley: []
 id: C7E8E83F-68BA-4AE6-A83A-A82C1F303D22

@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3600887'
 copyright: '2002 Bridge Building Music, Inc. / Pogostick Music'
-source: ''
 year: ''
 medley: []
 id: 309DD144-A239-4054-9A23-E45280053CA2

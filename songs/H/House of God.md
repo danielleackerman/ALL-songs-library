@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2001 Simpleville Music (Admin. by Fun Attic Music)
-source: ''
 year: ''
 medley: []
 id: D82E2944-8DAE-4C34-93FA-890E8D2A71F6

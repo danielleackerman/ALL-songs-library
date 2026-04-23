@@ -8,19 +8,23 @@ meter: ''
 tempo: medium
 feel: []
 theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -33,7 +37,6 @@ copyright: >-
   1994 DaviSongShop (Admin. by Capitol CMG Publishing former Gaither Admin.),
   Gaither Music Company, Admin. Gaither Copyright Management, Capitol CMG
   Publishing,Music Services, Inc.
-source: ''
 year: ''
 medley: []
 id: 0C72EE2D-0198-46BC-A412-F25782F849C0

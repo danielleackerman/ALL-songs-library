@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2222053'
 copyright: '1996 New Spring Publishing, Inc. / Big Man Little Man Music'
-source: ''
 year: ''
 medley: []
 id: 72A5E949-BFE4-42C6-864E-01789569F5D8

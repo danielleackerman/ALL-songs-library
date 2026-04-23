@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - king
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: Mills Music Inc. / International Korwin Dorp.
-source: ''
 year: ''
 medley: []
 id: D5698097-1D91-4EFC-B568-D58E61012E39

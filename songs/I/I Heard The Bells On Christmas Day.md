@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - men
   - peace
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '109663'
 copyright: Public Domain
-source: ''
 year: ''
 medley: []
 id: 1380633B-C1F4-4926-BA9F-B993FD21FBA9

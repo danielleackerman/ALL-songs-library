@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - alleluia
   - almighty
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '626713'
 copyright: '1990 Milene Music, Inc'
-source: ''
 year: ''
 medley: []
 id: E4D08DCD-93A4-4866-BB0E-79CFF2594593

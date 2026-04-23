@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - rest
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5208579'
 copyright: 2008 Consuming Fire Music
-source: ''
 year: ''
 medley: []
 id: CBE4D95E-8A81-44C9-9DEC-79C73C7C2EF5

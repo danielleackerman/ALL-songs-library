@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - longing
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '582716'
 copyright: '1988 BMG Songs, Inc.'
-source: ''
 year: ''
 medley: []
 id: DF2B2C08-8F5B-4FD4-9646-108E0D387FE4

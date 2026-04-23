@@ -7,19 +7,23 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - faithfulness
-  - praise
   - adoration
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-med
 keywords: 'os apo med, faithfulness, praise, adoration'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: A9824230-56A8-4159-A0E6-1FA12D3E7890

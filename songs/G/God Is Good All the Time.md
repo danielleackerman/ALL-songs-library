@@ -5,27 +5,30 @@ key: G
 bpm: '134'
 time_sig: ''
 meter: ''
-tempo: medium-fast
-feel: []
+tempo: medium
+feel:
+  - energetic
 theme: []
-function: []
-tags:
+function:
+  - praise
+  - worship
+context: []
+style:
   - black-gospel
   - ccm
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - energetic
   - jesus-movement
   - maranatha
-  - medium
-  - medium-fast
-  - praise
-  - solo-songs
   - southern-gospel
+tradition:
+  - contemporary
   - traditional
-  - worship
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -33,7 +36,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 13E8DB64-2532-41D6-A148-D76FCBF34021

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4926869'
 copyright: 2007 Vandura 2500 Songs / New Spring
-source: ''
 year: ''
 medley: []
 id: 68F9C258-DD62-45D8-B407-3671D8EF4CA9

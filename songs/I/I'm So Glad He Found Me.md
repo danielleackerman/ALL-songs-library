@@ -5,25 +5,28 @@ key: ''
 bpm: '65'
 time_sig: ''
 meter: ''
-tempo: medium-slow
+tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium
-  - praise
-  - slow
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - love
-  - home
+  - heaven-home
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +35,6 @@ profile:
 keywords: os southern gospel slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[HE CAME LOOKING FOR ME]]'

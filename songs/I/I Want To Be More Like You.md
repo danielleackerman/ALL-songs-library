@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '187692'
 copyright: 1989 Integrity's Hosanna! Music
-source: ''
 year: ''
 medley: []
 id: 2D42BF14-017B-4AE3-B07D-DF999D8B925B

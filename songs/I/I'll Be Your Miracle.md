@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2010 Consuming Fire Music
-source: ''
 year: ''
 medley: []
 id: 062B8B9D-4238-4BE8-8EC2-493D6978CB64

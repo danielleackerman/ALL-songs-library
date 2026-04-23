@@ -8,10 +8,15 @@ meter: ''
 tempo: slow
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
   - worship
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-slow
@@ -19,7 +24,6 @@ profile:
 keywords: 'mod apo slow, mod gospel slow'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 79AABF46-5186-45C7-9CAF-CA4C83EE6E6B

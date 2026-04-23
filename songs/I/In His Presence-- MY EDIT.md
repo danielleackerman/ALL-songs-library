@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - presence
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-slow
 keywords: mod apo slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[IN THE PRESENCE OF JEHOVAH]]'

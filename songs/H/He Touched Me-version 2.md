@@ -5,26 +5,30 @@ key: C
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - altar-songs
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - cleansing
   - healing
   - testimony
+function:
+  - worship
+context:
+  - altar
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -34,7 +38,6 @@ profile:
 keywords: 'os apo slow, cleansing, healing, testimony, os southern gospel slow'
 ccli: '13072'
 copyright: '1964 William J. Gaither, Inc. ARR UBP of Gaither Copyright Management'
-source: ''
 year: 1963
 medley:
   - '[[there''s something about that name]]'

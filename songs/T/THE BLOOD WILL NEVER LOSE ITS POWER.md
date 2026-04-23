@@ -5,23 +5,26 @@ key: A
 bpm: '76'
 time_sig: 3/4
 meter: ''
-tempo: medium-slow
+tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - blood
   - power
-  - med-slow
-  - andante
+function:
+  - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - Original Key Ab
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +34,6 @@ profile:
 keywords: 'os apo med, os gospel med, med slow, andante'
 ccli: '11885'
 copyright: '1966 Manna Music, Inc. (Admin. by ClearBox Rights, LLC)'
-source: Original Key Ab
 year: ''
 medley: []
 id: CD666C99-230F-4A90-B8A3-B71D812F2547

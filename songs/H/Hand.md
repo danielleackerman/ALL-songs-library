@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3093810'
 copyright: '1999 Bridge Building Music, Inc. / Pogostick Music (BMI)'
-source: ''
 year: ''
 medley: []
 id: 0A2BDACC-F9F7-43D4-91DA-EA08EBAE5355

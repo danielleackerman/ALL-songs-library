@@ -7,19 +7,24 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - holy-ghost
   - power
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - >-
+    I wish Somebodys soul would; Catch on Fire, Catch on Fire, Catch on Fire; I
+    wish Somebodys soul would; Catch on Fire
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: >-
-  I wish Somebodys soul would; Catch on Fire, Catch on Fire, Catch on Fire; I
-  wish Somebodys soul would; Catch on Fire
 year: ''
 medley: []
 id: B502438B-1019-4511-B4B8-836DB11B0863

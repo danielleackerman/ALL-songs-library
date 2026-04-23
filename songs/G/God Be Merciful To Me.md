@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - grace
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3251755'
 copyright: 1998 Christopher Miner
-source: ''
 year: ''
 medley: []
 id: 6FE5C800-E0A7-48A4-A7F1-1967BA632D04

@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
-  - thank
+  - thanksgiving
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4873895'
 copyright: 2006 Thirsty Moon River Publishing / Stolen Pride
-source: ''
 year: ''
 medley: []
 id: FAF25D2B-C417-4DCD-A1F5-D9B632EA6515

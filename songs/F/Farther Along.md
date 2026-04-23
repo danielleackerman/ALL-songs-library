@@ -9,15 +9,19 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
-  - altar-songs
+context:
+  - altar
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-slow
 keywords: os apo slow
 ccli: ''
 copyright: 2011 Josh Garrells
-source: ''
 year: ''
 medley: []
 id: 7C281405-76F7-4C68-AF1A-E00E084CD311

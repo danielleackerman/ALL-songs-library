@@ -5,23 +5,28 @@ key: Ab
 bpm: '79'
 time_sig: ''
 meter: ''
-tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
+theme: []
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - 'Sing Unto The Lord Songbook #5'
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +35,6 @@ profile:
 keywords: os apo med slow
 ccli: ''
 copyright: ''
-source: 'Sing Unto The Lord Songbook #5'
 year: ''
 medley: []
 id: 38010737-1C80-450D-9D1B-784E11F80BE0

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3295931'
 copyright: 1998 New Spring
-source: ''
 year: ''
 medley: []
 id: C765C2E5-5C2D-4866-A09B-7E8C1AFB8175

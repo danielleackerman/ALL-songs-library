@@ -9,8 +9,13 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
-  - ccli
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Original Key D; Michael O’Shields
+tags: []
 genre: []
 profile:
   - mod-apo-med
@@ -19,7 +24,6 @@ ccli: '11263'
 copyright: >-
   1981 MCA Music Publishing., A.D.O. Universal Studio, Sound III, Inc., Admin.
   by Universal Music Corp.
-source: Original Key D; Michael O’Shields
 year: ''
 medley: []
 id: 6294132E-07CD-47E2-AEAD-CBE542536AC6

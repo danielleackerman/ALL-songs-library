@@ -8,15 +8,19 @@ meter: ''
 tempo: medium-slow
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: A218BCED-0CD9-4631-8193-B9080B79E2A7

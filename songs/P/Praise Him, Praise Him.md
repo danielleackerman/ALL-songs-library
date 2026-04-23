@@ -8,18 +8,22 @@ meter: ''
 tempo: medium-fast
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style:
   - black-gospel
+tradition:
   - traditional
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-gospel-fast
 keywords: 'os gospel fast, black gospel, traditional'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: B7503392-88F1-45E6-AC21-53217AD0B923

@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - heaven
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3118757'
 copyright: '2000 New Spring Publishing, Inc.'
-source: ''
 year: ''
 medley: []
 id: 96D13F5B-7F47-42C0-8BD9-7AA8F77D7D88

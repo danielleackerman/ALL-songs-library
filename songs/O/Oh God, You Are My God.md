@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4854742'
 copyright: 2006 Curb Songs / Cerdo Verde Music
-source: ''
 year: ''
 medley: []
 id: 9E56B7C1-753E-4F7E-AF8F-29EDFDF49AA0

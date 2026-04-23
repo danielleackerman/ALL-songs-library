@@ -7,18 +7,22 @@ time_sig: 3/4
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - cross
+function:
+  - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -26,7 +30,6 @@ profile:
 keywords: ''
 ccli: '2128212'
 copyright: 1996 Shepherd Boy Music
-source: ''
 year: ''
 medley: []
 id: 178DFD8A-BBDB-43C2-BF6E-9011C0711A7F

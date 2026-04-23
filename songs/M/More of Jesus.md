@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '229354'
 copyright: '1983 Dayspring Music, LLC'
-source: ''
 year: ''
 medley: []
 id: 45E239B4-F0F9-495E-B0FB-7B147BC43FE4

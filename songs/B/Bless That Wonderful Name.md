@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-fast
@@ -18,7 +23,6 @@ profile:
 keywords: 'os apo fast, os gospel fast'
 ccli: '4104038'
 copyright: 1982 Fred Bock Music Company
-source: ''
 year: ''
 medley: []
 id: 94145597-B5C0-4846-86F6-0EAD3D1B300A

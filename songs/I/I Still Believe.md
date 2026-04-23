@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - belief
 function: []
-tags:
-  - believe
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2002 thirsty moon river
-source: ''
 year: ''
 medley: []
 id: 753B2A8D-EE8D-4647-9967-12EDA108D8C2

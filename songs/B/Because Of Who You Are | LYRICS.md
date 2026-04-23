@@ -8,18 +8,21 @@ meter: ''
 tempo: slow
 feel: []
 theme: []
-function: []
-tags:
+function:
   - worship
-  - gospel-ccli
-  - ccli
+context: []
+style:
+  - ccm-gospel
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-slow
 keywords: 'mod. apo. slow, gospel/ccli, ccli'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 9D8A3B99-6137-4454-9BF0-40854820C4AA

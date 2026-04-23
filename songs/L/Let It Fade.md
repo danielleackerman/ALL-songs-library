@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - grace
   - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -19,7 +24,6 @@ ccli: '4873668'
 copyright: >-
   2006 Thirsty Moon River Publishing / Stolen Pride / Seven Peaks Music / Dying
   Ego Music
-source: ''
 year: ''
 medley: []
 id: 1F246B2C-5D07-43E1-965F-F6606C4C29D8

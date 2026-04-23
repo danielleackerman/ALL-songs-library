@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3522989'
 copyright: 2001 New Spring Publishing
-source: ''
 year: ''
 medley: []
 id: F99ABF95-3874-4C04-972D-FCA83BA2B4C9

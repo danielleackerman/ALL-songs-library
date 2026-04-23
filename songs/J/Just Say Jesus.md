@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '7000701'
 copyright: '2013 Wordspring Music, LLC'
-source: ''
 year: ''
 medley: []
 id: 3587040A-261B-4A57-8A72-1EFE51F75212

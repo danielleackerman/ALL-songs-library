@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - king
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: '7046145'
 copyright: >-
   Meaux Jeaux Music (Admin. by Capitol CMG Publishing) Raucous Ruckus Publishing
   (Admin. by Capitol CMG Publishing) McMillan, Sarah
-source: ''
 year: ''
 medley: []
 id: 5A20C7A2-D015-46C9-AF2E-AB85B95A5371

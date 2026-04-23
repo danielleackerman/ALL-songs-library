@@ -8,9 +8,14 @@ meter: ''
 tempo: slow
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-slow
@@ -20,7 +25,6 @@ ccli: '4706656'
 copyright: >-
   2007 KCartunes Music (Admin. by Capitol CMG Publishing) Lilly Mack Music 
   (Admin. by Capitol CMG Publishing)
-source: ''
 year: ''
 medley: []
 id: D4AB9690-7A89-4C34-A96E-5DA134163D2C

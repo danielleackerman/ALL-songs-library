@@ -6,22 +6,27 @@ bpm: ''
 time_sig: 6/8
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - jesus
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - Sing Unto The Lord Songbook -11
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +35,6 @@ profile:
 keywords: os apo sl0w
 ccli: ''
 copyright: Public Domain
-source: Sing Unto The Lord Songbook -11
 year: 1887
 medley: []
 id: 6FF9EE7D-A0F7-43AD-846D-14B2AD10B4F7

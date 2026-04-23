@@ -6,22 +6,26 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: ''
-feel: []
-theme: []
-function: []
-tags:
-  - christ
-  - sutl
+feel:
   - anthemic
   - march
   - upbeat
+theme:
+  - christ
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - os-apo-med
 keywords: 'sutl, os apo med, anthemic, march, upbeat'
 ccli: '31803'
 copyright: Public Domain
-source: ''
 year: ''
 medley:
   - '[[DRAW ME NEARER]]'

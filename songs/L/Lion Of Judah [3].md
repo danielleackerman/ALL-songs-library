@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - father
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1079280'
 copyright: '1997 Daybreak Music, Ltd.'
-source: ''
 year: ''
 medley: []
 id: 55E23FC6-C250-45F1-A346-902FF909674E

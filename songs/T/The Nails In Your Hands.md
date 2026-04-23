@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '452444'
 copyright: 1995 Holland Davis
-source: ''
 year: ''
 medley: []
 id: 456E7307-92D6-4AA8-8E95-2299A7BCEAAE

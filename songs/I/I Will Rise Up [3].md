@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2618887'
 copyright: 1997 Doulos Publishing
-source: ''
 year: ''
 medley: []
 id: 2D0961EF-2C7A-4B54-B62D-4D5CB0432453

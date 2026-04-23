@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - heaven
   - holy-fire
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2489580'
 copyright: 1998 Vineyard Songs
-source: ''
 year: ''
 medley: []
 id: 0E30A3FD-CFFB-4D81-94CA-C3EA63038EDC

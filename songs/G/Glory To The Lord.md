@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3166211'
 copyright: 2000 Integrity's Hosanna! Music
-source: ''
 year: ''
 medley: []
 id: 2B259BB2-E49B-4ADF-9E92-CC31FFF6519F

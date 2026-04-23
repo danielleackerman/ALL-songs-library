@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - grace
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '17999'
 copyright: '1968 New Spring (Admin. by Brentwood-Benson Music Publishing, Inc.)'
-source: ''
 year: ''
 medley: []
 id: 0ADB3C08-6CE6-4019-BAEA-08E9002A7F54

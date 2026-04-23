@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1097451'
 copyright: 1995 Thankyou Music
-source: ''
 year: ''
 medley: []
 id: 59EE65D3-83A7-43E2-8291-6717409438F2

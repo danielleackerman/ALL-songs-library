@@ -7,21 +7,25 @@ time_sig: ''
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-fast
-  - middle-eastern
-  - praise
-  - solo-songs
-  - traditional
+theme:
   - angels
-  - friend
+  - friendship
+function:
+  - praise
+context: []
+style:
+  - black-gospel
+  - middle-eastern
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -29,7 +33,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 05E91FF9-11C2-4875-A802-6C7505564792

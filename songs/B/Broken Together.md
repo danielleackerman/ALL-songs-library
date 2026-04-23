@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - dreams
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '7009514'
 copyright: My Refuge Music
-source: ''
 year: ''
 medley: []
 id: 519456D2-BF87-4D9C-8247-A398BFCDFFBF

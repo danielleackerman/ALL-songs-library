@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - life
+  - belief
 function: []
-tags:
-  - alive
-  - believe
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4312222'
 copyright: 2004 Simpleville Music
-source: ''
 year: ''
 medley: []
 id: 222DD364-2B6E-43E0-8D72-E69A9AE902BA

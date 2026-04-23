@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - grace
   - christ
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2005 Bridge Building / Pogostick Music
-source: ''
 year: ''
 medley: []
 id: 245E2ABB-FF00-4273-9AA5-861647899CC1

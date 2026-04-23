@@ -5,25 +5,27 @@ key: C
 bpm: '76'
 time_sig: 4/4
 meter: ''
-tempo: medium-slow
+tempo: medium
 feel: []
 theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
-  - contemporary-christian-med
-  - ccli
+context: []
+style:
+  - black-gospel
+  - southern-gospel
   - ccm
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +33,6 @@ profile:
 keywords: 'contemporary christian med, ccli, ccm'
 ccli: '4348399'
 copyright: 2004 worshiptogether.com songs / sixsteps Music / Alletrop Music
-source: ''
 year: ''
 medley: []
 id: 3FF87EC4-0BDD-4FF2-AFA0-77E6F0937768

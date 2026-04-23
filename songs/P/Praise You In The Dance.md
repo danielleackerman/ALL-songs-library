@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - dance
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4196606'
 copyright: 2003 My Refuge Music Sony/ATV Tree Publishing
-source: ''
 year: ''
 medley: []
 id: 2D88904E-0DDF-4F06-9982-03AE149001FC

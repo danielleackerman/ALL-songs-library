@@ -5,24 +5,30 @@ key: F
 bpm: '120'
 time_sig: 4/4
 meter: ''
-tempo: medium-fast
-feel: []
-theme: []
-function: []
-tags:
-  - altar-songs
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: fast
+feel:
   - high-energy
-  - medium-fast-shouting
+  - shouting
+theme: []
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
+context:
+  - altar
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - '1974'
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +37,6 @@ profile:
 keywords: os apo fast
 ccli: '97861'
 copyright: '1974 Exaltation Music, Admin. Ministry Management Associates'
-source: '1974'
 year: ''
 medley:
   - '[[Enemy’s Camp]]'

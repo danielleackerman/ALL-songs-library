@@ -7,19 +7,22 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - jesus
-  - touching
+function:
+  - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -29,7 +32,6 @@ profile:
 keywords: 'os apo slow, os apo med'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 58FFF65E-0A1A-4F91-B682-93CE23A8895B

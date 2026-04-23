@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4347981'
 copyright: '2004 Word Music, Inc. / Sweater Weather Music / Rocketown Music, LLC.'
-source: ''
 year: ''
 medley: []
 id: 96586B5D-0498-4C0D-9EF2-784F720CAA63

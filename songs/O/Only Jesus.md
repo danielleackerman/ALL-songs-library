@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - rest
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4807861'
 copyright: '2006 Word Music, LLC / Weave Country'
-source: ''
 year: ''
 medley: []
 id: 6CD389B7-378C-4E21-8830-D262C37558CA

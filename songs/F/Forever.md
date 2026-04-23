@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - help
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2316866'
 copyright: '1996 New Spring Publishing, Inc. / Little Man Big Man Music / gray dot songs'
-source: ''
 year: ''
 medley: []
 id: 8BC800F9-DDCC-4918-AD41-287534F9DC8C

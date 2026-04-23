@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
   - breakthrough
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-med
@@ -19,7 +24,6 @@ profile:
 keywords: 'os apo med, os gospel med, breakthrough,'
 ccli: '1619808'
 copyright: '1947 James D. Vaughn, Music Publisher (Admin. by Music Services, Inc.)'
-source: ''
 year: ''
 medley: []
 id: 763BED95-1F97-4F7F-A6D3-21AA8A5F8E65

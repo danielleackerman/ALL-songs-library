@@ -5,23 +5,27 @@ key: G
 bpm: '64'
 time_sig: ''
 meter: ''
-tempo: slow
+tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - ccm
-  - choir
-  - choruses
-  - congregational
-  - jesus-movement
-  - maranatha
-  - medium
-  - praise
-  - solo-songs
-  - worship
+theme:
   - jesus
   - king
+function:
+  - praise
+  - worship
+context: []
+style:
+  - ccm
+  - jesus-movement
+  - maranatha
+tradition: []
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -29,7 +33,6 @@ profile:
 keywords: ''
 ccli: '12877'
 copyright: '1981 Dayspring Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: F45642A5-5C1A-42DA-BE66-2328EA221B46

@@ -6,24 +6,29 @@ bpm: '145'
 time_sig: ''
 meter: ''
 tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - high-energy
-  - medium-fast-shouting
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+  - shouting
+theme:
   - jesus
   - gratitude
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -33,7 +38,6 @@ profile:
 keywords: 'os apo med, os gospel fast, gratitude'
 ccli: '433463'
 copyright: '1982 Bud Johns Songs, Inc.'
-source: ''
 year: ''
 medley:
   - '[[JESUS ON THE MAINLINE]]'

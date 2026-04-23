@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - savior
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1848569'
 copyright: 1995 Pogostick Music
-source: ''
 year: ''
 medley: []
 id: CF5B0306-7EB6-4CE6-9621-CA111C7D5989

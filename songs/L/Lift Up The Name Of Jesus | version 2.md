@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - contemp-christian-med
 keywords: contemp christian med
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 3A0507F1-B499-43E2-901F-97C06E361833

@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - christ
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '36750'
 copyright: Public Domain
-source: ''
 year: ''
 medley: []
 id: EC85FE88-5250-4C46-BA04-2212BC63EC6A

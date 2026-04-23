@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - lullaby
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4630337'
 copyright: 2005 Simpleville Music / Banistuci Music
-source: ''
 year: ''
 medley: []
 id: CED2C0AA-2C95-4BFA-838F-91338FCE11C4

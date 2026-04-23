@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
+theme:
+  - the-name
+function:
   - worship
-  - his-name
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -28,7 +32,6 @@ profile:
 keywords: 'mod apo slow,  contemp christian slow'
 ccli: '3832019'
 copyright: 1999 Marcia Henry Music (Admin. by Capitol CMG Publishing)
-source: ''
 year: ''
 medley: []
 id: E016FA73-3290-492A-865A-B0AF5DF0BED4

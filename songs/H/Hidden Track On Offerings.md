@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2000 Essential Records
-source: ''
 year: ''
 medley: []
 id: 0E10C292-D28C-4BDA-B99A-344578EA03D2

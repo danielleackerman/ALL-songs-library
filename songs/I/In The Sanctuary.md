@@ -7,18 +7,23 @@ time_sig: ''
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - rest
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Original key F
+tags: []
 genre: []
 profile:
   - cont-gospel-med
 keywords: cont gospel med
 ccli: '3324039'
 copyright: 2001 KCartunes Music / Lilly Mack Music
-source: Original key F
 year: ''
 medley: []
 id: DF275925-A964-47FC-979A-595CD2976623

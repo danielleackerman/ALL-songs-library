@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '6355809'
 copyright: 2010 Shoecrazy Publishing
-source: ''
 year: ''
 medley: []
 id: 54205F70-6396-4B3A-8E13-6738F5C48344

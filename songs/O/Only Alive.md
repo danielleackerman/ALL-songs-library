@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - life
 function: []
-tags:
-  - alive
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: '2003 Bridge Building Music, Inc. / Pogostick Music / BMI'
-source: ''
 year: ''
 medley: []
 id: 260D8338-04C6-4011-98A5-C023FD22FCB2

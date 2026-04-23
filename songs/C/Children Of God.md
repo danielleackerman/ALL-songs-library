@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - children
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5856024'
 copyright: 2010 Songs from the Quarry
-source: ''
 year: ''
 medley: []
 id: 08D09363-4165-42F7-AA0F-C0C9E117C59B

@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - presence
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - apo-mod-slow
 keywords: apo mod slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 4CCA0577-1776-4004-94FD-2B2545EE8876

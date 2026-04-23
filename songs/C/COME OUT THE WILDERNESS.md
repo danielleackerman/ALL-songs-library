@@ -7,12 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - conversion
   - joy
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - >-
+    ORIGINAL KEY Bb; How did you feel when you come out the wilderness; How did
+    you feel when you came out the wilderness
+tags: []
 genre: []
 profile:
   - os-apo-med
@@ -20,9 +28,6 @@ profile:
 keywords: 'os apo med, os gospel med, conversion, joy'
 ccli: ''
 copyright: ''
-source: >-
-  ORIGINAL KEY Bb; How did you feel when you come out the wilderness; How did
-  you feel when you came out the wilderness
 year: 1962
 medley: []
 id: A3E411D5-E4D1-403A-AC01-8202E4A0376B

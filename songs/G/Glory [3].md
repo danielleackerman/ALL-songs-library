@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - glory
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-slow
@@ -19,7 +24,6 @@ profile:
 keywords: 'mod apo slow, contemp christian slow'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: BF7858AC-2973-4960-8AB6-00CB25F5CCE8

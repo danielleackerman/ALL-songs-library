@@ -7,12 +7,17 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - holiness
   - presence
   - righteousness
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-slow
@@ -20,7 +25,6 @@ profile:
 keywords: 'mod apo slow, mod gospel slow, holiness, presence, righteousness'
 ccli: '457946'
 copyright: '2005 Brown, Clint, Admin. CSB Ministries, Inc.'
-source: ''
 year: ''
 medley: []
 id: 300AD7B8-4229-4D65-B7A1-0071509919E8

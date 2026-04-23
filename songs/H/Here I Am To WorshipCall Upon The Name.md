@@ -8,15 +8,19 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - worship
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3266032'
 copyright: 2000 Thankyou Music
-source: ''
 year: ''
 medley: []
 id: 8B3FF3C6-3D29-4F03-B4F3-5BE2C20DC7C5

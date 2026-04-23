@@ -9,13 +9,18 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - This is a solo guitar version.
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3479867'
 copyright: 2001 Simpleville Music
-source: This is a solo guitar version.
 year: ''
 medley: []
 id: D7210225-B109-4D0E-9F97-19059DF43498

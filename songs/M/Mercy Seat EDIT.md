@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - mercy
   - grace
+function: []
+context: []
+style: []
+tradition:
   - contemporary
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: contemporary
 ccli: ''
 copyright: 2003 EMI Gospel / Pure Springs
-source: ''
 year: ''
 medley: []
 id: 0520DFE7-63E1-47BB-84A8-D14EC37B7752

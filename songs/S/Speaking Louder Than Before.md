@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5322266'
 copyright: 2008 Thirsty Moon River Publishing / Stolen Pride Music
-source: ''
 year: ''
 medley: []
 id: 05EB370E-1DC7-4B4B-B98C-026F70E14DF3

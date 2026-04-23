@@ -7,18 +7,23 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function:
   - praise
+context: []
+style:
+  - black-gospel-opera
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - black-gospel-opera
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 24AAC3A6-75C7-487F-9FD2-89EEAB1B0A00

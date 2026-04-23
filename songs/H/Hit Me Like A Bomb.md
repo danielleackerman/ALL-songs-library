@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '6452317'
 copyright: Third Day
-source: ''
 year: ''
 medley: []
 id: 574511C3-40ED-45C0-A33C-657319D8D6B1

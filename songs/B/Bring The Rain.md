@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4770486'
 copyright: 2006 Simpleville Music / Wet As A Fish Music
-source: ''
 year: ''
 medley: []
 id: 49DCBC72-4784-4992-B999-0FBCEDD99A21

@@ -9,8 +9,13 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
-  - os-christian
+context: []
+style: []
+tradition:
+  - old-school
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: os christian
@@ -19,7 +24,6 @@ copyright: >-
   1989 Universal-Polygram International Publishing, Inc. (Admin. by Universal
   Music  Corp.) Utterbach Music Publishing Company (Admin. by Universal Music
   Corp.)
-source: ''
 year: ''
 medley: []
 id: B1EDE4F4-5C23-433A-9793-E27D5D6B6639

@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - dance
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4506090'
 copyright: '2005 Word Music, LLC'
-source: ''
 year: ''
 medley: []
 id: 92B3A8E1-8A95-4FAD-9F01-BA058BC81077

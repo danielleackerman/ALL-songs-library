@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4706175'
 copyright: '2005 Word Music, LLC'
-source: ''
 year: ''
 medley: []
 id: BF11D044-4378-42F0-B32B-BC0CF921AA92

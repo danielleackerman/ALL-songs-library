@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - faith
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: '2002 Bridge Building Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: B9AC55DB-53C0-4B8D-8A0B-9D3FDA4817F8

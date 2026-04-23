@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5925687'
 copyright: 2011 worshiptogether.com songs
-source: ''
 year: ''
 medley: []
 id: 1A1F6BC8-7271-4308-9FCD-FB3642553721

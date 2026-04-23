@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
@@ -17,7 +22,6 @@ ccli: '3118661'
 copyright: >-
   2000 New Spring Publishing, Inc. (Admin. by Brentwood-Benson Music Publishing,
   Inc., 741 Cool Springs Blvd., Franklin TN 37067)
-source: ''
 year: ''
 medley: []
 id: EEDA690B-391E-40A1-9251-CB596CE76999

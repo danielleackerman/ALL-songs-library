@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2298355'
 copyright: 1997 Integrity's Hosanna! Music
-source: ''
 year: ''
 medley: []
 id: 24092547-C501-4AB8-A6D2-3DBE4264B858

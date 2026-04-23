@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3190830'
 copyright: '1996 Rocketown Music, LLC. / Word Music, LLC / Sweater Weather Music'
-source: ''
 year: ''
 medley: []
 id: A28318C0-3B82-4213-A3E4-E0B6EDFE351E

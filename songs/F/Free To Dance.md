@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - dance
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 1999 Darlene Zschech (Hillsong)
-source: ''
 year: ''
 medley: []
 id: E97A72FE-6A17-4241-98E1-C92E0597D0CF

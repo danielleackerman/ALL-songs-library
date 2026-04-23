@@ -5,15 +5,19 @@ key: Bb
 bpm: '129'
 time_sig: ''
 meter: ''
-tempo: medium-fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - fast-funky
+tempo: fast
+feel:
+  - funky
+theme:
   - revival
-  - med-fast
+function: []
+context: []
+style:
+  - black-gospel
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - black-gospel-fast-funky
@@ -22,7 +26,6 @@ profile:
 keywords: 'mod apo fast, contemp christian fast, med fast'
 ccli: '4697590'
 copyright: 2003 Integrity's Praise! Music (Admin. Capitol CMG Publishing (IMI))
-source: ''
 year: ''
 medley: []
 id: 3CDD8D16-979A-449E-B9C6-CDDCAE24811C

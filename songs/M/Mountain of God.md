@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3930980'
 copyright: 2002 New Spring Publishing / Banistuci Music
-source: ''
 year: ''
 medley: []
 id: AE1CD2EA-65A6-400C-A7A0-C9E88EAAA93F

@@ -7,18 +7,23 @@ time_sig: ''
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style:
   - bluegrass
+tradition: []
+use: []
+source:
+  - 'In the Name of Jesus,'
+tags: []
 genre: []
 profile:
   - os-apo-fast
 keywords: 'os apo fast, bluegrass'
 ccli: ''
 copyright: ''
-source: 'In the Name of Jesus,'
 year: ''
 medley: []
 id: 96A8982D-D4E6-40CE-B5CB-E4C111765F23

@@ -9,14 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
-  - teach
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2005 Willow Branch Publishing / Giggle Hounds Music / Chloe's college Music
-source: ''
 year: ''
 medley: []
 id: 88902BFB-85FC-412E-BF4E-068CF26E2476

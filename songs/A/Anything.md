@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4027043'
 copyright: 2003 Consuming Fire Music
-source: ''
 year: ''
 medley: []
 id: 9F696DE1-2DFA-496F-A9A5-188A4B10CD9D

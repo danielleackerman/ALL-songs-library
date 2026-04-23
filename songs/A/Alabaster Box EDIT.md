@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -16,7 +21,6 @@ profile:
 keywords: cont. gospel slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: DD8B4898-4C27-4793-89F9-E8AA2CB4417A

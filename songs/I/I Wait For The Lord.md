@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3327672'
 copyright: 1996 Calvary Chapel Music
-source: ''
 year: ''
 medley: []
 id: F04DA9A0-D1A7-44C0-8C16-D92560BC342B

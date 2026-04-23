@@ -8,15 +8,19 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - worship
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2296522'
 copyright: 1997 Thankyou Music
-source: ''
 year: ''
 medley: []
 id: D94CCBD9-BF76-4461-93C4-FFC657CA0161

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2477695'
 copyright: 1996 Lmbsbro Music
-source: ''
 year: ''
 medley: []
 id: 6E518E36-2780-4242-8A16-4D035A3E44B5

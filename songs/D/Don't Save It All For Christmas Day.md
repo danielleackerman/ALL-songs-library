@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 1998 Duffield Corp. / Pez Music / Connotation Music
-source: ''
 year: ''
 medley: []
 id: 61751B9E-8D86-4914-B5F5-D539A367F16D

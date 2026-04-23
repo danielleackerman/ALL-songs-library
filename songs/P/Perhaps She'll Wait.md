@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - wonder
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3428313'
 copyright: '2000 New Spring Publishing, Inc. / Appstreet Music'
-source: ''
 year: ''
 medley: []
 id: E6270767-F0D6-42A6-9C1F-5A957C44F350

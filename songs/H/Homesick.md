@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - home
+theme:
+  - heaven-home
   - strength
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4312181'
 copyright: 2004 Simpleville Music
-source: ''
 year: ''
 medley: []
 id: 4D98CC33-B0E5-4E99-8A78-7F82BE3F6B97

@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: medium-fast
 feel: []
-theme: []
+theme:
+  - the-name
 function: []
-tags:
-  - his-name
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[SING UNTO THE LORD A NEW SONG]]'

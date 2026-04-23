@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
-  - friend
+  - friendship
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2001 Open Worship Music Inc.
-source: ''
 year: ''
 medley: []
 id: 24CBAB60-F978-4714-BE15-6574B3A1B847

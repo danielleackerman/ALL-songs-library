@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - greatness
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-fast
@@ -21,7 +26,6 @@ ccli: '571215'
 copyright: >-
   1984 Integrity's Hosanna! Music, Admin. by Capitol CMG Publishing (Integrity
   Music [DC Cook])
-source: ''
 year: ''
 medley:
   - '[[I WILL SING (UNTO THE LORD]]'

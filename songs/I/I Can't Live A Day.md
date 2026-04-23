@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1952180'
 copyright: 1995 Ariose Music
-source: ''
 year: ''
 medley: []
 id: 5A747693-E6A9-4F9D-9FD4-D7A3004600E5

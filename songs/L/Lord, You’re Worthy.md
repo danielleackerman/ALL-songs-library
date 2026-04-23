@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '791332'
 copyright: '1992 His Spirit Music, Administrators: Music Services, Inc.'
-source: ''
 year: ''
 medley: []
 id: 514322EC-AA93-4BB9-A8A2-E2DB8EC950F1

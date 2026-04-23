@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '7039076'
 copyright: 2015 Open Hands Music
-source: ''
 year: ''
 medley: []
 id: B7121AC8-AB2E-460D-B563-FDFAEC8E1A28

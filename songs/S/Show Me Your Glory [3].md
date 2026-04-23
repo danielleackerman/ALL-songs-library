@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3522989'
 copyright: 2001 New Spring Publishing / Meaux Mercy
-source: ''
 year: ''
 medley: []
 id: F66A32A0-97BB-4F17-A8C1-610F8FE3D711

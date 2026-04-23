@@ -7,17 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
+theme:
+  - thanksgiving
 function: []
-tags:
-  - thank
+context: []
+style:
+  - black-gospel-opera
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - black-gospel-opera
 keywords: ''
 ccli: '18211'
 copyright: '1971 Manna Music, Inc. ARR UBP of Manna Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: F2DAC698-06CD-4DA3-A6AE-A6224A080B47

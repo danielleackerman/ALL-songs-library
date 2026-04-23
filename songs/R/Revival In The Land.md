@@ -7,20 +7,25 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
+theme:
+  - revival
+function:
+  - praise
+  - worship
+context: []
+style:
   - ccm
-  - choir
-  - choruses
-  - congregational
   - jesus-movement
   - maranatha
-  - medium
-  - praise
-  - solo-songs
-  - worship
-  - revival
+tradition: []
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - Renee Morris
+tags: []
 genre: []
 profile:
   - >-
@@ -28,7 +33,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: Renee Morris
 year: ''
 medley: []
 id: C7E62FA5-24C4-4B37-84D9-557E6D50A4EF

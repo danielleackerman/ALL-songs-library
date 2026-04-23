@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1657286'
 copyright: 1994 D’Vine Music
-source: ''
 year: ''
 medley: []
 id: 7FFD4692-CC37-45A0-99E0-B067EE4B42EA

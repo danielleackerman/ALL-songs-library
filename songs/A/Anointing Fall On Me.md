@@ -5,27 +5,28 @@ key: C
 bpm: '68'
 time_sig: ''
 meter: ''
-tempo: medium-slow
+tempo: slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - holy-ghost
   - power
-  - contemporary
-  - classic
+function:
   - worship
-  - slow
-  - invitation
+context:
   - altar
+style: []
+tradition:
+  - contemporary
+use:
   - solo
+source: []
+tags: []
 genre: []
 profile:
   - mod-gospel-slow
 keywords: 'mod gospel slow, contemporary, classic, worship, slow, invitation, altar, solo'
 ccli: '859126'
 copyright: '1992 New Spring, Admin. Brentwood-Benson Music Publishing, Inc.'
-source: ''
 year: ''
 medley: []
 id: 6887B1DB-02F5-4D29-A74C-45E8D587A94D

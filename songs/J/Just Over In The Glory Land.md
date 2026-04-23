@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
-  - sutl
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - os-apo-med
 keywords: 'os apo med, sutl'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: DF98214E-4FCF-4B0D-82D5-B400AFCF8B35

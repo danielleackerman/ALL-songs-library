@@ -7,17 +7,22 @@ time_sig: ''
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - ORIGINAL KEY Ab
+tags: []
 genre: []
 profile:
   - os-gospel-med-slow
 keywords: os gospel med slow
 ccli: '14260'
 copyright: '1973 Bud John Songs, Inc.'
-source: ORIGINAL KEY Ab
 year: 1983
 medley: []
 id: 3967FFF7-5670-44CA-B7CC-FF0630531691

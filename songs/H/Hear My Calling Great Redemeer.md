@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - calling
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3205213'
 copyright: 1997 MargeeDays Music
-source: ''
 year: ''
 medley: []
 id: D2754E32-285D-44A3-9A2F-85286367145F

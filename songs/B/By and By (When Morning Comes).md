@@ -9,6 +9,12 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - '169'
 tags: []
 genre: []
 profile:
@@ -16,7 +22,6 @@ profile:
 keywords: os apo med
 ccli: ''
 copyright: ''
-source: '169'
 year: ''
 medley: []
 id: DBB0BA64-954E-4944-8FFB-7E08BD4BCAC3

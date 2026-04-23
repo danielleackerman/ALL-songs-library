@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5077054'
 copyright: 2007 My Refuge Music / Club Zoo Music / SWECS Music
-source: ''
 year: ''
 medley: []
 id: 945B7C42-8198-4D35-9E58-B66F42F1CDF9

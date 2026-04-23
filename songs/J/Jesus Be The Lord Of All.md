@@ -7,12 +7,18 @@ time_sig: 4/4
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
-  - altar-songs
+theme:
   - jesus
   - guidance
+function: []
+context:
+  - altar
+style: []
+tradition: []
+use: []
+source:
+  - Original Key F
+tags: []
 genre: []
 profile:
   - os-apo-slow
@@ -20,7 +26,6 @@ profile:
 keywords: 'os apo slow, guidance, lordship of jesus'
 ccli: '7291'
 copyright: '1975 Lanny Wolfe Music, Admin. Capitol CMG Publishing'
-source: Original Key F
 year: ''
 medley:
   - '[[I WILL GIVE YOU ALL]]'

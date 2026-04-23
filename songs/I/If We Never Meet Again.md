@@ -5,21 +5,26 @@ key: E
 bpm: '65'
 time_sig: 3/4
 meter: ''
-tempo: medium-slow
+tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - heaven
   - life
+function:
+  - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - 'ORIGINAL KEY Eb, F'
+tags: []
 genre: []
 profile:
   - >-
@@ -28,7 +33,6 @@ profile:
 keywords: os southern gospel slow
 ccli: '107627'
 copyright: '1945 Stamps Quartet Music (Admin. by ClearBox Rights, LLC)'
-source: 'ORIGINAL KEY Eb, F'
 year: ''
 medley: []
 id: A1EE5057-F7CA-4BB0-88D7-FF0D38B91372

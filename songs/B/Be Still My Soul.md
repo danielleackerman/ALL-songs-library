@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3123591'
 copyright: 1991 Discovery House Music
-source: ''
 year: ''
 medley: []
 id: D9BC5D28-2996-4E80-88DC-884C2052C008

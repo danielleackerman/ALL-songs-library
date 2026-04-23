@@ -5,26 +5,30 @@ key: Eb
 bpm: '56'
 time_sig: ''
 meter: ''
-tempo: slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+tempo: medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - presence
-  - praise
   - reverence
   - thanksgiving
+function:
+  - worship
+  - praise
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -34,7 +38,6 @@ profile:
 keywords: 'mod apo slow, cont gospel slow, praise, worship, reverence, thanksgiving'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: D9B69637-816F-4412-8FD5-D5E3EAD50A55

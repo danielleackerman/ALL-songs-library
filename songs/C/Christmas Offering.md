@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - honor
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3956562'
 copyright: '2008 Provident Label Group, LLC'
-source: ''
 year: ''
 medley: []
 id: 2BB9E13F-05D2-4A14-97B5-B05BF8E8BB47

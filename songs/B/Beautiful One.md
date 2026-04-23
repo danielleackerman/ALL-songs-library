@@ -7,16 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Jeremy Camp
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3915912'
 copyright: 2002 Thankyou Music
-source: Jeremy Camp
 year: ''
 medley: []
 id: 1D35D4B6-6AF4-41EF-B401-95EA715D6BB3

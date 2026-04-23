@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '458620'
 copyright: 1990 Integrity's Hosanna! Music
-source: ''
 year: ''
 medley: []
 id: 7BF85832-7505-4DA6-90B9-6AE0C65C487A

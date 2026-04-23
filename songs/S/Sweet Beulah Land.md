@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '65752'
 copyright: 1979 Kingsmen Publishing Company
-source: ''
 year: ''
 medley: []
 id: E0E2E700-6040-47F6-8632-658CA054634B

@@ -7,17 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
-  - teaching
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4196589'
 copyright: 2003 SWECS Music
-source: ''
 year: ''
 medley: []
 id: 800C9E88-1F7D-4356-B9AD-04E1C29B9CEB

@@ -8,15 +8,19 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2287995'
 copyright: '1997 Dayspring Music, LLC / MareeDays Music'
-source: ''
 year: ''
 medley: []
 id: EFE7AD5C-A8D9-497A-A7FF-EB793A22A7A6

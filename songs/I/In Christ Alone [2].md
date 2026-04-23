@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - christ
   - cross
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '841440'
 copyright: 1990 Paragon Music Corporation
-source: ''
 year: ''
 medley: []
 id: 7A98ED44-18F6-467E-BB78-A9A79B987A47

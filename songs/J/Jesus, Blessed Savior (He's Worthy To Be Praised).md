@@ -7,19 +7,24 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function:
   - praise
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - >-
+    Praise Him,  Praise Him,  Praise Him,  Praise Him; Jesus,  blessed Savior 
+    He's worthy to be praised
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: >-
-  Praise Him,  Praise Him,  Praise Him,  Praise Him; Jesus,  blessed Savior 
-  He's worthy to be praised
 year: ''
 medley: []
 id: CF4ECFFE-4519-437A-8A0A-274D2EC88624

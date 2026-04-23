@@ -9,6 +9,11 @@ tempo: medium
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -16,7 +21,6 @@ profile:
 keywords: os gospel fast
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[SOMEBODY TOUCHED ME]]'

@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - sorrow
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -18,7 +23,6 @@ ccli: '5183450'
 copyright: >-
   2008 Vamos Publishing / worshiptogether.com songs / sixsteps Music / Thankyou
   Music / spiritandsong.com
-source: ''
 year: ''
 medley: []
 id: 905E7FC5-D1B5-4325-8BF8-7B7BA27C09EA

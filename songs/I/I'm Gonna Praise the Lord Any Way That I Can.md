@@ -7,19 +7,23 @@ time_sig: ''
 meter: ''
 tempo: fast
 feel: []
-theme: []
-function: []
-tags:
+theme:
+  - rejoicing
+function:
   - praise
-  - rejoice
-  - os-apo
+context: []
+style: []
+tradition:
+  - old-school
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-southern-gospel
 keywords: 'os apo , os southern gospel, praise'
 ccli: ''
 copyright: 1985 Lanny Wolfe Music (Admin. Capitol CMG Publishing)
-source: ''
 year: ''
 medley: []
 id: 404068DE-DCF6-46D4-BDFE-5A89C25DD594

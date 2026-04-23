@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - commitment
   - declaration
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-slow
@@ -19,7 +24,6 @@ profile:
 keywords: 'os apo slow, os gospel slow, commitment, declaration'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: A069CE93-49CF-4B99-92E4-91E20FF65717

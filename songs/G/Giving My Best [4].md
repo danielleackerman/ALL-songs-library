@@ -7,19 +7,23 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
-  - worship
+theme:
   - love
   - giving
+function:
+  - worship
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +34,6 @@ ccli: '1203702'
 copyright: >-
   1992 Dayspring Music, LLC, Brooklyn Tabernacle Music | Admin. Word Music
   Group, Inc., ClearBox Rights, LLC
-source: ''
 year: ''
 medley: []
 id: D81EAA79-787B-4DF0-8377-ED205566AE5E

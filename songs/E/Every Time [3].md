@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2002 Hillsong Music Australia
-source: ''
 year: ''
 medley: []
 id: F253158D-6A03-4CB2-BBBD-88BEAFA2540C

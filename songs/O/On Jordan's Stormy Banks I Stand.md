@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3251573'
 copyright: 1997 Christopher Miner
-source: ''
 year: ''
 medley: []
 id: F01CE7B4-08F0-4F8A-8062-DF896FEA14B4

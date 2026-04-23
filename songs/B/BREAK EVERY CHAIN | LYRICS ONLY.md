@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - army
   - power
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-gospel-slow
 keywords: mod gospel slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: DD0C9410-E0A5-48E8-B958-6E31E43FA117

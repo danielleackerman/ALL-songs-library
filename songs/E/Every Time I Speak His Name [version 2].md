@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
-  - his-name
+  - the-name
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-slow
@@ -19,7 +24,6 @@ profile:
 keywords: 'mod apo slow,  contemp christian slow'
 ccli: '3832019'
 copyright: 1999 Marcia Henry Music (Admin. by Capitol CMG Publishing)
-source: ''
 year: ''
 medley: []
 id: 20D2E010-3607-4451-808C-1C5FC9BBCB3D

@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - holiness
   - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1617154'
 copyright: 1995 Mercy / Vineyard Publishing
-source: ''
 year: ''
 medley: []
 id: B0CED25F-6012-4C0F-B78F-807CE205C19E

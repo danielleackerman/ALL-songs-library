@@ -5,24 +5,28 @@ key: F
 bpm: '64'
 time_sig: 4/4
 meter: ''
-tempo: slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+tempo: medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - holy-spirit
-  - contemp-christian
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+  - ccm
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +35,6 @@ profile:
 keywords: 'mod apo slow, contemp. christian'
 ccli: '2405227'
 copyright: 1997 Hillsong Publishing
-source: ''
 year: ''
 medley: []
 id: 41484790-5ECB-47BE-96A2-E238599076ED

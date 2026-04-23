@@ -9,13 +9,18 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Cooley Choruses
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: Cooley Choruses
 year: ''
 medley: []
 id: 46AA00CC-677F-4229-B8B9-2F1438E776FB

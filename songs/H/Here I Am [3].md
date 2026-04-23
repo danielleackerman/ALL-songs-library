@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1460758'
 copyright: 1994 Up In The Mix Music
-source: ''
 year: ''
 medley: []
 id: E8393F83-5851-4BA7-8BB6-FF6FE80CCA22

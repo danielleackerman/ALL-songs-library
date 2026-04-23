@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4440046'
 copyright: 2004 New Spring / Right Bank Music
-source: ''
 year: ''
 medley: []
 id: 83B1C384-CECB-4B76-97C2-06859BF386AC

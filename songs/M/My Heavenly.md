@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: '2002 Bridge Building Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: C9A37AC6-8ACC-46AC-A829-BA6090AE2020

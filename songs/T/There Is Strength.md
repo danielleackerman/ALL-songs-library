@@ -6,22 +6,26 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - strength
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +36,6 @@ copyright: >-
   © Copyright 1986 River Oaks Music company (admin. by EMI CMG
   Publishing)/Gaither Music Co./Sandi's Songs Music (admin. by Gaither Copyright
   Management).
-source: ''
 year: 1986
 medley: []
 id: ACFB97D7-8833-4FF7-8477-3BAAEF641E7D

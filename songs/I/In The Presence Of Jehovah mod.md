@@ -7,18 +7,22 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - presence
   - almighty
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-slow
 keywords: mod apo slow
 ccli: '162040'
 copyright: '1983, 1985 Meadowgreen Music Company / Songchannel Music'
-source: ''
 year: ''
 medley: []
 id: 9646BC91-D9FA-46E2-932C-6408977E10B9

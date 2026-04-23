@@ -9,13 +9,18 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - G/     /     /     /
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '915125'
 copyright: '1992 BMG Songs, Inc.'
-source: G/     /     /     /
 year: ''
 medley: []
 id: A9BBE9CA-5894-40FE-8F0A-FFF9F556EEDA

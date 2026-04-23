@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3912537'
 copyright: '2002 Simpleville Music / Songs From The Indigo Room / Wordspring Music, LLC'
-source: ''
 year: ''
 medley: []
 id: D953B2BC-80F5-4DF3-9ADC-F2D254C2919A

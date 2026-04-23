@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-fast
@@ -19,7 +24,6 @@ profile:
 keywords: 'mod apo fast, contemp christian fast'
 ccli: '4337472'
 copyright: 2001 Curb Songs / Okapi One Music / Littleberace Music / Toolguy Music
-source: ''
 year: 2001
 medley: []
 id: 81ED046B-4EB7-4496-BB2F-F8A0A6FAB83A

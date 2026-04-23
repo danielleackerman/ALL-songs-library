@@ -7,10 +7,15 @@ time_sig: 4/4
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - dance
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-med
@@ -18,7 +23,6 @@ profile:
 keywords: 'mod. apo. med. , mod. gospel med'
 ccli: ''
 copyright: ''
-source: ''
 year: 1996
 medley: []
 id: 6E613A17-2DDB-4BB4-8914-F38457E6112E

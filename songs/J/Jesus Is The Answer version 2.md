@@ -5,23 +5,28 @@ key: Ab
 bpm: '75'
 time_sig: ''
 meter: ''
-tempo: medium-slow
+tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - jesus
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - ORIGINAL KEY Ab
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +35,6 @@ profile:
 keywords: os gospel med slow
 ccli: '14260'
 copyright: '1973 Bud John Songs, Inc.'
-source: ORIGINAL KEY Ab
 year: 1983
 medley: []
 id: 306A98E8-224E-4805-A410-364FFAA9A5A0

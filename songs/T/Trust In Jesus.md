@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - trust
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5876554'
 copyright: 2010 Songs From The Quarry
-source: ''
 year: ''
 medley: []
 id: A1409EB6-7791-42E1-9594-5841B9BC5B48

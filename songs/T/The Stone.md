@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - greatness
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2000 Pyanagrin Music
-source: ''
 year: ''
 medley: []
 id: 6B9187BD-D65F-44F2-B0C1-269A5CA7CB70

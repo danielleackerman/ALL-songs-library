@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - christ
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3350395'
 copyright: 2001 Thankyou Music
-source: ''
 year: ''
 medley: []
 id: B0DB2D0B-9516-49D0-AA6B-B36A650E75EA

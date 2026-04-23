@@ -7,12 +7,17 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - rock
   - shield
   - prayer
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-med
@@ -20,7 +25,6 @@ profile:
 keywords: 'os apo med, os gospel med, prayer'
 ccli: ''
 copyright: ''
-source: ''
 year: 1960
 medley: []
 id: BC3759DA-7242-45E3-BD62-55EA9BF2B815

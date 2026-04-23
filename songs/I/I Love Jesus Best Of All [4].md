@@ -5,27 +5,30 @@ key: F
 bpm: '95'
 time_sig: 4/4
 meter: ''
-tempo: medium
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - love
   - jesus
-  - sutl
-  - songbook
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - >-
@@ -34,7 +37,6 @@ profile:
 keywords: 'os apo fast, sutl, songbook'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[HAVE A LITTLE TALK WITH JESUS]]'

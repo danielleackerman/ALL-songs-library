@@ -9,15 +9,18 @@ tempo: ''
 feel: []
 theme: []
 function: []
-tags:
-  - contemporary-christian-slow
+context: []
+style:
   - ccm
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: 'contemporary christian slow, ccm'
 ccli: '2570817'
 copyright: 1999 Curb Congregatino Songs/Paragon Music Corp. Arr. UBP.
-source: ''
 year: ''
 medley: []
 id: 8B022524-95A4-4032-9379-603F4A9A658D

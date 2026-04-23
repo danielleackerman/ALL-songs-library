@@ -7,19 +7,24 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
-  - praise
   - adoration
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - ORIGINAL KEY Bb
+tags: []
 genre: []
 profile:
   - mod-apo-med
 keywords: 'mod apo med, adoration, praise, love'
 ccli: '3412790'
 copyright: '2001 DaviShop, New Spring, Admin. Brentwood-Benson Music Publishing, Inc.'
-source: ORIGINAL KEY Bb
 year: 2001
 medley: []
 id: 9CF5248A-C37C-4E60-BB06-C9682928C6C9

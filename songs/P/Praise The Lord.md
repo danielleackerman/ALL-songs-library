@@ -6,23 +6,26 @@ bpm: '73'
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - energetic
-  - medium-slow
-  - solo-songs
-  - southern-gospel
-  - traditional
+theme: []
+function:
   - worship
   - praise
-  - anointed
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -31,7 +34,6 @@ profile:
 keywords: 'os southern gospel slow, anointed, praise'
 ccli: '19832'
 copyright: '1978 Word Music, LLC (Admin. Word Music Group, Inc.)'
-source: ''
 year: ''
 medley: []
 id: 87EC6E33-C58C-4788-8290-A8408E7A5193

@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - life
   - light
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -19,7 +24,6 @@ ccli: '5840580'
 copyright: >-
   2010 Bridge Building Music, Inc. / Pogostick Music / Chigostick Music / Dudie
   Music
-source: ''
 year: ''
 medley: []
 id: A2F03D89-FDE7-48D7-A923-6EEAF8339263

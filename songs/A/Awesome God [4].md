@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - awesome
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '329003'
 copyright: 1998 Tribe Music
-source: ''
 year: ''
 medley: []
 id: DAEA0419-C843-4A86-9DAC-4B9383C4952A

@@ -6,22 +6,28 @@ bpm: '150'
 time_sig: ''
 meter: ''
 tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+feel:
   - high-energy
-  - medium-fast-shouting
+  - shouting
+theme: []
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - ORIGINAL KEY Ab
+tags: []
 genre: []
 profile:
   - >-
@@ -30,7 +36,6 @@ profile:
 keywords: mod gospel fast
 ccli: ''
 copyright: ''
-source: ORIGINAL KEY Ab
 year: 2008
 medley: []
 id: 9AAA350B-22F9-479E-938D-70EFFDBB9B54

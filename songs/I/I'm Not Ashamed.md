@@ -7,13 +7,18 @@ time_sig: 6/8
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - dance
-  - worship
   - urban-gospel
+function:
+  - worship
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - med-fast-contemp-christian
@@ -22,7 +27,6 @@ ccli: '5444199'
 copyright: >-
   2009 Integrity's Hosanna! Music / Integrity's Praise! Music / New Breed
   Extended / Ricardo Music Dot Com / Sound Of The New Breed
-source: ''
 year: ''
 medley: []
 id: 11A4462C-99B7-4440-9C9E-AF3CA520CC7A

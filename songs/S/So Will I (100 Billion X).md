@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3259278'
 copyright: 2017 Hillsong Music Publishing
-source: ''
 year: ''
 medley: []
 id: DFDB52DD-17E8-4E21-956C-8E991134EBAD

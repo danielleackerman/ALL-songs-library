@@ -5,26 +5,30 @@ key: G
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - blood
   - power
-  - sutl
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - >-
@@ -33,7 +37,6 @@ profile:
 keywords: 'sutl, os apo fast, traditional'
 ccli: '21370'
 copyright: 'Words: Public Domain, Music: Public Domain'
-source: ''
 year: ''
 medley: []
 id: 77CAA8F9-B17E-438F-A33E-234E595C198B

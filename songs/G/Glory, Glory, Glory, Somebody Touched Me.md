@@ -7,10 +7,15 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-apo-fast
@@ -18,7 +23,6 @@ profile:
 keywords: 'os apo fast, os southern gospel fast'
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: 9519170C-28C6-489B-BC18-637387CD5BD7

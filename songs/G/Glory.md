@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
+function:
   - worship
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4196565'
 copyright: SWECS Music / Club Zoo Music
-source: ''
 year: ''
 medley: []
 id: CF6D6F4C-6116-4387-8D74-1CCBABDE73FA

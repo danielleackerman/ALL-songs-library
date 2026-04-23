@@ -9,13 +9,17 @@ tempo: medium
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[WE BRING THE SACRIFICE OF PRAISE]]'

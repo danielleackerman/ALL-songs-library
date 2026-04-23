@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
-  - alive
+  - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4882903'
 copyright: 2007 worshiptogether.com songs / sixsteps Music
-source: ''
 year: ''
 medley: []
 id: C0C504C9-77C9-47B3-A6B2-2AAAA284A483

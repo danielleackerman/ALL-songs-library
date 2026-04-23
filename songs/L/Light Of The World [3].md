@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - light
   - messiah
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '7023299'
 copyright: 2014 Flychild Publishing
-source: ''
 year: ''
 medley: []
 id: 9B2AC5F7-8626-4ACB-9B0F-EF746FD1F556

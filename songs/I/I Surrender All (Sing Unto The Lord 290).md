@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - os-ap0-slow
 keywords: 'os ap0 slow,'
 ccli: '23189'
 copyright: Public Domain
-source: ''
 year: ''
 medley:
   - '[[I WILL GIVE YOU ALL]]'

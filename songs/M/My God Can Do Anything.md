@@ -5,21 +5,25 @@ key: F
 bpm: ''
 time_sig: 4/4
 meter: ''
-tempo: ''
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - fast-funky
+tempo: fast
+feel:
+  - funky
+theme:
   - power
+function: []
+context: []
+style:
+  - black-gospel
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - black-gospel-fast-funky
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: FD5C2898-7201-402A-8CE5-8D0802DCCA97

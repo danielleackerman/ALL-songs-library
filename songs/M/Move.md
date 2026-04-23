@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5760701'
 copyright: 2010 Simpleville Music
-source: ''
 year: ''
 medley: []
 id: 8247E0AE-9190-459E-ADF3-2515BB010598

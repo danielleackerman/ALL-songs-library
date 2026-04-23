@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - christ
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3504598'
 copyright: '2001 Open Worship Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: BE912ED6-7455-479F-97DC-D3551A8C265B

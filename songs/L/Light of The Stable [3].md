@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - king
   - light
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1911646'
 copyright: Tessa Publishing Company
-source: ''
 year: ''
 medley: []
 id: F48D01F8-73A5-44E1-812E-F6DD3BD804BC

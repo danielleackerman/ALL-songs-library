@@ -1,0 +1,5011 @@
+OK: A/(My God Is) Awesome [2].md
+  - mapped leftover tag "awesome"
+OK: A/(My God Is) Awesome.md
+  - mapped leftover tag "awesome"
+OK: A/A Brand New Touch.md
+  - mapped leftover tag "help"
+  - mapped leftover tag "strength"
+  - mapped leftover tag "comfort"
+  - mapped leftover tag "petition"
+OK: A/A New Name In Glory.md
+  - mapped leftover tag "glory"
+OK: A/A PERFECT HEART.md
+  - no pass-3 mappings found
+OK: A/ALL I WANT IS YOU.md
+  - no pass-3 mappings found
+OK: A/AMAZING GRACE - version 3 [3].md
+  - mapped leftover tag "grace"
+OK: A/AMAZING GRACE - version 3.md
+  - mapped leftover tag "grace"
+OK: A/AMAZING GRACE [4].md
+  - mapped leftover tag "grace"
+OK: A/AMAZING GRACE [6].md
+  - mapped leftover tag "grace"
+OK: A/AMAZING GRACE [7].md
+  - mapped leftover tag "grace"
+OK: A/AMAZING GRACE.md
+  - mapped leftover tag "grace"
+OK: A/ANDRAE CROUCH TRIBUTE MEDLEY.md
+  - no pass-3 mappings found
+OK: A/Abide With Me.md
+  - mapped leftover tag "os-slow"
+  - mapped leftover tag "sutl"
+OK: A/Above All Else.md
+  - no pass-3 mappings found
+OK: A/Above All.md
+  - no pass-3 mappings found
+OK: A/Address Change Notification.md
+  - no pass-3 mappings found
+OK: A/Adonai [3].md
+  - mapped leftover tag "love"
+OK: A/Adonai-in process.md
+  - mapped leftover tag "father"
+  - mapped leftover tag "hope"
+OK: A/Adonai.md
+  - mapped leftover tag "father"
+  - mapped leftover tag "hope"
+OK: A/Adopted.md
+  - no pass-3 mappings found
+OK: A/Agnus Dei.md
+  - mapped leftover tag "alleluia"
+  - mapped leftover tag "almighty"
+OK: A/Ain't God Good.md
+  - no pass-3 mappings found
+OK: A/Ain't Got Time For You, Devil [3].md
+  - mapped leftover tag "jesus"
+OK: A/Ain't Got Time For You, Devil.md
+  - mapped leftover tag "jesus"
+OK: A/Ain't No Devil in Hell Gonna Walk On The Jesus in Me.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "hell"
+OK: A/Ain't No Rock- my edit.md
+  - mapped leftover tag "rock"
+  - mapped leftover tag "exaltation"
+OK: A/Ain't No Rock.md
+  - mapped leftover tag "rock"
+OK: A/Ain’t no rock.md
+  - mapped leftover tag "rock"
+OK: A/Alabaster Box EDIT [3].md
+  - no pass-3 mappings found
+OK: A/Alabaster Box EDIT.md
+  - no pass-3 mappings found
+OK: A/Alabaster Box LYRICS.md
+  - no pass-3 mappings found
+OK: A/Alabaster Box.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: A/Alien.md
+  - no pass-3 mappings found
+OK: A/Alive In Love.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "alive"
+OK: A/All Because Of Jesus [3].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "alive"
+OK: A/All Because of Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "alive"
+OK: A/All Because of This.md
+  - no pass-3 mappings found
+OK: A/All For Me.md
+  - no pass-3 mappings found
+OK: A/All Hail ERV.md
+  - no pass-3 mappings found
+OK: A/All Hail King Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "king"
+OK: A/All Hail lyrics.md
+  - no pass-3 mappings found
+OK: A/All Hail sections.md
+  - no pass-3 mappings found
+OK: A/All Hail sheet music.md
+  - no pass-3 mappings found
+OK: A/All Heaven Declares.md
+  - mapped leftover tag "heaven"
+  - mapped leftover tag "beauty"
+OK: A/All I Need.md
+  - no pass-3 mappings found
+OK: A/All My Hope.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "hope"
+OK: A/All My Praise.md
+  - no pass-3 mappings found
+OK: A/All My Tears.md
+  - no pass-3 mappings found
+OK: A/All My Worship (My All) [2].md
+  - no pass-3 mappings found
+OK: A/All My Worship (My All) [4].md
+  - no pass-3 mappings found
+OK: A/All My Worship (My All).md
+  - no pass-3 mappings found
+OK: A/All My Worship [3].md
+  - no pass-3 mappings found
+OK: A/All My Worship.md
+  - no pass-3 mappings found
+OK: A/All Of Creation.md
+  - mapped leftover tag "glory"
+OK: A/All That I Am [3].md
+  - no pass-3 mappings found
+OK: A/All That I Am.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "calling"
+OK: A/All The Heavens.md
+  - mapped leftover tag "desire"
+OK: A/All The Way My Savior Leads Me [2].md
+  - mapped leftover tag "mercy"
+  - mapped leftover tag "savior"
+OK: A/All The Way My Savior Leads Me [4].md
+  - mapped leftover tag "savior"
+OK: A/All The Way My Savior Leads Me.md
+  - mapped leftover tag "mercy"
+  - mapped leftover tag "savior"
+OK: A/All Things Are Possible.md
+  - no pass-3 mappings found
+OK: A/All Things New.md
+  - mapped leftover tag "love"
+OK: A/All Things are Working-choir.md
+  - no pass-3 mappings found
+OK: A/All You Died For Me To Be.md
+  - no pass-3 mappings found
+OK: A/All in Him.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "sutl"
+OK: A/All the Glory.md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "honor"
+OK: A/All the Praise.md
+  - no pass-3 mappings found
+OK: A/Already Been To The Water.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "witness"
+OK: A/Always Enough.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "faith"
+OK: A/Always Have Always Will.md
+  - mapped leftover tag "love"
+OK: A/Always Have, Always Will.md
+  - mapped leftover tag "love"
+OK: A/Amazing Grace (My Chains Are Gone).md
+  - mapped leftover tag "grace"
+OK: A/Amazing Grace - version 1.md
+  - mapped leftover tag "grace"
+OK: A/Amazing Grace - version 2.md
+  - mapped leftover tag "grace"
+  - mapped leftover tag "os-gospel-slow"
+OK: A/Amazing Grace [2].md
+  - mapped leftover tag "grace"
+OK: A/Amazing Grace [3].md
+  - mapped leftover tag "grace"
+OK: A/Amazing Grace [8].md
+  - mapped leftover tag "grace"
+OK: A/Amazing Grace-EASY.md
+  - mapped leftover tag "grace"
+OK: A/Amazing Love [3].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: A/Amazing Love.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "honor"
+OK: A/Amen [Version 1] [3].md
+  - mapped leftover tag "blessing"
+  - mapped leftover tag "glory"
+OK: A/Amen [Version 2].md
+  - mapped leftover tag "blessing"
+  - mapped leftover tag "glory"
+OK: A/Amen [version 1].md
+  - mapped leftover tag "blessing"
+  - mapped leftover tag "glory"
+OK: A/Amen.md
+  - no pass-3 mappings found
+OK: A/American Dream.md
+  - no pass-3 mappings found
+OK: A/And Now My Lifesong Sings.md
+  - mapped leftover tag "life"
+OK: A/Angel [3].md
+  - no pass-3 mappings found
+OK: A/Angel.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "heaven"
+OK: A/Angels We Have Heard On High.md
+  - mapped leftover tag "angels"
+OK: A/Anointing Fall On Me [2].md
+  - no pass-3 mappings found
+OK: A/Anointing Fall On Me [4].md
+  - no pass-3 mappings found
+OK: A/Anointing Fall On Me.md
+  - mapped leftover tag "holy-ghost"
+  - mapped leftover tag "power"
+OK: A/Anthem Of Praise.md
+  - no pass-3 mappings found
+OK: A/Anything.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "life"
+OK: A/Are You Washed In The Blood.md
+  - mapped leftover tag "blood"
+OK: A/Are You Washed in the Blood?.md
+  - mapped leftover tag "blood"
+OK: A/Arise And Be Comforted.md
+  - no pass-3 mappings found
+OK: A/Art In Me.md
+  - no pass-3 mappings found
+OK: A/Artist Name.md
+  - no pass-3 mappings found
+OK: A/As We Worship You.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "adoration"
+OK: A/At Calvary II.md
+  - mapped leftover tag "calvary"
+OK: A/At Calvary [3].md
+  - mapped leftover tag "calvary"
+OK: A/At Calvary.md
+  - mapped leftover tag "calvary"
+OK: A/At The Cross [3].md
+  - mapped leftover tag "cross"
+OK: A/At The Cross.md
+  - mapped leftover tag "cross"
+  - mapped leftover tag "sutl"
+OK: A/At The Foot Of The Cross.md
+  - mapped leftover tag "cross"
+OK: A/At Your Feet [2].md
+  - no pass-3 mappings found
+OK: A/At Your Feet.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "peace"
+OK: A/At the Cross (184).md
+  - mapped leftover tag "cross"
+  - mapped leftover tag "sutl"
+OK: A/Audience Of One.md
+  - mapped leftover tag "desire"
+OK: A/Away In A Manger [3].md
+  - mapped leftover tag "jesus"
+OK: A/Away In A Manger.md
+  - mapped leftover tag "jesus"
+OK: A/Awesome God [2].md
+  - mapped leftover tag "awesome"
+OK: A/Awesome God [4].md
+  - mapped leftover tag "awesome"
+OK: A/Awesome God.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "awesome"
+OK: A/Awesome.md
+  - mapped leftover tag "awesome"
+OK: A/alright okay uh-huh Amen.md
+  - no pass-3 mappings found
+OK: B/BE CAREFUL LITTLE EYES WHAT YOU HEAR.md
+  - no pass-3 mappings found
+OK: B/BLESS THE LORD (in major key).md
+  - no pass-3 mappings found
+OK: B/BLESS THE LORD [2].md
+  - no pass-3 mappings found
+OK: B/BLUEPRINT.md
+  - no pass-3 mappings found
+OK: B/BREAK EVERY CHAIN [4].md
+  - no pass-3 mappings found
+OK: B/BREAK EVERY CHAIN | LYRICS ONLY.md
+  - mapped leftover tag "army"
+  - mapped leftover tag "power"
+OK: B/BREAKTHROUGH 1.md
+  - mapped leftover tag "breakthrough"
+OK: B/BREAKTHROUGH.md
+  - mapped leftover tag "breakthrough"
+OK: B/Be Still My Soul.md
+  - no pass-3 mappings found
+OK: B/Be With You.md
+  - no pass-3 mappings found
+OK: B/Be Your Everything.md
+  - no pass-3 mappings found
+OK: B/Beautiful One [3].md
+  - mapped leftover tag "love"
+OK: B/Beautiful One.md
+  - mapped leftover tag "love"
+OK: B/Beautiful Savior.md
+  - mapped leftover tag "holiness"
+  - mapped leftover tag "heaven"
+OK: B/Beautiful [3].md
+  - no pass-3 mappings found
+OK: B/Beautiful.md
+  - mapped leftover tag "grace"
+OK: B/Because He Lives -- version 2.md
+  - no pass-3 mappings found
+OK: B/Because He Lives [3].md
+  - no pass-3 mappings found
+OK: B/Because He Lives [4].md
+  - no pass-3 mappings found
+OK: B/Because He Lives-3 [3].md
+  - no pass-3 mappings found
+OK: B/Because He Lives-3.md
+  - no pass-3 mappings found
+OK: B/Because He Lives.md
+  - no pass-3 mappings found
+OK: B/Because I'm Forgiven.md
+  - mapped leftover tag "love"
+OK: B/Because Of Who You Are [2].md
+  - no pass-3 mappings found
+OK: B/Because Of Who You Are [4].md
+  - mapped leftover tag "peace"
+  - mapped leftover tag "victory"
+OK: B/Because Of Who You Are | LYRICS.md
+  - no pass-3 mappings found
+OK: B/Because Of Who You Are-- long edit.md
+  - mapped leftover tag "peace"
+  - mapped leftover tag "victory"
+OK: B/Because Of Who You Are--long edit II.md
+  - mapped leftover tag "peace"
+  - mapped leftover tag "victory"
+OK: B/Because Of Who You Are--short edit.md
+  - no pass-3 mappings found
+OK: B/Because Of Who You Are-1 [3].md
+  - no pass-3 mappings found
+OK: B/Because Of Who You Are-1.md
+  - no pass-3 mappings found
+OK: B/Because Of Who You Are.md
+  - mapped leftover tag "love"
+OK: B/Behold the Lamb of God.md
+  - no pass-3 mappings found
+OK: B/Believe For It (Live) Lyrics.md
+  - mapped leftover tag "believe"
+  - mapped leftover tag "power"
+OK: B/Believe For It (Official).md
+  - mapped leftover tag "believe"
+  - mapped leftover tag "power"
+OK: B/Benediction.md
+  - no pass-3 mappings found
+OK: B/Bethlehem Town.md
+  - mapped leftover tag "king"
+  - mapped leftover tag "men"
+OK: B/Better Is One Day.md
+  - no pass-3 mappings found
+OK: B/Beyond Measure.md
+  - no pass-3 mappings found
+OK: B/Beyond The Open Door [3].md
+  - no pass-3 mappings found
+OK: B/Beyond The Open Door.md
+  - no pass-3 mappings found
+OK: B/Bigger Sins Than That.md
+  - mapped leftover tag "blood"
+OK: B/Bind Us Together-EASY.md
+  - no pass-3 mappings found
+OK: B/Bind Us Together.md
+  - no pass-3 mappings found
+OK: B/Blackbird.md
+  - no pass-3 mappings found
+OK: B/Bless His Holy Name (Bless The Lord Oh My Soul).md
+  - mapped leftover tag "faithfulness"
+  - mapped leftover tag "adoration"
+OK: B/Bless His Holy Name.md
+  - mapped leftover tag "greatness"
+  - mapped leftover tag "adoration"
+  - mapped leftover tag "faithfulness"
+OK: B/Bless Me Indeed.md
+  - no pass-3 mappings found
+OK: B/Bless That Wonderful Name Of Jesus-1.md
+  - mapped leftover tag "jesus"
+OK: B/Bless That Wonderful Name Of Jesus.md
+  - mapped leftover tag "jesus"
+OK: B/Bless That Wonderful Name.md
+  - mapped leftover tag "jesus"
+OK: B/Bless The Lord - 10,000 Reasons.md
+  - no pass-3 mappings found
+OK: B/Bless The Lord, O My Soul [3].md
+  - no pass-3 mappings found
+OK: B/Bless The Lord, O My Soul.md
+  - no pass-3 mappings found
+OK: B/Bless The Lord- 10,000 REASONS.md
+  - no pass-3 mappings found
+OK: B/Bless The Lord.md
+  - no pass-3 mappings found
+OK: B/Bless Your Name.md
+  - no pass-3 mappings found
+OK: B/Bless the Lord [4].md
+  - no pass-3 mappings found
+OK: B/Bless the Lord, Oh My Soul.md
+  - mapped leftover tag "adoration"
+OK: B/Blessed Assurance [3].md
+  - mapped leftover tag "assurance"
+OK: B/Blessed Assurance.md
+  - mapped leftover tag "assurance"
+  - mapped leftover tag "savior"
+OK: B/Blessed Be The Name EASY.md
+  - mapped leftover tag "sutl"
+OK: B/Blessed Be Your Name (With Or Without You).md
+  - mapped leftover tag "blessing"
+OK: B/Blessed Be Your Name [2].md
+  - no pass-3 mappings found
+OK: B/Blessed Be Your Name [3].md
+  - no pass-3 mappings found
+OK: B/Blessed Be Your Name [4].md
+  - no pass-3 mappings found
+OK: B/Blessed Be Your Name [6].md
+  - mapped leftover tag "blessing"
+OK: B/Blessed Be Your Name.md
+  - no pass-3 mappings found
+OK: B/Blessed Be the Name of the Lord.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "rock"
+OK: B/Blessed Jesus, Hold My Hand.md
+  - mapped leftover tag "jesus"
+OK: B/Blessed Redeemer.md
+  - mapped leftover tag "calvary"
+  - mapped leftover tag "redeemer"
+OK: B/Blessed be the name - version 1.md
+  - mapped leftover tag "sutl"
+OK: B/Blessed.md
+  - no pass-3 mappings found
+OK: B/Blind [3].md
+  - no pass-3 mappings found
+OK: B/Blind.md
+  - no pass-3 mappings found
+OK: B/Blues Song.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "friend"
+OK: B/Born Again [3].md
+  - mapped leftover tag "life"
+OK: B/Born Again.md
+  - mapped leftover tag "jesus"
+OK: B/Born In Bethlehem.md
+  - mapped leftover tag "jesus"
+OK: B/Borrow Mine.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "faith"
+OK: B/Bound To Come Some Trouble.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "life"
+OK: B/Boy Like Me Man Like You.md
+  - no pass-3 mappings found
+OK: B/Boy On A String.md
+  - no pass-3 mappings found
+OK: B/Break Every Chain [2].md
+  - no pass-3 mappings found
+OK: B/Break Every Chain [3].md
+  - no pass-3 mappings found
+OK: B/Break Every Chain [5].md
+  - no pass-3 mappings found
+OK: B/Break Every Chain [7].md
+  - mapped leftover tag "army"
+  - mapped leftover tag "power"
+OK: B/Break Every Chain.md
+  - no pass-3 mappings found
+OK: B/Breakout ERV.md
+  - no pass-3 mappings found
+OK: B/Breakout-Mark Crowder-Faith Over Fear.md
+  - mapped leftover tag "faith"
+OK: B/Breath Of Heaven (Mary's Song).md
+  - mapped leftover tag "heaven"
+OK: B/Breath of Heaven.md
+  - mapped leftover tag "heaven"
+OK: B/Breathe (This Is The Air).md
+  - no pass-3 mappings found
+OK: B/Breathe On Me [2].md
+  - mapped leftover tag "holy-ghost"
+OK: B/Breathe On Me [4].md
+  - no pass-3 mappings found
+OK: B/Breathe On Me | version 1.md
+  - mapped leftover tag "holy-ghost"
+OK: B/Breathe On Me | version 3.md
+  - mapped leftover tag "holy-ghost"
+  - mapped leftover tag "power"
+OK: B/Breathe On Me | ☑️ version 2.md
+  - no pass-3 mappings found
+OK: B/Breathe On Me-1.md
+  - no pass-3 mappings found
+OK: B/Breathe On Me-ROMAN NUMERALS.md
+  - no pass-3 mappings found
+OK: B/Breathe On Me.md
+  - no pass-3 mappings found
+OK: B/Breathe | LYRICS.md
+  - no pass-3 mappings found
+OK: B/Breathe.md
+  - no pass-3 mappings found
+OK: B/Bridge.md
+  - no pass-3 mappings found
+OK: B/Bring The Rain.md
+  - no pass-3 mappings found
+OK: B/Broken Together.md
+  - mapped leftover tag "dreams"
+OK: B/Broken Vessel.md
+  - mapped leftover tag "vessel"
+  - mapped leftover tag "renewal"
+  - mapped leftover tag "redemption"
+OK: B/Brother's Keeper.md
+  - no pass-3 mappings found
+OK: B/By and By (When Morning Comes).md
+  - no pass-3 mappings found
+OK: B/By and By (When The Morning Comes)-1.md
+  - no pass-3 mappings found
+OK: B/beautifully broken.md
+  - no pass-3 mappings found
+OK: C/COME OUT THE WILDERNESS.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "conversion"
+  - mapped leftover tag "joy"
+OK: C/COMING BACK.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: C/Call My Name.md
+  - mapped leftover tag "love"
+OK: C/Calling Out Your Name.md
+  - mapped leftover tag "calling"
+  - mapped leftover tag "hope"
+OK: C/Can you Believe?.md
+  - mapped leftover tag "believe"
+OK: C/Can't Nobody Do Me Like Jesus [2].md
+  - mapped leftover tag "jesus"
+OK: C/Can't Nobody Do Me Like Jesus [3].md
+  - mapped leftover tag "jesus"
+OK: C/Can't Nobody Do Me Like Jesus [5].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "gratitude"
+OK: C/Can't Nobody Do Me Like Jesus.md
+  - mapped leftover tag "jesus"
+OK: C/Can't Stop Praising His Name [2].md
+  - mapped leftover tag "his-name"
+OK: C/Can't Stop Praising His Name [3].md
+  - mapped leftover tag "his-name"
+OK: C/Can't Stop Praising His Name [4].md
+  - mapped leftover tag "his-name"
+OK: C/Can't Stop Praising His Name [6].md
+  - mapped leftover tag "his-name"
+OK: C/Can't Stop Praising His Name.md
+  - mapped leftover tag "jesus"
+OK: C/Can't Take The Pain.md
+  - no pass-3 mappings found
+OK: C/Cannot Say Enough.md
+  - no pass-3 mappings found
+OK: C/Cant Erase It.md
+  - no pass-3 mappings found
+OK: C/Can’t Stop Praising His Name- Chorus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "his-name"
+OK: C/Captivate Us.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "presence"
+OK: C/Capture Me.md
+  - mapped leftover tag "beauty"
+  - mapped leftover tag "life"
+OK: C/Carry My Cross.md
+  - mapped leftover tag "cross"
+OK: C/Catch On Fire (I Wish Somebody’s Soul Would Catch On Fire) [3].md
+  - mapped leftover tag "holy-ghost"
+  - mapped leftover tag "power"
+OK: C/Catch On Fire (I Wish Somebody’s Soul Would Catch On Fire).md
+  - mapped leftover tag "holy-ghost"
+  - mapped leftover tag "power"
+OK: C/Catch On Fire [3].md
+  - mapped leftover tag "holy-ghost"
+OK: C/Catch On Fire.md
+  - mapped leftover tag "holy-ghost"
+OK: C/Catch on Fire (I wish Somebody’s Soul Would).md
+  - mapped leftover tag "holy-ghost"
+OK: C/Catch on Fire (I wish Somebody’s Soul Would)ORIGINAL.md
+  - mapped leftover tag "holy-ghost"
+OK: C/Caught Up In The Middle.md
+  - mapped leftover tag "alive"
+  - mapped leftover tag "believe"
+OK: C/Caught Up.md
+  - mapped leftover tag "os-apo"
+  - mapped leftover tag "sutl"
+OK: C/Celebrate the Presence of the Lord.md
+  - mapped leftover tag "presence"
+  - mapped leftover tag "rejoice"
+OK: C/Celebration Medley (G) - Oneness Hymns.md
+  - mapped leftover tag "celebration"
+OK: C/Center Of My Joy-my edit.md
+  - mapped leftover tag "joy"
+  - mapped leftover tag "adoration"
+  - mapped leftover tag "commitment"
+  - mapped leftover tag "rejoice"
+OK: C/Center Of My Joy.md
+  - mapped leftover tag "joy"
+  - mapped leftover tag "adoration"
+  - mapped leftover tag "commitment"
+  - mapped leftover tag "rejoice"
+OK: C/Change Me Lord.md
+  - no pass-3 mappings found
+OK: C/Child Of The King.md
+  - mapped leftover tag "king"
+OK: C/Children Of God.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "children"
+OK: C/Children of the Living God.md
+  - mapped leftover tag "children"
+OK: C/Chord Progression.md
+  - no pass-3 mappings found
+OK: C/Chorus (Mod).md
+  - no pass-3 mappings found
+OK: C/Chorus 1 2x.md
+  - mapped leftover tag "trust"
+OK: C/Chorus.md
+  - no pass-3 mappings found
+OK: C/Christ Is Come.md
+  - mapped leftover tag "christ"
+OK: C/Christ My All.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "christ"
+OK: C/Christmas Like A Child.md
+  - no pass-3 mappings found
+OK: C/Christmas Offering.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "honor"
+OK: C/City On A Hill.md
+  - mapped leftover tag "father"
+  - mapped leftover tag "light"
+OK: C/City on the Hill.md
+  - mapped leftover tag "home"
+  - mapped leftover tag "light"
+OK: C/Clean [3].md
+  - mapped leftover tag "mercy"
+OK: C/Clean.md
+  - no pass-3 mappings found
+OK: C/Close To Thee (Thou My Everlasting Portion).md
+  - mapped leftover tag "life"
+  - mapped leftover tag "sutl"
+OK: C/Coffee.md
+  - no pass-3 mappings found
+OK: C/Come Alive (Dry Bones).md
+  - mapped leftover tag "alive"
+  - mapped leftover tag "army"
+OK: C/Come And Fill Me Up.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "presence"
+OK: C/Come And Worship.md
+  - no pass-3 mappings found
+OK: C/Come Into His Presence EASY.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "presence"
+  - mapped leftover tag "os-presbyterian"
+  - mapped leftover tag "childrens"
+OK: C/Come Into This House [3].md
+  - no pass-3 mappings found
+OK: C/Come Into This House.md
+  - no pass-3 mappings found
+OK: C/Come Let Us Sing.md
+  - no pass-3 mappings found
+OK: C/Come Now Is The Time To Worship.md
+  - no pass-3 mappings found
+OK: C/Come On Back To Me.md
+  - mapped leftover tag "love"
+OK: C/Come One, Come All.md
+  - no pass-3 mappings found
+OK: C/Come Together.md
+  - mapped leftover tag "love"
+OK: C/Come, Lord Jesus.md
+  - mapped leftover tag "jesus"
+OK: C/Comin' Down down down, the glory of the lord is comin down.md
+  - mapped leftover tag "glory"
+OK: C/Coming Into Your Presence.md
+  - mapped leftover tag "presence"
+OK: C/Communion.md
+  - no pass-3 mappings found
+OK: C/Completely Free.md
+  - no pass-3 mappings found
+OK: C/Consecrate Me [3].md
+  - no pass-3 mappings found
+OK: C/Consecrate Me [version 2].md
+  - no pass-3 mappings found
+OK: C/Consecrate Me.md
+  - no pass-3 mappings found
+OK: C/Consuming Fire.md
+  - no pass-3 mappings found
+OK: C/Cornerstone.md
+  - mapped leftover tag "cornerstone"
+OK: C/Count Your Blessings.md
+  - mapped leftover tag "sutl"
+OK: C/Courageous.md
+  - mapped leftover tag "love"
+OK: C/Cover Me [2].md
+  - no pass-3 mappings found
+OK: C/Cover Me [4].md
+  - mapped leftover tag "mercy"
+OK: C/Cover Me.md
+  - no pass-3 mappings found
+OK: C/Covered.md
+  - no pass-3 mappings found
+OK: C/Crazy Times.md
+  - no pass-3 mappings found
+OK: C/Crazy.md
+  - no pass-3 mappings found
+OK: C/Create In Me A Clean Heart.md
+  - no pass-3 mappings found
+OK: C/Creation Song (Glory To The Lamb).md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "honor"
+OK: C/Creed [3].md
+  - mapped leftover tag "believe"
+  - mapped leftover tag "heaven"
+OK: C/Creed.md
+  - mapped leftover tag "believe"
+  - mapped leftover tag "heaven"
+OK: C/Crown Him with Many Crowns.md
+  - no pass-3 mappings found
+OK: C/Cry Out To Jesus [3].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "mercy"
+OK: C/Cry Out to Jesus.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: C/Curtis Creek.md
+  - no pass-3 mappings found
+OK: C/children of the lord have a right.md
+  - mapped leftover tag "children"
+OK: D/DO YOU KNOW HIM?.md
+  - mapped leftover tag "sin"
+OK: D/DON'T LET THE DEVIL RIDE (Julie Miller).md
+  - mapped leftover tag "temptation"
+OK: D/DON'T LET THE DEVIL RIDE (Neal Robertson).md
+  - mapped leftover tag "temptation"
+OK: D/DON'T LET THE DEVIL RIDE.md
+  - mapped leftover tag "temptation"
+OK: D/DRIFT AWAY, LORD.md
+  - mapped leftover tag "jesus"
+OK: D/Damascus Road.md
+  - mapped leftover tag "grace"
+OK: D/Dancin' On the Graves [3].md
+  - no pass-3 mappings found
+OK: D/Dancin' On the Graves.md
+  - no pass-3 mappings found
+OK: D/Dancing on the Grave.md
+  - no pass-3 mappings found
+OK: D/David Did Dance.md
+  - mapped leftover tag "dance"
+OK: D/Daystar.md
+  - mapped leftover tag "love"
+OK: D/Daystar[version 2].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: D/Dead Man (Carry Me).md
+  - no pass-3 mappings found
+OK: D/Dedicate This Temple.md
+  - no pass-3 mappings found
+OK: D/Deep (Way Down) [3].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: D/Deep (Way Down).md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: D/Did You Come To Give The Lord The Praise ? [2].md
+  - no pass-3 mappings found
+OK: D/Did You Come To Give The Lord The Praise ? [4].md
+  - no pass-3 mappings found
+OK: D/Did You Come To Give The Lord The Praise ?.md
+  - no pass-3 mappings found
+OK: D/Did You Come To Give the Lord the Praise?.md
+  - mapped leftover tag "joy"
+OK: D/Did You Mean It.md
+  - no pass-3 mappings found
+OK: D/Didn't I Walk On The Water [2].md
+  - no pass-3 mappings found
+OK: D/Didn't I Walk On The Water [4].md
+  - no pass-3 mappings found
+OK: D/Didn't I Walk On The Water.md
+  - no pass-3 mappings found
+OK: D/Disappear [3].md
+  - mapped leftover tag "love"
+OK: D/Disappear.md
+  - no pass-3 mappings found
+OK: D/Dive.md
+  - mapped leftover tag "river"
+OK: D/Do It Again.md
+  - no pass-3 mappings found
+OK: D/Do You Hear What I Hear?.md
+  - mapped leftover tag "goodness"
+  - mapped leftover tag "light"
+OK: D/Does Anybody Hear Her.md
+  - no pass-3 mappings found
+OK: D/Does He Still Feel The Nails.md
+  - no pass-3 mappings found
+OK: D/Don't Let Me Go.md
+  - no pass-3 mappings found
+OK: D/Don't Let Me Stand Without A Star In My Crown.md
+  - no pass-3 mappings found
+OK: D/Don't Let That Name Go Down.md
+  - no pass-3 mappings found
+OK: D/Don't Save It All For Christmas Day.md
+  - mapped leftover tag "love"
+OK: D/Don't You Know.md
+  - mapped leftover tag "love"
+OK: D/Dont Say Goodbye.md
+  - no pass-3 mappings found
+OK: D/Draw Me Close To You - my edit.md
+  - no pass-3 mappings found
+OK: D/Draw Me Nearer Nearer Blessed Lord.md
+  - no pass-3 mappings found
+OK: D/Draw Me Nearer [3].md
+  - no pass-3 mappings found
+OK: D/Draw Me Nearer.md
+  - mapped leftover tag "love"
+OK: D/Drops in the Ocean.md
+  - mapped leftover tag "love"
+OK: E/EVERMORE.md
+  - no pass-3 mappings found
+OK: E/EXCELLENT.md
+  - no pass-3 mappings found
+OK: E/EXERCISE SONG #1.md
+  - no pass-3 mappings found
+OK: E/EXERCISE SONG #2.md
+  - no pass-3 mappings found
+OK: E/EXERCISE SONG #3.md
+  - no pass-3 mappings found
+OK: E/EXERCISE SONG #4.md
+  - no pass-3 mappings found
+OK: E/EXERCISE SONG #5.md
+  - no pass-3 mappings found
+OK: E/Eagles.md
+  - no pass-3 mappings found
+OK: E/East To West.md
+  - mapped leftover tag "mercy"
+  - mapped leftover tag "rest"
+OK: E/Elijah.md
+  - no pass-3 mappings found
+OK: E/Elis Song.md
+  - no pass-3 mappings found
+OK: E/Empty Me (alt. version).md
+  - no pass-3 mappings found
+OK: E/Empty Me.md
+  - no pass-3 mappings found
+OK: E/End of The Beginning.md
+  - mapped leftover tag "angels"
+  - mapped leftover tag "friend"
+OK: E/Enemy's Camp.md
+  - mapped leftover tag "believe"
+OK: E/Even When.md
+  - mapped leftover tag "life"
+OK: E/Everlasting God [3].md
+  - no pass-3 mappings found
+OK: E/Everlasting God.md
+  - no pass-3 mappings found
+OK: E/Every Man.md
+  - mapped leftover tag "hope"
+OK: E/Every Praise is to Our God-my edit.md
+  - mapped leftover tag "glory"
+OK: E/Every Praise is to our God [2].md
+  - no pass-3 mappings found
+OK: E/Every Praise is to our God [4].md
+  - no pass-3 mappings found
+OK: E/Every Praise is to our God.md
+  - mapped leftover tag "glory"
+OK: E/Every Time I Breathe.md
+  - mapped leftover tag "love"
+OK: E/Every Time I Speak His Name [version 2].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "his-name"
+OK: E/Every Time I Speak His Name.md
+  - mapped leftover tag "his-name"
+OK: E/Every Time [3].md
+  - no pass-3 mappings found
+OK: E/Every Time.md
+  - mapped leftover tag "presence"
+  - mapped leftover tag "holy-place"
+OK: E/Everybody Ought to Go to Sunday School [3].md
+  - no pass-3 mappings found
+OK: E/Everybody Will Be Happy Over There-1.md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "sutl"
+OK: E/Everybody Will Be Happy Over There-version 2.md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "sutl"
+OK: E/Everybody Will Be Happy Over There.md
+  - mapped leftover tag "glory"
+OK: E/Everybody ought to go to Sunday school.md
+  - no pass-3 mappings found
+OK: E/Everything Impossible.md
+  - mapped leftover tag "love"
+OK: E/Everything To Me [3].md
+  - mapped leftover tag "life"
+  - mapped leftover tag "thirst"
+OK: E/Everything To Me.md
+  - mapped leftover tag "jesus"
+OK: E/Everything You Are.md
+  - no pass-3 mappings found
+OK: E/Everything.md
+  - no pass-3 mappings found
+OK: E/Exalt Your Name With Praise.md
+  - no pass-3 mappings found
+OK: E/Exercise.md
+  - no pass-3 mappings found
+OK: F/(Forty Days) 40 Days.md
+  - no pass-3 mappings found
+OK: F/FEAR NOT FOR I AM WITH YOU.md
+  - no pass-3 mappings found
+OK: F/FORMATTING.md
+  - no pass-3 mappings found
+OK: F/FROM GLORY TO GLORY-EASY.md
+  - mapped leftover tag "glory"
+OK: F/Fade To Grey.md
+  - no pass-3 mappings found
+OK: F/Faith Enough.md
+  - mapped leftover tag "faith"
+OK: F/Fall Like Rain.md
+  - no pass-3 mappings found
+OK: F/Falling In Love With Jesus LYRICS.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: F/Falling In Love With Jesus V1.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: F/Falling In Love With Jesus V2.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: F/Falling In Love With Jesus V3.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: F/Falling In Love With Jesus V4.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: F/Falling In Love With Jesus [2].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: F/Falling In Love With Jesus [3].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: F/Falling In Love With Jesus [4].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: F/Falling In Love With Jesus [6].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: F/Falling In Love With Jesus.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: F/Famous for (I believe).md
+  - mapped leftover tag "believe"
+  - mapped leftover tag "life"
+OK: F/Farther Along.md
+  - no pass-3 mappings found
+OK: F/Father, Spirit, Jesus.md
+  - mapped leftover tag "jesus"
+OK: F/Feel The Joy (I Feel The Joy).md
+  - mapped leftover tag "joy"
+OK: F/Feel the Nails.md
+  - no pass-3 mappings found
+OK: F/Feels Like.md
+  - no pass-3 mappings found
+OK: F/Fields Of Grace.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "grace"
+OK: F/Fill Me Up [2].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "life"
+OK: F/Fill Me Up [4].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: F/Fill Me Up.md
+  - no pass-3 mappings found
+OK: F/Fill My Cup Lord.md
+  - no pass-3 mappings found
+OK: F/Finally Home.md
+  - mapped leftover tag "home"
+OK: F/First Family.md
+  - mapped leftover tag "family"
+OK: F/First.md
+  - no pass-3 mappings found
+OK: F/Five Candles (You Were There).md
+  - no pass-3 mappings found
+OK: F/Flood (Advanced).md
+  - no pass-3 mappings found
+OK: F/Flood [2].md
+  - no pass-3 mappings found
+OK: F/Flood [4].md
+  - no pass-3 mappings found
+OK: F/Flood.md
+  - no pass-3 mappings found
+OK: F/Fly.md
+  - no pass-3 mappings found
+OK: F/For What Earthly Reason.md
+  - no pass-3 mappings found
+OK: F/For What Earthly Reason[version 2].md
+  - no pass-3 mappings found
+OK: F/For Your Glory [2].md
+  - mapped leftover tag "glory"
+OK: F/For Your Glory [3].md
+  - mapped leftover tag "glory"
+OK: F/For Your Glory [4].md
+  - mapped leftover tag "glory"
+OK: F/For Your Glory [6].md
+  - mapped leftover tag "glory"
+OK: F/For Your Glory.md
+  - mapped leftover tag "glory"
+OK: F/Forever [2].md
+  - no pass-3 mappings found
+OK: F/Forever [3].md
+  - mapped leftover tag "death"
+OK: F/Forever [4].md
+  - no pass-3 mappings found
+OK: F/Forever [5].md
+  - no pass-3 mappings found
+OK: F/Forever [7].md
+  - no pass-3 mappings found
+OK: F/Forever.md
+  - mapped leftover tag "help"
+OK: F/Forgive And Forget.md
+  - no pass-3 mappings found
+OK: F/Forty Days (40 Days).md
+  - mapped leftover tag "living-water"
+OK: F/Four Seven [3].md
+  - no pass-3 mappings found
+OK: F/Four Seven.md
+  - no pass-3 mappings found
+OK: F/Frail.md
+  - no pass-3 mappings found
+OK: F/Free To Dance.md
+  - mapped leftover tag "dance"
+OK: F/Free To Worship [2].md
+  - no pass-3 mappings found
+OK: F/Free To Worship [3].md
+  - no pass-3 mappings found
+OK: F/Free To Worship [4].md
+  - no pass-3 mappings found
+OK: F/Free To Worship [6].md
+  - no pass-3 mappings found
+OK: F/Free To Worship.md
+  - no pass-3 mappings found
+OK: F/Freedom.md
+  - mapped leftover tag "freedom"
+OK: F/Friend For Life.md
+  - mapped leftover tag "friend"
+  - mapped leftover tag "life"
+OK: F/Friend Like You.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "friend"
+OK: F/From Heaven's Point Of View.md
+  - mapped leftover tag "heaven"
+OK: F/From Heaven's Point Of View[version 2].md
+  - mapped leftover tag "heaven"
+OK: F/From Heaven's Point Of View[version 3].md
+  - mapped leftover tag "heaven"
+  - mapped leftover tag "strength"
+OK: F/From The Sanctuary.md
+  - mapped leftover tag "hope"
+OK: F/faith faith faith.md
+  - mapped leftover tag "faith"
+OK: F/father abraham.md
+  - mapped leftover tag "father"
+OK: G/GIVING MY BEST [2].md
+  - mapped leftover tag "giving"
+  - mapped leftover tag "life"
+OK: G/GIVING MY BEST.md
+  - mapped leftover tag "giving"
+OK: G/GOD IS GREATER THAN THE NEED.md
+  - mapped leftover tag "believe"
+  - mapped leftover tag "trust"
+OK: G/GOD IS--Director's Guide.md
+  - no pass-3 mappings found
+OK: G/GOD WALKS THE DARK HILLS.md
+  - no pass-3 mappings found
+OK: G/GOSPEL OUTRO.md
+  - no pass-3 mappings found
+OK: G/Garment of Praise.md
+  - no pass-3 mappings found
+OK: G/Get On.md
+  - no pass-3 mappings found
+OK: G/Get Ready For Revival [3].md
+  - mapped leftover tag "revival"
+OK: G/Get Ready For Revival chord sheet.md
+  - mapped leftover tag "revival"
+OK: G/Get Ready For Revival.md
+  - mapped leftover tag "revival"
+OK: G/Get Your Mind On Jesus-1 [2].md
+  - mapped leftover tag "jesus"
+OK: G/Get Your Mind On Jesus-1 [4].md
+  - mapped leftover tag "jesus"
+OK: G/Get Your Mind On Jesus-1.md
+  - mapped leftover tag "jesus"
+OK: G/Get Your Mind On Jesus-my edit.md
+  - mapped leftover tag "jesus"
+OK: G/Get Your Mind on Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "help"
+OK: G/Give Glory To The Lord-1.md
+  - mapped leftover tag "glory"
+OK: G/Give Glory To The Lord-my edit.md
+  - mapped leftover tag "glory"
+OK: G/Give God The Glory full song.md
+  - mapped leftover tag "jesus"
+OK: G/Give God The Glory.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "blood"
+OK: G/Give Him Praise 2.md
+  - mapped leftover tag "jesus"
+OK: G/Give Him Praise.md
+  - mapped leftover tag "jesus"
+OK: G/Give Him The Glory [2].md
+  - mapped leftover tag "glory"
+OK: G/Give Him The Glory [4].md
+  - mapped leftover tag "glory"
+OK: G/Give Him The Glory | Chordify version.md
+  - mapped leftover tag "glory"
+OK: G/Give Him The Glory | LYRICS ONLY.md
+  - mapped leftover tag "glory"
+OK: G/Give Him The Highest Praise [3].md
+  - no pass-3 mappings found
+OK: G/Give Him The Highest Praise. [Eb].md
+  - no pass-3 mappings found
+OK: G/Give Him The Highest Praise.md
+  - no pass-3 mappings found
+OK: G/Give Him the Glory.md
+  - mapped leftover tag "glory"
+OK: G/Give Me A Reason.md
+  - no pass-3 mappings found
+OK: G/Give Me Jesus [3].md
+  - mapped leftover tag "jesus"
+OK: G/Give Me Jesus.md
+  - mapped leftover tag "jesus"
+OK: G/Give Me Your Eyes.md
+  - no pass-3 mappings found
+OK: G/Give Mix.md
+  - no pass-3 mappings found
+OK: G/Give Thanks.md
+  - mapped leftover tag "thanks"
+OK: G/Give Them All To Jesus.md
+  - mapped leftover tag "jesus"
+OK: G/Give Up.md
+  - no pass-3 mappings found
+OK: G/Give You Glory (We Give You Glory).md
+  - mapped leftover tag "glory"
+OK: G/Give the Lord the Highest Praise [3].md
+  - mapped leftover tag "dance"
+OK: G/Give the Lord the Highest Praise.md
+  - mapped leftover tag "dance"
+OK: G/Give.md
+  - no pass-3 mappings found
+OK: G/Giving My Best [4].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "giving"
+OK: G/Gloria [3].md
+  - mapped leftover tag "angels"
+OK: G/Gloria.md
+  - mapped leftover tag "glory"
+OK: G/Glorious Day (Living He Loved Me).md
+  - no pass-3 mappings found
+OK: G/Glorious.md
+  - no pass-3 mappings found
+OK: G/Glory And Honor To You.md
+  - mapped leftover tag "father"
+OK: G/Glory To His Name (206 SUTL).md
+  - mapped leftover tag "sutl"
+  - mapped leftover tag "glory"
+OK: G/Glory To His Name II(206 SUTL).md
+  - mapped leftover tag "sutl"
+  - mapped leftover tag "glory"
+OK: G/Glory To The Lord.md
+  - mapped leftover tag "glory"
+OK: G/Glory [3].md
+  - mapped leftover tag "glory"
+OK: G/Glory and Honor to You [3].md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "honor"
+OK: G/Glory, Glory, Glory, Somebody Touched Me.md
+  - mapped leftover tag "glory"
+OK: G/Glory, Glory, Hallelujah.md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "breakthrough"
+OK: G/Glory.md
+  - mapped leftover tag "glory"
+OK: G/Go Tell It On The Mountain.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "christ"
+OK: G/Go.md
+  - no pass-3 mappings found
+OK: G/God Be Merciful To Me.md
+  - mapped leftover tag "grace"
+OK: G/God Is -- Vocals and Chord Chart.md
+  - no pass-3 mappings found
+OK: G/God Is About To Do Marvelous Things.md
+  - no pass-3 mappings found
+OK: G/God Is Good All The Time [3].md
+  - no pass-3 mappings found
+OK: G/God Is Good All the Time.md
+  - no pass-3 mappings found
+OK: G/God Is Great.md
+  - no pass-3 mappings found
+OK: G/God Is Here, God Is Real.md
+  - mapped leftover tag "presence"
+  - mapped leftover tag "anthemic"
+OK: G/God Is In The House.md
+  - no pass-3 mappings found
+OK: G/God Is So Good -EASY- CONTEMP..md
+  - mapped leftover tag "peace"
+OK: G/God Is With Us.md
+  - mapped leftover tag "savior"
+OK: G/God Is.md
+  - mapped leftover tag "awesome"
+OK: G/God Of Wonders [2].md
+  - mapped leftover tag "heaven"
+OK: G/God Of Wonders [4].md
+  - mapped leftover tag "heaven"
+OK: G/God On The Mountain.md
+  - mapped leftover tag "faith"
+OK: G/God Rest Ye Merry Gentlemen.md
+  - mapped leftover tag "joy"
+  - mapped leftover tag "comfort"
+OK: G/God Will Lift Up Your Head.md
+  - mapped leftover tag "joy"
+  - mapped leftover tag "wise"
+OK: G/God Will Make A Way.md
+  - no pass-3 mappings found
+OK: G/God Will Open Up The Windows Of Heaven.md
+  - mapped leftover tag "blessing"
+  - mapped leftover tag "heaven"
+  - mapped leftover tag "provision"
+OK: G/God With Us.md
+  - no pass-3 mappings found
+OK: G/God is My Refuge and Strength.md
+  - mapped leftover tag "refuge"
+  - mapped leftover tag "strength"
+OK: G/God is a good God.md
+  - no pass-3 mappings found
+OK: G/God of Wonders.md
+  - mapped leftover tag "heaven"
+OK: G/God's Been Better To Me.md
+  - no pass-3 mappings found
+OK: G/God's Not Through With You.md
+  - no pass-3 mappings found
+OK: G/God's Wonderful People.md
+  - mapped leftover tag "love"
+OK: G/God’s Not Dead [2].md
+  - mapped leftover tag "life"
+  - mapped leftover tag "service"
+OK: G/God’s Not Dead [4].md
+  - no pass-3 mappings found
+OK: G/God’s Not Dead.md
+  - mapped leftover tag "life"
+  - mapped leftover tag "service"
+OK: G/Going Back.md
+  - no pass-3 mappings found
+OK: G/Gomers Theme.md
+  - mapped leftover tag "love"
+OK: G/Goodbye World Goodbye [3].md
+  - mapped leftover tag "heaven"
+OK: G/Goodbye World Goodbye.md
+  - mapped leftover tag "heaven"
+OK: G/Goodness Of God Ileia Sharaé Church Of The City-G.md
+  - mapped leftover tag "goodness"
+OK: G/Goodness of God Lead Melody Line.md
+  - mapped leftover tag "goodness"
+  - mapped leftover tag "life"
+OK: G/Goodness of God [3].md
+  - mapped leftover tag "goodness"
+  - mapped leftover tag "life"
+OK: G/Goodness of God.md
+  - mapped leftover tag "goodness"
+  - mapped leftover tag "life"
+OK: G/Great I Am.md
+  - mapped leftover tag "almighty"
+OK: G/Great Is Thy Faithfulness [3].md
+  - no pass-3 mappings found
+OK: G/Great Is Thy Faithfulness.md
+  - no pass-3 mappings found
+OK: G/Great Light of the World.md
+  - mapped leftover tag "light"
+OK: G/Great Praise for a Great God.md
+  - no pass-3 mappings found
+OK: G/Great Praise-Great God [Eb].md
+  - no pass-3 mappings found
+OK: G/Greater Alto.md
+  - no pass-3 mappings found
+OK: G/Greater Is He That Is in Me [2].md
+  - no pass-3 mappings found
+OK: G/Greater Is He That Is in Me [4].md
+  - no pass-3 mappings found
+OK: G/Greater Is He That Is in Me.md
+  - no pass-3 mappings found
+OK: G/Greater PRC.md
+  - mapped leftover tag "power"
+OK: G/Greater [3].md
+  - no pass-3 mappings found
+OK: G/Greater-1 [2].md
+  - no pass-3 mappings found
+OK: G/Greater-1 [4].md
+  - no pass-3 mappings found
+OK: G/Greater-1.md
+  - no pass-3 mappings found
+OK: G/Greater.md
+  - mapped leftover tag "power"
+OK: G/Growing Young.md
+  - no pass-3 mappings found
+OK: G/give it all to jesus.md
+  - mapped leftover tag "jesus"
+OK: H/HE KNOWS MY NAME- if that isnt love medley.md
+  - mapped leftover tag "love"
+OK: H/HE SAW ME.md
+  - no pass-3 mappings found
+OK: H/HE UNDERSTANDS MY TEARS-THE ISAACS.md
+  - no pass-3 mappings found
+OK: H/HE'S AN AWESOME GOD (Cooley version).md
+  - mapped leftover tag "angels"
+  - mapped leftover tag "awesome"
+OK: H/HE'S AN AWESOME GOD (Lyrics).md
+  - mapped leftover tag "angels"
+  - mapped leftover tag "awesome"
+OK: H/HE'S AN AWESOME GOD (Yandris arrangement).md
+  - mapped leftover tag "angels"
+  - mapped leftover tag "awesome"
+OK: H/HE'S AN AWESOME GOD II (Yandris arrangement).md
+  - mapped leftover tag "angels"
+  - mapped leftover tag "awesome"
+OK: H/HE'S AN AWESOME GOD--LYRICS ONLY (Yandris arrangement).md
+  - mapped leftover tag "angels"
+  - mapped leftover tag "awesome"
+OK: H/HEADS, SHOULDERS, KNEES, TOES.md
+  - no pass-3 mappings found
+OK: H/HERE I AM LORD [2].md
+  - no pass-3 mappings found
+OK: H/HERE I AM, LORD.md
+  - no pass-3 mappings found
+OK: H/HOLY GHOST original.md
+  - mapped leftover tag "holy-ghost"
+OK: H/HOLY GHOST.md
+  - mapped leftover tag "holy-ghost"
+OK: H/HOLY HOLY.md
+  - no pass-3 mappings found
+OK: H/Hallelujah Amen.md
+  - no pass-3 mappings found
+OK: H/Hallelujah Anyhow.md
+  - no pass-3 mappings found
+OK: H/Hallelujah Praise The Lamb [3].md
+  - no pass-3 mappings found
+OK: H/Hallelujah Praise The Lamb chorus version 2.md
+  - no pass-3 mappings found
+OK: H/Hallelujah Praise The Lamb.md
+  - no pass-3 mappings found
+OK: H/Hallelujah, Hallelujah.md
+  - no pass-3 mappings found
+OK: H/Hallelujah, He is Able.md
+  - no pass-3 mappings found
+OK: H/Hallelujah, Oh Lord We Praise Your Name [2].md
+  - no pass-3 mappings found
+OK: H/Hallelujah, Oh Lord We Praise Your Name.md
+  - no pass-3 mappings found
+OK: H/Hallelujah, Praises To Your Name Hallelujah, Oh Lord We Praise Your Name.md
+  - no pass-3 mappings found
+OK: H/Hallelujah, Praises To Your Name.md
+  - no pass-3 mappings found
+OK: H/Hallelujah.md
+  - no pass-3 mappings found
+OK: H/Hand.md
+  - no pass-3 mappings found
+OK: H/Hard To Get.md
+  - no pass-3 mappings found
+OK: H/Hard.md
+  - mapped leftover tag "jesus"
+OK: H/Hatching Of A Heart.md
+  - mapped leftover tag "love"
+OK: H/Have A Little Talk With Jesus. [F].md
+  - mapped leftover tag "jesus"
+OK: H/Have A Little Talk With Jesus.md
+  - mapped leftover tag "jesus"
+OK: H/Have Mercy.md
+  - mapped leftover tag "mercy"
+OK: H/Have Thine Own Way [3].md
+  - no pass-3 mappings found
+OK: H/Have Thine Own Way.md
+  - no pass-3 mappings found
+OK: H/Have Your Way, Lord.md
+  - no pass-3 mappings found
+OK: H/Have Your Way.md
+  - no pass-3 mappings found
+OK: H/He Ain't Never Done Me Nothin' But Good.md
+  - no pass-3 mappings found
+OK: H/He Brought Me A Mighty Long Way.md
+  - no pass-3 mappings found
+OK: H/He Brought Me Out - version 2.md
+  - mapped leftover tag "sutl"
+OK: H/He Brought Me Out.md
+  - mapped leftover tag "sutl"
+OK: H/He Came Looking For Me LEAD SHEET.md
+  - no pass-3 mappings found
+OK: H/He Came Looking For Me [2].md
+  - mapped leftover tag "jesus"
+OK: H/He Came Looking For Me [4].md
+  - mapped leftover tag "jesus"
+OK: H/He Came Looking For Me.md
+  - no pass-3 mappings found
+OK: H/He Came Through.md
+  - no pass-3 mappings found
+OK: H/He Came To Me.md
+  - no pass-3 mappings found
+OK: H/He Didn't Have To Do It But He Did.md
+  - no pass-3 mappings found
+OK: H/He Gives Strength To Me 2.md
+  - mapped leftover tag "strength"
+OK: H/He Gives Strength To Me [3].md
+  - mapped leftover tag "strength"
+OK: H/He Gives Strength To Me-2.md
+  - mapped leftover tag "strength"
+OK: H/He Gives Strength To Me.md
+  - mapped leftover tag "strength"
+OK: H/He Is All I Need And More.md
+  - no pass-3 mappings found
+OK: H/He Is Here.md
+  - no pass-3 mappings found
+OK: H/He Is Lord.md
+  - no pass-3 mappings found
+OK: H/He Is My Rock.md
+  - mapped leftover tag "rock"
+OK: H/He Knows My Name [3].md
+  - no pass-3 mappings found
+OK: H/He Knows My Name.md
+  - mapped leftover tag "light"
+OK: H/He Looked Beyond My Fault [2].md
+  - mapped leftover tag "grace"
+OK: H/He Looked Beyond My Fault [4].md
+  - no pass-3 mappings found
+OK: H/He Looked Beyond My Fault.md
+  - mapped leftover tag "grace"
+OK: H/He Sees It All.md
+  - no pass-3 mappings found
+OK: H/He Set Me Free [2].md
+  - mapped leftover tag "glory"
+OK: H/He Set Me Free [4].md
+  - mapped leftover tag "glory"
+OK: H/He Set Me Free.md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "sutl"
+OK: H/He That Overcometh.md
+  - no pass-3 mappings found
+OK: H/He That The Son Has Set Free.md
+  - no pass-3 mappings found
+OK: H/He Took My Sins Away [3].md
+  - no pass-3 mappings found
+OK: H/He Touched Me-1.md
+  - mapped leftover tag "cleansing"
+  - mapped leftover tag "healing"
+  - mapped leftover tag "testimony"
+OK: H/He Touched Me-version 2.md
+  - mapped leftover tag "cleansing"
+  - mapped leftover tag "healing"
+  - mapped leftover tag "testimony"
+OK: H/He Will Carry You.md
+  - no pass-3 mappings found
+OK: H/He Wrote My Name.md
+  - mapped leftover tag "savior"
+  - mapped leftover tag "sin"
+OK: H/He has made me glad.md
+  - no pass-3 mappings found
+OK: H/He took my sins away.md
+  - no pass-3 mappings found
+OK: H/He'll Do It Again.md
+  - no pass-3 mappings found
+OK: H/He'll Make A Way.md
+  - no pass-3 mappings found
+OK: H/He's Alive [2].md
+  - mapped leftover tag "alive"
+  - mapped leftover tag "power"
+OK: H/He's Alive [4].md
+  - mapped leftover tag "alive"
+  - mapped leftover tag "power"
+OK: H/He's Alive melody line.md
+  - mapped leftover tag "alive"
+  - mapped leftover tag "power"
+OK: H/He's Alive.md
+  - mapped leftover tag "alive"
+  - mapped leftover tag "power"
+OK: H/He's An Answering God.md
+  - no pass-3 mappings found
+OK: H/He's Been Faithful.md
+  - no pass-3 mappings found
+OK: H/He's Coming Soon [3].md
+  - no pass-3 mappings found
+OK: H/He's Coming Soon.md
+  - no pass-3 mappings found
+OK: H/He's Everything They Told Me.md
+  - no pass-3 mappings found
+OK: H/He's God.md
+  - mapped leftover tag "presence"
+  - mapped leftover tag "reverence"
+  - mapped leftover tag "thanksgiving"
+OK: H/He's In The Room - Chord Chart.md
+  - no pass-3 mappings found
+OK: H/He's My Lord.md
+  - no pass-3 mappings found
+OK: H/He's My Rock, My Sword, My Shield.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "rock"
+OK: H/He's Real.md
+  - mapped leftover tag "trust"
+OK: H/He's The Only Reason I Live.md
+  - mapped leftover tag "longing"
+OK: H/He's in the Room alto [2].md
+  - no pass-3 mappings found
+OK: H/He's in the Room alto.md
+  - mapped leftover tag "life"
+OK: H/He's in the Room lead.md
+  - mapped leftover tag "life"
+OK: H/He's in the Room lyrics.md
+  - no pass-3 mappings found
+OK: H/He.md
+  - no pass-3 mappings found
+OK: H/Heal Us Oh Lord.md
+  - no pass-3 mappings found
+OK: H/Healer.md
+  - mapped leftover tag "believe"
+OK: H/Healing Hand Of God.md
+  - mapped leftover tag "healing"
+OK: H/Hear My Calling Great Redemeer.md
+  - mapped leftover tag "calling"
+OK: H/Hear My Voice.md
+  - no pass-3 mappings found
+OK: H/Hear Us From Heaven.md
+  - mapped leftover tag "desperation"
+  - mapped leftover tag "heaven"
+OK: H/Heart Cries Holy.md
+  - no pass-3 mappings found
+OK: H/Hearts Sing Louder.md
+  - mapped leftover tag "jesus"
+OK: H/Heaven In His Eyes.md
+  - mapped leftover tag "heaven"
+OK: H/Heaven On My Mind.md
+  - mapped leftover tag "heaven"
+  - mapped leftover tag "life"
+OK: H/Heaven's Jubilee.md
+  - mapped leftover tag "heaven"
+OK: H/Heaven's Open [3].md
+  - mapped leftover tag "heaven"
+OK: H/Heaven's Open.md
+  - mapped leftover tag "heaven"
+OK: H/Heavenly Father We Appreciate You-LYRICS.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "comfort"
+OK: H/Heavenly Father We Appreciate You.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "comfort"
+OK: H/Heavenly Father [3].md
+  - mapped leftover tag "father"
+OK: H/Heavenly Father-1.md
+  - mapped leftover tag "father"
+OK: H/Heavenly Father-my edit.md
+  - mapped leftover tag "father"
+OK: H/Heavenly Father.md
+  - mapped leftover tag "father"
+OK: H/Hello Old Friends.md
+  - no pass-3 mappings found
+OK: H/Here Am I.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "king"
+OK: H/Here As In Heaven.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "heaven"
+OK: H/Here For You.md
+  - no pass-3 mappings found
+OK: H/Here Goes.md
+  - no pass-3 mappings found
+OK: H/Here I Am Lord [4].md
+  - no pass-3 mappings found
+OK: H/Here I Am Lord.md
+  - no pass-3 mappings found
+OK: H/Here I Am To Worship (BURBANK) [3].md
+  - no pass-3 mappings found
+OK: H/Here I Am To Worship (BURBANK).md
+  - no pass-3 mappings found
+OK: H/Here I Am To Worship - LYRICS.md
+  - no pass-3 mappings found
+OK: H/Here I Am To Worship - version 2.md
+  - no pass-3 mappings found
+OK: H/Here I Am To Worship [2].md
+  - no pass-3 mappings found
+OK: H/Here I Am To Worship [3].md
+  - no pass-3 mappings found
+OK: H/Here I Am To Worship [5].md
+  - no pass-3 mappings found
+OK: H/Here I Am To Worship.md
+  - no pass-3 mappings found
+OK: H/Here I Am To WorshipCall Upon The Name.md
+  - no pass-3 mappings found
+OK: H/Here I Am [3].md
+  - no pass-3 mappings found
+OK: H/Here I Am, Lord-EASY.md
+  - no pass-3 mappings found
+OK: H/Here I Am.md
+  - no pass-3 mappings found
+OK: H/Here I Go Again.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "friend"
+OK: H/Here In America.md
+  - mapped leftover tag "israel"
+  - mapped leftover tag "king"
+OK: H/Here We Are (In Your Presence).md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "presence"
+OK: H/Here With Me.md
+  - no pass-3 mappings found
+OK: H/He’s All I Need.md
+  - no pass-3 mappings found
+OK: H/He’s Coming Soon.md
+  - mapped leftover tag "sutl"
+OK: H/He’s In This Place 3.1.md
+  - no pass-3 mappings found
+OK: H/He’s In This Place Version 2 [2].md
+  - no pass-3 mappings found
+OK: H/He’s In This Place Version 2.md
+  - no pass-3 mappings found
+OK: H/He’s In This Place Version.md
+  - no pass-3 mappings found
+OK: H/He’s In This Place [2].md
+  - no pass-3 mappings found
+OK: H/He’s In This Place [4].md
+  - no pass-3 mappings found
+OK: H/He’s In This Place mod- Surround Me 3.0.md
+  - no pass-3 mappings found
+OK: H/He’s In This Place.md
+  - no pass-3 mappings found
+OK: H/He’s In this Place Surround Me.md
+  - no pass-3 mappings found
+OK: H/He’s In this PlaceSurround Me 1.0.md
+  - no pass-3 mappings found
+OK: H/He’s In this PlaceSurround Me 1.1.md
+  - no pass-3 mappings found
+OK: H/He’s In this PlaceSurround Me 2.0.md
+  - no pass-3 mappings found
+OK: H/He’s In this PlaceSurround Me 2.1.md
+  - no pass-3 mappings found
+OK: H/He’s In this PlaceSurround Me.md
+  - mapped leftover tag "joy"
+OK: H/He’s My Rock, My Sword, My Shield.md
+  - mapped leftover tag "rock"
+  - mapped leftover tag "shield"
+  - mapped leftover tag "prayer"
+OK: H/Hidden Track On Offerings.md
+  - no pass-3 mappings found
+OK: H/Hiding Place.md
+  - mapped leftover tag "grace"
+  - mapped leftover tag "christ"
+OK: H/Higher Ground (Sing Unto The Lord Songbook, 319).md
+  - no pass-3 mappings found
+OK: H/Higher Ground 2 (Sing Unto The Lord Songbook, 319).md
+  - no pass-3 mappings found
+OK: H/Higher Ground [2].md
+  - no pass-3 mappings found
+OK: H/Higher Ground [4].md
+  - no pass-3 mappings found
+OK: H/Higher Ground.md
+  - no pass-3 mappings found
+OK: H/His Name Is Wonderful.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "his-name"
+OK: H/His Strength Is Perfect.md
+  - mapped leftover tag "power"
+  - mapped leftover tag "strength"
+OK: H/Hit Me Like A Bomb.md
+  - mapped leftover tag "life"
+OK: H/Hold Fast.md
+  - no pass-3 mappings found
+OK: H/Hold Me Jesus [3].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "glory"
+OK: H/Hold Me Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "glory"
+OK: H/Hold To God's Unchanging Hand.md
+  - no pass-3 mappings found
+OK: H/Holiness (Take My Life).md
+  - mapped leftover tag "holiness"
+  - mapped leftover tag "life"
+OK: H/Holy Fire.md
+  - mapped leftover tag "heaven"
+  - mapped leftover tag "holy-fire"
+OK: H/Holy ForeveWorthy Medley Erv 2.0.md
+  - no pass-3 mappings found
+OK: H/Holy Forever ERV 1.0.md
+  - no pass-3 mappings found
+OK: H/Holy Ghost ALTO.md
+  - mapped leftover tag "holy-ghost"
+  - mapped leftover tag "revival"
+OK: H/Holy Ghost [3].md
+  - mapped leftover tag "holy-ghost"
+OK: H/Holy Ghost and Fire [2].md
+  - mapped leftover tag "alive"
+  - mapped leftover tag "holy-ghost"
+OK: H/Holy Ghost and Fire [3].md
+  - mapped leftover tag "alive"
+  - mapped leftover tag "holy-ghost"
+OK: H/Holy Ghost and Fire [5].md
+  - mapped leftover tag "alive"
+  - mapped leftover tag "holy-ghost"
+OK: H/Holy Ghost and Fire.md
+  - mapped leftover tag "alive"
+  - mapped leftover tag "holy-ghost"
+OK: H/Holy Ghost is Genuine.md
+  - mapped leftover tag "holy-ghost"
+OK: H/Holy Ground [3].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "holiness"
+OK: H/Holy Ground.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "holiness"
+OK: H/Holy Is The Lamb [2].md
+  - no pass-3 mappings found
+OK: H/Holy Is The Lamb [4].md
+  - no pass-3 mappings found
+OK: H/Holy Is Your Name [3].md
+  - no pass-3 mappings found
+OK: H/Holy Is Your Name.md
+  - no pass-3 mappings found
+OK: H/Holy Life [Eb].md
+  - mapped leftover tag "life"
+OK: H/Holy Life.md
+  - mapped leftover tag "life"
+OK: H/Holy Of Holies.md
+  - no pass-3 mappings found
+OK: H/Holy One.md
+  - mapped leftover tag "glory"
+OK: H/Holy Spirit Come Fill This Place.md
+  - mapped leftover tag "holy-spirit"
+OK: H/Holy Spirit Fill this Room.md
+  - mapped leftover tag "presence"
+  - mapped leftover tag "holy-spirit"
+OK: H/Holy Spirit Rain Down On Me.md
+  - mapped leftover tag "holy-spirit"
+OK: H/Holy Spirit Rain Down On Us.md
+  - mapped leftover tag "holy-spirit"
+OK: H/Holy Spirit Rain Down [2].md
+  - mapped leftover tag "holy-spirit"
+OK: H/Holy Spirit Rain Down [3].md
+  - mapped leftover tag "holy-spirit"
+OK: H/Holy Spirit Rain Down [5].md
+  - mapped leftover tag "holy-spirit"
+OK: H/Holy Spirit Rain Down.md
+  - mapped leftover tag "holy-spirit"
+OK: H/Holy Spirit [3].md
+  - mapped leftover tag "presence"
+  - mapped leftover tag "glory"
+OK: H/Holy Spirit, Thou Art Welcome.md
+  - mapped leftover tag "father"
+  - mapped leftover tag "holy-spirit"
+OK: H/Holy Spirit.md
+  - mapped leftover tag "holy-spirit"
+OK: H/Holy is The Lamb.md
+  - mapped leftover tag "glory"
+OK: H/Holy, Holy, Holy.md
+  - no pass-3 mappings found
+OK: H/Holy, Righteous [3].md
+  - no pass-3 mappings found
+OK: H/Holy, Righteous.md
+  - mapped leftover tag "holiness"
+  - mapped leftover tag "presence"
+  - mapped leftover tag "righteousness"
+OK: H/Home.md
+  - mapped leftover tag "home"
+OK: H/Homesick.md
+  - mapped leftover tag "home"
+  - mapped leftover tag "strength"
+OK: H/Honestly.md
+  - no pass-3 mappings found
+OK: H/Hope Of The Broken World.md
+  - mapped leftover tag "hope"
+  - mapped leftover tag "light"
+OK: H/Hope To Carry On.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: H/Hosanna - Vocals & Chord Chart.md
+  - no pass-3 mappings found
+OK: H/House of God.md
+  - no pass-3 mappings found
+OK: H/How Can It Be.md
+  - no pass-3 mappings found
+OK: H/How Did You Feel?.md
+  - no pass-3 mappings found
+OK: H/How Great Is Our God My Tribute MEDLEY.md
+  - no pass-3 mappings found
+OK: H/How Great Is Our God [2].md
+  - no pass-3 mappings found
+OK: H/How Great Is Our God [4].md
+  - no pass-3 mappings found
+OK: H/How Great Is Our God.md
+  - no pass-3 mappings found
+OK: H/How Great Is Your Love.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "glory"
+OK: H/How Great Thou Art-version 2.md
+  - no pass-3 mappings found
+OK: H/How Great Thou Art. [G] [3].md
+  - no pass-3 mappings found
+OK: H/How Great Thou Art. [G].md
+  - no pass-3 mappings found
+OK: H/How Great Thou Art.md
+  - no pass-3 mappings found
+OK: H/How He Loves (How He Loves Us).md
+  - no pass-3 mappings found
+OK: H/How about your heart?.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "christ"
+OK: H/Hows Your Head.md
+  - no pass-3 mappings found
+OK: H/Hunger alto.md
+  - mapped leftover tag "hunger"
+OK: H/Hunger lead [2].md
+  - mapped leftover tag "hunger"
+  - mapped leftover tag "immerse"
+OK: H/Hunger lead.md
+  - mapped leftover tag "hunger"
+  - mapped leftover tag "immerse"
+OK: H/Hunger.md
+  - mapped leftover tag "hunger"
+  - mapped leftover tag "immerse"
+OK: H/Hymn.md
+  - no pass-3 mappings found
+OK: H/his eye is on the sparrow.md
+  - no pass-3 mappings found
+OK: I/I AIN'T GONNA LET HIM GO.md
+  - no pass-3 mappings found
+OK: I/I Am Blessed [3].md
+  - mapped leftover tag "rest"
+OK: I/I Am Blessed.md
+  - no pass-3 mappings found
+OK: I/I Am Crucified With Christ.md
+  - mapped leftover tag "grace"
+  - mapped leftover tag "christ"
+OK: I/I Am Determined to Hold Out [3].md
+  - mapped leftover tag "jesus"
+OK: I/I Am Determined to Hold Out.md
+  - mapped leftover tag "jesus"
+OK: I/I Am Not Alone.md
+  - no pass-3 mappings found
+OK: I/I Am Not Ashamed.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "christ"
+OK: I/I Am Nothing.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "thank"
+OK: I/I Am Redeemed (by His Love).md
+  - mapped leftover tag "love"
+  - mapped leftover tag "christ"
+OK: I/I Am Thine, O Lord Draw Me Nearer 2.md
+  - no pass-3 mappings found
+OK: I/I Am Thine, O Lord Draw Me Nearer 3.md
+  - no pass-3 mappings found
+OK: I/I Am Thine, O Lord Draw Me Nearer.md
+  - no pass-3 mappings found
+OK: I/I Am Thine, O Lord.md
+  - no pass-3 mappings found
+OK: I/I Am [2].md
+  - mapped leftover tag "redeemer"
+  - mapped leftover tag "savior"
+OK: I/I Am [3].md
+  - no pass-3 mappings found
+OK: I/I Am [4].md
+  - mapped leftover tag "love"
+OK: I/I Am [6].md
+  - no pass-3 mappings found
+OK: I/I Am.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "light"
+OK: I/I Believe I Can Fly.md
+  - mapped leftover tag "believe"
+OK: I/I Believe In Love.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "believe"
+OK: I/I Believe The Promise (I Believe The Presence).md
+  - mapped leftover tag "presence"
+  - mapped leftover tag "believe"
+OK: I/I Believe.md
+  - mapped leftover tag "believe"
+OK: I/I Bless Your Name [2].md
+  - mapped leftover tag "truth"
+OK: I/I Bless Your Name [3].md
+  - no pass-3 mappings found
+OK: I/I Bless Your Name [4].md
+  - no pass-3 mappings found
+OK: I/I Bless Your Name [5].md
+  - no pass-3 mappings found
+OK: I/I Bless Your Name [7].md
+  - no pass-3 mappings found
+OK: I/I Bless Your Name-edit.md
+  - mapped leftover tag "truth"
+OK: I/I Bless Your Name.md
+  - no pass-3 mappings found
+OK: I/I CAME HERE TO STAY (You Can Run If You Want To).md
+  - no pass-3 mappings found
+OK: I/I Call Him Jesus My RockHes My Rock My Sword, My Shield Medley.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "rock"
+OK: I/I Call You Faithful.md
+  - no pass-3 mappings found
+OK: I/I Came To Praise His Name.md
+  - mapped leftover tag "his-name"
+OK: I/I Came To Praise the Lord (I don't know what you came to do).md
+  - no pass-3 mappings found
+OK: I/I Came to Magnify.md
+  - no pass-3 mappings found
+OK: I/I Came to Praise.md
+  - no pass-3 mappings found
+OK: I/I Can Feel The Lord’s Presence In This Place.md
+  - mapped leftover tag "presence"
+OK: I/I Can Feel Your Presence, Lord -EASY.md
+  - mapped leftover tag "presence"
+OK: I/I Can Only Imagine (alt. version).md
+  - no pass-3 mappings found
+OK: I/I Can Only Imagine.md
+  - no pass-3 mappings found
+OK: I/I Can't Complain.md
+  - no pass-3 mappings found
+OK: I/I Can't Even Walk.md
+  - no pass-3 mappings found
+OK: I/I Can't Feel at Home in This World Anymore.md
+  - mapped leftover tag "home"
+OK: I/I Can't Live A Day.md
+  - mapped leftover tag "life"
+OK: I/I Cannot Fail The Lord.md
+  - no pass-3 mappings found
+OK: I/I Can’t Complain.md
+  - no pass-3 mappings found
+OK: I/I Choose To Be A Chrisian.md
+  - no pass-3 mappings found
+OK: I/I Choose to be a Christian.md
+  - no pass-3 mappings found
+OK: I/I Collide.md
+  - no pass-3 mappings found
+OK: I/I Could Never Outlove the Lord.md
+  - no pass-3 mappings found
+OK: I/I Could Sing Of Your Love Forever.md
+  - mapped leftover tag "love"
+OK: I/I DON'T MIND WAITING.md
+  - no pass-3 mappings found
+OK: I/I Deserve.md
+  - no pass-3 mappings found
+OK: I/I Don't Know What You Came To Do.md
+  - no pass-3 mappings found
+OK: I/I Don't Know What You Came to Do [2].md
+  - no pass-3 mappings found
+OK: I/I Don't Know Why.md
+  - mapped leftover tag "sacrifice"
+OK: I/I Don't Know.md
+  - no pass-3 mappings found
+OK: I/I Don't Want To Go.md
+  - mapped leftover tag "home"
+OK: I/I Dont Mind Waiting.md
+  - no pass-3 mappings found
+OK: I/I Don’t Mind [2].md
+  - no pass-3 mappings found
+OK: I/I Don’t Mind [4].md
+  - no pass-3 mappings found
+OK: I/I Don’t Mind-1.md
+  - no pass-3 mappings found
+OK: I/I Don’t Mind.md
+  - no pass-3 mappings found
+OK: I/I Exalt Thee [3].md
+  - mapped leftover tag "os-slow"
+OK: I/I Exalt Thee version 2.md
+  - mapped leftover tag "os-slow"
+OK: I/I Exalt Thee.md
+  - no pass-3 mappings found
+OK: I/I Exalt Theev3.md
+  - mapped leftover tag "os-slow"
+OK: I/I FEEL A STIRRING IN THE ATMOSPHERE.md
+  - mapped leftover tag "awesome"
+  - mapped leftover tag "power"
+OK: I/I FEEL LIKE PRAISING HIM [2].md
+  - no pass-3 mappings found
+OK: I/I FEEL LIKE PRAISING HIM.md
+  - no pass-3 mappings found
+OK: I/I FEEL LIKE SOMETHING GOOD IS ABOUT TO HAPPEN.md
+  - no pass-3 mappings found
+OK: I/I Feel A Stirring A.md
+  - no pass-3 mappings found
+OK: I/I Feel A Stirring [3].md
+  - no pass-3 mappings found
+OK: I/I Feel A Stirring | LYRICS ONLY.md
+  - no pass-3 mappings found
+OK: I/I Feel A Stirring.md
+  - no pass-3 mappings found
+OK: I/I Feel Jesus #2.md
+  - mapped leftover tag "jesus"
+OK: I/I Feel Jesus.md
+  - mapped leftover tag "jesus"
+OK: I/I Feel Like Going On.md
+  - no pass-3 mappings found
+OK: I/I Feel Like Praisin Him.md
+  - no pass-3 mappings found
+OK: I/I Feel Like Praisin' Him.md
+  - no pass-3 mappings found
+OK: I/I Feel Like Praising Him (O O O).md
+  - no pass-3 mappings found
+OK: I/I Feel Like Praising Him [4].md
+  - no pass-3 mappings found
+OK: I/I Feel Like Praisin’ Praisin’ Him.md
+  - no pass-3 mappings found
+OK: I/I Feel Like Traveling On.md
+  - mapped leftover tag "home"
+OK: I/I Feel The Joy [2].md
+  - mapped leftover tag "joy"
+OK: I/I Feel The Joy [3].md
+  - mapped leftover tag "joy"
+OK: I/I Feel The Joy [5].md
+  - mapped leftover tag "joy"
+OK: I/I Feel The Joy.md
+  - mapped leftover tag "joy"
+OK: I/I Feel The Spirit Moving.md
+  - no pass-3 mappings found
+OK: I/I GET JOY WHEN I THINK ABOUT.md
+  - mapped leftover tag "joy"
+OK: I/I GIVE YOU JESUS -Medley.md
+  - mapped leftover tag "jesus"
+OK: I/I Give Myself Away.md
+  - mapped leftover tag "life"
+  - mapped leftover tag "sacrifice"
+  - mapped leftover tag "faith"
+  - mapped leftover tag "salvation"
+  - mapped leftover tag "surrender"
+OK: I/I Give You Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "life"
+OK: I/I Give You My Heart (This Is My Desire).md
+  - mapped leftover tag "desire"
+OK: I/I Give You My Heart words & music.md
+  - no pass-3 mappings found
+OK: I/I Go To The Rock [3].md
+  - mapped leftover tag "rock"
+OK: I/I Go To The Rock-- version 2.md
+  - mapped leftover tag "rock"
+OK: I/I Go To The Rock.md
+  - mapped leftover tag "rock"
+  - mapped leftover tag "protection"
+  - mapped leftover tag "provision"
+OK: I/I Got A Feeling.md
+  - no pass-3 mappings found
+OK: I/I Got Up And Went.md
+  - no pass-3 mappings found
+OK: I/I HAVE NO REGRETS - EASY.md
+  - no pass-3 mappings found
+OK: I/I Have A Friend [3].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "friend"
+OK: I/I Have A Friend.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "friend"
+OK: I/I Have Decided To Follow Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "cross"
+OK: I/I Have Found The Way [3].md
+  - mapped leftover tag "glory"
+OK: I/I Have Found The Way.md
+  - mapped leftover tag "glory"
+OK: I/I Have Made My Decision [2].md
+  - no pass-3 mappings found
+OK: I/I Have Made My Decision [4].md
+  - no pass-3 mappings found
+OK: I/I Have Made My Decision.md
+  - no pass-3 mappings found
+OK: I/I Have a Father Who Can.md
+  - mapped leftover tag "father"
+OK: I/I Heard The Bells On Christmas Day [3].md
+  - mapped leftover tag "men"
+  - mapped leftover tag "peace"
+OK: I/I Heard The Bells On Christmas Day.md
+  - mapped leftover tag "men"
+  - mapped leftover tag "peace"
+OK: I/I Held On.md
+  - no pass-3 mappings found
+OK: I/I JUST STARTED LIVIN'.md
+  - no pass-3 mappings found
+OK: I/I Just Came To Tell You [3].md
+  - mapped leftover tag "love"
+OK: I/I Just Came To Tell You.md
+  - mapped leftover tag "love"
+OK: I/I Just Can't Tell You [3].md
+  - no pass-3 mappings found
+OK: I/I Just Can't Tell You.md
+  - no pass-3 mappings found
+OK: I/I Just Feel Like Something Good Is About To Happen.md
+  - mapped leftover tag "assurance"
+  - mapped leftover tag "comfort"
+OK: I/I Just Want To Thank You.md
+  - mapped leftover tag "thank"
+OK: I/I Know I'm Saved [2].md
+  - no pass-3 mappings found
+OK: I/I Know I'm Saved [3].md
+  - no pass-3 mappings found
+OK: I/I Know I'm Saved [5].md
+  - no pass-3 mappings found
+OK: I/I Know I'm Saved.md
+  - mapped leftover tag "sutl"
+OK: I/I Know It Was The Blood [3].md
+  - mapped leftover tag "blood"
+OK: I/I Know It Was The Blood. [F].md
+  - mapped leftover tag "blood"
+OK: I/I Know It Was The Blood.md
+  - mapped leftover tag "blood"
+  - mapped leftover tag "crucifixion"
+OK: I/I Know Now [3].md
+  - no pass-3 mappings found
+OK: I/I Know Now.md
+  - no pass-3 mappings found
+OK: I/I Know The Lord Will Make A Way For Me.md
+  - no pass-3 mappings found
+OK: I/I Know You're There.md
+  - no pass-3 mappings found
+OK: I/I Know Your Calling.md
+  - mapped leftover tag "calling"
+OK: I/I LIFT MY SPIRIT TO YOUR SPIRIT.md
+  - mapped leftover tag "joy"
+  - mapped leftover tag "power"
+OK: I/I LOVE TO SING YOUR PRAISE II.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "adoration"
+OK: I/I LOVE TO SING YOUR PRAISE [2].md
+  - mapped leftover tag "love"
+OK: I/I LOVE TO SING YOUR PRAISE [3].md
+  - mapped leftover tag "love"
+OK: I/I LOVE TO SING YOUR PRAISE [4].md
+  - mapped leftover tag "love"
+OK: I/I LOVE TO SING YOUR PRAISE [5].md
+  - mapped leftover tag "love"
+OK: I/I LOVE TO SING YOUR PRAISE.md
+  - mapped leftover tag "love"
+OK: I/I Lean On You Lord [F].md
+  - no pass-3 mappings found
+OK: I/I Lean On You Lord.md
+  - no pass-3 mappings found
+OK: I/I Love Him Too Much (To Fail Him Now) [2].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "sutl"
+OK: I/I Love Him Too Much (To Fail Him Now) [4].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "sutl"
+OK: I/I Love Him Too Much (To Fail Him Now)-my edit.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "sutl"
+OK: I/I Love Him Too Much (To Fail Him Now).md
+  - mapped leftover tag "love"
+  - mapped leftover tag "sutl"
+OK: I/I Love Jesus Best Of All - version 2.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "sutl"
+OK: I/I Love Jesus Best Of All [2].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "sutl"
+OK: I/I Love Jesus Best Of All [4].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "sutl"
+OK: I/I Love Jesus Best Of All.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "sutl"
+OK: I/I Love To Praise Him.md
+  - mapped leftover tag "love"
+OK: I/I Love To Sing Your P.md
+  - mapped leftover tag "love"
+OK: I/I Love To Worship You.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "awesome"
+OK: I/I Love To Worship Your Name.md
+  - mapped leftover tag "love"
+OK: I/I Love You Lord Today.md
+  - mapped leftover tag "love"
+OK: I/I Love You Lord [2].md
+  - mapped leftover tag "love"
+OK: I/I Love You Lord [3].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "life"
+OK: I/I Love You Lord [4].md
+  - mapped leftover tag "love"
+OK: I/I Love You Lord [5].md
+  - mapped leftover tag "love"
+OK: I/I Love You Lord [6].md
+  - mapped leftover tag "love"
+OK: I/I Love You Lord [8].md
+  - mapped leftover tag "love"
+OK: I/I Love You Lord.md
+  - mapped leftover tag "love"
+OK: I/I Love You With All of My Life.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "mercy"
+OK: I/I Love You, Dear Lord - EASY.md
+  - mapped leftover tag "love"
+OK: I/I Love the Lord and I Won't Take it Back [2].md
+  - mapped leftover tag "love"
+OK: I/I Love the Lord and I Won't Take it Back.md
+  - mapped leftover tag "love"
+OK: I/I Love to Sing Your Praise [7].md
+  - mapped leftover tag "love"
+OK: I/I MAGNIFY.md
+  - no pass-3 mappings found
+OK: I/I NEED JESUS.md
+  - mapped leftover tag "jesus"
+OK: I/I Need A Touch.md
+  - no pass-3 mappings found
+OK: I/I Need Thee (110).md
+  - mapped leftover tag "sutl"
+OK: I/I Need Thee Every Hour.md
+  - mapped leftover tag "savior"
+OK: I/I Need You More.md
+  - no pass-3 mappings found
+OK: I/I Need You.md
+  - mapped leftover tag "shelter"
+OK: I/I Need Your Anointing [3].md
+  - mapped leftover tag "desire"
+  - mapped leftover tag "anointing"
+  - mapped leftover tag "blessing"
+OK: I/I Need Your Anointing.md
+  - no pass-3 mappings found
+OK: I/I Need Your Glory Lead Sheet.md
+  - mapped leftover tag "glory"
+OK: I/I Need Your Glory [2].md
+  - mapped leftover tag "glory"
+OK: I/I Need Your Glory [4].md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "power"
+OK: I/I Need Your Glory.md
+  - mapped leftover tag "glory"
+OK: I/I Need Your Mercy.md
+  - mapped leftover tag "mercy"
+OK: I/I Never Lost My Praise-my edit.md
+  - mapped leftover tag "faith"
+OK: I/I Never Lost My Praise.md
+  - no pass-3 mappings found
+OK: I/I Offer Up This Praise.md
+  - no pass-3 mappings found
+OK: I/I Pledge Allegiance To The Lamb.md
+  - no pass-3 mappings found
+OK: I/I Put My Trust In You.md
+  - mapped leftover tag "life"
+  - mapped leftover tag "trust"
+OK: I/I Remember You.md
+  - no pass-3 mappings found
+OK: I/I SHALL KNOW HIM.md
+  - no pass-3 mappings found
+OK: I/I Saw The Light.md
+  - mapped leftover tag "light"
+OK: I/I See A Crimson Stream.md
+  - no pass-3 mappings found
+OK: I/I See Love.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "grace"
+OK: I/I See The Lord.md
+  - mapped leftover tag "angels"
+  - mapped leftover tag "glory"
+OK: I/I See You.md
+  - no pass-3 mappings found
+OK: I/I Shall Not Be Moved.md
+  - no pass-3 mappings found
+OK: I/I Sing Praises.md
+  - mapped leftover tag "jesus"
+OK: I/I Speak Jesus.md
+  - mapped leftover tag "jesus"
+OK: I/I Stand Amazed (Oh How Marvelous).md
+  - mapped leftover tag "love"
+  - mapped leftover tag "adoration"
+  - mapped leftover tag "aspiration"
+  - mapped leftover tag "atomement"
+  - mapped leftover tag "awesome"
+  - mapped leftover tag "beauty"
+  - mapped leftover tag "blood"
+  - mapped leftover tag "cross"
+  - mapped leftover tag "crucifixion"
+  - mapped leftover tag "declaration"
+  - mapped leftover tag "easter"
+  - mapped leftover tag "eternal-life"
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "presence"
+  - mapped leftover tag "redemption"
+  - mapped leftover tag "sacrifice"
+  - mapped leftover tag "salvation"
+  - mapped leftover tag "savior"
+  - mapped leftover tag "saviour"
+  - mapped leftover tag "sin"
+  - mapped leftover tag "sorrow"
+  - mapped leftover tag "will"
+OK: I/I Started Living.md
+  - mapped leftover tag "giving"
+OK: I/I Still Believe In The Church.md
+  - mapped leftover tag "believe"
+  - mapped leftover tag "rock"
+OK: I/I Still Believe.md
+  - mapped leftover tag "believe"
+OK: I/I Surrender All (Sing Unto The Lord 290).md
+  - mapped leftover tag "jesus"
+OK: I/I Surrender All We Say Yes [2].md
+  - mapped leftover tag "jesus"
+OK: I/I Surrender All We Say Yes.md
+  - no pass-3 mappings found
+OK: I/I Surrender All [2].md
+  - mapped leftover tag "jesus"
+OK: I/I Surrender All [4].md
+  - mapped leftover tag "jesus"
+OK: I/I Surrender All.md
+  - no pass-3 mappings found
+OK: I/I Surrender To You.md
+  - no pass-3 mappings found
+OK: I/I Surrender.md
+  - no pass-3 mappings found
+OK: I/I Thank You [3].md
+  - mapped leftover tag "thank"
+OK: I/I Thank You.md
+  - mapped leftover tag "thank"
+OK: I/I Tremble.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "blood"
+OK: I/I Tried Him For Myself [2].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "glory"
+OK: I/I Tried Him For Myself [4].md
+  - no pass-3 mappings found
+OK: I/I Tried Him For Myself.md
+  - no pass-3 mappings found
+OK: I/I Turn To You.md
+  - no pass-3 mappings found
+OK: I/I WILL BLESS THEE, O LORD - EASY.md
+  - no pass-3 mappings found
+OK: I/I WILL BLESS THEE, O LORD - EASY| LYRICS.md
+  - no pass-3 mappings found
+OK: I/I WILL RISE UP.md
+  - no pass-3 mappings found
+OK: I/I WILL SING (UNTO THE LORD) version 2.md
+  - mapped leftover tag "his-name"
+OK: I/I WILL SING (UNTO THE LORD).md
+  - mapped leftover tag "his-name"
+OK: I/I WILL SING (UNTO THE LORD)|LYRICS.md
+  - mapped leftover tag "his-name"
+OK: I/I Wait For The Lord.md
+  - no pass-3 mappings found
+OK: I/I Wanna Be More Like You.md
+  - no pass-3 mappings found
+OK: I/I Want More Of Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "os-apo"
+  - mapped leftover tag "sutl"
+OK: I/I Want To Be Holy.md
+  - no pass-3 mappings found
+OK: I/I Want To Be More Like You.md
+  - no pass-3 mappings found
+OK: I/I Want To Washed in the Blood of the Lamb.md
+  - mapped leftover tag "blood"
+OK: I/I Want to Hear You're Welcome.md
+  - no pass-3 mappings found
+OK: I/I Was Glad (When They Said Unto Me) [3].md
+  - no pass-3 mappings found
+OK: I/I Was Glad (When They Said Unto Me).md
+  - no pass-3 mappings found
+OK: I/I Was Glad When They Said Unto Me [2].md
+  - no pass-3 mappings found
+OK: I/I Was Glad When They Said Unto Me [3].md
+  - no pass-3 mappings found
+OK: I/I Was Glad When They Said Unto Me [5].md
+  - no pass-3 mappings found
+OK: I/I Was Glad When They Said Unto Me.md
+  - no pass-3 mappings found
+OK: I/I Will Be The One.md
+  - no pass-3 mappings found
+OK: I/I Will Bless The Lord- EASY.md
+  - no pass-3 mappings found
+OK: I/I Will Bless Thee, O Lord.md
+  - no pass-3 mappings found
+OK: I/I Will Bless You Lord [3].md
+  - no pass-3 mappings found
+OK: I/I Will Bless You Lord.md
+  - no pass-3 mappings found
+OK: I/I Will Carry You.md
+  - mapped leftover tag "lullaby"
+OK: I/I Will Enter His Gates-EASY-FAST 4 [3].md
+  - no pass-3 mappings found
+OK: I/I Will Enter His Gates-EASY-FAST 4.md
+  - mapped leftover tag "rejoice"
+OK: I/I Will Enter His Gates.md
+  - no pass-3 mappings found
+OK: I/I Will Follow.md
+  - mapped leftover tag "life"
+OK: I/I Will Give You All.md
+  - mapped leftover tag "sacrifice"
+OK: I/I Will Glory In The Cross.md
+  - mapped leftover tag "cross"
+  - mapped leftover tag "glory"
+OK: I/I Will Hold My Head High.md
+  - no pass-3 mappings found
+OK: I/I Will Lift My Eyes [3].md
+  - no pass-3 mappings found
+OK: I/I Will Lift My Eyes.md
+  - no pass-3 mappings found
+OK: I/I Will Live ( 2 chord ).md
+  - no pass-3 mappings found
+OK: I/I Will Live.md
+  - no pass-3 mappings found
+OK: I/I Will Praise Him Still.md
+  - no pass-3 mappings found
+OK: I/I Will Praise Him.md
+  - no pass-3 mappings found
+OK: I/I Will Rise Up [3].md
+  - mapped leftover tag "love"
+OK: I/I Will Rise [3].md
+  - mapped leftover tag "sorrow"
+OK: I/I Will Rise.md
+  - mapped leftover tag "sorrow"
+OK: I/I Will Run To You.md
+  - no pass-3 mappings found
+OK: I/I Will Sing Unto the Lord [2].md
+  - mapped leftover tag "his-name"
+OK: I/I Will Sing Unto the Lord [3].md
+  - mapped leftover tag "his-name"
+OK: I/I Will Sing Unto the Lord [4].md
+  - mapped leftover tag "his-name"
+OK: I/I Will Sing Unto the Lord [6].md
+  - mapped leftover tag "his-name"
+OK: I/I Will Sing Unto the Lord.md
+  - mapped leftover tag "his-name"
+OK: I/I Will Sing.md
+  - no pass-3 mappings found
+OK: I/I Will Stand in the Congregation-2.md
+  - mapped leftover tag "exaltation"
+OK: I/I Will Stand in the Congregation.md
+  - no pass-3 mappings found
+OK: I/I Will Tell the World.md
+  - no pass-3 mappings found
+OK: I/I Won't Go Back [2].md
+  - mapped leftover tag "change"
+OK: I/I Won't Go Back [3].md
+  - no pass-3 mappings found
+OK: I/I Won't Go Back [4].md
+  - no pass-3 mappings found
+OK: I/I Won't Go Back [6].md
+  - no pass-3 mappings found
+OK: I/I Won't Go Back.md
+  - no pass-3 mappings found
+OK: I/I Won't Turn Back.md
+  - mapped leftover tag "faith"
+OK: I/I Worship You Almighty God 3 modulations.md
+  - mapped leftover tag "almighty"
+OK: I/I Worship You Almighty God [2].md
+  - mapped leftover tag "almighty"
+OK: I/I Worship You Almighty God [3].md
+  - mapped leftover tag "almighty"
+OK: I/I Worship You Almighty God [5].md
+  - mapped leftover tag "almighty"
+OK: I/I Worship You Almighty God.md
+  - mapped leftover tag "almighty"
+OK: I/I Worship You With All Of Me -- version I [3].md
+  - mapped leftover tag "life"
+OK: I/I Worship You With All Of Me -- version I.md
+  - mapped leftover tag "life"
+OK: I/I Worship You With All Of Me -- version II.md
+  - mapped leftover tag "life"
+OK: I/I Worship You With All Of Me [3].md
+  - no pass-3 mappings found
+OK: I/I Worship You With All Of Me | LYRICS ONLY.md
+  - no pass-3 mappings found
+OK: I/I Worship You With All Of Me.md
+  - no pass-3 mappings found
+OK: I/I Worship You [3].md
+  - no pass-3 mappings found
+OK: I/I Worship You.md
+  - no pass-3 mappings found
+OK: I/I Would Not Be Denied [3].md
+  - no pass-3 mappings found
+OK: I/I Would Not Be Denied.md
+  - no pass-3 mappings found
+OK: I/I know God is God.md
+  - mapped leftover tag "name"
+OK: I/I love Jesus where he leads me I will follow.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: I/I must be saved.md
+  - no pass-3 mappings found
+OK: I/I woke up this morning with my mind.md
+  - no pass-3 mappings found
+OK: I/I'M GOING THROUGH (WITH JESUS).md
+  - mapped leftover tag "jesus"
+OK: I/I'M NOT MY OWN, I'VE BEEN BOUGHT WITH A PRICE.md
+  - no pass-3 mappings found
+OK: I/I'd Rather Be on the Inside Looking Out.md
+  - no pass-3 mappings found
+OK: I/I'd Rather Have Jesus.md
+  - mapped leftover tag "jesus"
+OK: I/I'll Be Alright As Soon As I Touch Calvary.md
+  - mapped leftover tag "calvary"
+OK: I/I'll Be Brave This Christmas.md
+  - no pass-3 mappings found
+OK: I/I'll Be Singing There [2].md
+  - mapped leftover tag "glory"
+OK: I/I'll Be Singing There [4].md
+  - mapped leftover tag "glory"
+OK: I/I'll Be Singing There.md
+  - mapped leftover tag "eternal"
+  - mapped leftover tag "glory"
+  - mapped leftover tag "sutl"
+OK: I/I'll Be Your Miracle.md
+  - no pass-3 mappings found
+OK: I/I'll Carry On.md
+  - mapped leftover tag "home"
+OK: I/I'll Fly Away [2].md
+  - no pass-3 mappings found
+OK: I/I'll Fly Away [3].md
+  - no pass-3 mappings found
+OK: I/I'll Fly Away [5].md
+  - no pass-3 mappings found
+OK: I/I'll Fly Away.md
+  - no pass-3 mappings found
+OK: I/I'll Keep Holding Onto You Jesus.md
+  - mapped leftover tag "jesus"
+OK: I/I'll Lean on You Lord.md
+  - no pass-3 mappings found
+OK: I/I'll Say Yes.md
+  - mapped leftover tag "acceptance"
+  - mapped leftover tag "christian-life"
+  - mapped leftover tag "gods-word"
+OK: I/I'm A One God Apostolic.md
+  - no pass-3 mappings found
+OK: I/I'm A Pentecostal.md
+  - mapped leftover tag "pentecost"
+  - mapped leftover tag "one-god"
+OK: I/I'm A Soldier.md
+  - mapped leftover tag "service"
+  - mapped leftover tag "warfare"
+OK: I/I'm Alive.md
+  - mapped leftover tag "alive"
+OK: I/I'm Alright.md
+  - no pass-3 mappings found
+OK: I/I'm Amazed [3].md
+  - mapped leftover tag "love"
+OK: I/I'm Amazed.md
+  - no pass-3 mappings found
+OK: I/I'm Available To You 2nd edit.md
+  - no pass-3 mappings found
+OK: I/I'm Available To You my edit.md
+  - no pass-3 mappings found
+OK: I/I'm Available To You.md
+  - no pass-3 mappings found
+OK: I/I'm Claiming My Promise.md
+  - mapped leftover tag "promise"
+OK: I/I'm Determined In My Heart To Praise Him.md
+  - no pass-3 mappings found
+OK: I/I'm Free.md
+  - no pass-3 mappings found
+OK: I/I'm Getting Ready to Leave This World.md
+  - mapped leftover tag "heaven"
+OK: I/I'm Getting Ready.md
+  - no pass-3 mappings found
+OK: I/I'm Going All The Way With The Lord [2].md
+  - mapped leftover tag "commitment"
+  - mapped leftover tag "declaration"
+OK: I/I'm Going All The Way With The Lord [4].md
+  - mapped leftover tag "commitment"
+  - mapped leftover tag "declaration"
+OK: I/I'm Going All The Way With The Lord.md
+  - mapped leftover tag "commitment"
+  - mapped leftover tag "declaration"
+OK: I/I'm Going All The Way.md
+  - no pass-3 mappings found
+OK: I/I'm Going Through [3].md
+  - no pass-3 mappings found
+OK: I/I'm Going Through.md
+  - no pass-3 mappings found
+OK: I/I'm Going Up Yonder.md
+  - no pass-3 mappings found
+OK: I/I'm Gonna Dance All Over This House [2].md
+  - mapped leftover tag "jesus"
+OK: I/I'm Gonna Dance All Over This House [4].md
+  - mapped leftover tag "jesus"
+OK: I/I'm Gonna Dance All Over This House.md
+  - mapped leftover tag "jesus"
+OK: I/I'm Gonna Dance for the Victory.md
+  - mapped leftover tag "jesus"
+OK: I/I'm Gonna Lift Up The Name Of Jesus.md
+  - mapped leftover tag "jesus"
+OK: I/I'm Gonna Live So.md
+  - no pass-3 mappings found
+OK: I/I'm Gonna Praise the Lord Any Way That I Can.md
+  - mapped leftover tag "rejoice"
+  - mapped leftover tag "os-apo"
+OK: I/I'm Looking for a Miracle.md
+  - no pass-3 mappings found
+OK: I/I'm Loving You More Each Day.md
+  - mapped leftover tag "thank"
+OK: I/I'm Not Ashamed.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "dance"
+  - mapped leftover tag "urban-gospel"
+OK: I/I'm Not My Own, I've Been Bought With a Price [3].md
+  - no pass-3 mappings found
+OK: I/I'm Not Who I Was.md
+  - no pass-3 mappings found
+OK: I/I'm On The Stairway To Heaven.md
+  - mapped leftover tag "heaven"
+OK: I/I'm On The Winning Side-1.md
+  - no pass-3 mappings found
+OK: I/I'm On The Winning Side.md
+  - no pass-3 mappings found
+OK: I/I'm Redeemed. [F].md
+  - no pass-3 mappings found
+OK: I/I'm So Glad He Found Me.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "home"
+OK: I/I'm So Glad Jesus Lifted Me-EASY.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "sin"
+OK: I/I'm So Glad Jesus Set Me Free I'm So Glad Jesus Lifted Me.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "glory"
+  - mapped leftover tag "joy"
+  - mapped leftover tag "gladness"
+OK: I/I'm So Glad That I Was Buried Version 2.md
+  - mapped leftover tag "jesus"
+OK: I/I'm So Glad That I've Been Buried | version 1.md
+  - no pass-3 mappings found
+OK: I/I'm So Glad That The Lord Saved Me.md
+  - no pass-3 mappings found
+OK: I/I'm Still Listening.md
+  - no pass-3 mappings found
+OK: I/I'm Yours, Lord.md
+  - no pass-3 mappings found
+OK: I/I'm a Soldier [3].md
+  - no pass-3 mappings found
+OK: I/I'm in the Lord's Army.md
+  - mapped leftover tag "army"
+OK: I/I've Already been to the water.md
+  - no pass-3 mappings found
+OK: I/I've Always Loved You (easy).md
+  - no pass-3 mappings found
+OK: I/I've Always Loved You.md
+  - no pass-3 mappings found
+OK: I/I've Been Changed.md
+  - mapped leftover tag "conversion"
+  - mapped leftover tag "baptism"
+OK: I/I've Been Delivered [3].md
+  - no pass-3 mappings found
+OK: I/I've Been Delivered.md
+  - no pass-3 mappings found
+OK: I/I've Been Redeemed [2].md
+  - no pass-3 mappings found
+OK: I/I've Been Redeemed.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "blood"
+OK: I/I've Got A Feeling.md
+  - no pass-3 mappings found
+OK: I/I've Got A River Of Life [3].md
+  - mapped leftover tag "life"
+  - mapped leftover tag "river"
+OK: I/I've Got A River Of Life.md
+  - mapped leftover tag "life"
+  - mapped leftover tag "river"
+OK: I/I've Got Confidence.md
+  - mapped leftover tag "confidence"
+OK: I/I've Got It [2].md
+  - no pass-3 mappings found
+OK: I/I've Got It [3].md
+  - no pass-3 mappings found
+OK: I/I've Got It [4].md
+  - no pass-3 mappings found
+OK: I/I've Got It.md
+  - mapped leftover tag "holy-ghost"
+OK: I/I've Got Jesus On My Mind.md
+  - mapped leftover tag "jesus"
+OK: I/I've Got Jesus, I've Got Him On My Mind - chorus.md
+  - mapped leftover tag "jesus"
+OK: I/I've Got My Foot on the Rock and My Mind Made Up.md
+  - mapped leftover tag "rock"
+OK: I/I've Got The Holy Ghost [3].md
+  - mapped leftover tag "bible"
+  - mapped leftover tag "holy-ghost"
+OK: I/I've Got The Holy Ghost.md
+  - mapped leftover tag "bible"
+  - mapped leftover tag "holy-ghost"
+OK: I/I've Got a Home up in Glory.md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "home"
+OK: I/I've Got a Right to Praise the Lord [2].md
+  - no pass-3 mappings found
+OK: I/I've Got a Right to Praise the Lord [4].md
+  - no pass-3 mappings found
+OK: I/I've Got a Right to Praise the Lord.md
+  - mapped leftover tag "children"
+OK: I/I've got something in my pocket.md
+  - no pass-3 mappings found
+OK: I/IF YOU SAY GO.md
+  - no pass-3 mappings found
+OK: I/IN AWE OF YOU WE WORSHIP.md
+  - no pass-3 mappings found
+OK: I/IN THE PRESENCE OF JEHOVAH chorus.md
+  - mapped leftover tag "presence"
+OK: I/IÕm Gonna Lift Up The Name Of Jesus [2].md
+  - mapped leftover tag "jesus"
+OK: I/IT'S BECAUSE OF YOU [2].md
+  - no pass-3 mappings found
+OK: I/If God Be For Us.md
+  - no pass-3 mappings found
+OK: I/If I Stand [3].md
+  - mapped leftover tag "longing"
+OK: I/If I Stand.md
+  - no pass-3 mappings found
+OK: I/If I were... [3].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "thank"
+OK: I/If I were....md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "thank"
+OK: I/If My People Pray.md
+  - mapped leftover tag "grace"
+OK: I/If Not For Grace.md
+  - mapped leftover tag "grace"
+OK: I/If That Isn't Love.md
+  - mapped leftover tag "love"
+OK: I/If We Are The Body.md
+  - mapped leftover tag "love"
+OK: I/If We Never Meet Again.md
+  - mapped leftover tag "heaven"
+  - mapped leftover tag "life"
+OK: I/If We've Ever Needed You.md
+  - no pass-3 mappings found
+OK: I/If You Come To Him.md
+  - no pass-3 mappings found
+OK: I/If You Come to Him [3].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "hope"
+OK: I/If You Had Known Me.md
+  - no pass-3 mappings found
+OK: I/If You're Not Ashamed [3].md
+  - no pass-3 mappings found
+OK: I/If You're Not Ashamed.md
+  - no pass-3 mappings found
+OK: I/In Awe of You [3].md
+  - no pass-3 mappings found
+OK: I/In Awe of You.md
+  - no pass-3 mappings found
+OK: I/In Christ Alone [2].md
+  - mapped leftover tag "christ"
+  - mapped leftover tag "cross"
+OK: I/In Christ Alone [3].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "christ"
+OK: I/In Christ Alone [4].md
+  - mapped leftover tag "christ"
+OK: I/In Christ Alone [5].md
+  - mapped leftover tag "christ"
+  - mapped leftover tag "glory"
+OK: I/In Christ Alone [7].md
+  - mapped leftover tag "christ"
+  - mapped leftover tag "life"
+OK: I/In Christ Alone.md
+  - mapped leftover tag "christ"
+OK: I/In Christ.md
+  - mapped leftover tag "christ"
+OK: I/In Everything Give Thanks.md
+  - mapped leftover tag "king"
+OK: I/In God We Trust 2.md
+  - mapped leftover tag "hope"
+  - mapped leftover tag "trust"
+OK: I/In God We Trust.md
+  - mapped leftover tag "trust"
+OK: I/In His Presence There's Fulness Of Joy.md
+  - mapped leftover tag "presence"
+  - mapped leftover tag "joy"
+OK: I/In His Presence-- MY EDIT.md
+  - mapped leftover tag "presence"
+OK: I/In His Presence.md
+  - mapped leftover tag "presence"
+OK: I/In Jesus Name.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "christ"
+OK: I/In Me.md
+  - mapped leftover tag "christ"
+  - mapped leftover tag "light"
+OK: I/In My Life.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "life"
+OK: I/In Not Of.md
+  - mapped leftover tag "love"
+OK: I/In That Name [3].md
+  - mapped leftover tag "love"
+OK: I/In That Name v.2 chordify.md
+  - mapped leftover tag "jesus"
+OK: I/In That Name v.3 chordify.md
+  - mapped leftover tag "jesus"
+OK: I/In That Name.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: I/In The Blink of An Eye.md
+  - mapped leftover tag "alive"
+OK: I/In The City Where The Lamb Is The Light.md
+  - mapped leftover tag "light"
+OK: I/In The Garden There Is None Like You (medley).md
+  - no pass-3 mappings found
+OK: I/In The Name Of Jesus | LYRICS.md
+  - mapped leftover tag "jesus"
+OK: I/In The Name Of Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "victory"
+OK: I/In The Name of Jesus [3].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "the-name"
+OK: I/In The Presence Of A Holy God [3].md
+  - mapped leftover tag "presence"
+OK: I/In The Presence Of A Holy God [4].md
+  - mapped leftover tag "presence"
+OK: I/In The Presence Of Jehovah 2.md
+  - mapped leftover tag "presence"
+OK: I/In The Presence Of Jehovah A.md
+  - mapped leftover tag "presence"
+OK: I/In The Presence Of Jehovah mod.md
+  - mapped leftover tag "presence"
+  - mapped leftover tag "almighty"
+OK: I/In The Presence Of Jehovah.md
+  - mapped leftover tag "presence"
+OK: I/In The Presence of a Holy God.md
+  - mapped leftover tag "presence"
+OK: I/In The Sanctuary.md
+  - mapped leftover tag "rest"
+OK: I/In The Waiting.md
+  - no pass-3 mappings found
+OK: I/In You.md
+  - no pass-3 mappings found
+OK: I/In Your Presence.md
+  - mapped leftover tag "presence"
+OK: I/In the Waiting [3].md
+  - no pass-3 mappings found
+OK: I/Indescribable.md
+  - no pass-3 mappings found
+OK: I/Innocent.md
+  - no pass-3 mappings found
+OK: I/Into The Chamber.md
+  - no pass-3 mappings found
+OK: I/Into Your Presence.md
+  - mapped leftover tag "presence"
+OK: I/Irresistible.md
+  - mapped leftover tag "love"
+OK: I/Isaiah 52 10.md
+  - no pass-3 mappings found
+OK: I/Isn't He Wonderful.md
+  - no pass-3 mappings found
+OK: I/It Ain’t Over Yet [3].md
+  - no pass-3 mappings found
+OK: I/It Ain’t Over Yet.md
+  - no pass-3 mappings found
+OK: I/It Came Upon A Midnight Clear.md
+  - mapped leftover tag "heaven"
+  - mapped leftover tag "peace"
+OK: I/It Feels So Good - my edit.md
+  - no pass-3 mappings found
+OK: I/It Feels So Good [3].md
+  - no pass-3 mappings found
+OK: I/It Feels So Good.md
+  - no pass-3 mappings found
+OK: I/It Is No Secret.md
+  - no pass-3 mappings found
+OK: I/It Is Well With My Soul.md
+  - no pass-3 mappings found
+OK: I/It Will Be Worth It All (When We See Christ).md
+  - mapped leftover tag "christ"
+OK: I/It's A Shame.md
+  - no pass-3 mappings found
+OK: I/It's About Time.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: I/It's All About You.md
+  - mapped leftover tag "jesus"
+OK: I/It's Alright (No CapoSpecial Tuning).md
+  - no pass-3 mappings found
+OK: I/It's Alright.md
+  - no pass-3 mappings found
+OK: I/It's Amazing What Praising Can Do.md
+  - no pass-3 mappings found
+OK: I/It's Because of You [4].md
+  - mapped leftover tag "joy"
+OK: I/It's Because of You.md
+  - no pass-3 mappings found
+OK: I/It's Gonna Be Worth It All [2].md
+  - no pass-3 mappings found
+OK: I/It's Gonna Be Worth It All [4].md
+  - no pass-3 mappings found
+OK: I/It's Gonna Be Worth It All.md
+  - no pass-3 mappings found
+OK: I/It's My Desire-1.md
+  - mapped leftover tag "desire"
+  - mapped leftover tag "sutl"
+OK: I/It's My Desire-version 2.md
+  - mapped leftover tag "desire"
+  - mapped leftover tag "sutl"
+OK: I/It's My Joy.md
+  - mapped leftover tag "joy"
+OK: I/It's Time To Praise The Lord.md
+  - no pass-3 mappings found
+OK: I/It's for me, It's for you.md
+  - no pass-3 mappings found
+OK: I/Its Alright (solo).md
+  - no pass-3 mappings found
+OK: I/I’m Satisfied.md
+  - no pass-3 mappings found
+OK: I/I’m So Glad Jesus Lifted Me.md
+  - mapped leftover tag "jesus"
+OK: I/I’m So Glad That I’ve Been Buried.md
+  - no pass-3 mappings found
+OK: I/I’m Thankful That’s All Chorus.md
+  - mapped leftover tag "thankful"
+OK: I/I’m Thankful That’s All.md
+  - mapped leftover tag "thankful"
+OK: I/I’ve Already Been To The Water-Chorus.md
+  - no pass-3 mappings found
+OK: I/I’ve Already Been To The Water.md
+  - mapped leftover tag "baptism"
+  - mapped leftover tag "water"
+OK: I/I’ve Been Changed.md
+  - no pass-3 mappings found
+OK: I/I’ve Got My Mind Made Up.md
+  - no pass-3 mappings found
+OK: I/I’ve Got The Holy Ghost.md
+  - mapped leftover tag "holy-ghost"
+OK: I/I’ve Got To Praise Him.md
+  - no pass-3 mappings found
+OK: I/i feel the angels over me.md
+  - mapped leftover tag "angels"
+OK: I/i feel the joy of the lord.md
+  - mapped leftover tag "joy"
+OK: I/i got it.md
+  - no pass-3 mappings found
+OK: I/i know God is a good god.md
+  - no pass-3 mappings found
+OK: I/i love the lord and i wont take it back.md
+  - mapped leftover tag "love"
+OK: I/i sing this dong for you.md
+  - no pass-3 mappings found
+OK: I/i will be what you want me to be.md
+  - no pass-3 mappings found
+OK: I/if we all work together.md
+  - no pass-3 mappings found
+OK: J/JESUS IS THE REASON WHY I SING.md
+  - mapped leftover tag "jesus"
+OK: J/JESUS ON THE INSIDE-my edit.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "life"
+  - mapped leftover tag "os-christian"
+  - mapped leftover tag "santification"
+OK: J/JESUS ON THE INSIDE.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "life"
+OK: J/Jacob And Two Women.md
+  - mapped leftover tag "women"
+OK: J/Jealous Kind.md
+  - mapped leftover tag "love"
+OK: J/Jericho.md
+  - mapped leftover tag "love"
+OK: J/Jesus At The Center.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Be The Center [3].md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Be The Center.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Be The Lord Of All.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "guidance"
+OK: J/Jesus Blessed Saviour (He's Worthy To Be Praised).md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Come Quickly.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Firm Foundation.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "foundation"
+OK: J/Jesus Friend of Sinners.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: J/Jesus I Love You - MODULATE WHOLE STEP.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: J/Jesus I Love You.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: J/Jesus I'll Never Forget [2].md
+  - mapped leftover tag "jesus"
+OK: J/Jesus I'll Never Forget.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Is All The World To Me.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "friend"
+  - mapped leftover tag "sutl"
+OK: J/Jesus Is Coming Soon.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Is Everything I Need.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "life"
+OK: J/Jesus Is My Rock.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "rock"
+OK: J/Jesus Is The Answer version 2.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Is The Answer | LYRICS.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Is The Answer.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Is The Sweetest Name I Know [3].md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Is The Sweetest Name I Know.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus I’ll Never Forget + He's Done So Much For Me I cannot Tell It All.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "freedom"
+OK: J/Jesus Lover Of My Soul.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Loves Me [3].md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Loves Me.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Medley PDF [3].md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Medley PDF.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Messiah.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: J/Jesus On the Main Line.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Paid It All [2].md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Paid It All [4].md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Paid It All.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Real Loud.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Said It ORIGINAL.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "believe"
+OK: J/Jesus Said It.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "believe"
+OK: J/Jesus Saves.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus The Son Of God.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus Use Me [3].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "help"
+OK: J/Jesus Use Me.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "help"
+OK: J/Jesus Will Outshine Them All [3].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "sutl"
+OK: J/Jesus Will Outshine Them All.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "sutl"
+OK: J/Jesus Will Outshine Them AllSwaggart 1972.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "glory"
+  - mapped leftover tag "sutl"
+OK: J/Jesus You're Worthy.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus is the Lord of the Way I Feel.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus is the Reason Why I Sing [3].md
+  - mapped leftover tag "jesus"
+OK: J/Jesus is the sweetest name.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus' Blood Never Failed Me Yet.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "blood"
+OK: J/Jesus, Blessed Savior (He's Worthy To Be Praised).md
+  - mapped leftover tag "jesus"
+OK: J/Jesus, Blessed Savior (He’s Worthy To Be Praised).md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "savior"
+OK: J/Jesus, Hold My Hand [2].md
+  - mapped leftover tag "jesus"
+OK: J/Jesus, Hold My Hand [4].md
+  - mapped leftover tag "jesus"
+OK: J/Jesus, Hold My Hand.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus, I Lift My Eyes.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus, I’ll Never Forget- my edit.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus, Jesus, Jesus - There's Just Something About.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus, Jesus, no other name under heaven can save us.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "heaven"
+OK: J/Jesus, King Of Angels.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "angels"
+OK: J/Jesus, Light Of The World.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "light"
+OK: J/Jesus, Lover Of My Soul.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus, My Rock.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "rock"
+OK: J/Jesus, Name Above All Names-EASY.md
+  - mapped leftover tag "jesus"
+OK: J/Jesus, What A Wonder [2].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "wonder"
+OK: J/Jesus, What A Wonder [3].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "wonder"
+OK: J/Jesus, What A Wonder [5].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "wonder"
+OK: J/Jesus, What A Wonder.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "wonder"
+OK: J/Jesus.md
+  - mapped leftover tag "jesus"
+OK: J/Joseph's Lullaby.md
+  - mapped leftover tag "lullaby"
+OK: J/Joy To The World.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "joy"
+OK: J/Joy Unspeakable.md
+  - mapped leftover tag "joy"
+  - mapped leftover tag "glory"
+OK: J/Joy, Joy To The World [3].md
+  - mapped leftover tag "jesus"
+OK: J/Joy, Joy To The World.md
+  - mapped leftover tag "jesus"
+OK: J/Joy, Joy, Joy Joy Down in My Soul.md
+  - mapped leftover tag "joy"
+OK: J/Joyful Joyful.md
+  - mapped leftover tag "love"
+OK: J/Just A Closer Walk With Thee.md
+  - no pass-3 mappings found
+OK: J/Just A Little Talk With Jesus [3].md
+  - mapped leftover tag "jesus"
+OK: J/Just A Little Talk With Jesus.md
+  - mapped leftover tag "jesus"
+OK: J/Just Because You Are God.md
+  - no pass-3 mappings found
+OK: J/Just Keep Praisin Him [2].md
+  - mapped leftover tag "men"
+OK: J/Just Keep Praisin Him [4].md
+  - mapped leftover tag "men"
+OK: J/Just Keep Praisin Him.md
+  - mapped leftover tag "men"
+OK: J/Just Over In The Glory Land [3].md
+  - mapped leftover tag "glory"
+OK: J/Just Over In The Glory Land.md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "sutl"
+OK: J/Just Say Jesus.md
+  - mapped leftover tag "jesus"
+OK: J/Just The Way I Am.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "dance"
+OK: J/Just To Walk With Him.md
+  - no pass-3 mappings found
+OK: J/jesus is the reason i live.md
+  - mapped leftover tag "jesus"
+OK: J/jesus jesus no other name under heaven can save us.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "heaven"
+OK: J/jesus loves the little children of the world.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "children"
+OK: J/just a little bit of faith.md
+  - mapped leftover tag "faith"
+OK: K/Keep Believing [3].md
+  - no pass-3 mappings found
+OK: K/Keep Believing.md
+  - no pass-3 mappings found
+OK: K/Keep On Shinin'.md
+  - no pass-3 mappings found
+OK: K/Keep Singing.md
+  - no pass-3 mappings found
+OK: K/King Of Glory [5].md
+  - mapped leftover tag "presence"
+  - mapped leftover tag "dance"
+OK: K/King Of Glory [6].md
+  - mapped leftover tag "presence"
+  - mapped leftover tag "dance"
+OK: K/King Of Glory.md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "king"
+OK: K/King of Glory [2].md
+  - mapped leftover tag "presence"
+  - mapped leftover tag "dance"
+OK: K/King of Glory [3].md
+  - mapped leftover tag "presence"
+  - mapped leftover tag "dance"
+OK: K/King of My Heart.md
+  - mapped leftover tag "king"
+OK: K/Knees to the earth.md
+  - no pass-3 mappings found
+OK: L/LET US BOW DOWN.md
+  - no pass-3 mappings found
+OK: L/LET YOUR GLORY FILL THIS PLACE 2.md
+  - mapped leftover tag "glory"
+OK: L/LET YOUR GLORY FILL THIS PLACE [3].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "glory"
+OK: L/LET YOUR GLORY FILL THIS PLACE [7].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "glory"
+OK: L/LIFT UP THE NAME OF JESUS.md
+  - mapped leftover tag "jesus"
+OK: L/LOVE IS ON THE LINE.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "believe"
+OK: L/Land Of My Sojourn.md
+  - no pass-3 mappings found
+OK: L/Lay Down My Pride.md
+  - no pass-3 mappings found
+OK: L/Lay Some Soul Upon My Heart.md
+  - no pass-3 mappings found
+OK: L/Lead Me To The Rock.md
+  - mapped leftover tag "rock"
+  - mapped leftover tag "shelter"
+OK: L/Lean On Me.md
+  - mapped leftover tag "friend"
+OK: L/Leaning On The Everlasting Arms [2].md
+  - no pass-3 mappings found
+OK: L/Leaning On The Everlasting Arms [3].md
+  - no pass-3 mappings found
+OK: L/Leaning On The Everlasting Arms [4].md
+  - no pass-3 mappings found
+OK: L/Leaning On The Everlasting Arms [6].md
+  - no pass-3 mappings found
+OK: L/Leaning On The Everlasting Arms-EASY.md
+  - no pass-3 mappings found
+OK: L/Leaning On The Everlasting Arms.md
+  - no pass-3 mappings found
+OK: L/LearnCountryStylePiano.md
+  - no pass-3 mappings found
+OK: L/Learning To Lean.md
+  - no pass-3 mappings found
+OK: L/Leave Me Astounded.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "glory"
+OK: L/Let All God’s Children Praise The Lord.md
+  - mapped leftover tag "children"
+OK: L/Let All Mortal Flesh Keep Silence.md
+  - no pass-3 mappings found
+OK: L/Let All The Earth Praise Him [3].md
+  - no pass-3 mappings found
+OK: L/Let All The Earth Praise Him.md
+  - no pass-3 mappings found
+OK: L/Let Go And Let God Have His Way.md
+  - no pass-3 mappings found
+OK: L/Let It Fade.md
+  - mapped leftover tag "grace"
+  - mapped leftover tag "life"
+OK: L/Let It Rain [2].md
+  - no pass-3 mappings found
+OK: L/Let It Rain [4].md
+  - no pass-3 mappings found
+OK: L/Let It Rain.md
+  - mapped leftover tag "heaven"
+OK: L/Let It Rise.md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "king"
+OK: L/Let Me Love You.md
+  - mapped leftover tag "love"
+OK: L/Let Me Tell You Who Jesus Is.md
+  - mapped leftover tag "jesus"
+OK: L/Let Me Walk In The Light [3].md
+  - mapped leftover tag "light"
+OK: L/Let Me Walk In The Light.md
+  - mapped leftover tag "light"
+  - mapped leftover tag "sutl"
+OK: L/Let Me Walk With You, Jesus.md
+  - mapped leftover tag "jesus"
+OK: L/Let Mercy Lead.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "mercy"
+OK: L/Let Praise Be Given.md
+  - no pass-3 mappings found
+OK: L/Let The Words Of My Mouth.md
+  - mapped leftover tag "redeemer"
+  - mapped leftover tag "strength"
+OK: L/Let There Be Glory [3].md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "honor"
+OK: L/Let There Be Glory.md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "honor"
+OK: L/Let Us Love And Sing And Wonder.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "grace"
+OK: L/Let Your Anointing Fall.md
+  - no pass-3 mappings found
+OK: L/Let Your Glory Fill This Place [4].md
+  - mapped leftover tag "glory"
+OK: L/Let Your Glory Fill This Place [5].md
+  - mapped leftover tag "glory"
+OK: L/Let Your Glory Fill This Place [6].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "glory"
+OK: L/Let Your Glory Fill This Place [8].md
+  - mapped leftover tag "glory"
+OK: L/Let Your Glory Fill This Place [9].md
+  - mapped leftover tag "glory"
+OK: L/Let Your Glory Fill This Place.md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "holy-spirit"
+  - mapped leftover tag "power"
+OK: L/Let's Have A Revival.md
+  - mapped leftover tag "joy"
+  - mapped leftover tag "revival"
+OK: L/Letting Go.md
+  - no pass-3 mappings found
+OK: L/Life Of Praise.md
+  - mapped leftover tag "life"
+OK: L/Lifesong.md
+  - no pass-3 mappings found
+OK: L/Lift Up The Name Of Jesus [2].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "men"
+OK: L/Lift Up The Name Of Jesus [3].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "men"
+OK: L/Lift Up The Name Of Jesus [5].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "men"
+OK: L/Lift Up The Name Of Jesus | version 2.md
+  - mapped leftover tag "jesus"
+OK: L/Lift Up Your Face.md
+  - mapped leftover tag "calling"
+  - mapped leftover tag "salvation"
+OK: L/Lift Your Praises To The Lord-1.md
+  - no pass-3 mappings found
+OK: L/Lift Your Praises To The Lord-EASY.md
+  - no pass-3 mappings found
+OK: L/Lift Your Praises To The Lord-my edit [3].md
+  - no pass-3 mappings found
+OK: L/Lift Your Praises To The Lord-my edit.md
+  - no pass-3 mappings found
+OK: L/Light A Candle.md
+  - mapped leftover tag "light"
+OK: L/Light Of The Stable.md
+  - mapped leftover tag "light"
+OK: L/Light Of The World [3].md
+  - mapped leftover tag "light"
+  - mapped leftover tag "messiah"
+OK: L/Light Of The World.md
+  - mapped leftover tag "light"
+OK: L/Light of The Stable [3].md
+  - mapped leftover tag "king"
+  - mapped leftover tag "light"
+OK: L/Like A Child.md
+  - mapped leftover tag "faith"
+OK: L/Like Incense Sometimes By Step.md
+  - no pass-3 mappings found
+OK: L/Lion Of Judah [3].md
+  - mapped leftover tag "father"
+OK: L/Lion Of Judah.md
+  - no pass-3 mappings found
+OK: L/Liquid [2].md
+  - mapped leftover tag "blood"
+OK: L/Liquid [4].md
+  - mapped leftover tag "blood"
+OK: L/Liquid.md
+  - mapped leftover tag "blood"
+OK: L/Little Drummer Boy.md
+  - mapped leftover tag "king"
+OK: L/Live For You.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "life"
+OK: L/Live In Our Worship.md
+  - mapped leftover tag "love"
+OK: L/Livin For Jesus.md
+  - mapped leftover tag "jesus"
+OK: L/Living He Loved Me (Glorious Day).md
+  - no pass-3 mappings found
+OK: L/Long Time Comin'.md
+  - no pass-3 mappings found
+OK: L/Look What The Lord Has Done [2].md
+  - no pass-3 mappings found
+OK: L/Look What The Lord Has Done [4].md
+  - no pass-3 mappings found
+OK: L/Look What The Lord Has Done.md
+  - no pass-3 mappings found
+OK: L/Look What The Lord Has Donechorus.md
+  - no pass-3 mappings found
+OK: L/Lord I Come.md
+  - no pass-3 mappings found
+OK: L/Lord I Lift Your Name On High.md
+  - no pass-3 mappings found
+OK: L/Lord I Love You..md
+  - mapped leftover tag "love"
+OK: L/Lord I Need You.md
+  - no pass-3 mappings found
+OK: L/Lord Of All.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "christ"
+OK: L/Lord Of Eternity.md
+  - no pass-3 mappings found
+OK: L/Lord You're Holy.md
+  - mapped leftover tag "love"
+OK: L/Lord, Here I Am.md
+  - no pass-3 mappings found
+OK: L/Lord, Here's My Praise.md
+  - no pass-3 mappings found
+OK: L/Lord, I Am Broken.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "calling"
+OK: L/Lord, I Come To Lift Up Your Name.md
+  - no pass-3 mappings found
+OK: L/Lord, I Give You My Heart.md
+  - no pass-3 mappings found
+OK: L/Lord, I Praise You [3].md
+  - no pass-3 mappings found
+OK: L/Lord, I Praise You.md
+  - no pass-3 mappings found
+OK: L/Lord, I Thank You.md
+  - mapped leftover tag "thank"
+OK: L/Lord, I Want To Love You More.md
+  - mapped leftover tag "love"
+OK: L/Lord, I Worship You.md
+  - no pass-3 mappings found
+OK: L/Lord, Lay Some Soul Upon My Heart-EASY.md
+  - no pass-3 mappings found
+OK: L/Lord, Prepare Me.md
+  - no pass-3 mappings found
+OK: L/Lord, We Give You Glory.md
+  - mapped leftover tag "glory"
+OK: L/Lord, You're Welcome.md
+  - no pass-3 mappings found
+OK: L/Lord, You're Worthy [2].md
+  - no pass-3 mappings found
+OK: L/Lord, You're Worthy [4].md
+  - no pass-3 mappings found
+OK: L/Lord, You're Worthy.md
+  - no pass-3 mappings found
+OK: L/Lord, You’re Welcome.md
+  - no pass-3 mappings found
+OK: L/Lord, You’re Worthy.md
+  - no pass-3 mappings found
+OK: L/Love Come to Life.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "life"
+OK: L/Love Heals Your Heart.md
+  - mapped leftover tag "love"
+OK: L/Love Lifted Me [3].md
+  - mapped leftover tag "love"
+OK: L/Love Song For A Savior [3].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "savior"
+OK: L/Love Song For A Savior.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "savior"
+OK: L/Love Song.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "life"
+OK: L/Love Them Like Jesus [3].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: L/Love Them Like Jesus.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: L/let praise be given to the king of kings.md
+  - mapped leftover tag "king"
+OK: L/let praises be given.md
+  - no pass-3 mappings found
+OK: L/lord, put a white robe aound me.md
+  - no pass-3 mappings found
+OK: L/lord, put a white robe around me.md
+  - no pass-3 mappings found
+OK: L/love lifted me.md
+  - mapped leftover tag "love"
+OK: M/(Lord, Put A White Robe Around Me) My Promise Land.md
+  - mapped leftover tag "promise"
+OK: M/MIRACLE WORKER.md
+  - mapped leftover tag "believe"
+  - mapped leftover tag "miracles"
+OK: M/MORE THAN WORDS.md
+  - mapped leftover tag "love"
+OK: M/MY THANKS TO HIM [2].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "thanks"
+OK: M/MY THANKS TO HIM [3].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "thanks"
+OK: M/MY THANKS TO HIM--my edit.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "thanks"
+OK: M/MY THANKS TO HIM.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "thanks"
+  - mapped leftover tag "friendship"
+  - mapped leftover tag "thankfulness"
+  - mapped leftover tag "sutl"
+OK: M/Made Me Glad (You Are My Shield).md
+  - mapped leftover tag "shield"
+OK: M/Made Me Glad.md
+  - no pass-3 mappings found
+OK: M/Magnificent And Holy.md
+  - no pass-3 mappings found
+OK: M/Magnificent Obsession.md
+  - no pass-3 mappings found
+OK: M/Magnificent.md
+  - no pass-3 mappings found
+OK: M/Make Me A Blessing.md
+  - mapped leftover tag "blessing"
+  - mapped leftover tag "life"
+OK: M/Make Me An Instrument.md
+  - mapped leftover tag "love"
+OK: M/Make Me In Your Image [3].md
+  - mapped leftover tag "life"
+OK: M/Make Me In Your Image.md
+  - mapped leftover tag "life"
+OK: M/Make My Life A Prayer To You.md
+  - mapped leftover tag "life"
+OK: M/Maker Of Noses.md
+  - mapped leftover tag "dreams"
+OK: M/Mama [3].md
+  - mapped leftover tag "jesus"
+OK: M/Mama.md
+  - no pass-3 mappings found
+OK: M/Mary Did You Know.md
+  - no pass-3 mappings found
+OK: M/Mary's Prayer.md
+  - mapped leftover tag "jesus"
+OK: M/May Your Wonders Never Cease.md
+  - no pass-3 mappings found
+OK: M/Mercy Rewrote My Life.md
+  - mapped leftover tag "mercy"
+  - mapped leftover tag "life"
+OK: M/Mercy Said No [3].md
+  - mapped leftover tag "mercy"
+  - mapped leftover tag "jesus"
+OK: M/Mercy Said No.md
+  - mapped leftover tag "mercy"
+  - mapped leftover tag "jesus"
+OK: M/Mercy Seat EDIT [3].md
+  - mapped leftover tag "mercy"
+  - mapped leftover tag "grace"
+OK: M/Mercy Seat EDIT.md
+  - mapped leftover tag "mercy"
+  - mapped leftover tag "grace"
+OK: M/Mercy Seat V4.md
+  - mapped leftover tag "mercy"
+  - mapped leftover tag "grace"
+OK: M/Mercy Walked In.md
+  - mapped leftover tag "mercy"
+  - mapped leftover tag "grace"
+OK: M/Mercy and Grace.md
+  - mapped leftover tag "mercy"
+  - mapped leftover tag "grace"
+OK: M/Midnight Cry.md
+  - no pass-3 mappings found
+OK: M/Mighty To Save [3].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "savior"
+OK: M/Mighty To Save.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "light"
+OK: M/Mine Eyes Have Seen The Glory (Battle Hymn Of The Republic).md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "truth"
+  - mapped leftover tag "sutl"
+OK: M/More About Jesus.md
+  - mapped leftover tag "jesus"
+OK: M/More Love To Thee.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "christ"
+OK: M/More Love, More Power.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "power"
+OK: M/More Of You.md
+  - no pass-3 mappings found
+OK: M/More Than Anything 2.0.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: M/More Than Anything 2.md
+  - mapped leftover tag "love"
+OK: M/More Than Anything II [3].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: M/More Than Anything II.md
+  - no pass-3 mappings found
+OK: M/More Than Anything [2].md
+  - no pass-3 mappings found
+OK: M/More Than Anything [3].md
+  - no pass-3 mappings found
+OK: M/More Than Anything [4].md
+  - no pass-3 mappings found
+OK: M/More Than Anything [6].md
+  - mapped leftover tag "love"
+OK: M/More Than Anything.md
+  - no pass-3 mappings found
+OK: M/More Than Enough Of God's Mercy.md
+  - mapped leftover tag "mercy"
+OK: M/More Than Enough [2].md
+  - no pass-3 mappings found
+OK: M/More Than Enough [3].md
+  - no pass-3 mappings found
+OK: M/More Than Enough [4].md
+  - no pass-3 mappings found
+OK: M/More Than Enough [5].md
+  - no pass-3 mappings found
+OK: M/More Than Enough [7].md
+  - no pass-3 mappings found
+OK: M/More Than Enough [8].md
+  - mapped leftover tag "provision"
+OK: M/More Than Enough [9].md
+  - no pass-3 mappings found
+OK: M/More Than Ever Before.md
+  - mapped leftover tag "love"
+OK: M/More Than Just Words.md
+  - no pass-3 mappings found
+OK: M/More Than Wonderful.md
+  - no pass-3 mappings found
+OK: M/More Than You'll Ever Know [2].md
+  - mapped leftover tag "life"
+OK: M/More Than You'll Ever Know.md
+  - no pass-3 mappings found
+OK: M/More To This.md
+  - no pass-3 mappings found
+OK: M/More of Jesus.md
+  - mapped leftover tag "jesus"
+OK: M/More of You Jesus [3].md
+  - mapped leftover tag "jesus"
+OK: M/More of You Jesus.md
+  - mapped leftover tag "jesus"
+OK: M/More than Enough.md
+  - mapped leftover tag "provision"
+OK: M/Mountain of God #2.md
+  - no pass-3 mappings found
+OK: M/Mountain of God.md
+  - no pass-3 mappings found
+OK: M/Move In This Place Today.md
+  - mapped leftover tag "desire"
+OK: M/Move Me With Your Message.md
+  - no pass-3 mappings found
+OK: M/Move in Me.md
+  - no pass-3 mappings found
+OK: M/Move.md
+  - no pass-3 mappings found
+OK: M/Much Afraid.md
+  - no pass-3 mappings found
+OK: M/My Deliverer.md
+  - no pass-3 mappings found
+OK: M/My Desire (is to see).md
+  - mapped leftover tag "desire"
+OK: M/My Desire [3].md
+  - mapped leftover tag "faith"
+  - mapped leftover tag "desire"
+OK: M/My Desire.md
+  - mapped leftover tag "desire"
+OK: M/My God Can Do Anything.md
+  - mapped leftover tag "power"
+OK: M/My God Is Awesome | LYRICS ONLY.md
+  - mapped leftover tag "awesome"
+OK: M/My God is Good to Me.md
+  - no pass-3 mappings found
+OK: M/My God.md
+  - mapped leftover tag "love"
+OK: M/My Heart Your Home.md
+  - mapped leftover tag "home"
+OK: M/My Heart.md
+  - no pass-3 mappings found
+OK: M/My Heavenly.md
+  - mapped leftover tag "love"
+OK: M/My Hope Is You (C).md
+  - mapped leftover tag "hope"
+OK: M/My Hope Is You (Guitar Solo).md
+  - mapped leftover tag "hope"
+OK: M/My Hope Is You.md
+  - mapped leftover tag "hope"
+OK: M/My House Is Full (But My Field Is Empty).md
+  - mapped leftover tag "father"
+OK: M/My Jesus I Love Thee (Your Holy Name).md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: M/My Jesus I Love Thee You Are So Good To Me.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: M/My Jesus I Love Thee [2].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "sutl"
+OK: M/My Jesus I Love Thee [3].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "sutl"
+OK: M/My Jesus I Love Thee [5].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: M/My Jesus I Love Thee.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "sutl"
+OK: M/My Offering.md
+  - mapped leftover tag "offering"
+OK: M/My One Thing.md
+  - mapped leftover tag "love"
+OK: M/My Soul Is Hungry.md
+  - no pass-3 mappings found
+OK: M/My Soul Says Yes To The Lord | LYRICS ONLY.md
+  - mapped leftover tag "king"
+OK: M/My Soul Says Yes To The Lord.md
+  - mapped leftover tag "king"
+OK: M/My Soul Says Yes to the Lord [3].md
+  - mapped leftover tag "king"
+OK: M/My Thanks to Him [5].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "thanks"
+OK: M/My Tribute Andraé Crouch Medley [2].md
+  - mapped leftover tag "glory"
+OK: M/My Tribute.md
+  - no pass-3 mappings found
+OK: N/Near The Cross [3].md
+  - mapped leftover tag "cross"
+  - mapped leftover tag "sutl"
+OK: N/Near The Cross.md
+  - mapped leftover tag "cross"
+  - mapped leftover tag "sutl"
+OK: N/Nearing Home.md
+  - mapped leftover tag "home"
+  - mapped leftover tag "sutl"
+OK: N/Need You Now (How Many Times).md
+  - no pass-3 mappings found
+OK: N/Needful Hands.md
+  - mapped leftover tag "strength"
+OK: N/Never Bow Down.md
+  - no pass-3 mappings found
+OK: N/Never Goin' Back.md
+  - no pass-3 mappings found
+OK: N/Never Lost.md
+  - mapped leftover tag "faithfulness"
+  - mapped leftover tag "miracles"
+  - mapped leftover tag "trust"
+  - mapped leftover tag "power"
+  - mapped leftover tag "victory"
+OK: N/Never Saw You Coming.md
+  - no pass-3 mappings found
+OK: N/Never, No Never.md
+  - no pass-3 mappings found
+OK: N/New Name Written Down In Glory.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "glory"
+OK: N/No Greater Love.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "beauty"
+OK: N/No Harm [3].md
+  - mapped leftover tag "dance"
+OK: N/No Harm.md
+  - mapped leftover tag "dance"
+OK: N/No One Can Touch You Like Jesus Can.md
+  - mapped leftover tag "jesus"
+OK: N/No One Higher [3].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "mercy"
+OK: N/No One Higher.md
+  - mapped leftover tag "glory"
+OK: N/No One Loves Me Like You.md
+  - no pass-3 mappings found
+OK: N/No Tears In Heaven.md
+  - mapped leftover tag "heaven"
+  - mapped leftover tag "sutl"
+OK: N/No Word But Holy.md
+  - mapped leftover tag "love"
+OK: N/Not Ashamed.md
+  - no pass-3 mappings found
+OK: N/Nothing At All.md
+  - no pass-3 mappings found
+OK: N/Nothing But Praise For You, Lord [3].md
+  - no pass-3 mappings found
+OK: N/Nothing But Praise For You, Lord.md
+  - no pass-3 mappings found
+OK: N/Nothing But Praise For You.md
+  - no pass-3 mappings found
+OK: N/Nothing But The Blood Of Jesus.md
+  - mapped leftover tag "jesus"
+OK: N/Nothing But The Blood [2].md
+  - mapped leftover tag "blood"
+OK: N/Nothing But The Blood [4].md
+  - mapped leftover tag "blood"
+OK: N/Nothing But The Blood.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "blood"
+OK: N/Nothing Compares.md
+  - no pass-3 mappings found
+OK: N/Nothing Else I Need.md
+  - no pass-3 mappings found
+OK: N/Nothing Else.md
+  - no pass-3 mappings found
+OK: N/Nothing Hard For The Lord.md
+  - no pass-3 mappings found
+OK: N/Nothing Is Beyond You.md
+  - no pass-3 mappings found
+OK: N/Nothing Without You.md
+  - mapped leftover tag "love"
+OK: O/O Come All Ye Faithful [3].md
+  - mapped leftover tag "angels"
+  - mapped leftover tag "christ"
+OK: O/O Come All Ye Faithful.md
+  - no pass-3 mappings found
+OK: O/O Come Let Us Adore Him [2].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "christ"
+OK: O/O Come Let Us Adore Him [4].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "christ"
+OK: O/O Come Let Us Adore Him.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "christ"
+OK: O/O Come to the Altar.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "blood"
+OK: O/O Holy Night [3].md
+  - no pass-3 mappings found
+OK: O/O Holy Night.md
+  - mapped leftover tag "christ"
+OK: O/O I Want to See Him v.2.md
+  - mapped leftover tag "sutl"
+  - mapped leftover tag "anticipation"
+OK: O/O I Want to See Him.md
+  - mapped leftover tag "sutl"
+  - mapped leftover tag "anticipation"
+OK: O/O The Blood.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: O/O, How I Love Jesus.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: O/O, It is Jesus.md
+  - mapped leftover tag "jesus"
+OK: O/Oceans (Where Feet May Fail).md
+  - mapped leftover tag "rest"
+OK: O/Offering.md
+  - mapped leftover tag "life"
+  - mapped leftover tag "offering"
+OK: O/Oh Draw Me Lord.md
+  - no pass-3 mappings found
+OK: O/Oh God, You Are My God.md
+  - no pass-3 mappings found
+OK: O/Oh How Marvelous [2].md
+  - no pass-3 mappings found
+OK: O/Oh How Marvelous [4].md
+  - no pass-3 mappings found
+OK: O/Oh How Marvelous.md
+  - no pass-3 mappings found
+OK: O/Oh Lord You're Beautiful.md
+  - no pass-3 mappings found
+OK: O/Oh Lord You’re Beautiful [3].md
+  - no pass-3 mappings found
+OK: O/Oh Lord You’re Beautiful.md
+  - no pass-3 mappings found
+OK: O/Oh Lord, You're Beautiful.md
+  - mapped leftover tag "help"
+OK: O/Oh Magnify The Lord.md
+  - mapped leftover tag "his-name"
+OK: O/Oh My God.md
+  - no pass-3 mappings found
+OK: O/Oh The Blood Of Jesus [3].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "blood"
+OK: O/Oh The Blood Of Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "blood"
+OK: O/Oh how marvelous - melody line.md
+  - no pass-3 mappings found
+OK: O/Oh, How I Love Jesus-1.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: O/Oh, How I Love Jesus-EASY.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "sutl"
+OK: O/Oh, How I Love Jesus.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: O/Oh, How I love Jesus - version 3.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: O/Oh, Magnify The Lord.md
+  - no pass-3 mappings found
+OK: O/Oh, The Blood Of Jesus [2].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: O/Oh, The Blood Of Jesus [4].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "blood"
+OK: O/Oh, The Blood Of Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "blood"
+OK: O/On Jordan's Stormy Banks I Stand.md
+  - no pass-3 mappings found
+OK: O/On My Way To You.md
+  - no pass-3 mappings found
+OK: O/On The Wings of a Snow White Dove.md
+  - mapped leftover tag "love"
+OK: O/Once Upon A Christmas.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "birth"
+OK: O/One And Only.md
+  - no pass-3 mappings found
+OK: O/One Thing I Know.md
+  - no pass-3 mappings found
+OK: O/Only A Look.md
+  - no pass-3 mappings found
+OK: O/Only Alive.md
+  - mapped leftover tag "alive"
+OK: O/Only Jesus Can Satisfy Your Soul [3].md
+  - mapped leftover tag "jesus"
+OK: O/Only Jesus Can Satisfy Your Soul.md
+  - mapped leftover tag "jesus"
+OK: O/Only Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "rest"
+OK: O/Only One Life.md
+  - mapped leftover tag "life"
+OK: O/Only You Remain.md
+  - no pass-3 mappings found
+OK: O/Only a boy named David [3].md
+  - no pass-3 mappings found
+OK: O/Only a boy named David.md
+  - no pass-3 mappings found
+OK: O/Open The Eyes Of My Heart [2].md
+  - no pass-3 mappings found
+OK: O/Open The Eyes Of My Heart [4].md
+  - no pass-3 mappings found
+OK: O/Open The Eyes Of My Heart.md
+  - no pass-3 mappings found
+OK: O/Open Up The Windows Of Heaven -EASY.md
+  - mapped leftover tag "heaven"
+OK: O/Orphans Of God [3].md
+  - mapped leftover tag "grace"
+OK: O/Orphans Of God.md
+  - mapped leftover tag "grace"
+OK: O/Our God - Vocals & Chord Chart.md
+  - no pass-3 mappings found
+OK: O/Our God Is An Awesome God.md
+  - mapped leftover tag "awesome"
+OK: O/Our Great God.md
+  - no pass-3 mappings found
+OK: O/Our Mystery.md
+  - mapped leftover tag "love"
+OK: O/Out Of My Hands.md
+  - mapped leftover tag "life"
+  - mapped leftover tag "light"
+OK: O/Overcome.md
+  - mapped leftover tag "awesome"
+  - mapped leftover tag "power"
+OK: O/Overcomer (Revisable) [6].md
+  - no pass-3 mappings found
+OK: O/Overcomer (revisable) [2].md
+  - no pass-3 mappings found
+OK: O/Overcomer (revisable) [3].md
+  - no pass-3 mappings found
+OK: O/Overcomer (revisable) [4].md
+  - no pass-3 mappings found
+OK: O/Overcomer (revisable).md
+  - no pass-3 mappings found
+OK: O/Overjoyed.md
+  - no pass-3 mappings found
+OK: O/Overwhelmed.md
+  - mapped leftover tag "mercy"
+OK: O/ohowhelovesyouandme-lead-1.md
+  - no pass-3 mappings found
+OK: P/PRAISE Elevation Worship.md
+  - no pass-3 mappings found
+OK: P/PSALM 23 ( I AM NOT ALONE) Lyrics.md
+  - mapped leftover tag "comfort"
+  - mapped leftover tag "victory"
+OK: P/PSALM 23.md
+  - mapped leftover tag "comfort"
+  - mapped leftover tag "victory"
+OK: P/Pass Me Not, O Gentle Saviour.md
+  - mapped leftover tag "saviour"
+OK: P/Peace Speaker.md
+  - mapped leftover tag "peace"
+OK: P/Peace [3].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "christ"
+OK: P/Peace in the Midst of the Storm].md
+  - mapped leftover tag "peace"
+OK: P/Peace.md
+  - mapped leftover tag "peace"
+OK: P/Pentecostal Style Playing 1.md
+  - no pass-3 mappings found
+OK: P/Pentecostal Style Playing 2.md
+  - no pass-3 mappings found
+OK: P/Pentecostal Style Playing 3.md
+  - no pass-3 mappings found
+OK: P/Pentecostal Style Playing 4.md
+  - no pass-3 mappings found
+OK: P/Pentecostal Style Playing.md
+  - no pass-3 mappings found
+OK: P/Perhaps She'll Wait.md
+  - mapped leftover tag "wonder"
+OK: P/Please Forgive Me [3].md
+  - no pass-3 mappings found
+OK: P/Please Forgive Me.md
+  - no pass-3 mappings found
+OK: P/Portrait Of An Apology.md
+  - no pass-3 mappings found
+OK: P/Power to Redeem.md
+  - mapped leftover tag "light"
+  - mapped leftover tag "power"
+OK: P/Praise Elevation Worship [2].md
+  - no pass-3 mappings found
+OK: P/Praise Him Today, Church.md
+  - no pass-3 mappings found
+OK: P/Praise Him, Praise Him [3].md
+  - no pass-3 mappings found
+OK: P/Praise Him, Praise Him.md
+  - no pass-3 mappings found
+OK: P/Praise His Holy Name [3].md
+  - no pass-3 mappings found
+OK: P/Praise His Holy Name.md
+  - no pass-3 mappings found
+OK: P/Praise Is What I Do [3].md
+  - no pass-3 mappings found
+OK: P/Praise Is What I Do.md
+  - no pass-3 mappings found
+OK: P/Praise Song.md
+  - no pass-3 mappings found
+OK: P/Praise The Lord (Let All God’s Children).md
+  - mapped leftover tag "children"
+OK: P/Praise The Lord.md
+  - no pass-3 mappings found
+OK: P/Praise You In The Dance.md
+  - mapped leftover tag "dance"
+OK: P/Praise You In This storm.md
+  - mapped leftover tag "help"
+OK: P/Praise You With The Dance.md
+  - mapped leftover tag "dance"
+OK: P/Praise You.md
+  - no pass-3 mappings found
+OK: P/Praise the Lord Everybody.md
+  - no pass-3 mappings found
+OK: P/Praisin for the Victory Can’t Stop Praisin’ His Name.md
+  - mapped leftover tag "his-name"
+  - mapped leftover tag "victory"
+OK: P/Praisin for the Victory [3].md
+  - mapped leftover tag "victory"
+OK: P/Praisin for the Victory.md
+  - mapped leftover tag "victory"
+OK: P/Praisin’ for the Victory.md
+  - mapped leftover tag "victory"
+OK: P/Prayer For A Friend.md
+  - mapped leftover tag "friend"
+OK: P/Preacher, Preach To Me.md
+  - no pass-3 mappings found
+OK: P/Precious Blood [3].md
+  - mapped leftover tag "blood"
+OK: P/Precious Blood.md
+  - mapped leftover tag "blood"
+OK: P/Press On.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "strength"
+OK: P/Prodigal.md
+  - mapped leftover tag "prodigal"
+OK: P/Promenade.md
+  - mapped leftover tag "peace"
+OK: P/Psalm 139 (You Are There).md
+  - no pass-3 mappings found
+OK: P/Psalm 23 (I Am Not Alone).md
+  - mapped leftover tag "victory"
+OK: P/Pull Me Out.md
+  - no pass-3 mappings found
+OK: P/preaching GOOD NEWS.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "believe"
+OK: P/precious lord, take my hand.md
+  - no pass-3 mappings found
+OK: R/REVELATION SONG [2].md
+  - no pass-3 mappings found
+OK: R/ROLL THE OLD CHARIOTS ALONG.md
+  - no pass-3 mappings found
+OK: R/Rain Lord.md
+  - no pass-3 mappings found
+OK: R/Rain, Lord (easy) [3].md
+  - no pass-3 mappings found
+OK: R/Rain, Lord (easy).md
+  - no pass-3 mappings found
+OK: R/Rain, Lord [2].md
+  - no pass-3 mappings found
+OK: R/Rain, Lord [3].md
+  - no pass-3 mappings found
+OK: R/Rain, Lord [5].md
+  - no pass-3 mappings found
+OK: R/Rain, Lord.md
+  - no pass-3 mappings found
+OK: R/Reach Out And Touch The Lord.md
+  - no pass-3 mappings found
+OK: R/Ready.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "mercy"
+OK: R/Reason Enough.md
+  - no pass-3 mappings found
+OK: R/Reckless Love.md
+  - mapped leftover tag "love"
+OK: R/Reckless.md
+  - mapped leftover tag "life"
+OK: R/Redeemed [3].md
+  - no pass-3 mappings found
+OK: R/Redeemed.md
+  - no pass-3 mappings found
+OK: R/Rejoice.md
+  - mapped leftover tag "rejoice"
+OK: R/Remember Me.md
+  - mapped leftover tag "wonder"
+OK: R/Remember Your Chains.md
+  - mapped leftover tag "love"
+OK: R/Restored.md
+  - no pass-3 mappings found
+OK: R/Revelation Song [4].md
+  - no pass-3 mappings found
+OK: R/Revelation Song.md
+  - mapped leftover tag "king"
+OK: R/Revelation.md
+  - no pass-3 mappings found
+OK: R/Revival In The Land.md
+  - mapped leftover tag "revival"
+OK: R/Revive Me.md
+  - no pass-3 mappings found
+OK: R/Revive Us Again.md
+  - mapped leftover tag "glory"
+OK: R/Revolution.md
+  - no pass-3 mappings found
+OK: R/Right Here.md
+  - no pass-3 mappings found
+OK: R/Rise.md
+  - no pass-3 mappings found
+OK: R/Risen Redemption.md
+  - mapped leftover tag "redemption"
+OK: R/Rita.md
+  - no pass-3 mappings found
+OK: R/River Constantine.md
+  - mapped leftover tag "river"
+OK: R/Rock Star.md
+  - mapped leftover tag "rock"
+OK: R/Run To You.md
+  - no pass-3 mappings found
+OK: S/Give God the glory.md
+  - mapped leftover tag "jesus"
+OK: S/SONG we are here to worship you.md
+  - no pass-3 mappings found
+OK: S/SONG??.md
+  - no pass-3 mappings found
+OK: S/STAIRWAY TO HEAVEN.md
+  - mapped leftover tag "heaven"
+  - mapped leftover tag "home"
+OK: S/Sacrifice.md
+  - mapped leftover tag "sacrifice"
+OK: S/Sad Clown.md
+  - no pass-3 mappings found
+OK: S/Said I Wasn't Gonna Tell Nobody.md
+  - no pass-3 mappings found
+OK: S/San Angelo.md
+  - mapped leftover tag "home"
+OK: S/Sanctified.md
+  - no pass-3 mappings found
+OK: S/Satan the Blood of Jesus [3].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "blood"
+OK: S/Satan the Blood of Jesus | LYRICS ONLY.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "blood"
+OK: S/Satan the Blood of Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "blood"
+OK: S/Satisfied.md
+  - no pass-3 mappings found
+OK: S/Saved By Grace.md
+  - mapped leftover tag "grace"
+OK: S/Saved.md
+  - mapped leftover tag "thank"
+OK: S/Say Amen.md
+  - no pass-3 mappings found
+OK: S/Say The Name [3].md
+  - no pass-3 mappings found
+OK: S/Say The Name.md
+  - mapped leftover tag "jesus"
+OK: S/See A Victory.md
+  - mapped leftover tag "victory"
+OK: S/Send It On Down #2.md
+  - no pass-3 mappings found
+OK: S/Send It On Down.md
+  - no pass-3 mappings found
+OK: S/Send the Rain -- LYRICS SHEET.md
+  - mapped leftover tag "heaven"
+OK: S/Send the Rain.md
+  - mapped leftover tag "heaven"
+OK: S/Serve the Lord.md
+  - mapped leftover tag "grace"
+  - mapped leftover tag "jesus"
+OK: S/Serving God Is Beautiful lyrics.md
+  - no pass-3 mappings found
+OK: S/Serving God Is Beautiful.md
+  - no pass-3 mappings found
+OK: S/Serving God is Beautiful [3].md
+  - mapped leftover tag "love"
+OK: S/Serving God is Beautiful lyrics [2].md
+  - no pass-3 mappings found
+OK: S/Set A Fire.md
+  - no pass-3 mappings found
+OK: S/Set Me Free [3].md
+  - mapped leftover tag "sin"
+OK: S/Set Me Free.md
+  - no pass-3 mappings found
+OK: S/Shackles (Praise You)-version 2.md
+  - mapped leftover tag "dance"
+OK: S/Shackles-1 [2].md
+  - no pass-3 mappings found
+OK: S/Shackles-1 [3].md
+  - no pass-3 mappings found
+OK: S/Shackles-1 [5].md
+  - no pass-3 mappings found
+OK: S/Shackles-1.md
+  - no pass-3 mappings found
+OK: S/Shackles.md
+  - no pass-3 mappings found
+OK: S/Shake The Foundation [2].md
+  - mapped leftover tag "foundation"
+OK: S/Shake The Foundation [3].md
+  - mapped leftover tag "foundation"
+OK: S/Shake The Foundation [5].md
+  - mapped leftover tag "foundation"
+OK: S/Shake The Foundation.md
+  - mapped leftover tag "foundation"
+OK: S/Shake the Foundations with Praise [3].md
+  - no pass-3 mappings found
+OK: S/Shake the Foundations with Praise.md
+  - no pass-3 mappings found
+OK: S/She Sings In Riddles.md
+  - no pass-3 mappings found
+OK: S/Shelter [2].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "shelter"
+OK: S/Shelter [4].md
+  - mapped leftover tag "shelter"
+OK: S/Shelter.md
+  - mapped leftover tag "hope"
+  - mapped leftover tag "shelter"
+OK: S/Sheltered In The Arms Of God.md
+  - no pass-3 mappings found
+OK: S/Shine On.md
+  - mapped leftover tag "light"
+OK: S/Shout (With A Voice of Triumph) [2].md
+  - mapped leftover tag "triumph"
+OK: S/Shout (With A Voice of Triumph) [4].md
+  - mapped leftover tag "triumph"
+OK: S/Shout (With A Voice of Triumph).md
+  - mapped leftover tag "triumph"
+OK: S/Shout With A Voice of Triumph.md
+  - mapped leftover tag "triumph"
+OK: S/Shout Worthy Db.md
+  - no pass-3 mappings found
+OK: S/Shout.md
+  - no pass-3 mappings found
+OK: S/Show Me Your Glory [3].md
+  - mapped leftover tag "glory"
+OK: S/Show Me Your Glory.md
+  - mapped leftover tag "glory"
+OK: S/Show You Love.md
+  - mapped leftover tag "love"
+OK: S/Silence.md
+  - no pass-3 mappings found
+OK: S/Silent Night.md
+  - no pass-3 mappings found
+OK: S/Silver And Gold.md
+  - mapped leftover tag "jesus"
+OK: S/Sing Alleluia.md
+  - mapped leftover tag "alleluia"
+OK: S/Sing For Joy.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "joy"
+OK: S/Sing Praises.md
+  - mapped leftover tag "king"
+OK: S/Sing To Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "life"
+OK: S/Sing Unto The Lord A New Song (Psalm 96).md
+  - mapped leftover tag "greatness"
+OK: S/Sing a Song.md
+  - no pass-3 mappings found
+OK: S/Sing the wondrous love of jesus.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: S/Sing.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "trust"
+OK: S/Sinking.md
+  - no pass-3 mappings found
+OK: S/Sit With You Awhile.md
+  - no pass-3 mappings found
+OK: S/Sitting At His Feet.md
+  - no pass-3 mappings found
+OK: S/Slow Down Time.md
+  - no pass-3 mappings found
+OK: S/Slow Fade.md
+  - no pass-3 mappings found
+OK: S/So In Love.md
+  - mapped leftover tag "love"
+OK: S/So Long Self.md
+  - no pass-3 mappings found
+OK: S/So Will I (100 Billion X).md
+  - no pass-3 mappings found
+OK: S/So You Would Know.md
+  - mapped leftover tag "love"
+OK: S/Soldier.md
+  - no pass-3 mappings found
+OK: S/Something Beautiful [3].md
+  - no pass-3 mappings found
+OK: S/Something Beautiful.md
+  - mapped leftover tag "dreams"
+OK: S/Something Happens.md
+  - no pass-3 mappings found
+OK: S/Something within me.md
+  - no pass-3 mappings found
+OK: S/Sometimes By Step (Step By Step) [3].md
+  - no pass-3 mappings found
+OK: S/Sometimes By Step (Step By Step).md
+  - no pass-3 mappings found
+OK: S/Sometimes By Step [3].md
+  - no pass-3 mappings found
+OK: S/Sometimes By Step--MID EDIT.md
+  - no pass-3 mappings found
+OK: S/Sometimes By Step.md
+  - no pass-3 mappings found
+OK: S/Sometimes It Takes A Mountain.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "trust"
+OK: S/Somewhere In The Middle.md
+  - mapped leftover tag "faith"
+  - mapped leftover tag "dreams"
+OK: S/Somewhere.md
+  - no pass-3 mappings found
+OK: S/Son Of God.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "jesus"
+OK: S/Song Lyrics.md
+  - mapped leftover tag "power"
+OK: S/Song Title [10].md
+  - no pass-3 mappings found
+OK: S/Song Title [11].md
+  - no pass-3 mappings found
+OK: S/Song Title [12].md
+  - no pass-3 mappings found
+OK: S/Song Title [13].md
+  - no pass-3 mappings found
+OK: S/Song Title [14].md
+  - no pass-3 mappings found
+OK: S/Song Title [15].md
+  - no pass-3 mappings found
+OK: S/Song Title [16].md
+  - no pass-3 mappings found
+OK: S/Song Title [17].md
+  - no pass-3 mappings found
+OK: S/Song Title [18].md
+  - no pass-3 mappings found
+OK: S/Song Title [19].md
+  - no pass-3 mappings found
+OK: S/Song Title [20].md
+  - no pass-3 mappings found
+OK: S/Song Title [21].md
+  - no pass-3 mappings found
+OK: S/Song Title [22].md
+  - no pass-3 mappings found
+OK: S/Song Title [2].md
+  - no pass-3 mappings found
+OK: S/Song Title [3].md
+  - no pass-3 mappings found
+OK: S/Song Title [4].md
+  - no pass-3 mappings found
+OK: S/Song Title [5].md
+  - no pass-3 mappings found
+OK: S/Song Title [6].md
+  - no pass-3 mappings found
+OK: S/Song Title [7].md
+  - no pass-3 mappings found
+OK: S/Song Title [8].md
+  - no pass-3 mappings found
+OK: S/Song Title.md
+  - no pass-3 mappings found
+OK: S/Sons and Daughters [3].md
+  - no pass-3 mappings found
+OK: S/Sons and Daughters.md
+  - no pass-3 mappings found
+OK: S/Soon And Very Soon [3].md
+  - mapped leftover tag "king"
+OK: S/Soon And Very Soon.md
+  - mapped leftover tag "king"
+OK: S/Sound Of Your Voice.md
+  - no pass-3 mappings found
+OK: S/Speaking Louder Than Before.md
+  - mapped leftover tag "love"
+OK: S/Spirit Break Out II.md
+  - mapped leftover tag "heaven"
+OK: S/Spirit Break Out- version 1.md
+  - mapped leftover tag "heaven"
+OK: S/Spirit Break Out--2.md
+  - mapped leftover tag "heaven"
+OK: S/Spirit Break Out--LYRICS ONLY--2.md
+  - mapped leftover tag "heaven"
+OK: S/Spirit Break Out--LYRICS SHEET.md
+  - mapped leftover tag "heaven"
+OK: S/Spirit Break Out.md
+  - mapped leftover tag "heaven"
+OK: S/Spirit of the Lord (Dance like David Danced)-1.md
+  - mapped leftover tag "dance"
+OK: S/Spirit of the Lord (Dance like David Danced)-2.md
+  - mapped leftover tag "dance"
+OK: S/Spoken For [2].md
+  - mapped leftover tag "love"
+OK: S/Spoken For [4].md
+  - mapped leftover tag "love"
+OK: S/Spoken For.md
+  - no pass-3 mappings found
+OK: S/Stained Glass Masquerade.md
+  - no pass-3 mappings found
+OK: S/Stand.md
+  - no pass-3 mappings found
+OK: S/Standing On The Promises.md
+  - mapped leftover tag "christ"
+  - mapped leftover tag "sutl"
+  - mapped leftover tag "anthemic"
+  - mapped leftover tag "march"
+  - mapped leftover tag "upbeat"
+OK: S/Stay.md
+  - no pass-3 mappings found
+OK: S/Still Holdin’ On.md
+  - no pass-3 mappings found
+OK: S/Sunny Days.md
+  - no pass-3 mappings found
+OK: S/Surely God Is With Us.md
+  - no pass-3 mappings found
+OK: S/Surely The Pres.md
+  - no pass-3 mappings found
+OK: S/Surely The Presence The Heritage Singers chordify.md
+  - mapped leftover tag "grace"
+  - mapped leftover tag "presence"
+OK: S/Surely The Presence XX The Heritage Singers chordify.md
+  - mapped leftover tag "presence"
+  - mapped leftover tag "glory"
+OK: S/Surely The Presence.md
+  - mapped leftover tag "presence"
+OK: S/Surrender [3].md
+  - no pass-3 mappings found
+OK: S/Surrender.md
+  - no pass-3 mappings found
+OK: S/Surround Me, Oh Lord [3].md
+  - no pass-3 mappings found
+OK: S/Surround Me, Oh Lord.md
+  - mapped leftover tag "prayer"
+  - mapped leftover tag "presence"
+OK: S/Sweep Over My Soul.md
+  - no pass-3 mappings found
+OK: S/Sweet Beulah Land [version 2].md
+  - no pass-3 mappings found
+OK: S/Sweet Beulah Land.md
+  - no pass-3 mappings found
+OK: S/Sweet Holy Spirit.md
+  - mapped leftover tag "holy-spirit"
+OK: S/Sweet Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "friend"
+OK: S/surround me.md
+  - no pass-3 mappings found
+OK: T/TELL THE MOUNTAIN.md
+  - no pass-3 mappings found
+OK: T/THAT SAME SPIRIT.md
+  - mapped leftover tag "authority"
+  - mapped leftover tag "holy-ghost"
+OK: T/THE BLOOD WILL NEVER LOSE ITS POWER -- version 2.md
+  - mapped leftover tag "blood"
+  - mapped leftover tag "power"
+OK: T/THE BLOOD WILL NEVER LOSE ITS POWER [2].md
+  - mapped leftover tag "blood"
+  - mapped leftover tag "power"
+OK: T/THE BLOOD WILL NEVER LOSE ITS POWER.md
+  - mapped leftover tag "blood"
+  - mapped leftover tag "power"
+OK: T/THE GIVING SONG.md
+  - mapped leftover tag "giving"
+OK: T/THE HALLELUJAH SIDE.md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "sutl"
+OK: T/THE LOVE OF GOD [3].md
+  - mapped leftover tag "love"
+OK: T/THE MIND OF CHRIST.md
+  - mapped leftover tag "christ"
+OK: T/THE ROUGH SIDE OF THE SIDE OF THE MOUNTAIN (I'M COMIN' UP).md
+  - no pass-3 mappings found
+OK: T/THE WIND STILL BLOWS.md
+  - mapped leftover tag "power"
+OK: T/THERE IS POWER, SO MUCH POWER IN THE PRECIOUS NAME OF JESUS.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "power"
+OK: T/THIS IS A MOVE.md
+  - no pass-3 mappings found
+OK: T/THIS IS THE DAY (Celebrate the Presence of the Lord).md
+  - mapped leftover tag "presence"
+  - mapped leftover tag "rejoice"
+OK: T/THIS LITTLE LIGHT OF MINE.md
+  - mapped leftover tag "light"
+OK: T/THRONE ROOM SONG.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "almighty"
+OK: T/THROUGH IT ALL.md
+  - mapped leftover tag "thank"
+OK: T/TUTORIAL Background Progressions [3].md
+  - no pass-3 mappings found
+OK: T/TUTORIAL Background Progressions.md
+  - no pass-3 mappings found
+OK: T/TUTORIAL CHORDS 13th's.md
+  - no pass-3 mappings found
+OK: T/TUTORIAL Cheat Sheet Minor 7th's and Major 7 th's.md
+  - no pass-3 mappings found
+OK: T/TUTORIAL Cheat Sheet.md
+  - no pass-3 mappings found
+OK: T/TUTORIAL Cheats #5#9's.md
+  - no pass-3 mappings found
+OK: T/TUTORIAL Cheats b9th's.md
+  - no pass-3 mappings found
+OK: T/Take A Little Time.md
+  - no pass-3 mappings found
+OK: T/Take Heart My Friend [2].md
+  - mapped leftover tag "friend"
+OK: T/Take Heart My Friend [3].md
+  - mapped leftover tag "friend"
+OK: T/Take Heart My Friend [5].md
+  - mapped leftover tag "friend"
+OK: T/Take Heart My Friend.md
+  - mapped leftover tag "friend"
+OK: T/Take It All.md
+  - mapped leftover tag "rest"
+OK: T/Take Me Back.md
+  - no pass-3 mappings found
+OK: T/Take Me There.md
+  - no pass-3 mappings found
+OK: T/Take Me to the King-edit.md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "king"
+OK: T/Take Me to the King.md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "king"
+OK: T/Take My Life (Holiness).md
+  - mapped leftover tag "holiness"
+  - mapped leftover tag "life"
+OK: T/Take My Life [3].md
+  - mapped leftover tag "life"
+OK: T/Take My Life.md
+  - mapped leftover tag "life"
+OK: T/Take This Whole World.md
+  - no pass-3 mappings found
+OK: T/Take Up Your Cross.md
+  - mapped leftover tag "cross"
+OK: T/Take You Back.md
+  - no pass-3 mappings found
+OK: T/Take Your Shoes Off, Moses.md
+  - mapped leftover tag "rock"
+  - mapped leftover tag "salvation"
+OK: T/Tea And Sympathy.md
+  - no pass-3 mappings found
+OK: T/Testify To Love [3].md
+  - mapped leftover tag "love"
+  - mapped leftover tag "mercy"
+OK: T/Testify to Love.md
+  - mapped leftover tag "love"
+OK: T/Thank God For The Blood - EASY.md
+  - mapped leftover tag "blood"
+  - mapped leftover tag "thank"
+OK: T/Thank God For The Blood version 2.md
+  - mapped leftover tag "blood"
+  - mapped leftover tag "thank"
+OK: T/Thank God For The Blood.md
+  - mapped leftover tag "blood"
+  - mapped leftover tag "thank"
+OK: T/Thank God I'm Not What I Used To Be.md
+  - mapped leftover tag "thank"
+OK: T/Thank You All.md
+  - mapped leftover tag "thank"
+OK: T/Thank You For The Cross.md
+  - mapped leftover tag "cross"
+OK: T/Thank You Jesus for the Blood.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "blood"
+OK: T/Thank You Lord In Every Way.md
+  - mapped leftover tag "thank"
+OK: T/Thank You Lord [2].md
+  - mapped leftover tag "thank"
+  - mapped leftover tag "offering"
+OK: T/Thank You Lord [4].md
+  - mapped leftover tag "thank"
+  - mapped leftover tag "offering"
+OK: T/Thank You Lord.md
+  - mapped leftover tag "thank"
+OK: T/Thank You for the Cross [3].md
+  - mapped leftover tag "cross"
+  - mapped leftover tag "thank"
+OK: T/Thank You, Lord [3].md
+  - mapped leftover tag "thank"
+OK: T/Thank You, Lord-1.md
+  - mapped leftover tag "thank"
+OK: T/Thank You, Lord-2.md
+  - mapped leftover tag "thank"
+  - mapped leftover tag "offering"
+OK: T/Thank You, Lord.md
+  - mapped leftover tag "thank"
+  - mapped leftover tag "offering"
+OK: T/Thank You.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "giving"
+OK: T/Thankful for the Blood.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "mercy"
+OK: T/Thanks To Him.md
+  - mapped leftover tag "thanks"
+  - mapped leftover tag "sutl"
+OK: T/Thanks to Calvary We Don't Live Here Anymore.md
+  - mapped leftover tag "calvary"
+  - mapped leftover tag "thanks"
+OK: T/Thanks, Thanks EASY.md
+  - mapped leftover tag "thanks"
+OK: T/Thanks, Thanks.md
+  - mapped leftover tag "thanks"
+OK: T/That Other Shore.md
+  - mapped leftover tag "joy"
+OK: T/That Wasn’t Me.md
+  - mapped leftover tag "family"
+OK: T/That Where I Am There You.md
+  - mapped leftover tag "father"
+  - mapped leftover tag "truth"
+OK: T/That's What Love Is.md
+  - mapped leftover tag "love"
+OK: T/The Altar And The Door.md
+  - no pass-3 mappings found
+OK: T/The Altar.md
+  - mapped leftover tag "jesus"
+OK: T/The Anchor Holds [2].md
+  - no pass-3 mappings found
+OK: T/The Anchor Holds [4].md
+  - no pass-3 mappings found
+OK: T/The Anchor Holds.md
+  - no pass-3 mappings found
+OK: T/The Battle Is Not Yours.md
+  - no pass-3 mappings found
+OK: T/The Blood Will Never Lose Its Power [3].md
+  - mapped leftover tag "blood"
+  - mapped leftover tag "power"
+OK: T/The Blood Will Never Lose Its Power [4].md
+  - mapped leftover tag "blood"
+  - mapped leftover tag "power"
+OK: T/The Blood Will Never Lose Its Power [6].md
+  - mapped leftover tag "blood"
+  - mapped leftover tag "power"
+OK: T/The Breaking Of The Dawn.md
+  - no pass-3 mappings found
+OK: T/The Breaks.md
+  - no pass-3 mappings found
+OK: T/The Chair.md
+  - mapped leftover tag "dance"
+  - mapped leftover tag "dreams"
+OK: T/The Change Inside of Me.md
+  - no pass-3 mappings found
+OK: T/The Color Green.md
+  - no pass-3 mappings found
+OK: T/The Devil Can Do Me No Harm.md
+  - mapped leftover tag "jesus"
+OK: T/The Devil Don't Allow No Worship Around Here [3].md
+  - no pass-3 mappings found
+OK: T/The Devil Don't Allow No Worship Around Here [4].md
+  - no pass-3 mappings found
+OK: T/The Devil Don't Allow No Worship Around Here.md
+  - no pass-3 mappings found
+OK: T/The Eleventh Hour.md
+  - no pass-3 mappings found
+OK: T/The Family Of God.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "family"
+OK: T/The Glory of Your Name.md
+  - mapped leftover tag "glory"
+OK: T/The Glory of the Lord is (Coming Down, Down, Down).md
+  - mapped leftover tag "glory"
+OK: T/The Glory-Land Way [3].md
+  - mapped leftover tag "glory"
+OK: T/The Glory-Land Way.md
+  - mapped leftover tag "glory"
+OK: T/The Great I Am [3].md
+  - no pass-3 mappings found
+OK: T/The Great I Am.md
+  - no pass-3 mappings found
+OK: T/The Greatest Name - Vocals.md
+  - no pass-3 mappings found
+OK: T/The Hammer Holds.md
+  - no pass-3 mappings found
+OK: T/The Healer (He Was Wounded For Our Trangressions).md
+  - no pass-3 mappings found
+OK: T/The Heart Of Worship (When The Music Fades) [3].md
+  - no pass-3 mappings found
+OK: T/The Heart Of Worship (When The Music Fades).md
+  - no pass-3 mappings found
+OK: T/The Highest Praise (Give the Lord The Highest Praise).md
+  - mapped leftover tag "dance"
+OK: T/The Highest Praise.md
+  - no pass-3 mappings found
+OK: T/The Holy Ghost Is Moving [3].md
+  - mapped leftover tag "holy-ghost"
+OK: T/The Holy Ghost Is Moving. [Fm] [2].md
+  - mapped leftover tag "holy-ghost"
+OK: T/The Holy Ghost Is Moving. [Fm].md
+  - mapped leftover tag "holy-ghost"
+OK: T/The Holy Ghost Is Moving.md
+  - mapped leftover tag "holy-ghost"
+OK: T/The Just Shall Live.md
+  - mapped leftover tag "faith"
+  - mapped leftover tag "trust"
+OK: T/The King Is Coming.md
+  - mapped leftover tag "king"
+OK: T/The Lion And The Lamb.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "his-name"
+OK: T/The Love Of God I.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "heaven"
+  - mapped leftover tag "roots"
+OK: T/The Love Of God II.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "heaven"
+  - mapped leftover tag "roots"
+OK: T/The Love Of God.md
+  - mapped leftover tag "love"
+OK: T/The Love of God [4].md
+  - mapped leftover tag "love"
+OK: T/The Motions.md
+  - mapped leftover tag "life"
+OK: T/The Nails In Your Hands.md
+  - mapped leftover tag "love"
+OK: T/The Name of Jesus [3].md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "his-name"
+OK: T/The Name of Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "his-name"
+OK: T/The Name of the Lord 2.0.md
+  - mapped leftover tag "os-christian"
+OK: T/The Name of the Lord Is-my edit.md
+  - no pass-3 mappings found
+OK: T/The Name of the Lord Is.md
+  - no pass-3 mappings found
+OK: T/The Name of the Lord.md
+  - mapped leftover tag "os-christian"
+OK: T/The Old Account Settled [3].md
+  - no pass-3 mappings found
+OK: T/The Old Account Settled.md
+  - no pass-3 mappings found
+OK: T/The Old Gospel Ship [3].md
+  - no pass-3 mappings found
+OK: T/The Old Gospel Ship.md
+  - no pass-3 mappings found
+OK: T/The Old Landmark.md
+  - no pass-3 mappings found
+OK: T/The Old Rugged Cross [2].md
+  - mapped leftover tag "cross"
+OK: T/The Old Rugged Cross [4].md
+  - mapped leftover tag "cross"
+OK: T/The Old Rugged Cross.md
+  - mapped leftover tag "cross"
+OK: T/The Old Time Way [2].md
+  - no pass-3 mappings found
+OK: T/The Old Time Way [4].md
+  - no pass-3 mappings found
+OK: T/The Old Time Way.md
+  - no pass-3 mappings found
+OK: T/The One I’m Dying For.md
+  - no pass-3 mappings found
+OK: T/The Only Hope.md
+  - mapped leftover tag "hope"
+  - mapped leftover tag "life"
+OK: T/The Only Name (Yours Will Be).md
+  - mapped leftover tag "jesus"
+OK: T/The Other Side Of The World.md
+  - no pass-3 mappings found
+OK: T/The Potter Knows The Clay [3].md
+  - no pass-3 mappings found
+OK: T/The Potter Knows The Clay.md
+  - no pass-3 mappings found
+OK: T/The Presence of the Lord Is Here.md
+  - mapped leftover tag "presence"
+  - mapped leftover tag "blessing"
+OK: T/The Purest Place.md
+  - mapped leftover tag "king"
+OK: T/The River.md
+  - mapped leftover tag "river"
+OK: T/The Stone.md
+  - mapped leftover tag "greatness"
+OK: T/The Unseen Hand.md
+  - no pass-3 mappings found
+OK: T/The Valley Song [3].md
+  - mapped leftover tag "mercy"
+  - mapped leftover tag "joy"
+OK: T/The Valley Song.md
+  - mapped leftover tag "mercy"
+  - mapped leftover tag "sorrow"
+OK: T/The Way.md
+  - no pass-3 mappings found
+OK: T/The Well.md
+  - no pass-3 mappings found
+OK: T/The Wind Is Blowing Again.md
+  - mapped leftover tag "pentecost"
+OK: T/The Word Is Alive.md
+  - mapped leftover tag "alive"
+  - mapped leftover tag "truth"
+OK: T/The children of the Lord have the right to beat the drum.md
+  - mapped leftover tag "children"
+OK: T/The lord has given me just another day.md
+  - no pass-3 mappings found
+OK: T/The wise man built his house upon the rock.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "rock"
+OK: T/Then And There.md
+  - mapped leftover tag "life"
+OK: T/Then and There [2].md
+  - no pass-3 mappings found
+OK: T/There Is A Higher Throne.md
+  - no pass-3 mappings found
+OK: T/There Is A Remedy EDIT [3].md
+  - no pass-3 mappings found
+OK: T/There Is A Remedy EDIT.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "christ"
+OK: T/There Is A River.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "river"
+OK: T/There Is More Than Enough.md
+  - no pass-3 mappings found
+OK: T/There Is No Telling.md
+  - no pass-3 mappings found
+OK: T/There Is None Like You 2.md
+  - no pass-3 mappings found
+OK: T/There Is None Like You.md
+  - no pass-3 mappings found
+OK: T/There Is Nothing Like The Presence of The Lord [2].md
+  - mapped leftover tag "presence"
+OK: T/There Is Nothing Like The Presence of The Lord [3].md
+  - mapped leftover tag "presence"
+OK: T/There Is Nothing Like The Presence of The Lord [4].md
+  - mapped leftover tag "presence"
+OK: T/There Is Nothing Like The Presence of The Lord [6].md
+  - mapped leftover tag "presence"
+OK: T/There Is Power In The Blood [2].md
+  - mapped leftover tag "blood"
+  - mapped leftover tag "power"
+  - mapped leftover tag "sutl"
+OK: T/There Is Power In The Blood [4].md
+  - mapped leftover tag "blood"
+  - mapped leftover tag "power"
+OK: T/There Is Power In The Blood.md
+  - mapped leftover tag "blood"
+  - mapped leftover tag "power"
+  - mapped leftover tag "sutl"
+OK: T/There Is Power In The Name Of Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "power"
+OK: T/There Is Power.md
+  - mapped leftover tag "power"
+OK: T/There Is Strength.md
+  - mapped leftover tag "strength"
+OK: T/There Will Be A Day.md
+  - mapped leftover tag "jesus"
+OK: T/There is nothing like the presence of the lord.md
+  - mapped leftover tag "presence"
+OK: T/There's A Great Day Coming.md
+  - no pass-3 mappings found
+OK: T/There's Something About That Name sheet music.md
+  - no pass-3 mappings found
+OK: T/There's Something About That Name-MY EDIT.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "adoration"
+  - mapped leftover tag "his-name"
+OK: T/There's Something About That Name.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "adoration"
+  - mapped leftover tag "his-name"
+OK: T/There's Something Sweet About The Lord.md
+  - no pass-3 mappings found
+OK: T/There’s Power In Prayer.md
+  - mapped leftover tag "power"
+OK: T/These Ordinary Days.md
+  - no pass-3 mappings found
+OK: T/These Things I Still Possess.md
+  - no pass-3 mappings found
+OK: T/These Thousand Hills.md
+  - no pass-3 mappings found
+OK: T/They That Wait Upon The Lord [2].md
+  - mapped leftover tag "sutl"
+OK: T/They That Wait Upon The Lord [4].md
+  - mapped leftover tag "sutl"
+OK: T/They That Wait Upon The Lord.md
+  - mapped leftover tag "strength"
+  - mapped leftover tag "sutl"
+OK: T/Thief.md
+  - no pass-3 mappings found
+OK: T/Think About His Love.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "father"
+OK: T/This Blood.md
+  - mapped leftover tag "alive"
+  - mapped leftover tag "blood"
+OK: T/This Good Day.md
+  - no pass-3 mappings found
+OK: T/This Is A Good Day.md
+  - no pass-3 mappings found
+OK: T/This Is The Day.md
+  - no pass-3 mappings found
+OK: T/This Is Who I Am.md
+  - no pass-3 mappings found
+OK: T/This Man.md
+  - no pass-3 mappings found
+OK: T/This Place [2].md
+  - no pass-3 mappings found
+OK: T/This Place [4].md
+  - mapped leftover tag "blood"
+  - mapped leftover tag "dance"
+OK: T/This Place.md
+  - mapped leftover tag "jesus"
+OK: T/This Road.md
+  - no pass-3 mappings found
+OK: T/This Song Was Meant For You.md
+  - no pass-3 mappings found
+OK: T/This World Is Not My Home [2].md
+  - mapped leftover tag "heaven"
+  - mapped leftover tag "home"
+OK: T/This World Is Not My Home [3].md
+  - mapped leftover tag "heaven"
+  - mapped leftover tag "home"
+OK: T/This World Is Not My Home [5].md
+  - mapped leftover tag "heaven"
+  - mapped leftover tag "home"
+OK: T/This World Is Not My Home.md
+  - mapped leftover tag "heaven"
+  - mapped leftover tag "home"
+OK: T/This is a Move [2].md
+  - mapped leftover tag "miracles"
+OK: T/Thou Art Worthy (1962)- version 2.md
+  - mapped leftover tag "glory"
+OK: T/Thou Art Worthy (Revelation 411).md
+  - mapped leftover tag "glory"
+  - mapped leftover tag "honor"
+OK: T/Thou Art Worthy-EASY.md
+  - mapped leftover tag "glory"
+OK: T/Thou Art Worthy.md
+  - no pass-3 mappings found
+OK: T/Through It All [3].md
+  - mapped leftover tag "thank"
+OK: T/Through The Fire- my edit.md
+  - no pass-3 mappings found
+OK: T/Through The Fire-HS mod at bridge [3].md
+  - no pass-3 mappings found
+OK: T/Through The Fire-HS mod at bridge.md
+  - no pass-3 mappings found
+OK: T/Through The Fire.md
+  - no pass-3 mappings found
+OK: T/Thy Will.md
+  - no pass-3 mappings found
+OK: T/Til The Day I Die.md
+  - mapped leftover tag "love"
+OK: T/Tis So Sweet [3].md
+  - no pass-3 mappings found
+OK: T/Tis So Sweet.md
+  - no pass-3 mappings found
+OK: T/To Be Like Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "os-slow"
+OK: T/To Know You.md
+  - mapped leftover tag "life"
+OK: T/Tonight.md
+  - no pass-3 mappings found
+OK: T/Took My Place.md
+  - no pass-3 mappings found
+OK: T/Total Praise.md
+  - mapped leftover tag "men"
+OK: T/Touching Jesus-version 2.md
+  - mapped leftover tag "jesus"
+OK: T/Touching Jesus.md
+  - mapped leftover tag "jesus"
+OK: T/Trust And Obey.md
+  - mapped leftover tag "love"
+  - mapped leftover tag "help"
+OK: T/Trust In Jesus.md
+  - mapped leftover tag "jesus"
+  - mapped leftover tag "trust"
+OK: T/Trust In You.md
+  - mapped leftover tag "trust"
+OK: T/Trust in You [2].md
+  - mapped leftover tag "trust"
+OK: T/Trust in You [4].md
+  - mapped leftover tag "trust"
+OK: T/Tunnel.md
+  - mapped leftover tag "light"
+OK: T/Turn Your Eyes Upon Jesus Medley.md
+  - mapped leftover tag "jesus"
+
+============================================================
+Scanned        : 2217
+OK             : 2217
+Skipped        : 0
+Errors         : 0
+Changed files  : 1559
+Leftover files : 53
+Mode           : DRY RUN
+============================================================

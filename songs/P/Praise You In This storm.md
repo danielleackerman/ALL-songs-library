@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - help
+function:
+  - praise
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4543620'
 copyright: '2005 Word Music, LLC / BanaHama Tunes / SWECS Music / Club Zoo Music'
-source: ''
 year: ''
 medley: []
 id: 791320AC-F906-449E-90ED-D964348FBA38

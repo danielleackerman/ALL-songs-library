@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: medium-slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-med-slow
 keywords: mod apo med slow
 ccli: ''
 copyright: ''
-source: ''
 year: 2006
 medley: []
 id: ED23B527-59D0-4D4A-B1D7-65A0A8503331

@@ -5,26 +5,29 @@ key: ''
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: ''
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - fast-funky
+tempo: fast
+feel:
+  - funky
+theme:
   - revival
+function: []
+context: []
+style:
+  - black-gospel
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - black-gospel-fast-funky
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: E2C3BD28-A551-4DA3-AC96-30AD3F55EBD7
 ---
-
 ## Sets Using This Song
 
 ```dataview

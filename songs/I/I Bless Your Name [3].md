@@ -8,17 +8,22 @@ meter: ''
 tempo: slow
 feel: []
 theme: []
-function: []
-tags:
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - slow
-  - solo-songs
-  - traditional
+function:
   - worship
   - praise
+context: []
+style: []
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - Selah
+tags: []
 genre: []
 profile:
   - >-
@@ -26,7 +31,6 @@ profile:
 keywords: ''
 ccli: '4436919'
 copyright: 1998 Wayne Goodine Music
-source: Selah
 year: ''
 medley: []
 id: 3538A0AF-6241-4D3F-B3CB-149FC0A30179

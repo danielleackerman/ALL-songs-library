@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - holiness
   - heaven
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2492216'
 copyright: 1998 Kingsway's Thankyou
-source: ''
 year: ''
 medley: []
 id: E6EF2A51-D94D-4D72-A69E-CA6F96BEEC22

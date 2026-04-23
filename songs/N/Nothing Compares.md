@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3522776'
 copyright: 2001 New Spring / Vandura 2500 Songs
-source: ''
 year: ''
 medley: []
 id: 8F90FFFE-873A-43D7-A1FC-52EAB6BAD069

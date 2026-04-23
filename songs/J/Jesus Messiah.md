@@ -7,11 +7,16 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
@@ -19,7 +24,6 @@ ccli: '5183443'
 copyright: >-
   2008 Vamos Publishing / worshiptogether.com songs / sixsteps Music / Alletrop
   Music
-source: ''
 year: ''
 medley: []
 id: A649C64B-E19F-4E5D-B6E5-767BEB625E44

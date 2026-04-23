@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - faith
   - dreams
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5077353'
 copyright: 2007 My Refuge Music / Club Zoo Music / SWECS Music
-source: ''
 year: ''
 medley: []
 id: D6B2324C-B58A-4137-AE09-84A3414D1498

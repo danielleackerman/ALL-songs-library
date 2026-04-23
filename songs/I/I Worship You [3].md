@@ -6,26 +6,29 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: medium
-feel: []
+feel:
+  - reverential
 theme: []
-function: []
-tags:
+function:
+  - praise
+  - worship
+context: []
+style:
   - black-gospel
   - ccm
-  - choir
-  - choruses
-  - congregational
-  - contemporary
   - jesus-movement
   - maranatha
-  - medium
-  - medium-slow
-  - praise
-  - reverential
-  - solo-songs
   - southern-gospel
+tradition:
+  - contemporary
   - traditional
-  - worship
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -33,7 +36,6 @@ profile:
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley: []
 id: D708B878-40D2-4C28-A313-15BE1363B93E

@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - jesus
   - giving
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '31126'
 copyright: 1988 Gaither Music Company
-source: ''
 year: ''
 medley: []
 id: CDF3EFB5-71CC-4B93-A083-5F19E389A931

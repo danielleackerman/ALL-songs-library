@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5637528'
 copyright: '2009 Hillsong Music Publishing BMG Songs, Inc.'
-source: ''
 year: ''
 medley: []
 id: E8773448-E98C-4AAF-B114-E9D35EE394DA

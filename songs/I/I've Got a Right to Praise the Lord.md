@@ -5,24 +5,29 @@ key: F
 bpm: '86'
 time_sig: ''
 meter: ''
-tempo: medium
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: fast
+feel:
   - high-energy
-  - medium-fast-shouting
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+  - shouting
+theme:
   - children
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +37,6 @@ profile:
 keywords: 'os apo med, os gospel med'
 ccli: '313473'
 copyright: '1973 Renewed 2001 LeFevre-Sing Publishing (Admin. by ClearBox Rights, LLC)'
-source: ''
 year: 1973
 medley:
   - '[[I''VE BEEN REDEEMED]]'

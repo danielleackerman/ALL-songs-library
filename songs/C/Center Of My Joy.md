@@ -7,13 +7,19 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - joy
   - adoration
   - commitment
-  - rejoice
+  - rejoicing
+function: []
+context: []
+style:
+  - black-gospel-opera
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - black-gospel-opera
@@ -24,7 +30,6 @@ ccli: '165937'
 copyright: >-
   1987 Century Oak Publishing Group, Richwood Music, William J. Gaither, Inc.
   Admin. Conexion Group, Inc., Gaither Copyright Management
-source: ''
 year: 1987
 medley:
   - '[[I’M AVAILABLE TO YOU]]'

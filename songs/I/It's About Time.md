@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - jesus
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5350276'
 copyright: 2007 Vandura 2500 Songs
-source: ''
 year: ''
 medley: []
 id: 837B9935-05E7-4D2D-9CE3-EAF20202846D

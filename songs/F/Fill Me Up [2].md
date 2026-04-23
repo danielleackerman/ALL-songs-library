@@ -5,25 +5,29 @@ key: Gb
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-slow
+feel:
   - energetic
-  - medium-slow
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - jesus
   - life
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -33,7 +37,6 @@ ccli: '5366693'
 copyright: >-
   2009 Integrity's Hosanna! Music / Pure Poythress / Cedar Sides / Songs of
   Extreme
-source: ''
 year: ''
 medley: []
 id: D17A85DA-2189-406D-8DF3-A1DA7283F9A5

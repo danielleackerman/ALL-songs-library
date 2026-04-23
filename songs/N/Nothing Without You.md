@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '4442453'
 copyright: '2004 New Spring Publishing, Inc. / Appstreet Music / Rotten Banana Music'
-source: ''
 year: ''
 medley: []
 id: 9274ADFC-DF7C-490C-BE75-A4AB7FB17EA6

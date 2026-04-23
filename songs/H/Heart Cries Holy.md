@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3504581'
 copyright: '2000 Open Worship Music, Inc.'
-source: ''
 year: ''
 medley: []
 id: A708E131-E0C0-4F85-AB28-DC3650F2B9C1

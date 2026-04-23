@@ -8,16 +8,20 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
-function: []
-tags:
+function:
   - worship
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - mod-apo-med
 keywords: mod apo med
 ccli: '3266032'
 copyright: 2000 Thankyou Music
-source: ''
 year: ''
 medley: []
 id: D8E9DB22-AB82-4227-B556-0A7C1DDD8CE4

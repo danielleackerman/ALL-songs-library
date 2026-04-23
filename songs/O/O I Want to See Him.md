@@ -5,25 +5,30 @@ key: G
 bpm: '50'
 time_sig: 12/8
 meter: ''
-tempo: slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
-  - medium-fast
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
-  - sutl
+theme:
   - anticipation
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - 'SING UNTO THE LORD, 2'
+  - sing-unto-the-lord
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +37,6 @@ profile:
 keywords: 'sutl, os apo med, anticipation'
 ccli: '51687'
 copyright: Public Domain
-source: 'SING UNTO THE LORD, 2'
 year: ''
 medley:
   - '[[AT THE CROSS]]'

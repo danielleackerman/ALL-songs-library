@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '1848741'
 copyright: 1995 Pogostick Music
-source: ''
 year: ''
 medley: []
 id: 4CE15E9C-4252-4CAA-B9F1-E0E1663078C6

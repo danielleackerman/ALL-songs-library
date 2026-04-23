@@ -5,24 +5,28 @@ key: E
 bpm: '55'
 time_sig: 6/8
 meter: ''
-tempo: slow
+tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium
-  - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - presence
   - dance
+function:
+  - praise
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -32,7 +36,6 @@ ccli: 'none   ||: chart interpreted by WorshipReady.com :||'
 copyright: >-
   Words & Music by Todd Dulaney. ©2017 Entertainment One Music / Ole Purple Cape
   Music / U Know It 2 (admin. by Ole Media Management LP)
-source: ''
 year: ''
 medley: []
 id: B88BB99C-7130-47AF-BE7D-5E0C185E77EE

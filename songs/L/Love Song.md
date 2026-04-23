@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - life
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2221865'
 copyright: '1996 New Spring Publishing, Inc.'
-source: ''
 year: ''
 medley: []
 id: 7799AE8A-3F57-41C0-8A7C-E1FB74740B2A

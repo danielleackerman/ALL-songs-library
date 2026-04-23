@@ -7,10 +7,16 @@ time_sig: ''
 meter: ''
 tempo: slow
 feel: []
-theme: []
+theme:
+  - thanksgiving
 function: []
-tags:
-  - thank
+context: []
+style:
+  - black-gospel-opera
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - black-gospel-opera
@@ -18,7 +24,6 @@ profile:
 keywords: os gospel slow
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[THROUGH THE FIRE]]'

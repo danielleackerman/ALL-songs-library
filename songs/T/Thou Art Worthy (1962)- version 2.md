@@ -7,17 +7,22 @@ time_sig: 4/4
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - glory
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - 1898-1991
+tags: []
 genre: []
 profile:
   - os-apo-slow
 keywords: os apo slow
 ccli: ''
 copyright: ''
-source: 1898-1991
 year: ''
 medley: []
 id: 5B02815B-B6D2-4D0E-ABDE-DCB88712782D

@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '2753704'
 copyright: '1998 MargeeDays Music / Dayspring Music, LLC / John Andrew Schreiner Music'
-source: ''
 year: ''
 medley: []
 id: 9F1DCF57-5742-4BCB-8287-EA0373994B0A

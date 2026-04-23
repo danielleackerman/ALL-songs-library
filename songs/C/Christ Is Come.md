@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - christ
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: 2004 Fervent Records / Open Worship Music
-source: ''
 year: ''
 medley: []
 id: A520A79F-3D9E-4DF6-B4AE-DFA746A5CE28

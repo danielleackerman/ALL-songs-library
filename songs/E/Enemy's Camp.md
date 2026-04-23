@@ -5,28 +5,31 @@ key: C
 bpm: ''
 time_sig: ''
 meter: ''
-tempo: fast
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
+tempo: medium-fast
+feel:
   - energetic
   - high-energy
-  - medium-fast
-  - medium-fast-shouting
+  - shouting
+theme:
+  - belief
+function:
   - praise
-  - solo-songs
-  - southern-gospel
-  - traditional
   - worship
-  - believe
-  - mod-apo
-  - contemp-christian
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+  - ccm
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source: []
+tags: []
 genre: []
 profile:
   - >-
@@ -34,7 +37,6 @@ profile:
 keywords: 'mod apo  , contemp christian, southern gospel'
 ccli: '467628'
 copyright: '1991 Sound III, Inc. ASCAP Admin. by All Nations Music'
-source: ''
 year: ''
 medley:
   - '[[LOOK WHAT THE LORD HAS DONE]]'

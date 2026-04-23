@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - heaven
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5833975'
 copyright: 2010 Thankyou
-source: ''
 year: ''
 medley: []
 id: 1213D3EC-8D14-4301-A02D-6C5C838253D5

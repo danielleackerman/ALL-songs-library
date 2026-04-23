@@ -9,18 +9,22 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - Sunday school Sunday school; The men the women the boys the girls
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: ''
 copyright: ''
-source: Sunday school Sunday school; The men the women the boys the girls
 year: ''
 medley: []
 id: 63F7978C-9835-4115-8B35-E556A6A653FC
 ---
-
 ## Sets Using This Song
 
 ```dataview

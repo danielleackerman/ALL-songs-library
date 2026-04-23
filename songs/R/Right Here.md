@@ -9,13 +9,17 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3903010'
 copyright: 2002 Thirsty Moon River Publishing / Stolen Pride
-source: ''
 year: ''
 medley: []
 id: A7BB1EC7-45F4-4767-9F99-AE5D5DB7E6B6

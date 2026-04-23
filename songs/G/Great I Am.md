@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - almighty
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '5881491'
 copyright: 2011 Integrity Music
-source: ''
 year: ''
 medley: []
 id: FD576D65-EC07-4E9E-A4F2-BC8FEBC1595D

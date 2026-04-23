@@ -6,22 +6,29 @@ bpm: ''
 time_sig: ''
 meter: ''
 tempo: medium-slow
-feel: []
-theme: []
-function: []
-tags:
-  - black-gospel
-  - choir
-  - choruses
-  - congregational
-  - contemporary
-  - medium-slow
+feel:
   - reverential
-  - solo-songs
-  - southern-gospel
-  - traditional
-  - worship
+theme:
   - holy-spirit
+function:
+  - worship
+context: []
+style:
+  - black-gospel
+  - southern-gospel
+tradition:
+  - contemporary
+  - traditional
+use:
+  - choir
+  - chorus
+  - congregational
+  - solo
+source:
+  - >-
+    I believe the Bridge is close, but may not be perfect.; If it need
+    correction please feel free to do so
+tags: []
 genre: []
 profile:
   - >-
@@ -29,9 +36,6 @@ profile:
 keywords: ''
 ccli: '2405227'
 copyright: 1997 Hillsong Publishing
-source: >-
-  I believe the Bridge is close, but may not be perfect.; If it need correction
-  please feel free to do so
 year: ''
 medley: []
 id: 67FD158A-8A72-44EC-9218-DD246E43F361

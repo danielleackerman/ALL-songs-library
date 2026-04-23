@@ -7,17 +7,21 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
   - joy
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '24016'
 copyright: Public Domain
-source: ''
 year: ''
 medley: []
 id: 6CACDB1C-50ED-4836-9894-2826C08A6BA6

@@ -7,16 +7,20 @@ time_sig: ''
 meter: ''
 tempo: ''
 feel: []
-theme: []
-function: []
-tags:
+theme:
   - love
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile: []
 keywords: ''
 ccli: '3520479'
 copyright: '2001 New Spring Publishing, Inc.'
-source: ''
 year: ''
 medley: []
 id: C658BAE7-DCB4-4B7E-A112-76AAAF569AB8

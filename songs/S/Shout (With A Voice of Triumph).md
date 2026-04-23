@@ -7,19 +7,23 @@ time_sig: ''
 meter: ''
 tempo: medium
 feel: []
-theme: []
-function: []
-tags:
-  - praise
+theme:
   - triumph
+function:
+  - praise
+context: []
+style:
   - ccm
+tradition: []
+use: []
+source: []
+tags: []
 genre: []
 profile:
   - contemporary-christian-med-fast
 keywords: ''
 ccli: ''
 copyright: ''
-source: ''
 year: ''
 medley:
   - '[[SHAKE THE FOUNDATIONS WITH PRAISE]]'

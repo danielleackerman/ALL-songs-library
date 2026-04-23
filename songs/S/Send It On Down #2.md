@@ -9,6 +9,11 @@ tempo: ''
 feel: []
 theme: []
 function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
 tags: []
 genre: []
 profile:
@@ -20,7 +25,6 @@ copyright: >-
   1994 DaviSongShop (Admin. by Capitol CMG Publishing former Gaither Admin.),
   Gaither Music Company, Admin. Gaither Copyright Management, Capitol CMG
   Publishing,Music Services, Inc.
-source: ''
 year: ''
 medley: []
 id: CC04D3B2-9D67-4FFD-B59C-2705F69D7559
