@@ -2,9 +2,9 @@
 title: He'll Make A Way
 artist: Gerald Crabb
 key: A
-bpm: ''
+bpm: ""
 time_sig: 3/4
-meter: ''
+meter: ""
 tempo: medium
 feel: []
 theme: []
@@ -13,10 +13,8 @@ function:
   - worship
 context: []
 style:
-  - black-gospel
   - southern-gospel
 tradition:
-  - contemporary
   - traditional
 use:
   - choir
@@ -27,12 +25,11 @@ source: []
 tags: []
 genre: []
 profile:
-  - >-
-    black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
-keywords: ''
-ccli: ''
-copyright: ''
-year: ''
+  - black-gospel-choir-choruses-congregational-contemporary-medium-praise-solo-songs-southern-gospel-traditional-worship
+keywords: ""
+ccli: ""
+copyright: ""
+year: ""
 medley: []
 id: 7BB15C14-BCCC-4434-A1AB-23069A066EC5
 ---

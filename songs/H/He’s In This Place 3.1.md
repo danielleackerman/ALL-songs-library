@@ -1,11 +1,11 @@
 ---
 title: He’s In This Place // 3.1
-artist: modulates a minor third
+artist:
 key: C
-bpm: ''
-time_sig: ''
-meter: ''
-tempo: ''
+bpm: ""
+time_sig: ""
+meter: ""
+tempo: ""
 feel: []
 theme: []
 function: []
@@ -17,14 +17,14 @@ source: []
 tags: []
 genre: []
 profile: []
-keywords: ''
-ccli: ''
-copyright: ''
-year: ''
+keywords: ""
+ccli: ""
+copyright: ""
+year: ""
 medley: []
 id: 282298CA-82CB-40F6-9475-32351F0A918D
 ---
->yellow:modulates a minor third
+modulates a minor third
 
 Clint Brown
 Key: C
