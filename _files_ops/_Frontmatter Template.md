@@ -1,8 +1,35 @@
 
 ## Status
-This note contains older migration thinking.
-The approved current frontmatter schema is:
 
+The approved current frontmatter schema is:
+---
+title: ""
+artist: ""
+key: ""
+bpm: ""
+time_sig: ""
+meter: ""
+tempo: ""
+feel: []
+theme: []
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source: []
+tags: []
+genre: []
+profile: []
+keywords: ""
+ccli: ""
+copyright: ""
+year: ""
+medley: []
+id: ""
+---
+
+This note contains older migration thinking.
 ```yaml
 ---
 title: ""

@@ -1,0 +1,245 @@
+---
+title: "We Believe"
+artist: ""
+key: ""
+bpm: ""
+time_sig: ""
+meter: ""
+tempo: ""
+feel: []
+theme: []
+function: []
+context: []
+style: []
+tradition: []
+use: []
+source:
+  - "Boone Open Bible Worship Team PDF Archive"
+tags: []
+genre: []
+profile: []
+keywords: ""
+ccli: ""
+copyright: ""
+year: ""
+medley: []
+id: ""
+---
+
+# We Believe
+
+## Source PDF
+
+imports/boone/pdfs/We Believe.pdf
+
+## Extracted PDF Text
+
+```text
+We Believe
+                                                                                                                                                                 Travis Ryan, Richie Fike
+     q = 66                                                                                                                                                         and Matt Hooper
+
+
+  ## 4 ŒD « « «« «« « «                      «                «  «    «  «
+                                                    ‰ . « «ˆ «ˆ ««ˆ ««ˆ. « «« «« ««j «« .
+                                                           «                   «
+                                 «           «  Ó                                            Ó =l
+                                       G/D          D                              G/D
+
+     4       «  ˆ
+                «   ˆ
+                    «  ˆ.
+                       «  « «                «
+                                             ˆ
+ 1
+
+
+&            «
+             ˆ            «
+                          ˆ «ˆ ˆ« l «
+=============================    «       «        l     «
+                                                        k
+                                                        ˆ
+                                                        «  «             «
+                                                                         ˆ  «
+                                                                            ˆ  ˆ l  ˆ
+                                                                                    «    ˆ
+                                                                                         «
+                                       ˆ_«
+         1. In this time of des- per - a - tion      when all we know is doubt and     fear,
+
+  ## Œ «« «« «« «« «« «« «               «« Œ ≈ «« «« «« «« Œ Œ ≈ «« «« «« ««   Œ Ó
+               Bm7                                           G                                            D                                               G/D
+
+         «
+         ˆ «
+           ˆ   ˆ
+               « «
+                 ˆ  «       «  «                ˆ« «ˆ «ˆ l ˆ«
+                         «          «ˆ« ˆ«                        ˆ« «ˆ «ˆ l ˆ«
+5
+
+                    ˆ
+                    «          «
+                        ˆ« «ˆ «ˆ. l
+=============================
+&                                   «
+                                    _                                               =l
+      there is on- ly one found- a - tion:    We be -lieve,      we be -lieve.
+
+  ## Œ « « «« «« « « « «                           ««ˆ« . Ó  ‰ .    «« «« «« «« «« «« « « ‰ « « Œ
+                                       «                         «
+                D                                            G/D                                         D                                               G/D
+
+         «  ˆ
+            «  ˆ
+               «  «
+                  ˆ   «   «  «                 «            l «ˆ«k «ˆ «ˆ «ˆ ˆ« ««ˆ ««ˆ ««ˆ l «ˆ«
+9
+
+         ˆ«           «ˆ ˆ« «ˆ ««ˆ «««ˆ_ l
+=============================
+&                                          «ˆ«_j                                                 «ˆ«j «ˆ« =l
+       In this brok - en gen-er -a             - tion,         when all is dark, you help us     see.
+
+  ## Bm         «     «    «    «          £        £
+                «ˆ« ««ˆ ««ˆ ««ˆ «««ˆ ‰ «« « « «ˆ« . Œ ≈ ««ˆ «ˆ ««ˆ ««ˆ« Œ Œ ≈ «««ˆ «««ˆ «««ˆ ««ˆ« Œ Œ ≈ ««ˆ« «««ˆ «««ˆ
+                                                                        «                     «   «
+       Œ
+                    7                                         G                                                  D                                        G/D
+13
+
+
+=============================
+&                                               ˆ« ««ˆ l _«   j
+                                                              «
+                                                              ˆ                                   ««l                                                  l                                =l l
+    % D
+            There is on - ly                 one sal - va -tion;                             we be-lieve,                                      we be-lieve.                     We be -lieve
+
+  ## « « «                                      «   «  «      «   «
+     ˆ«« ««ˆ ««ˆ ««ˆ« _ˆ«««« ˆ««« «««ˆ «««_ ≈ ««ˆ ««ˆ ««ˆ l ««ˆ ««ˆ ˆ««« ««ˆ« ˆ««« ˆ««« ««ˆ«  ≈ «ˆ« ««ˆ ««ˆ l «ˆ« ˆ«« ««« ««« «« «« «« «« «« ‰ «« «« l « «« «« «« ˆ««« «««ˆ ««ˆ« ≈ «««ˆ ˆ«««=ˆ««« l
+                                                                                                  «   «   «     «   «
+                                                           Asus  4                                            7
+                                                                                                             Bm                                             2
+                                                                                                                                                         Gsus
+17
+
+
+=============================
+&                                      «ˆ_                                                                            ˆ _ˆ« ˆ« «_«ˆ ˆ« «ˆ «_«ˆ_ «ˆ «ˆ_ _ˆ«« «ˆ_ «ˆ ˆ«
+            in God the Fa-ther, we be-lieve in Je-sus Christ. We be-lieve in the Ho-ly Spi- rit, and he's giv-en us new life. We be-lieve
+
+  ## «D « «                              ≈ « «  «    «  «                            «  «  «      «
+                                                             «         «    «    «                  ««ˆ ««ˆ _«« «ˆ« _«« ˆ«« «««ˆ «««_ ‰ «««ˆ=
+                                                                                                    «    «
+                                                    Asus                         4               Bm                                        7
+
+
+      «           «   «   «   «   «        « «  «    «          «   «
+     ˆ« ««ˆ ««ˆ _«« «ˆ« _«« ««ˆ ««ˆ _««« «ˆ «ˆ «ˆ l ˆ« ««ˆ ˆ«« ««ˆ ««ˆ ««ˆ ««ˆ «ˆ« ≈ «  «  «      «           «   «   «   «                 «« l
+21
+
+                                                                                     «
+                                                                                     ˆ  ˆ
+                                                                                        «  ˆ
+                                                                                           «      «
+                                                                                                  ˆ
+                                                                                                                               To Coda
+
+=============================
+&                                                                                              l
+                  «ˆ «ˆ              _ˆ«                                                                      ˆ
+                                                                                                              «       ˆ
+                                                                                                                      «            ˆ_« and he's«ˆ_
+            in the cru - ci - fix - ion. We be- lieve that he con-quered death.     We be -lieve        in the res - ur- rec - tion,
+
+  ##                                                                     ‰         »
+                                                                                   œ  œ»   «
+                                                                                           «   «
+                                                                                               «  «
+                                                                                                  « «
+                                                                                                    «   «
+                                                                                                        « «
+                                                                                                          «  «« «« ««
+                         «   «   «                       Œ Ó         Ó Œ         Œ »       ˆ ««ˆ «ˆˆ« ««ˆ l ˆ« «ˆ. ˆ« Ó =l
+                                                                                                          ˆ
+                                                                                                          «
+            Gsus2
+
+                 «   «                 «     «   «     «                   «
+                                                       D     Fine G/D            D                          G/D
+
+     ««_ «««ˆ_ ««ˆ «ˆ« ˆ«« ««ˆ «ˆ« ≈ «ˆ« «««ˆ_ ««ˆ l «ˆ«                               » »
+                                                                                   »» »» œ«
+24
+
+
+=============================
+&                                                                l l       «
+                                                                           j
+                                                                           ˆ
+                                                                           « l l         »
+                                                                                         »
+       «ˆ  com -ing back a - gain. We be-lieve.                                                               So            let our faith be more than an - thems,
+
+  ## Œ »œ» »œ «« «« «« «« «««ˆ Jœ
+                                              »               Ó          ‰ .   «« »œ» »œ «« «« «« «« «« «««ˆ ««ˆ« . «« «« Œ « « « « Œ Œ « « «
+               D                                     G/D                      Bm7                                                  G                                   D
+
+            » »   »
+                  œ  «
+                     ˆ    «  ˆˆ
+                             «   «         l »» «ˆ« . «              l ˆ«k »»          »»» »œ»» «ˆ ˆ«« ˆ« «ˆ ««ˆ l «ˆ ˆ«                           ≈ «ˆ« ˆ«« ˆ«« l «ˆ«       ≈ ««ˆ =   ««ˆ ««ˆ l
+29
+
+              » »» ˆ«
+=============================
+&
+                                       ﬁ
+        great-er than the songs we                sing,                    and in our weak-ness and temp- ta - tions                               we believe,           We believe.
+
+                                                                                                                                                             D/F#
+  ## G/D
+      «« Œ ≈ «« «« «« G « « « « « « ≈ « « «« Gsus
+              D.S. al Coda                 Coda
+
+                                                                              «   «       «                                       «
+                                                                                          ««ˆ ˆ«« «ˆ«k««ˆ ««ˆ «««ˆ «««ˆ «««ˆ ˆ«« ««ˆ l «ˆ« ˆ«« ˆ«« ≈ «ˆ«k «««ˆ «««ˆ «««ˆ «««ˆ «««ˆ «««ˆ=ˆ««« l
+                                                                                                «    «  «   «                  «         «   «   «       «
+& ˙«                ˆ« «ˆ «ˆ l l _ˆ««« _««ˆ ««ˆ ««ˆ ˆ«« ««ˆˆ«« ««ˆ ˆ«« ˆ« l «ˆ« ««ˆ
+34                                                                                       2        Asus             4                   Bm          7
+
+
+=============================
+                                                                                                              #
+              We be-lieve com -ing back again. Let the lost be found, and the dead be raised; in the here and now let love invade. Let the church
+
+  ## Gsus
+      «« «« «« ≈ «« «« «« « «« «« ˆ««« ««« «« ≈ «« «««ˆ ««« «« «« ≈ « «« «« «« «« «« «« «« «« « « « «« ««
+                    2
+                   Asus                    Bm   4            D/F                 7
+                                                                                Gsus          Asus                                             2                        4
+38
+
+       «ˆ «ˆ ˆ« ˆ«k «ˆ «ˆ ««ˆ ««ˆ ««ˆ «ˆ l ˆ«
+=============================
+&                                                «ˆ«      «ˆ «ˆ «ˆ . ««ˆ ˆ« ˆ« l ˆ« «ˆ «ˆ. «ˆ «ˆ ˆ« ˆ«« ««ˆ ««ˆ «ˆ=
+                                                                                                                  «ˆ l
+                                          D/F#                                                                                                                    D/F#
+                        live loud! Our God will save. We be-lieve!                       We be - lieve!                And the gates               of hell will not pre - vail, for the pow'r
+
+  ## « « « « « « « « « « « « « « « « « « « «« «« «                                                                         «   «
+                                                            «ˆ« ««ˆ ˆ«« ≈ «ˆ«k ««ˆ ««ˆ «««ˆ «««ˆ ˆ««« ˆ« ««ˆ l «ˆ« ≈ ««ˆ« ˆ« ˆ«« ««ˆ ˆ«« . ≈ «««ˆ ˆ««« =
+                                                                                                                        «  «   «   «   «               ˆ««« ”
+              Bm7                                                         Gsus2                        Asus4                            Bm7
+
+     ««ˆ ˆ«« ˆ«« ≈ «ˆ«k ˆ«« ««ˆ «««ˆ ««ˆ ««ˆ« ˆ«« ˆ«« ««ˆ l
+41                                                                                                                                          D.S. al Fine
+
+=============================
+&
+                        or God     has torn the veil. Now we know your love will nev -er fail. We be -lieve!                                            We be - lieve!        We be - lieve
+
+CCLI # 6367165
+```
