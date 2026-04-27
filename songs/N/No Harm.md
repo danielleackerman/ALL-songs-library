@@ -12,6 +12,7 @@ feel:
   - shouting
 theme:
   - dance
+emotion: []
 function:
   - praise
   - worship

@@ -11,6 +11,7 @@ theme:
   - jesus
   - life
   - sanctification
+emotion: []
 function:
   - praise
   - worship

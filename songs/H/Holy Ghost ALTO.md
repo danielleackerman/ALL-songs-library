@@ -10,6 +10,7 @@ feel: []
 theme:
   - holy-ghost
   - revival
+emotion: []
 function: []
 context: []
 style: []

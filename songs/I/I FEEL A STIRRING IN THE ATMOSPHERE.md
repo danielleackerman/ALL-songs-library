@@ -10,6 +10,7 @@ feel: []
 theme:
   - awesome
   - power
+emotion: []
 function:
   - praise
   - worship

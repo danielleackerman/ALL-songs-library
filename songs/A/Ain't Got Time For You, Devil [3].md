@@ -9,6 +9,7 @@ tempo: medium-fast
 feel: []
 theme:
   - jesus
+emotion: []
 function: []
 context: []
 style: []

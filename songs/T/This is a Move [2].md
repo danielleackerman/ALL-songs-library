@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - miracles
+emotion: []
 function:
   - worship
 context: []

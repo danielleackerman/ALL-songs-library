@@ -10,6 +10,7 @@ meter: ''
 tempo: ''
 feel: []
 theme: []
+emotion: []
 function: []
 context: []
 style:

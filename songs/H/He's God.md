@@ -12,6 +12,7 @@ theme:
   - presence
   - reverence
   - thanksgiving
+emotion: []
 function:
   - worship
   - praise

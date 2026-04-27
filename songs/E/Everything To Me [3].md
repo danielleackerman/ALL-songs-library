@@ -10,6 +10,7 @@ feel: []
 theme:
   - life
   - thirst
+emotion: []
 function: []
 context: []
 style: []

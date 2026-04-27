@@ -11,6 +11,7 @@ feel:
 theme:
   - mercy
   - jesus
+emotion: []
 function:
   - worship
 context: []

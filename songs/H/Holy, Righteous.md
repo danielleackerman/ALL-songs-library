@@ -11,6 +11,7 @@ theme:
   - holiness
   - presence
   - righteousness
+emotion: []
 function: []
 context: []
 style: []

@@ -11,6 +11,7 @@ feel:
   - shouting
 theme:
   - blood
+emotion: []
 function:
   - praise
   - worship

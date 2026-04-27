@@ -11,6 +11,7 @@ theme:
   - rock
   - protection
   - provision
+emotion: []
 function:
   - praise
   - worship

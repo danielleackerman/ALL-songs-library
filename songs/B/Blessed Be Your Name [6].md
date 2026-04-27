@@ -9,6 +9,7 @@ tempo: medium-fast
 feel: []
 theme:
   - blessing
+emotion: []
 function: []
 context: []
 style: []

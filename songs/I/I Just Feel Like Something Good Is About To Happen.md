@@ -12,6 +12,7 @@ feel:
 theme:
   - assurance
   - comfort
+emotion: []
 function:
   - praise
   - worship

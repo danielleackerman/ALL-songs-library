@@ -10,6 +10,7 @@ meter: ''
 tempo: medium
 feel: []
 theme: []
+emotion: []
 function:
   - praise
   - worship

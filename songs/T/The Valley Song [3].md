@@ -10,6 +10,7 @@ feel: []
 theme:
   - mercy
   - joy
+emotion: []
 function: []
 context: []
 style: []

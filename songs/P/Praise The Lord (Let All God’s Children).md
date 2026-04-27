@@ -9,6 +9,7 @@ tempo: fast
 feel: []
 theme:
   - children
+emotion: []
 function:
   - praise
 context: []

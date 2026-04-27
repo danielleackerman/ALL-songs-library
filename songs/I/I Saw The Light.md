@@ -12,6 +12,7 @@ feel:
   - novelty
 theme:
   - light
+emotion: []
 function:
   - praise
   - worship

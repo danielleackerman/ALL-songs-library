@@ -10,6 +10,7 @@ feel: []
 theme:
   - christ
   - life
+emotion: []
 function: []
 context: []
 style: []

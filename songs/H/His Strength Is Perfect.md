@@ -11,6 +11,7 @@ feel:
 theme:
   - power
   - strength
+emotion: []
 function:
   - worship
 context: []

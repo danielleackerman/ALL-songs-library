@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - guidance
+emotion: []
 function: []
 context:
   - altar

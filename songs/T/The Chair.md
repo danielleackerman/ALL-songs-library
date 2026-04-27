@@ -10,6 +10,7 @@ feel: []
 theme:
   - dance
   - dreams
+emotion: []
 function: []
 context: []
 style: []

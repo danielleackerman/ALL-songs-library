@@ -12,6 +12,7 @@ theme:
   - glory
   - joy
   - gladness
+emotion: []
 function: []
 context: []
 style: []

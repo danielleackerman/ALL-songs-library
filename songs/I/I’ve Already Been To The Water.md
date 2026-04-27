@@ -12,6 +12,7 @@ feel:
 theme:
   - baptism
   - water
+emotion: []
 function:
   - praise
   - worship

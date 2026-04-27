@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - victory
+emotion: []
 function:
   - praise
   - worship

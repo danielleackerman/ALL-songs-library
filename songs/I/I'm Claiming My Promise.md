@@ -11,6 +11,7 @@ feel:
   - shouting
 theme:
   - promise
+emotion: []
 function:
   - praise
   - worship

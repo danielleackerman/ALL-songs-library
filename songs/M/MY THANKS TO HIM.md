@@ -13,6 +13,7 @@ theme:
   - thanksgiving
   - friendship
   - thankfulness
+emotion: []
 function:
   - worship
 context: []

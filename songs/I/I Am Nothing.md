@@ -10,6 +10,7 @@ feel: []
 theme:
   - love
   - thanksgiving
+emotion: []
 function: []
 context: []
 style: []

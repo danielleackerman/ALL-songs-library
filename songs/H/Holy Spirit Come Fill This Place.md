@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - holy-spirit
+emotion: []
 function: []
 context: []
 style: []

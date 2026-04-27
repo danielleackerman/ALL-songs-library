@@ -11,6 +11,7 @@ theme:
   - acceptance
   - christian-life
   - gods-word
+emotion: []
 function: []
 context: []
 style: []

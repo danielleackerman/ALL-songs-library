@@ -10,6 +10,7 @@ feel:
   - funky
 theme:
   - revival
+emotion: []
 function: []
 context: []
 style:

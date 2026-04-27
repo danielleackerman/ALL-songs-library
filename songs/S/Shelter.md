@@ -10,6 +10,7 @@ feel: []
 theme:
   - hope
   - shelter
+emotion: []
 function: []
 context: []
 style: []

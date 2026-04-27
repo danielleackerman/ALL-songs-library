@@ -11,6 +11,7 @@ theme:
   - cleansing
   - healing
   - testimony
+emotion: []
 function: []
 context: []
 style: []

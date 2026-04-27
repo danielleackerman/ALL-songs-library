@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - victory
+emotion: []
 function:
   - worship
 context: []

@@ -12,6 +12,7 @@ theme:
   - cleansing
   - healing
   - testimony
+emotion: []
 function:
   - worship
 context:

@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - angels
+emotion: []
 function: []
 context: []
 style: []

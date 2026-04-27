@@ -10,6 +10,7 @@ feel: []
 theme:
   - peace
   - victory
+emotion: []
 function: []
 context: []
 style:

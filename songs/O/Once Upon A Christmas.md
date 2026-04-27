@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - birth
+emotion: []
 function: []
 context: []
 style: []

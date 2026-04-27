@@ -10,6 +10,7 @@ feel: []
 theme:
   - love
   - father
+emotion: []
 function:
   - praise
   - worship

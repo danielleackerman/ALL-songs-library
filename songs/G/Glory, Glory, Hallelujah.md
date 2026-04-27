@@ -10,6 +10,7 @@ feel: []
 theme:
   - glory
   - breakthrough
+emotion: []
 function: []
 context: []
 style: []

@@ -10,6 +10,7 @@ feel: []
 theme:
   - father
   - holy-spirit
+emotion: []
 function: []
 context: []
 style: []

@@ -12,6 +12,7 @@ theme:
   - adoration
   - commitment
   - rejoicing
+emotion: []
 function: []
 context: []
 style:

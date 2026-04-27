@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - witness
+emotion: []
 function: []
 context: []
 style: []

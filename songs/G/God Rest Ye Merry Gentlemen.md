@@ -10,6 +10,7 @@ feel: []
 theme:
   - joy
   - comfort
+emotion: []
 function: []
 context: []
 style: []

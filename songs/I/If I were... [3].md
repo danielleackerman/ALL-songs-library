@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - thanksgiving
+emotion: []
 function: []
 context: []
 style: []

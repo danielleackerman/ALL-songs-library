@@ -9,6 +9,7 @@ tempo: medium
 feel: []
 theme:
   - triumph
+emotion: []
 function:
   - praise
 context: []

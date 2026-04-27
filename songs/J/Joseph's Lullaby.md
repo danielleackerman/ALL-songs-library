@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - lullaby
+emotion: []
 function: []
 context: []
 style: []

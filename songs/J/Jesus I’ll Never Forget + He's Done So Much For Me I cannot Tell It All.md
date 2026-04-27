@@ -12,6 +12,7 @@ theme:
   - deliverance
   - freedom
   - unity
+emotion: []
 function: []
 context: []
 style: []

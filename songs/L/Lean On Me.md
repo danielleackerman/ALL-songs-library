@@ -9,6 +9,7 @@ tempo: slow
 feel: []
 theme:
   - friendship
+emotion: []
 function: []
 context: []
 style: []

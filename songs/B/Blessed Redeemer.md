@@ -10,6 +10,7 @@ feel: []
 theme:
   - calvary
   - redeemer
+emotion: []
 function: []
 context: []
 style: []

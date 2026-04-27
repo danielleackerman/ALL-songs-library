@@ -9,6 +9,7 @@ tempo: medium
 feel: []
 theme:
   - pentecost
+emotion: []
 function:
   - praise
   - worship

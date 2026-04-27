@@ -10,6 +10,7 @@ feel:
   - energetic
 theme:
   - thanksgiving
+emotion: []
 function:
   - worship
 context: []

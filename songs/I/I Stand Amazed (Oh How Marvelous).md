@@ -29,6 +29,7 @@ theme:
   - sin
   - sorrow
   - will
+emotion: []
 function:
   - praise
   - worship

@@ -10,6 +10,7 @@ feel: []
 theme:
   - angels
   - glory
+emotion: []
 function:
   - praise
   - worship

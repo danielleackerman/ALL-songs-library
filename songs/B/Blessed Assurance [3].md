@@ -9,6 +9,7 @@ tempo: slow
 feel: []
 theme:
   - assurance
+emotion: []
 function:
   - worship
 context:

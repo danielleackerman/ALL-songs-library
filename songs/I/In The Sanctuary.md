@@ -9,6 +9,7 @@ tempo: medium-fast
 feel: []
 theme:
   - rest
+emotion: []
 function:
   - praise
 context: []

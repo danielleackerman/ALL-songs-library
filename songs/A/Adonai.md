@@ -10,6 +10,7 @@ feel: []
 theme:
   - father
   - hope
+emotion: []
 function:
   - worship
 context: []

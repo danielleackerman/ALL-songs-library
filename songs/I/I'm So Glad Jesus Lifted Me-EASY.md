@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - sin
+emotion: []
 function: []
 context: []
 style: []

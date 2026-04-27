@@ -11,6 +11,7 @@ theme:
   - rock
   - shield
   - prayer
+emotion: []
 function: []
 context: []
 style: []

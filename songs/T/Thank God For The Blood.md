@@ -11,6 +11,7 @@ feel:
 theme:
   - blood
   - thanksgiving
+emotion: []
 function:
   - praise
   - worship

@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - family
+emotion: []
 function:
   - praise
   - worship

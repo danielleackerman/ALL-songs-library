@@ -8,6 +8,7 @@ meter: ''
 tempo: slow
 feel: []
 theme: []
+emotion: []
 function:
   - worship
 context: []

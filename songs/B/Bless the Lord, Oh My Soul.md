@@ -9,6 +9,7 @@ tempo: medium-slow
 feel: []
 theme:
   - adoration
+emotion: []
 function:
   - worship
 context: []

@@ -9,6 +9,7 @@ tempo: medium-slow
 feel: []
 theme:
   - confidence
+emotion: []
 function: []
 context: []
 style:

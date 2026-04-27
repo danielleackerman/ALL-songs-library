@@ -10,6 +10,7 @@ feel: []
 theme:
   - heaven
   - strength
+emotion: []
 function: []
 context: []
 style: []

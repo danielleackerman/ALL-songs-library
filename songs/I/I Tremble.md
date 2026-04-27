@@ -11,6 +11,7 @@ feel:
 theme:
   - love
   - blood
+emotion: []
 function:
   - worship
 context: []

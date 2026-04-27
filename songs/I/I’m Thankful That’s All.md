@@ -9,6 +9,7 @@ tempo: medium
 feel: []
 theme:
   - thanksgiving
+emotion: []
 function:
   - praise
   - worship

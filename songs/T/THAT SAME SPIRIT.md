@@ -12,6 +12,7 @@ feel:
 theme:
   - authority
   - holy-ghost
+emotion: []
 function:
   - praise
   - worship

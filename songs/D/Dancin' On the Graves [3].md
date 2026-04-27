@@ -8,6 +8,7 @@ meter: ''
 tempo: fast
 feel: []
 theme: []
+emotion: []
 function: []
 context: []
 style: []

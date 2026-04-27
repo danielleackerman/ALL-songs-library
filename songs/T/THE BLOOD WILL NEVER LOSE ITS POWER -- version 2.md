@@ -10,6 +10,7 @@ feel: []
 theme:
   - blood
   - power
+emotion: []
 function: []
 context: []
 style: []

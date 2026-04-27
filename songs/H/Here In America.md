@@ -10,6 +10,7 @@ feel: []
 theme:
   - israel
   - king
+emotion: []
 function: []
 context: []
 style: []

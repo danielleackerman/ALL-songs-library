@@ -12,6 +12,7 @@ feel:
 theme:
   - love
   - jesus
+emotion: []
 function:
   - worship
 context: []

@@ -10,6 +10,7 @@ feel:
   - energetic
 theme:
   - heaven
+emotion: []
 function:
   - worship
 context: []

@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - triumph
+emotion: []
 function: []
 context: []
 style: []

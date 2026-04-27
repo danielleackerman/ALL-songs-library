@@ -12,6 +12,7 @@ feel:
 theme:
   - blood
   - crucifixion
+emotion: []
 function:
   - praise
   - worship

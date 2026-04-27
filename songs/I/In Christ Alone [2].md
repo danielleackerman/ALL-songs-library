@@ -10,6 +10,7 @@ feel: []
 theme:
   - christ
   - cross
+emotion: []
 function: []
 context: []
 style: []

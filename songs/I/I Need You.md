@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - shelter
+emotion: []
 function: []
 context: []
 style: []

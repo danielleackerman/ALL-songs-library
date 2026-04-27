@@ -10,6 +10,7 @@ feel:
   - energetic
 theme:
   - cross
+emotion: []
 function: []
 context: []
 style: []

@@ -9,6 +9,7 @@ tempo: slow
 feel: []
 theme:
   - cross
+emotion: []
 function:
   - worship
 context:

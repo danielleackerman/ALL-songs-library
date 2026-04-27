@@ -10,6 +10,7 @@ feel: []
 theme:
   - presence
   - dance
+emotion: []
 function:
   - praise
   - worship

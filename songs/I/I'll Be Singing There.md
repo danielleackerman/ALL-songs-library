@@ -10,6 +10,7 @@ feel: []
 theme:
   - eternal-life
   - glory
+emotion: []
 function: []
 context: []
 style: []

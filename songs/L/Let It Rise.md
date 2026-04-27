@@ -10,6 +10,7 @@ feel: []
 theme:
   - glory
   - king
+emotion: []
 function: []
 context: []
 style: []

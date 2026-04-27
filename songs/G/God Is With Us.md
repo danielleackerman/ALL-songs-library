@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - savior
+emotion: []
 function: []
 context: []
 style: []

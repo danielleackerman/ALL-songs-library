@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - revival
+emotion: []
 function: []
 context: []
 style: []

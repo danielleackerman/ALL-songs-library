@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - giving
+emotion: []
 function: []
 context: []
 style: []

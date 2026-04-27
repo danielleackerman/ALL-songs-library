@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - children
+emotion: []
 function: []
 context: []
 style: []

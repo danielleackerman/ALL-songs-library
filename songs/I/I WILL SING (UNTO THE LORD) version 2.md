@@ -9,6 +9,7 @@ tempo: medium-fast
 feel: []
 theme:
   - the-name
+emotion: []
 function: []
 context: []
 style: []

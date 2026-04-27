@@ -10,6 +10,7 @@ feel:
   - reverential
 theme:
   - life
+emotion: []
 function:
   - worship
 context: []

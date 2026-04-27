@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - help
+emotion: []
 function:
   - praise
 context: []

@@ -10,6 +10,7 @@ feel: []
 theme:
   - blood
   - thanksgiving
+emotion: []
 function: []
 context: []
 style: []

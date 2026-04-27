@@ -10,6 +10,7 @@ feel: []
 theme:
   - life
   - holy-ghost
+emotion: []
 function: []
 context: []
 style: []

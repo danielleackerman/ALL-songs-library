@@ -10,6 +10,7 @@ feel:
   - anthemic
 theme:
   - presence
+emotion: []
 function: []
 context: []
 style: []

@@ -11,6 +11,7 @@ feel:
 theme:
   - joy
   - glory
+emotion: []
 function:
   - praise
   - worship

@@ -10,6 +10,7 @@ feel: []
 theme:
   - calling
   - salvation
+emotion: []
 function: []
 context: []
 style: []

@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - savior
+emotion: []
 function: []
 context: []
 style: []

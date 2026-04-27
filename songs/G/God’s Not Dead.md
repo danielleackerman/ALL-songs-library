@@ -10,6 +10,7 @@ feel: []
 theme:
   - life
   - service
+emotion: []
 function:
   - praise
 context: []

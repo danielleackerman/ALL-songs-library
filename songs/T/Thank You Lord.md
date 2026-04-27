@@ -11,6 +11,7 @@ feel:
   - reverential
 theme:
   - thanksgiving
+emotion: []
 function:
   - worship
   - praise

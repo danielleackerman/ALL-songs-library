@@ -9,6 +9,7 @@ tempo: medium
 feel: []
 theme:
   - children
+emotion: []
 function:
   - praise
   - worship

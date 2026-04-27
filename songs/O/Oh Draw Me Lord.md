@@ -9,6 +9,7 @@ tempo: medium-slow
 feel:
   - reverential
 theme: []
+emotion: []
 function:
   - worship
 context:

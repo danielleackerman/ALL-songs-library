@@ -9,6 +9,7 @@ tempo: medium-slow
 feel: []
 theme:
   - love
+emotion: []
 function: []
 context: []
 style: []

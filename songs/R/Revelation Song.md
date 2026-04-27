@@ -10,6 +10,7 @@ feel:
   - reverential
 theme:
   - king
+emotion: []
 function:
   - worship
   - praise

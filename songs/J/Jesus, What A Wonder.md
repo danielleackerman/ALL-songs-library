@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - wonder
+emotion: []
 function: []
 context: []
 style: []

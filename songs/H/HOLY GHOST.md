@@ -9,6 +9,7 @@ tempo: fast
 feel: []
 theme:
   - holy-ghost
+emotion: []
 function: []
 context: []
 style: []

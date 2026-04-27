@@ -11,6 +11,7 @@ feel:
 theme:
   - presence
   - joy
+emotion: []
 function:
   - worship
 context: []

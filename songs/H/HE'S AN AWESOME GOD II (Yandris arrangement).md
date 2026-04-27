@@ -10,6 +10,7 @@ feel: []
 theme:
   - angels
   - awesome
+emotion: []
 function: []
 context: []
 style: []

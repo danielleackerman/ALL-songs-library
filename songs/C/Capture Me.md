@@ -10,6 +10,7 @@ feel: []
 theme:
   - beauty
   - life
+emotion: []
 function: []
 context: []
 style: []

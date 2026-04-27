@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - rock
+emotion: []
 function: []
 context: []
 style: []

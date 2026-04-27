@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - cross
+emotion: []
 function:
   - praise
   - worship

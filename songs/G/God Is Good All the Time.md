@@ -9,6 +9,7 @@ tempo: medium
 feel:
   - energetic
 theme: []
+emotion: []
 function:
   - praise
   - worship

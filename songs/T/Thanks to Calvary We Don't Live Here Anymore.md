@@ -10,6 +10,7 @@ feel: []
 theme:
   - calvary
   - thanksgiving
+emotion: []
 function: []
 context: []
 style: []

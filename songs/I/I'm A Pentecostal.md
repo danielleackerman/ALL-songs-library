@@ -10,6 +10,7 @@ feel: []
 theme:
   - pentecost
   - one-god
+emotion: []
 function: []
 context: []
 style: []

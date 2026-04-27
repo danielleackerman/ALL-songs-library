@@ -9,6 +9,7 @@ tempo: medium
 feel: []
 theme:
   - shield
+emotion: []
 function: []
 context: []
 style:

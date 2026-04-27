@@ -9,6 +9,7 @@ tempo: medium
 feel: []
 theme:
   - calvary
+emotion: []
 function:
   - praise
   - worship

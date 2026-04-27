@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - longing
+emotion: []
 function: []
 context: []
 style: []

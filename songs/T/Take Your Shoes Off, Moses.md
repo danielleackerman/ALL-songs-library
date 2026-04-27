@@ -10,6 +10,7 @@ feel: []
 theme:
   - rock
   - salvation
+emotion: []
 function: []
 context: []
 style: []

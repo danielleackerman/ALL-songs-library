@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - almighty
+emotion: []
 function: []
 context: []
 style: []

@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - blood
+emotion: []
 function: []
 context: []
 style: []

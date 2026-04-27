@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - hunger
+emotion: []
 function: []
 context: []
 style: []

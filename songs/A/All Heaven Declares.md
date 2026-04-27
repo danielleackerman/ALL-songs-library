@@ -10,6 +10,7 @@ feel: []
 theme:
   - heaven
   - beauty
+emotion: []
 function:
   - praise
   - worship

@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - river
+emotion: []
 function: []
 context: []
 style: []

@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - thanksgiving
+emotion: []
 function: []
 context:
   - offering

@@ -9,6 +9,7 @@ tempo: medium-fast
 feel: []
 theme:
   - dance
+emotion: []
 function:
   - praise
 context: []

@@ -12,6 +12,7 @@ feel:
 theme:
   - jesus
   - gratitude
+emotion: []
 function:
   - praise
   - worship

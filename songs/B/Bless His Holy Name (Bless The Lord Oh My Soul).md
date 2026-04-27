@@ -10,6 +10,7 @@ feel: []
 theme:
   - faithfulness
   - adoration
+emotion: []
 function:
   - praise
 context: []

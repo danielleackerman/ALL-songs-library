@@ -12,6 +12,7 @@ feel:
 theme:
   - life
   - trust
+emotion: []
 function:
   - praise
   - worship

@@ -10,6 +10,7 @@ feel:
   - reverential
 theme:
   - almighty
+emotion: []
 function:
   - praise
   - worship

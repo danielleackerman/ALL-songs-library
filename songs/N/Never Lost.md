@@ -15,6 +15,7 @@ theme:
   - trust
   - power
   - victory
+emotion: []
 function: []
 context: []
 style: []

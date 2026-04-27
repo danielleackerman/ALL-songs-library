@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - belief
+emotion: []
 function: []
 context: []
 style: []

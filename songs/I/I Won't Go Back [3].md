@@ -28,6 +28,7 @@ tempo: medium-slow
 feel:
   - energetic
 theme: []
+emotion: []
 function:
   - worship
 context: []

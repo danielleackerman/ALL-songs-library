@@ -10,6 +10,7 @@ feel: []
 theme:
   - refuge
   - strength
+emotion: []
 function: []
 context: []
 style: []

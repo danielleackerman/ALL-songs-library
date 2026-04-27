@@ -10,6 +10,7 @@ feel: []
 theme:
   - cross
   - glory
+emotion: []
 function: []
 context: []
 style: []

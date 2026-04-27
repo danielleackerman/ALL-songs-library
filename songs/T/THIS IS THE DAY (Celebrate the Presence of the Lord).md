@@ -10,6 +10,7 @@ feel: []
 theme:
   - presence
   - rejoicing
+emotion: []
 function: []
 context: []
 style: []

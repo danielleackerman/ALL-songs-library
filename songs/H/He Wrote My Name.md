@@ -11,6 +11,7 @@ feel:
 theme:
   - savior
   - sin
+emotion: []
 function:
   - praise
   - worship

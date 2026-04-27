@@ -10,6 +10,7 @@ feel: []
 theme:
   - prayer
   - presence
+emotion: []
 function: []
 context: []
 style: []

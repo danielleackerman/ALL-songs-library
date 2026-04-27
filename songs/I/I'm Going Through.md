@@ -9,6 +9,7 @@ tempo: medium
 feel:
   - reverential
 theme: []
+emotion: []
 function:
   - praise
   - worship

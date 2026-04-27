@@ -10,6 +10,7 @@ feel: []
 theme:
   - love
   - giving
+emotion: []
 function:
   - worship
 context: []

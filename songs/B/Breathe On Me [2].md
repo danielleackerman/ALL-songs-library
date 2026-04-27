@@ -10,6 +10,7 @@ feel:
   - energetic
 theme:
   - holy-ghost
+emotion: []
 function:
   - praise
   - worship

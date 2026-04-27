@@ -11,6 +11,7 @@ theme:
   - jesus
   - adoration
   - the-name
+emotion: []
 function:
   - worship
 context: []

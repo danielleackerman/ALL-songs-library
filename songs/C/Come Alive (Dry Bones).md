@@ -10,6 +10,7 @@ feel: []
 theme:
   - life
   - army
+emotion: []
 function: []
 context: []
 style: []

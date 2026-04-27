@@ -11,6 +11,7 @@ feel:
 theme:
   - love
   - thanksgiving
+emotion: []
 function:
   - worship
 context: []

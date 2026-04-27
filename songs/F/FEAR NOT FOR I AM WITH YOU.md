@@ -8,6 +8,7 @@ meter: ''
 tempo: medium-fast
 feel: []
 theme: []
+emotion: []
 function:
   - praise
 context: []

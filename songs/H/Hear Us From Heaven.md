@@ -11,6 +11,7 @@ feel:
 theme:
   - desperation
   - heaven
+emotion: []
 function:
   - worship
 context: []

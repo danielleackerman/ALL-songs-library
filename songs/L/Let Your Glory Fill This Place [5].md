@@ -11,6 +11,7 @@ feel:
   - reverential
 theme:
   - glory
+emotion: []
 function:
   - worship
 context: []

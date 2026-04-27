@@ -11,6 +11,7 @@ feel:
 theme:
   - peace
   - victory
+emotion: []
 function:
   - worship
 context: []

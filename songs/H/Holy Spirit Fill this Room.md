@@ -11,6 +11,7 @@ feel:
 theme:
   - presence
   - holy-spirit
+emotion: []
 function:
   - worship
 context: []

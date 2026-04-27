@@ -11,6 +11,7 @@ feel:
 theme:
   - army
   - power
+emotion: []
 function:
   - worship
 context: []

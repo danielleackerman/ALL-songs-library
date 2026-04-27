@@ -12,6 +12,7 @@ feel:
 theme:
   - jesus
   - rock
+emotion: []
 function:
   - praise
   - worship

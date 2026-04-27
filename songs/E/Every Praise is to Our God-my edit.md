@@ -10,6 +10,7 @@ feel:
   - energetic
 theme:
   - glory
+emotion: []
 function:
   - worship
   - praise

@@ -9,6 +9,7 @@ tempo: fast
 feel: []
 theme:
   - blood
+emotion: []
 function: []
 context:
   - altar

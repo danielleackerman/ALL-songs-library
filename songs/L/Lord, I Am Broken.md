@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - calling
+emotion: []
 function: []
 context: []
 style: []

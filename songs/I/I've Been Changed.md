@@ -11,6 +11,7 @@ feel:
 theme:
   - conversion
   - baptism
+emotion: []
 function:
   - praise
   - worship

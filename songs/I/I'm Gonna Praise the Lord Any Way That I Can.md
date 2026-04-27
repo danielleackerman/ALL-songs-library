@@ -9,6 +9,7 @@ tempo: fast
 feel: []
 theme:
   - rejoicing
+emotion: []
 function:
   - praise
 context: []

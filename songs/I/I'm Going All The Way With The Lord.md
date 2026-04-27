@@ -10,6 +10,7 @@ feel: []
 theme:
   - commitment
   - declaration
+emotion: []
 function: []
 context: []
 style: []

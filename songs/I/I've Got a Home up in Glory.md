@@ -10,6 +10,7 @@ feel: []
 theme:
   - glory
   - heaven-home
+emotion: []
 function: []
 context: []
 style: []

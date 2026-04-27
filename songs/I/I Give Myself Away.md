@@ -14,6 +14,7 @@ theme:
   - faith
   - salvation
   - surrender
+emotion: []
 function:
   - worship
 context: []

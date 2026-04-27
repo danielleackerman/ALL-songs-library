@@ -10,6 +10,7 @@ feel: []
 theme:
   - angels
   - friendship
+emotion: []
 function:
   - praise
 context: []

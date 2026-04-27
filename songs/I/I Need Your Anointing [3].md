@@ -12,6 +12,7 @@ theme:
   - desire
   - anointing
   - blessing
+emotion: []
 function:
   - praise
   - worship

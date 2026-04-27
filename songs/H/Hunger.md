@@ -11,6 +11,7 @@ feel:
 theme:
   - hunger
   - immersion
+emotion: []
 function:
   - praise
   - worship

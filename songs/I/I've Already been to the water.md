@@ -10,6 +10,7 @@ feel:
   - high-energy
   - shouting
 theme: []
+emotion: []
 function:
   - praise
   - worship

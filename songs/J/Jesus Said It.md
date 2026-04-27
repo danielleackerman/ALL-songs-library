@@ -11,6 +11,7 @@ feel:
 theme:
   - jesus
   - belief
+emotion: []
 function:
   - praise
   - worship

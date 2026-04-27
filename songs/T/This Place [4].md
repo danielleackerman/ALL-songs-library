@@ -10,6 +10,7 @@ feel: []
 theme:
   - blood
   - dance
+emotion: []
 function: []
 context: []
 style: []

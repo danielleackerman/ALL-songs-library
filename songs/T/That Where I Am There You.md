@@ -10,6 +10,7 @@ feel: []
 theme:
   - father
   - truth
+emotion: []
 function: []
 context: []
 style: []

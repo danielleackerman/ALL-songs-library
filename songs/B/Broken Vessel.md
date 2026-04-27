@@ -12,6 +12,7 @@ theme:
   - vessel
   - renewal
   - redemption
+emotion: []
 function:
   - worship
 context: []

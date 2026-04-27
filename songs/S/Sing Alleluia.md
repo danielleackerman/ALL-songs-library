@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - alleluia
+emotion: []
 function:
   - praise
 context: []

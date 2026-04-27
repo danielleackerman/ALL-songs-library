@@ -10,6 +10,7 @@ feel: []
 theme:
   - life
   - truth
+emotion: []
 function: []
 context: []
 style: []

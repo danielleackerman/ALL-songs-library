@@ -10,6 +10,7 @@ feel:
   - energetic
 theme:
   - heaven-home
+emotion: []
 function:
   - praise
   - worship

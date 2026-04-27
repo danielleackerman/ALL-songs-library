@@ -9,6 +9,7 @@ tempo: medium-slow
 feel: []
 theme:
   - heaven
+emotion: []
 function: []
 context: []
 style: []

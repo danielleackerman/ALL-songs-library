@@ -10,6 +10,7 @@ feel:
   - cheeky
   - novelty
 theme: []
+emotion: []
 function: []
 context: []
 style:

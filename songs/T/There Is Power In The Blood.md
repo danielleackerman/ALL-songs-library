@@ -11,6 +11,7 @@ feel:
 theme:
   - blood
   - power
+emotion: []
 function:
   - praise
   - worship

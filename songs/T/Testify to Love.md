@@ -9,6 +9,7 @@ tempo: medium
 feel: []
 theme:
   - love
+emotion: []
 function: []
 context: []
 style: []

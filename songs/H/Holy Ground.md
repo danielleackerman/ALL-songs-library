@@ -12,6 +12,7 @@ feel:
 theme:
   - jesus
   - holiness
+emotion: []
 function:
   - worship
   - praise

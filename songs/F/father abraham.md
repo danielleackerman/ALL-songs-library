@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - father
+emotion: []
 function: []
 context: []
 style: []

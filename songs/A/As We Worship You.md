@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - adoration
+emotion: []
 function: []
 context: []
 style: []

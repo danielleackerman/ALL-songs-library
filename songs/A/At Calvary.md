@@ -10,6 +10,7 @@ feel:
   - energetic
 theme:
   - calvary
+emotion: []
 function:
   - praise
   - worship

@@ -11,6 +11,7 @@ theme:
   - greatness
   - adoration
   - faithfulness
+emotion: []
 function:
   - praise
 context: []

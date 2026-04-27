@@ -10,6 +10,7 @@ feel: []
 theme:
   - holy-ghost
   - power
+emotion: []
 function:
   - worship
 context:

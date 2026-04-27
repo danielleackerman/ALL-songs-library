@@ -12,6 +12,7 @@ theme:
   - strength
   - comfort
   - petition
+emotion: []
 function:
   - worship
 context: []

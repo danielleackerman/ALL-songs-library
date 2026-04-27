@@ -10,6 +10,7 @@ feel: []
 theme:
   - cross
   - thanksgiving
+emotion: []
 function: []
 context: []
 style: []

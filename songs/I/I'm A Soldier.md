@@ -11,6 +11,7 @@ feel:
 theme:
   - service
   - warfare
+emotion: []
 function:
   - praise
   - worship

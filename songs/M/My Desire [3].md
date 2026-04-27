@@ -10,6 +10,7 @@ feel: []
 theme:
   - faith
   - desire
+emotion: []
 function:
   - worship
 context: []

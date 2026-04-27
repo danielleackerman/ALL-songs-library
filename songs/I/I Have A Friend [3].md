@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - friendship
+emotion: []
 function: []
 context: []
 style: []

@@ -8,6 +8,7 @@ meter: ''
 tempo: medium
 feel: []
 theme: []
+emotion: []
 function: []
 context:
   - altar

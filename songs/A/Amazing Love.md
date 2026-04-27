@@ -10,6 +10,7 @@ feel: []
 theme:
   - love
   - honor
+emotion: []
 function:
   - praise
   - worship

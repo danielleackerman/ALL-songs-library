@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - army
+emotion: []
 function: []
 context: []
 style: []

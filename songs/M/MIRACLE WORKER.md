@@ -10,6 +10,7 @@ feel: []
 theme:
   - belief
   - miracles
+emotion: []
 function: []
 context: []
 style: []

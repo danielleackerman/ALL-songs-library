@@ -12,6 +12,7 @@ feel:
 theme:
   - bible
   - holy-ghost
+emotion: []
 function:
   - praise
   - worship

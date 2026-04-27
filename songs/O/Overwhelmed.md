@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - mercy
+emotion: []
 function: []
 context: []
 style: []

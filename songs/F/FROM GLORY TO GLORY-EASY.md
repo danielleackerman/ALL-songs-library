@@ -9,6 +9,7 @@ tempo: medium-fast
 feel: []
 theme:
   - glory
+emotion: []
 function: []
 context: []
 style: []

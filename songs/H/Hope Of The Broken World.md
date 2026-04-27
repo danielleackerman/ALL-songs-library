@@ -10,6 +10,7 @@ feel: []
 theme:
   - hope
   - light
+emotion: []
 function: []
 context: []
 style: []

@@ -13,6 +13,7 @@ theme:
   - glory
   - holy-spirit
   - power
+emotion: []
 function:
   - worship
 context: []

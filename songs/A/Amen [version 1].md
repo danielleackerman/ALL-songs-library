@@ -12,6 +12,7 @@ feel: []
 theme:
   - blessing
   - glory
+emotion: []
 function: []
 context: []
 style: []

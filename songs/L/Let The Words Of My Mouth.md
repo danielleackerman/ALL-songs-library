@@ -10,6 +10,7 @@ feel: []
 theme:
   - redeemer
   - strength
+emotion: []
 function: []
 context: []
 style: []

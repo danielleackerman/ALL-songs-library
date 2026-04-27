@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - angels
+emotion: []
 function: []
 context: []
 style: []

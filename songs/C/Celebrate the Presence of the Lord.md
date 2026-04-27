@@ -12,6 +12,7 @@ feel:
 theme:
   - presence
   - rejoicing
+emotion: []
 function:
   - praise
   - worship

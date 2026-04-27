@@ -12,6 +12,7 @@ feel:
   - upbeat
 theme:
   - christ
+emotion: []
 function: []
 context: []
 style: []

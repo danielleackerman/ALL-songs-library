@@ -11,6 +11,7 @@ theme:
   - jesus
   - dance
   - urban-gospel
+emotion: []
 function:
   - worship
 context: []

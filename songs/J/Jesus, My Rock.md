@@ -10,6 +10,7 @@ feel: []
 theme:
   - jesus
   - rock
+emotion: []
 function: []
 context: []
 style: []

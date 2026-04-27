@@ -9,6 +9,7 @@ tempo: ''
 feel: []
 theme:
   - dreams
+emotion: []
 function: []
 context: []
 style: []

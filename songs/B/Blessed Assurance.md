@@ -10,6 +10,7 @@ feel: []
 theme:
   - assurance
   - savior
+emotion: []
 function:
   - worship
 context:

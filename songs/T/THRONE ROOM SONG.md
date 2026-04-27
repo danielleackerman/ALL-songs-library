@@ -11,6 +11,7 @@ feel:
 theme:
   - jesus
   - almighty
+emotion: []
 function:
   - worship
 context: []
